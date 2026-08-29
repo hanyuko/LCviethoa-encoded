@@ -1,0 +1,149 @@
+{
+  "dataList": [
+    {
+      "id": "BearClawWound",
+      "name": "Sắc Thái Man Rợ [Rouge]",
+      "desc": "     \n        <sprite name=\"Laceration\"><color=#e30000> </color>        \n     <sprite name=\"DefenseDown\"><color=#e20000>   </color>       \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Người ta đồn thổi rằng màu vẽ của Ngón Nhẫn được chế ra với cùng thứ nguyên liệu đã tạo nên Hình Xăm Cường Hóa—một khi đã dính vào da thịt thì gần như không thể nào tẩy xóa được, huống hồ chi là phai mờ.'"
+    },
+    {
+      "id": "EagleClawWound",
+      "name": "Sắc Thái Man Rợ [Bleu]",
+      "desc": "     \n        <sprite name=\"Sinking\"><color=#e30000> </color>        \n         \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Nếu Ngón Giữa dùng hình xăm để tự cường hóa bản thân, vậy thì hình xăm của Ngón Nhẫn khi gây lên kẻ địch sẽ khiến chúng suy yếu ư?'"
+    },
+    {
+      "id": "BoldBrushstrokes",
+      "name": "Touche Hardie",
+      "desc": "                      <sprite name=\"Laceration\"><color=#e30000> </color>  <sprite name=\"Sinking\"><color=#e30000> </color>\n     \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Vuốt sói, vuốt linh miêu... vả cả vuốt rùa nữa, tuy thật nhỏ bé nhưng lại được sắp xếp vô cùng tinh xảo... Thật táo bạo.\""
+    },
+    {
+      "id": "IntenseColors",
+      "name": "Palette Vibrante",
+      "desc": "              \n·                       \n      <sprite name=\"Laceration\"><color=#e30000> </color> <sprite name=\"Sinking\"><color=#e30000> </color>  <sprite name=\"Laceration\"><color=#e30000> </color>   <sprite name=\"Sinking\"><color=#e30000> </color>\n              <sprite name=\"BearClawWound\"><color=#e30000>    [Rouge]</color>  <sprite name=\"EagleClawWound\"><color=#e30000>    [Bleu]</color>      \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "FaubismWolfMask",
+      "name": "Le Fauvisme - Masque de Loup",
+      "desc": "        \n     <sprite name=\"Laceration\"><color=#e30000> </color>  <sprite name=\"Sinking\"><color=#e30000> </color>   \n          <sprite name=\"Sinking\"><color=#e30000> </color>    <sprite name=\"Sinking\"><color=#e30000> </color>       \n           <sprite name=\"Laceration\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>       ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Đôi khi sẽ có kẻ thắc mắc rằng: Thứ gì tách biệt Trường Phái Dã Thú khỏi Đàn Hắc Thú, Đàn Tập Đoàn R, hoặc thậm chí là những danh tính độn lên mình bản chất của thú vật?\"\n\n\"Một câu hỏi rất hay: nếu như đám Hắc Thú điên cuồng nhồi nhét đặc tính thú vật vào bên trong cơ thể bất chấp tính thẩm mỹ trông không được tuyệt mỹ ra sao, thì bọn ta tách biệt hoàn toàn qua việc tôn lên tính vượt trội của sự hoang dại thú vật vào trong những phục trang mang đậm bản chất nghệ thuật.\""
+    },
+    {
+      "id": "FaubismWolfMaskBlooded",
+      "name": "Le Fauvisme - Masque de Loup Ensanglanté",
+      "desc": "          <sprite name=\"SuperCoin\"><color=#9f6a3a>  </color>\n        \n             \n·    <sprite name=\"Laceration\"><color=#e30000> </color>\n·    <sprite name=\"Sinking\"><color=#e30000> </color>\n          <sprite name=\"Sinking\"><color=#e30000> </color>    <sprite name=\"Sinking\"><color=#e30000> </color>       \n           <sprite name=\"Laceration\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>       ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Nếu chỉ khoác lên người chiếc mặt nạ thú vật sẽ chẳng thể nào thức tỉnh được bản tính hoang dại đang ngủ yên trong nội tâm được.\nPhần bên trong của chiếc mặt nạ thú là những cây kim chứa đầy màu vẽ của Trường Phái Dã Thú sẽ tiêm thẳng vào cơ thể khi vận lên người.\n\nThứ màu vẽ của Ngón Nhẫn sẽ chính là thứ mà tất cả nghệ sĩ Trường Phái Dã Thú buộc phải sử dụng."
+    },
+    {
+      "id": "PanicChangeLock",
+      "name": "Tâm Thần Ổn Định",
+      "desc": "                                           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "Fauvism_Lowmorale",
+      "name": "Cảm Hứng Phai Nhạt",
+      "desc": "  \n          <sprite name=\"BearClawWound\"><sprite name=\"EagleClawWound\"><color=#e20000>   </color>     \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Fauvism_Panic",
+      "name": "Cảm Hứng Phai Nhạt",
+      "desc": "  \n          <sprite name=\"BearClawWound\"><sprite name=\"EagleClawWound\"><color=#e20000>   </color>     \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FauvismDocent_Lowmorale",
+      "name": "Coloriage Impulsif",
+      "desc": "  \n                     \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FauvismDocent_Panic",
+      "name": "Coloriage Impulsif",
+      "desc": "  \n                     \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptEnemy_0",
+      "name": "Sắc Lệnh: [Mẩu Giấy] I",
+      "desc": "       \n\n     <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>     \n  <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>       <sprite name=\"IndexPrescript_Base\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptEnemy_1",
+      "name": "Sắc Lệnh: [Mẩu Giấy] II",
+      "desc": "          \n\n      <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>    \n  <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>       <sprite name=\"IndexPrescript_Base\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptEnemy_2",
+      "name": "Sắc Lệnh: [Mẩu Giấy] III",
+      "desc": "                     \n\n      <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>    \n  <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>       <sprite name=\"IndexPrescript_Base\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptEnemy_3",
+      "name": "Sắc Lệnh: [Mẩu Giấy] IV",
+      "desc": "              \n\n      <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "KarmaOfIndexEnemy",
+      "name": "Nghiệp Báo",
+      "desc": "  \n·   <sprite name=\"DefenseDown\"><color=#e20000>   </color>    \n·   <sprite name=\"Vulnerable\"><color=#e30000> </color>    \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Lãnh nhận và thực thi Sắc Lệnh. Việc chấp nhận chỉ thị này khắc sâu Nghiệp Chướng, thứ sẽ tích lũy qua năm tháng rồi theo quy luật nhân quả mà ứng nghiệm như đã định."
+    },
+    {
+      "id": "ResentmentSpiderDaughterTwo",
+      "name": "<s>Băng<space=8>Ngón<space=8>Giữa</s> - Tư Thù",
+      "desc": "     \n         \n                     \n          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ReinforcedTattooSpiderDaughterTwo",
+      "name": "Hình Xăm Cường Hóa <s>Kiểu<space=8>Băng<space=8>Ngón<space=8>Giữa</s>",
+      "desc": "     \n        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireOnSpiderTwo",
+      "name": "Song Đao Nhiệt BẬT",
+      "desc": "                 <sprite name=\"Combustion\"><color=#e30000> </color>      <sprite name=\"Laceration\"><color=#e30000> </color>            <sprite name=\"Combustion\"><color=#e30000> </color>       <sprite name=\"Laceration\"><color=#e30000> </color>   ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

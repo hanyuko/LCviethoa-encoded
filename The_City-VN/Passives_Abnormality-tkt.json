@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 827701,
+      "name": "Cấp Thời Gian",
+      "desc": "Có 1000 [LimitedTime] khi bắt đầu Ải"
+    },
+    {
+      "id": 827702,
+      "name": "Hồi Phục Gia Tốc",
+      "desc": "Cuối Lượt: Nếu một bộ phận bị phá, tiêu 100 Thời Gian từ Bộ Phận đó để hồi phục khỏi trạng thái Bộ Phận Bị Phá vào lượt kế."
+    },
+    {
+      "id": 827801,
+      "name": "Thời Gian Của Mọi Người",
+      "desc": "Ở mốc 75% HP, vào giai đoạn thứ 2. Khi đổi giai đoạn, hồi lên tối đa 30 SP, và chia đều [LimitedTime] cho tất cả các Bộ Phận dưới dạng [OwnTime]."
+    },
+    {
+      "id": 827802,
+      "name": "Tiêu Xài Công Bằng",
+      "desc": "Cuối Lượt: nhận [EquitableDistribution]."
+    },
+    {
+      "id": 827803,
+      "name": "Dành Cho Cộng Đồng Thời Gian",
+      "desc": "Đầu Lượt: Tất cả các Bộ Phận nhận 5 [Protection]."
+    },
+    {
+      "id": 827804,
+      "name": "Lấy Của Bọn Kia Trước Đi!",
+      "desc": "Ở mốc 60%- HP, chuyển [EquitableDistribution] thành [UnfairDistribution]."
+    }
+  ]
+}

@@ -1,0 +1,1024 @@
+{
+  "dataList": [
+    {
+      "id": 500101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punching",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 3 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 3 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kicking",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 5 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 5 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Payback",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 5 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Watch Your Back!",
+          "desc": "Nếu SP của mục tiêu nhỏ hơn 0, Sức Mạnh Xu +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 10 SP cho bản thân"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] và 2 [Reduction] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Assemble",
+          "desc": "[StartBattle] Triệu hồi 2 đồng minh vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Make this Memorable",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "MY HAIR COUPOOOOOOOOOOONS!!!",
+          "desc": "[DefeatDuel] -30% tổng sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 30"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm 5 [RicardoBookRaid] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Promised Suffering",
+          "desc": "Ưu tiên mục tiêu có nhiều Lớp [RicardoBookRaid] nhất\n[WhenUse] Nếu mục tiêu có <color=#ff6000><mark=#ff000040><b><u>3+ [RicardoBookRaid],</u></b></mark></color> chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] lượt này và lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] lượt này và lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm ([RicardoBookRaid] trên mục tiêu x 3) sát thương Đập"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm 3 [RicardoBookRaid] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enough Games",
+          "desc": "[StartBattle] Hồi 20 SP\n[EndBattle] Nhận 5 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "COMPLETE AND TOTAL EXTERMINATION!!!",
+          "desc": "[DefeatDuel] -30% tổng sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây sát thương bằng 3% HP tối đa của mục tiêu với mỗi [RicardoBookRaid] trên mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm 10 [RicardoBookRaid] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ah, You Were One of the Fam",
+          "desc": "[StartBattle] Toàn bộ đơn vị thuộc phe The Middle hồi 10 SP",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "TRICKED ME, DID YOU??!!",
+          "desc": "[StartBattle] Mất 20 SP\n[StartBattle] Nhận 6 [AttackUp]\n[StartBattle] Nhận 4 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500113,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swear Vengeance",
+          "desc": "[EndBattle] Nhận 3 [AttackUp] vào lượt kế\n- Nếu Ô Kỹ Năng đang dùng Kỹ Năng này <color=#ff6000><mark=#ff000040><b><u>là mục tiêu chính của một Kỹ Năng Tấn Công</u></b></mark></color>, nhận ít hơn 1 Lớp [AttackUp] từ hiệu ứng này",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500114,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "IMMEDIATE, COMPLETE, AND TOTAL EXTERMINATION!",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương bằng 1% HP tối đa của mục tiêu với mỗi [RicardoBookRaid] trên mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương bằng 1% HP tối đa của mục tiêu với mỗi [RicardoBookRaid] trên mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương bằng 1% HP tối đa của mục tiêu với mỗi [RicardoBookRaid] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500115,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No More Tests",
+          "desc": "[WhenUse] Nhận 3 [HitDamageUp] vào lượt kế\n[WhenUse] Nếu mục tiêu chính có <color=#ff6000><mark=#ff000040><b><u>5+ [RicardoBookRaid]</u></b></mark></color>, chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500116,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mercy of the Big Brother",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Giảm 10 [RicardoBookRaid] trên mục tiêu</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Choáng mục tiêu</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Seize ya Chance",
+          "desc": "[BeforeHit] Nhận 5 Khiên với mỗi [MiddleFingerBook] trên mục tiêu (một lần mỗi lượt; tối đa 50)\n[WhenUse] Nếu mục tiêu có 5+ [MiddleFingerBook], Sức Mạnh Gốc +3; gây 4 [DefenseDown]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tích Lũy Báo Thù",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bearspine Breaker",
+          "desc": "[WhenUse] Khi có 8+ [Breath], +40% sát thương gây ra khi Trí Mạng\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Khi có 7+ [ChoiSwordsmanship], chuyển toàn bộ Xu thành [SuperCoin] và +100% sát thương gây ra khi Trí Mạng</color></mark></b></u>\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không gây đòn Trí Mạng\n- Kỹ Năng này không Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashResistDown] lượt này và lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tigersplitter",
+          "desc": "[WhenUse] Khi có 8+ [Breath], +40% sát thương gây ra khi Trí Mạng\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Khi có từ 3 hoặc ít hơn [ChoiSwordsmanship], chuyển toàn bộ Xu thành [SuperCoin] và +100% sát thương gây ra khi Trí Mạng</color></mark></b></u>\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không gây đòn Trí Mạng\n- Kỹ Năng này không Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] next turn"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashResistDown] lượt này và lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501209,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sword of the Homeland [Sal] - Reassume Stance",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\nNếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, chuyển thành [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Mất 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Nếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, hiệu ứng này không kích hoạt\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Khi Trúng Đòn dưới dạng Đòn Một Chiều, hoặc Khi Trúng Đòn mục tiêu đã dùng [SupportProtect], nhận 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501210,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sword of the Homeland [Sal] - Swordhoning",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\nNếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, chuyển thành [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Nhận 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Nếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, hiệu ứng này không kích hoạt\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Khi Trúng Đòn dưới dạng Đòn Một Chiều, hoặc Khi Trúng Đòn mục tiêu đã dùng [SupportProtect], mất 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bearspine Breaker",
+          "desc": "[WhenUse] Khi có 8+ [Breath], +40% sát thương gây ra khi Trí Mạng\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Khi có hơn 6 [ChoiSwordsmanship], nhận Sức Mạnh Cuôi với mỗi Lớp [ChoiSwordsmanship] (tối đa 3)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Khi có 7+ [ChoiSwordsmanship], chuyển toàn bộ Xu thành [SuperCoin] và +100% sát thương gây ra khi Trí Mạng</color></mark></b></u>\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không gây đòn Trí Mạng\n- Kỹ Năng này không Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashResistDown] lượt này và lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Even Sanguns Shall Be Cleft Under This Sword",
+          "desc": "Nhắm vào kẻ địch có nhiều [Laceration] nhất\n[WhenUse] Không thể bị Choáng do nhận sát thương cho đến khi Kỹ Năng này kết thúc\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 3)\n[WhenUse] Khi có hơn 6 [ChoiSwordsmanship], nhận Sức Mạnh Tổng +2 với mỗi Lớp [ChoiSwordsmanship] (tối đa 6)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Kỹ năng này luôn ra Xu Ngửa, gây Trí Mạng, và không giảm Tầng [Breath]</color></mark></b></u>\n[BeforeAttack] +30% sát thương gây ra khi Trí Mạng với mỗi 2 [ChoiSwordsmanship] trên chủ thể (tối đa 120%)\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không gây đòn Trí Mạng\n- Kỹ Năng này không Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây sát thương Chém bằng (([Breath] trên chủ thể x 10)% tổng sát thương của Xu này) (tối đa 100%)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây Dục Vọng bằng (([Laceration] trên mục tiêu x 10)% tổng sát thương của Xu này) (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu một lần. Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tigersplitter",
+          "desc": "[WhenUse] Khi có 8+ [Breath], +40% sát thương gây ra khi Trí Mạng\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Khi có từ 3 hoặc ít hơn [ChoiSwordsmanship], chuyển toàn bộ Xu thành [SuperCoin] và +100% sát thương gây ra khi Trí Mạng</color></mark></b></u>\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không gây đòn Trí Mạng\n- Kỹ Năng này không Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] next turn"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashResistDown] lượt này và lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No Tiger's Flesh Shall Be Left Uncloven",
+          "desc": "Nhắm vào kẻ địch có nhiều [Laceration] nhất\n<color=#ff6000><mark color=#ff000040><b><u>Có thể Giao Tranh với Kỹ năng này bất kể Tốc Độ</color></mark></b></u>\n[WhenUse] Không thể bị Choáng do nhận sát thương cho đến khi Kỹ Năng này kết thúc\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 3)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Kỹ năng này luôn ra Xu Ngửa, gây Trí Mạng, và không giảm Tầng [Breath]</color></mark></b></u>\n[BeforeAttack] +30% sát thương gây ra khi Trí Mạng với mỗi 2 [Breath] trên chủ thể (tối đa 120%)\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không gây đòn Trí Mạng\n- Kỹ Năng này không Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu một lần. Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu một lần. Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu một lần. Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu chính có 10+ [Laceration], gây +8 Tầng [Laceration] lên mục tiêu"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +8 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sword of the Homeland [Sal] - Reassume Stance",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\nNếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, chuyển thành [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Mất 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Nếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, hiệu ứng này không kích hoạt\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Khi Trúng Đòn dưới dạng Đòn Một Chiều, hoặc Khi Trúng Đòn mục tiêu đã dùng [SupportProtect], nhận 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501310,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sword of the Homeland [Sal] - Swordhoning",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\nNếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, chuyển thành [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Nhận 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Nếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, hiệu ứng này không kích hoạt\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Khi Trúng Đòn dưới dạng Đòn Một Chiều, hoặc Khi Trúng Đòn mục tiêu đã dùng [SupportProtect], mất 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhị Liên Trảm",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration]) rên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Liên Kích",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration] và +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhị Liên Trảm - Bộc [爆]",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 4)\n[DefeatDuel] Mất 1 [BulletPropellant]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion] và +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Liên Kích - Bộc [爆]",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 4)\n[DefeatDuel] Mất 1 [BulletPropellant]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion] và +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration] và +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion] và +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bạo Toái Trảm [爆碎斬]",
+          "desc": "Ưu tiên [Prey_leiheng]\n<color=#ff6000><mark=#ff000040><b><u>Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ</u></b></mark></color>\nSức Mạnh Xu +1 với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 3)\n[DefeatDuel] Mất 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 4 [Vibration] và +4 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Nếu chủ thể đã tiêu [BulletPropellant] từ hiệu ứng của Xu này, +50% sát thương gây ra</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion] và +3 Tầng [Combustion]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khoái Đao Loạn Ma [快刀亂麻]",
+          "desc": "Ưu tiên [Prey_leiheng]\n<color=#ff6000><mark=#ff000040><b><u>Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ; chủ thể không thể bị Choáng trước khi dùng Kỹ Năng này</u></b></mark></color>\n[WhenUse] Tiêu thụ toàn bộ Lớp [BattleSense]. Nếu chủ thể đã tiêu thụ...\n- ... 10+ Lớp, nhận 1 Phạm Vi Tấn Công với mỗi 10 Lớp đã tiêu thụ (tối đa 2)\n- ... 25 Lớp, Sức Mạnh Tổng +1 với mỗi 4 (tổng [Combustion] và [Vibration] trên mục tiêu chính) (tối đa 5)\n[DefeatDuel] Nhận 1 [Paralysis]\n[DefeatDuel] -80% sát thương gây ra; sát thương của Kỹ Năng này không thể làm Choáng mục tiêu; <color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này chỉ gây một nửa Lượng, Tầng [Combustion] và [Vibration]</u></b></mark></color> (trừ khi được hiệu ứng khác nâng lên)\n[EndSkill] [FullReload] (một lần mỗi lượt)\n- Nếu mục tiêu có [BulletPropellantSpecial], thay vào đó sẽ [ReloadKeepAmmo] (một lần mỗi lượt)\n[EndSkill] Kết thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu toàn bộ [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion], Tầng [Combustion], [Vibration], và Tầng [Vibration] bằng [BulletPropellant] đã tiêu"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> Kích hoạt [VibrationExplosion] 3 lần; sau đó, giảm 3 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm [超絕猛虎殺擊亂斬]",
+          "desc": "Ưu tiên [Prey_leiheng]\n<color=#ff6000><mark=#ff000040><b><u>Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ; chủ thể không thể bị Choáng trước khi dùng Kỹ Năng này</u></b></mark></color>\n[WhenUse] Tiêu thụ toàn bộ Lớp [BattleSense]. Nếu chủ thể đã tiêu thụ...\n- ...10+ Lớp, nhận 1 Phạm Vi Tấn Công với mỗi 10 Lớp đã tiêu thụ (tối đa 4)\n- ...25 Lớp, Sức Mạnh Tổng +1 với mỗi 4 (tổng [Combustion] và [Vibration] trên mục tiêu chính) (tối đa 6)\n- ...50 Lớp, Sức Mạnh Xu +1 và +50% sát thương gây ra\n[DefeatDuel] Nhận 6 [Paralysis]\n[DefeatDuel] -80% sát thương gây ra; sát thương của Kỹ Năng này không thể làm Choáng mục tiêu; <color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này chỉ gây một nửa Lượng, Tầng [Combustion] và [Vibration]</u></b></mark></color> (trừ khi được hiệu ứng khác nâng lên)\n[EndSkill] [FullReload] (một lần mỗi lượt)\n- Nếu chủ thể có [BulletPropellantSpecial], thay vào đó sẽ [ReloadKeepAmmo] (một lần mỗi lượt)\n[EndSkill] Kết thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +6 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +6 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> Kích hoạt [VibrationExplosion] 5 lần; sau đó, giảm 5 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nạp Đạn Thiên Thoái Tinh Đao",
+          "desc": "[DuelCounter]\n[DefeatDuel] Mất 1 [BulletPropellant]\n[EndBattle] [FullReload] (một lần mỗi lượt)\n- Nếu chủ thể có [BulletPropellantSpecial], thay vào đó sẽ [ReloadKeepAmmo] (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 502001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cung Cấp Đạn Mãnh Hổ Ấn",
+          "desc": "[EndBattle] Cung cấp 6 [BulletPropellantSpecial] cho Lôi Hoành\n[EndBattle] [DisengageCombat]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

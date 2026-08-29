@@ -1,0 +1,186 @@
+{
+  "dataList": [
+    {
+      "id": 971100,
+      "name": "Ardor Blossom Moth Containment Breach",
+      "desc": "Có lẽ hệ thống an ninh của buồng quản thúc đã trở nên quá sơ sài.\n\nHồng Diễm Nga nhẹ nhàng lướt dọc hành lang, bỏ lại đám lửa tàn đỏ rực phía sau.\n\nKhông lâu sau đó, thông báo sổng buồng quản thúc vang vọng khắp cơ quan. Những nghiên cứu viên hối hả chạy xuống hành lang để trấn áp.\n\nCó nên bước ra giúp đội nghiên cứu trấn áp Dị Thể không? Hay cứ mặc kệ mà đi tiếp?",
+      "options": [
+        {
+          "message": "Bước ra và giúp đội nghiên cứu trấn áp.",
+          "messageDesc": "Kiểm định lợi thế Phẫn Nộ. Thành công sẽ nhận được Quà Tặng E.G.O Thiêu Đốt.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Để các nghiên cứu viên tiến hành trấn áp.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "Bọn họ được trang bị đồ E.G.O tận răng cơ mà. Trấn áp Dị Thể chắc không thành vấn đề với họ đâu.\n\nChúng ta nên nhanh chân đi tiếp."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971101,
+      "name": "Faelantern Containment Breach",
+      "desc": "Ánh sáng mờ ảo, lấp lóa màu xanh lam nhạt đang nhảy múa, lay động ở đâu đó nơi cuối hành lang.\n\nChúng tôi cảm nhận được cơn thôi thúc khó hiểu, muốn tiến lại gần tia sáng ấy.\n\nNhưng chỉ cần nhìn các nghiên cứu viên chạy về phía đó như thể dính bẫy lừa khó cưỡng, cũng đủ hiểu hiện tượng này là do một Dị Thể gây ra.\n\nCó nên ép đội nghiên cứu trở về trấn áp Dị Thể không? Hay cứ né bẫy mà đi tiếp?",
+      "options": [
+        {
+          "message": "Đứng ra hỗ trợ trấn áp.",
+          "messageDesc": "Kiểm định Lợi Thế Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Vỡ Vụn.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Né bẫy ra.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "Dị Thể biết dùng ánh sáng để lùa con mồi vào tròng... thì chỉ có Lồng Đèn Gốc Tiên thôi.\n\nChúng tôi chưa biết cụ thể nó đang trốn ở đâu, thành ra muốn đối đầu với nó thì chẳng khác gì đánh cược một ván hiểm nghèo.\n\nTốt nhất là né chỗ này ra, giữ sức chiến đấu.\n\n...Nhanh nào, đi tiếp thôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971102,
+      "name": "Shock Centipede",
+      "desc": "Thông qua lớp kính của buồng quản thúc, chúng tôi trông thấy Rết Sốc Điện.\n\n\"À, chúng tôi đang trong quá trình nghiên cứu cách mà Rết Sốc Điện trở nên hoàn toàn 'bất tử' trong một khoảng thời gian ngắn trước khi bị trấn áp.\"\n\n\"Mọi người thấy đấy, tài liệu nghiên cứu của chúng tôi tập trung vào khai phá nguồn năng lượng tiềm năng có thể sạc điện trang thiết bị hiệu quả.\"\n\n\"Tôi tin chắc mọi người cũng đều biết tên của món Quà Tặng E.G.O trích xuất từ Dị Thể này mà nhỉ?\"\n\n... Nó tên là gì ta?",
+      "options": [
+        {
+          "message": "Máy Khử Rung Tim Đã Bỏ Giới Hạn",
+          "messageDesc": "Chọn đáp án đúng để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "\"Chính xác! Ngoài việc tích trữ tụ điện vô cùng an toàn thì gần như không có thất thoát năng lượng gì luôn! Quả thực là một hiện tượng đáng lưu tâm...\"\n\nNgười nghiên cứu viên tiếp tục vui vẻ huyên thuyên trước khi rút thứ gì đó trong ngăn kéo ra.\n\n\"Chúng tôi vừa mới thêm vào một cơ chế mới để tinh chỉnh việc Trích Xuất—kết quả cho ra một Quà Tặng E.G.O khá dị thường.\"\n\n\"Có thể mọi người sẽ sẵn sàng thử nghiệm nó chăng? Chúng tôi cũng rất hoan nghênh nếu mọi người đánh giá hiệu quả sử dụng của nó nữa nhé...\""
+          ]
+        },
+        {
+          "message": "Ắc Quy Không Tiêu Chuẩn",
+          "messageDesc": "Chọn đáp án đúng để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "\".......\"\n\n\"Cứ tưởng mọi người sẽ nhớ chứ. Ý là mọi người cũng dùng nó khá thường xuyên rồi mà...\"\n\n\"Mấy người cần quan sát kỹ càng hơn nữa đấy.\"\n\nNgười nghiên cứu viến thở dài đầy thất vọng rồi rời đi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971103,
+      "name": "Post-choice Development",
+      "desc": "\"Let's see what it says... 'Entry Forbidden'...?\"\n\nWe'd just passed the wall inscribed with messy, frantic letters when another door came into view.\n\nThe door was riddled with dents, as though something massive had repeatedly slammed into it with brutal force.\n\n\"At this point... think we could just force it open?\"\n\n\"Nay, the current yet courses through it. It would be more prudent to open it by the rightful means and keep from inviting the consequences of crude handling.\"\n\nA card reader panel is attached beside the battered door.\n\nWhat should we do?",
+      "options": [
+        {
+          "message": "Open the door with the Operation Authorization Card.\n<size=75%><color=#a16a3b>Choice unlocked with the E.G.O Gift \"Operation Authorization Card\"</color></size>",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "The metallic screech of forcing the mangled door open grated on our ears, but eventually, the effort paid off.\n\nWhat greeted us was the sight of a room caked in blood, littered with bits and traces of a desperate struggle.\n\n\"... This seems to be an employee ID card.\"\n\nI took a closer look at the small plastic card the Sinner had picked up.\n\nThe blood had dried over the card in such thick layers that I couldn't make out the face and the name written on it.\n\n... Perhaps it'd be best to hold onto it for now."
+          ]
+        },
+        {
+          "message": "Force the door open.",
+          "messageDesc": "Wrath & Envy Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Walk away.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "There are signs of someone—or <i>something</i>—forcing their way into the place that explicitly warned \"Entry Forbidden.\"\n\nThe gap is far too small for a person to crawl through, but a small dog or a bird could have easily slipped in.\n\nAnd if whatever went in through that gap is an Abnormality...\n\nThen what awaits within is likely not a sight we'd wish to see or even picture in our minds.\n\nMoving on should be the safest choice for now."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10711,
+      "name": "Ardor Blossom Moth Containment Breach",
+      "desc": "Có lẽ hệ thống an ninh của buồng quản thúc đã trở nên quá sơ sài.\n\nHồng Diễm Nga nhẹ nhàng lướt dọc hành lang, bỏ lại đám lửa tàn đỏ rực phía sau.\n\nKhông lâu sau đó, thông báo sổng buồng quản thúc vang vọng khắp cơ quan. Những nghiên cứu viên hối hả chạy xuống hành lang để trấn áp.\n\nCó nên bước ra giúp đội nghiên cứu trấn áp Dị Thể không? Hay cứ mặc kệ mà đi tiếp?",
+      "options": [
+        {
+          "message": "Bước ra và giúp đội nghiên cứu trấn áp.",
+          "messageDesc": "Kiểm định lợi thế Phẫn Nộ. Thành công sẽ nhận được Quà Tặng E.G.O Thiêu Đốt.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Để các nghiên cứu viên tiến hành trấn áp.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "Bọn họ được trang bị đồ E.G.O tận răng cơ mà. Trấn áp Dị Thể chắc không thành vấn đề với họ đâu.\n\nChúng ta nên nhanh chân đi tiếp."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10712,
+      "name": "Faelantern Containment Breach",
+      "desc": "Ánh sáng mờ ảo, lấp lóa màu xanh lam nhạt đang nhảy múa, lay động ở đâu đó nơi cuối hành lang.\n\nChúng tôi cảm nhận được cơn thôi thúc khó hiểu, muốn tiến lại gần tia sáng ấy.\n\nNhưng chỉ cần nhìn các nghiên cứu viên chạy về phía đó như thể dính bẫy lừa khó cưỡng, cũng đủ hiểu hiện tượng này là do một Dị Thể gây ra.\n\nCó nên ép đội nghiên cứu trở về trấn áp Dị Thể không? Hay cứ né bẫy mà đi tiếp?",
+      "options": [
+        {
+          "message": "Đứng ra hỗ trợ trấn áp.",
+          "messageDesc": "Kiểm định Lợi Thế Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Vỡ Vụn.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Né bẫy ra.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "Dị Thể biết dùng ánh sáng để lùa con mồi vào tròng... thì chỉ có Lồng Đèn Gốc Tiên thôi.\n\nChúng tôi chưa biết cụ thể nó đang trốn ở đâu, thành ra muốn đối đầu với nó thì chẳng khác gì đánh cược một ván hiểm nghèo.\n\nTốt nhất là né chỗ này ra, giữ sức chiến đấu.\n\n...Nhanh nào, đi tiếp thôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10713,
+      "name": "Shock Centipede",
+      "desc": "Thông qua lớp kính của buồng quản thúc, chúng tôi trông thấy Rết Sốc Điện.\n\n\"À, chúng tôi đang trong quá trình nghiên cứu cách mà Rết Sốc Điện trở nên hoàn toàn 'bất tử' trong một khoảng thời gian ngắn trước khi bị trấn áp.\"\n\n\"Mọi người thấy đấy, tài liệu nghiên cứu của chúng tôi tập trung vào khai phá nguồn năng lượng tiềm năng có thể sạc điện trang thiết bị hiệu quả.\"\n\n\"Tôi tin chắc mọi người cũng đều biết tên của món Quà Tặng E.G.O trích xuất từ Dị Thể này mà nhỉ?\"\n\n... Nó tên là gì ta?",
+      "options": [
+        {
+          "message": "Máy Khử Rung Tim Không Nắp",
+          "messageDesc": "Chọn đáp án đúng để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "\"Chính xác! Ngoài việc tích trữ tụ điện vô cùng an toàn thì gần như không có thất thoát năng lượng gì luôn! Quả thực là một hiện tượng đáng lưu tâm...\"\n\nNgười nghiên cứu viên tiếp tục vui vẻ huyên thuyên trước khi rút thứ gì đó trong ngăn kéo ra.\n\n\"Chúng tôi vừa mới thêm vào một cơ chế mới để tinh chỉnh việc Trích Xuất—kết quả cho ra một Quà Tặng E.G.O khá dị thường.\"\n\n\"Có thể mọi người sẽ sẵn sàng thử nghiệm nó chăng? Chúng tôi cũng rất hoan nghênh nếu mọi người đánh giá hiệu quả sử dụng của nó nữa nhé...\""
+          ]
+        },
+        {
+          "message": "Pin Không Tiêu Chuẩn",
+          "messageDesc": "Chọn đáp án đúng để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "\".......\"\n\n\"Cứ tưởng mọi người sẽ nhớ chứ. Ý là mọi người cũng dùng nó khá thường xuyên rồi mà...\"\n\n\"Mấy người cần quan sát kỹ càng hơn nữa đấy.\"\n\nNgười nghiên cứu viến thở dài đầy thất vọng rồi rời đi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10714,
+      "name": "Post-choice Development",
+      "desc": "\"Let's see what it says... 'Entry Forbidden'...?\"\n\nWe'd just passed the wall inscribed with messy, frantic letters when another door came into view.\n\nThe door was riddled with dents, as though something massive had repeatedly slammed into it with brutal force.\n\n\"At this point... think we could just force it open?\"\n\n\"Nay, the current yet courses through it. It would be more prudent to open it by the rightful means and keep from inviting the consequences of crude handling.\"\n\nA card reader panel is attached beside the battered door.\n\nWhat should we do?",
+      "options": [
+        {
+          "message": "Open the door with the Operation Authorization Card.\n<size=75%><color=#a16a3b>Choice unlocked with the E.G.O Gift \"Operation Authorization Card\"</color></size>",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "The metallic screech of forcing the mangled door open grated on our ears, but eventually, the effort paid off.\n\nWhat greeted us was the sight of a room caked in blood, littered with bits and traces of a desperate struggle.\n\n\"... This seems to be an employee ID card.\"\n\nI took a closer look at the small plastic card the Sinner had picked up.\n\nThe blood had dried over the card in such thick layers that I couldn't make out the face and the name written on it.\n\n... Perhaps it'd be best to hold onto it for now."
+          ]
+        },
+        {
+          "message": "Force the door open.",
+          "messageDesc": "Wrath & Envy Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Walk away.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "There are signs of someone—or <i>something</i>—forcing their way into the place that explicitly warned \"Entry Forbidden.\"\n\nThe gap is far too small for a person to crawl through, but a small dog or a bird could have easily slipped in.\n\nAnd if whatever went in through that gap is an Abnormality...\n\nThen what awaits within is likely not a sight we'd wish to see or even picture in our minds.\n\nMoving on should be the safest choice for now."
+          ]
+        }
+      ]
+    }
+  ]
+}

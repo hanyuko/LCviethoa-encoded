@@ -1,0 +1,189 @@
+{
+  "dataList": [
+    {
+      "id": 2036,
+      "name": "Vỏ Đồng Hồ Bằng Bạc",
+      "desc": "Khi gây sát thương lên kẻ địch bằng Kỹ Năng Tấn Công (không tính Kỹ Năng E.G.O) gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng', +10% sát thương gây ra.\n\nNếu Kỹ Năng kích hoạt [VibrationExplosion] lên kẻ địch lần đầu tiên trong lượt này, gây +2 Tầng [Vibration] vào lượt kế (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 2036,
+          "simpleDesc": "+10% sát thương gây ra"
+        },
+        {
+          "abilityID": 20361,
+          "simpleDesc": "Gây +2 Tầng [Vibration] vào lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 2037,
+      "name": "Vỏ Đồng Hồ Phai Màu",
+      "desc": "Khi Giao Tranh với kẻ địch nhanh hơn, Sức Mạnh Giao Tranh +1.\n\nKhi gây sát thương lên kẻ địch nhanh hơn, gây 3 Lượng [Vibration] và +2 Tầng [Vibration] vào lượt kế. (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 2037,
+          "simpleDesc": "Sức Mạnh Giao Tranh +1"
+        },
+        {
+          "abilityID": 20371,
+          "simpleDesc": "Gây 3 Lượng [Vibration] và +2 Tầng [Vibration] vào lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 2038,
+      "name": "Giấy Phạt Cảnh Cáo",
+      "desc": "Cuối Lượt: Gây 1 [Binding] lên kẻ địch nhanh nhất vào lượt kế. (với Dị Thể, lên một Bộ Phận)\n\nNếu mục tiêu có [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng', đổi thành gây 2 [Binding].\n\nKhi một đồng minh tấn công kẻ địch có [Binding], +(5 + (2.5 x giá trị [Binding])) sát thương gây ra. (tối đa 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 2038,
+          "simpleDesc": "Gán 1 [Binding] vào lượt kế"
+        },
+        {
+          "abilityID": 20381,
+          "simpleDesc": "Deal +(5 + (2.5 x [Binding] value)) more damage"
+        }
+      ]
+    },
+    {
+      "id": 2039,
+      "name": "Kim Đồng Hồ Chạm Khắc",
+      "desc": "Vào Đầu đợt mới: gây (9 - Tốc Độ hiện tại) Lượng [Vibration] lên 3 kẻ địch có Tốc Độ thấp nhất. (tối thiểu 3)\n\n+10% sát thương gây lên mục tiêu có 12+ [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' vào Đầu Lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 2039,
+          "simpleDesc": "Inflict (9 - current Speed) Lượng [Vibration]"
+        },
+        {
+          "abilityID": 20391,
+          "simpleDesc": "+10% sát thương gây ra"
+        }
+      ]
+    },
+    {
+      "id": 2040,
+      "name": "Kim Đồng Hồ Rỉ Sét",
+      "desc": "Vào Đầu đợt mới: gây (9 - Tốc Độ hiện tại) Lượng [Vibration] (tối thiểu 3) và (9 - Tốc Độ hiện tại) / 2 Tầng [Vibration] lên 1 kẻ địch có Tốc Độ cao nhất. (làm tròn lên; với Dị Thể, lên một Bộ Phận)\n\n-10% sát thương phải nhận từ mục tiêu có 12+ [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' vào Đầu Lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 2040,
+          "simpleDesc": "Inflict (9 - current Speed) Lượng [Vibration] (min. 3) and (9 - current Speed)/2 Tầng [Vibration]"
+        },
+        {
+          "abilityID": 20401,
+          "simpleDesc": "Damage Taken -10%."
+        }
+      ]
+    },
+    {
+      "id": 2041,
+      "name": "Tháp Rượu Tràn Ly",
+      "desc": "Khi một đồng minh có Kỹ Năng Tấn Công (không tính E.G.O) gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' thắng Giao Tranh, gây 2 Lượng [Vibration] và +2 Tầng [Vibration]. (2 lần mỗi lượt)\n\nVới Danh Tính thuộc Yurodivy: gây 3 Lượng [Vibration] và +3 Tầng [Vibration] (3 lần mỗi lượt)\n\nNếu Danh Tính hưởng hiệu ứng Giao Tranh với kẻ địch có Cấp Công Kích cao hơn, nhận Sức Mạnh Giao Tranh +2; +20% sát thương gây ra sau khi thắng Giao Tranh.",
+      "simpleDesc": [
+        {
+          "abilityID": 2041,
+          "simpleDesc": "Gây 2 Lượng [Vibration] và +2 Tầng [Vibration]"
+        },
+        {
+          "abilityID": 20411,
+          "simpleDesc": "Gây 3 Lượng [Vibration] và +3 Tầng [Vibration]"
+        },
+        {
+          "abilityID": 20412,
+          "simpleDesc": "Sức Mạnh Giao Tranh +2, +20% sát thương gây ra"
+        }
+      ]
+    },
+    {
+      "id": 2042,
+      "name": "Hóa Đơn Cho Thời Gian Đặt Trước",
+      "desc": "+(5 + (2.5 x chênh lệch Tốc Độ))% sát thương gây lên kẻ địch nhanh hơn với chênh lệch Tốc Độ ≥ 2. (tối đa 15%)\n\nCuối Lượt: Nếu một đồng minh gây sát thương bằng Kỹ Năng Tấn Công (không tính Kỹ Năng E.G.O) vào lượt này lên kẻ địch nhanh hơn với chênh lệch Tốc Độ ≥ 2, gây 2 [Binding] và 1 [ResultReduction] lên kẻ địch đó vào lượt kế. (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 2042,
+          "simpleDesc": "Deal +(5 + (2.5 x Speed difference))% damage against"
+        },
+        {
+          "abilityID": 20421,
+          "simpleDesc": "Gây 2 [Binding] và 1 [ResultReduction] to the enemy next turn"
+        }
+      ]
+    },
+    {
+      "id": 2043,
+      "name": "Đồng Hồ Bỏ Túi : Mẫu L",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nVới Kỹ Năng 3 của đồng minh có gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng': Sức Mạnh Xu +2 và +25% sát thương gây ra.\n\nKhi một đồng minh gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' kích hoạt [Switch_Vibration] hoặc [FusionVibration] lên kẻ địch bằng Kỹ Năng Tấn Công (tính cả Kỹ Năng E.G.O): nhân Lượng và Tầng [Vibration] lên 1.5 (chỉ khi Chuyển Hoá thành loại '<noparse>Chấn Động</noparse>' khác) và gây 5 [DefenseDown] vào lượt kế. (một lần mỗi lượt)\n\nĐầu Lượt: gây (12 - Tốc Độ hiện tại) Lượng [Vibration] (tối thiểu 6) lên 3 kẻ địch có Tốc Độ thấp nhất. (một lần mỗi đợt)",
+      "simpleDesc": [
+        {
+          "abilityID": 2043,
+          "simpleDesc": "Skill 3 gains Sức Mạnh Xu +2 and deals +25% damage"
+        },
+        {
+          "abilityID": 20431,
+          "simpleDesc": "Multiply Lượng [Vibration] and Count by 1.5 when triggering Amplitude Conversion"
+        },
+        {
+          "abilityID": 20432,
+          "simpleDesc": "Inflict (12 - current Speed) Lượng [Vibration]"
+        }
+      ]
+    },
+    {
+      "id": 2044,
+      "name": "Đồng Hồ Bỏ Túi : Mẫu E",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nVới Kỹ Năng 3 của đồng minh có gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng': Sức Mạnh Xu +2 và +25% sát thương gây ra.\n\nKhi một đồng minh có thể gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' gây sát thương lên kẻ địch chậm hơn với chênh lệch Tốc Độ ≥ 2: +(Lượng [Vibration] trên kẻ địch, tối đa 25)% sát thương gây ra và gây 2 [DefenseDown] mỗi khi đồng minh gây sát thương. (tối đa 6)\n\nĐầu Lượt: gây (12 - Tốc Độ hiện tại) Lượng [Vibration] (tối thiểu 6) và (12 - Tốc Độ hiện tại) / 2 Tầng [Vibration] lên kẻ địch có Tốc Độ cao nhất. (Với Dị Thể, lên một Bộ Phận; một lần mỗi đợt)",
+      "simpleDesc": [
+        {
+          "abilityID": 2044,
+          "simpleDesc": "Skill 3 gains Sức Mạnh Xu +2 and deals +25% damage"
+        },
+        {
+          "abilityID": 20441,
+          "simpleDesc": "+(Lượng [Vibration] trên mục tiêu)% sát thương gây ra; gây 2 [DefenseDown] every time the ally deals damage"
+        },
+        {
+          "abilityID": 20442,
+          "simpleDesc": "Inflict (12 - current Speed) Lượng [Vibration] (min. 3) and (9 - current Speed)/2 Tầng [Vibration]"
+        }
+      ]
+    },
+    {
+      "id": 2045,
+      "name": "Đồng Hồ Bỏ Túi : Mẫu Y",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nVới Kỹ Năng 3 của đồng minh có gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng': Sức Mạnh Xu +2 và +25% sát thương gây ra.\n\nDanh Tính thuộc Yurodivy: Kỹ Năng 3 nhận Sức Mạnh Xu +2 và +(25 + (tổng Lượng và Tầng [Vibration] trên mục tiêu))% sát thương gây ra. (tối đa 100%)\n\nDanh Tính thuộc Yurodivy: nhận +3 Tầng [Vibration] vào Đầu Lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 2045,
+          "simpleDesc": "Skill 3 gains Sức Mạnh Xu +2 and deals +25% damage"
+        },
+        {
+          "abilityID": 20451,
+          "simpleDesc": "Skill 3 gains Sức Mạnh Xu +2 and deal +(25 + (sum of Lượng [Vibration] and Count on target))% damage."
+        },
+        {
+          "abilityID": 20452,
+          "simpleDesc": "Nhận +3 Tầng [Vibration]"
+        }
+      ]
+    },
+    {
+      "id": 2046,
+      "name": "Đồng Hồ Bỏ Túi : Mẫu P",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nVới Kỹ Năng 3 của đồng minh có gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng': Sức Mạnh Xu +2 và +25% sát thương gây ra.\n\nKhi một đồng minh có thể gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' Giao Tranh với kẻ địch nhanh hơn với chênh lệch Tốc Độ ≥ 2: Sức Mạnh Giao Tranh +2 và +(Lượng [Vibration] trên mục tiêu)% sát thương gây ra. (tối đa 50%)\n\nĐầu Lượt: từ chậm nhất tới nhanh nhất, 3 đồng minh chậm nhất lần lượt nhận 5 [AttackUp], 3 [AttackUp], và 2 [AttackUp]",
+      "simpleDesc": [
+        {
+          "abilityID": 2046,
+          "simpleDesc": "Skill 3 gains Sức Mạnh Xu +2 and deals +25% damage"
+        },
+        {
+          "abilityID": 20461,
+          "simpleDesc": "Sức Mạnh Giao Tranh +2 and +(Lượng [Vibration] trên mục tiêu)% sát thương gây ra"
+        },
+        {
+          "abilityID": 20462,
+          "simpleDesc": "Nhận [AttackUp]"
+        }
+      ]
+    }
+  ]
+}

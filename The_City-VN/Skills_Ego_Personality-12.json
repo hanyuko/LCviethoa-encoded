@@ -1,0 +1,884 @@
+{
+  "dataList": [
+    {
+      "id": 2120511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vườn Hồng Gai",
+          "abName": "Vườn Hồng",
+          "desc": "[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, Phạm Vi Tấn Công +1\n[WhenUse] Gán 1 'Tăng Sát Thương[TabExplain] (Nguyên Tội Tương Ứng)' và 1 'Tăng Sức Mạnh[TabExplain] (Nguyên Tội Tương Ứng)' cho (1 + số lượng Cộng hưởng cao nhất) đồng minh.\n- Ở mốc 4+ Cộng Hưởng tương ứng, gán thêm 1 'Tăng Sát Thương[TabExplain] (Nguyên Tội Tương Ứng)'",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Hồi 15% HP Tối Đa cho 1 đồng minh có phần trăm HP thấp nhất\n- Hồi thêm (Cộng Hưởng cao nhất - 2) đồng minh (tối đa 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vườn Hồng Gai",
+          "abName": "Vườn Hồng",
+          "desc": "[BeforeAttack] <style=\"highlight\">Nhận (số lượng Cộng hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)</style>\n[WhenUse] Gán 1 'Tăng Sát Thương[TabExplain] (Nguyên Tội Tương Ứng)' và 1 'Tăng Sức Mạnh[TabExplain] (Nguyên Tội Tương Ứng)' cho (2 + số lượng Cộng hưởng cao nhất) đồng minh.\n- Ở mốc 4+ Cộng Hưởng tương ứng, gán thêm 1 'Tăng Sát Thương[TabExplain] (Nguyên Tội Tương Ứng)'\n<style=\"highlight\">- Ở mốc 5+ Cộng Hưởng tương ứng, gán thêm 1 'Tăng Sức Mạnh[TabExplain] (Nguyên Tội Tương Ứng)'</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Hồi <style=\"highlight\">18</style>% HP Tối đa cho 2 đồng minh có phần trăm HP thấp nhất\n- Hồi thêm (Cộng Hưởng cao nhất - 2) đồng minh (tối đa 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vườn Hồng Gai",
+          "abName": "Vườn Hồng",
+          "desc": "[BeforeAttack] Nhận (số lượng Cộng hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa <style=\"highlight\">3</style>)\n[WhenUse] Gán 1 'Tăng Sát Thương[TabExplain] (Nguyên Tội Tương Ứng)' và 1 'Tăng Sức Mạnh[TabExplain] (Nguyên Tội Tương Ứng)' cho (<style=\"highlight\">4</style> + số lượng Cộng hưởng cao nhất) đồng minh.\n- Ở mốc 4+ Cộng Hưởng tương ứng, gán thêm 1 'Tăng Sát Thương[TabExplain] (Nguyên Tội Tương Ứng)'\n- Ở mốc 5+ Cộng Hưởng tương ứng, gán thêm 1 'Tăng Sức Mạnh[TabExplain] (Nguyên Tội Tương Ứng)'\n<style=\"highlight\">- Ở mốc 6+ Cộng Hưởng Tuyệt Đối Tương Ứng, nhận các hiệu ứng trên vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Hồi <style=\"highlight\">22</style>% HP Tối đa cho 4 đồng minh có phần trăm HP thấp nhất\n- Hồi thêm (Cộng Hưởng cao nhất - 2) đồng minh (tối đa 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vườn Hồng Gai",
+          "abName": "Vườn Hồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, Phạm Vi Tấn Công +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]\n- Gây 1 [AttackDmgDown].\n- Gây 2 [Binding] vào lượt kế."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 'Suy Yếu[TabExplain]' và 1 'Giảm Sức Mạnh[TabExplain]' thuộc Nguyên Tội có số lượng Cộng Hưởng cao nhất\n- Ở mốc 4+ Cộng Hưởng tương ứng, gây thêm 1 'Suy Yếu[TabExplain][TabExplain] (Nguyên Tội Tương Ứng)'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vườn Hồng Gai",
+          "abName": "Vườn Hồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] <style=\"highlight\">Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]\n- Gây 1 [AttackDmgDown].\n- Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 'Suy Yếu[TabExplain]' và 1 'Giảm Sức Mạnh[TabExplain]' thuộc Nguyên Tội có số lượng Cộng Hưởng cao nhất\n- Ở mốc 4+ Cộng Hưởng tương ứng, gây thêm 1 'Suy Yếu[TabExplain][TabExplain] (Nguyên Tội Tương Ứng)'\n<style=\"highlight\">- Ở mốc 5+ Cộng Hưởng tương ứng, gây thêm 1 'Giảm Sức Mạnh[TabExplain] (Nguyên Tội Tương Ứng)'</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vườn Hồng Gai",
+          "abName": "Vườn Hồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AttackDmgDown]. Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 'Suy Yếu[TabExplain]' và 1 'Giảm Sức Mạnh[TabExplain]' thuộc Nguyên Tội có số lượng Cộng Hưởng cao nhất\n- Ở mốc 4+ Cộng Hưởng tương ứng, gây thêm 1 'Suy Yếu[TabExplain] (Nguyên Tội Tương Ứng)'\n- Ở mốc 5+ Cộng Hưởng tương ứng, gây thêm 1 'Giảm Sức Mạnh[TabExplain] (Nguyên Tội Tương Ứng)'\n<style=\"highlight\">- Ở mốc 6+ Cộng Hưởng Tuyệt Đối Tương Ứng, nhận các hiệu ứng trên vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[EndSkill] Hồi 10 SP cho bản thân và 2 đồng minh khác có SP thấp nhất\n- Nếu mục tiêu còn sống sau đòn tấn công này, tiêu thụ 5 Tầng [Sinking] trên mục tiêu, sau đó hồi thêm SP (cho chủ thể và các đồng minh trên) bằng với Lượng [Sinking] trên mục tiêu (SP hồi tối đa: 20)\n- Nếu mục tiêu bị đánh bại, gây 3 [Sinking] lên 2 kẻ địch ngẫu nhiên (trong Ải Chuyên Sâu, lên các Bộ Phận ngẫu nhiên)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[EndSkill] Hồi <style=\"highlight\">12</style> SP cho bản thân và 2 đồng minh khác có SP thấp nhất\n- Nếu mục tiêu còn sống sau đòn tấn công này, tiêu thụ 5 Tầng [Sinking] trên mục tiêu, sau đó hồi thêm SP (cho chủ thể và các đồng minh trên) bằng với Lượng [Sinking] trên mục tiêu (SP hồi tối đa: 20)\n- Nếu mục tiêu bị đánh bại, gây 3 [Sinking] và <style=\"highlight\">1 [Curse]</style> lên 2 kẻ địch ngẫu nhiên (trong Ải Chuyên Sâu, lên các Bộ Phận ngẫu nhiên)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[EndSkill] Hồi <style=\"highlight\">15</style> SP cho bản thân và 2 đồng minh khác có SP thấp nhất\n- Nếu mục tiêu còn sống sau đòn tấn công này, tiêu thụ <style=\"highlight\">3</style> Tầng [Sinking] trên mục tiêu, sau đó hồi thêm SP (cho chủ thể và các đồng minh trên) bằng với Lượng [Sinking] trên mục tiêu (SP hồi tối đa: 20)\n- Nếu mục tiêu bị đánh bại, gây 3 [Sinking] và 1 [Curse] lên <style=\"highlight\">3</style> kẻ địch ngẫu nhiên (trong Ải Chuyên Sâu, lên các Bộ Phận ngẫu nhiên)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AzureTakeDamageUp]. Ở mốc 3+ Thờ Ơ Cộng Hưởng, gây thêm 1 [AzureTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Curse]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AzureTakeDamageUp]. <style=\"highlight\">Gây thêm 1 [AzureTakeDamageUp] với mỗi 3 Thờ Ơ Cộng Hưởng (tối đa 2)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Curse]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Nếu mục tiêu có [Curse], +50% sát thương gây ra</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AzureTakeDamageUp]. Gây thêm 1 [AzureTakeDamageUp] với mỗi <style=\"highlight\">2</style> Thờ Ơ Cộng Hưởng (tối đa 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Curse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "Khi Kỹ Năng này tung Xu, mỗi Xu sẽ tấn công ngẫu nhiên một trong số các mục tiêu của nó.\n- Xu đầu tiên luôn nhắm vào mục tiêu chính.\n- Tất cả hiệu ứng 'Đánh Trúng' và sát thương gây ra từ mỗi Xu đều chỉ tác động lên mục tiêu ngẫu nhiên mà Xu đó đã chọn.\nKhi gây [SinkingWhite] bằng hiệu ứng của Kỹ Năng này: Có (Tỷ lệ lật Xu Ngửa)% gây Tử Điệp. Nếu chủ thể không gây được Tử Điệp, thì gây Sinh Điệp. (mỗi Lớp [SinkingWhite] được tính riêng)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1~2 [SinkingWhite] ngẫu nhiên"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mất 2~6 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 0+ SP, Tái Sử Dụng Xu này (tối đa 5 lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "Khi Kỹ Năng này tung Xu, mỗi Xu sẽ tấn công ngẫu nhiên một trong số các mục tiêu của nó.\n- Xu đầu tiên luôn nhắm vào mục tiêu chính.\n- Tất cả hiệu ứng 'Khi Đánh Trúng' và sát thương gây ra từ mỗi Xu đều chỉ tác động lên mục tiêu ngẫu nhiên mà Xu đó đã chọn.\nKhi gây [SinkingWhite] bằng hiệu ứng của Kỹ Năng này: Có (Tỷ lệ lật Xu Ngửa)% gây Tử Điệp. Nếu chủ thể không gây được Tử Điệp, thì gây Sinh Điệp. (mỗi Lớp [SinkingWhite] được tính riêng)\n<style=\"highlight\">[EndSkill] Hồi (Số lần Xu 3 đánh trúng x 2) SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1~2 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mất 2~6 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 0+ SP, Tái Sử Dụng Xu này (tối đa 5 lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "Khi Kỹ Năng này tung Xu, mỗi Xu sẽ tấn công ngẫu nhiên một trong số các mục tiêu của nó.\n- Xu đầu tiên luôn nhắm vào mục tiêu chính.\n- Tất cả hiệu ứng 'Khi Đánh Trúng' và sát thương gây ra từ mỗi Xu đều chỉ tác động lên mục tiêu ngẫu nhiên mà Xu đó đã chọn.\nKhi gây [SinkingWhite] bằng hiệu ứng của Kỹ Năng này: Có (Tỷ lệ lật Xu Ngửa)% gây Tử Điệp. Nếu chủ thể không gây được Tử Điệp, thì gây Sinh Điệp. (mỗi Lớp [SinkingWhite] được tính riêng)\n[EndSkill] Hồi <style=\"highlight\">(Số lần Xu 3 đánh trúng x 3)</style> SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1~2 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mất 2~6 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 0+ SP, Tái Sử Dụng Xu này (tối đa 5 lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, SP càng thấp thì sát thương gây ra càng cao (+1% với mỗi SP dưới 0, tối đa 45%)\nĐối với mục tiêu không có SP: +1% sát thương gây ra với mỗi 2 [Sinking] trên mục tiêu (tối đa 45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [SinkingWhite](Sinh Điệp)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [SinkingWhite](Tử Điệp)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, SP càng thấp thì sát thương gây ra càng cao (+1% với mỗi SP dưới 0, tối đa 45%)\nĐối với mục tiêu không có SP: +1% sát thương gây ra với mỗi 2 [Sinking] trên mục tiêu (tối đa 45%)\n<style=\"highlight\">[EnemyKill] Hồi 5 SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [SinkingWhite](Sinh Điệp)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [SinkingWhite](Tử Điệp)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +3 Tầng [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, SP càng thấp thì sát thương gây ra càng cao (+1% với mỗi SP dưới 0, tối đa 45%)\nĐối với mục tiêu không có SP: +1% sát thương gây ra với mỗi 2 [Sinking] trên mục tiêu (tối đa 45%)\n[EnemyKill] Hồi 5 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [SinkingWhite](Sinh Điệp)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [SinkingWhite](Tử Điệp)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu HP của mục tiêu ≤ 50%, gây sát thương Thờ Ơ bằng \"Tổng\" giá trị [SinkingWhite] trên mục tiêu\n- \"Tổng\" = tổng của cả Sinh Điệp và Tử Điệp trên mục tiêu</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "[EndSkill] Khi HP đạt mức tối đa, hồi 10 SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 1 [Reduction] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "<style=\"highlight\">Nếu SP của mục tiêu dưới 0, +1% sát thương gây ra với mỗi SP dưới 0 (tối đa 45%)</style>\n[EndSkill] Khi HP đạt mức tối đa, hồi 10 SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Hồi (2 + Cộng Hưởng cao nhất)% HP đã mất của chủ thể (tối đa 30% mỗi Kỹ Năng)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 1 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "Nếu SP của mục tiêu thấp hơn 0, +1% sát thương gây ra với mỗi SP dưới 0 (tối đa 45%)\n[EndSkill] Khi HP đạt mức tối đa, hồi <style=\"highlight\">15</style> SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi (<style=\"highlight\">3</style> + Cộng Hưởng cao nhất)% HP đã mất của chủ thể (tối đa 30% mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 1 [Reduction] <style=\"highlight\">và 1 [Vulnerable][TabExplain] thuộc Nguyên Tội của Cộng hưởng cao nhất</style> vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Hồi 10 HP cho bản thân\n[EndSkill] Khi HP đạt mức tối đa, hồi 10 SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 1 [Reduction] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Nếu SP của mục tiêu thấp hơn 0, +1% sát thương gây ra với mỗi SP dưới 0 (tối đa 45%)</style>\n[BeforeAttack] Hồi 10 HP cho bản thân\n[EndSkill] Khi HP đạt mức tối đa, hồi <style=\"highlight\">15</style> SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi (2 + Cộng Hưởng cao nhất)% HP đã mất của chủ thể (tối đa 30% mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 1 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, +1% sát thương gây ra với mỗi SP dưới 0 (tối đa 45%)\n[BeforeAttack] Hồi 10 HP cho bản thân\n[EndSkill] Khi HP đạt mức tối đa, hồi <style=\"highlight\">20</style> SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi (<style=\"highlight\">3</style> + Cộng Hưởng cao nhất)% HP đã mất của chủ thể (tối đa 30% mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 1 [Reduction] <style=\"highlight\">và 2 Suy Yếu[TabExplain] thuộc Nguyên Tội của Cộng hưởng cao nhất</style> vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vinh Quang Phai Mờ - Bất Diệt",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nKhi dùng lần đầu trong trận, giảm 1 tài nguyên E.G.O Phẫn Nộ, 2 Lười Biếng và 1 Kiêu Ngạo cần tiêu thụ.\nỞ mốc 1+ [MlynarWaiting], đổi thành kích hoạt <noparse>Vinh Quang Phai Mờ - Nhật Quang</noparse>\nKỹ Năng này không tác động lên kẻ địch, không kích hoạt Kỹ Năng Phòng thủ, không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndSkill] Hồi 25 SP\n[EndSkill] Nhận 1 [AttackUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vinh Quang Phai Mờ - Bất Diệt",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nKhi dùng lần đầu trong trận, giảm 1 tài nguyên E.G.O Phẫn Nộ, 2 Lười Biếng và 1 Kiêu Ngạo cần tiêu thụ.\nỞ mốc 1+ [MlynarWaiting], đổi thành kích hoạt <noparse>Vinh Quang Phai Mờ - Nhật Quang</noparse>\nKỹ Năng này không tác động lên kẻ địch, không kích hoạt Kỹ Năng Phòng thủ, không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndSkill] Hồi 25 SP\n[EndSkill] Nhận <style=\"highlight\">2</style> [AttackUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vinh Quang Phai Mờ - Bất Diệt",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nKhi dùng lần đầu trong trận, giảm 1 tài nguyên E.G.O Phẫn Nộ, 2 Lười Biếng và 1 Kiêu Ngạo cần tiêu thụ.\nỞ mốc 1+ [MlynarWaiting], đổi thành kích hoạt <noparse>Vinh Quang Phai Mờ - Nhật Quang</noparse>\nKỹ Năng này không tác động lên kẻ địch, không kích hoạt Kỹ Năng Phòng thủ, không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndSkill] Hồi 25 SP\n[EndSkill] Nhận 2 [AttackUp] <style=\"highlight\">và 1 [AttackDmgUp]</style> vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120912,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vinh Quang Phai Mờ - Nhật Quang",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nKhông thể Tái Sử Dụng dưới bất kỳ tác động bên ngoài nào\nỞ mốc 40 [MlynarWaiting], trở nên Có Thể Giao Tranh\n[WhenUse] Ở mốc 40 [MlynarWaiting], cho đến khi Kỹ Năng này kết thúc, chủ thể không thể Bị Choáng do nhận sát thương, và nhận +20 Sức Mạnh Giao Tranh\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Cứ mỗi (Số Lớp đã tiêu thụ / 20), hoàn trả 1 tài nguyên E.G.O (theo thứ tự: Kiêu Ngạo, sau đó đến Phẫn Nộ)\n- Cứ mỗi (Số Lớp đã tiêu thụ / 10), nhận +1 Phạm Vi Tấn Công (tối đa 4)\n- Cứ mỗi (Số Lớp đã tiêu thụ / 10), nhận [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu thứ 4 +50% sát thương gây ra, và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +5% sát thương gây ra với mỗi 8 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 25%)\n[EndSkill] Hồi 5 SP với mỗi mục tiêu Bị Choáng hoặc đánh bại do sát thương của Kỹ Năng này (tối đa 25)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu Kỹ năng này không tiêu thụ 40 [MlynarWaiting], Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +4 [Aggro] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[ReUse] ((Số Lớp [MlynarWaiting] đã tiêu thụ / 10) - 1) lần (tối đa 3 lần)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu đây là Xu cuối, và nếu mục tiêu có 15+ Lượng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu Xu này được sử dụng 4 lần, gây sát thương Lười Biếng bằng Lượng [Vibration] trên mục tiêu (tối đa 5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vinh Quang Phai Mờ - Nhật Quang",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nKhông thể Tái Sử Dụng dưới bất kỳ tác động bên ngoài nào\nỞ mốc 40 [MlynarWaiting], trở nên Có Thể Giao Tranh\n[WhenUse] Ở mốc 40 [MlynarWaiting], cho đến khi Kỹ Năng này kết thúc, chủ thể không thể Bị Choáng do nhận sát thương, và nhận +20 Sức Mạnh Giao Tranh\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Cứ mỗi (Số Lớp đã tiêu thụ / 20), hoàn trả 1 tài nguyên E.G.O (theo thứ tự: Kiêu Ngạo, sau đó đến Phẫn Nộ)\n- Cứ mỗi (Số Lớp đã tiêu thụ / 10), nhận +1 Phạm Vi Tấn Công (tối đa 4)\n- Cứ mỗi (Số Lớp đã tiêu thụ / 10), nhận [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu thứ 4 +<style=\"highlight\">80</style>% sát thương gây ra, và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +5% sát thương gây ra với mỗi 8 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 25%)\n[EndSkill] Hồi 5 SP với mỗi mục tiêu Bị Choáng hoặc đánh bại do sát thương của Kỹ Năng này (tối đa 25)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu Kỹ năng này không tiêu thụ 40 [MlynarWaiting], Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +4 [Aggro] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[ReUse] ((Số Lớp [MlynarWaiting] đã tiêu thụ / 10) - 1) lần (tối đa 3 lần)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Nếu Xu này không bị Nứt, và nếu mục tiêu có từ 3 kẻ địch trở lên, Xu cuối +10% sát thương gây ra (trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu đây là Xu cuối, và nếu mục tiêu có 15+ Lượng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu Xu này được sử dụng 4 lần, gây sát thương Lười Biếng bằng Lượng [Vibration] trên mục tiêu (tối đa 5)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vinh Quang Phai Mờ - Nhật Quang",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nKhông thể Tái Sử Dụng dưới bất kỳ tác động bên ngoài nào\nỞ mốc 40 [MlynarWaiting], trở nên Có Thể Giao Tranh\n[WhenUse] Ở mốc 40 [MlynarWaiting], cho đến khi Kỹ Năng này kết thúc, chủ thể không thể Bị Choáng do nhận sát thương, và nhận +20 Sức Mạnh Giao Tranh\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Cứ mỗi (Số Lớp đã tiêu thụ / 20), hoàn trả 1 tài nguyên E.G.O (theo thứ tự: Kiêu Ngạo, sau đó đến Phẫn Nộ)\n- Cứ mỗi (Số Lớp đã tiêu thụ / 10), nhận +1 Phạm Vi Tấn Công (tối đa 4)\n- Cứ mỗi (Số Lớp đã tiêu thụ / 10), nhận [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu thứ 4 +<style=\"highlight\">100</style>% sát thương gây ra, và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +5% sát thương gây ra với mỗi 8 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 25%)\n[EndSkill] Hồi 5 SP với mỗi mục tiêu Bị Choáng hoặc đánh bại do sát thương của Kỹ Năng này (tối đa 25)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu Kỹ năng này không tiêu thụ 40 [MlynarWaiting], Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +4 [Aggro] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[ReUse] ((Số Lớp [MlynarWaiting] đã tiêu thụ / 10) - 1) lần (tối đa 3 lần)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Nếu Xu này không bị Nứt, và nếu mục tiêu có từ 3 kẻ địch trở lên, Xu cuối gây +<style=\"highlight\">20</style>% sát thương (trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu đây là Xu cuối, và nếu mục tiêu có 15+ Lượng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu Xu này được sử dụng 4 lần, gây sát thương Lười Biếng bằng Lượng [Vibration] trên mục tiêu (tối đa <style=\"highlight\">10</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vinh Quang Phai Mờ - Bất Diệt",
+          "abName": "Młynar",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Ở mốc 40 [MlynarWaiting], Sức Mạnh Gốc +1\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Nhận (Số Lớp đã tiêu thụ / 10) [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu Cuối +110% sát thương gây ra và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +3% sát thương gây ra với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -16)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu 40 Lớp [MlynarWaiting] đã được tiêu thụ do Kỹ Năng này, Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +8 [Aggro] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu mục tiêu có 15+ Lượng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vinh Quang Phai Mờ - Bất Diệt",
+          "abName": "Młynar",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Khi tấn công 3+ mục tiêu: Nếu Xu 1~3 đánh trúng mà không bị Nứt, Xu Cuối +25% sát thương gây ra (một lần mỗi Xu; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)</style>\n[WhenUse] Ở mốc 40 [MlynarWaiting], Sức Mạnh Gốc +1\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Nhận (Số Lớp đã tiêu thụ / 10) [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu Cuối +<style=\"highlight\">130</style>% sát thương gây ra và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +3% sát thương gây ra với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -16)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu 40 Lớp [MlynarWaiting] đã được tiêu thụ do Kỹ Năng này, Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +8 [Aggro] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu mục tiêu có 15+ Lượng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vinh Quang Phai Mờ - Bất Diệt",
+          "abName": "Młynar",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nKhi tấn công 3+ mục tiêu: Nếu Xu 1~3 đánh trúng mà không bị Nứt, Xu Cuối gây +<style=\"highlight\">30</style>% sát thương (một lần mỗi Xu; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)\n[WhenUse] Ở mốc 40 [MlynarWaiting], Sức Mạnh Gốc +1\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Nhận (Số Lớp đã tiêu thụ / 10) [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu Cuối +<style=\"highlight\">160</style>% sát thương gây ra và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +3% sát thương gây ra với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -16)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu 40 Lớp [MlynarWaiting] đã được tiêu thụ do Kỹ Năng này, Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +8 [Aggro] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu mục tiêu có 15+ Lượng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

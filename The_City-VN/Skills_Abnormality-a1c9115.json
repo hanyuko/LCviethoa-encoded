@@ -1,0 +1,223 @@
+{
+    "dataList": [
+        {
+            "id": 112204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lật Đổ Thế Trận",
+                    "desc": "[WhenUse] Nhận +3 Tầng [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 10 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận 3 [Breath] và +1 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gây +1 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 10 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận 2 [SlashDamageUp] vào lượt kế"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [SlashResistDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 10 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Paralysis] vào lượt kế"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đoạt Cốt Chúng",
+                    "desc": "[StartBattle] Nhận 100 Khiên\n[WhenUse] Nếu Khiên chưa về 0, Sức Mạnh Giao Tranh +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 20 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [SlashResistDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 20 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% Sát Thương gây ra khi Trí Mạng"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gây 10 [Laceration] và +2 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 20 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Nếu Khiên chưa về 0, Chia giá trị [Grudge] cho Phạm Vi Tấn Công và gây sát thương dưới dạng sát thương cố định."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đoạt Cốt Chúng",
+                    "desc": "[StartBattle] Nhận 250 Khiên\n[WhenUse] Nhận +3 Tầng [Breath]\n[WhenUse] Nếu Khiên chưa về 0, Sức Mạnh Giao Tranh +10",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 23 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 3 [SlashResistDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 23 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% Sát Thương gây ra khi Trí Mạng"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 [Paralysis] vào lượt kế"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gây 10 [Laceration] và +2 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 23 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Nếu Khiên chưa về 0, chia giá trị [Grudge] cho Phạm Vi Tấn Công và gây sát thương dưới dạng sát thương cố định."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112309,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đoạt Cốt Chúng",
+                    "desc": "[CantChangeTarget]\nƯu tiên đơn vị có HP thấp nhất\n[EnemyKill] Gấp đôi giá trị [Grudge].\n[EnemyKill] Hồi HP bằng giá trị [Grudge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 25 Sức Mạnh Tổng"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 25 Sức Mạnh Tổng"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Nếu Xu này bị nứt, mất 25 Sức Mạnh Tổng"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gây sát thương cố định bằng giá trị [Grudge]."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

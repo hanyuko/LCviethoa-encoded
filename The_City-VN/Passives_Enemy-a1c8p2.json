@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": 9021001,
+      "name": "Rival Candidate",
+      "desc": "+10% sát thương gây ra against Hồng Lộ"
+    },
+    {
+      "id": 9021002,
+      "name": "Shi(史) Family Charge Circuitry",
+      "desc": "Nhận 1 [Charge] every time this unit consumes 10 cumulative Tầng [Charge] in this Encounter\nCuối Lượt: Ở mốc 2+ [Charge], nhận 1 [ParryingResultUp] vào lượt kế"
+    },
+    {
+      "id": 9021003,
+      "name": "Charge Circuitry Activation",
+      "desc": "+5% sát thương gây ra for every 6 [Burst] on target (tối đa 10%)"
+    },
+    {
+      "id": 9021004,
+      "name": "Overload",
+      "desc": "Cuối Lượt: at 3+ [Charge], nhận 3 [DefenseDown] và 1 [AttackDmgUp] vào lượt kế"
+    },
+    {
+      "id": 9021201,
+      "name": "Severe Overload",
+      "desc": "Cuối Lượt: at 5+ [Charge], nhận 4 [DefenseDown] và 3 [AttackDmgUp] vào lượt kế"
+    },
+    {
+      "id": 9020501,
+      "name": "Experiment Goal - Maturation",
+      "desc": "Đầu Lượt: nhận [DefenseUp] equal to (number of times this unit was hit by the enemies' Skill Attacks / 2) (tối đa 10)\n\nLose this effect when Staggered for the first time; then, at the next Turn Start, nhận 10 [DefenseDown]"
+    },
+    {
+      "id": 9020601,
+      "name": "Experiment Goal - Germination",
+      "desc": "Đầu Lượt: if this unit isn't at max HP, hồi 80% of the missing HP\n- With every healing, halve the healing effect of this Passive by half (halves down to 10% minimum; applies only when this unit hồi more than 1 HP)\n- Does not activate when Staggered\n\nAfter this unit is Staggered for the first time, or when the healing effect is reduced to its minimum, nhận 3 [Vulnerable] at every Turn Start"
+    },
+    {
+      "id": 9020701,
+      "name": "Experiment Goal - Blossom",
+      "desc": "When this unit takes damage that brings its HP down to 0, and maintain this unit's HP at 1 until the vào lượt kế; +50% sát thương gây ra (once per Encounter)\n\nDoes not activate when Staggered"
+    },
+    {
+      "id": 9020801,
+      "name": "Talisman Sorcerer",
+      "desc": "Whenever this unit inflicts [OminousTalisman] against an enemy, mất 10 SP\n\nAgainst targets with [OminousTalisman], +(0 - SP on self)% sát thương gây ra (max 30%, min 0%)"
+    },
+    {
+      "id": 9020802,
+      "name": "Proliferating Misfortune",
+      "desc": "On death, gán 10 [OminousTalisman] against a random enemy without [OminousTalisman]\n- If all enemies already have [OminousTalisman], then reduce all enemies' [OminousTalisman] by 1 instead"
+    },
+    {
+      "id": 9020803,
+      "name": "Wicked Energy",
+      "desc": "When inflicting [OminousTalisman] on an enemy, if the target already has [OminousTalisman], consume 1~2 [OminousTalisman] trên mục tiêu and inflict the same value as [DefenseDown] Stacks to the target this turn and vào lượt kế "
+    },
+    {
+      "id": 9020901,
+      "name": "Skilled Talisman Sorcerer",
+      "desc": "Whenever this unit inflicts [OminousTalisman] against an enemy, mất 10 SP\n\nAgainst targets with [OminousTalisman], +(10 - SP on self)% sát thương gây ra (max 50%, min 0%)"
+    },
+    {
+      "id": 9020902,
+      "name": "Soul Siphon Technique",
+      "desc": "Đầu Lượt: at 50% or less HP, sacrifice a random Wicked Deathrite Monk to hồi (10% of this unit's HP + 50% of the sacrificed unit's HP) HP, hồi 25 SP, and recover from Stagger (một lần mỗi lượt)"
+    },
+    {
+      "id": 9020903,
+      "name": "Wicked Energy",
+      "desc": "When inflicting [OminousTalisman] on an enemy, if the target already has [OminousTalisman], consume up to 3 [OminousTalisman] trên mục tiêu and inflict the same value as [DefenseDown] Stacks to the target this turn and vào lượt kế "
+    }
+  ]
+}

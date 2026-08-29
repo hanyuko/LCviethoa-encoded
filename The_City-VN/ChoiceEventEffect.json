@@ -1,0 +1,468 @@
+{
+  "dataList": [
+    {
+      "id": "Empty",
+      "content": ""
+    },
+    {
+      "id": "Nothing",
+      "content": "<color=#ebcaa2>Không có gì xảy ra.</color>"
+    },
+    {
+      "id": "LevelupPersonality",
+      "content": "<color=#ebcaa2>Event: Sinner Power-up!</color>"
+    },
+    {
+      "id": "GetEgogift",
+      "content": "<color=#ebcaa2>Event: Random E.G.O Gift!</color>"
+    },
+    {
+      "id": "GetCharacter",
+      "content": "<color=#ebcaa2>Event: Sinner Recruitment!</color>"
+    },
+    {
+      "id": "LevelupPersonalityOnWinBattle",
+      "content": "<color=#ebcaa2>Win the next battle to recruit a Sinner!</color>"
+    },
+    {
+      "id": "GetConfirmedEgogiftOnWinBattle",
+      "content": "<color=#ebcaa2>Thắng trận tiếp theo để nhận Quà Tặng E.G.O {reward}!</color>"
+    },
+    {
+      "id": "StartBattle",
+      "content": "<color=#ff0000>Ải Giao Chiến!</color>"
+    },
+    {
+      "id": "StartBattle_Normal",
+      "content": "<color=#ff0000>Ải Thường!</color>"
+    },
+    {
+      "id": "StartBattle_Danger",
+      "content": "<color=#ff0000>Ải Mạo Hiểm!</color>"
+    },
+    {
+      "id": "StartBattle_Abnormality",
+      "content": "<color=#ff0000>Ải Chuyên Sâu!</color>"
+    },
+    {
+      "id": "StartBattle_FloorBoss",
+      "content": "<color=#ff0000>Ải Tầng Thủ Lĩnh!</color>"
+    },
+    {
+      "id": "RecoverHpOnly",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>hồi</color> <color=#00ff9c>{amount} HP.</color>"
+    },
+    {
+      "id": "RecoverMpOnly",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>hồi</color> <color=#80c9ff>{amount} SP.</color>"
+    },
+    {
+      "id": "RecoverHpOnlyUntilMax",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>hồi</color> <color=#00ff9c>Tối Đa HP.</color>"
+    },
+    {
+      "id": "RecoverMpOnlyUntilMax",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>hồi</color> <color=#80c9ff>Tối Đa SP.</color>"
+    },
+    {
+      "id": "LoseHpOnly",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>nhận</color> <color=#e30000>{amount} Sát Thương HP!</color>"
+    },
+    {
+      "id": "LoseMpOnly",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>mất</color> <color=#fe4b48>{amount} SP!</color>"
+    },
+    {
+      "id": "RecoverHpMpSameAmount",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>hồi</color> <color=#00ff9c>{amount} HP</color> và <color=#80c9ff>SP.</color>"
+    },
+    {
+      "id": "RecoverHpMpDifferentAmount",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>hồi</color> <color=#00ff9c>{hpAmount} HP</color> và <color=#80c9ff>{mpAmount} SP.</color>"
+    },
+    {
+      "id": "LoseHpMpSameAmount",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>nhận</color> <color=#e30000>{amount} sát thương HP</color> và <color=#fe4b48>SP!</color>"
+    },
+    {
+      "id": "LoseHpMpDifferentAmount",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>nhận</color> <color=#e30000>{hpAmount} sát thương HP</color> và <color=#fe4b48>{mpAmount}SP!</color>"
+    },
+    {
+      "id": "GetConfirmedEgogift",
+      "content": "<color=#ebcaa2>Nhận được Quà Tặng E.G.O {reward}!</color>"
+    },
+    {
+      "id": "GetConfirmedStackableEgogift",
+      "content": "<color=#ebcaa2>Nhận được Quà Tặng E.G.O {stack} {reward}!</color>"
+    },
+    {
+      "id": "LoseConfirmedStackableEgogift",
+      "content": "<color=#ebcaa2>Mất Quà Tặng E.G.O {stack} {reward}!</color>"
+    },
+    {
+      "id": "GetBuff_OnStageStart",
+      "content": "<color=#ebcaa2>{target} {conditional} sẽ vào ải giao chiến tiếp theo với {stack} {buffName}.</color>"
+    },
+    {
+      "id": "UnlockHiddenRoute",
+      "content": "<color=#ebcaa2>Một con đường mới đã xuất hiện trên bản đồ!!</color>"
+    },
+    {
+      "id": "ReduceEnemyWave",
+      "content": "<color=#ebcaa2>Trận chiến tiếp theo sẽ giảm {waveNum} đợt kẻ địch tấn công</color>"
+    },
+    {
+      "id": "DestroyEgogift",
+      "content": "<color=#ebcaa2>Quà Tặng E.G.O {reward}</color> <color=#e30000>bị phá hủy!</color>"
+    },
+    {
+      "id": "Choice_90103301",
+      "content": "<color=#f8c200>Tốc Độ +1</color> <color=#ebcaa2>tới hết trận này</color>"
+    },
+    {
+      "id": "Choice_901001",
+      "content": "<color=#ebcaa2>Khi Khởi Chiến,</color> đồng minh không có <color=#a0392b>Kỹ Năng Tấn Công Phẫn Nộ</color> <color=#ebcaa2>nhận</color> <color=#e30000>5 sát thương Phẫn Nộ</color>"
+    },
+    {
+      "id": "Choice_901007",
+      "content": "<color=#ebcaa2>Vào đầu lượt,</color> <color=#ebcaa2>hồi</color> <color=#00ff9c>10 HP</color> và <color=#80c9ff>10 SP</color> (Tối đa 3 lượt)"
+    },
+    {
+      "id": "Choice_901009",
+      "content": "<color=#e30000>Sức Mạnh Tổng của Kỹ Năng -1</color> <color=#ebcaa2>khi Khởi Chiến</color>"
+    },
+    {
+      "id": "Choice_901010",
+      "content": "<color=#ebcaa2>Vào đầu trận chiến tiếp theo,</color> <color=#ebcaa2>Đồng Minh không có</color> <color=#bb521f>Kỹ Năng Tấn Công Nguyên Tội Dục Vọng</color> <color=#ebcaa2>sẽ Bị Choáng</color>"
+    },
+    {
+      "id": "Choice_901019",
+      "content": "<color=#e30000>Tốc Độ -2</color> <color=#ebcaa2>khi Khởi Chiến</color>"
+    },
+    {
+      "id": "Choice_90103402",
+      "content": "<color=#f8c200>Tốc Độ +2</color> <color=#ebcaa2>tới hết trận này</color>"
+    },
+    {
+      "id": "Choice_1030301",
+      "content": "<color=#ebcaa2>Vào đầu trận chiến tiếp theo, toàn bộ Đơn Vị Đồng Minh</color> <color=#ebcaa2>nhận</color> <color=#f8c200>3 Tăng Sức Mạnh Tấn Công.</color>"
+    },
+    {
+      "id": "Choice_1030501",
+      "content": "<color=#ff0000>Vào Ải Giao Chiến!</color>\n<color=#ebcaa2>Toàn bộ kẻ địch</color> <color=#ebcaa2>bị gây</color> <color=#e30000>5 Giảm Sức Mạnh Tấn Công!</color>"
+    },
+    {
+      "id": "Choice_1031001",
+      "content": "<color=#ebcaa2>Tội Nhân được chọn</color> <color=#ebcaa2>nhận</color> <color=#e30000>3 Giảm Sát Thương</color> <color=#ebcaa2>trong 2 trận tiếp theo.</color>"
+    },
+    {
+      "id": "Choice_90100201",
+      "content": "<color=#ebcaa2>Tội Nhân kiểm định thất bại nhận</color> <color=#e30000>12 sát thương HP</color> <color=#ebcaa2>và</color> <color=#fe4b48>8 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90100502",
+      "content": "<color=#ebcaa2>Tội Nhân kiểm định thất bại nhận</color> <color=#e30000>15 sát thương HP</color> <color=#ebcaa2>và</color> <color=#fe4b48>12 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90101001",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#bb521f>Kỹ Năng Tấn Công Nguyên Tội Dục Vọng</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>10 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90101101",
+      "content": "<color=#ebcaa2>Tội Nhân kiểm định thất bại nhận</color> <color=#fe4b48>15 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90101701",
+      "content": "<color=#ebcaa2>Tội Nhân kiểm định thành công nhận</color> <color=#fe4b48>5 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90101702",
+      "content": "<color=#ebcaa2>Tội Nhân kiểm định thất bại nhận</color> <color=#fe4b48>25 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90101801",
+      "content": "<color=#ebcaa2>Tội Nhân kiểm định thất bại nhận</color> <color=#fe4b48>12 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90101901",
+      "content": "<color=#ebcaa2>Tội Nhân kiểm định thất bại nhận</color> <color=#fe4b48>10 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90102001",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#61822b>Kỹ Năng Tấn Công Nguyên Tội Phàm Ăn</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>5 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_90102002",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#61822b>Kỹ Năng Tấn Công Nguyên Tội Phàm Ăn</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>10 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_90102201",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#306471>Kỹ Năng Tấn Công Nguyên Tội Thờ Ơ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>13 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_90103302",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#7d4e94>Kỹ Năng Tấn Công Nguyên Tội Đố Kỵ</color> <color=#fe4b48>nhận</color> <color=#e30000>15 sát thương HP</color> <color=#ebcaa2>và</color> <color=#fe4b48>15 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90100101",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#a0392b>Kỹ Năng Tấn Công Nguyên Tội Phẫn Nộ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>16 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_901004",
+      "content": "<color=#ebcaa2>Danh Tính có</color> <color=#a0392b>Kỹ Năng Tấn Công Nguyên Tội Phẫn Nộ</color> <color=#ebcaa2>hồi</color> <color=#f8c200>15 HP.</color>"
+    },
+    {
+      "id": "Choice_90100701",
+      "content": "<color=#ebcaa2>Danh Tính có</color> <color=#bb521f>Kỹ Năng Tấn Công Nguyên Tội Dục Vọng</color> <color=#ebcaa2>hồi</color> <color=#80c9ff>SP.</color>"
+    },
+    {
+      "id": "Choice_901008",
+      "content": "<color=#ebcaa2>Danh Tính có</color> <color=#bb521f>Kỹ Năng Tấn Công Nguyên Tội Dục Vọng</color> <color=#ebcaa2>hồi</color> <color=#f8c200>10 HP.</color>"
+    },
+    {
+      "id": "Choice_90100901",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#bb521f>Kỹ Năng Tấn Công Nguyên Tội Dục Vọng</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>20 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_901014",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#e48801>Kỹ Năng Tấn Công Nguyên Tội Lười Biếng</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>20 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_90101401",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#e48801>Kỹ Năng Tấn Công Nguyên Tội Lười Biếng</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>12 sát thương HP</color> <color=#ebcaa2>và</color> <color=#fe4b48>12 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90101601",
+      "content": "<color=#ebcaa2>Danh Tính có</color> <color=#61822b>Kỹ Năng Tấn Công Nguyên Tội Phàm Ăn</color> <color=#ebcaa2>hồi</color> <color=#80c9ff>SP.</color>"
+    },
+    {
+      "id": "Choice_901018",
+      "content": "<color=#ebcaa2>Một Danh Tính ngẫu nhiên không có</color> <color=#a0392b>Kỹ Năng Tấn Công Nguyên Tội Phẫn Nộ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>10 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_901021",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#306471>Kỹ Năng Tấn Công Nguyên Tội Thờ Ơ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>10 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_901023",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#306471>Kỹ Năng Tấn Công Nguyên Tội Thờ Ơ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>9 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_90102301",
+      "content": "<color=#ebcaa2>Một Danh Tính ngẫu nhiên không có</color> <color=#306471>Kỹ Năng Tấn Công Nguyên Tội Thờ Ơ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>10 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_901024",
+      "content": "<color=#ebcaa2>Danh Tính có SP thấp nhất sở hữu</color> <color=#306471>Kỹ Năng Tấn Công Nguyên Tội Thờ Ơ</color> </color=#ebcaa2>hồi toàn bộ</color> <color=#f8c200>HP.</color>"
+    },
+    {
+      "id": "Choice_901025",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#306471>Kỹ Năng Tấn Công Nguyên Tội Thờ Ơ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>20 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_90102501",
+      "content": "<color=#ebcaa2>Danh Tính có</color> <color=#306471>Kỹ Năng Tấn Công Nguyên Tội Thờ Ơ</color> <color=#ebcaa2>hồi</color> <color=#f8c200>20 HP.</color>"
+    },
+    {
+      "id": "Choice_901026",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#185188>Kỹ Năng Nguyên Tội Kiêu Ngạo</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>10 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_90102601",
+      "content": "<color=#ebcaa2>Danh Tính có</color> <color=#185188>Kỹ Năng Nguyên Tội Kiêu Ngạo</color> <color=#ebcaa2>hồi</color> <color=#f8c200>10 HP.</color>"
+    },
+    {
+      "id": "Choice_901027",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#185188>Kỹ Năng Nguyên Tội Kiêu Ngạo</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>25 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_90102701",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#185188>Kỹ Năng Nguyên Tội Kiêu Ngạo</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>25 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_901028",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#185188>Kỹ Năng Nguyên Tội Kiêu Ngạo</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>5 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_90102801",
+      "content": "<color=#ebcaa2>Danh Tính có</color> <color=#185188>Kỹ Năng Nguyên Tội Kiêu Ngạo</color> <color=#ebcaa2>hồi</color> <color=#f8c200>15 HP.</color>"
+    },
+    {
+      "id": "Choice_901032",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#7d4e94>Kỹ Năng Tấn Công Nguyên Tội Đố Kỵ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>20 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_901034",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#7d4e94>Kỹ Năng Tấn Công Nguyên Tội Đố Kỵ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>15 sát thương HP!</color> <color=#ebcaa2>và</color> <color=#fe4b48>15 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_901035",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> <color=#7d4e94>Kỹ Năng Tấn Công Nguyên Tội Đố Kỵ</color> <color=#ebcaa2>nhận</color> <color=#fe4b48>12 sát thương HP!</color>"
+    },
+    {
+      "id": "Choice_90103501",
+      "content": "<color=#ebcaa2>Danh Tính có</color> <color=#7d4e94>Kỹ Năng Tấn Công Nguyên Tội Đố Kỵ</color> <color=#ebcaa2>hồi</color> <color=#f8c200>15 HP.</color>"
+    },
+    {
+      "id": "Choice_1040301",
+      "content": "<color=#ebcaa2>Tội Nhân được chọn</color> <color=#ebcaa2>nhận</color> <color=#e30000>10 Vỡ Vụn</color> <color=#ebcaa2>trong 1 lượt vào trận tiếp theo.</color>"
+    },
+    {
+      "id": "MirrorDungeonAcquireCost",
+      "content": "<color=#ebcaa2>Nhận {amount} Cost</color>"
+    },
+    {
+      "id": "MirrorDungeonLossCost",
+      "content": "<color=#ebcaa2>Mất {amount} Cost</color>"
+    },
+    {
+      "id": "Choice_90104001",
+      "content": "<color=#ebcaa2>Bắt đầu trận tiếp theo với</color> <color=#f8c200>+2 Tài Nguyên E.G.O</color> <color=#ebcaa2>của toàn bộ nguyên tội</color>"
+    },
+    {
+      "id": "Choice_9010400101",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh nhận</color> <color=#f8c200>+2 Sức Mạnh Tổng của Kỹ Năng</color> <color=#ebcaa2>vào trận tiếp theo</color>"
+    },
+    {
+      "id": "Choice_90104002",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh nhận</color> <color=#f8c200>+1 Sức Mạnh Kỹ Năng</color> <color=#ebcaa2>vào trận tiếp theo</color>"
+    },
+    {
+      "id": "ChangeEventIllust",
+      "content": ""
+    },
+    {
+      "id": "Choice_90105801",
+      "content": "Toàn bộ Danh Tính được Triển Khai nhận 2 Cấp Độ"
+    },
+    {
+      "id": "Choice_90106802",
+      "content": "Toàn bộ Danh Tính được Triển Khai nhận 3 Cấp Độ"
+    },
+    {
+      "id": "Choice_90107402",
+      "content": "Toàn bộ Danh Tính được Triển Khai nhận 2 Cấp Độ"
+    },
+    {
+      "id": "Choice_90109101",
+      "content": "Toàn bộ Danh Tính được Triển Khai nhận 2 Cấp Độ"
+    },
+    {
+      "id": "Choice_90200502",
+      "content": "<color=#ebcaa2>Tội Nhân kiểm định thất bại nhận</color> <color=#e30000>15 sát thương HP</color> <color=#ebcaa2>và</color> <color=#fe4b48>12 sát thương SP!</color>"
+    },
+    {
+      "id": "Choice_LoseBattle",
+      "content": "<color=#ff0000>Không có phần thưởng nếu Thất Bại</color>"
+    },
+    {
+      "id": "Choice_EGO901001",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Mộng Hỏa Điệp\" & \"Hoa Lửa Rực Cháy\""
+    },
+    {
+      "id": "Choice_EGO901002",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Suy Đồi\" & \"Kinh Hãi\""
+    },
+    {
+      "id": "Choice_EGO901009",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Bút Lông Giáng Họa\" & \"Sáp Nến Tan Chảy\""
+    },
+    {
+      "id": "Choice_EGO901010",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Khí Cụ Đẫm Máu\" & \"Hào Quang\""
+    },
+    {
+      "id": "Choice_EGO901011",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Mưa Bóng Mây\" & \"Chiếc Ô Rách\""
+    },
+    {
+      "id": "Choice_EGO901013",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Bó Bùa Hộ Mệnh\" & \"Người Gỗ Cổ\""
+    },
+    {
+      "id": "Choice_EGO901014",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Đồng Xu Kỷ Niệm Hoen Rỉ\" & \"Đau Đớn vì Nén Giận\""
+    },
+    {
+      "id": "Choice_EGO901016",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Lục Tửu\" & \"Hương Rượu Chua\""
+    },
+    {
+      "id": "Choice_EGO901018",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Vương Miện Hoa Hồng\" & \"An Nghỉ\""
+    },
+    {
+      "id": "Choice_EGO901019",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Chất Nhầy Nhớp Nháp\" & \"Lọ Độc Sinh Học\""
+    },
+    {
+      "id": "Choice_EGO901020",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Cành Bông Trắng\" & \"Bó Rễ Rối Rắm\""
+    },
+    {
+      "id": "Choice_EGO901021",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Bật Lửa Zippo Màu Xanh\" & \"Đèn Pin Tuần Tra Chuyên Dụng\""
+    },
+    {
+      "id": "Choice_EGO901024",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Nhãn Cầu Tan Chảy\" & \"Da Độc\""
+    },
+    {
+      "id": "Choice_EGO901031",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Đèn Nixie Phân Kỳ\" & \"Bánh Răng Cơ Khí\""
+    },
+    {
+      "id": "Choice_EGO901033",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Ắc Quy Tiêu Chuẩn\" & \"Máy Khử Rung Tim Đã Bỏ Giới Hạn\""
+    },
+    {
+      "id": "Choice_EGO901034",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Mạch Logic Chuẩn\" & \"Hệ Thống UPS\""
+    },
+    {
+      "id": "Choice_EGO901056",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Cỏ Bốn Lá\" & \"Cánh Lục Bảo\""
+    },
+    {
+      "id": "Choice_EGO901059",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Ác Mộng Đêm Đông\" & \"Bẫy Mộc\""
+    },
+    {
+      "id": "Choice_EGO901073",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Bộ Kích Thích Endorphin\" & \"Đèn Huỳnh Quang\""
+    },
+    {
+      "id": "Choice_EGO971029",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Dao Găm Thứ Nguyên Loại E\" & \"Ắc Quy Rào Chắn Di Động\""
+    },
+    {
+      "id": "GetImmediateConfirmedEgogifts",
+      "content": "<color=#ebcaa2>Nhận Quà Tặng E.G.O {reward}!</color>"
+    },
+    {
+      "id": "Choice_EGO901101",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Cột Điện Thu Nhỏ\""
+    },
+    {
+      "id": "Choice_EGO901104",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Túi Máu Thủng\""
+    },
+    {
+      "id": "Choice_EGO971054",
+      "content": "Thắng trận để nhận Quà Tặng E.G.O \"Bình Nhiên Liệu Sánh Động\""
+    },
+    {
+      "id": "LoseMpOnlyUntilMin",
+      "content": "<color=#ebcaa2>Reduce</color> <color=#fe4b48>SP to minimum value for</color> <color=#ebcaa2>{conditions}{targets}</color>"
+    },
+    {
+      "id": "ReviveOutOfBattleAndRecoverHpAll",
+      "content": "Hồi sinh toàn bộ Tội Nhân đã chết và <color=#ebcaa2>hồi</color> <color=#00ff9c>tối đa HP</color> cho Tội Nhân nào còn sống."
+    },
+    {
+      "id": "RecoverRatioHpOnly",
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>hồi</color> <color=#00ff9c>{amount}% HP tối đa.</color>"
+    }
+  ]
+}

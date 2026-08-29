@@ -1,0 +1,75 @@
+{
+  "dataList": [
+    {
+      "id": 837101,
+      "name": "Thời Cơ Thoáng Qua",
+      "desc": "Đầu Lượt: Nếu Tốc Độ của chủ thể nhanh hơn mục tiêu, nhận 1 [PenetrateDamageUp]"
+    },
+    {
+      "id": 837102,
+      "name": "Thong Thả Mà Thở",
+      "desc": "Cuối Lượt: Hồi 7 SP\nCuối Lượt: Nhận [Agility] tương ứng với ([Breath] trên chủ thể/4) vào lượt kế (tối đa 3)"
+    },
+    {
+      "id": 837103,
+      "name": "Đấu Tay Đôi",
+      "desc": "Dùng 'Salut' nếu mục tiêu bị Choáng"
+    },
+    {
+      "id": 837104,
+      "name": "Xuyên Phá Tiêu Điểm",
+      "desc": "Khi sử dụng kỹ năng tấn công lên cùng 1 ô mà nhân vật này đánh trúng vào lượt trước, nhận hiệu ứng dựa trên số lượt nhân vật này đánh vào Ô kỹ năng đó\nHiệu ứng trên sẽ đếm lại từ đầu nếu chủ thể không thể tấn công ở lượt trước\n- 1 lượt: Sức Mạnh Giao Tranh +1\n- 2 lượt: Sức Mạnh Gốc +1\n- 3 lượt: Sức Mạnh Gốc +1, Sức Mạnh Xu +1"
+    },
+    {
+      "id": 837201,
+      "name": "Ta Sẽ Cắt Ngươi Trước!",
+      "desc": "Ưu tiên [LineCutting]."
+    },
+    {
+      "id": 837202,
+      "name": "Kéo Huyết Giáp",
+      "desc": "Khi Thắng Giao Tranh với 1 kẻ địch có [Laceration], hồi máu cho Bộ Phận và Lõi của chủ thể bằng với 40% sát thương gây ra.\nKết Đòn: Nếu chủ thể hồi 100 HP, hồi 10 SP\nHiệu ứng này không kích hoạt lên Xu Bị Vỡ khi Đánh Trúng sau khi thua Giao Tranh.",
+      "summary": "Hồi phục khi tấn công kẻ đich có [Laceration]. Nếu chủ thể hồi 100 HP, đồng thời hồi SP."
+    },
+    {
+      "id": 837203,
+      "name": "Ta Không Cần Những Thứ Xấu Xí!!",
+      "desc": "Nếu bất kỳ kẻ địch nào có HP thấp hơn 30%, sử dụng Kỹ Năng 'Ta Không Cần Những Thứ Xấu Xí!!' ."
+    },
+    {
+      "id": 837204,
+      "name": "Tiệc Chưa Tàn Đâu!",
+      "desc": "Khi HP xuống 40%, thay đổi hành vi.\nNgay khi thay đổi hành vi, nhận 10 [Laceration] và 2 [BloodScissor]."
+    },
+    {
+      "id": 837205,
+      "name": "Huyết Yến",
+      "desc": "Nếu chủ thể đang tham chiến hoặc có thể tham chiến, tăng giá trị [BloodDinner] dựa theo tổng sát thương [Laceration] tất cả đơn vị trong trận đã nhận.\nKhi chủ thể tham chiến, huyết mạch ngủ say sẽ trỗi dậy, nhuộm đẫm huyết sắc trên chiến trường."
+    },
+    {
+      "id": 837206,
+      "name": "Kéo Nhuốm Máu",
+      "desc": "Khởi Chiến: nhận 10 [BloodScissor]\n- Lượng [BloodScissor] không thể xuống thấp hơn 1\n- Khi có 10+ [BloodScissor], cường hóa thành [BloodScissorTwo].\n- Khi có 20+ [BloodScissor], cường hóa thành [BloodScissorThree].\nNếu chủ thể tiêu thụ [BloodScissor] xuống thấp hơn số Lượng nêu trên, chuyển hóa hiệu ứng dựa trên số Lượng"
+    },
+    {
+      "id": 837207,
+      "name": "Héo Mòn và Kiệt Quệ",
+      "desc": "Khởi Chiến: nhận [StarvingBarberTwo]"
+    },
+    {
+      "id": 837208,
+      "name": "Máu... Máu... Máu...!",
+      "desc": "Cuối Lượt: nếu bị Hoảng Loạn, hồi phục ở đầu lượt kế và đặt lại SP về 0.\nKhi hồi phục khỏi Hoảng Loạn:\n- Tiêu thụ 30 [BloodDinner] và nhận 2 [Enhancement] và 1 [BloodScissor] vào lượt kế, và hồi 20 SP.\n- Nếu không thể tiêu thụ đủ [BloodDinner], nhận 30 [Laceration], lập tức nhận sát thương [Laceration], và mất 3 Tầng [Laceration]. Sau đó, nhận 2 [Enhancement], 2 [AttackDmgUp], và hồi 20 SP vào lượt kế."
+    },
+    {
+      "id": 9999997,
+      "name": "Hồi Phục Tâm Lý",
+      "desc": "Cuối Lượt: nếu rơi vào Hoảng Loạn, đặt lại SP về 0."
+    },
+    {
+      "id": 9999996,
+      "name": "Tâm Thần Ổn Định",
+      "desc": "Hiệu ứng thay đổi Loại Hoảng Loạn không thể ghi đè Loại Hoảng Loạn của chủ thể. Thay vào đó, chủ thể sẽ được xem như mục tiêu không có SP khi nhận các hiệu ứng liên quan đến thay đổi Loại Hoảng Loạn"
+    }
+  ]
+}

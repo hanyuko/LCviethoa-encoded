@@ -1,0 +1,3427 @@
+{
+  "dataList": [
+    {
+      "id": 1040501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "C.T.S",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "C.T.S",
+          "desc": "Ở mốc 10+ Tầng [Charge], +10% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "C.T.S",
+          "desc": "Ở mốc 10+ Tầng [Charge], +10% sát thương gây ra\nỞ mốc 15+ Tầng [Charge], gây thêm +10% sát thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bứt Tốc",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Ở mốc 10+ Tầng [Charge], gây 1 [SlashTakeDamageUp]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu HP của mục tiêu < 30%, +15% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Bứt Tốc",
+          "desc": "[WhenUse] Nhận +6 Tầng [Charge]\nỞ mốc 10+ Tầng [Charge], nhận +1 Sức Mạnh Xu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10+ Tầng [Charge], gây 1 [SlashTakeDamageUp]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu HP của mục tiêu < 30%, +20% sát thương gây ra"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận 1 [Agility] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bứt Tốc",
+          "desc": "[WhenUse] Nhận +7 Tầng [Charge]\nỞ mốc 10+ Tầng [Charge], nhận +1 Sức Mạnh Xu\nỞ mốc 15+ Tầng [Charge], nhận +1 Sức Mạnh Xu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10+ Tầng [Charge], gây 2 [SlashTakeDamageUp]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu HP của mục tiêu < 30%, +30% sát thương gây ra"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận 3 [Agility] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "H.K.Q.K.X.T.K.G.",
+          "desc": "[WhenUse] Ở mốc 7~14 Tầng [Charge]\nTiêu thụ toàn bộ Tầng [Charge],\nvà tiêu thụ 3 x (15 - Tầng [Charge] đã tiêu thụ)% HP để nhận +3 Sức Mạnh Xu\n[WhenUse] Tiêu thụ 15 Tầng [Charge] để nhận +3 Sức Mạnh Xu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Xu cuối +5% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Xu cuối +5% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Xu cuối +5% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Nếu Kỹ năng đã tiêu thụ 15 Tầng [Charge] khi sử dụng, gán 5 [ChargeForceField] cho chủ thể và 1 đồng minh khác"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "H.K.Q.K.X.T.K.G.",
+          "desc": "[WhenUse] Ở mốc 7~14 Tầng [Charge]\nTiêu thụ toàn bộ Tầng [Charge],\nvà tiêu thụ 3 x (15 - Tầng [Charge] đã tiêu thụ)% HP để nhận +5 Sức Mạnh Xu\n[WhenUse] Tiêu thụ 15 Tầng [Charge] để nhận +5 Sức Mạnh Xu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Xu cuối +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Xu cuối +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Xu cuối +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Nếu Kỹ năng đã tiêu thụ 15 Tầng [Charge] khi sử dụng, gán 7 [ChargeForceField] cho chủ thể và 1 đồng minh khác"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xung Điện Né Tránh",
+          "desc": "Sức Mạnh Gốc +1 với mỗi 5 Tầng [Charge] (tối đa 2)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xung Điện Né Tránh",
+          "desc": "Sức Mạnh Gốc +1 với mỗi 5 Tầng [Charge] (tối đa 3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đẩy",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Mục tiêu mất 4 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Đẩy",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Mục tiêu mất 6 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đẩy",
+          "desc": "[WhenUse] Nhận 2 Tầng [Breath]\n<style=\"highlight\">Ở mốc 7+ [Breath], Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Mục tiêu mất 8 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "V.H.H.M.T.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [AttackDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "V.H.H.M.T.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [AttackDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "V.H.H.M.T.",
+          "desc": "Ở mốc 7+ [Breath], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [AttackDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "N.T.N.",
+          "desc": "[WhenUse] Nhận 4 [Breath]\nỞ mốc 10+ [Breath], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [Bullet]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây gấp đôi Lượng & Tầng [Vibration] và [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst] và +1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "N.T.N.",
+          "desc": "[WhenUse] Nhận 4 [Breath]\nNhận +1 Sức Mạnh Xu với mỗi 7 [Breath] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [Bullet]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây gấp đôi Lượng & Tầng [Vibration] và [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration] và +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đỡ",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tấn Công Tổng Lực",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Tấn Công Tổng Lực",
+          "desc": "Nếu mục tiêu có 6+ [Combustion], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tấn Công Tổng Lực",
+          "desc": "Nếu mục tiêu có 6+ [Combustion], Sức Mạnh Giao Tranh +1\n<style=\"highlight\">Nếu mục tiêu có 10+ [Combustion], Sức Mạnh Xu +1 </style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Viêm Thủ Kích",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Combustion], +20% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Viêm Thủ Kích",
+          "desc": "Nếu mục tiêu có 6+ [Combustion], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Combustion], +30% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Viêm Thủ Kích",
+          "desc": "Nếu mục tiêu có 6+ [Combustion], Sức Mạnh Giao Tranh +1\n<style=\"highlight\">Nếu mục tiêu có 6+ [Combustion], Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Combustion], +50% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Viêm Tuyệt",
+          "desc": "Nếu mục tiêu có 6+ [Combustion], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 10+ [Combustion], +20% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Viêm Tuyệt",
+          "desc": "Nếu mục tiêu có 6+ [Combustion], Sức Mạnh Giao Tranh +1\n<style=\"highlight\">Nếu mục tiêu có 6+ [Combustion], Sức Mạnh Xu +1 </style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 10+ [Combustion], +40% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đỡ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thuật Tiếp Đón Thứ 1: Săn Lùng",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Thuật Tiếp Đón Thứ 1: Săn Lùng",
+          "desc": "<style=\"highlight\">Nếu Tốc Độ của chủ thể cao hơn mục tiêu từ 3 trở lên, Sức Mạnh Giao Tranh +1</style>\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thuật Tiếp Đón Thứ 1: Săn Lùng",
+          "desc": "<style=\"highlight\">Nếu Tốc Độ của chủ thể cao hơn mục tiêu, nhận Sức Mạnh Giao Tranh +1 với mỗi 2 Tốc Độ chênh lệch (tối đa 3)</style>\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thuật Tiếp Đón Thứ 7: Giam Giữ",
+          "desc": "[StartBattle] Tiêu thụ 6 Tầng [Breath] trên chủ thể để nhận +2 Phạm Vi Tấn Công cho Kỹ năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Thuật Tiếp Đón Thứ 7: Giam Giữ",
+          "desc": "[StartBattle] Tiêu thụ 6 Tầng [Breath] trên chủ thể để nhận +2 Phạm Vi Tấn Công cho Kỹ năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thuật Tiếp Đón Thứ 7: Giam Giữ",
+          "desc": "<style=\"highlight\">Nếu Tốc Độ của chủ thể cao hơn mục tiêu chính, nhận Sức Mạnh Giao Tranh +1 với mỗi 2 Tốc Độ chênh lệch (tối đa 3)</style>\n[StartBattle] Tiêu thụ 6 Tầng [Breath] trên chủ thể để nhận +2 Phạm Vi Tấn Công cho Kỹ năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [MarkOfButler]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Thuật Tiếp Đón Thứ 2: C.C",
+          "desc": "Nếu mục tiêu có [MarkOfButler], Sức Mạnh Giao Tranh +1\n[WhenUse] Nhận +7 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng bằng 20% lượng sát thương đã gây ra "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu Bị Choáng, +20% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thuật Tiếp Đón Thứ 2: C.C",
+          "desc": "Nếu mục tiêu có [MarkOfButler], Sức Mạnh Giao Tranh +1\n<style=\"highlight\">Nếu Tốc Độ của chủ thể cao hơn mục tiêu, nhận Sức Mạnh Xu +1 với mỗi 2 Tốc Độ chênh lệch (tối đa 2)</style>\n[WhenUse] Nhận +7 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng bằng 30% lượng sát thương đã gây ra "
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [MarkOfButler]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu Bị Choáng, +40% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MarkOfButler]"
+                },
+                {
+                  "desc": "[EnemyKill] Tái Sử Dụng Kỹ Năng này một lần lên mục tiêu ngẫu nhiên có [MarkOfButler]\n(Không kích hoạt khi Tái Sử Dụng. Không kích hoạt nếu không còn mục tiêu nào có [MarkOfButler])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Còn Non Lắm",
+          "desc": "[OnSucceedEvade] Hồi 3 SP (3 lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Còn Non Lắm",
+          "desc": "[OnSucceedEvade] Hồi 3 SP (<style=\"highlight\">5</style> lần mỗi lượt)\n<style=\"highlight\">[OnSucceedEvade] Nhận +1 Tầng [Breath] (5 lần mỗi lượt)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đầu Vặn Vít Lỏng Sao?",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận Tầng [Vibration] bằng với ((Tầng [Vibration] trên mục tiêu) / 2) (tối đa 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Đầu Vặn Vít Lỏng Sao?",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n<style=\"highlight\">[WhenUse] Ở mốc 5+ Tầng [Vibration], Sức Mạnh Giao Tranh +2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận Tầng [Vibration] bằng với ((Tầng [Vibration] trên mục tiêu) / 2) (tối đa <style=\"highlight\">3</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đầu Vặn Vít Lỏng Sao?",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n[WhenUse] Ở mốc <style=\"highlight\">4</style>+ Tầng [Vibration], Sức Mạnh Giao Tranh +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận Tầng [Vibration] bằng với (Tầng [Vibration] trên mục tiêu) (tối đa <style=\"highlight\">4</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nén Xoắn Cờ Lê",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ Tầng [Vibration] trên chủ thể, và gây cùng số Tầng [Vibration] lên mục tiêu (tối đa 5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Nén Xoắn Cờ Lê",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n<style=\"highlight\">Ở mốc 5+ Tầng [Vibration], Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ Tầng [Vibration] trên chủ thể, và gây cùng số Tầng [Vibration] lên mục tiêu (tối đa 5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nén Xoắn Cờ Lê",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n<style=\"highlight\">[WhenUse] Ở mốc 4+ Tầng [Vibration], Sức Mạnh Giao Tranh +1</style>\nỞ mốc <style=\"highlight\">4</style>+ Tầng [Vibration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ Tầng [Vibration] trên chủ thể, và gây cùng số Tầng [Vibration] lên mục tiêu (tối đa 5)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Bảo Trì Bằng Va Đập",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\nTiêu thụ 10 Tầng [Vibration] trên chủ thể để nhận Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 2 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bảo Trì Bằng Va Đập",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\nTiêu thụ <style=\"highlight\">8</style> Tầng [Vibration] trên chủ thể để nhận Sức Mạnh Xu +1\n<style=\"highlight\">Nếu mục tiêu có 6+ [Vibration], Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm <style=\"highlight\">1</style> Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ",
+          "desc": "[WhenUse] Nhận 2 x (Tầng [Vibration] trên chủ thể) Khiên (tối đa 5)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đỡ",
+          "desc": "[WhenUse] Nhận 2 x (Tầng [Vibration] trên chủ thể) Khiên (tối đa <style=\"highlight\">10</style>)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hai Đứa Mày, Câm Mồm ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [PenanceFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [RedEyeFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Hai Đứa Mày, Câm Mồm ",
+          "desc": "<style=\"highlight\">Ở mốc 7+ [RedEyeFirst], Sức Mạnh Xu +1\nỞ mốc 7+ [PenanceFirst], Sức Mạnh Giao Tranh +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [PenanceFirst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Laceration]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hai Đứa Mày, Câm Mồm ",
+          "desc": "Ở mốc 7+ [RedEyeFirst], Sức Mạnh Xu +1\nỞ mốc 7+ [PenanceFirst], Sức Mạnh Giao Tranh <style=\"highlight\">+2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [PenanceFirst]\n<style=\"highlight\">[OnSucceedAttackHead] Nhận 1 [PenanceFirst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đ.N / M.S.",
+          "desc": "Nếu tổng [RedEyeFirst] và [PenanceFirst] từ 20 trở lên, Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [PenanceFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [RedEyeFirst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Đ.N / M.S.",
+          "desc": "Nếu tổng [RedEyeFirst] và [PenanceFirst] từ 20 trở lên, Sức Mạnh Xu +1\n<style=\"highlight\">Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [PenanceFirst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nhận [RedEyeFirst] bằng với ([Laceration] trên mục tiêu / 3) (tối đa 2)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đ.N / M.S.",
+          "desc": "Nếu tổng [RedEyeFirst] và [PenanceFirst] từ <style=\"highlight\">15</style> trở lên, Sức Mạnh Xu +1\nNếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [PenanceFirst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [RedEyeFirst] bằng với ([Laceration] trên mục tiêu / <style=\"highlight\">2</style>) (tối đa <style=\"highlight\">3</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Ở mốc 7+ [RedEyeFirst], nhận 1 [Agility] vào lượt kế (2 lần mỗi lượt)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Nghiền Sọ",
+          "desc": "[BeforeUse] Nếu [RedEyeFirst] và [PenanceFirst] đều từ 15 trở lên, kích hoạt dưới dạng 'Nghiền Sọ Nghiêm Túc'\nNếu Tốc Độ của chủ thể cao hơn mục tiêu từ 3 trở lên, Sức Mạnh Xu +1\n[WhenUse] Khi SP ở mức tối đa, Sức Mạnh Xu +1\n- [EndSkill] Nếu hiệu ứng này kích hoạt, mất 15 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 7 [RedEyeFirst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 7 [PenanceFirst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi cho chủ thể và 1 đồng minh có phần trăm HP thấp nhất ([PenanceFirst]/3)% HP Tối Đa của mỗi đơn vị"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi cho chủ thể và 1 đồng minh có SP thấp nhất ([PenanceFirst] - 10) SP (tối thiểu 0)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nghiền Sọ",
+          "desc": "[BeforeUse] Nếu [RedEyeFirst] và [PenanceFirst] đều từ 15 trở lên, kích hoạt dưới dạng 'Nghiền Sọ Nghiêm Túc'\nNếu Tốc Độ của chủ thể <style=\"highlight\">cao hơn mục tiêu</style>, Sức Mạnh Xu +1\n[WhenUse] Khi SP ở mức tối đa, <style=\"highlight\">Sức Mạnh Giao Tranh +2</style> và Sức Mạnh Xu +1\n- [EndSkill] Nếu hiệu ứng này kích hoạt, mất 15 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 7 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 7 [PenanceFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Nhận 2 [PenanceFirst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi cho chủ thể và 1 đồng minh có phần trăm HP thấp nhất ([PenanceFirst] / <style=\"highlight\">2</style>)% HP Tối Đa của mỗi đơn vị"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi cho chủ thể và 1 đồng minh có SP thấp nhất ([PenanceFirst] - 10) SP (tối thiểu 0)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ăn ngon, Ngủ khỏe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [RedEyeFirst] (một lần mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [PenanceFirst] (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ăn ngon, Ngủ khỏe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [RedEyeFirst] (một lần mỗi lượt)\n<style=\"highlight\">- Nếu [RedEyeFirst] < 7, nhận thêm +1 [RedEyeFirst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [PenanceFirst] (một lần mỗi lượt)\n<style=\"highlight\">- Nếu [PenanceFirst] < 7, nhận thêm +1 [PenanceFirst]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041005,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Nghiền Sọ Nghiêm Túc",
+          "desc": "[WhenUse] Tiêu thụ toàn bộ [RedEyeFirst] và [PenanceFirst] trên chủ thể\n- Sức Mạnh Xu +1 với mỗi 5 [RedEyeFirst] đã tiêu thụ (tối đa 4)\n- Sức Mạnh Gốc +1 với mỗi 5 [PenanceFirst] đã tiêu thụ (tối đa 4)\n[EndSkill] Mất 15 SP và nhận [Emptiness] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Laceration] bằng với ([RedEyeFirst] đã tiêu thụ - 15) lên mục tiêu (tối đa 5)"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+2.5% sát thương gây ra với mỗi [RedEyeFirst] và [PenanceFirst] đã tiêu thụ (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi cho chủ thể và 1 đồng minh có phần trăm HP thấp nhất ([PenanceFirst] đã tiêu thụ / 2)% HP Tối Đa của mỗi đơn vị\n- Hồi thêm 1 đồng minh với mỗi 2 Cộng Hưởng cao nhất (tối đa 2 đồng minh)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi cho chủ thể và 1 đồng minh có SP thấp nhất ([PenanceFirst] đã tiêu thụ - 10) SP\n- Hồi thêm 1 đồng minh với mỗi 2 Cộng Hưởng cao nhất (tối đa 2 đồng minh)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] và 2 [Reduction] vào lượt kế (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nghiền Sọ Nghiêm Túc",
+          "desc": "[WhenUse] Tiêu thụ toàn bộ [RedEyeFirst] và [PenanceFirst] trên chủ thể\n- Sức Mạnh Xu +1 với mỗi 5 [RedEyeFirst] đã tiêu thụ (tối đa 4)\n- Sức Mạnh Gốc +1 với mỗi 5 [PenanceFirst] đã tiêu thụ (tối đa 4)\n[EndSkill] Mất 15 SP và nhận [Emptiness] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Laceration] bằng với ([RedEyeFirst] đã tiêu thụ - 15) lên mục tiêu (tối đa 5)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+4%</style> sát thương gây ra với mỗi [RedEyeFirst] và [PenanceFirst] đã tiêu thụ (tối đa <style=\"highlight\">160%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi cho chủ thể và 1 đồng minh có phần trăm HP thấp nhất <style=\"highlight\">([PenanceFirst] đã tiêu thụ)%</style> HP Tối Đa của mỗi đơn vị\n- Hồi thêm 1 đồng minh với mỗi 2 Cộng Hưởng cao nhất (tối đa 2 đồng minh)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi cho chủ thể và 1 đồng minh có SP thấp nhất ([PenanceFirst] đã tiêu thụ - <style=\"highlight\">5</style>) SP\n- Hồi thêm 1 đồng minh với mỗi 2 Cộng Hưởng cao nhất (tối đa 2 đồng minh)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] và 2 [Reduction] vào lượt kế (một lần mỗi lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thuấn Bộ",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Thuấn Bộ",
+          "desc": "[WhenUse] Nếu mục tiêu có <style=\"highlight\">4</style>+ [Burst], Sức Mạnh Xu +1\n<style=\"highlight\">[WinDuel] Gây +1 Tầng [Burst]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ở mốc 10+ Tốc Độ, Tái Sử Dụng Xu một lần (một lần mỗi Kỹ Năng)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thuấn Bộ",
+          "desc": "<style=\"highlight\">Nếu Tốc Độ của chủ thể cao hơn mục tiêu từ 3 trở lên, Sức Mạnh Xu +1</style>\n[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây +1 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10+ Tốc Độ, Tái Sử Dụng Xu một lần (một lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Như Lệnh Chủ Thượng",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu, +(chênh lệch Tốc Độ x Lượng [Burst] trên mục tiêu)% sát thương gây ra (tối đa 50%)\n[WhenUse] Nếu mục tiêu có 6+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ở mốc 10+ Tốc Độ, +10% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Như Lệnh Chủ Thượng",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu, +(chênh lệch Tốc Độ x Lượng [Burst] trên mục tiêu)% sát thương gây ra (tối đa 50%)\n[WhenUse] Nếu mục tiêu có <style=\"highlight\">4</style>+ [Burst], Sức Mạnh Xu +1\n<style=\"highlight\">[WhenUse] Nhận 2 [Agility] vào lượt kế (một lần mỗi lượt)\n[WinDuel] Gây +1 Tầng [Burst]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ở mốc 10+ Tốc Độ, gây +1 Tầng [Burst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ở mốc 10+ Tốc Độ, +<style=\"highlight\">20</style>% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Như Lệnh Chủ Thượng",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu, +(chênh lệch Tốc Độ x Lượng [Burst] trên mục tiêu)% sát thương gây ra (tối đa 50%)\n<style=\"highlight\">Nếu Tốc Độ của chủ thể cao hơn mục tiêu từ 3 trở lên, Sức Mạnh Xu +1</style>\n[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Xu +1\n[WhenUse] Nhận 2 [Agility] vào lượt kế (một lần mỗi lượt)\n[WinDuel] Gây +1 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10+ Tốc Độ, gây +1 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ở mốc 10+ Tốc Độ, +<style=\"highlight\">30</style>% sát thương gây ra"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Burst]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ta sẽ moi ruột ngươi bằng thanh đao khắc chú này",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu, +(chênh lệch Tốc Độ x Lượng [Burst] trên mục tiêu)% sát thương gây ra (tối đa 50%)\nNếu Tốc Độ của chủ thể nhanh hơn mục tiêu từ 2 trở lên, Sức Mạnh Xu +1\n[WhenUse] Nhận 3 [LegStrength]\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ở mốc 10+ Tốc Độ, +30% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10+ Tốc Độ, Tái Sử Dụng Xu một lần (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ta sẽ moi ruột ngươi bằng thanh đao khắc chú này",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu, +(chênh lệch Tốc Độ x Lượng [Burst] trên mục tiêu)% sát thương gây ra (tối đa 50%)\nNếu Tốc Độ của chủ thể nhanh hơn mục tiêu, <style=\"highlight\">nhận Sức Mạnh Xu dựa trên chênh lệch Tốc Độ (Sức Mạnh Xu +1 với mỗi 2 Tốc Độ chênh lệch; tối đa 2)\n[WhenUse] Nếu mục tiêu có 15+ [Burst], Sức Mạnh Xu +1</style>\n[WhenUse] Nhận 3 [LegStrength]\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstAgility]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ở mốc 10+ Tốc Độ, +30% sát thương gây ra<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10+ Tốc Độ, Tái Sử Dụng Xu một lần (một lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Gây [BurstAgility]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hành Bộ Giả. Phóng Thích. Hê.",
+          "desc": "[DuelCounter]\n[WhenUse] Nhận 3 [LegStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hành Bộ Giả. Phóng Thích. Hê.",
+          "desc": "[DuelCounter]\n[WhenUse] Nhận 3 [LegStrength]\n<style=\"highlight\">[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu, nhận Sức Mạnh Gốc dựa trên chênh lệch Tốc Độ (Sức Mạnh Gốc +1 với mỗi 2 Tốc Độ chênh lệch; tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thứ Đáng Khinh Bỉ",
+          "desc": "[WhenUse] Nếu mục tiêu có [GazeRyoshu] hoặc [ContemptRyoshu], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [GazeRyoshu]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Thứ Đáng Khinh Bỉ",
+          "desc": "[WhenUse] Nếu mục tiêu có [GazeRyoshu] hoặc [ContemptRyoshu], Sức Mạnh Giao Tranh +1\n[WhenUse] Ở mốc 6+ ([Laceration] + [Vibration]) trên mục tiêu, Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [GazeRyoshu]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thứ Đáng Khinh Bỉ",
+          "desc": "[WhenUse] Nếu mục tiêu có [GazeRyoshu] hoặc [ContemptRyoshu], Sức Mạnh Giao Tranh +1\n[WhenUse] <style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 ([Laceration] + [Vibration]) trên mục tiêu (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [GazeRyoshu]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lẫm Tuân",
+          "desc": "[WhenUse] Nếu mục tiêu có [GazeRyoshu] hoặc [ContemptRyoshu], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [GazeRyoshu]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Lẫm Tuân",
+          "desc": "[WhenUse] Nếu mục tiêu có [GazeRyoshu] hoặc [ContemptRyoshu], Sức Mạnh Giao Tranh +1\n[WhenUse] Ở mốc 6+ ([Laceration] + [Vibration]) trên mục tiêu, Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [GazeRyoshu]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ Tầng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lẫm Tuân",
+          "desc": "[WhenUse] Nếu mục tiêu có [GazeRyoshu] hoặc [ContemptRyoshu], Sức Mạnh Giao Tranh +1\n[WhenUse] <style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 ([Laceration] + [Vibration]) trên mục tiêu (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [GazeRyoshu]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ Tầng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Lẫm, Khinh",
+          "desc": "Nếu mục tiêu có [GazeRyoshu], Kỹ Năng này gây +2 [Laceration] và [Vibration]\n[BeforeUse] Ở mốc 7+ (tổng [GazeRyoshu] trên toàn bộ kẻ địch), hoặc ở mốc 1+ (tổng [ContemptRyoshu] trên toàn bộ kẻ địch), kích hoạt dưới dạng 'Ẩn Dưới <noparse>Khinh Miệt</noparse> Là <noparse>Ánh Nhìn</noparse> Kinh Sợ Trào Dâng'\n[WhenUse] Ở mốc 8+ ([Laceration] + [Vibration]) trên mục tiêu, Sức Mạnh Xu +1\n[WhenUse] +1% sát thương gây ra với mỗi ([Laceration] + [Vibration]) trên mục tiêu (tối đa 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+5% sát thương gây ra với mỗi 1 [GazeRyoshu] trên mục tiêu (tối đa 35%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [GazeRyoshu]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationBleeding]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lẫm, Khinh",
+          "desc": "Nếu mục tiêu có [GazeRyoshu], Kỹ Năng này gây +2 [Laceration] và [Vibration]<style=\"highlight\"></style>\n[BeforeUse] Ở mốc 7+ (tổng [GazeRyoshu] trên toàn bộ kẻ địch), hoặc ở mốc 1+ (tổng [ContemptRyoshu] trên toàn bộ kẻ địch), thay vào đó kích hoạt 'Ẩn Dưới <noparse>Khinh Miệt</noparse> Là <noparse>Ánh Nhìn</noparse> Kinh Sợ Trào Dâng'\n[WhenUse] <style=\"highlight\">Sức Mạnh Xu +1 với mỗi 8 ([Laceration] + [Vibration]) trên mục tiêu (tối đa 2)</style>\n[WhenUse] +1% sát thương gây ra với mỗi ([Laceration] + [Vibration]) trên mục tiêu (tối đa <style=\"highlight\">40</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+<style=\"highlight\">10</style>% sát thương gây ra với mỗi 1 [GazeRyoshu] trên mục tiêu (tối đa <style=\"highlight\">70</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [GazeRyoshu]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationBleeding]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Để Nắm Lấy",
+          "desc": "[StartBattle] Nếu chủ thể không có [ContemptPersonality], và ở mốc 7+ (tổng [GazeRyoshu] trên toàn bộ kẻ địch) hoặc 1+ (tổng [ContemptRyoshu] trên toàn bộ kẻ địch), nhận [ContemptPersonality] (một lần mỗi lượt)\n[WhenUse] Nếu chủ thể có [ContemptPersonality], Sức Mạnh Tổng +5\n[WhenUse] Khi bị đánh trúng trong lúc sử dụng Kỹ Năng này, gây +1 Tầng [Laceration] lên kẻ tấn công (3 lần mỗi lượt)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Để Nắm Lấy",
+          "desc": "[StartBattle] Nếu chủ thể không có [ContemptPersonality], và ở mốc 7+ (tổng [GazeRyoshu] trên toàn bộ kẻ địch) hoặc 1+ (tổng [ContemptRyoshu] trên toàn bộ kẻ địch), nhận [ContemptPersonality] (một lần mỗi lượt)\n[WhenUse] Nếu chủ thể có [ContemptPersonality], Sức Mạnh Tổng +10\n[WhenUse] Khi bị đánh trúng trong lúc sử dụng Kỹ Năng này, gây +1 Tầng [Laceration] lên kẻ tấn công (3 lần mỗi lượt)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041205,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ẩn Dưới Khinh Miệt Là Ánh Nhìn Kinh Sợ Trào Dâng",
+          "desc": "Không thể Tái Sử Dụng dưới bất kỳ hình thức nào\nƯu tiên nhắm vào kẻ địch có [GazeRyoshu] hoặc [ContemptRyoshu] làm mục tiêu phụ\n- Giảm -50% sát thương gây lên mục phụ\nNếu chỉ có một mục tiêu duy nhất, +200% sát thương gây ra (trong Ải Chuyên Sâu, tính theo Bộ Phận)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 ([Laceration] + [Vibration]) trên mục tiêu chính (tối đa 2)\n[WhenUse] +2% sát thương gây ra với mỗi ([Laceration] + [Vibration]) trên mục tiêu chính (tối đa 50%)\n[WhenUse] +7% sát thương gây ra với mỗi 1 (tổng [GazeRyoshu] trên toàn bộ mục tiêu tấn công) (tối đa 49%)\n[EndSkill] Tiêu thụ [GazeRyoshu] hoặc [ContemptRyoshu] trên toàn bộ mục tiêu đã bị đánh trúng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Nếu mục tiêu có [ContemptRyoshu], +180% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationBleeding]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ẩn Dưới Khinh Miệt Là Ánh Nhìn Kinh Sợ Trào Dâng",
+          "desc": "Không thể Tái Sử Dụng dưới bất kỳ hình thức nào\nƯu tiên nhắm vào kẻ địch có [GazeRyoshu] hoặc [ContemptRyoshu] làm mục tiêu phụ<style=\"highlight\"></style>\n- Giảm -50% sát thương gây lên mục phụ\nNếu chỉ có một mục tiêu duy nhất, +200% sát thương gây ra (trong Ải Chuyên Sâu, tính theo Bộ Phận)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 ([Laceration] + [Vibration]) trên mục tiêu chính (tối đa <style=\"highlight\">4</style>)\n[WhenUse] +2% sát thương gây ra với mỗi ([Laceration] + [Vibration]) trên mục tiêu chính (tối đa <style=\"highlight\">100</style>%)\n[WhenUse] +10% sát thương gây ra với mỗi 1 (tổng [GazeRyoshu] trên toàn bộ mục tiêu tấn công) (tối đa 70%)\n[EndSkill] Tiêu thụ [GazeRyoshu] hoặc [ContemptRyoshu] trên toàn bộ mục tiêu đã bị đánh trúng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Nếu mục tiêu có [ContemptRyoshu], +<style=\"highlight\">235</style>% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration] và +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] và +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationBleeding]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041206,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ta Sẽ Khai Hỏa / Luôn Sẵn Sàng",
+          "desc": "[StartBattle] Ưu tiên E.G.O Tập Đoàn N.::Khinh, Lẫm Ryoshu làm mục tiêu\n[StartBattle] Nhận +1 Phạm Vi Tấn Công với mỗi 3 [BoseProjektil] trên chủ thể (tối đa 2)\n[WhenUse] Ở mốc 5+ [Breath], Sức Mạnh Xu +1\n[WhenUse] Ở 3+ Tầng [Breath], Sức Mạnh Gốc +1\n[WhenUse] Nhận 1 [Breath] với mỗi [BoseProjektil] trên chủ thể (tối đa 7)\n[EndSkill] Mất ([BoseProjektil] trên chủ thể x 2) SP (tối đa 14)\n[EndSkill] Nếu chủ thể có 7 [BoseProjektil] lúc Khởi Chiến, mất toàn bộ [BoseProjektil] và hồi 20 SP cho chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu chính"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu phụ"
+                },
+                {
+                  "desc": "- Nếu Xu đầu tiên không phải đòn Trí Mạng, và E.G.O Tập Đoàn N::Khinh, Lẫm Ryoshu vẫn còn sống, chỉ gây sát thương lên 1 mục tiêu phụ ngẫu nhiên\n"
+                },
+                {
+                  "desc": "+30% sát thương gây ra với mỗi [BoseProjektil] trên chủ thể (tối đa 210%)"
+                },
+                {
+                  "desc": "+2.5% Sát Thương gây ra khi Trí Mạng với mỗi Lượng [Breath] (tối đa <style=\"highlight\">25%</style>)"
+                },
+                {
+                  "desc": "+7% Sát Thương gây ra khi Trí Mạng với mỗi [BoseProjektil] trên chủ thể (tối đa 49%)"
+                },
+                {
+                  "desc": "+1% sát thương gây ra với mỗi 1% HP đã mất của mục tiêu chính (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ta Sẽ Khai Hỏa / Luôn Sẵn Sàng",
+          "desc": "[StartBattle] Ưu tiên E.G.O Tập Đoàn N::Khinh, Lẫm Ryoshu làm mục tiêu\n[StartBattle] Nhận +1 Phạm Vi Tấn Công với mỗi 3 [BoseProjektil] trên chủ thể (tối đa 2)\n[WhenUse] <style=\"highlight\">Sức Mạnh Xu +1 với mỗi 5 [Breath] trên chủ thể (tối đa 2)</style>\n[WhenUse] <style=\"highlight\">Sức Mạnh Gốc +1 với mỗi 3 Tầng [Breath] trên chủ thể (tối đa 2)</style>\n[WhenUse] Nhận 1 [Breath] với mỗi [BoseProjektil] trên chủ thể (tối đa 7)\n[EndSkill] Mất ([BoseProjektil] trên chủ thể x 2) SP (tối đa 14)\n[EndSkill] Nếu chủ thể có 7 [BoseProjektil] lúc Khởi Chiến, mất toàn bộ [BoseProjektil] và hồi 20 SP cho chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu chính"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu phụ"
+                },
+                {
+                  "desc": "- Nếu Xu đầu tiên không phải đòn Trí Mạng, và E.G.O Tập Đoàn N::Khinh, Lẫm Ryoshu vẫn còn sống, chỉ gây sát thương lên 1 mục tiêu phụ ngẫu nhiên\n"
+                },
+                {
+                  "desc": "+<style=\"highlight\">40</style>% sát thương gây ra với mỗi [BoseProjektil] trên chủ thể (tối đa <style=\"highlight\">280</style>%)"
+                },
+                {
+                  "desc": "+<style=\"highlight\">5</style>% Sát Thương gây ra khi Trí Mạng với mỗi Lượng [Breath] (tối đa <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "+<style=\"highlight\">10</style>% Sát Thương gây ra khi Trí Mạng với mỗi [BoseProjektil] trên chủ thể (tối đa <style=\"highlight\">70</style>%)"
+                },
+                {
+                  "desc": "+1% sát thương gây ra với mỗi 1% HP đã mất của mục tiêu chính (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Này, Lùi Lại",
+          "desc": "[WhenUse] Nhận +1 Tầng [Breath]\n[OnDirectAttack] Gây +1 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Này, Lùi Lại",
+          "desc": "<style=\"highlight\">[WhenUse] Ở mốc 6+ ([Breath] trên chủ thể + [Burst] trên mục tiêu), Sức Mạnh Xu +1</style>\n[WhenUse] Nhận +1 Tầng [Breath]\n[OnDirectAttack] Gây +1 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Này, Lùi Lại",
+          "desc": "<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 2)</style>\n[WhenUse] Nhận +1 Tầng [Breath]\n[OnDirectAttack] Gây +1 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+20% Sát Thương gây ra khi Trí Mạng</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Gây 1 [Burst]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Minh Cơ Lũ Cốt [銘肌鏤骨]",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [Breath] bằng với (([Burst] trên mục tiêu / 5) + 1) (tối đa 6; làm tròn xuống)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Minh Cơ Lũ Cốt [銘肌鏤骨]",
+          "desc": "<style=\"highlight\">[WhenUse] Ở mốc 6+ ([Breath] trên chủ thể + [Burst] trên mục tiêu), Sức Mạnh Xu +1</style>\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+2</style> Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [Breath] bằng với (([Burst] trên mục tiêu / 5) + 1) (tối đa 6; làm tròn xuống)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Minh Cơ Lũ Cốt [銘肌鏤骨]",
+          "desc": "<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 2)</style>\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [Breath] bằng với (([Burst] trên mục tiêu / 5) + <style=\"highlight\">2</style>) (tối đa 6; làm tròn xuống)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+20% Sát Thương gây ra khi Trí Mạng</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Gia Xích Ngã Viện [加斥我援]",
+          "desc": "[WhenUse] Nhận 2 [ProtectStanceRyoshu]\n[WhenUse] Nếu mục tiêu có 3+ loại hiệu ứng bất lợi, Sức Mạnh Tổng +1\n[WhenUse] Ở mốc 6+ ([Breath] trên chủ thể + [Burst] trên mục tiêu), Sức Mạnh Xu +1\n[WhenUse] Nhận +3 Tầng [Breath]\n[WhenUse] Nhận 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] +2% sát thương gây ra khi Trí Mạng với mỗi ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Gia Xích Ngã Viện [加斥我援]",
+          "desc": "[WhenUse] Nhận 2 [ProtectStanceRyoshu]\n[WhenUse] Nếu mục tiêu có 3+ loại hiệu ứng bất lợi, Sức Mạnh Tổng +1\n<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 2)</style>\n[WhenUse] Nhận +3 Tầng [Breath]\n[WhenUse] Nhận 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] +2% sát thương gây ra khi Trí Mạng với mỗi ([Breath] trên chủ thể + [Burst] trên mục tiêu) <style=\"highlight\">(tối đa 120%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cận Vệ",
+          "desc": "[CanDuelGuard]\n[StartBattle] Nhận 2 [ProtectStanceRyoshu]\n[WhenUse] Kỹ Năng này nhận +1 Cấp Phòng Thủ với mỗi tổng cộng 10% HP mà chủ thể đã mất trong Ải này (tối đa 6; dựa trên HP tối đa tại thời điểm kích hoạt)\n[WinDuel] Nhận [Breath] bằng [Burst] trên mục tiêu (tối đa 5; một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cận Vệ",
+          "desc": "[CanDuelGuard]\n[StartBattle] Nhận 2 [ProtectStanceRyoshu]\n[WhenUse] Kỹ Năng này nhận +1 Cấp Phòng Thủ với mỗi tổng cộng 10% HP mà chủ thể đã mất trong Ải này (tối đa 6; dựa trên HP tối đa tại thời điểm kích hoạt)\n[WinDuel] Nhận [Breath] bằng [Burst] trên mục tiêu (tối đa 5; một lần mỗi lượt)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bằng. Bằng.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Bằng. Bằng.",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ ([Vibration] + [Sinking]), Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bằng. Bằng.",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Vibration] + [Sinking]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hương Nở Trong Hư Vô",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Hương Nở Trong Hư Vô",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ ([Vibration] + [Sinking]), Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hương Nở Trong Hư Vô",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Vibration] + [Sinking]) trên mục tiêu (tối đa 2)\n[WhenUse] +1% sát thương gây ra với mỗi [AlriuneEGOThey] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Nở Rộ",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ ([Vibration] + [Sinking]), Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nở Rộ",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Vibration] + [Sinking]) trên mục tiêu (tối đa 2)\n[WhenUse] +1% sát thương gây ra với mỗi [AlriuneEGOThey] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Thờ Ơ bằng với [Sinking] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T.K.T.T.N.T",
+          "desc": "[EndBattle] Nhận 10 [AlriuneEGOWe] (một lần mỗi lượt)\n[EndBattle] Nhận 2 [Vulnerable] và 2 [Enhancement] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "T.K.T.T.N.T",
+          "desc": "[EndBattle] Nhận 10 [AlriuneEGOWe] (một lần mỗi lượt)\n[EndBattle] Nhận 2 [Vulnerable] và 2 [Enhancement] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Câu Chuyện Không Hồi Kết",
+          "desc": "[CantDuel]\n[WideAreaRampage]\nKhi Kỹ Năng này gây [GodokPanicType], nếu mục tiêu đã có [GodokPanicType] trong lượt này, hoặc sẽ bị gây [GodokPanicType] vào lượt kế, đổi thành kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [GodokPanicType] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [GodokPanicType] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [GodokPanicType] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041406,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Đoạn Kết Tráng Lệ",
+          "desc": "[CantDuel]\nKhông thể Tái Sử Dụng dưới bất kỳ hình thức nào\n+30% sát thương gây ra với mỗi Phạm Vi Tấn Công vượt quá số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Bộ Phận)\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 5 (tổng [AlriuneEGOThey] trên toàn bộ mục tiêu) (tối đa 6)\n\n[EndSkill] Mất toàn bộ [AlriuneEGOWe] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Thờ Ơ bằng với [Sinking] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Liên [三連]",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [PhantomIncisionID] bằng với [SojiRyoshuEchoPast] trên chủ thể (tối đa 4)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây sát thương Chém bằng với ([SojiRyoshuEchoPast] x 2)% tổng sát thương của Xu này"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Tam Liên [三連]",
+          "desc": "<style=\"highlight\">[WhenUse] Ở mốc6+ [Breath], Sức Mạnh Xu +1</style>\n[WhenUse] Nhận +<style=\"highlight\">3</style> Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +2 Tầng [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +1 Tầng [Combustion] <style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [PhantomIncisionID] bằng với [SojiRyoshuEchoPast] trên chủ thể (tối đa 4)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 Tầng [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây sát thương Chém bằng với ([SojiRyoshuEchoPast] x 2)% tổng sát thương của Xu này<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tam Liên [三連]",
+          "desc": "[WhenUse] Ở mốc 6+ [Breath], Sức Mạnh Xu +1\n<style=\"highlight\">[WhenUse] Sức Mạnh Tổng +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu (tối đa 2)</style>\n[WhenUse] Nhận +3 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +2 Tầng [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +1 Tầng [Combustion] <style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [PhantomIncisionID] bằng với [SojiRyoshuEchoPast] trên chủ thể (tối đa 4)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 Tầng [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây sát thương Chém bằng với ([SojiRyoshuEchoPast] x 2)% tổng sát thương của Xu này<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Liên - Tàn [三連 - 殘]",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây sát thương Chém bằng với ([SojiRyoshuEchoPast] x 3)% tổng sát thương của Xu này"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Tam Liên - Tàn [三連 - 殘]",
+          "desc": "<style=\"highlight\">[WhenUse] Ở mốc 6+ [Breath], Sức Mạnh Xu +1</style>\n[WhenUse] Nhận +<style=\"highlight\">3</style> Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây sát thương Chém bằng với ([SojiRyoshuEchoPast] x 3)% tổng sát thương của Xu này<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tam Liên - Tàn [三連 - 殘]",
+          "desc": "[WhenUse] Ở mốc 6+ [Breath], Sức Mạnh Xu +1\n<style=\"highlight\">[WhenUse] Sức Mạnh Tổng +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu (tối đa 2)</style>\n[WhenUse] Nhận +3 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây sát thương Chém bằng với ([SojiRyoshuEchoPast] x 3)% tổng sát thương của Xu này<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Không Gian Trảm [空間斬]",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Breath] trên chủ thể (tối đa 5)\n[WhenUse] +5% sát thương gây ra với mỗi [SojiRyoshuEchoPast] trên chủ thể\n[WhenUse] Nhận 5 [Breath]\n[WhenUse]Nhận +1 Phạm Vi Tấn Công với mỗi 2 [SojiRyoshuEchoPast] trên chủ thể (tối đa 2)\n[WhenUse] +15% sát thương gây ra với mỗi Phạm Vi Tấn Công vượt quá Số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Bộ Phận)\n[EndSkill] Gây ngẫu nhiên ([SojiRyoshuEchoPast] trên chủ thể + 10) [PhantomIncisionID] lên những mục tiêu bị Kỹ Năng này đánh trúng",
+          "flavor": "                                                             ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu, rồi giảm 1 Tầng [Combustion] của mục tiêu"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu, rồi giảm 1 Tầng [Laceration] của mục tiêu"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây sát thương Chém bằng với ([SojiRyoshuEchoPast] x 3)% tổng sát thương của Xu này"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Không Gian Trảm [空間斬]",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Breath] trên chủ thể (tối đa 5)\n<style=\"highlight\">[WhenUse] Sức Mạnh Gốc +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu chính (tối đa 5)</style>\n[WhenUse] +5% sát thương gây ra với mỗi [SojiRyoshuEchoPast] trên chủ thể\n[WhenUse] Nhận 5 [Breath]\n[WhenUse] Nhận +1 Phạm Vi Tấn Công với mỗi 2 [SojiRyoshuEchoPast] trên chủ thể (tối đa 2)\n[WhenUse] <style=\"highlight\">+30%</style> sát thương gây ra với mỗi Phạm Vi Tấn Công vượt quá Số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Bộ Phận)\n[EndSkill] Gây ngẫu nhiên ([SojiRyoshuEchoPast] trên chủ thể + 10) [PhantomIncisionID] lên những mục tiêu bị Kỹ Năng này đánh trúng",
+          "flavor": "                                                             ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">50%</style> sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu, rồi giảm 1 Tầng [Combustion] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu, rồi giảm 1 Tầng [Laceration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây sát thương Chém bằng với ([SojiRyoshuEchoPast] x <style=\"highlight\">4</style>)% tổng sát thương của Xu này"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tàn Tượng Bộ [殘像步]",
+          "desc": "[StartBattle] Chọn một mục tiêu là đồng minh thuộc Tổ Nhện có Thứ Tự Triển Khai trễ nhất (2 lần mỗi lượt)\n- Ở mốc 1+ [SojiRyoshuEntangle], chọn thêm một đồng minh nữa\n- Khi toàn bộ Kỹ Năng được mục tiêu trang bị trên ô Kỹ Năng Kết Thúc, hay nếu mục tiêu đấy bị Choáng, hoặc nếu mục tiêu không còn Kỹ Năng nào để thực hiện, sử dụng \"Thiên Sát\" lên mục tiêu dưới dạng Đòn Một Chiều (một lần mỗi Danh Tính)\n- Tổ Nhện: Ngón Nhẫn Tập Sự Sinclair được ưu tiên chọn cuối cùng\n[StartBattle] Nhận +3 Tầng [Breath] (một lần mỗi lượt)",
+          "flavor": "     ",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tàn Tượng Bộ [殘像步]",
+          "desc": "[StartBattle] Chọn một mục tiêu là đồng minh thuộc Tổ Nhện có Thứ Tự Triển Khai trễ nhất (2 lần mỗi lượt)\n- Ở mốc 1+ [SojiRyoshuEntangle], chọn thêm một đồng minh nữa\n- Khi toàn bộ Kỹ Năng được mục tiêu trang bị trên ô Kỹ Năng Kết Thúc, hay nếu mục tiêu đấy bị Choáng, hoặc nếu mục tiêu không còn Kỹ Năng nào để thực hiện, sử dụng \"Thiên Sát\" lên mục tiêu dưới dạng Đòn Một Chiều (một lần mỗi Danh Tính)\n- Tổ Nhện: Ngón Nhẫn Tập Sự Sinclair được ưu tiên chọn cuối cùng\n[StartBattle] Nhận +3 Tầng [Breath] (một lần mỗi lượt)\n<style=\"highlight\">[OnSucceedEvade] Nhận 1 [Breath] (3 lần mỗi lượt)</style>",
+          "flavor": "     ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thiên Sát [天殺]",
+          "desc": "[CantDuel]\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu, và không thể Tái Sử Dụng dưới bất kỳ hình thức nào\nVô hiệu hóa \"Các Tác nhân giảm SP mặc định\" của toàn bộ đồng minh khi Kỹ Năng này được sử dụng\n[WhenUse] Trong phần còn lại của Ải, giảm 1 Cấp Công Kích và nhận Sức Mạnh Gốc +1 cho mọi đòn Tấn Công (4 lần mỗi Ải)\n[TargetKill] Hồi 20 SP\n[TargetKill] Nhận [RyoshuEGOPF] bằng với lượng sát thương Kỹ Năng này gây ra",
+          "flavor": "                  ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 20 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu là đồng minh thuộc Tổ Nhện, gây 120% sát thương HP dưới dạng sát thương cố định"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tất Nhiên Sát [必然殺]",
+          "desc": "[CantDuel]\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu, và không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n[WhenUse] Nhận +1 Tầng [Breath]\n[BeforeAttack] Nếu kỹ năng này được kích hoạt thông qua Kỹ Năng 3,\n- Điều chỉnh Phạm Vi Tấn Công của Kỹ Năng này bằng với số kẻ địch có [SojiRyoshuEchoFuture] (tối thiểu 1)\n- Ưu tiên mục tiêu có [SojiRyoshuEchoFuture]\n[EndSkill] Giải trừ [SojiRyoshuEchoFuture] trên mục tiêu",
+          "flavor": "                                         ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [PhantomIncisionID] bằng với [SojiRyoshuEchoPast] trên chủ thể (tối đa 4)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu, rồi giảm 1 Tầng [Combustion] của mục tiêu"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [SlashTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041507,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Không Gian Trảm - Tàn [空間斬 - 殘] ",
+          "desc": "[WhenUse] Với mỗi [SojiRyoshuEntangle] trên chủ thể, Kỹ Năng này giảm 1 Sức Mạnh Gốc, và nhận thêm Xu 1 trước khi sử dụng Xu 2\n[WhenUse] Xu cuối của kỹ năng nhận Sức Mạnh Xu +1 với mỗi [SojiRyoshuEchoPast] trên chủ thể\n[WhenUse] +50% sát thương gây ra với mỗiPhạm Vi Tấn Công vượt quá Số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Bộ Phận)\n[EndSkill] Nâng giới hạn số Lớp Tối Thiểu & Tối Đa của [SojiRyoshuEchoPast] lên thêm 1 rồi đặt lại số Lớp [SojiRyoshuEchoPast] trên chủ thể về mức tối thiểu mới (tối đa 2 lần mỗi Ải)\n[EndSkill] Tiêu thụ 50 [PhantomIncisionTotalID]",
+          "flavor": "           \n                                                                       \n                                                 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ toàn bộ [PhantomIncisionID] trên mục tiêu và gây sát thương Chém bằng với (số [PhantomIncisionID] đã tiêu thụ / 10)% tổng sát thương của Xu này"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây sát thương Chém bằng với ([SojiRyoshuEchoPast] x 4)% tổng sát thương của Xu này"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu, rồi giảm 1 Tầng [Combustion] của mục tiêu"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu, rồi giảm 1 Tầng [Laceration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041508,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Không Gian Trảm - Duyên [空間斬 - 緣]",
+          "desc": "[CantDuel]\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu\n[WhenUse] Nhận 5 [Breath]\n[WhenUse] Nhận [SojiRyoshuShin]\n[EndSkill] Xóa Ngưỡng Choáng đầu tiên của chủ thể (một lần mỗi Ải)",
+          "flavor": "               \n                                              \n       \n                                \n                          ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu, rồi giảm 1 Tầng [Combustion] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

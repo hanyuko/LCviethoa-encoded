@@ -1,0 +1,1042 @@
+{
+  "dataList": [
+    {
+      "id": 2100411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi 10% HP Tối Đa cho 2 đồng minh có phần trăm HP thấp nhất."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi <style=\"highlight\">12</style>% HP Tối Đa cho 2 đồng minh có phần trăm HP thấp nhất."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +<style=\"highlight\">2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi <style=\"highlight\">15</style>% HP Tối Đa cho 2 đồng minh có phần trăm HP thấp nhất."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "[CantIdentify] \nNhắm vào đơn vị có HP cao nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 30% lượng sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\n[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây +<style=\"highlight\">3</style> Tầng [Burst]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng <style=\"highlight\">50%</style> lượng sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\n[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 50% lượng sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không có [Combustion], gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "<style=\"highlight\">[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng), Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không có [Combustion], gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng), Phạm Vi Tấn Công +1\n<style=\"highlight\">[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối Cao Nhất), Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không có [Combustion], gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Nếu mục tiêu có 10+ [Combustion], gây 1 [Reduction] và 1 [Disarming] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không có [Combustion], gây 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng), Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không có [Combustion], gây 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Nếu mục tiêu có 10+ [Combustion], gây 1 [ScarletTakeDamageUp] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng), Phạm Vi Tấn Công +1\n<style=\"highlight\">[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối Cao Nhất), Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không có [Combustion], gây 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nếu mục tiêu có 10+ [Combustion], gây <style=\"highlight\">2</style> [ScarletTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, Phạm Vi Tấn Công +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Nhận Khiên bằng 10% HP Tối Đa của chủ thể và gán lượng tương tự cho 1 đồng minh khác có HP hiện tại thấp nhất, đồng thời gán 2 [ShieldManagerCryingToad] cho đồng minh đó"
+                },
+                {
+                  "desc": "- Ở mốc 4+ Cộng Hưởng cao nhất, gán thêm cho 1 đồng minh"
+                },
+                {
+                  "desc": "- Nếu đơn vị nhận hiệu ứng đã có [ShieldManagerCryingToad], đặt giá trị [ShieldManagerCryingToad] thành 2"
+                },
+                {
+                  "desc": "- Ở mốc 4+ Thờ Ơ Cộng Hưởng Tuyệt Đối cao nhất, các hiệu ứng trên của Kỹ Năng này đổi thành 'gán 3 [ShieldManagerCryingToad]' và 'đặt giá trị [ShieldManagerCryingToad] thành 3'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "<style=\"highlight\">[BeforeAttack] Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Nhận Khiên bằng <style=\"highlight\">14%</style> HP Tối Đa của chủ thể và gán lượng tương tự cho <style=\"highlight\">(1 + (Cộng Hưởng cao nhất - 2))</style> đồng minh có HP hiện tại thấp nhất, đồng thời gán 2 [ShieldManagerCryingToad] cho họ\n<style=\"highlight\">(tối đa 3 đồng minh)</style>"
+                },
+                {
+                  "desc": "- Nếu đơn vị nhận hiệu ứng đã có [ShieldManagerCryingToad], đặt giá trị [ShieldManagerCryingToad] thành 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Ở mốc 4+ Thờ Ơ Cộng Hưởng Tuyệt Đối cao nhất, các hiệu ứng trên của Kỹ Năng này đổi thành 'gán 3 [ShieldManagerCryingToad]' và 'đặt giá trị [ShieldManagerCryingToad] thành 3'<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Nhận Khiên bằng <style=\"highlight\">20%</style> HP Tối Đa của chủ thể và gán lượng tương tự cho (1 + (Cộng Hưởng cao nhất - 2)) đồng minh có HP hiện tại thấp nhất, đồng thời gán 2 [ShieldManagerCryingToad] cho họ\n(tối đa 3 đồng minh)"
+                },
+                {
+                  "desc": "- Nếu đơn vị nhận hiệu ứng đã có [ShieldManagerCryingToad], đặt giá trị [ShieldManagerCryingToad] thành 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Ở mốc 4+ Thờ Ơ Cộng Hưởng Tuyệt Đối cao nhất, các hiệu ứng trên của Kỹ Năng này đổi thành 'gán 3 [ShieldManagerCryingToad]' và 'đặt giá trị [ShieldManagerCryingToad] thành 3'<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, Phạm Vi Tấn Công +1\n[BeforeAttack] Nhận +5 [Aggro] cho Ô Kỹ Năng này vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Nhận Khiên bằng (15 + 2.5(Cộng Hưởng cao nhất))% HP Tối Đa của chủ thể và nhận 2 [ShieldManagerCryingToad]. (tối đa 25%)"
+                },
+                {
+                  "desc": "- Nếu chủ thể đã có [ShieldManagerCryingToad], đặt giá trị [ShieldManagerCryingToad] thành 2"
+                },
+                {
+                  "desc": "- Ở mốc 4+ Thờ Ơ Cộng Hưởng Tuyệt Đối cao nhất, các hiệu ứng trên của Kỹ Năng này đổi thành 'nhận 3 [ShieldManagerCryingToad]' và 'đặt giá trị [ShieldManagerCryingToad] thành 3'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)</style>\n[BeforeAttack] Nhận <style=\"highlight\">+10 [Aggro]</style> cho Ô Kỹ Năng này vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Nhận Khiên bằng (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(Cộng Hưởng cao nhất))% HP Tối Đa của chủ thể và nhận 2 [ShieldManagerCryingToad]. (tối đa <style=\"highlight\">30%</style>)"
+                },
+                {
+                  "desc": "- Nếu chủ thể đã có [ShieldManagerCryingToad], đặt giá trị [ShieldManagerCryingToad] thành 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Ở mốc 4+ Thờ Ơ Cộng Hưởng Tuyệt Đối cao nhất, các hiệu ứng trên của Kỹ Năng này đổi thành 'gán 3 [ShieldManagerCryingToad]' và 'đặt giá trị [ShieldManagerCryingToad] thành 3'<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)\n[BeforeAttack] Nhận +10 [Aggro] cho Ô Kỹ Năng này vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking] và <style=\"highlight\">+3 Tầng [Sinking]</style>"
+                },
+                {
+                  "desc": "[EndSkill] Nhận Khiên bằng (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(Cộng Hưởng cao nhất))% HP Tối Đa của chủ thể và nhận 2 [ShieldManagerCryingToad]. (tối đa <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "- Nếu chủ thể đã có [ShieldManagerCryingToad], đặt giá trị [ShieldManagerCryingToad] thành 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Ở mốc 4+ Thờ Ơ Cộng Hưởng Tuyệt Đối cao nhất, các hiệu ứng trên của Kỹ Năng này đổi thành 'gán 3 [ShieldManagerCryingToad]' và 'đặt giá trị [ShieldManagerCryingToad] thành 3'<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Ở mốc 4+ Thờ Ơ Cộng Hưởng, nhận thêm Khiên bằng 10% HP Tối Đa của chủ thể</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[EndSkill] Nếu mục tiêu có [Curse], lập tức kích hoạt hai lần và giảm 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Curse]\n- Gây thêm 1 [Curse] với mỗi 3 hiệu ứng bất lợi trên mục tiêu mà không phải [Curse] hoặc [NailPersonality] (tối đa 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "<style=\"highlight\">[BeforeAttack] Ở mốc 4+ Đố Kỵ Cộng Hưởng bao gồm Kỹ Năng này, Phạm Vi Tấn Công +1</style>\n[EndSkill] Nếu mục tiêu có [Curse], lập tức kích hoạt hai lần và giảm 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Curse]\n- Gây thêm 1 [Curse] với mỗi 3 hiệu ứng bất lợi trên mục tiêu mà không phải [Curse] hoặc [NailPersonality] (tối đa 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [NailPersonality]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gây 2 [Binding] vào lượt kế (một lần mỗi lượt)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "<style=\"highlight\">[BeforeAttack] Cứ mỗi 3 Đố Kỵ Cộng Hưởng bao gồm Kỹ Năng này, Phạm Vi Tấn Công +1 (tối đa 2)</style>\n[EndSkill] Nếu mục tiêu có [Curse], lập tức kích hoạt hai lần và giảm 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Curse]\n- Gây thêm 1 [Curse] với mỗi <style=\"highlight\">2</style> hiệu ứng bất lợi trên mục tiêu mà không phải [Curse] hoặc [NailPersonality] (tối đa 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [NailPersonality]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ở mốc 4+ [Curse], gây 1 [ParryingResultDown] (một lần mỗi lượt)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Binding] vào lượt kế (một lần mỗi lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Nếu mục tiêu có [Curse], lập tức kích hoạt hai lần và giảm 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Nếu mục tiêu có [Curse], lập tức kích hoạt hai lần và giảm 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [NailPersonality]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Gây 2 [Binding] vào lượt kế (một lần mỗi lượt)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Nếu mục tiêu có [Curse], lập tức kích hoạt hai lần và giảm 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 3 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [NailPersonality]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ở mốc 4+ Đố Kỵ Cộng Hưởng bao gồm Kỹ Năng này, gây 1 [ParryingResultDown] (một lần mỗi lượt)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 2 [Binding] vào lượt kế (một lần mỗi lượt)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Gây 2 [DefenseDown] vào lượt kế (một lần mỗi lượt)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ô Huyết Khấp Lệ",
+          "abName": "Ứng Long",
+          "desc": "[StartBattle] Nhận [YesdragonNodie]\n[BeforeAttack] Nhận [YesdragonSelf] bằng Phàm Ăn Cộng Hưởng (tối đa 5)\n[BeforeAttack] Nhận ([YesdragonSelf] trên chủ thể x 2) sát thương HP\n- Không Bị Choáng nếu hiệu ứng này khiến HP của chủ thể giảm xuống dưới Ngưỡng Choáng; thay vào đó, loại bỏ các Ngưỡng Choáng cao hơn HP hiện tại của chủ thể\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có HP từ 30% trở xuống, hoặc có 20 Lớp [YesdragonSelf], Tái Sử Dụng Xu này (một lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Tiêu thụ toàn bộ HP trên chủ thể để +20% sát thương gây ra với Xu này (một lần mỗi Lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ô Huyết Khấp Lệ",
+          "abName": "Ứng Long",
+          "desc": "<style=\"highlight\">Ở mốc 6+ [YesdragonSelf], Sức Mạnh Xu +1</style>\n[StartBattle] Nhận [YesdragonNodie]\n[BeforeAttack] Nhận [YesdragonSelf] bằng Phàm Ăn Cộng Hưởng (tối đa 5)\n[BeforeAttack] Nhận ([YesdragonSelf] trên chủ thể x 2) sát thương HP\n- Không Bị Choáng nếu hiệu ứng này khiến HP của chủ thể giảm xuống dưới Ngưỡng Choáng; thay vào đó, loại bỏ các Ngưỡng Choáng cao hơn HP hiện tại của chủ thể\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có HP từ 30% trở xuống, hoặc có 20 Lớp [YesdragonSelf], Tái Sử Dụng Xu này (một lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Tiêu thụ toàn bộ HP trên chủ thể để +20% sát thương gây ra với Xu này (một lần mỗi Lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ô Huyết Khấp Lệ",
+          "abName": "Ứng Long",
+          "desc": "<style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 [YesdragonSelf] trên chủ thể (tối đa 3)</style>\n[StartBattle] Nhận [YesdragonNodie]\n[BeforeAttack] Nhận [YesdragonSelf] bằng Phàm Ăn Cộng Hưởng (tối đa 5)\n[BeforeAttack] Nhận ([YesdragonSelf] trên chủ thể x 2) sát thương HP\n- Không Bị Choáng nếu hiệu ứng này khiến HP của chủ thể giảm xuống dưới Ngưỡng Choáng; thay vào đó, loại bỏ các Ngưỡng Choáng cao hơn HP hiện tại của chủ thể\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\"> +1% sát thương gây ra với mỗi 2% HP đã mất trên chủ thể (tối đa 40%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có HP từ 30% trở xuống, hoặc có 20 Lớp [YesdragonSelf], Tái Sử Dụng Xu này (một lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Tiêu thụ toàn bộ HP trên chủ thể để +20% sát thương gây ra với Xu này (một lần mỗi Lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ô Huyết Khấp Lệ",
+          "abName": "Ứng Long",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[StartBattle] Nhận [YesdragonNodie]\n[BeforeAttack] Nhận (Phàm Ăn Cộng Hưởng + 4) [YesdragonSelf] (tối đa 10)\n[BeforeAttack] Nhận ([YesdragonSelf] trên chủ thể x 2) sát thương HP\nKhông Bị Choáng nếu hiệu ứng này khiến HP của chủ thể giảm dưới Ngưỡng Choáng; thay vào đó, loại bỏ các Ngưỡng Choáng cao hơn HP hiện tại của chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có HP từ 30% trở xuống, hoặc có 20 Lớp [YesdragonSelf], Tái Sử Dụng Xu này (một lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Tiêu thụ toàn bộ HP trên chủ thể để +20% sát thương gây ra với Xu này (một lần mỗi Lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ô Huyết Khấp Lệ",
+          "abName": "Ứng Long",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Ở mốc 10+ [YesdragonSelf], Sức Mạnh Gốc +1</style>\n[StartBattle] Nhận [YesdragonNodie]\n[BeforeAttack] Nhận (Phàm Ăn Cộng Hưởng + 4) [YesdragonSelf] (tối đa 10)\n[BeforeAttack] Nhận ([YesdragonSelf] trên chủ thể x 2) sát thương HP\nKhông Bị Choáng nếu hiệu ứng này khiến HP của chủ thể giảm dưới Ngưỡng Choáng; thay vào đó, loại bỏ các Ngưỡng Choáng cao hơn HP hiện tại của chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có HP từ 30% trở xuống, hoặc có 20 Lớp [YesdragonSelf], Tái Sử Dụng Xu này (một lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Tiêu thụ toàn bộ HP trên chủ thể để +20% sát thương gây ra với Xu này (một lần mỗi Lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ô Huyết Khấp Lệ",
+          "abName": "Ứng Long",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Sức Mạnh Gốc +1 với mỗi 10 [YesdragonSelf] trên chủ thể (tối đa 2)</style>\n[StartBattle] Nhận [YesdragonNodie]\n[BeforeAttack] Nhận (Phàm Ăn Cộng Hưởng + 4) [YesdragonSelf] (tối đa 10)\n[BeforeAttack] Nhận ([YesdragonSelf] trên chủ thể x 2) sát thương HP\nKhông Bị Choáng nếu hiệu ứng này khiến HP của chủ thể giảm dưới Ngưỡng Choáng; thay vào đó, loại bỏ các Ngưỡng Choáng cao hơn HP hiện tại của chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\"> +1% sát thương gây ra với mỗi 2% HP đã mất trên chủ thể (tối đa 40%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có HP từ 30% trở xuống, hoặc có 20 Lớp [YesdragonSelf], Tái Sử Dụng Xu này (một lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Tiêu thụ toàn bộ HP trên chủ thể để +20% sát thương gây ra với Xu này (một lần mỗi Lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hòa Âm",
+          "abName": "Máy Hát",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 2 ([Laceration] + [Combustion]) trên mục tiêu chính (tối đa 6)\nTăng sát thương dựa trên HP đã mất của chủ thể (tối đa 10%)\n-50% sát thương gây lên mục tiêu phụ\n[TargetKill] Toàn bộ đồng minh nhận 2 [ThatIsRhythm] vào lượt kế (một lần mỗi Kỹ Năng)\n[EndSkill] Hồi 8 SP cho (1 + Cộng Hưởng cao nhất) đồng minh khác có SP thấp nhất (tối đa 4 đồng minh)\n[EndSkill] Trong 2 lượt, mất 8 SP khi Ngừng Chiến",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Ở mốc 10%+ HP, nhận 4 ~ 8 sát thương HP (một lần mỗi Xu)\n- Sau đó, Tái Sử Dụng Xu này (4 lần mỗi Kỹ Năng)\n- Sát thương này không Làm Choáng và không làm giảm HP của chủ thể xuống dưới 1",
+                  "summary": "[OnSucceedAttackHead] Sau khi tiêu thụ HP trên chủ thể, Tái Sử Dụng Xu này"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Một đồng minh ngẫu nhiên nhận 1 [ThatIsRhythm] vào lượt kế (một lần mỗi Xu)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hòa Âm",
+          "abName": "Máy Hát",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 2 ([Laceration] + [Combustion]) trên mục tiêu chính (tối đa <style=\"highlight\">8</style>)\nTăng sát thương dựa trên HP đã mất của chủ thể (tối đa <style=\"highlight\">15</style>%)\n-50% sát thương gây lên mục tiêu phụ\n[TargetKill] Toàn bộ đồng minh nhận 2 [ThatIsRhythm] vào lượt kế (một lần mỗi Kỹ Năng)\n[EndSkill] Hồi <style=\"highlight\">10</style> SP cho (1 + Cộng Hưởng cao nhất) đồng minh khác có SP thấp nhất (tối đa 4 đồng minh)\n[EndSkill] Trong 2 lượt, mất 8 SP khi Ngừng Chiến",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Ở mốc 10%+ HP, nhận 4 ~ 8 sát thương HP (một lần mỗi Xu)\n- Sau đó, Tái Sử Dụng Xu này (4 lần mỗi Kỹ Năng)\n- Sát thương này không Làm Choáng và không làm giảm HP của chủ thể xuống dưới 1",
+                  "summary": "[OnSucceedAttackHead] Sau khi tiêu thụ HP trên chủ thể, Tái Sử Dụng Xu này"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Một đồng minh ngẫu nhiên nhận <style=\"highlight\">1 ~ 2</style> [ThatIsRhythm] vào lượt kế (một lần mỗi Xu)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hòa Âm",
+          "abName": "Máy Hát",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 2 ([Laceration] + [Combustion]) trên mục tiêu chính (tối đa <style=\"highlight\">10</style>)\nTăng sát thương dựa trên HP đã mất của chủ thể (tối đa <style=\"highlight\">20</style>%)\n-50% sát thương gây lên mục tiêu phụ\n[TargetKill] Toàn bộ đồng minh nhận 2 [ThatIsRhythm] vào lượt kế (một lần mỗi Kỹ Năng)\n[EndSkill] Hồi <style=\"highlight\">12 SP</style> cho (1 + Cộng Hưởng cao nhất) đồng minh khác có SP thấp nhất (tối đa 4 đồng minh)\n[EndSkill] Trong 2 lượt, mất 8 SP khi Ngừng Chiến",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Ở mốc 10%+ HP, nhận 4 ~ 8 sát thương HP (một lần mỗi Xu)\n- Sau đó, Tái Sử Dụng Xu này (4 lần mỗi Kỹ Năng)\n- Sát thương này không Làm Choáng và không làm giảm HP của chủ thể xuống dưới 1",
+                  "summary": "[OnSucceedAttackHead] Sau khi tiêu thụ HP trên chủ thể, Tái Sử Dụng Xu này"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Một đồng minh ngẫu nhiên nhận 1 ~ <style=\"highlight\">3</style> [ThatIsRhythm] vào lượt kế (một lần mỗi Xu)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hòa Âm",
+          "abName": "Máy Hát",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Giao Tranh +1 với mỗi 2 ([Laceration] + [Combustion]) trên mục tiêu chính (tối đa 6)\nTăng sát thương dựa trên HP đã mất của chủ thể (tối đa 10%)\n-50% sát thương gây lên mục tiêu phụ\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Cộng Hưởng cao nhất / 2) (tối đa 2; làm tròn xuống)\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -6)\n[EndSkill] Hồi 10 SP cho 4 đồng minh khác có SP thấp nhất\n[EndSkill] Toàn bộ đồng minh nhận 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] vào lượt kế\n- Nếu mục tiêu bị giết, kích hoạt lại hiệu ứng trên thêm một lần nữa",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10%+ HP, nhận 10 ~ 20 sát thương HP (một lần mỗi Xu)\n- Sau đó, Tái Sử Dụng Xu này nếu tổng HP đã mất do hiệu ứng này ít hơn 50 (4 lần mỗi Kỹ Năng)\n- Sát thương này không Làm Choáng và không làm giảm HP của chủ thể xuống dưới 1",
+                  "summary": "[OnSucceedAttack] Tiêu thụ HP của chủ thể\nTái Sử Dụng Xu này nếu đáp ứng điều kiện"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Một đồng minh ngẫu nhiên nhận 1 [ThatIsRhythm] vào lượt kế (một lần mỗi Xu)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hòa Âm",
+          "abName": "Máy Hát",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Giao Tranh +1 với mỗi 2 ([Laceration] + [Combustion]) trên mục tiêu chính (tối đa <style=\"highlight\">8</style>)\nTăng sát thương dựa trên HP đã mất của chủ thể (tối đa <style=\"highlight\">15</style>%)\n-50% sát thương gây lên mục tiêu phụ\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Cộng Hưởng cao nhất / 2) (tối đa 2; làm tròn xuống)\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -6)\n[EndSkill] Hồi <style=\"highlight\">12</style> SP cho 4 đồng minh khác có SP thấp nhất\n[EndSkill] Toàn bộ đồng minh nhận 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] vào lượt kế\n- Nếu mục tiêu bị giết, kích hoạt lại hiệu ứng trên thêm một lần nữa",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10%+ HP, nhận 10 ~ 20 sát thương HP (một lần mỗi Xu)\n- Sau đó, Tái Sử Dụng Xu này nếu tổng HP đã mất do hiệu ứng này ít hơn 50 (4 lần mỗi Kỹ Năng)\n- Sát thương này không Làm Choáng và không làm giảm HP của chủ thể xuống dưới 1",
+                  "summary": "[OnSucceedAttack] Tiêu thụ HP của chủ thể\nTái Sử Dụng Xu này nếu đáp ứng điều kiện"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Một đồng minh ngẫu nhiên nhận <style=\"highlight\">1 ~ 2</style> [ThatIsRhythm] vào lượt kế (một lần mỗi Xu)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hòa Âm",
+          "abName": "Máy Hát",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Giao Tranh +1 với mỗi 2 ([Laceration] + [Combustion]) trên mục tiêu chính (tối đa <style=\"highlight\">10</style>)\nTăng sát thương dựa trên HP đã mất của chủ thể (tối đa <style=\"highlight\">20</style>%)\n-50% sát thương gây lên mục tiêu phụ\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Cộng Hưởng cao nhất / 2) (tối đa 2; làm tròn xuống)\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -6)\n[EndSkill] Hồi <style=\"highlight\">15</style> SP cho 4 đồng minh khác có SP thấp nhất\n[EndSkill] Toàn bộ đồng minh nhận 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] vào lượt kế\n- Nếu mục tiêu bị giết, kích hoạt lại hiệu ứng trên thêm một lần nữa",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10%+ HP, nhận 10 ~ 20 sát thương HP (một lần mỗi Xu)\n- Sau đó, Tái Sử Dụng Xu này nếu tổng HP đã mất do hiệu ứng này ít hơn 50 (4 lần mỗi Kỹ Năng)\n- Sát thương này không Làm Choáng và không làm giảm HP của chủ thể xuống dưới 1",
+                  "summary": "[OnSucceedAttack] Tiêu thụ HP của chủ thể\nTái Sử Dụng Xu này nếu đáp ứng điều kiện"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Một đồng minh ngẫu nhiên nhận 1 ~ <style=\"highlight\">3</style> [ThatIsRhythm] vào lượt kế (một lần mỗi Xu)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

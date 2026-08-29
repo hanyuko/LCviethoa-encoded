@@ -1,0 +1,174 @@
+{
+  "dataList": [
+    {
+      "id": 9103901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwogh",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwaagh",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cụctacục!",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cluckcluck!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [PlusCoinValueDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cluuuck!",
+          "desc": "[WinDuel] Sức Mạnh Kỹ Năng +1",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gwoghkwogh",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bwoghkh",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Vibration] vào lượt kế"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khgwok",
+          "desc": "[WhenUse] Hồi 10 HP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "dataList": [
+    {
+      "id": 809901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Này",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sát Thương Đập +3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sát Thương Đập +3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đá Này",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sát Thương Đập +5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sát Thương Đập +5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ăn Miếng Trả Miếng",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 5 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kẻ Thống Trị",
+          "desc": "[StartBattle] Gán 1 [Enhancement] lên toàn bộ đồng minh\n[StartBattle] Gây 2 [Reduction] lên 2 kẻ địch có SP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khắc Cốt Minh Tâm",
+          "desc": "[StartBattle] Nhận 2 [AaCePbBi]. Nhận 5 [Binding] vào lượt kế.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhìn Sau Lưng Của Mày!",
+          "desc": "Nếu SP của mục tiêu nhỏ hơn 0, Sức Mạnh Xu +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 10 SP cho bản thân"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] và 2 [Reduction] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anh Em, Tập Hợp",
+          "desc": "[StartBattle] Triệu hồi 2 đồng minh vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lời Thề Báo Thù",
+          "desc": "[StartBattle] Nhận 2 [AaCePbBi]. Nhận 5 [Binding] và 5 [AttackDmgUp] vào lượt kế.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "PHIẾU LÀM TÓC CỦA TAOOOOOOOOOOO!!!",
+          "desc": "Nếu SP của mục tiêu chính có ít hơn 0, Sức Mạnh Tổng +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 30"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

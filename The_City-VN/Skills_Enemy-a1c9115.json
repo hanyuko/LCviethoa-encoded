@@ -1,0 +1,62 @@
+{
+  "dataList": [
+    {
+      "id": 9101905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phá Thiên Trảm",
+          "desc": "[StartBattle] Nếu mục tiêu chính có 5+ [Laceration], Phạm Vi Tấn Công +1\n[StartBattle] Nếu chủ thể dùng từ 4 Kỹ Năng Tấn Công trở lên trong lượt này, Sức Mạnh Tổng +5\n[WinDuel] Toàn bộ đồng minh hồi 15 SP\nNếu mục tiêu có 7+ [Laceration], +30% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có 7+ [Laceration], +50% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +10 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Luật của Phố Sau",
+          "desc": "[WhenUse] Cứ mỗi đồng minh khác còn sống, thêm 1 Xu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[EnemyKill] Toàn bộ đồng minh hồi 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

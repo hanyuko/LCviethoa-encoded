@@ -1,0 +1,467 @@
+{
+  "dataList": [
+    {
+      "id": 142201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expression of Primary Colors",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [EagleClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vehement Overpainting",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [BearClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [BearClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le Fauvisme - Déchaînement Primal",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 3)\n[DefeatDuel]\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [BearClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking] và +2 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Gây 1 [BoldBrushstrokes]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Critique",
+          "desc": "[CantChangeTarget]\n[WhenUse]\n- Sức Mạnh Giao Tranh +2 <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi</u></b></mark></color> trên mục tiêu (tối đa 12)\n- <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có [IntenseColors], </u></b></mark></color>Sức Mạnh Giao Tranh +6 và +100% sát thương gây ra\n· <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có trang bị Kỹ Năng Phòng Thủ</u></b></mark></color> trong khi có [IntenseColors], thì Sức Mạnh Giao Tranh +6 và -90% sát thương gây ra\n[DefeatDuel]\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tái sử dụng Xu này (tối đa 2 lần)\n- Khi Đánh Trúng sau khi thua Giao Tranh, Tái sử dụng Xu này (thay vào đó tối đa 1 lần)\n-  Không kích hoạt nếu mục tiêu đang trang bị Kỹ Năng Phòng Thủ"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking] và +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Embellish with Primary Colors",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 2)\n[DefeatDuel]\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [EagleClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Impassioned Overpainting",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 3)\n[DefeatDuel]\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [BearClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [BearClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le Fauvisme - Déchaînement Brutal",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 4)\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có 3+ loại hiệu ứng bất lợi,</u></b></mark></color> chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]\n[DefeatDuel]\n- -75% sát thương gây ra\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [BearClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Gây 1 [BoldBrushstrokes]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Thrill of Inspiration",
+          "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse] Sức Mạnh Tổng +1 và +10% sát thương gây ra <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi</u></b></mark></color> trên mục tiêu chính (tối đa 6 Sức Mạnh Tổng và 60% sát thương, tương ứng)\n[WinDuel]\n- Thêm 10% sát thương gây ra <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi</u></b></mark></color> trên từng mục tiêu (tối đa 60% against each target)\n[DefeatDuel]\n- -75% sát thương gây ra\n- Gây 2/3 Lớp [BearClawWound] và [EagleClawWound] so với hiệu ứng của Kỹ Năng này (làm tròn lên)\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Laceration] và +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking] và +3 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Gây 9 [BearClawWound]</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Gây 9 [EagleClawWound]</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Gây 1 [BoldBrushstrokes]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burst Forth the Pulsing Crimson under Your Skin.",
+          "desc": "[WideAreaRampage]\nƯu tiên mục tiêu có [IntenseColors]\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu (không bao gồm Phòng Thủ có thể Giao Tranh)\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse]\n- Sức Mạnh Tổng +1 <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi</u></b></mark></color> trên mục tiêu chính (tối đa 6)\n- <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu chính có [IntenseColors],</u></b></mark></color> Sức Mạnh Giao Tranh +6\n- <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có [IntenseColors],</u></b></mark></color> +100% sát thương gây ra (riêng cho từng mục tiêu)\n· <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có trang bị Kỹ Năng Phòng Thủ</u></b></mark></color> trong khi có [IntenseColors], thì -90% sát thương gây ra\n[WinDuel]\n- Thêm 10% sát thương gây ra <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi trên mục tiêu</u></b></mark></color> (tối đa 60%, riêng cho từng mục tiêu)\n[DefeatDuel]\n- Nhận 5 [AttackDmgDown] và 5 [Paralysis]\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu\n[EndSkill] Kết thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Xu này đánh trúng toàn bộ mục tiêu</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Critique",
+          "desc": "[CantChangeTarget]\n[WhenUse]\n- Sức Mạnh Giao Tranh +2 <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi</u></b></mark></color> trên mục tiêu (tối đa 12)\n- Thêm 12.5% sát thương gây ra <color=#ff6000><mark=#ff000040><b><u>với mỗi đồng minh Fauvist Student of the Ring</u></b></mark></color> trên sân (tối đa 50%)\n- <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có [IntenseColors], </u></b></mark></color>Sức Mạnh Giao Tranh +6 và +200% sát thương gây ra\n· <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có trang bị Kỹ Năng Phòng Thủ</u></b></mark></color> trong khi có [IntenseColors], Sức Mạnh Giao Tranh +6 và -90% sát thương gây ra; thay vào đó. Kỹ Năng này không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu\n[DefeatDuel]\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tái sử dụng Xu này (tối đa 2 lần)\n- Khi Đánh Trúng sau khi thua Giao Tranh, Tái sử dụng Xu này (thay vào đó tối đa 1 lần)\n-  Không kích hoạt nếu mục tiêu đang trang bị Kỹ Năng Phòng Thủ"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking] và +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Thrill of Inspiration",
+          "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse] Sức Mạnh Tổng +1 và +10% sát thương gây ra <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi</u></b></mark></color> trên mục tiêu chính (tối đa 6 Sức Mạnh Tổng và 60% sát thương, tương ứng)\n[WinDuel]\n- Thêm 10% sát thương gây ra <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi</u></b></mark></color> trên từng mục tiêu (tối đa 60% cho mỗi mục tiêu)\n[DefeatDuel]\n- -75% sát thương gây ra\n- Gây 2/3 Lớp [BearClawWound] và [EagleClawWound] so với hiệu ứng của Kỹ Năng này (làm tròn lên)\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Laceration] và +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking] và +3 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Gây 9 [BearClawWound]</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Gây 9 [EagleClawWound]</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Gây 1 [BoldBrushstrokes]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burst Forth the Pulsing Crimson under Your Skin.",
+          "desc": "[WideAreaRampage]\nƯu tiên mục tiêu có [IntenseColors]\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu (không bao gồm Phòng Thủ có thể Giao Tranh)\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse]\n- Sức Mạnh Tổng +1 <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi</u></b></mark></color> trên mục tiêu chính (tối đa 6)\n- <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu chính có [IntenseColors],</u></b></mark></color> Sức Mạnh Giao Tranh +6\n- <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có [IntenseColors],</u></b></mark></color> +200% sát thương gây ra (riêng cho từng mục tiêu)\n· <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có trang bị Kỹ Năng Phòng Thủ</u></b></mark></color> trong khi có [IntenseColors], thì -90% sát thương gây ra\n[WinDuel]\n- Thêm 10% sát thương gây ra <color=#ff6000><mark=#ff000040><b><u>với mỗi hiệu ứng bất lợi trên mục tiêu</u></b></mark></color> (tối đa 60%, riêng cho từng mục tiêu)\n[DefeatDuel]\n- Nhận 5 [AttackDmgDown] và 5 [Paralysis]\n- Kỹ Năng này không thể Choáng mục tiêu\n- Khi Đánh Trúng, không kích hoạt hiệu ứng [Sinking] trên mục tiêu\n[EndSkill] Kết thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Xu này đánh trúng toàn bộ mục tiêu</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

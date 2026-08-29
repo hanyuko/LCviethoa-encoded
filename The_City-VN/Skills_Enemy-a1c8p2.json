@@ -1,0 +1,830 @@
+{
+  "dataList": [
+    {
+      "id": 9021001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Slam",
+          "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Swing",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Crush",
+          "desc": "[WhenUse] Tiêu thụ 5 Tầng [Charge] trên chủ thể thành nhận Sức Mạnh Xu +1 (tối đa 2)\n[BeforeAttack] Nếu chủ thể này đã tiêu thụ 5+ Tầng [Charge], gây +1 [Burst]\n[BeforeAttack] Nếu chủ thể này đã tiêu thụ 10 Tầng [Charge], gây +3 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst] với mỗi 5 Tầng [Charge] đã tiêu thụ Khi Dùng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Rhythm",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Cleave",
+          "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Coil",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Burst",
+          "desc": "[WhenUse] Tiêu thụ 5 Tầng [Charge] trên chủ thể thành nhận Sức Mạnh Xu +1 (tối đa 2)\n[BeforeAttack] Nếu chủ thể này đã tiêu thụ 5+ Tầng [Charge], gây +1 [Burst]\n[BeforeAttack] Nếu chủ thể này đã tiêu thụ 10 Tầng [Charge], gây +3 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst] với mỗi 5 Tầng [Charge] đã tiêu thụ Khi Dùng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Rhythm",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Cleave and Crush",
+          "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Windup Crush",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Shatter",
+          "desc": "[WhenUse] Tiêu thụ 5 Tầng [Charge] trên chủ thể thành nhận Sức Mạnh Xu +1 (tối đa 2)\n[BeforeAttack] Nếu chủ thể này đã tiêu thụ 5+ Tầng [Charge], gây +2 [Burst]\n[BeforeAttack] Nếu chủ thể này đã tiêu thụ 10 Tầng [Charge], gây +3 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Phàm Ăn bằng Lượng [Burst] trên mục tiêu; then, giảm 1 Tầng [Burst] (tối đa 30)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Axe Style - Rhythm Matching",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collide",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pandemonium",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 2 [DefenseUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frantic Pummel",
+          "desc": "[StartBattle] Ở mốc 50%- HP, chuyển Xu thứ 3 của Kỹ Năng này thành [SuperCoin]\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst] và +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Bản thân hồi (Lớp [DefenseUp] trên chủ thể)% HP (tối đa 10%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prone",
+          "desc": "[WhenUse] Nhận Khiên bằng 10% HP tối đa",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collide",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pandemonium",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Hồi 5% HP tối đa (của chủ thể) cho 1 đồng minh khác có phần trăm HP thấp nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frantic Volley",
+          "desc": "[StartBattle] Ở mốc 50%- HP, chuyển Xu thứ 3 của Kỹ Năng này thành [SuperCoin]\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Hồi 10% HP tối đa (của chủ thể) cho 2 đồng minh, bao gồm cả chủ thể, có phần trăm HP thấp nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prone",
+          "desc": "[OnSucceedEvade] Gây +2 Tầng [Burst] (2 lần mỗi lượt)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collide",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pandemonium",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frantic Swinging",
+          "desc": "[StartBattle] Ở mốc 50%- HP, chuyển Xu thứ 3 của Kỹ Năng này thành [SuperCoin]\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+(phần trăm HP đã mất của bản thân)% sát thương gây ra (tối đa 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Tái sử dụng Kỹ Năng này (tối đa 1 lần)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prone",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Talisman Strike",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Trigger Effect",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Giảm 2 [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Deathrite Doll",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm 5 [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Defend",
+          "desc": "[StartBattle] Nhận (20 - SP của chủ thể) Khiên (tối thiểu 0, tối đa 20)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Talisman Strike",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Trigger Effect",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Giảm 3 [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Execution",
+          "desc": "[StartBattle] Ở mốc -30 SP hoặc thấp hơn, chuyển Xu cuối của Kỹ Năng này thành [SuperCoin]\n[DefeatDuel] Kỹ Năng này giảm 75% Sức Mạnh Gốc (làm tròn xuống)\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Giảm 5 [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Vile Burst",
+          "desc": "[StartBattle] Sức Mạnh Tổng +1 với mỗi 10 SP dưới 0 (tối đa 3)\n[DefeatDuel] Kỹ Năng này giảm 75% Sức Mạnh Gốc (làm tròn xuống); ngoài ra, sát thương và hiệu ứng của Kỹ năng này không thể Choáng mục tiêu\n[EndSkill] Đặt SP về 0",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst] và +3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gỡ toàn bộ [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Defend",
+          "desc": "[StartBattle] Nhận (20 - SP của chủ thể) Khiên (tối thiểu 0, tối đa 40)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

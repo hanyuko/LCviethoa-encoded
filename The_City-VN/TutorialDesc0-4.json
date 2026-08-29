@@ -1,0 +1,248 @@
+{
+    "dataList": [
+        {
+            "id": "tutorial_401_01",
+            "content": "Mỗi nhân vật có một <Bộ Kỹ Năng>.\nĐây là danh sách kỹ năng của họ."
+        },
+        {
+            "id": "tutorial_401_02",
+            "content": "Nhấn vào một nhân vật trên mục thông tin của họ."
+        },
+        {
+            "id": "tutorial_401_03",
+            "content": "Trong đây, ngày có thể xem chi tiết kỹ năng của nhân vật."
+        },
+        {
+            "id": "tutorial_401_04",
+            "content": "Mỗi Tội Nhân ngài điều khiển có một bộ kỹ năng nhất định.\nVài kỹ năng trong đấy sẽ được chọn ngẫu nhiên và hiển thị trên Bảng Điều Khiển."
+        },
+        {
+            "id": "tutorial_401_05",
+            "content": "Những kỹ năng đã sử dụng sẽ coi là \"bị loại bỏ\" khỏi danh sách.\nChúng sẽ không xuất hiện lại cho tới khi những kỹ năng khác trong Bộ Kỹ Năng được sử dụng, tới lúc đó thì sẽ được nạp lại."
+        },
+        {
+            "id": "tutorial_401_06",
+            "content": "Thêm vào đấy, những kỹ năng tấn công có \"cấp độ công kích\".\nTrong các cuộc giao tranh, chênh lệch cấp công kích có thể tác động tới kết quả của chúng."
+        },
+        {
+            "id": "tutorial_401_07",
+            "content": "Như vậy là ta đã nắm được kỹ năng của các Tội Nhân rồi.\nGiờ xin ngài hãy ra lệnh."
+        },
+        {
+            "id": "tutorial_402_01",
+            "content": "Ngoài các kỹ năng, Tội Nhân của ngài còn có <Nội Tại>.\nCác Tội Nhân trên mặt trận sẽ tự động kích hoạt Nội Tại Chiến Đấu của họ."
+        },
+        {
+            "id": "tutorial_402_02",
+            "content": "Các Tội Nhân không trực tiếp tham gia chiến đấu sẽ hỗ trợ bằng Nội Tại Hỗ Trợ."
+        },
+        {
+            "id": "tutorial_402_03",
+            "content": "Để đưa lý thuyết vào thực hành, hãy kích hoạt Nội Tại bằng cách kéo hai kỹ năng Kiêu Ngạo."
+        },
+        {
+            "id": "tutorial_402_04",
+            "content": "Khu vực này sẽ biểu thị Nội Tại nào đang được kích hoạt.\nNội Tại sẽ được kích hoạt khi ngài đang sở hữu một lượng tài nguyên E.G.O nhất định hoặc có chuỗi kỹ năng mang Nguyên Tội nhất định."
+        },
+        {
+            "id": "tutorial_403_00",
+            "content": "Ta đang phải đối mặt với nhiều đợt tấn công trong trận chiến này."
+        },
+        {
+            "id": "tutorial_403_01",
+            "content": "Để giải quyết vấn đề này, các Tội Nhân của ngài sở hữu những kỹ năng siêu mạnh gọi là <E.G.O>, thi triển bằng cách cộng hưởng với cảm xúc của họ."
+        },
+        {
+            "id": "tutorial_403_02",
+            "content": "Để sử dụng <E.G.O>, ngài cần có tài nguyên E.G.O."
+        },
+        {
+            "id": "tutorial_403_03",
+            "content": "Ngài có thể kiểm tra mình đang có bao nhiêu tài nguyên E.G.O ở bên phải."
+        },
+        {
+            "id": "tutorial_403_04",
+            "content": "Vì đây là lần đầu tiên ngài dùng thử <E.G.O>, tôi đã thu thập sẵn lượng tài nguyên cần thiết giúp ngài.\nSức mạnh này rất đặc biệt, nên từ bây giờ vui lòng ngài hãy tự mình thu thập chúng."
+        },
+        {
+            "id": "tutorial_403_05",
+            "content": "Các Tội Nhân hiện có thể dùng <E.G.O> sẽ được tô sáng lên."
+        },
+        {
+            "id": "tutorial_403_06",
+            "content": "<Kỹ năng E.G.O> phải được kích hoạt trên Bảng Điều Khiển, giống như kỹ năng phòng thủ. Vui lòng hãy nhấn và giữ ở đây."
+        },
+        {
+            "id": "tutorial_403_07",
+            "content": "Nhấn vào biểu tượng <E.G.O> ngài muốn dùng.\nHành động này có thể dùng đẻ hủy những kỹ năng ngài đã kích hoạt."
+        },
+        {
+            "id": "tutorial_403_08_title",
+            "content": "E.G.O"
+        },
+        {
+            "id": "tutorial_403_08",
+            "content": "E.G.O là một trang bị mang sức mạnh lớn mà có thể thi triển bằng cách cộng hưởng với cảm xúc của các Tội Nhân.\nĐể sử dụng một kỹ năng E.G.O, ngài cần có tài nguyên E.G.O có thuộc tính Nguyên Tội.\nMỗi khi sử dụng một đòn tấn công, ngài sẽ thu thâp được tài nguyên E.G.O mang Nguyên Tội tương ứng."
+        },
+        {
+            "id": "tutorial_403_09_title",
+            "content": "E.G.O Ăn Mòn"
+        },
+        {
+            "id": "tutorial_403_09",
+            "content": "Quan trọng không kém việc thu thập tài nguyên E.G.O, E.G.O sẽ ảnh hưởng lớn tới Tinh Thần của Tội Nhân.\nKhi có Tinh Thần thấp, Tội Nhân có thể sẽ bị <E.G.O Ăn Mòn>.\nTội Nhân nào bị E.G.O Ăn Mòn sẽ không tuân lệnh của ngài, nên hãy đảm bảo Tội Nhân của ngài có sức khỏe tâm lý tốt."
+        },
+        {
+            "id": "tutorial_403_10_title",
+            "content": "Nội Tại E.G.O"
+        },
+        {
+            "id": "tutorial_403_10",
+            "content": "Sau khi sử dụng kỹ năng E.G.O, năng lực Nội Tại của kỹ năng đó sẽ được kích hoạt vào lượt kế và tăng sức mạnh cho Tội Nhân đó trong suốt trận đấu.\nHãy tận dụng triệt để các Nội Tại của các E.G.O."
+        },
+        {
+            "id": "tutorial_403_11",
+            "content": "Các đòn tấn công có thể là đơn mục tiêu hoặc đa mục tiêu;\nmà cái thứ hai gọi tắt là \"đòn AoE\"."
+        },
+        {
+            "id": "tutorial_403_12",
+            "content": "Có vẻ như E.G.O chuẩn bị được sử dụng có đòn AoE."
+        },
+        {
+            "id": "tutorial_403_13_title",
+            "content": "Kỹ năng Diện Rộng"
+        },
+        {
+            "id": "tutorial_403_13",
+            "content": "Mục tiêu của các đòn AoE chia ra thành hai loại:\nMục tiêu chính và mục tiêu phụ."
+        },
+        {
+            "id": "tutorial_403_14",
+            "content": "Chỉ có thể giao tranh với đòn AoE với mục tiêu chính của nó."
+        },
+        {
+            "id": "tutorial_403_15",
+            "content": "Nếu đòn AoE thua giao tranh, đòn tấn công sẽ bị vô hiệu hóa với mọi mục tiêu."
+        },
+        {
+            "id": "tutorial_403_16",
+            "content": "Các mục tiêu phụ sẽ tùy vào khu vực ảnh hưởng của kỹ năng."
+        },
+        {
+            "id": "tutorial_403_17_title",
+            "content": "Mục tiêu của các đòn AoE chia ra thành hai loại:\nMục tiêu chính và mục tiêu phụ."
+        },
+        {
+            "id": "tutorial_403_17",
+            "content": "Đòn AoE có thể nhắm vào ô kỹ năng của kẻ địch."
+        },
+        {
+            "id": "tutorial_403_18",
+            "content": "Mỗi Kỹ Năng AoE (diện rộng) đều có một giá trị \"Phạm Vi Tấn Công\" được quy định sẵn."
+        },
+        {
+            "id": "tutorial_403_19",
+            "content": "Mỗi Ô có giá trị \"Phạm Vi Tấn Công\" và Ô đó có thể chiếm một phần giá trị \"Phạm Vi Tấn Công\"của Kỹ Năng AoE (diện rộng) đó."
+        },
+        {
+            "id": "tutorial_403_20",
+            "content": "Trong các ải thường, một kẻ thù chỉ bị tấn công một lần bằng một đòn AoE, kể cả khi đối tượng đang nhắm vào nhiều mục tiêu."
+        },
+        {
+            "id": "tutorial_403_21",
+            "content": "Trong các Ải Chuyên Sâu, các ô của bộ phận chỉ có thể nhận sát thương một lần, kể cả khi ô đó đang bị nhiều đối tượng nhắm vào."
+        },
+        {
+            "id": "tutorial_404_00",
+            "content": "Tận dụng E.G.O là một phần quan trọng trong việc lên chiến lược."
+        },
+        {
+            "id": "tutorial_404_01",
+            "content": "Ta đang phải đối mặt với nhiều đợt tấn công trong trận chiến này."
+        },
+        {
+            "id": "tutorial_404_02",
+            "content": "Trước khi hành động tiếp, tôi xin phép giới thiệu ngài một tính năng khá hữu dụng."
+        },
+        {
+            "id": "tutorial_404_03",
+            "content": "Giờ ngài có thể để trò chơi kéo kỹ năng giúp ngài.\nChuỗi kỹ năng sẽ tự động tạo ra tùy vào nút ngài bấm."
+        },
+        {
+            "id": "tutorial_404_04",
+            "content": "Tỷ Lệ Thắng' sẽ chọn ra những kỹ năng có khả năng thắng Giao Tranh cao.\n'Sát Thương', như cái tên, sẽ chọn ra những kỹ năng gây nhiều sát thương nhất."
+        },
+        {
+            "id": "tutorial_404_05",
+            "content": "Tuy nhiên, ngài hãy nhớ rằng tự động nối chuỗi sẽ không tính đến những yếu tố phức tạp khác."
+        },
+        {
+            "id": "tutorial_404_06",
+            "content": "Hơn nữa, ngài có thể thay đổi hiển thị của mũi tên bằng bảng nằm ở phía trên bên phải, cũng như cấu hình hiển thị chú thích kỹ năng và điều khiển tung Xu trong phần cài đặt."
+        },
+        {
+            "id": "tutorial_404_07",
+            "content": "Như vậy là lời khuyên cuối cùng của tôi.\nGiờ ngài phải quản lý Tội Nhân mà không có sự trợ giúp từ tôi.\nTôi mong rằng sẽ nhận được những mệnh lệnh xuất chúng từ ngài đấy, Dante."
+        },
+        {
+            "id": "tutorial_404_08_title",
+            "content": "Tự Động Nối Chuỗi theo Sát thương và Tỷ Lệ Thắng"
+        },
+        {
+            "id": "tutorial_404_08",
+            "content": "Tỷ Lệ Thắng' sẽ chọn ra những kỹ năng có khả năng thắng Giao Tranh cao."
+        },
+        {
+            "id": "tutorial_404_09",
+            "content": "Sát Thương', như cái tên, sẽ chọn ra những kỹ năng gây nhiều sát thương nhất."
+        },
+        {
+            "id": "tutorial_404_10",
+            "content": "Đối với các ải thông thường, chế độ tự động sẽ chỉ áp dụng với những ải mà ngài đã đạt điều kiện EX trước đó.\nChế độ Tự Động luôn sử dụng được trong Ải Chuyên Sâu.\nXin hãy nhớ rằng tự động nối chuỗi nhiều khi sẽ không phải giải pháp hữu hiệu nhất."
+        },
+        {
+            "id": "tutorial_ego_overclock_title",
+            "content": "Ép Xung E.G.O"
+        },
+        {
+            "id": "tutorial_ego_overclock_1",
+            "content": "Ép Xung E.G.O sẽ Ổn Định hoặc Không Ổn ĐỊnh tùy vào tài nguyên hiện có."
+        },
+        {
+            "id": "tutorial_ego_overclock_2",
+            "content": "Ép Xung sẽ tốn tài nguyên E.G.O và điểm SP E.G.O thường tốn gấp 1.5 lần."
+        },
+        {
+            "id": "tutorial_ego_overclock_3",
+            "content": "Để ép xung một kỹ năng E.G.O, ngài cần sở hữu ít nhất số tài nguyên E.G.O gốc, nếu ngài có đủ số tài nguyên gốc mà không đủ để ép xung, số tài nguyên ngài đang sở hữu sẽ bị trừ đi tới khi vượt quá 0."
+        },
+        {
+            "id": "tutorial_ego_overclock_4",
+            "content": "Đối tượng vẫn có khả năng bị ăn mòn khi ép xung; trong trường hợp này, E.G.O sẽ chỉ tiêu thụ số tài nguyên gốc."
+        },
+        {
+            "id": "tutorial_ego_overclock_5",
+            "content": "Những kĩ năng E.G.O được ép xung ổn định có cùng hiệu ứng và sát thương như khi bị ăn mòn, nhưng người dùng có thể phân biệt giữa bạn và thù."
+        },
+        {
+            "id": "tutorial_ego_overclock_6",
+            "content": "Những kĩ năng E.G.O được ép xung bất ổn thì tiềm ẩn rủi ro nhắm mục tiêu bừa bãi, hiệu ứng và sát thương cũng tương tự như kỹ năng ăn mòn."
+        },
+        {
+            "id": "tutorial_403_06_New",
+            "content": "Giống như các kĩ năng phòng thủ, ngài cũng sẽ phải tự phát động những <Kỹ Năng E.G.O> trên Bảng Điều Khiển. Hãy nhấn và giữ ảnh đại diện được nhấn mạnh."
+        },
+        {
+            "id": "tutorial_403_07_New",
+            "content": "Rồi nhấn vào biểu tượng của <E.G.O> mà ngài muốn dùng."
+        },
+        {
+            "id": "tutorial_403_07_1",
+            "content": "Tiêu hao Tài Nguyên E.G.O để tạo một biểu tượng Kỹ năng E.G.O trên Bảng Điều Khiển."
+        },
+        {
+            "id": "tutorial_403_07_2",
+            "content": "Ngài có thể hủy các Kỹ Năng E.G.O trên Bảng Điều Khiển bằng cách nhấp hai lần lên ảnh đại diện. Kĩ năng E.G.O sẽ được rút lại và hoàn trả số tài nguyên mà ngài đã tiêu hao."
+        }
+    ]
+}

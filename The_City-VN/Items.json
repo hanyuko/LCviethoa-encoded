@@ -1,0 +1,634 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "name": "Lunacy Trả Phí",
+      "desc": "Thứ vật liệu tinh thể mang hình dáng của một bông hoa hồng. Được dùng để trích xuất và mua hộp Enkephalin.",
+      "flavor": "A crystal rose that seems to be facing a certain direction at all times. This humanlike object is said to absorb the moisture from a certain river to bloom."
+    },
+    {
+      "id": 2,
+      "name": "Lunacy Miễn Phí",
+      "desc": "Thứ vật liệu tinh thể mang hình dáng của một bông hoa hồng. Được dùng để trích xuất và mua hộp Enkephalin.",
+      "flavor": "A crystal rose that seems to be facing a certain direction at all times. This humanlike object is said to absorb the moisture from a certain river to bloom."
+    },
+    {
+      "id": 3,
+      "name": "Lunacy",
+      "desc": "Thứ vật liệu tinh thể mang hình dáng của một bông hoa hồng. Được dùng để trích xuất và mua hộp Enkephalin.",
+      "flavor": "Chỉ khi chấp nhận sự điên loạn thì con người mới có thể tiến bước về phía trước."
+    },
+    {
+      "id": 11,
+      "name": "Mô-Đun Enkephalin",
+      "desc": "Được sử dụng để tiến vào các Hầm Ngục.",
+      "flavor": "Mô-đun dạng khối cầu để chứa vật liệu đặc biệt.\n[GHI CHÚ] Tận dụng một lượng Enkephalin dạng lỏng cố định để sử dụng một cách ổn định hơn so với dạng khí trước đó.\nCó thể chuyển hóa Enkephalin thành năng lượng bằng cách cắm mô-đun vào khe cắm cụ thể.\n[LƯU Ý] Một khi đã chuyển hóa Enkephalin thành mô-đun sẽ không thể hoàn tác lại, và chỉ có thể được tiêu thụ bằng khe cắm nói trên.\nNghiêm cấm hành vi điều chỉnh hoặc sử dụng mô-đun ngoài những mục đích đã được nêu ở bên trên."
+    },
+    {
+      "id": 101,
+      "name": "Vé Trích Xuất",
+      "desc": "Được dùng để tiến hành trích xuất 1 lần.",
+      "flavor": "Vật phẩm có thể tiêu dùng được thêu dệt từ Lunacy, nguồn năng lượng dùng để trích xuất của Mephistopheles.\nTuy trông giống một mảnh giấy nhưng bên trong lại có nhịp đập."
+    },
+    {
+      "id": 102,
+      "name": "Vé Trích Xuất Mười Lần",
+      "desc": "Dùng để tiến hành trích xuất 10 lần.",
+      "flavor": "Vật phẩm có thể tiêu dùng được thêu dệt từ Lunacy, nguồn năng lượng dùng để trích xuất của Mephistopheles.\nTuy trông giống một mảnh giấy nhưng bên trong lại có nhịp đập."
+    },
+    {
+      "id": 103,
+      "name": "Vé Trích Xuất Mười Lần Đảm Bảo 3★",
+      "desc": "Dùng để tiến hành trích xuất 10 lần, trong đó chắc chắn có một Danh Tính 3★ xuất hiện.",
+      "flavor": "Tấm vé đặc biệt được đóng dấu lên. Nó chắc chắn sẽ trích xuất ra một Danh Tính từ một nhánh rẽ hiếm có. Mảnh giấy này liên tục đập không ngừng nghỉ."
+    },
+    {
+      "id": 104,
+      "name": "[Mùa 1] Vé Trích Xuất Mười Lần Đảm Bảo 3★",
+      "desc": "Dùng để tiến hành trích xuất 10 lần, trong đó chắc chắn sẽ có một Danh Tính 3★ từ [Mùa 1] xuất hiện.",
+      "flavor": "Tấm vé đặc biệt được đóng dấu lên. Nó chắc chắn sẽ trích xuất ra một Danh Tính từ một nhánh rẽ hiếm có. Mảnh giấy này liên tục đập không ngừng nghỉ."
+    },
+    {
+      "id": 105,
+      "name": "[Mùa 2] Vé Trích Xuất Mười Lần Đảm Bảo 3★",
+      "desc": "Dùng để tiến hành trích xuất 10 lần, trong đó chắc chắn sẽ có một Danh Tính 3★ từ [Mùa 2] xuất hiện.",
+      "flavor": "Tấm vé đặc biệt được đóng dấu lên. Nó chắc chắn sẽ trích xuất ra một Danh Tính từ một nhánh rẽ hiếm có. Mảnh giấy này liên tục đập không ngừng nghỉ."
+    },
+    {
+      "id": 106,
+      "name": "[Mùa 3] Vé Trích Xuất Mười Lần Đảm Bảo 3★",
+      "desc": "Dùng để tiến hành trích xuất 10 lần, trong đó chắc chắn sẽ có một Danh Tính 3★ từ [Mùa 3] xuất hiện.",
+      "flavor": "Tấm vé đặc biệt được đóng dấu lên. Nó chắc chắn sẽ trích xuất ra một Danh Tính từ một nhánh rẽ hiếm có. Mảnh giấy này liên tục đập không ngừng nghỉ."
+    },
+    {
+      "id": 201,
+      "name": "Sợi Chỉ",
+      "desc": "Dùng để Đồng Bộ Danh Tính hoặc Thêu Dệt E.G.O.",
+      "flavor": "Sợi Chỉ là một vật thể dạng sợi dùng để dệt tất cả nhánh rẽ vào cùng một chỗ duy nhất.\nCông ty chúng ta đang tận dụng Sợi Chỉ theo nhiều cách thức khác nhau, ví dụ như Đồng Bộ Danh Tính hoặc Thêu Dệt E.G.O để thấu hiểu rõ hơn."
+    },
+    {
+      "id": 211,
+      "name": "Vé Huấn Luyện Danh Tính I",
+      "desc": "Tăng 50 Điểm K.N cho Danh Tính.",
+      "flavor": "Tấm vé ẩn chứa trải nghiệm từ quá khứ, hiện tại, và tương lai.\n“Tôi cảm thấy một ý tưởng nào đó mới lạ đang nở rộ trong tâm trí.”"
+    },
+    {
+      "id": 212,
+      "name": "Vé Huấn Luyện Danh Tính II",
+      "desc": "Tăng 200 Điểm K.N cho Danh Tính.",
+      "flavor": "Tấm vé ẩn chứa trải nghiệm từ quá khứ, hiện tại, và tương lai.\n“Hừmm~ Trước giờ mình chưa từng ghé qua khu phía nam, vậy mà sao trông nó thân thuộc thế không biết...?”"
+    },
+    {
+      "id": 213,
+      "name": "Vé Huấn Luyện Danh Tính III",
+      "desc": "Tăng 1000 Điểm K.N cho Danh Tính.",
+      "flavor": "Tấm vé ẩn chứa trải nghiệm từ quá khứ, hiện tại, và tương lai.\n“... Giá như ngày xưa mình có thứ tiện lợi như thế này thì những ngày tháng ác liệt đó đã trở nên dễ dàng biết bao.”"
+    },
+    {
+      "id": 214,
+      "name": "Vé Huấn Luyện Danh Tính IV",
+      "desc": "Tăng 3000 Điểm K.N cho Danh Tính.",
+      "flavor": "Tấm vé đong đầy những gì mà chúng ta đã, đang, và sẽ trải nghiệm.\n\"Cảm giác như bản thân bị nhồi nhét vào đầu những trải nghiệm vốn không thuộc về mình vậy. Dù không phải cảm giác dễ chịu gì nhưng cũng không thể phủ định độ hiệu quả của nó."
+    },
+    {
+      "id": 221,
+      "name": "Vé Tăng Cấp I",
+      "desc": "Nâng cấp của Danh Tính lên cấp 10.",
+      "flavor": "Tấm vé loại bỏ giới hạn và cho phép Danh Tính sở hữu trải nghiệm cường hóa vượt bậc.\n“Ô! Công lý đang tràn trề trong ta hơn bao giờ hết!”"
+    },
+    {
+      "id": 222,
+      "name": "Vé Tăng Cấp II",
+      "desc": "Nâng cấp của Danh Tính lên cấp 20.",
+      "flavor": "Tấm vé loại bỏ giới hạn và cho phép Danh Tính sở hữu trải nghiệm cường hóa vượt bậc.\n“Nó... cảm giác yên ổn đến lạ. Tôi thấy bản thân giờ có thể làm những điều mà trước đây vẫn chưa làm được.”"
+    },
+    {
+      "id": 223,
+      "name": "Vé Tăng Cấp III",
+      "desc": "Nâng cấp của Danh Tính lên cấp 30.",
+      "flavor": "Tấm vé loại bỏ giới hạn và cho phép Danh Tính sở hữu trải nghiệm cường hóa vượt bậc.\n“Nếu như hồi chiến tranh mà mua được vật này thì cũng đáng sợ ra phết đấy. Tưởng tượng việc chỉ mất vài giây để đào tạo ra một chiến binh kỳ cựu đi.”"
+    },
+    {
+      "id": 224,
+      "name": "Vé Tăng Cấp IV",
+      "desc": "Nâng cấp của Danh Tính lên cấp 40.",
+      "flavor": "Tấm vé loại bỏ giới hạn và cho phép Danh Tính sở hữu trải nghiệm cường hóa vượt bậc. \n\"B.Á. Dám bắt ta phải bỏ ra nhiều năm kinh nghiệm chỉ để sử dụng cái thứ kỹ thuật mà ta chưa từng dùng bao giờ... chẳng thấy thỏa mãn chút nào. Thật đáng kinh tởm. (Bá. Ác.)\""
+    },
+    {
+      "id": 231,
+      "name": "Vé Khởi Hành Danh Tính",
+      "desc": "Nâng cấp của Danh Tính lên cấp 40, và nâng Cấp Đồng Bộ lên Cấp 4.",
+      "flavor": "Xé tấm vé này để sử dụng.\nNó sẽ xé toạc cả không-thời gian, đồng bộ hóa lẫn nâng cấp một Danh Tính với tốc độ hết mức vô lý.\nĐồng thời cũng phát ra âm thanh rất dễ gây nghiện khiến con người ta muốn xé thêm vài tấm vé nữa."
+    },
+    {
+      "id": 301,
+      "name": "Hộp Enkephalin",
+      "desc": "Hồi phục 60 Enkephalin khi dùng.",
+      "flavor": "Hộp chứa Enkephalin dạng lỏng.\n[LƯU Ý] Nếu không tuân theo quy trình được ghi rõ trên hộp có thể dẫn đến các tai nạn ngoài ý muốn như rò rỉ Enkephalin.\nViệc tiếp nhận Enkephalin vào cơ thể có thể gây ra vô số triệu chứng tâm lý chưa thể kiểm chứng."
+    },
+    {
+      "id": 401,
+      "name": "Hòm Chỉ",
+      "desc": "Nhận 1-3 Sợi Chỉ khi mở hòm.",
+      "flavor": "Cái hòm chứa vô vàn nhánh rẽ.\nChẳng ai biết có thể trích xuất được bao nhiêu."
+    },
+    {
+      "id": 1101,
+      "name": "[Mùa 1] Hòm Mảnh Ego",
+      "desc": "Nhận 1-3 Mảnh Ego của một Tội Nhân ngẫu nhiên khi mở hòm.",
+      "flavor": "Những mảnh Ego được thu hoạch ngẫu nhiên và cất vào cái hòm này. Vẫn không ai biết bên trong chứa đựng thứ gì.\nKhi cầm lên trong một căn phòng tĩnh lặng sẽ nghe thấy những âm thanh xào xạc be bé."
+    },
+    {
+      "id": 1201,
+      "name": "[Mùa 1] Hòm Mảnh Ego Tùy Chọn",
+      "desc": "Nhận 1-3 Mảnh Ego của một Tội Nhân tùy chọn khi mở hòm.",
+      "flavor": "Cái hòm chứa mảnh ego của một Tội Nhân chỉ định.\nTheo lời của Faust, khi mở cái hòm ra thì bên trong chính là thứ mà quản lý đã lựa chọn."
+    },
+    {
+      "id": 1102,
+      "name": "[Mùa 2] Hòm Mảnh Ego",
+      "desc": "Nhận 1-3 Mảnh Ego của một Tội Nhân ngẫu nhiên khi mở hòm.",
+      "flavor": "Những mảnh Ego được thu hoạch ngẫu nhiên và cất vào cái hòm này. Vẫn không ai biết bên trong chứa đựng thứ gì.\nKhi cầm lên trong một căn phòng tĩnh lặng sẽ nghe thấy những âm thanh xào xạc be bé."
+    },
+    {
+      "id": 1202,
+      "name": "[Mùa 2] Hòm Mảnh Ego Tùy Chọn",
+      "desc": "Nhận 1-3 Mảnh Ego của một Tội Nhân tùy chọn khi mở hòm.",
+      "flavor": "Cái hòm chứa mảnh ego của một Tội Nhân chỉ định.\nTheo lời của Faust, khi mở cái hòm ra thì bên trong chính là thứ mà quản lý đã lựa chọn."
+    },
+    {
+      "id": 1103,
+      "name": "[Mùa 3] Hòm Mảnh Ego",
+      "desc": "Nhận 1-3 Mảnh Ego của một Tội Nhân ngẫu nhiên khi mở hòm.",
+      "flavor": "Những mảnh Ego được thu hoạch ngẫu nhiên và cất vào cái hòm này. Vẫn không ai biết bên trong chứa đựng thứ gì.\nKhi cầm lên trong một căn phòng tĩnh lặng sẽ nghe thấy những âm thanh xào xạc be bé."
+    },
+    {
+      "id": 1203,
+      "name": "[Mùa 3] Hòm Mảnh Ego Tùy Chọn",
+      "desc": "Nhận 1-3 Mảnh Ego của một Tội Nhân tùy chọn khi mở hòm.",
+      "flavor": "Cái hòm chứa mảnh ego của một Tội Nhân chỉ định.\nTheo lời của Faust, khi mở cái hòm ra thì bên trong chính là thứ mà quản lý đã lựa chọn."
+    },
+    {
+      "id": 10101,
+      "name": "[Mùa 1] Mảnh Ego Của Yi Sang",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Yi Sang và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10201,
+      "name": "[Mùa 1] Mảnh Ego Của Faust",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Faust và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10301,
+      "name": "[Mùa 1] Mảnh Ego Của Don Quixote",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Don Quixote và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10401,
+      "name": "[Mùa 1] Mảnh Ego Của Ryōshū",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Ryōshū và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10501,
+      "name": "[Mùa 1] Mảnh Ego Của Meursault",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Meursault và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10601,
+      "name": "[Mùa 1] Mảnh Ego Của Hồng Lộ",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Hồng Lộ và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10701,
+      "name": "[Mùa 1] Mảnh Ego Của Heathcliff",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Heathcliff và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10801,
+      "name": "[Mùa 1] Mảnh Ego Của Ishmael",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Ishmael và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10901,
+      "name": "[Mùa 1] Mảnh Ego Của Rodion",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Rodion và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 11001,
+      "name": "[Mùa 1] Mảnh Ego Của Sinclair",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Sinclair và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 11101,
+      "name": "[Mùa 1] Mảnh Ego Của Outis",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Outis và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 11201,
+      "name": "[Mùa 1] Mảnh Ego Của Gregor",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Gregor và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10001,
+      "name": "Mùa 1 [Selected Sinner]’s Egoshard",
+      "desc": "재화 등장 확률 상세 표시용(name 만 번역해주세요)",
+      "flavor": ""
+    },
+    {
+      "id": 10102,
+      "name": "[Mùa 2] Mảnh Ego Của Yi Sang",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Yi Sang và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10202,
+      "name": "[Mùa 2] Mảnh Ego Của Faust",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Faust và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10302,
+      "name": "[Mùa 2] Mảnh Ego Của Don Quixote",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Don Quixote và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10402,
+      "name": "[Mùa 2] Mảnh Ego Của Ryōshū",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Ryōshū và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10502,
+      "name": "[Mùa 2] Mảnh Ego Của Meursault",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Meursault và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10602,
+      "name": "[Mùa 2] Mảnh Ego Của Hồng Lộ",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Hồng Lộ và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10702,
+      "name": "[Mùa 2] Mảnh Ego Của Heathcliff",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Heathcliff và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10802,
+      "name": "[Mùa 2] Mảnh Ego Của Ishmael",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Ishmael và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10902,
+      "name": "[Mùa 2] Mảnh Ego Của Rodion",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Rodion và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 11002,
+      "name": "[Mùa 2] Mảnh Ego Của Sinclair",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Sinclair và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 11102,
+      "name": "[Mùa 2] Mảnh Ego Của Outis",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Outis và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 11202,
+      "name": "[Mùa 2] Mảnh Ego Của Gregor",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Gregor và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10103,
+      "name": "[Mùa 3] Mảnh Ego Của Yi Sang",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Yi Sang và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10203,
+      "name": "[Mùa 3] Mảnh Ego Của Faust",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Faust và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10303,
+      "name": "[Mùa 3] Mảnh Ego Của Don Quixote",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Don Quixote và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10403,
+      "name": "[Mùa 3] Mảnh Ego Của Ryōshū",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Ryōshū và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10503,
+      "name": "[Mùa 3] Mảnh Ego Của Meursault",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Meursault và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10603,
+      "name": "[Mùa 3] Mảnh Ego Của Hồng Lộ",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Hồng Lộ và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10703,
+      "name": "[Mùa 3] Mảnh Ego Của Heathcliff",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Heathcliff và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10803,
+      "name": "[Mùa 3] Mảnh Ego Của Ishmael",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Ishmael và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10903,
+      "name": "[Mùa 3] Mảnh Ego Của Rodion",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Rodion và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 11003,
+      "name": "[Mùa 3] Mảnh Ego Của Sinclair",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Sinclair và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 11103,
+      "name": "[Mùa 3] Mảnh Ego Của Outis",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Outis và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 11203,
+      "name": "[Mùa 3] Mảnh Ego Của Gregor",
+      "desc": "Dùng để đổi Danh Tính, E.G.O của Gregor và Sợi Chỉ từ Quy Đổi.",
+      "flavor": "Những khoảnh khắc thoáng qua từ mọi thời điểm trong cõi đời của Tội Nhân cô đọng thành dáng hình vật lý. Các mảnh vỡ trôi nổi giữa không trung.\nNhững nhánh rẽ kiêm viễn cảnh quá đỗi phù du; trôi dạt giữa những thế giới vạn biến đến khi ta nắm bắt lấy nó."
+    },
+    {
+      "id": 10002,
+      "name": "Mùa 2 [Selected Sinner]’s Egoshard",
+      "desc": "재화 등장 확률 상세 표시용(name 만 번역해주세요)",
+      "flavor": ""
+    },
+    {
+      "id": 4,
+      "name": "[Lý Tưởng] Yisang",
+      "desc": "천장 재화 표시용(name 만 번역해주세요)",
+      "flavor": ""
+    },
+    {
+      "id": 20001,
+      "name": "Bus-modifying Scrap",
+      "desc": "Miscellaneous junk like rusted plates and bolts ripped from the backs of trash crabs.\nCould be used for modifying Mephistopheles.",
+      "flavor": ""
+    },
+    {
+      "id": 20002,
+      "name": "Rare Horseshoe with Bus-modifying Scrap",
+      "desc": "A large horseshoe-shaped item taken from the king trash crab.\nIt could substitute several pieces of scrap, or so we're told.",
+      "flavor": ""
+    },
+    {
+      "id": 5,
+      "name": "Egoshards",
+      "desc": "자판기 재화 표시용(name 만 번역해주세요)",
+      "flavor": ""
+    },
+    {
+      "id": 20009,
+      "name": "Trinkets Sack",
+      "desc": "A sack full of trinkets and decorations hastily taken from the Gift Factory.\nDon Quixote will make good use of these to spruce up the Mephistopheles' interiors.",
+      "flavor": ""
+    },
+    {
+      "id": 20010,
+      "name": "Huge Trinkets Sack",
+      "desc": "A huge sack filled to the brim with trinkets and decorations from the Gift Factory.\nDon Quixote will make good use of these to spruce up the Mephistopheles' interiors.",
+      "flavor": ""
+    },
+    {
+      "id": 20012,
+      "name": "Bloodied Scabbard",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Those who wield blades in life leave behind bloodied scabbards in death.\nThe true abode of those who walk the path of blades is their scabbard.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20013,
+      "name": "Resentful Scabbard",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>One who wields their blade with deep resentment is called a Demon of the Blade.\nDemon of the Blade no longer has need of a scabbard; yet they carry it, as that resentment is tinged with a lingering attachment.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20017,
+      "name": "Pocket Watch",
+      "desc": "Everyone has their own timepiece, with varying time scales.\nTime that goes by quickly. Time that lingers.\nThe hours are always misaligned.",
+      "flavor": ""
+    },
+    {
+      "id": 20018,
+      "name": "Pocket Watch Bundle",
+      "desc": "The same destination awaits every timepiece.\nThe hours finally align when the hands stop ticking down the seconds, when one breathes their final lungful of air.",
+      "flavor": ""
+    },
+    {
+      "id": 20020,
+      "name": "Civilian Recov. Pack",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Notice to Cleanup Agents: please collect and store a single passenger's parts in this pack. No matter how difficult it may appear to collect their parts, do note that there is a single strand of vein connecting the passenger's parts together. Imagine you are spinning a yarn ball into shape, and patiently collect them one by one.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20021,
+      "name": "Fixer Recov. Pack",
+      "desc": "Spawns rarely. Converted to 20 Civilian Recov. Pack immediately upon acquisition.\n\n<color=#a16a3b>On occasion, you may have to work on passengers equipped with prosthetics.\nPlease note that even full-body prosthetics do not remove the passenger's brain.\nAny prosthetic parts recognized by the brain as the passenger's own body will be connected by veins, so there is no need to worry about mix-and-matching them together.\nRemember: blood is thicker than water.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 232,
+      "name": "Mô-đun Khởi Hành - Đồng Bộ Danh Tính",
+      "desc": "Nâng Cấp Đồng Bộ của Danh Tính lên Cấp 4.",
+      "flavor": "Mô-Đun Tăng Tiến Đồng Bộ Danh Tính do Đội Nghiên Cứu và Phát Triển của LCA tạo ra.\nCưỡng chế những sợi chỉ óng ánh và dệt những mảnh vỡ vào nhau, tăng tiến cấp Đồng Bộ lên một ngưỡng nhất định.\nNhững con người bên ngoài chiếc gương có lẽ sẽ không biết điều này, nhưng ở bên trong chiếc gương, mầm mống hủy diệt xóa sổ tất cả mọi thứ trong một khắc ngắn ngủi."
+    },
+    {
+      "id": 233,
+      "name": "Mô-đun Khởi Hành - Thêu Dệt E.G.O [WAW] x1",
+      "desc": "Nâng Cấp Thêu Dệt của E.G.O lên Cấp 4. (Chỉ dùng được cho E.G.O Cấp W.A.W hoặc thấp hơn)",
+      "flavor": "Mô-Đun Thêu Dệt E.G.O do Đội Nghiên Cứu và Phát Triển của LCA tạo ra.\nThêu dệt những sợi chỉ óng ánh vào các mảnh vỡ, cường hóa mức độ Thêu Dệt của E.G.O cho đến một cấp độ nhất định với tốc độ đáng kể.\nVẫn chưa thể biết được cái trái tim gọi là E.G.O này có thể chịu được... bao nhiêu áp lực từ việc Thêu Dệt những E.G.O dựa trên các Dị-Thần Lực một cách bất cẩn và tùy tiện nữa."
+    },
+    {
+      "id": 501,
+      "name": "Vé Tùy Chọn Danh Tính Mùa 1",
+      "desc": "Dùng để chọn Danh Tính Mùa 1 (bao gồm các Danh Tính trong Sự Kiện).",
+      "flavor": "Tấm vé có khả năng quan sát và trích xuất một Danh Tính từ một thời điểm cụ thể trong hành trình truy tìm Cành Vàng của đội LCB.\n'Khả năng chỉ định rồi trích xuất một Danh Tính tại một thời điểm cụ thể từ một Thế Giới Gương quan sát được cho thấy công nghệ cao siêu vượt bậc của Công Ty Limbus. - Trưởng Nghiên Cứu Viên Phòng Ban Quan Sát Thế Giới Gương của LCA'"
+    },
+    {
+      "id": 601,
+      "name": "Vé Tùy Chọn E.G.O Vé Thông Hành Mùa 1 Nominable S1 Battle Pass E.G.O Ticket",
+      "desc": "Dùng để chọn E.G.O Vé Thông Hành Mùa 1.",
+      "flavor": "Tấm vé có khả năng quan sát và trích xuất một E.G.O từ một thời điểm cụ thể trong hành trình truy tìm Cành Vàng của đội LCB.\n'Trích xuất một E.G.O tại một thời điểm cụ thể từ góc khuất sâu thẳm là quá trình nghiên cứu phức tạp hơn rất nhiều so với việc tạo ra vé chọn Danh Tính. Khà khà. - Trưởng Nghiên Cứu Viên Phòng Ban Quan Sát Thế Giới Gương của LCA'"
+    },
+    {
+      "id": 12004,
+      "name": "Mảnh Đồng Bộ & Thêu Dệt Mùa 4 (Đa Dụng)",
+      "desc": "Dùng để Đồng Bộ Danh Tính và Thêu Dệt E.G.O cho mọi Tội Nhân.",
+      "flavor": "Một mảnh vỡ đa dụng dùng để Đồng Bộ Danh Tính hoặc Thêu Dệt E.G.O cho tất cả Tội Nhân.\nTuy nhiên, dù có thu thập bao nhiêu chăng nữa thì những mảnh vỡ này không thể được dùng để trích xuất Danh Tính lẫn E.G.O.\n'Những mảnh vỡ này chính là thành phẩm nghiên cứu vào bản chất thiên biến vạn hóa của Cành Vàng; nó có thể được dùng để lấp đầy bất kỳ góc khuất hoặc các thế giới trong những chiếc gương. Hả? Trích xuất ư? Dĩ nhiên là không rồi. Bản chất 'một mình chứa toàn bộ thế giới' không khác gì nói rằng *chẳng có* thế giới nào được tạo ra từ hư không cả, phải không nào? - Trưởng Nghiên Cứu Viên Phòng Ban Quan Sát Thế Giới Gương của LCA'"
+    },
+    {
+      "id": 234,
+      "name": "Mô-đun Khởi Hành - Thêu Dệt E.G.O [HE] x1",
+      "desc": "Nâng Cấp Thêu Dệt của E.G.O lên Cấp 4. (Chỉ dùng được cho E.G.O Cấp H.E hoặc thấp hơn)",
+      "flavor": "Mô-Đun Thêu Dệt E.G.O thứ hai do Đội Nghiên Cứu và Phát Triển của LCA tạo ra.\nThêu dệt những sợi chỉ óng ánh vào các mảnh vỡ, cường hóa mức độ Thêu Dệt của E.G.O cho đến cấp [HE] với tốc độ đáng kể.\nThêu dệt những mảnh vỡ vào các sợi chỉ để tạo thành hình dạng hoàn chỉnh. Thứ ánh sáng ấm áp của những sợi chỉ gợi nhắc đến thứ ánh sáng đã từng bao trùm cả Thành Phố một thời gian."
+    },
+    {
+      "id": 20024,
+      "name": "Amassed Data",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Various disorganized and trivial documentation on LCB, Distortions, and the Peccatula are haphazardly scribbled here. These data have been collected by the LCE—messy records of tests, experiments, and research litter the papers.\n\n'It is not the duty of a researcher to organize their findings. That is the assistants' responsibility.'</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20025,
+      "name": "Classified Data",
+      "desc": "Spawns rarely. Converted to 20 Amassed Data immediately upon acquisition.\n\n<color=#a16a3b>Classified data collected by Hohenheim himself, available for viewing only for LCE's assistant researchers. It contains all kinds of in-depth information about Limbus Company—from each Sinner's personal information(Birthdays, birthplaces, etc.) to analyses on Abnormalities and Distortions contained within the LCE.\n\n'The enumeration of data alone is worthless. What matters is which data connects to which, when they are unveiled, and how they are put to use. Only then is data transformed into intelligence of worth.' - Anonymous LCA Officer</color>",
+      "flavor": ""
+    },
+    {
+      "id": 502,
+      "name": "Vé Tùy Chọn Danh Tính Mùa 2",
+      "desc": "Dùng để chọn Danh Tính Mùa 2 (bao gồm các Danh Tính trong Sự Kiện).",
+      "flavor": "Tấm vé có khả năng quan sát và trích xuất một Danh Tính từ một thời điểm cụ thể trong hành trình truy tìm Cành Vàng của đội LCB.\n'Khả năng chỉ định rồi trích xuất một Danh Tính tại một thời điểm cụ thể từ một Thế Giới Gương quan sát được cho thấy công nghệ cao siêu vượt bậc của Công Ty Limbus. - Trưởng Nghiên Cứu Viên Phòng Ban Quan Sát Thế Giới Gương của LCA'"
+    },
+    {
+      "id": 235,
+      "name": "Vé Khởi Hành Danh Tính - phiên bản 2",
+      "desc": "Nâng cấp của Danh Tính lên cấp 50, và nâng Cấp Đồng Bộ lên Cấp 4.",
+      "flavor": "Xé tấm vé này để sử dụng.\nNó sẽ xé toạc cả không-thời gian, đồng bộ hóa lẫn nâng cấp một Danh Tính với tốc độ hết mức vô lý.\nĐồng thời cũng phát ra âm thanh rất dễ gây nghiện khiến con người ta muốn xé thêm vài tấm vé nữa."
+    },
+    {
+      "id": 20029,
+      "name": "[Sweeper Fuel Cylinder]",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>These fuel cylinders contain the energy source for the Sweepers, who cleanse the City every Night in the Backstreets. Despite the nightly chaos, people step out each morning to pristine streets on their way to work—all thanks to the Sweepers. Using their fluid fuel, they dissolve anything that doesn't belong in the City, from street litter to unauthorized structures, as they flood the streets at night. Like clockwork, they emerge from the subterranean depths beneath the City every night. I do wonder, though—just how deep do they come from? - Excerpt from an interview with an LCCB Employee</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20030,
+      "name": "[Sweeper Fuel Tank]",
+      "desc": "Spawns rarely. Converted to 20 Sweeper Fuel Cylinder immediately upon acquisition.\n\n<color=#a16a3b>Much about the Sweepers remains a mystery. When did they first begin their nightly labors? Where do they come from? It is said that the only institution they cooperate with is the Head. The Sweepers' fluid fuel is a multifunctional resource—it forms their bodies, serves as a weapon to dissolve whatever lies in their path, and sustains them. This is merely a personal curiosity, but I cannot help but wonder how they propagate. Perhaps they are the culprits behind reports of children vanishing during Nights in the Backstreets… or kidnappings from the Outskirts. - Excerpt from an interview with an LCCA Employee</color>",
+      "flavor": ""
+    },
+    {
+      "id": 30006,
+      "name": "Starlight of Immortality",
+      "desc": "Used in Mirror Dungeons.\n\n<color=#a16a3b>Starlight that can be collected only as long as the Mirror of Immortality remains open. Wish as people might to weave new tales from Starlight, they can only scavenge for what earthbound Starlight there remains—for the stars in the sky are no more.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 30007,
+      "name": "Starlight of Names and Spiders",
+      "desc": "Used in Mirror Dungeons.\n\n<color=#a16a3b>Starlight that can be collected only within a fleeting span of time. The gaze is raised to the stars above. The stars beheld then fall, awaiting their gleaning. Harvested and tethered against their will, they are compelled to twinkle and shine, giving rise to new stories.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20034,
+      "name": "Intro to Zhi, Yong, Ren",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>The Wise are unshaken, the Brave are unafraid, and the Benevolent are untroubled. No matter what discipline it may be, to build the pillars of learning upon the three foundations of Zhi, Yong, and Ren is to build a soaring tower. Which summons forth an intriguing question: can not all of education be condensed into Zhi, Yong, and Ren? - Tianji Star(天機星)</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20035,
+      "name": "Definitely Not A Secret Scroll",
+      "desc": "Spawns rarely. Converted to 20 Intro to Zhi, Yong, Ren immediately upon acquisition.\n\n<color=#a16a3b>A scroll filled with esoteric knowledge. It allows its readers to rapidly absorb its contents, wisdom or technique, disregarding the basics that must come before the learning. None know yet whether it is the paper that is a Singularity, or the letters that are a Singularity, or the ink that forms them that is a Singularity. This likely matters very little to those who covet this secret scroll. Yet, remember well that food ingested in haste risks sickness and vomiting. Always be acutely aware of your capabilities. - A Certain Master</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20036,
+      "name": "Sea Terror Sample",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Chunks of Sea Terror flesh, collected for research purposes. The calm noise of waves crest faintly through the insidious blue light.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20037,
+      "name": "Luminous Sea Terror Sample",
+      "desc": "Spawns rarely. Converted to 20 Sea Terror Sample immediately upon acquisition.\n\n<color=#a16a3b>A Sea Terror specimen, collected for research purposes. There was no hesitation in the hand that clove through the life its owner had once beheld with awe. One must delve into the undying light to evolve. It is an inevitable step.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 9900,
+      "name": "Cuộn Chỉ",
+      "desc": "Dùng để thêu dệt Dung Mạo Danh Tính sẽ phóng chiếu.\n\n<color=#a16a3b>Những luồng sáng óng ánh bện thành sợi rồi quấn vòng lại thành cuộn chỉ.\nTất cả mọi thứ đều kết nối rất chặt chẽ. Nếu một sợi rung lên thì những sợi đằng xa cũng sẽ rung theo, từ ấy liên kết vạn vật lại với nhau.\nVì thế, gọi một bộ phục trang được thêu dệt từ những sợi chỉ này là dung mạo cũng chẳng hề vô lý chút nào mà hoàn toàn đúng với bản chất của nó.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20043,
+      "name": "Severed Thread",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Something has severed this thread, snapping it into strands.\nTruly, there is no such thing as an existence in complete homogeneity with another, for slicing a single thread reveals that it is in fact a twine of multiple fibers. When a thread is severed, it leaves not two separate threads, but a multitude of frayed strands—from this, we may learn that time indeed does not cure all wounds. The passage of time only unravels the frayed strands further, leaving weeping wounds that never hồi.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20044,
+      "name": "Severed and Scorched Skein",
+      "desc": "Spawns rarely. Converted to 20 Severed Thread immediately upon acquisition.\n\n<color=#a16a3b>To truly sever a thread, it must be burned, not cut. Keenness is a means insufficient to achieving the total annihilation that burns and melts away even the lingering remnants of an erstwhile connection down to the frayed ends of separated threads. It must be that only with resolute determination and heart can one sever such a connection.\n\nShould these skeins of severed and scorched strings be twined anew, perhaps the resulting new thread can be used to connect hearts once again? I certainly hope so, though there is no way for us to know at this moment.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 238,
+      "name": "Mô-đun Khởi Hành - Thêu Dệt E.G.O [ZAYIN]",
+      "desc": "Nâng Cấp Thêu Dệt của E.G.O lên Cấp 4. (Chỉ dùng được cho E.G.O Cấp ZAYIN hoặc thấp hơn).\n\n<color=#a16a3b>Đẩy nhanh quá trình Thêu Dệt của một E.G.O cấp [ZAYIN] bằng cách dệt lượng lớn mảnh vỡ vào nhau trong khoảng thời gian rất ngắn ngủi. \"Nếu sợi chỉ bắt đầu rung lên thì những sợi ở đằng xa cũng sẽ rung theo...\" là những lời được thốt lên của những con người nơi đây. Nếu tất cả sợi chỉ này đều là điểm kết nối chung nhất như mọi người hay nói, vậy thì hành động giải mã một vật thể cũng tương đồng với quá trình gỡ rối sợi chỉ. Tôi luôn tự hỏi rằng điều gì sẽ xảy ra khi <i>tất cả</i> sợi chỉ quấn quanh bản thân đều được gỡ rối hết đi?</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20045,
+      "name": "Thấu Kính Mờ",
+      "desc": "Được dùng để đổi vô số phần quà tại Khu Đổi Thưởng \"Thử Thách Phản Chiếu][uềihC nảhP hcàhT ửhT\".\n\n<size=75%><color=#a16a3b>Chiếu xuyên qua lớp thủy tinh biến dạng. Những thứ phản chiếu qua thấu kính này sẽ được cắt ghép lại thành các thước phim, rồi khi hoàn thiện sẽ tách bóc thành một cái bóng của cá thể nào đó đã từng tồn tại như một thể độc lập. Nhưng đáng tiếc rằng, mỗi thấu kính lại có tuổi thọ nhất định. Khi ánh sáng rực chói chiếu xuyên qua lớp thấu kính ấy thì những hình ảnh phản chiếu bên trong sẽ cháy rụi thành tro tàn, nhường chỗ cho lớp thấu kính mới lưu giữ cái bóng được phóng chiếu ấy. Những thấu kính lưu ảnh này tương tự như món kỷ vật tưởng niệm người đã khuất.\n\n\"Cách mà công ty tiêu xài chỗ thấu kính này ấy... Bọn họ có biết mấy thứ này đắt cắt cổ còn hơn cả gia tài người ta không vậy? Dù cho lý do hợp tình hợp lý như tăng cường khả năng thực chiến hay cải thiện quá trình phân tích thì tôi cũng chẳng dám dùng chỗ này bừa bãi đâu. Đúng kiểu công ty thở cái là kiếm được bộn tiền rồi.\"</color></size>\n",
+      "flavor": ""
+    },
+    {
+      "id": 20046,
+      "name": "Photos",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>*snap* The sound of a hammer driving a nail in. But what precisely is being \"driven in?\" The camera waylays the light of a given moment, then nails it onto rough paper for exhibition. Was the photograph taken as a record or a remembrance? Perhaps a photograph's name ought to change depending on which purpose it is made to serve. After all, beams of light nailed down by a hammer, only to be recorded and never remembered, are pitiable things. Within printed photographs, dead lights scream in despair, burned and blackened. The dead lights, perished screaming where they are nailed, record the smile of someone standing in the photograph.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20047,
+      "name": "Photo Bundles",
+      "desc": "Spawns rarely. Converted to 20 Photos immediately upon acquisition.\n\n<color=#a16a3b>'Quite a lot of photographs retrieved here. Oh, did you know? These photos are composed of matter produced by a Distortion, but they remain in existence. Some Distortion byproducts fade away when the case is resolved, but some don't, even after everything is over. I wonder if this has something to do with the nature of the Distortion. Well, we do know that this Distortion wished to record something and remember it... hence the photographs. Perhaps that's why these photographs are left behind as some kind of \"record.\" This calls for research into exactly what results in the difference in a Distortion's property from another Distortion's. Well, working in LCD will probably give me some insight in due time... though I'd rather not cooperate with LCE.'</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20048,
+      "name": "Unrolled Film",
+      "desc": "Used for purchasing Limited Rewards from the \"Reflectrial][lairtcelfeR]\" Reward Exchange shop.\n\n<size=70%><color=#a16a3b>Ánh sáng chiếu vào cuộn phim để lưu giữ hình ảnh. Khi nguồn sáng thứ hai chiếu vào sẽ lưu lại thông tin dưới dạng cái bóng đen, hệt như khi con người tiếp xúc với ánh sáng mạnh sẽ để lại một vệt đen trên bức tường sau lưng vậy. Thứ ánh sáng ấy tựa như một khung hình, lưu giữ ký ức của một ai đó hay một cái gì đó. Rồi khi một nguồn sáng khác chiếu xuyên qua cuộn phim lẫn thấu kính, thứ được phản chiếu sẽ biến hóa thành một dạng hình ảnh; qua đó, ta có thể thấy phần thông tin tồn đọng được thứ ánh sáng đầu tiên lưu giữ lại. Tuy nhưng, hình ảnh mà ánh sáng ấy chiếu qua lại không phải của chính mình mà là hình ảnh của thứ ánh sáng đã chết, tức tàn dư của quá khứ. Thật mỉa mai làm sao khi thứ ánh sáng muốn biến hóa thành hình ảnh chỉ có thể hiện thực hóa hành động đó khi chiếu qua thứ ánh sáng đã phai tàn. Vì lẽ đó, phóng chiếu là một kỹ thuật đắng cay ép buộc vật đang sống phải chết đi để được phóng chiếu lại hình ảnh mô phỏng của chính nó như thể bản thân vẫn đang sống ra sao.\n\n\"Mọi người lấy mấy cuộn phim này đâu ra thế? Bộ chúng ta có người chuyên ghi lại tư liệu tận tâm với nghề hoặc máy ghi hình lại các trận chiến của LCB hay gì à? Ê, đừng có nói là... Cái thứ này cũng từ...?\"</color></size>",
+      "flavor": ""
+    },
+    {
+      "id": 751,
+      "name": "Vé Tùy Chọn Bình Luận Viên [Đổi từ Yisang]",
+      "desc": "Dùng để chọn một Phát Thanh Viên từ danh sách Phát Thanh Viên nhận được thông qua Quy Đổi [Lý Tưởng] Yisang ở mục Trích Xuất.\n(※ Không bao gồm Phát Thanh Viên Đêm Walpurgis)",
+      "flavor": "Chứa đựng các bản ghi âm của những Phát Thanh Viên truyền đạt tình hình chiến trận hiện tại.\n\n\"Này... ở đây có mấy cuốn băng ghi âm của những người đã chết từ lâu lắm rồi ấy. Bọn họ lấy đâu ra người để thu giọng lại thế?\"\n\"Tất nhiên là bắt nhốt mấy cá nhân có liên quan mà họ quan sát được ở các Thế Giới Gương để thu âm rồi. (Tùy trường hợp nhá)\"\n\"Lại Gương à? Vậy xài quách nó để giải quyết tất cả mọi thứ mà cái công ty này đang vướng mắc luôn đi!\"\n\"Vốn dĩ chúng ta cũng đang dùng nó đấy thôi?\"\n\"... Tôi biết... Nhưng mà có bao giờ nghĩ đến hậu quả chưa vậy...?\""
+    }
+  ]
+}

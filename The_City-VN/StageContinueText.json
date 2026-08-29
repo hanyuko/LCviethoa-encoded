@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "StageInfoUI_ContinueText",
+      "content": "Có Thể T.Tục"
+    },
+    {
+      "id": "ContinueMainTitle",
+      "content": "Tiếp Tục"
+    },
+    {
+      "id": "ContinueMainDesc_HellChainInsufficient",
+      "content": "Bạn đã bị hạ gục.\nTiêu <color=#e94d37>40 Lunacy</color> và tiếp tục trận chiến?\n\n<color=#ebcaa2><Hiệu Ứng Kích Hoạt Khi Tiếp Tục></color>\n<color=#F8C200>- Đặt lại giới hạn kích hoạt hiệu ứng \"một lần mỗi Ải\" của các Danh Tính và E.G.O\n- Nhận 10 Tài Nguyên E.G.O cho toàn bộ Nguyên Tội\n- Hồi phục hoàn toàn HP và SP của toàn bộ đồng minh\n(đặt SP của các Danh Tính Sử Dụng Xu Âm thành -30)</color>"
+    },
+    {
+      "id": "ContinueMainRemainContinueCount",
+      "content": "Số Lần Tiếp Tục Còn Lại"
+    },
+    {
+      "id": "ContinueMainHaveLunacy",
+      "content": "Số Lunacy Còn Lại"
+    },
+    {
+      "id": "ContinueMainFreeLunacy",
+      "content": "Miễn Phí"
+    },
+    {
+      "id": "ContinueMainPaidLunacy",
+      "content": "Trả Phí"
+    },
+    {
+      "id": "ContinueMainCancel",
+      "content": "Từ Bỏ Trận Đấu"
+    },
+    {
+      "id": "ContinueMainUseContinue",
+      "content": "Tiếp Tục Trận Đấu"
+    },
+    {
+      "id": "ContinueMainBuyHellChain",
+      "content": "Tiếp Tục Trận Đấu"
+    },
+    {
+      "id": "ContinueConfirm_Title_HellChain",
+      "content": "Cảnh Báo"
+    },
+    {
+      "id": "ContinueConfirm_Desc",
+      "content": "Khi hoàn thành Màn Chơi này bằng cách sử dụng chức năng Tiếp Tục sẽ không thể hoàn thành Nhiệm Vụ Phụ.\nNgoài ra, sau khi hoàn thành màn chơi, các tài nguyên đã sử dụng để tiếp tục trận đấu sẽ không được hoàn lại, và lượng Lunacy đã tiêu cũng không thể được hoàn trả.\n\nTuy nhiên, nếu người chơi bỏ cuộc ở Màn này sau khi sử dụng chức năng Tiếp Tục, hoặc nếu trò chơi bị đóng do các tình huống bất thường, thì bất kỳ lượng Lunacy nào đã dùng để tiếp tục trận chiến này sẽ được hoàn trả."
+    },
+    {
+      "id": "ContinueConfirm_Skip",
+      "content": "Không hiện cảnh báo này từ lần đăng nhập tiếp theo"
+    },
+    {
+      "id": "ContinuePurchase_LunacyTitle",
+      "content": "Lunacy"
+    },
+    {
+      "id": "ContinuePurchase_Notice",
+      "content": "※ Ưu tiên tiêu hao Lunacy Miễn Phí."
+    },
+    {
+      "id": "ContinueConfirmCancel",
+      "content": "Hủy Bỏ"
+    },
+    {
+      "id": "ContinueMainConfirm",
+      "content": "Tiếp Tục Trận Đấu"
+    },
+    {
+      "id": "ContinueConfirm_Title_Lunacy",
+      "content": "Cảnh Báo"
+    },
+    {
+      "id": "ContinueResult_Win_Desc",
+      "content": "Việc hoàn thành Màn Chơi đã tiêu hao toàn bộ tài nguyên.\nsử dụng để Tiếp Tục trận chiến."
+    },
+    {
+      "id": "ContinueResult_Defeat_Desc",
+      "content": "Việc từ bỏ Màn Chơi đã hoàn trả toàn bộ tài nguyên.\nsử dụng để Tiếp Tục trận chiến."
+    }
+  ]
+}

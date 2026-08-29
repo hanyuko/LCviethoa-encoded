@@ -1,0 +1,296 @@
+{
+  "dataList": [
+    {
+      "_comment": "[On Hit]",
+      "id": "OnSucceedAttack",
+      "name": "[Đánh Trúng]"
+    },
+    {
+      "_comment": "[On Use]",
+      "id": "WhenUse",
+      "name": "[Khi Dùng]"
+    },
+    {
+      "_comment": "[Clash Win]",
+      "id": "WinDuel",
+      "name": "[Thắng Giao Tranh]"
+    },
+    {
+      "_comment": "[Before Attack]",
+      "id": "BeforeAttack",
+      "name": "[Trước Tấn Công]"
+    },
+    {
+      "id": "Wide",
+      "name": "[Tấn Công Diện Rộng]"
+    },
+    {
+      "id": "nxPostLine",
+      "name": "[{n} in Front]"
+    },
+    {
+      "id": "nxCenterLine",
+      "name": "[{n} in Middle]"
+    },
+    {
+      "id": "nxBackLine",
+      "name": "[{n} in Back]"
+    },
+    {
+      "id": "CantIdentify",
+      "name": "[Không Phân Địch Ta]"
+    },
+    {
+      "id": "CRIMSON",
+      "name": "Crimson"
+    },
+    {
+      "id": "SCARLET",
+      "name": "Scarlet"
+    },
+    {
+      "id": "AMBER",
+      "name": "Amber"
+    },
+    {
+      "id": "SHAMROCK",
+      "name": "Shamrock"
+    },
+    {
+      "id": "AZURE",
+      "name": "Azure"
+    },
+    {
+      "id": "INDIGO",
+      "name": "Indigo"
+    },
+    {
+      "id": "VIOLET",
+      "name": "Violet"
+    },
+    {
+      "id": "WHITE",
+      "name": "White"
+    },
+    {
+      "id": "BLACK",
+      "name": "Black"
+    },
+    {
+      "id": "EndSkill",
+      "name": "[Kết Đòn]"
+    },
+    {
+      "id": "StartBattle",
+      "name": "[Khởi Chiến]"
+    },
+    {
+      "id": "DefeatDuel",
+      "name": "[Thua Giao Tranh]"
+    },
+    {
+      "id": "OnSucceedAttackHead",
+      "name": "[Đánh Trúng - Xu Ngửa]"
+    },
+    {
+      "id": "OnSucceedAttackTail",
+      "name": "[Đánh Trúng - Xu Úp]"
+    },
+    {
+      "id": "OnSucceedEvade",
+      "name": "[Khi Né]"
+    },
+    {
+      "id": "AlwaysUse",
+      "name": "[Constant]"
+    },
+    {
+      "id": "CantDuel",
+      "name": "[Không Thể Giao Tranh]"
+    },
+    {
+      "id": "EnemyKill",
+      "name": "[Khi Giết Địch]"
+    },
+    {
+      "id": "EnemyKillFail",
+      "name": "[Khi Giết Địch Thất Bại]"
+    },
+    {
+      "id": "ReUse",
+      "name": "[Tái Sử Dụng]"
+    },
+    {
+      "id": "ReUseOnSucceedAttackHead",
+      "name": "[Tái Sử Dụng - Đánh Trúng Xu Ngửa]"
+    },
+    {
+      "id": "CriticalOnSucceedAttack",
+      "name": "[Trí Mạng]"
+    },
+    {
+      "id": "StartDuel",
+      "name": "[Bắt Đầu Giao Tranh]"
+    },
+    {
+      "id": "EndBattle",
+      "name": "[Cuối Lượt]"
+    },
+    {
+      "id": "OnDefeatEvade",
+      "name": "[Né Thất Bại]"
+    },
+    {
+      "id": "EndSkillHead",
+      "name": "[Kết Đòn - Xu Ngửa]"
+    },
+    {
+      "id": "EndSkillTail",
+      "name": "[Kết Đòn - Xu Úp]"
+    },
+    {
+      "id": "WinDuelAttackHead",
+      "name": "[Thắng Giao Tranh - Đánh Trúng Xu Ngửa]"
+    },
+    {
+      "id": "WinDuelAttack",
+      "name": "[Thắng Giao Tranh - Đánh Trúng]"
+    },
+    {
+      "id": "CriticalActivated",
+      "name": "[Trí Mạng]"
+    },
+    {
+      "id": "CriticalEndSkill",
+      "name": "[Kết Đòn - Trí Mạng]"
+    },
+    {
+      "id": "CantChangeTarget",
+      "name": "[Cố Định Mục Tiêu]"
+    },
+    {
+      "id": "TurnStartBattle",
+      "name": "[Đầu Lượt]"
+    },
+    {
+      "id": "EndSkillAll",
+      "name": "[Kết Thúc Kỹ Năng]"
+    },
+    {
+      "id": "WhenUse_Force",
+      "name": "<color=#26cfff>[Khi Dùng]</color>"
+    },
+    {
+      "id": "StartBattle_Force",
+      "name": "<color=#93f13e>[Khởi Chiến]</color>"
+    },
+    {
+      "id": "TargetKill",
+      "name": "[Khi Giết]"
+    },
+    {
+      "id": "CriticalTargetKill",
+      "name": "[Khi Giết - Trí Mạng]"
+    },
+    {
+      "id": "BeforeUse",
+      "name": "[Trước Khi Dùng]"
+    },
+    {
+      "id": "DuelCounter",
+      "name": "[Phản Đòn - Giao Tranh]"
+    },
+    {
+      "id": "CantBreak",
+      "name": "[Xu Bất Hoại]"
+    },
+    {
+      "id": "DuelGuard",
+      "name": "[Đỡ Đòn - Giao Tranh]"
+    },
+    {
+      "id": "WhenUseEvade",
+      "name": "[Khi Dùng Kỹ Năng Né]"
+    },
+    {
+      "id": "EndCoin",
+      "name": "[Sau Khi Lật Xu]"
+    },
+    {
+      "id": "CriticalEnemyTargetKillFail",
+      "name": "[Khi Giết Địch - Trí Mạng Thất Bại]"
+    },
+    {
+      "id": "CriticalEnemyTargetKill",
+      "name": "[Khi Giết Địch - Trí Mạng]"
+    },
+    {
+      "id": "DefeatDuelAttack",
+      "name": "[Thua Giao Tranh - Đánh Trúng]"
+    },
+    {
+      "id": "TargetKillFail",
+      "name": "[Khi Giết Thất Bại]"
+    },
+    {
+      "id": "AllyKill",
+      "name": "[Khi Giết Đồng Minh]"
+    },
+    {
+      "id": "AllyKillFail",
+      "name": "[Khi Giết Đồng Minh Thất Bại]"
+    },
+    {
+      "id": "TabExplain",
+      "name": ""
+    },
+    {
+      "id": "UnBrokenCoinOnSucceedAttack",
+      "name": "[Đánh Trúng - Nguyên Vẹn]"
+    },
+    {
+      "id": "BeforeHit",
+      "name": "[Trước Khi Trúng Đòn]"
+    },
+    {
+      "id": "OnDirectAttack",
+      "name": "[Khi Tấn Công Một Chiều]"
+    },
+    {
+      "id": "ReUseOnSucceedAttack",
+      "name": "[Tái Sử Dụng - Đánh Trúng]"
+    },
+    {
+      "id": "CriticalOnSucceedAttackHead",
+      "name": "[Trí Mạng - Xu Ngửa]"
+    },
+    {
+      "id": "OnStartCoin",
+      "name": "[Tung Xu]"
+    },
+    {
+      "id": "BeforeBehavior",
+      "name": "[Trước Khi Hành Động]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2050911",
+      "name": "[Luôn Kích Hoạt - Hiệu Ứng <noparse>Độc</noparse> Quyền Của Sư Phụ Gia Tộc Kiếm Sư Meursault]"
+    },
+    {
+      "id": "WhenUseEGOPassive",
+      "name": "[Hiệu Ứng Khi Dùng]"
+    },
+    {
+      "id": "WinDuelEndSkill",
+      "name": "[Kết Đòn Sau Khi Thắng Giao Tranh]"
+    },
+    {
+      "id": "WhenUseEGOPassive2010911",
+      "name": "[Hiệu Ứng Khi Dùng - Hiệu Ứng <noparse>Độc</noparse> Quyền Của E.G.O Lobotomy::Âm Vang Tiễn Biệt Yi Sang]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2010911",
+      "name": "[Luôn Kích Hoạt - Hiệu Ứng <noparse>Độc</noparse> Quyền Của E.G.O Lobotomy::Âm Vang Tiễn Biệt Yi Sang]"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": 1010311,
+      "name": "Trấn Tĩnh",
+      "desc": "Khi Thắng Giao Tranh, nhận +1 Tầng [Breath].\nSức Mạnh Xu +1 với mỗi 5 Tầng [Breath] (tối đa 3)"
+    },
+    {
+      "id": 1020211,
+      "name": "Tự Cấp Năng Lượng",
+      "desc": "Nhận +1 Tầng [Charge] khi Kết Đòn\nMột đồng minh ngẫu nhiên nhận +1 Tầng [Charge] khi Kết Đòn"
+    },
+    {
+      "id": 1050311,
+      "name": "Tinh Thần Bền Bỉ",
+      "desc": "Khi bị tấn công, nhận +1 Tầng [Charge]. (tối đa 6 lần)\nSau khi thua Giao Tranh, nhận +1 Tầng [Charge]. (tối đa 6 lần, tính riêng biệt với số lần bị đánh trúng)"
+    },
+    {
+      "id": 1070411,
+      "name": "Tên Khốn Nạn...",
+      "desc": "Khi một đồng minh bị đánh bại, mất 10 SP và nhận 1 [HitResultUp] vào lượt kế.\nNếu có từ 4 đồng minh còn sống trở lên, bao gồm cả chủ thể, là '<noparse>Cuồng Tín</noparse> Tập Đoàn N', Sức Mạnh Xu +1."
+    },
+    {
+      "id": 1100211,
+      "name": "Tàn Sát",
+      "desc": "Xu cuối của kỹ năng cuối trong chuỗi +20% sát thương gây ra.\nMỗi khi một đồng minh khác nhận Tầng [Breath], chủ thể có 50% tỷ lệ nhận +1 Tầng [Breath].",
+      "summary": "Xu cuối của kỹ năng cuối trong chuỗi +20% sát thương gây ra. Nhận thêm Tầng [Breath]"
+    },
+    {
+      "id": 1020411,
+      "name": "Huýt Sáo",
+      "desc": "Khởi Chiến: Hồi 15 SP cho 2 đồng minh có SP thấp nhất.\nNếu đồng minh đó là '<noparse>Cuồng Tín</noparse> Tập Đoàn N', gán thêm 2 [Assemble]."
+    },
+    {
+      "id": 1020431,
+      "name": "Thì Thầm",
+      "desc": "Khởi Chiến: Hồi 15 SP cho 1 đồng minh có SP thấp nhất.\nNếu đồng minh đó là '<noparse>Cuồng Tín</noparse> Tập Đoàn N', gán thêm 2 [Assemble]."
+    },
+    {
+      "id": 1100511,
+      "name": "Ngọn Lửa Điên Loạn",
+      "desc": "Giảm 50% lượng SP hồi khi thắng Giao Tranh hoặc đánh bại kẻ địch.\nNếu có từ 5 đơn vị còn sống trở lên, bao gồm cả chủ thể, là '<noparse>Cuồng Tín</noparse> Tập Đoàn N', các đơn vị đó +10% sát thương gây ra."
+    },
+    {
+      "id": 1070311,
+      "name": "Háo Hức Gặm Cỏ",
+      "desc": "Nhận (Phẫn Nộ Cộng Hưởng) Tầng [Charge] vào lượt kế.\nỞ mốc 5+ Tầng [Charge], nhận 1 [Agility] và [Enhancement].\nLuôn Kích Hoạt: Khi bắt đầu Ải, nhận +3 [Bullet]."
+    },
+    {
+      "id": 1050611,
+      "name": "Kích Hoạt rrR - Bộ Đồ Tăng Áp Số 4",
+      "desc": "Vào cuối lượt, nhận +2 Tốc Độ Tối Đa với mỗi 5 Tầng [Charge] vào lượt kế. (Tối Đa 6)\nVào đầu lượt, nếu có 5+ Tầng [Charge], nhận 3 [Aggro] cho ô phải nhất của chủ thể."
+    },
+    {
+      "id": 1080511,
+      "name": "Làm Đầy",
+      "desc": "Nếu chủ thể không gây sát thương HP bằng Kỹ Năng trong lượt này, nhận Khiên bằng 10% HP Tối Đa vào lượt kế. (tối đa 30)"
+    },
+    {
+      "id": 1080211,
+      "name": "Tụ Lực Sóng Não",
+      "desc": "Khi khởi chiến, nhận (Thờ Ơ Cộng Hưởng / 3) [Enhancement].\nNếu chủ thể không gây được sát thương trong lượt này, mất 15 SP vào cuối lượt."
+    },
+    {
+      "id": 1040511,
+      "name": "Hư Không Quỷ Kiếm",
+      "desc": "Khi đánh bại 1 kẻ địch, nhận +3 Tầng [Charge] (3 lần mỗi lượt)"
+    },
+    {
+      "id": 1040531,
+      "name": "Đao Khúc Xạ Không Gian - Mẫu: Đao Mk7",
+      "desc": "Khi một đồng minh có HP Tối Đa thấp nhất đánh bại một kẻ địch, đồng minh đó nhận +3 Tầng [Charge] (một lần mỗi lượt)"
+    },
+    {
+      "id": 1060611,
+      "name": "Bí Kíp Dọn Dẹp",
+      "desc": "Nếu có 5+ Tầng [Charge] khi khởi chiến, nhận 2 [Agility]. <style=\"highlight\">Ở mốc 10+ Tầng [Charge], nhận thêm 1 [Agility].</style>"
+    }
+  ]
+}

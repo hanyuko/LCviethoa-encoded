@@ -1,0 +1,69 @@
+{
+    "dataList": [
+        {
+            "id": 9008301,
+            "name": "Sợi Dây Cá Voi",
+            "desc": "Cá Voi với Bàn Tay Rỗ nhận sát thương khi chủ thể bị hạ gục."
+        },
+        {
+            "id": 9008302,
+            "name": "Liên Kết Nỗi Đau",
+            "desc": "Khi chết, gây 10 sát thương lên các Người Cá được liên kết. Sau đó, gán 2 [AttackDmgUp] vào lượt kế.\nHiệu ứng này không thể giảm HP của Người Cá được liên kết xuống dưới 1."
+        },
+        {
+            "id": 9008401,
+            "name": "Dễ Thở",
+            "desc": "Nếu chủ thể có [Breath], nhận 5 [Breath] khi Thắng Giao Tranh."
+        },
+        {
+            "id": 9008402,
+            "name": "Hai Mặt Của Đồng Xu",
+            "desc": "Mỗi lượt, nếu Xu đầu tiên là 'Xu Ngửa', nhận 1 [AttackDmgUp] vào lượt kế.\nNếu Xu đầu tiên là 'Xu Úp', nhận 1 [AttackDmgDown] vào lượt kế."
+        },
+        {
+            "id": 9008601,
+            "name": "Đau Lắm Nhề?",
+            "desc": "Nếu mục tiêu có [Laceration],  hồi lại SP bằng với [Laceration] trên mục tiêu khi Đánh Trúng"
+        },
+        {
+            "id": 9008701,
+            "name": "Xung Phong Ra Tiền Tuyến!!",
+            "desc": "Khi nhận [Protection], nhận thêm 1 [Protection] nếu Tốc Độ của chủ thể là 1"
+        },
+        {
+            "id": 9008702,
+            "name": "Đau Lắm Nhề?",
+            "desc": "Nếu mục tiêu có [Laceration],  hồi lại SP bằng với [Laceration] trên mục tiêu khi Đánh Trúng"
+        },
+        {
+            "id": 9101201,
+            "name": "Hai Mặt Của Đồng Xu",
+            "desc": "Mỗi lượt, nếu Xu đầu tiên là 'Xu Ngửa', nhận 2 [AttackDmgUp] và 1 [Enhancement] vào lượt kế.\nNếu Xu đầu tiên là 'Xu Sấp', nhận 2 [AttackDmgDown] và 1 [Reduction] vào lượt kế."
+        },
+        {
+            "id": 9101202,
+            "name": "Không... Tránh Ra Mau!",
+            "desc": "Khi Thua Giao Tranh, nhận 4 [Breath] và 3 Tầng [Breath]."
+        },
+        {
+            "id": 9101203,
+            "name": "Lên Nào, Tụi Bây!",
+            "desc": "Khi Đánh Trí Mạng, nhận 1 [PlusCoinValueUp] vào lượt kế.\nChủ thể hồi 15 SP .\nTất cả những đồng minh khác hồi 10 SP.\n(Kích hoạt một lần mỗi lượt)"
+        },
+        {
+            "id": 9101204,
+            "name": "Làm Cái Đéo Gì Đấy?!",
+            "desc": "Bị bắt trong ải này sẽ khiến tất cả đồng minh mất 30 SP"
+        },
+        {
+            "id": 9101205,
+            "name": "Đau Lắm Nhề?",
+            "desc": "Nếu mục tiêu có [Laceration],  hồi lại SP bằng với [Laceration] trên mục tiêu khi Đánh Trúng"
+        },
+        {
+            "id": 9101101,
+            "name": "Sợi Dây Cá Voi",
+            "desc": "Cá Voi với Bàn Tay Rỗ nhận sát thương khi chủ thể bị hạ gục."
+        }
+    ]
+}

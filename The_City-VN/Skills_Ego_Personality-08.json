@@ -1,0 +1,1090 @@
+{
+  "dataList": [
+    {
+      "id": 2080511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[EndSkill] Hồi 15 SP cho 4 đồng minh có SP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +3 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gán +1 Tầng [Breath] cho 1 đồng minh ngẫu nhiên"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[EndSkill] Hồi <style=\"highlight\">20</style> SP cho 4 đồng minh có SP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +<style=\"highlight\">4</style> Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gán +1 Tầng [Breath] cho 1 đồng minh ngẫu nhiên"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillHead] Gán 1 [PenetrateResultUp] và 1 [AttackDmgUp] cho 4 đồng minh có SP cao nhất</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[EndSkill] Hồi <style=\"highlight\">25</style> SP cho 4 đồng minh có SP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">6</style> Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gán +2 Tầng [Breath] cho 1 đồng minh ngẫu nhiên"
+                },
+                {
+                  "desc": "[EndSkill] Gán <style=\"highlight\">2</style> [PenetrateResultUp] và <style=\"highlight\">2</style> [AttackDmgUp] cho 4 đồng minh có SP cao nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath] và +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [IndigoTakeDamageUp] trong lượt này và lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Chủ thể hồi 3% HP Tối Đa"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath] và +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [IndigoTakeDamageUp] trong lượt này và lượt kế"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillTail] Gán 2 [AttackDmgUp] cho 4 đồng minh có SP thấp nhất trong lượt này và lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chủ thể hồi 3% HP Tối Đa"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath] và +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [IndigoTakeDamageUp] trong lượt này và lượt kế"
+                },
+                {
+                  "desc": "[EndSkill] Gán 2 [AttackDmgUp] cho 4 đồng minh có SP thấp nhất trong lượt này và lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vỗ Cánh",
+          "abName": "Lễ Hội Tiên",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chủ thể hồi 15% HP Tối Đa"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Mất 1~2 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Tái Sử Dụng Xu này (5 lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 4~8% lượng sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ShamrockTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1~3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vỗ Cánh",
+          "abName": "Lễ Hội Tiên",
+          "desc": "<style=\"highlight\">Nếu lượng hồi HP của Kỹ năng này vượt quá HP Tối Đa của chủ thể, lượng hồi HP dư ra sẽ được chuyển sang cho 1 đồng minh có phần trăm HP thấp nhất</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi <style=\"highlight\">18%</style> HP Tối Đa cho chủ thể"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Mất 1~2 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Tái Sử Dụng Xu này (5 lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng <style=\"highlight\">6~10</style>% lượng sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ShamrockTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1~3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vỗ Cánh",
+          "abName": "Lễ Hội Tiên",
+          "desc": "Nếu lượng hồi HP của Kỹ năng này vượt quá HP Tối Đa của chủ thể, lượng hồi HP dư ra sẽ được chuyển sang cho 1 đồng minh có phần trăm HP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi <style=\"highlight\">20</style>% HP Tối Đa cho chủ thể"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Mất 1~2 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Tái Sử Dụng Xu này (5 lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng <style=\"highlight\">8~12</style>% lượng sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ShamrockTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1~<style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vỗ Cánh",
+          "abName": "Lễ Hội Tiên",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP Lõi thấp nhất\n[BeforeAttack] Gây 5% sát thương HP lên đồng minh khác ngẫu nhiên\n- Hồi HP cho chủ thể bằng lượng sát thương đã gây lên đồng minh.\n- Nếu chủ thể gây sát thương lên đồng minh, nhận 2 [Enhancement] trong lượt này, và nhận 2 [Agility] vào lượt kế.\n(mỗi lượt một lần. Bao gồm cả sát thương lên Khiên. Hiệu ứng này có thể giết đồng minh.)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Hồi HP bằng 10% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 1~4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vỗ Cánh",
+          "abName": "Lễ Hội Tiên",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP Lõi thấp nhất\n<style=\"highlight\">[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất -2) Phạm Vi Tấn Công (tối đa 1)</style>\n[BeforeAttack] Gây 5% sát thương HP lên đồng minh khác ngẫu nhiên (tối đa 5 đồng minh)\n- Hồi HP cho chủ thể bằng lượng sát thương đã gây lên đồng minh.\n- Nếu chủ thể gây sát thương lên đồng minh, nhận 2 [Enhancement] trong lượt này, và nhận 2 [Agility] vào lượt kế.\n(mỗi lượt một lần. Bao gồm cả sát thương lên Khiên. Hiệu ứng này có thể giết đồng minh.)\n<style=\"highlight\">[EndSkill] Nếu lượng hồi HP của Kỹ Năng này vượt quá HP Tối Đa của chủ thể, nhận (lượng hồi dư / HP Tối Đa) x 10 [AttackUp] vào lượt kế. (tối đa 3 mỗi lượt)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Hồi HP bằng <style=\"highlight\">15</style>% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây <style=\"highlight\">2~5</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vỗ Cánh",
+          "abName": "Lễ Hội Tiên",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP Lõi thấp nhất\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất -2) Phạm Vi Tấn Công (tối đa <style=\"highlight\">2</style>)\n[BeforeAttack] Gây 5% sát thương HP lên đồng minh khác ngẫu nhiên (tối đa 5 đồng minh)\n- Hồi HP cho chủ thể bằng lượng sát thương đã gây lên đồng minh.\n- Nếu chủ thể gây sát thương lên đồng minh, nhận 2 [Enhancement] trong lượt này, và nhận 2 [Agility] vào lượt kế.\n(mỗi lượt một lần. Bao gồm cả sát thương lên Khiên. Hiệu ứng này có thể giết đồng minh.)\n[EndSkill] Nếu lượng hồi HP của Kỹ Năng này vượt quá HP Tối Đa của chủ thể, nhận (lượng hồi dư / HP Tối Đa) x 10 [AttackUp] vào lượt kế. (tối đa <style=\"highlight\">6</style> mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Hồi HP bằng <style=\"highlight\">20</style>% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây <style=\"highlight\">3~6</style> [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Nhận 1 [Enhancement] vào lượt kế (tối đa 3)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[EndSkill] Hồi (5 + ([Sinking] trên mục tiêu chính + Tầng [Sinking] trên mục tiêu chính) / 3)% HP cho 2 đồng minh có phần trăm HP thấp nhất (tối đa 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [UninvitedGuestPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n<style=\"highlight\">- Nếu đó là Thờ Ơ Cộng Hưởng, nhận +1 Phạm Vi Tấn Công</style>\n[EndSkill] Hồi (<style=\"highlight\">10</style> + ([Sinking] trên mục tiêu chính + Tầng [Sinking] trên mục tiêu chính) / 3)% HP cho 2 đồng minh có phần trăm HP thấp nhất (tối đa 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ở mốc 4+ Thờ Ơ Cộng Hưởng, gây 1 [AzureTakeDamageUp]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n- Nếu cộng hưởng đó là Thờ Ơ Cộng Hưởng, nhận +1 Phạm Vi Tấn Công\n[EndSkill] Hồi (10 + ([Sinking] trên mục tiêu chính + Tầng [Sinking] trên mục tiêu chính)/3)% HP cho 2 đồng minh có phần trăm HP thấp nhất (tối đa <style=\"highlight\">20</style>%)\n<style=\"highlight\">- Nếu Cộng Hưởng cao nhất là 4+ Thờ Ơ Cộng Hưởng, hồi thêm 10% HP Tối Đa</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+3</style> Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 4+ Thờ Ơ Cộng Hưởng, gây 1 [AzureTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có nhiều [Sinking] nhất\n[BeforeAttack] Mất HP bằng 10% HP Tối Đa (không Bị Choáng do hiệu ứng này)\n[EndSkill] Hồi (5 + (([Sinking] trên mục tiêu chính + Tầng [Sinking] trên mục tiêu chính)) / 3)% HP cho 3 đồng minh khác có phần trăm HP thấp nhất (tối đa 10%)\n- Ở mốc 4+ Cộng Hưởng cao nhất, hồi thêm 1 đồng minh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 3+ Thờ Ơ Cộng Hưởng, gây 1 [AzureTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [UninvitedGuestPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có nhiều [Sinking] nhất\n[BeforeAttack] Mất HP bằng 10% HP Tối Đa (không Bị Choáng do hiệu ứng này)\n[EndSkill] Hồi (<style=\"highlight\">10</style> + ([Sinking] trên mục tiêu chính + Tầng [Sinking] trên mục tiêu chính)/3)% HP cho 3 đồng minh khác có phần trăm HP thấp nhất (tối đa <style=\"highlight\">15</style>%)\n- Ở mốc 4+ Cộng Hưởng cao nhất, hồi thêm 1 đồng minh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 3+ Thờ Ơ Cộng Hưởng, gây 1 [AzureTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [UninvitedGuestPersonality]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [EchoOfMansion] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có nhiều [Sinking] nhất\n[BeforeAttack] Mất HP bằng 10% HP Tối Đa (không Bị Choáng do hiệu ứng này)\n[EndSkill] Hồi (10 + ([Sinking] trên mục tiêu chính + Tầng [Sinking] trên mục tiêu chính) / 3)% HP cho 3 đồng minh khác có phần trăm HP thấp nhất (tối đa 15%)\n- Ở mốc 4+ Cộng Hưởng cao nhất, hồi thêm 1 đồng minh\n<style=\"highlight\">- Nếu cộng hưởng đó là Thờ Ơ Cộng Hưởng, hồi thêm 5% HP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+3</style> Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">Cứ mỗi 3</style> Thờ Ơ Cộng Hưởng, gây 1 [AzureTakeDamageUp] <style=\"highlight\">(tối đa 2)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [UninvitedGuestPersonality]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [EchoOfMansion] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 5) Tầng [Vibration] (tối đa 10)\n[EndSkill] Nếu có bất kỳ mục tiêu nào đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, hồi 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +5 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "<style=\"highlight\">Nếu SP của mục tiêu dưới 0, +1% sát thương gây ra với mỗi giá trị SP thấp hơn 0 (tối đa 45%)</style>\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 5) Tầng [Vibration] (tối đa 10)\n[EndSkill] Nếu có bất kỳ mục tiêu nào đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, hồi 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +5 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, kích hoạt [VibrationExplosion]; sau đó, giảm 2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "Nếu SP của mục tiêu dưới 0, +1% sát thương gây ra với mỗi giá trị SP thấp hơn 0 (tối đa 45%)\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 5) Tầng [Vibration] (tối đa 10)\n[EndSkill] Nếu có bất kỳ mục tiêu nào đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, hồi 10 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +5 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, kích hoạt [VibrationExplosion] <style=\"highlight\">twice</style>; sau đó, giảm 2 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 5) Tầng [Vibration] (tối đa 10)\n[BeforeAttack] Hồi 10 HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +5 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Nếu mục tiêu chính đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, Sức Mạnh Gốc +1</style>\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 5) Tầng [Vibration] (tối đa 10)\n[BeforeAttack] Hồi 10 HP\n<style=\"highlight\">[EndSkill] Hồi 5 SP với mỗi kẻ địch đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +5 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 5 [Sinking] và +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ác Mộng Đêm Giáng Sinh",
+          "abName": "Giường Ngủ Ấm Êm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu mục tiêu chính đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, Sức Mạnh Gốc +<style=\"highlight\">2</style>\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 5) Tầng [Vibration] (tối đa 10)\n[BeforeAttack] Hồi 10 HP\n[EndSkill] Hồi 5 SP với mỗi kẻ địch đang ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +5 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, gây 5 [Sinking] và +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu không ở trong trạng thái Choáng, Nhụt Chí hoặc Hoảng Loạn, kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tức Thư Sát [蝍蛆殺]",
+          "abName": "Tức Thư",
+          "desc": "[EndSkill] Gây [CentipedePoison] bằng tổng số loại hiệu ứng bất lợi trên chủ thể và mục tiêu chính (tối đa 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 4+ Phàm Ăn Cộng Hưởng hoặc Thờ Ơ, gây [CentipedePoison] bằng Cộng Hưởng (tối đa 4)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tức Thư Sát [蝍蛆殺]",
+          "abName": "Tức Thư",
+          "desc": "[EndSkill] Gây [CentipedePoison] bằng tổng số loại hiệu ứng bất lợi trên chủ thể và mục tiêu chính (tối đa <style=\"highlight\">8</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 4+ Phàm Ăn Cộng Hưởng hoặc Thờ Ơ, gây [CentipedePoison] bằng Cộng Hưởng (tối đa 4)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tức Thư Sát [蝍蛆殺]",
+          "abName": "Tức Thư",
+          "desc": "[EndSkill] Gây [CentipedePoison] bằng tổng số loại hiệu ứng bất lợi trên chủ thể và mục tiêu chính (tối đa <style=\"highlight\">10</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 4+ Phàm Ăn Cộng Hưởng hoặc Thờ Ơ, gây [CentipedePoison] bằng Cộng Hưởng (tối đa <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tức Thư Sát [蝍蛆殺]",
+          "abName": "Tức Thư",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Gây [CentipedePoison] bằng tổng số loại hiệu ứng bất lợi trên chủ thể và mục tiêu chính (tối đa 8)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 4+ Phàm Ăn Cộng Hưởng hoặc Thờ Ơ, gây [CentipedePoison] bằng Cộng Hưởng (tối đa 4)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tức Thư Sát [蝍蛆殺]",
+          "abName": "Tức Thư",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Gây [CentipedePoison] bằng tổng số loại hiệu ứng bất lợi trên chủ thể và mục tiêu chính (tối đa <style=\"highlight\">10</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 4+ Phàm Ăn Cộng Hưởng hoặc Thờ Ơ, gây [CentipedePoison] bằng Cộng Hưởng (tối đa 4)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tức Thư Sát [蝍蛆殺]",
+          "abName": "Tức Thư",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Gây [CentipedePoison] bằng tổng số loại hiệu ứng bất lợi trên chủ thể và mục tiêu chính (tối đa 10<style=\"highlight\"></style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 4+ Phàm Ăn Cộng Hưởng hoặc Thờ Ơ, gây [CentipedePoison] bằng Cộng Hưởng (tối đa <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2081011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thủy Triều Bi Ca",
+          "abName": "Skadi",
+          "desc": "Khi chỉ tấn công một mục tiêu duy nhất (trong Ải Chuyên Sâu, Lõi và các Bộ Phận của nó được tính là một mục tiêu), Sức Mạnh Xu +2 và +100% sát thương gây ra\n[WhenUse] Nếu mục tiêu chính có 4+ [Sinking], Sức Mạnh Giao Tranh +1\n[BeforeAttack] Nếu mục tiêu chính có Kháng Thờ Ơ cao hơn 1, +2% sát thương gây ra với mỗi 0.1 Kháng vượt mức (tối đa 10%)\n[BeforeAttack] Ở mốc 2+ Thờ Ơ Cộng Hưởng, +5% sát thương gây ra với mỗi Thờ Ơ Cộng Hưởng (tối đa 20%)\n[EndSkill] Nếu có từ 1 mục tiêu trở lên bị giết, gây (Lượng [Sinking] trên mỗi mục tiêu / 2) sát thương Thờ Ơ lên 2 kẻ địch ngẫu nhiên (tối đa 15; ưu tiên mục tiêu có nhiều Lượng [Sinking] nhất)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu trong số các mục tiêu có đơn vị Bị Choáng, bị phá hủy Bộ Phận hoặc bị giết, gây 2 [Sinking] lên một kẻ địch ngẫu nhiên không phải là mục tiêu đó (một lần mỗi lượt; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)"
+                },
+                {
+                  "desc": "- Nếu chỉ có một mục tiêu duy nhất, đổi thành gán lên 3 mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thủy Triều Bi Ca",
+          "abName": "Skadi",
+          "desc": "Khi chỉ tấn công một mục tiêu duy nhất (trong Ải Chuyên Sâu, Lõi và các Bộ Phận của nó được tính là một mục tiêu), Sức Mạnh Xu +2 và +100% sát thương gây ra\n[WhenUse] Nếu mục tiêu chính có 4+ [Sinking], Sức Mạnh Giao Tranh +1\n[BeforeAttack] Nếu mục tiêu chính có Kháng Thờ Ơ cao hơn 1, +<style=\"highlight\">3</style>% sát thương gây ra với mỗi 0.1 Kháng vượt mức (tối đa <style=\"highlight\">15</style>%)\n[BeforeAttack] Ở mốc 2+ Thờ Ơ Cộng Hưởng, +<style=\"highlight\">8</style>% sát thương gây ra với mỗi Thờ Ơ Cộng Hưởng (tối đa <style=\"highlight\">32</style>%)\n[EndSkill] Nếu có từ 1 mục tiêu trở lên bị giết, gây (Lượng [Sinking] trên mỗi mục tiêu / 2) sát thương Thờ Ơ lên 2 kẻ địch ngẫu nhiên (tối đa 15; ưu tiên mục tiêu có nhiều Lượng [Sinking] nhất)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu trong số các mục tiêu có đơn vị Bị Choáng, bị phá hủy Bộ Phận hoặc bị giết, gây 2 [Sinking] lên một kẻ địch ngẫu nhiên không phải là mục tiêu đó (một lần mỗi lượt; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Khi chỉ tấn công một mục tiêu duy nhất, đổi thành gán lên 3 mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thủy Triều Bi Ca",
+          "abName": "Skadi",
+          "desc": "Khi chỉ tấn công một mục tiêu duy nhất (trong Ải Chuyên Sâu, Lõi và các Bộ Phận của nó được tính là một mục tiêu), Sức Mạnh Xu +2 và +100% sát thương gây ra\n[WhenUse] <style=\"highlight\">Sức Mạnh Giao Tranh +1 với mỗi 4 [Sinking] trên mục tiêu chính (tối đa 2)</style>\n[BeforeAttack] Nếu mục tiêu chính có Kháng Thờ Ơ cao hơn 1, +<style=\"highlight\">5</style>% sát thương gây ra với mỗi 0.1 Kháng vượt mức (tối đa <style=\"highlight\">20</style>%)\n[BeforeAttack] Ở mốc 2+ Thờ Ơ Cộng Hưởng, +<style=\"highlight\">10</style>% sát thương gây ra với mỗi Thờ Ơ Cộng Hưởng (tối đa <style=\"highlight\">40</style>%)\n[EndSkill] Nếu có từ 1 mục tiêu trở lên bị giết, gây (Lượng [Sinking] trên mỗi mục tiêu / 2) sát thương Thờ Ơ lên 2 kẻ địch ngẫu nhiên (tối đa 15; ưu tiên mục tiêu có nhiều Lượng [Sinking] nhất)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây <style=\"highlight\">2</style> [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu trong số các mục tiêu có đơn vị Bị Choáng, bị phá hủy Bộ Phận hoặc bị giết, gây 2 [Sinking] lên một kẻ địch ngẫu nhiên không phải là mục tiêu đó (một lần mỗi lượt; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Khi chỉ tấn công một mục tiêu duy nhất, đổi thành gán lên 3 mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2081021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thủy Triều Bi Ca",
+          "abName": "Skadi",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Nếu mục tiêu chính có 5+ [Sinking], Sức Mạnh Giao Tranh +1\n[BeforeAttack] Cứ mỗi 3 Cộng Hưởng cao nhất nhận các hiệu ứng sau\n- Nhận +1 Phạm Vi Tấn Công (tối đa 2)\n- Gây +15% sát thương (tối đa 30%)\n[EndSkill] Gán 1 [HitDamageUp] cho (Cộng Hưởng cao nhất) đồng minh ngẫu nhiên vào lượt kế (tính cả chủ thể; tối đa 4 đồng minh; một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thủy Triều Bi Ca",
+          "abName": "Skadi",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] <style=\"highlight\">Sức Mạnh Giao Tranh +1 với mỗi 5 [Sinking] trên mục tiêu chính (tối đa 2)</style>\n[BeforeAttack] Cứ mỗi 3 Cộng Hưởng cao nhất nhận các hiệu ứng sau\n- Nhận +1 Phạm Vi Tấn Công (tối đa 2)\n- Gây +15% sát thương (tối đa 30%)\n[EndSkill] Gán 1 [HitDamageUp] cho (Cộng Hưởng cao nhất) đồng minh ngẫu nhiên vào lượt kế (tính cả chủ thể; tối đa 4 đồng minh; một lần mỗi lượt)\n<style=\"highlight\">- Nếu đó là Thờ Ơ Cộng Hưởng hoặc Cộng Hưởng Tuyệt Đối, gán 1 [AzureDamageUp]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu trong số các mục tiêu có đơn vị Bị Choáng, bị phá hủy Bộ Phận hoặc bị giết, gây 1 [AzureTakeDamageUp] vào lượt kế lên một kẻ địch ngẫu nhiên không phải là mục tiêu đó (một lần mỗi lượt; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thủy Triều Bi Ca",
+          "abName": "Skadi",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 5 [Sinking] trên mục tiêu chính (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] Cứ mỗi 3 Cộng Hưởng cao nhất nhận các hiệu ứng sau <style=\"highlight\">(nếu là Thờ Ơ Cộng Hưởng, với mỗi 2 Cộng Hưởng cao nhất)</style>\n- Nhận +1 Phạm Vi Tấn Công (tối đa 2)\n- Gây +15% sát thương (tối đa 30%)\n[EndSkill] Gán 1 [HitDamageUp] cho (Cộng Hưởng cao nhất) đồng minh ngẫu nhiên vào lượt kế (tính cả chủ thể; tối đa 4 đồng minh; một lần mỗi lượt)\n- Nếu cộng hưởng đó là Thờ Ơ Cộng Hưởng hoặc Cộng Hưởng Tuyệt Đối, gán 1 [AzureDamageUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu trong số các mục tiêu có đơn vị Bị Choáng, bị phá hủy Bộ Phận hoặc bị giết, gây 1 [AzureTakeDamageUp] vào lượt kế lên một kẻ địch ngẫu nhiên không phải là mục tiêu đó (một lần mỗi lượt; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

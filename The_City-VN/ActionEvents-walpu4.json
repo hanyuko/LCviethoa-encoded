@@ -1,0 +1,166 @@
+{
+    "dataList": [
+        {
+            "id": 836602,
+            "name": "",
+            "subDesc": "",
+            "desc": "Xem bộ có thể khôi phục một chức năng đã bị vô hiệu hóa của Đội Bảo An, không tính những chức năng cơ bản của cái Máy Phát Điện này.\n\nNên tái kích hoạt cái nào đây?",
+            "options": [
+                {
+                    "message": "Máy Phát Điện Mk2",
+                    "messageDesc": "Chọn để hồi HP cho toàn bộ đồng minh.",
+                    "result": [
+                        "Tái kích hoạt Máy Phát Điện Mk2.\n\nTôi cảm nhận được cơ thể các Tội Nhân đang hồi phục rất nhanh.\n\nThứ này không chỉ hồi phục vết thương mà còn loại bỏ đi cơn mệt mỏi hoặc những chấn thương nhỏ nhặt nữa."
+                    ]
+                },
+                {
+                    "message": "Khí Ga Trung Hòa Sự Ăn Mòn Tâm Trí",
+                    "messageDesc": "Chọn để hồi SP cho toàn bộ đồng minh.",
+                    "result": [
+                        "Đã kích hoạt Khí Ga Trung Hòa Sự Ăn Mòn Tâm Trí.\n\nCác Tội Nhân đều trông rất thư thái như thể tâm trí đã thông thoáng và minh mẫn hơn.\n\nBây giờ tất cả đều đã sẵn sàng nghênh chiến."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971032,
+            "name": "Education & Machine Console",
+            "desc": "Khi đang đi ngang qua hành lang, chúng tôi bắt gặp một buồng quản thúc. Cánh cửa của nó phát ra những tia sét.\n\nCó vẻ như máy phát điện bị chập; cánh cửa buồng quản thúc không chịu đóng lại. Nhưng có vẻ như Dị Thể bên trong vẫn chưa thoát ra ngoài.\n\nDù cố gắng nhìn kỹ hơn vào bên trong, bóng tối mịt mù của buồng giam khiến chúng tôi khó mà biết được điều gì đang diễn ra bên trong đó.\n\nTuy nhiên, có thể thấy được những mạng nhện được giăng mắc từ trên trần nhà và việc sàn nhà tối đen như mực đáng ngờ đến kỳ lạ.",
+            "options": [
+                {
+                    "message": "Nhìn mớ mạng nhện.",
+                    "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Chảy Máu",
+                    "result": [
+                        "Nhìn qua mớ mạng nhện kia, lộ ra... những con nhện nhỏ đang bò lúc nhúc bên trong.\n\nVà chúng không chỉ đơn thuần là mạng nhện.\n\nBóng tối bao trùm sàn nhà bỗng sáng lên, những con mắt đỏ rực phát sáng và bao trùm lấy cả nơi này.\n\nNhững con nhện nhỏ nhận thấy máy phát điện và bắt đầu giăng tơ.\n\nMột số con bám vào những Tội Nhân, rồi từ từ bò lên người họ."
+                    ]
+                },
+                {
+                    "message": "Kiểm tra máy phát điện.",
+                    "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Năng Lượng",
+                    "result": [
+                        "May mắn là chúng tôi không tốn quá nhiều thời gian để tìm ra bộ phận trục trặc.\n\nChúng tôi cẩn thận loại bỏ nó...\n\n... rồi đột nhiên, máy phát điện ngừng phát ra tiếng xẹt điện và cửa buồng quản thúc đóng sập lại."
+                    ]
+                },
+                {
+                    "message": "Kiểm tra máy phát điện, nhưng không rời mắt khỏi mớ mạng nhện kia.",
+                    "messageDesc": "Tiến hành kiểm định Lợi Thế Đố Kỵ & Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O Chảy Máu & Năng Lượng.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971033,
+            "name": "Safety Team",
+            "desc": "Màu xanh lục bảo nổi bật và làm ấn tượng mọi ngóc ngách căn phòng này.\n\nTiếng nhỏ giọt của Enkephalin đều đặn vang vọng khắp căn phòng. Có ai đó đã đổ đầy chúng lên bàn.\n\n'Quản Lý Điều Hành, chúng ta đã tìm thấy một ít Enkephalin ở đây.'\n\n'Hừm. Cũng không hại gì nếu chúng ta lấy một ít nhỉ? Biết đâu sau này nó có ích thì nó đáng với công sức chúng ta bỏ ra đó.'\n\n'L.C.B.G.T.T.R.C'\n\n'\"Lấy cái bình ga thủy tinh, rõ chưa\" ... cô ấy nói vậy đó....'",
+            "options": [
+                {
+                    "message": "Thu thập chút Enkephalin.",
+                    "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Sa Lầy",
+                    "result": [
+                        "'Đùa giỡn với mấy thứ khí ga mà không biết hiệu ứng của nó là một chiến thuật ngu xuẩn. Tôi đề nghị chúng ta bỏ mặc nó lại và chỉ lấy Enkephalin.'\n\n'Hừm, cô đang làm nhảm cái quái gì vậy?'\n\n'Các ngươi không thấy vẻ đẹp rợn người đang thoát ra từ bình ga đầy điểm gở đó sao?'\n\n'Không gái, có mình mày thấy thế thôi.\"\n\n'Ừm, vậy thì... Chẳng phải chỗ Enkephalin đó cũng có thể đã bị nhiễm bẩn hay sao?'\n\n'Enkephalin không phải một chất dễ bị nhiễm khuẩn.'\n\nCác Tội Nhân nhanh chóng chia làm hai phe và bắt đầu tranh luận với nhau.\n\nVài phút sau, chúng tôi thấy mình đang cầm một hộp Enkephalin trên tay và nhanh chóng băng qua khu hành lang."
+                    ]
+                },
+                {
+                    "message": "Lấy bình khí ga.",
+                    "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Sa Lầy",
+                    "result": [
+                        "'Đùa giỡn với mấy thứ khí ga mà không biết hiệu ứng của nó là một chiến thuật ngu xuẩn. Tôi đề nghị chúng ta bỏ mặc nó lại và chỉ lấy Enkephalin.'\n\n'Hừm, cô đang làm nhảm cái quái gì vậy?'\n\n'Các ngươi không thấy vẻ đẹp rợn người đang thoát ra từ bình ga đầy điểm gở đó sao?'\n\n'Tôi khá hứng thú với phần khí thoát ra mờ ảo bay xung quanh chiếc bình đấy.'\n\n'Ô hô, quả thực thú vị! Nhưng... làm sao để mang thứ khí ga vô hình này theo?'\n\n'Nhìn nè, đây là nút để trích xuất khi ga vào trong bình di động đó~'\n\nCác Tội Nhân nhanh chóng chia làm hai phe và bắt đầu tranh luận với nhau.\n\nVài phút sau, chúng tôi thấy mình đang cầm một bình ga trên tay và nhanh chóng băng qua khu hành lang."
+                    ]
+                },
+                {
+                    "message": "Lấy cả hai.",
+                    "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Lười Biếng. Thành công sẽ nhận 2 Quà Tặng E.G.O Sa Lầy (thất bại sẽ vào Ải Giao Chiến)",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971034,
+            "name": "One Sin SP Healing E.G.O Gift Giveaway",
+            "desc": "Một tia sáng len qua kẽ hở cửa buồng quản thúc và lớp kính trên cửa.\n\nPhía sau lớp kính là một hộp sọ kì dị...\n\nChiếc sọ lơ lửng bị buộc chặt vào cây thánh giá bởi nhiều lớp dây gai, bao phủ bởi một vòng tròn ánh sáng.\n\nHốc mắt trống rỗng của hộp sọ nhìn thẳng về phía chúng tôi.\n\n'Dị Thể này có tên gọi là 'Một Tội Lỗi và Hàng Trăm Việc Tốt''\n\n'Dĩ nhiên nó không giống với thực thể từng được đặt ở trong Tập Đoàn L.'\n\n'Hốc mắt hộp sọ trống rỗng cảm tưởng như có độ sâu không đáy đang nhìn thấu chúng ta.'",
+            "options": [
+                {
+                    "message": "Cầu nguyện trước Một Tội Lỗi và Hàng Trăm Việc Tốt.",
+                    "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Nói chuyện với Một Tội Lỗi và Hàng Trăm Việc Tốt",
+                    "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971035,
+            "name": "Heal HP, SP, or gain Cost",
+            "desc": "Chúng tôi nhìn lên và thấy những con bướm trắng lượn lờ trên đầu chúng tôi.\n\nDù có cánh, nhưng lũ bướm cũng chỉ lanh quanh trong hành lang, vỗ cánh bay trong vô định.\n\nChúng tôi đến được nơi chúng đang đậu một lúc, và nhìn thấy một cỗ quan tài lớn phía sau cửa sổ kính trong suốt.\n\nNó quá lớn cho một người, nhưng lại quá nhỏ cho nhiều người.\n\n'Một cỗ quan tài đơn độc nằm đó.'\n\n'Eo ơi, một cỗ quan tài sao…? Tôi có linh cảm xấu về chuyện này. Có lẽ chúng ta không nên chạm vào nó, nhỉ?\n\n'Ừ thì... đó sẽ là lựa chọn an toàn hơn, nhưng lỡ đâu có thứ gì đó trong đó có thể giúp chúng ta thì sao?'",
+            "options": [
+                {
+                    "message": "Không động vào cái quan tài và rời đi.",
+                    "messageDesc": "",
+                    "result": [
+                        "Chúng tôi tỏ lòng thành kính trước cỗ quan tài phía sau cánh cửa buồng, rồi rời đi.\n\nNhững con bướm không nơi nương tựa vỗ cánh, bay về phía chúng tôi trong làn gió lạnh buốt.\n\nChúng đang quằn quại vì đau buồn, hay là những nhịp đập cánh là cách chúng đang than khóc? Chúng tôi không thể nào biết được.\n\nMột ký ức chợt ùa về khi tôi lặng lẽ quan sát những con bướm kia. Rằng điều gì đó đã hoàn toàn trở về nơi nó xuất phát."
+                    ]
+                },
+                {
+                    "message": " Xem trong cái quan tài kia có gì.",
+                    "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Sa Lầy",
+                    "result": [
+                        "Một cái xác bướm lạnh ngắt nằm im lìm trong cỗ quan tài loa.\n\nNhững con bướm trắng ban nãy, những con mà đã từng tuyệt vọng vỗ đôi cánh nhỏ bé của mình với niềm tin rằng chắc hẳn vẫn còn điều gì đó ở cuối con đường, giờ đây đã không còn nữa; biến mất, mà không ai biết đến.\n\nNgười ta tự hỏi, điều gì nằm ngoài ranh giới của cái chết? Thực ra, chẳng có gì cả, thực sự chẳng còn gì nữa."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971036,
+            "name": "Miracle in District 20 Hard Event 1",
+            "desc": "Nhà máy bừng sáng cùng ánh đèn màu đỏ và xanh xen kẻ nhau.\n\nVang vọng giữa tiếng máy móc leng keng và những tiếng gõ kim loại nặng nề...\n\n... là đám thần lùn nhỏ bé đang loay hoay đủ thứ trên những chiếc băng chuyền.\n\n\"Lẹ-nôm! Nhanh-nôm!!\"\n\n\"Xả hết lên băng chuyền đi-nôm!!\"\n\n\"Đóng gói nào-nôm!!\"",
+            "options": [
+                {
+                    "message": "Tiến lại gần.",
+                    "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Phàm Ăn để nhận một Quà Tặng E.G.O Không Phân Loại.",
+                    "result": [
+                        "Vô số những món quà ly kỳ lý thú chất thành đống.\n\nChúng ta có thể tìm được thứ gì đó hữu ích trong chặng đường sắp tới."
+                    ]
+                },
+                {
+                    "message": "Đi ngang qua nó.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971037,
+            "name": "Miracle in District 20 Hard Event 2",
+            "desc": "Chiếc giường cũ kỹ phát ra từng tiếng kẽo kẹt nằm ngay chính giữa căn phòng.\n\nXung quanh là vô số lồng đèn lẫn ngọn nến.\n\nMột vài cái đã tắt ngúm, chỉ sót lại lớn sáp tro nguội lạnh như thể muốn nói rằng ngọn lửa đã hoàn thành mục đích của nó...\n\nTuy những cây khá vẫn còn đang phập phừng ánh lửa, hơi nóng ấm cúng tỏa ra làm ngọn nến tan chảy dần đi.\n\nẤy vậy mà thứ sinh vật rợn người ẩn khuất bên dưới chiếc giường và cạnh một tấm chăn rũ xuống quá nửa mặt sàn, vẫn không chịu lộ diện.\n\nMột cái gì đó rung động khiến mặt sàn kêu lên.\n\nRồi tôi nghe thấy tiếng của thứ gì đó đang bị kéo lê khắp sàn nhà cùng cảm giác như thể có cái gì đó đang trừng mắt nhìn chằm chằm đầy hiềm khích vào tôi...\n\nThứ gì đang ẩn mình bên dưới chiếc giường ấy?",
+            "options": [
+                {
+                    "message": "Lại gần chiếc giường.",
+                    "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Phàm Ăn để nhận một Quà Tặng E.G.O Chấn Động.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Không lại gần cái giường.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+  "dataList": [
+    {
+      "id": 810001,
+      "name": "Ánh Sáng Soi Rõ Vạn Vật",
+      "desc": "Nếu toàn bộ Nến bị dập tắt và có đầy HP, tăng kháng cho đến khi toàn bộ Nến được đốt lần nữa.\nNếu tất cả Nến đều đang cháy, giảm kháng."
+    },
+    {
+      "id": 810002,
+      "name": "Xua Tan Bóng Tối",
+      "desc": "Mỗi 4 lượt, thắp sáng tất cả Nến nếu có một ngọn Nến bị dập tắt. Giảm HP của tất cả Nến về 1."
+    },
+    {
+      "id": 810701,
+      "name": "Tro Tàn Rực Cháy",
+      "desc": "HP không giảm xuống dưới 1.\nĐốt Nến và sử dụng một Kỹ Năng Tấn Công nếu còn 1 HP."
+    },
+    {
+      "id": 810702,
+      "name": "Chìm Vào Bóng Đêm",
+      "desc": "Sử dụng Kỹ Năng Phòng Thủ nếu tất cả Nến đang cháy.\nDập tắt Nến khi mất hết Khiên."
+    },
+    {
+      "id": 810101,
+      "name": "Ngọc Trai Hở Lộ",
+      "desc": "Đầu Lượt: Bị Choáng nếu có 0 Lớp [AaCePcBh]. Toàn bộ Kháng Thuộc Tính của Ngọc Trai tăng 0.5.\nNhận 10 [AaCePcBh] khi hồi phục khỏi Choáng."
+    },
+    {
+      "id": 810102,
+      "name": "Vỏ Trai Sứt Mẻ",
+      "desc": "Hình thành hành vi chiến đấu mới khi Lõi còn 10% HP."
+    },
+    {
+      "id": 810103,
+      "name": "Vỏ Trai Cứng Cáp",
+      "desc": "Bộ Phận Vỏ Trai giữ nguyên chỉ số kháng cự kể cả khi Bị Choáng."
+    },
+    {
+      "id": 810104,
+      "name": "Tích Lũy Chất Nhầy",
+      "desc": "Cố định tốc độ của Bộ Phận này về 1 trong một lượt khi sử dụng Nuốt Chửng Chất Nhầy."
+    },
+    {
+      "id": 810901,
+      "name": "Chất Nhầy Xanh",
+      "desc": "Khi bị Trai Ung Dung hạ gục, gán 3 [AaCePcBh] cho Trai Ung Dung."
+    },
+    {
+      "id": 810902,
+      "name": "Chất Nhầy Nhiễm Bẩn",
+      "desc": "Cuối Lượt: Gán ([AaCePcBh] còn sống + 2) [Poison] lên toàn bộ kẻ địch."
+    },
+    {
+      "id": 810201,
+      "name": "Khí Oxy Giãn Nở",
+      "desc": "Khi Phần Huỳnh Quang bị phá hủy, gây [AaCePcBb] lên toàn bộ kẻ địch.\nPhần Huỳnh Quang hồi phục sau 2 lượt."
+    },
+    {
+      "id": 810202,
+      "name": "Thở Dưới Nước",
+      "desc": "Kể từ lượt 2, nhận 8 [Breath] trong lượt này nếu Phần Huỳnh Quang không bị phá hủy.\nNhận +3 Tầng [Breath]. Kể từ lượt 2, nhận 2 [Paralysis] và 2 [AttackDmgDown] nếu Phần Huỳnh Quang bị phá hủy."
+    },
+    {
+      "id": 810203,
+      "name": "Phù Sa",
+      "desc": "Kể từ lượt 2, Danh Tính không có Mảnh Vỡ Huỳnh Quang nhận 1 [Binding], 1 [Paralysis] và mất 3 SP."
+    },
+    {
+      "id": 810801,
+      "name": "Hoá Cứng",
+      "desc": "Chỉ nhận sát thương ≥ 12.\nNếu gây dưới 12 sát thương, miễn nhiễm sát thương nhận vào."
+    },
+    {
+      "id": 810802,
+      "name": "Vật Dạt Trôi Tròng Trành",
+      "desc": "Sau khi Phù Sa Nuốt Mộng dùng [AaCePcBb], và chủ thể không bị tiêu diệt vào cuối lượt, gây 20 sát thương lên một Danh Tính ngẫu nhiên."
+    },
+    {
+      "id": 810803,
+      "name": "Vật Dạt Trôi Vỡ Nát",
+      "desc": "HP không thể giảm xuống thấp hơn 1 khi bị tiêu diệt.\nBiến thành Vật Dạt Trôi Vỡ Nát."
+    },
+    {
+      "id": 810301,
+      "name": "Mệnh Lệnh của Thuyền Trưởng",
+      "desc": "[TurnStartBattle]: Khi SP hiện có > -45, hồi (số đồng minh còn sống x 5) SP.\nĐầu Lượt: Nếu đang có -45 SP, hồi phục lại và chuyển SP về 0"
+    },
+    {
+      "id": 810302,
+      "name": "Hình Xăm bị Hủy Hoại",
+      "desc": "Mất 1 Tầng [Breath] và 10 SP mỗi khi một đồng minh phe Thị Trấn Pequod bị đánh bại."
+    },
+    {
+      "id": 810303,
+      "name": "Mũi Lao Bất Khuất",
+      "desc": "HP chủ thể càng thấp, sát thương Kỹ Năng chủ thể gây ra càng cao."
+    },
+    {
+      "id": 810304,
+      "name": "Bị Tiêm Nhiễm Bởi Hận Thù và Ác Cảm",
+      "desc": "Cuối Lượt: Nếu thấp hơn 50% HP tối đa, chuyển sang Giai Đoạn 2.\n HP của chủ thể không giảm xuống dưới 1 trước khi Giai Đoạn 2 bắt đầu.\nĐầu Giai Đoạn 2 : Hồi HP tới mốc 50% HP tối đa và triệu hồi 4 đồng minh. Gây [AaCePcBj] lên 1 kẻ địch có phần trăm HP thấp nhất mỗi khi bắt đầu lượt."
+    },
+    {
+      "id": 810305,
+      "name": "Khắc Ghi Hận Thù và Ác Cảm",
+      "desc": "Hồi 50% HP tối đa và nhận 2 [Enhancement] khi có 1 HP. (một lần mỗi trận)"
+    },
+    {
+      "id": 810306,
+      "name": "Ý Thức Mờ Mịt",
+      "desc": "Cuối Lượt: Khi Bị Choáng và SP thấp hơn 0, chuyển SP về 0."
+    },
+    {
+      "id": 810401,
+      "name": "Khắc Ghi Hận Thù và Ác Cảm",
+      "desc": "Cuối Lượt: Nhận 2 [Agility] và [Enhancement] vào lượt kế khi có 50- HP. (một lần mỗi ải)"
+    },
+    {
+      "id": 810402,
+      "name": "Mũi Lao Xuyên Thấu",
+      "desc": "Gây thêm 1 hiệu ứng bất lợi bất kỳ từ hiệu ứng Kỹ Năng khi Đánh Trí Mạng"
+    },
+    {
+      "id": 810501,
+      "name": "Thuyền Trưởng Của Tàu Pequod",
+      "desc": "Đầu Lượt: Nếu chủ thể không có -45 SP, hồi 15 SP.\nCuối Lượt: Nếu hoảng loạn, hồi phục lại. Chuyển SP về 0"
+    },
+    {
+      "id": 810503,
+      "name": "Mệnh Lệnh Oái Oăm",
+      "desc": "Cuối Lượt: Nếu chủ thể Bị Choáng và tất cả đồng minh có SP thấp hơn 0, chuyển SP của họ về 0"
+    },
+    {
+      "id": 810504,
+      "name": "Quyết Định Máu Lạnh",
+      "desc": "Đầu Giai Đoạn 2: Hồi đầy HP; Queequeg và Starbuck không còn kích hoạt nội tại Mệnh Lệnh Của Thuyền Trưởng nữa. Đồng thời, Queequeg không thể Bị Choáng nếu Khiên Hỗ Trợ về 0."
+    },
+    {
+      "id": 810601,
+      "name": "Ahab",
+      "desc": "Đầu Lượt: Nếu SP chủ thể > -45, hồi 15 SP.\nCuối Lượt: Nếu hoảng loạn, hồi phục tâm lý. Chuyển SP về 0, đồng thời nhận 2 [Enhancement] và 2 [Endurance]."
+    },
+    {
+      "id": 810602,
+      "name": "Sự Ngây Thơ và Tội Lỗi của Pip",
+      "desc": "Đầu Giai Đoạn: Nhận 20 [AaCePcBo].\nCuối Lượt: Hồi 3 SP với mỗi [AaCePcBo].\nCuối Lượt: Nếu [AaCePcBo] về 0, Bị Choáng vào lượt kế."
+    },
+    {
+      "id": 810603,
+      "name": "Nỗi Sợ của Starbuck",
+      "desc": "Đầu Giai Đoạn: Bắt Đầu Giai Đoạn: Nhận 20 [AaCePcBp].\nMất 1 [AaCePcBp] với mỗi Xu bị phá hủy khi Giao Tranh với mục tiêu có [AaCePcBj].\nĐầu Lượt: Nhận 1 [Protection] với mỗi 5 [AaCePcBp].\nCuối Lượt: Nếu [AaCePcBp] về 0, Bị Choáng vào lượt kế."
+    },
+    {
+      "id": 810604,
+      "name": "Mũi Lao Xuyên Thủng",
+      "desc": "Giai Đoạn Hiện Tại: Gây thêm 1 hiệu ứng bất lợi từ Hiệu Ứng Kỹ Năng khi Đánh Trí Mạng"
+    },
+    {
+      "id": 810605,
+      "name": "Chuộc Tội của Queequeg",
+      "desc": "Đầu Giai Đoạn: Nhận 30 [AaCePcBq].\nCuối Lượt: Nếu chủ thể còn Khiên, nhận lại 5 [AaCePcBq]. Nếu chủ thể không còn Khiên, mất 10 [AaCePcBq].\nCuối Lượt: Nếu [AaCePcBq] về 0, bị Choáng vào lượt kế."
+    },
+    {
+      "id": 810606,
+      "name": "Mũi Lao Bất Khuất",
+      "desc": "HP của chủ thể càng thấp, sát thương gây ra càng cao.\n +1% sát thương HP với mỗi 0.75% HP chủ thể thiếu hụt.\n(Tối đa 100%. Lên tối đa khi chủ thể còn 25% HP)"
+    },
+    {
+      "id": 810607,
+      "name": "Cái Giá của Sự Vĩ Đại",
+      "desc": "Nhận Cấp Công Kích và Cấp Phòng Thủ mỗi khi chủ thể nhận Ego của đoàn viên khác\nGiảm SP khi Thua Giao Tranh với Kỹ Năng nhất định"
+    },
+    {
+      "id": 814101,
+      "name": "Ánh Sáng Soi Rõ Vạn Vật",
+      "desc": "Nếu toàn bộ Nến bị dập tắt và có đầy HP, tăng kháng cho đến khi toàn bộ Nến được đốt lần nữa.\nNếu tất cả Nến đều đang cháy, giảm kháng."
+    },
+    {
+      "id": 814102,
+      "name": "Xua Tan Bóng Tối",
+      "desc": "Mỗi 4 lượt, thắp sáng tất cả Nến nếu có một ngọn Nến bị dập tắt. Giảm HP của tất cả Nến về 1."
+    },
+    {
+      "id": 813601,
+      "name": "Tro Tàn Rực Cháy",
+      "desc": "Mỗi 4 lượt, thắp sáng tất cả Nến nếu có một ngọn Nến bị dập tắt. Giảm HP của tất cả Nến về 1."
+    },
+    {
+      "id": 813602,
+      "name": "Chìm Vào Bóng Đêm",
+      "desc": "Sử dụng Kỹ Năng Phòng Thủ nếu tất cả Nến đang cháy.\nDập tắt Nến khi mất hết Khiên."
+    },
+    {
+      "id": 813701,
+      "name": "Ngọc Trai Hở Lộ",
+      "desc": "Đầu Lượt: Bị Choáng nếu Lớp [AaCePcBh] về 0. Bộ Phận Ngọc Trai giảm 0.5 tất cả Kháng Thuộc Tính.\nNhận 10 [AaCePcBh] khi hồi phục khỏi Choáng."
+    },
+    {
+      "id": 813702,
+      "name": "Vỏ Trai Sứt Mẻ",
+      "desc": "Hình thành hành vi chiến đấu mới khi Lõi còn 10% HP."
+    },
+    {
+      "id": 813703,
+      "name": "Vỏ Trai Cứng Cáp",
+      "desc": "Bộ Phận Vỏ Trai giữ nguyên chỉ số kháng cự kể cả khi Bị Choáng."
+    },
+    {
+      "id": 813704,
+      "name": "Tích Lũy Chất Nhầy",
+      "desc": "Cố định tốc của Bộ Phận này về 1 trong một lượt khi sử dụng Nuốt Chửng Chất Nhầy."
+    },
+    {
+      "id": 813801,
+      "name": "Chất Nhầy Xanh",
+      "desc": "Khi bị Trai Ung Dung hạ gục, gán 3 [AaCePcBh] cho Trai Ung Dung."
+    },
+    {
+      "id": 813802,
+      "name": "Chất Nhầy Nhiễm Bẩn",
+      "desc": "Cuối Lượt: Gán ([AaCePcBh] còn sống + 2) [Poison] lên toàn bộ kẻ địch."
+    },
+    {
+      "id": 813901,
+      "name": "Khí Oxy Giãn Nở",
+      "desc": "Khi Phần Huỳnh Quang bị phá hủy, gây [AaCePcBb] lên toàn bộ kẻ địch.\nPhần Huỳnh Quang hồi phục sau 2 lượt."
+    },
+    {
+      "id": 813902,
+      "name": "Thở Dưới Nước",
+      "desc": "Kể từ lượt 2, nhận 8 [Breath] ở lượt này nếu Phần Huỳnh Quang không bị phá hủy.\nNhận +3 Tầng [Breath]. Kể từ lượt 2, nhận 2 [Paralysis] và 2 [AttackDmgDown] nếu Phần Huỳnh Quang bị phá hủy."
+    },
+    {
+      "id": 813903,
+      "name": "Phù Sa",
+      "desc": "Kể từ lượt 2, Danh Tính không có Mảnh Vỡ Huỳnh Quang nhận 1 [Binding], 1 [Paralysis] và mất 3 SP."
+    },
+    {
+      "id": 814001,
+      "name": "Hoá Cứng",
+      "desc": "Chỉ nhận sát thương ≥ 12.\nNếu gây dưới 12 sát thương, miễn nhiễm sát thương nhận vào."
+    },
+    {
+      "id": 814002,
+      "name": "Vật Dạt Trôi Tròng Trành",
+      "desc": "Sau khi Phù Sa Nuốt Mộng dùng [AaCePcBb], và chủ thể không bị tiêu diệt vào cuối lượt, gây 20 sát thương lên một Danh Tính ngẫu nhiên."
+    },
+    {
+      "id": 814003,
+      "name": "Vật Dạt Trôi Vỡ Nát",
+      "desc": "HP không thể giảm xuống thấp hơn 1 khi bị tiêu diệt.\nBiến thành Vật Dạt Trôi Vỡ Nát."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": 835001,
+      "name": "Tích Trữ Máu",
+      "desc": "Vào cuối lượt, dựa trên số Lớp [KeptBlood] trên chủ thể:\n- Ở mốc 5 Lớp hoặc thấp hơn: nhận 1 [Binding], 1 [Vulnerable], và 1 [AttackDown] vào lượt kế với mỗi (6 - Lớp\n- Ở mốc 5 Lớp hoặc hơn: nhận 2 [AttackUp] và 2 [DefenseUp] vào lượt kế với mỗi (Lớp - 5)"
+    },
+    {
+      "id": 835002,
+      "name": "Phải Giữ Lại Máu",
+      "desc": "Nhận Hành Vi Chiến Đấu mới khi [KeptBlood] lần đầu tiên giảm xuống 0\nĐặt tốc độ của chủ thể thành 10 khi sử dụng Kỹ Năng 'Ta... là Hoàng Tử... của Buổi Diễu Hành này...!'"
+    },
+    {
+      "id": 835003,
+      "name": "Cơn Cuồng Loạn Của Hoàng Tử",
+      "desc": "Khi HP của chủ thể chạm mốc 30%, nhận [BloodyCrave]"
+    },
+    {
+      "id": 835004,
+      "name": "Huyết Giáp - Đao",
+      "desc": "Ưu tiên những mục tiêu có tổng Lượng và Tầng [Laceration] cao nhất\nKhi Đánh Trúng, nếu mục tiêu có [Laceration], hồi 2% HP"
+    },
+    {
+      "id": 835005,
+      "name": "Dã Thú - Đông Máu",
+      "desc": "Khi chủ thể có [Laceration]:\n- Nhận 1 [AttackUp] và 1 [DefenseUp] với mỗi 5 [Laceration] (tối đa 10)\n- Nhận 1 [ParryingResultUp] với mỗi 10 [Laceration] (tối đa 5)\n- Sát thương phải nhận từ [Laceration] -50% (làm tròn xuống)"
+    },
+    {
+      "id": 9014501,
+      "name": "Đông Máu",
+      "desc": "Nhận +1 Tầng [Laceration] mỗi khi chủ thể nhận đòn\nCuối Lượt: tiêu 3 Tầng [Laceration] trên chủ thể để nhận 1 [HardenedBlood]"
+    },
+    {
+      "id": 9014502,
+      "name": "Khát Máu",
+      "desc": "Ưu tiên những mục tiêu có [Laceration]\nCuối Lượt: Nếu chủ thể không gây bất kì sát thương nào trong lượt này, nhận 2 [Vulnerable] và 2 [AttackUp] vào lượt kế"
+    },
+    {
+      "id": 9014503,
+      "name": "Hút Máu",
+      "desc": "Sát thương phải nhận từ [Laceration] -10% (làm tròn xuống)\nKhi Đánh Trúng, nếu mục tiêu có [Laceration], hồi 10% sát thương gây ra"
+    },
+    {
+      "id": 9014801,
+      "name": "Hút Máu Thô Bạo",
+      "desc": "Sát thương phải nhận từ [Laceration] -20% (làm tròn xuống)\nKhi Đánh Trúng, nếu mục tiêu có [Laceration], hồi 15% sát thương gây ra"
+    },
+    {
+      "id": 9014802,
+      "name": "Thất Thoát Năng Lượng",
+      "desc": "Mỗi khi chủ thể nhận đòn, nếu kẻ tấn công sử dụng Kỹ Năng nhận [Charge], kẻ tấn công cướp 1 Tầng [Charge] từ chủ thể.\n(Mỗi lần mỗi Kỹ Năng) Không kích hoạt nếu chủ thể không có [Charge])"
+    },
+    {
+      "id": 9015101,
+      "name": "Máu Dồn Lên Não",
+      "desc": "Sát thương phải nhận từ [Laceration] -30% (làm tròn xuống)\nKhi Đánh Trúng, nếu mục tiêu có [Laceration], hồi 15% sát thương gây ra"
+    },
+    {
+      "id": 9015102,
+      "name": "Mẫu Bộ Phận Cơ Học - L37",
+      "desc": "Đầu Lượt: Khi còn dưới 5 Tầng [Charge], nhận 1 [Reduction]\nĐầu Lượt: Ở mốc 5+ Tầng [Charge], nhận 2 [ParryingResultUp]"
+    },
+    {
+      "id": 9015201,
+      "name": "Thân Quyến Non Trẻ",
+      "desc": "Sát thương phải nhận từ [Laceration] -30% (làm tròn xuống)\nKhi Đánh Trúng, nếu mục tiêu có [Laceration], hồi 25% sát thương gây ra"
+    },
+    {
+      "id": 9014803,
+      "name": "Ngoan Cố",
+      "desc": "Kỹ Năng tự gây sát thương lên bản thân không thể giảm HP của chủ thể xuống dưới 1"
+    },
+    {
+      "id": 834801,
+      "name": "Túi Máu Tan Tác",
+      "desc": "Khởi chiến: bắt đầu ải với chỉ một nửa HP tối đa"
+    },
+    {
+      "id": 834802,
+      "name": "Thân Quyến Đời Thứ 7",
+      "desc": "Nhận +1 Ô Kỹ Năng với mỗi đồng minh còn 1 HP (tối đa 2 lần)"
+    }
+  ]
+}

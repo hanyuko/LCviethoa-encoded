@@ -1,0 +1,1806 @@
+{
+  "dataList": [
+    {
+      "id": 113101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Startling Strike",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ [Burst], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Restraint",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Tái sử dụng Xu này (Tốc Độ của đơn vị này / 3) lần (tối đa 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Feather Strike",
+          "desc": "Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu chính, nhận Sức Mạnh Xu dựa trên Tốc Độ chênh lệch (Sức Mạnh Xu +1 với mỗi 2 Tốc Độ chênh lệch; max 3)\n[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây +3 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Nếu mục tiêu có [BurstAgility], +50% sát thương gây ra"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 3 [LegStrength]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Tái sử dụng Xu này (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Windup",
+          "desc": "[WhenUse] Nhận 3 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pursuit",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ [Burst], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Overwhelm",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Tái sử dụng Xu này (Tốc Độ của đơn vị này / 3) lần (tối đa 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Umbra Strike",
+          "desc": "Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu chính, nhận Sức Mạnh Xu dựa trên Tốc Độ chênh lệch (Sức Mạnh Xu +1 với mỗi 2 Tốc Độ chênh lệch; max 3)\n[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây +3 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Nếu mục tiêu có [BurstAgility], +50% sát thương gây ra"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 3 [LegStrength]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Tái sử dụng Xu này (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Windup",
+          "desc": "[WhenUse] Nhận 3 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Question (問)",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Answer (答)",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Act Not With Impropriety (非禮勿動)",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 2 Tầng [Burst] trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstStop]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né Đòn",
+          "desc": "Nếu đơn vị này dùng Kỹ Năng này thất bại, nhận 1 [Binding] vào lượt kế\n[WhenUse] Sức Mạnh Xu +1 với mỗi 2 [Burst] trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thunderstrike",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstWave]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cut them Down, Mao",
+          "desc": "[WhenUse] Hồi 10 SP\n[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây 2 [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstSuppress]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Must Push You Further",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 2 Tầng [Burst] trên mục tiêu (tối đa 3)\n[WinDuel] Gây 2 [Burst] và +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +4 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+5% sát thương gây ra với mỗi (Lượng [Burst] trên mục tiêu + Tầng [Burst] trên mục tiêu) (tối đa 200%)\n[OnSucceedAttack] Giảm toàn bộ Deathrites trên mục tiêu về 0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do Not Meddle",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 3)\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstWave]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Startling Strike",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Perforating Kill",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +1\n[WhenUse] Nhận 3 [LegStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [BurstAgility], nhận 1 [Agility] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Etching Strike",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstAgility]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cursewrit Butcherblade - Blinkstep",
+          "desc": "Ưu tiên mục tiêu có [BurstAgility]\n[StartBattle] Nhận 1 [SupportProtect]\n+15% sát thương gây ra với mỗi 2 Tốc Độ chênh lệch giữa đơn vị này và mục tiêu (tối đa 60%)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 2 Tầng [Burst] trên mục tiêu (tối đa 3)\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Nếu mục tiêu có [BurstAgility], +50% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Tái sử dụng Xu này (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cursewrit",
+          "desc": "[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu từ 3 hoặc hơn, Sức Mạnh Giao Tranh +1\n[WhenUse] Nếu mục tiêu có [BurstAgility], Kỹ Năng này gây +1 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Incomplete Seal Release: <Tianjiu Star's Blade>",
+          "desc": "+20% damage với mỗi 2 Tốc Độ chênh lệch giữa đơn vị này và mục tiêu (tối đa 60%)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Burst] trên mục tiêu (tối đa 3)\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 2 Tầng [Burst] trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstZilu]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Ask Again",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Giao Tranh +1\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Act Not With Impropriety (非禮勿動)",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Giao Tranh +1\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstStop]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Will Not Meddle",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Giao Tranh +1\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstSuppress]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thunderstrike - Ripple (波)",
+          "desc": "Ưu tiên mục tiêu có nhiều loại Deathrite nhất\n[WhenUse] Sức Mạnh Xu +1 với mỗi 2 [Burst] trên mục tiêu chính (tối đa 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có từ 2 loại Deathrite trở lên, gây [BurstWave]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heishou - Mao Linkstrike - Bladestorm",
+          "desc": "[WhenUse] Hồi 10 SP\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Burst] trên mục tiêu (tối đa 2)\n[WinDuel] Gây 2 [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstAgility]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heed Me, Zilu",
+          "desc": "[WhenUse] Hồi 10 SP\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Burst] trên mục tiêu (tối đa 2)\n[WinDuel] Gây 2 [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstZilu]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deathrite Deluge",
+          "desc": "[CantChangeTarget]\nƯu tiên mục tiêu có nhiều loại Deathrite nhất\n[WhenUse] Sức Mạnh Xu +1 với mỗi loại Deathrite trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+5% sát thương gây ra với mỗi (Lượng [Burst] trên mục tiêu + Tầng [Burst] trên mục tiêu + mỗi loại Deathrite trên mục tiêu) (tối đa 200%)\n[OnSucceedAttack] Giảm toàn bộ Deathrites trên mục tiêu về 0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Answer Me, Jia Baoyu",
+          "desc": "[CantChangeTarget]\nƯu tiên Hồng Lộ\n[WinDuel] Gây +4 Tầng [Burst]\n[DefeatDuel] Nếu mục tiêu là Hồng Lộ, gây 1 [Teaching]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiangang Star - Form (格)",
+          "desc": "Ưu tiên Hồng Lộ\nSức Mạnh Xu -2 với mỗi [Teaching] trên mục tiêu\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu. Nhận 24 [DefenseDown] trong Ải này\n[DefeatDuel] -50% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] +5% sát thương gây ra với mỗi (Lượng [Burst] trên mục tiêu + Tầng [Burst] trên mục tiêu + mỗi loại Deathrite trên mục tiêu) (tối đa 100%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Weaklings...",
+          "desc": "[StartBattle] Gán 2 [AttackDmgUp] lên đồng minh nhanh nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dolts...",
+          "desc": "[StartBattle] Gán 2 [Agility] lên đồng minh chậm nhất vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm Gonna Kill You!",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ hiệu ứng bất lợi, Sức Mạnh Gốc +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)\n[DefeatDuel] Nhận 1 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 sát thương SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jump In!!",
+          "desc": "[WhenUse] Hồi 15 SP\n[WhenUse] Nếu mục tiêu có 3+ hiệu ứng bất lợi, Sức Mạnh Gốc +1\n[EndSkill] 1 Jar có HP hiện tại thấp nhất dùng Kỹ năng 'Leaping Cracked Jar' lên mục tiêu (bỏ qua trạng thái Choáng)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's Watch This Spectacle, All Together!",
+          "desc": "[StartBattle] Triệu hồi 2 Jars vào lượt kế\n[WhenUse] Nếu mục tiêu có 3+ hiệu ứng bất lợi, Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Talisman Strike",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 3)\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 30% HP đã mất trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Trigger Effect",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 3)\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 30% HP đã mất trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Giảm 2 [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Deathrite Doll",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst] và +3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Giảm 5 [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Vilerage",
+          "desc": "[StartBattle] Phạm Vi Tấn Công +1 với mỗi 20% HP đã mất trên chủ thể (tối đa 4)\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 4\n[DefeatDuel] -50% sát thương gây ra; this Skill cannot Stagger the target with damage or effect\n[EndSkill] Kỹ năng này không thể Choáng mục tiêu, gán 2 [ResultEnhancement] và 2 [AttackDmgUp] cho tất cả đồng minh, bao gồm cả chủ thể, vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gỡ toàn bộ [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Take This!",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 2 loại hiệu ứng bất lợi trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "KNEEL!",
+          "desc": "[CantIdentify]\n[WhenUse] Sức Mạnh Xu +1 với mỗi 2 loại hiệu ứng bất lợi trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Look at You Flaming Idiots!",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 2 loại hiệu ứng bất lợi trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Burst] trên mục tiêu một lần. Mục tiêu mất 1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Laceration] và Lượng [Burst] bằng số Lớp [MadFeather]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Know Your Place!",
+          "desc": "[WideAreaRampage]\n[WhenUse] Tiêu thụ 3% HP của bản thân (sát thương này không thể giết chết đơn vị này)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ShamrockTakeDamageUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ShamrockTakeDamageUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ShamrockTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kowtow Before Me!",
+          "desc": "[CantIdentify]\n[WhenUse] Tiêu thụ 5% HP của bản thân (sát thương này không thể giết chết đơn vị này)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây ([MadFeather] trên mục tiêu x 10) [Burst]; toàn bộ [MadFeather] trên mục tiêu hết hiệu lực"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Burst] trên mục tiêu 2 lần. Mục tiêu mất 2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Give You a Chance",
+          "desc": "[DuelCounter] \n[DefeatDuel] Toàn bộ [MadFeather] trên mục tiêu hết hiệu lực",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MadFeather]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Blade Style - Downward Cleave",
+          "desc": "[WhenUse] Tiêu thụ 5 Tầng [Charge] để nhận Sức Mạnh Tổng +1 (tối đa 2)\n[WhenUse] Nhận +2 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Blade Style - Windup Slash",
+          "desc": "[WhenUse] Tiêu thụ 5 Tầng [Charge] để nhận Sức Mạnh Giao Tranh +1 (tối đa 2)\n[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Blade Style - Crushing Slice",
+          "desc": "[WhenUse] Tiêu thụ 5 Tầng [Charge] để nhận Sức Mạnh Xu +1 (tối đa 2)\n[WhenUse] Nếu chủ thể này đã tiêu thụ 5+ Tầng [Charge], gây +2 [Burst]\n[WhenUse] Nếu chủ thể này đã tiêu thụ 10+ Tầng [Charge], gây +3 Tầng [Burst]\n[WhenUse] Ở mốc 5~9 Tầng [Charge], nhận 2(13 - Tầng [Charge] hiện tại) [Burst] để nâng Tầng [Charge] lên 10\n[DefeatDuel] -75% sát thương gây ra; Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Phàm Ăn bằng Lượng [Burst] trên mục tiêu; sau đó, giảm 1 Tầng [Burst] (tối đa 30)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst] với mỗi 5 Tầng [Charge] đã tiêu thụ Khi Dùng (tối đa 4)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Blade Style - Flowing Slash",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Fist Style - Faceoff",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +3 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +3 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Fist Style - Roundhouse Punch",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 5 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Tiêu thụ 5 Tầng [Charge] để nhận Sức Mạnh Tổng +1\n[WhenUse] Ở mốc 5~9 Tầng [Charge], nhận 2(13 - Tầng [Charge] hiện tại) Lượng [Burst] để nâng Tầng [Charge] lên 10 (một lần mỗi lượt)\n[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +5 Tầng [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 2+ [Charge], gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Fist Style - Destroy",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Tiêu thụ 5 Tầng [Charge] để nhận Sức Mạnh Xu +1 (tối đa 3)\n[WhenUse] Nếu chủ thể này đã tiêu thụ 5+ Tầng [Charge], gây +2 [Burst]\n[WhenUse] Nếu chủ thể này đã tiêu thụ 10+ Tầng [Charge], gây +3 Tầng [Burst]\n[DefeatDuel] -80% sát thương gây ra; Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +5 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể này đã tiêu thụ Tầng [Charge], gây 10 [OminousTalisman]\n- Nếu chủ thể này đã tiêu thụ 10+ Tầng [Charge], gây (Tầng [Charge] đã tiêu thụ - 10) Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +5 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gỡ toàn bộ [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu chủ thể này đã tiêu thụ 5+ Tầng [Charge] Khi Dùng, gây 10 [OminousTalisman]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Nếu chủ thể này đã tiêu thụ 10+ Tầng [Charge] Khi Dùng, tiêu thụ toàn bộ [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Fist Style - Rhythm Matching",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Giảm 3 [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swiftfeet Protection",
+          "desc": "[CanDuelGuard]\n[BeforeUse] Ở mốc 2+ [SupportProtect], thay vào đó kích hoạt 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation'\n[WhenUse] Nhận 1 Cấp Phòng Thủ với mỗi 5% HP đơn vị này đã mất cộng dồn trong Ải này (tối đa 10)\n[WhenUse] Không thể bị Choáng cho đến khi Kỹ năng này kết thúc",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation",
+          "desc": "+20% damage với mỗi 2 Tốc Độ chênh lệch giữa đơn vị này và mục tiêu (tối đa 60%)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Burst] trên mục tiêu (tối đa 3)\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 2 Tầng [Burst] trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstZilu]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Like a Roaring Storm",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nKỹ năng này tấn công các mục tiêu không phải Hồng Lộ\nDùng Heishou Pack - Mao Branch để gây Choáng mọi Danh Tính ngoại trừ Hồng Lộ vào lượt kế; đơn vị này hồi phục trạng thái Choáng\n[EndSkill] Kết thúc lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

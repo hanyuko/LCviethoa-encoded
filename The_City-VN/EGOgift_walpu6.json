@@ -1,0 +1,101 @@
+{
+  "dataList": [
+    {
+      "id": 9805,
+      "name": "Phước Lành Của Chòm Sao Xám",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1]\n\nNhận [KnightBless] vào Đầu Ải",
+      "simpleDesc": [
+        {
+          "abilityID": 9744,
+          "simpleDesc": "Nhận [KnightBless]"
+        }
+      ]
+    },
+    {
+      "id": 9806,
+      "name": "Kẻ Không Được Chọn",
+      "desc": "Mỗi khi một đồng minh bị tấn công, gây 3 [Sinking] lên kẻ tấn công\n\nKhi một đồng minh chết, toàn bộ đồng minh nhận 2 [Enhancement] vào lượt kế (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9806,
+          "simpleDesc": "Inflict [Sinking]"
+        },
+        {
+          "abilityID": 98061,
+          "simpleDesc": "Nhận [Enhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9807,
+      "name": "Thanh Kiếm Được Mài Bằng Nước Mắt",
+      "desc": "Khi một đồng minh tấn công bằng Kỹ Năng, nếu mục tiêu có SP ≤ -20, gây sát thương Thờ Ơ bằng với [Sinking] trên mục tiêu đó (một lần mỗi Kỹ Năng)\n\n- Nếu đó là Kỹ Năng Đâm, gây thêm (Tầng [Sinking] trên mục tiêu / 2) sát thương cố định (một lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 9807,
+          "simpleDesc": "Bonus Gloom damage"
+        },
+        {
+          "abilityID": 98071,
+          "simpleDesc": "Bonus fixed damage"
+        }
+      ]
+    },
+    {
+      "id": 9808,
+      "name": "Món Quà Chan Chứa Tình Yêu của Ma Pháp Thiếu Nữ",
+      "desc": "Khi một đồng minh đánh trúng bằng Kỹ Năng nhận hay tiêu thụ Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng', một đồng minh ngẫu nhiên hồi 3 HP hoặc SP (một lần mỗi Xu; không tính đồng minh có HP hoặc SP tối đa)\n\nKhi một đồng minh hồi phục khỏi Hoảng Loạn hoặc 'E.G.O Ăn Mòn ', hồi 20 SP",
+      "simpleDesc": [
+        {
+          "abilityID": 9808,
+          "simpleDesc": "Randomly hồi HP or SP"
+        },
+        {
+          "abilityID": 98081,
+          "simpleDesc": "Heal SP"
+        }
+      ]
+    },
+    {
+      "id": 9809,
+      "name": "Bị Lợi Dụng, Hình Thành Thù Hận",
+      "desc": "Khi tiêu thụ Tầng [Charge] bằng Kỹ Năng Tấn Công, nhận (Tầng [Charge] đã tiêu thụ / 2) [AttackUp] vào lượt kế (10 lần mỗi lượt; tính cả '<noparse>Năng Lượng</noparse> Đặc Trưng')\n\nCuối Lượt: nếu một đồng minh mất SP trong lượt này, họ nhận 1 [Enhancement] và 1 [Vulnerable] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9809,
+          "simpleDesc": "Nhận [AttackUp]"
+        },
+        {
+          "abilityID": 98091,
+          "simpleDesc": "Nhận [AttackUp] and [DefenseDown]"
+        }
+      ]
+    },
+    {
+      "id": 9810,
+      "name": "Khiên Chắn Chấn Thương Tâm Lý",
+      "desc": "Đầu Ải: toàn bộ đồng minh nhận 2 [TraumaShield]",
+      "simpleDesc": [
+        {
+          "abilityID": 9810,
+          "simpleDesc": "Nhận [TraumaShield]"
+        }
+      ]
+    },
+    {
+      "id": 9811,
+      "name": "Loại Bỏ Giá Trị",
+      "desc": "Khi một đồng minh chết trong Ải, nhận 2 Tài Nguyên E.G.O cho toàn bộ Nguyên Tội\n\nKhởi Chiến: nếu có một đồng minh vừa Thay Vào trong lượt này, hồi 10 SP cho 2 đồng minh có SP thấp nhất (một lần mỗi lượt; nếu họ không trong trạng thái Hoảng Loạn hoặc 'E.G.O Ăn Mòn')",
+      "simpleDesc": [
+        {
+          "abilityID": 9811,
+          "simpleDesc": "Gain E.G.O Resources"
+        },
+        {
+          "abilityID": 98111,
+          "simpleDesc": "Heal SP"
+        }
+      ]
+    }
+  ]
+}

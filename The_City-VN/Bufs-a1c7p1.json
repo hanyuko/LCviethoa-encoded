@@ -1,0 +1,186 @@
+{
+  "dataList": [
+    {
+      "id": "BloodScissor",
+      "name": "Lưỡi Kéo Nhuốm Máu",
+      "desc": "     \n      \n        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorTwo",
+      "name": "Lưỡi Kéo Nhuốm Máu II",
+      "desc": "     \n      \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>    \n         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorThree",
+      "name": "Lưỡi Kéo Nhuốm Máu III",
+      "desc": "     \n      \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>    \n         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner",
+      "name": "Huyết Yến",
+      "desc": "     \n       <sprite name=\"Laceration\"><color=#e30000> </color>   \n       \n                \n               <sprite name=\"BloodDinner\"><color=#9f6a3a> </color>       <sprite name=\"BloodDinner\"><color=#9f6a3a> </color>         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner_Accumulation",
+      "name": "Huyết Yến Đã Tiêu Thụ",
+      "desc": "     \n  <sprite name=\"BloodDinner\"><color=#9f6a3a> </color>       {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_LowMorale",
+      "name": "Đói Khát",
+      "desc": "  \n     <sprite name=\"Binding\"><color=#e30000> </color>   <sprite name=\"Enhancement\"><color=#fac400>    </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_Panic",
+      "name": "Đói Khát",
+      "desc": "  \n    <sprite name=\"Binding\"><color=#e30000> </color>   <sprite name=\"Enhancement\"><color=#fac400>    </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclaration_Camille",
+      "name": "Khiêu Chiến - Camille",
+      "desc": "                             <sprite name=\"Agility\"><color=#e30000> </color>           \n                               ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RecklessDuel",
+      "name": "Liều Mạng Quyết Đấu",
+      "desc": "    <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>            \n    <sprite name=\"Binding\"><color=#e30000> </color>            ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttack",
+      "name": "Xuyên Phá Tiêu Điểm",
+      "desc": "      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TrulyWeak",
+      "name": "Kẻ Yếu",
+      "desc": "    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RealPaperBear",
+      "name": "Một Con Gấu Thật Sự",
+      "desc": "       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorScars",
+      "name": "Đường Cắt Sâu",
+      "desc": "       <sprite name=\"Laceration\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>         <sprite name=\"Laceration\"><color=#e30000> </color>\n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LineCutting",
+      "name": "Mục Tiêu May Vá",
+      "desc": "      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberOne",
+      "name": "Héo Mòn",
+      "desc": "         \n      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberTwo",
+      "name": "Héo Mòn",
+      "desc": "         \n      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodShooting",
+      "name": "Bắn Máu!!",
+      "desc": " \n <sprite name=\"BloodDinner\"><color=#9f6a3a> </color> \n             \n                         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RighteousFeeling",
+      "name": "THẬT CAO THƯỢNG LÀM SAO!!",
+      "desc": "      <sprite name=\"Agility\"><color=#fac400> </color>  <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>   \n    <sprite name=\"AttackUp\"><color=#fac400>   </color>         \n      \n      <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclarationMeursault",
+      "name": "Khiêu Chiến - Meursault",
+      "desc": "                             <sprite name=\"Agility\"><color=#e30000> </color>                                          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttackMeursault",
+      "name": "Xuyên Phá Tiêu Điểm - Meursault",
+      "desc": "<Chỉ Dành Cho Ải Chuyên Sâu>\n                         \n  ·        \n  ·       \n  ·            \n                        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_LowMorale",
+      "name": "Chuyên Gia Đấu Tay Đôi",
+      "desc": "  \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>      <sprite name=\"DefenseDown\"><color=#e30000>   </color>          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_Panic",
+      "name": "Chuyên Gia Đấu Tay Đôi",
+      "desc": "  \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>      <sprite name=\"DefenseDown\"><color=#e30000>   </color>          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RighteousFeelingSancho",
+      "name": "Mặc cho nước mắt có lẫn với máu, ta phải gánh vác trọng trách này.",
+      "desc": "    <sprite name=\"BloodArmorPersonalityFirst\"><color=#fac400> </color>      <sprite name=\"BloodArmorPersonalityFirst\"><color=#fac400> </color>    \n     <sprite name=\"Agility\"><color=#fac400> </color>   <sprite name=\"AttackUp\"><color=#fac400>   </color>   \n    <sprite name=\"AttackUp\"><color=#fac400>   </color>         \n      \n      <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfinishedDreamSancho",
+      "name": "Nô lệ của giọt máu đào đặc hơn ao nước lã.",
+      "desc": "    <sprite name=\"BloodArmorPersonalityFirst\"><color=#fac400> </color>      <sprite name=\"BloodArmorPersonalityFirst\"><color=#fac400> </color>    \n     <sprite name=\"Agility\"><color=#fac400> </color>   <sprite name=\"AttackUp\"><color=#fac400>   </color>   \n    <sprite name=\"AttackUp\"><color=#fac400>   </color>         \n      \n      <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeSancho",
+      "name": "Huyết yến làm nguôi đi nỗi thống khổ của Gia Đình.",
+      "desc": " <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeTwoSancho",
+      "name": "Con Huyết Quỷ một mình gánh chịu tội lỗi sát hại người Cha đã ruồng bỏ chính những Đứa Con của mình.",
+      "desc": "        \n             \n    \n         ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

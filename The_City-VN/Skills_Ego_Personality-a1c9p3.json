@@ -1,0 +1,128 @@
+{
+  "dataList": [
+    {
+      "id": 2010112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "Tầm Nhìn Mắt Quạ",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Reduction] trong lượt này và lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gán 3 [Agility] cho toàn bộ đồng minh vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 50% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "Ràng Buộc của Tha Nhân",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Reduction] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Reduction] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Protection] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "Thái Hư Huyễn Cảnh",
+          "abName": "Hồng Lộ",
+          "desc": "[EndSkill] Hồi 15 SP cho chủ thể và toàn bộ đồng minh\n[EndSkill] Xóa [Combustion] trên chủ thể và toàn bộ đồng minh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Nếu HP của mục tiêu dưới 50%, +30% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                },
+                {
+                  "desc": "[EnemyKill] Gán 1 [AttackDmgUp] lên một đồng minh ngẫu nhiên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1038 @@
+{
+  "dataList": [
+    {
+      "id": 2050511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hối Hận",
+          "abName": "Sát Nhân Bị Vứt Bỏ",
+          "desc": "[BeforeAttack] Xóa 1 hiệu ứng bất lợi có thể xóa được trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]; Gây (Phẫn Nộ Cộng Hưởng Tuyệt Đối / 3) Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hối Hận",
+          "abName": "Sát Nhân Bị Vứt Bỏ",
+          "desc": "[BeforeAttack] Xóa 1 hiệu ứng bất lợi có thể xóa được trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]; Gây (Phẫn Nộ Cộng Hưởng Tuyệt Đối / 3) Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]\n<style=\"highlight\">Nếu mục tiêu không có Ngưỡng Choáng khi kích hoạt [VibrationExplosion],\ngây sát thương Phẫn Nộ bằng (6 + 2 x (Phẫn Nộ Cộng Hưởng Tuyệt Đối))% Ngưỡng Choáng cuối đã được nâng lên</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hối Hận",
+          "abName": "Sát Nhân Bị Vứt Bỏ",
+          "desc": "[BeforeAttack] Xóa <style=\"highlight\">2</style> hiệu ứng bất lợi có thể xóa được trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">3</style> Tầng [Vibration]; Gây (Phẫn Nộ Cộng Hưởng Tuyệt Đối / 3) Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]\nNếu mục tiêu không có Ngưỡng Choáng khi kích hoạt [VibrationExplosion],\ngây sát thương Phẫn Nộ bằng (<style=\"highlight\">12 + 3</style> x (Phẫn Nộ Cộng Hưởng Tuyệt Đối))% Ngưỡng Choáng cuối đã được nâng lên."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hối Hận",
+          "abName": "Sát Nhân Bị Vứt Bỏ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu chủ thể có hiệu ứng bất lợi, Phạm Vi Tấn Công +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion].\nNgưỡng Choáng do [VibrationExplosion] nâng lên sẽ tăng thêm bằng 30% Lượng [Vibration] trên mục tiêu.\nGiảm 1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[EndSkill] Nhận 3 [Binding] và 1 [HitResultUp] vào lượt kế."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hối Hận",
+          "abName": "Sát Nhân Bị Vứt Bỏ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu chủ thể có hiệu ứng bất lợi, Phạm Vi Tấn Công +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]\nNgưỡng Choáng do [VibrationExplosion] nâng lên sẽ tăng thêm bằng <style=\"highlight\">40%</style> Lượng [Vibration] trên mục tiêu.\n<style=\"highlight\">Nếu mục tiêu không có Ngưỡng Choáng khi kích hoạt [VibrationExplosion],\ngây sát thương Phẫn Nộ bằng (6 + 2 x (Phẫn Nộ Cộng Hưởng Tuyệt Đối))% Ngưỡng Choáng cuối đã được nâng lên</style>\nGiảm 1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[EndSkill] Nhận 3 [Binding] và 1 [HitResultUp] vào lượt kế."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hối Hận",
+          "abName": "Sát Nhân Bị Vứt Bỏ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu chủ thể có hiệu ứng bất lợi, Phạm Vi Tấn Công +<style=\"highlight\">2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]\nNgưỡng Choáng do [VibrationExplosion] nâng lên sẽ tăng thêm bằng <style=\"highlight\">50%</style> Lượng [Vibration] trên mục tiêu.\nNếu mục tiêu không có Ngưỡng Choáng khi kích hoạt [VibrationExplosion],\ngây sát thương Phẫn Nộ bằng (<style=\"highlight\">12 + 3</style> x (Phẫn Nộ Cộng Hưởng Tuyệt Đối))% Ngưỡng Choáng cuối đã được nâng lên\nGiảm 1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[EndSkill] Nhận 3 [Binding] và 1 [HitResultUp] vào lượt kế."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[BeforeAttack] Nhận +8 Tầng [Charge]\n[EndSkill] Gán +8 Tầng [Charge] cho 1 đồng minh khác có số Tầng [Charge] thấp nhất\n- Số đồng minh được hưởng hiệu ứng tăng thêm (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[BeforeAttack] Nhận +8 Tầng [Charge]\n[EndSkill] Gán +8 Tầng [Charge] cho 1 đồng minh khác có số Tầng [Charge] thấp nhất\n- Số đồng minh được hưởng hiệu ứng tăng thêm (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa <style=\"highlight\">4</style>)\n- Ở mốc 4+ (Đố Kỵ Cộng Hưởng cao nhất), gán 1 [VioletDamageUp] cho chủ thể và toàn bộ đồng minh hưởng hiệu ứng</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[BeforeAttack] Nhận +12 Tầng [Charge]\n[EndSkill] Gán +8 Tầng [Charge] cho 1 đồng minh khác có số Tầng [Charge] thấp nhất\n- Số đồng minh được hưởng hiệu ứng tăng thêm (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa <style=\"highlight\">5</style>)\n- Ở mốc 4+ (Đố Kỵ Cộng Hưởng cao nhất), gán 1 [VioletDamageUp] lên chủ thể và toàn bộ đồng minh hưởng hiệu ứng\n<style=\"highlight\">- Ở mốc 6+ (Đố Kỵ Cộng Hưởng cao nhất), gán 1 [VioletDamageUp] cho chủ thể và toàn bộ đồng minh hưởng hiệu ứng</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa 2)\n[BeforeAttack] Nếu chủ thể có 10+ Tầng [Charge], tiêu thụ tối đa 20 Tầng [Charge]; +2% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 40%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] Nếu chủ thể có 10+ Tầng [Charge], tiêu thụ tối đa 20 Tầng [Charge]; +<style=\"highlight\">2.5</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">50</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa 3)\n<style=\"highlight\">[BeforeAttack] Ở mốc 10+ Tầng [Charge], Các hiệu ứng 'Đánh Trúng' được gây hai lần</style>\n[BeforeAttack] Nếu chủ thể có 10+ Tầng [Charge], tiêu thụ tối đa 20 Tầng [Charge]; +<style=\"highlight\">3</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đóa Hồng",
+          "desc": "[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây +2 Tầng [RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Kích hoạt [Laceration] trên mục tiêu một lần (mục tiêu mất 1 Tầng [Laceration])"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đóa Hồng",
+          "desc": "<style=\"highlight\">Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1</style>\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ở mốc 4+ Cộng Hưởng cao nhất, kích hoạt [Laceration] trên mục tiêu một lần (mục tiêu mất 1 Tầng [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ở mốc 4+ Cộng Hưởng cao nhất, kích hoạt [Laceration] trên mục tiêu một lần (mục tiêu mất 1 Tầng [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây +2 Tầng [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Kích hoạt [Laceration] trên mục tiêu <style=\"highlight\">(1 + (Cộng Hưởng cao nhất / 2)) lần. (tối đa 3 lần; mục tiêu mất Tầng [Laceration] bằng với số lần kích hoạt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đóa Hồng",
+          "desc": "<style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 [Laceration] trên mục tiêu (tối đa 2)</style>\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 4+ Cộng Hưởng cao nhất, kích hoạt [Laceration] trên mục tiêu một lần (mục tiêu mất 1 Tầng [Laceration])<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 4+ Cộng Hưởng cao nhất, kích hoạt [Laceration] trên mục tiêu một lần (mục tiêu mất 1 Tầng [Laceration])<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây +2 Tầng [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Kích hoạt [Laceration] trên mục tiêu (1 + (Cộng Hưởng cao nhất / 2)) lần. (tối đa 3 lần; mục tiêu mất Tầng [Laceration] bằng với số lần kích hoạt)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Khi gây sát thương vượt quá HP còn lại của kẻ địch, lượng sát thương vượt quá đó sẽ được chuyển thành sát thương cố định và chia đều cho toàn bộ kẻ địch. (tối thiểu 1)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đóa Hồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Tiêu thụ tối đa 10% HP Tối Đa của chủ thể và gây sát thương bằng (HP đã tiêu thụ / 2) lên toàn bộ kẻ địch và đồng minh\n- Khi HP của chủ thể dưới 50%, đổi thành gây và kích hoạt 5 [Laceration] lên toàn bộ đồng minh một lần (mất 1 Tầng [Laceration]). Hồi HP bằng lượng sát thương [Laceration] đã gây lên đồng minh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] trên chủ thể và mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] trên chủ thể và mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây +2 Tầng [RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [RoseWedge]"
+                },
+                {
+                  "desc": "- Nếu mục tiêu không có [RoseWedge], gây thêm 4 Lượng [RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Kích hoạt [Laceration] trên mục tiêu một lần (mục tiêu mất 1 Tầng [Laceration])"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đóa Hồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Ở mốc 6+ ([Laceration] trên chủ thể + [Laceration] trên mục tiêu), Sức Mạnh Xu +1</style>\n[WhenUse] Tiêu thụ tối đa 10% HP Tối Đa của chủ thể và gây sát thương bằng (HP đã tiêu thụ / 2) lên toàn bộ kẻ địch và đồng minh\n- Khi HP của chủ thể dưới 50%, đổi thành gây và kích hoạt 5 [Laceration] lên toàn bộ đồng minh một lần (mất 1 Tầng [Laceration]). Hồi HP bằng lượng sát thương [Laceration] đã gây lên đồng minh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Laceration] trên chủ thể và mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Laceration] trên chủ thể và mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây +2 Tầng [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Nếu mục tiêu không có [RoseWedge], gây thêm 4 Lượng [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Kích hoạt [Laceration] trên mục tiêu <style=\"highlight\">(1 + (Cộng Hưởng cao nhất / 2)) lần. (tối đa 3 lần; mục tiêu mất Tầng [Laceration] bằng với số lần kích hoạt)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đóa Hồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Xu +1 với mỗi 6 ([Laceration] trên chủ thể + [Laceration] trên mục tiêu) <style=\"highlight\">(tối đa 3)</style>\n[WhenUse] Tiêu thụ tối đa 10% HP Tối Đa của chủ thể và gây sát thương bằng (HP đã tiêu thụ / 2) lên toàn bộ kẻ địch và đồng minh\n- Khi HP của chủ thể dưới 50%, đổi thành gây và kích hoạt 5 [Laceration] lên toàn bộ đồng minh (mất 1 Tầng [Laceration]). Hồi HP bằng lượng sát thương [Laceration] đã gây lên đồng minh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] trên chủ thể và mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Kích hoạt [Laceration] trên chủ thể và mục tiêu một lần (mất 1 Tầng [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] trên chủ thể và mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Kích hoạt [Laceration] trên chủ thể và mục tiêu một lần (mất 1 Tầng [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây +2 Tầng [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [RoseWedge]"
+                },
+                {
+                  "desc": "- Nếu mục tiêu không có [RoseWedge], gây thêm 4 Lượng [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Kích hoạt [Laceration] trên mục tiêu (1 + (Cộng Hưởng cao nhất / 2)) lần. (tối đa 3 lần; mục tiêu mất Tầng [Laceration] bằng với số lần kích hoạt)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Khi gây sát thương vượt quá HP còn lại của kẻ địch, lượng sát thương vượt quá đó sẽ được chuyển thành sát thương chuẩh và chia đều cho toàn bộ kẻ địch. (tối thiểu 1)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quá Khứ Bị Nghiền Nát",
+          "abName": "Máy Vận Chuyển Hơi Nước",
+          "desc": "[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt\n[EndSkill] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt chẵn, hồi 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +(Lười Biếng Cộng Hưởng / 2) Tầng [Vibration] (tối đa 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu là mục tiêu chính, kích hoạt [FusionVibration] thành loại [Vibration] hiện tại của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Xu này +1% sát thương gây ra với mỗi [Vibration] trên mục tiêu chính (tối đa 50%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Xu này +1% sát thương gây ra với mỗi ([Vibration] + Tầng [Vibration]) trên mục tiêu chính (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu hiệu ứng của Xu này tăng sát thương gây ra lên 100% hoặc cao hơn, kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Quá Khứ Bị Nghiền Nát",
+          "abName": "Máy Vận Chuyển Hơi Nước",
+          "desc": "<style=\"highlight\">[BeforeAttack] Nếu mục tiêu chính có 30+ ([Vibration] + Tầng [Vibration]), nhận +1 Phạm Vi Tấn Công</style>\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt\n[EndSkill] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt chẵn, hồi 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +(Lười Biếng Cộng Hưởng / 2) Tầng [Vibration] (tối đa 3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu là mục tiêu chính, kích hoạt [FusionVibration] thành loại [Vibration] hiện tại của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Xu này +1% sát thương gây ra với mỗi [Vibration] trên mục tiêu chính (tối đa 50%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Xu này +1% sát thương gây ra với mỗi ([Vibration] + Tầng [Vibration]) trên mục tiêu chính (tối đa 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu hiệu ứng của Xu này tăng sát thương gây ra lên 100% hoặc cao hơn, kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Quá Khứ Bị Nghiền Nát",
+          "abName": "Máy Vận Chuyển Hơi Nước",
+          "desc": "[BeforeAttack] Nếu mục tiêu chính có 30+ ([Vibration] + Tầng [Vibration]), nhận +1 Phạm Vi Tấn Công\n<style=\"highlight\">- Ở mốc 100+, đổi thành nhận +3 Phạm Vi Tấn Công</style>\n<style=\"highlight\">[BeforeAttack] Cứ mỗi 2 Cộng Hưởng cao nhất, gây 1 [Vibration] lên toàn bộ mục tiêu (tối đa 3)</style>\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt\n<style=\"highlight\">[EndSkill] Hồi ([AccumulatedPastSinner] x 2)% HP</style>\n[EndSkill] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt chẵn, hồi 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +(Lười Biếng Cộng Hưởng / 2) Tầng [Vibration] (tối đa 3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu là mục tiêu chính, kích hoạt [FusionVibration] thành loại [Vibration] hiện tại của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Xu này +1% sát thương gây ra với mỗi [Vibration] trên mục tiêu chính (tối đa 50%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Xu này +1% sát thương gây ra với mỗi ([Vibration] + Tầng [Vibration]) trên mục tiêu chính (tối đa 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu hiệu ứng của Xu này tăng sát thương gây ra lên +50% hoặc cao hơn, kích hoạt [VibrationExplosion] một lần.</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu hiệu ứng của Xu này tăng sát thương gây ra lên 100% hoặc cao hơn, kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quá Khứ Bị Nghiền Nát",
+          "abName": "Máy Vận Chuyển Hơi Nước",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n+10% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n- Nếu đó là Lười Biếng Cộng Hưởng, đổi thành +20% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n[BeforeAttack] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt chẵn, +12% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Xu này +1% sát thương gây ra với mỗi ([Vibration] + Tầng [Vibration]) trên mục tiêu chính (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration] và +2 Tầng [Vibration] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +(Lười Biếng Cộng Hưởng) Tầng [Vibration] (tối đa 6)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu là mục tiêu chính, kích hoạt [FusionVibration] thành loại [Vibration] hiện tại của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu hiệu ứng của Xu này tăng sát thương gây ra lên +100% hoặc cao hơn, kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Quá Khứ Bị Nghiền Nát",
+          "abName": "Máy Vận Chuyển Hơi Nước",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n+10% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n- Nếu đó là Lười Biếng Cộng Hưởng, đổi thành +20% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n<style=\"highlight\">[BeforeAttack] Nếu mục tiêu chính có 30+ ([Vibration] + Tầng [Vibration]), nhận +2 Phạm Vi Tấn Công</style>\n[BeforeAttack] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt chẵn, +12% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Xu này +1% sát thương gây ra với mỗi ([Vibration] + Tầng [Vibration]) trên mục tiêu chính (tối đa 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration] và +2 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +(Lười Biếng Cộng Hưởng) Tầng [Vibration] (tối đa 6)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu là mục tiêu chính, kích hoạt [FusionVibration] thành loại [Vibration] hiện tại của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu hiệu ứng của Xu này tăng sát thương gây ra lên +100% hoặc cao hơn, kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Quá Khứ Bị Nghiền Nát",
+          "abName": "Máy Vận Chuyển Hơi Nước",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n+10% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n- Nếu đó là Lười Biếng Cộng Hưởng, đổi thành +20% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n[BeforeAttack] Nếu mục tiêu chính có 30+ ([Vibration] + Tầng [Vibration]), nhận +2 Phạm Vi Tấn Công\n[BeforeAttack] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt chẵn, +12% sát thương gây ra\n<style=\"highlight\">[EndSkill] hồi ([AccumulatedPastSinner] x 3)% HP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Xu này <style=\"highlight\">+2%</style> sát thương gây ra với mỗi ([Vibration] trên mục tiêu chính + Tầng [Vibration] trên mục tiêu chính) (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration] và +2 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +(Lười Biếng Cộng Hưởng) Tầng [Vibration] (tối đa 6)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu là mục tiêu chính, kích hoạt [FusionVibration] thành loại [Vibration] hiện tại của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu hiệu ứng của Xu này tăng sát thương gây ra lên +100% hoặc cao hơn, kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ảnh Y Kiếm Vũ [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "Giảm 15 SP tiêu hao cho lần dùng đầu tiên trong Ải\n- Nếu Sư Phụ Gia Tộc Kiếm Sư Meursault dùng Kỹ Năng này, lượng tài nguyên E.G.O Phẫn Nộ, Kiêu Ngạo và Đố Kỵ cần tiêu hao khi dùng cũng giảm 1\n\nSức Mạnh Giao Tranh +1 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là 4 và 12%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +60% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +120% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 2, làm tròn xuống)\n[BeforeAttack] (3 + Cộng Hưởng cao nhất) đồng minh có thứ tự Triển Khai sớm nhất nhận +4 Tầng [Breath]\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ảnh Y Kiếm Vũ [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "Giảm 15 SP tiêu hao cho lần dùng đầu tiên trong Ải\n- Nếu Sư Phụ Gia Tộc Kiếm Sư Meursault dùng Kỹ Năng này, lượng tài nguyên E.G.O Phẫn Nộ, Kiêu Ngạo và Đố Kỵ cần tiêu hao khi dùng cũng giảm 1\n\nSức Mạnh Giao Tranh +1 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là <style=\"highlight\">6</style> và <style=\"highlight\">24</style>%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +<style=\"highlight\">80</style>% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +<style=\"highlight\">160</style>% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 2, làm tròn xuống)\n[BeforeAttack] (3 + Cộng Hưởng cao nhất) đồng minh có thứ tự Triển Khai sớm nhất nhận +4 Tầng [Breath]\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ảnh Y Kiếm Vũ [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "Giảm 15 SP tiêu hao cho lần dùng đầu tiên trong Ải\n- Nếu Sư Phụ Gia Tộc Kiếm Sư Meursault dùng Kỹ Năng này, cũng giảm 1 tài nguyên E.G.O Phẫn Nộ, Kiêu Ngạo và Đố Kỵ\n\nSức Mạnh Giao Tranh +1 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là <style=\"highlight\">8</style> và <style=\"highlight\">30</style>%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +<style=\"highlight\">100</style>% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì thay thành +<style=\"highlight\">200</style>% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 2, làm tròn xuống)\n[BeforeAttack] (3 + Cộng Hưởng cao nhất) đồng minh có thứ tự Triển Khai sớm nhất nhận +4 Tầng [Breath]\n[EndSkill] 4 Danh Tính đồng minh khác Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ảnh Y Kiếm Vũ [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n\nSức Mạnh Giao Tranh +2 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là 8 và 12%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +60% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +120% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -8)\n[BeforeAttack] Toàn bộ kẻ địch và đồng minh nhận +4 Tầng [Breath], 1 [SlashDamageUp] và 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối nhận Sức Mạnh Tổng +2 (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối nhận Sức Mạnh Tổng +2 (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối nhận Sức Mạnh Tổng +2 (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ảnh Y Kiếm Vũ [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n\nSức Mạnh Giao Tranh +2 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là <style=\"highlight\">12</style> và <style=\"highlight\">24</style>%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +<style=\"highlight\">80</style>% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +<style=\"highlight\">160</style>% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -8)\n[BeforeAttack] Toàn bộ kẻ địch và đồng minh nhận +4 Tầng [Breath], 1 [SlashDamageUp] và 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối nhận Sức Mạnh Tổng +2 (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối nhận Sức Mạnh Tổng +2 (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối nhận Sức Mạnh Tổng +2 (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ảnh Y Kiếm Vũ [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n\nSức Mạnh Giao Tranh +2 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là <style=\"highlight\">16</style> và <style=\"highlight\">30</style>%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +<style=\"highlight\">100</style>% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +<style=\"highlight\">200</style>% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -8)\n[BeforeAttack] Toàn bộ kẻ địch và đồng minh nhận +4 Tầng [Breath], 1 [SlashDamageUp] và 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối nhận Sức Mạnh Tổng +2 (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối nhận Sức Mạnh Tổng +2 (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối nhận Sức Mạnh Tổng +2 (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

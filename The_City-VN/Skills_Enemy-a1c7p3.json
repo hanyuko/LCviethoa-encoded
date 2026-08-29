@@ -1,0 +1,491 @@
+{
+  "dataList": [
+    {
+      "id": 9016201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Đâm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Chẻ",
+          "desc": "[WhenUse] Nếu mục tiêu có 8+ [Laceration], +20% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Khi có 6+ [Laceration], nhận 1 [HardenedBlood]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 8 [Laceration] và 1 [BloodScissor]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Cường Chẻ",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Gốc +1\n+5% sát thương gây ra với mỗi [HardenedBlood] (tối đa 25%)\n[EndSkill] Tiêu thụ toàn bộ [HardenedBlood] và [BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi ([Laceration] trên mục tiêu)% HP (tối đa 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi [HardenedBlood] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đây là lễ hội! Là Lễ Hội đó!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lên Đồ Nào!",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], +20% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 5+ [Laceration], nhận 1 [HardenedBlood]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sự Kiện Đặc Biệt Dành Cho Ngươi!",
+          "desc": "[WhenUse] Tiêu thụ lên tới 50 [BloodDinner]; nhận 1 [BloodScissor] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Nếu Kỹ Năng này của chủ thể tiêu hao [BloodDinner] thất bại, nhận 5 [Laceration] và 1 [HardenedBlood].\n[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đừng Thúc Tôi!",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi [BloodScissor] (tối đa 3)\n+7% sát thương gây ra với mỗi [HardenedBlood] (tối đa 35%)\n[EndSkill] Tiêu thụ toàn bộ [HardenedBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 8 [Laceration]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ lên tới 5 [BloodScissor] và +(20 * [BloodScissor] đã tiêu thụ)% sát thương gây ra (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi (Lượng [Laceration] trên mục tiêu)% HP (tối đa 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Khi có 1+ [BloodScissor], Sức Mạnh Gốc +1\n[WhenUse] Khi có 3+ [HardenedBlood], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xin hãy trả lời khảo sát.",
+          "desc": "[WhenUse] Nhận 5 [Laceration] và +1 Tầng [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngưng! Đừng Ngắt Lời Ta!",
+          "desc": "[WhenUse] Nhận 5 [Laceration] và +1 Tầng [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 5+ [Laceration], nhận 1 [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mất Kiềm Chế",
+          "desc": "[WhenUse] Tiêu thụ lên tới 50 [BloodDinner]; nhận 1 [BloodyHand] với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Nếu Kỹ Năng này của chủ thể tiêu hao [BloodDinner] thất bại, nhận 10 [Laceration] và 1 [BloodyHand]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuộc Tội Bất Tận",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi [HardenedBlood] trên chủ thể\n[DefeatDuel] Mất 2 [BloodyHand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ toàn bộ [BloodyHand] to gây +3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ toàn bộ [HardenedBlood] trên chủ thể thành tăng [BloodDinner] từ ([HardenedBlood] đã tiêu thụ x 3) và nhận 5 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi ([Laceration] trên mục tiêu)% HP (tối đa 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Khi có 1+ [BloodyHand], Sức Mạnh Gốc +1\n[WhenUse] Khi có 3+ [HardenedBlood], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chào mừng đến với Lễ Hội của Những Điều Kì Diệu!",
+          "desc": "[WhenUse] Khi có 5+ [FestivalFever], Sức Mạnh Tổng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hãy tham gia vào Cuộc Diễu Hành Đầy Niềm Vui!",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 5 [FestivalFever] trên chủ thể hoặc mỗi 6 [Laceration] trên mục tiêu (tối đa 3)\n[WhenUse] Khi dưới 20 [BloodDinner], nhận 20 [Laceration] và ngay lập tức kích hoạt một lần, sau đó giảm 1 Tầng [Laceration]\n[EndSkill] Tiêu thụ 20 [BloodDinner]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [HardenedBlood] với mỗi 6 [Laceration] trên mục tiêu (tối đa 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây 4 [Laceration] và +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2~3 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khơi Dậy Nụ Cười Rực Rỡ Của Bạn!",
+          "desc": "[WhenUse] Khi có 5+ [FestivalFever], Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Nhận 2 [FestivalFever]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vương Quốc Hạnh Phúc Vĩnh Cửu, La Manchaland!",
+          "desc": "[WhenUse] Khi dưới 40 [BloodDinner], nhận 20 [Laceration] và +2 Tầng [Laceration], ngay lập tức kích hoạt 2 lần [Laceration], sau đó giảm 2 Tầng [Laceration]\n[EndSkill] Tiêu thụ 40 [BloodDinner]\n[EndBattle] Tiêu thụ toàn bộ [HardenedBlood] và [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Laceration] và [Burst] bằng [HardenedBlood] trên chủ thể"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi ([FestivalFever] x 4)% HP (tối đa 40%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né Đòn",
+          "desc": "[WhenUse] Khi có 5+ [FestivalFever], Sức Mạnh Tổng +2\n[StartBattle] Nhận 3 [FestivalFever]\n[OnDefeatEvade] Mất 3 [FestivalFever]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

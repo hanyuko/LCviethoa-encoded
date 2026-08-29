@@ -1,0 +1,203 @@
+{
+  "dataList": [
+    {
+      "id": "ExaminationOfQiu",
+      "name": "Một Chút Trông Mong",
+      "desc": "      \n            \n        ",
+      "summary": ""
+    },
+    {
+      "id": "BurstStop",
+      "name": "Tử Chú 【Vật Động】",
+      "desc": "   \n  \n       <sprite name=\"Burst\"><color=#e30000> </color>    <sprite name=\"Binding\"><color=#e30000> </color>   \n            \n             <sprite name=\"Burst\"><color=#e30000> </color>      \n             ",
+      "summary": ""
+    },
+    {
+      "id": "BurstSuppress",
+      "name": "Tử Chú 【Xế Trửu】",
+      "desc": "   \n  \n                   \n       <sprite name=\"AttackDown\"><color=#e20000>   </color>        \n             ",
+      "summary": ""
+    },
+    {
+      "id": "BurstWave",
+      "name": "Tử Chú 【Tức Giảm】",
+      "desc": "   \n  \n         <sprite name=\"Burst\"><color=#e30000> </color>   \n                  \n       \n             ",
+      "summary": ""
+    },
+    {
+      "id": "Teaching",
+      "name": "Hội Thoại",
+      "desc": "    \n     \n                        \n    {0} ",
+      "summary": ""
+    },
+    {
+      "id": "BurstWeakness",
+      "name": "Tử Chú 【Nhược Hóa】",
+      "desc": "   \n  \n                          <sprite name=\"Burst\"><color=#e30000> </color>   \n      <sprite name=\"DefenseDown\"><color=#e20000>   </color>       \n       <sprite name=\"DefenseDown\"><color=#e20000>   </color>   <sprite name=\"Binding\"><color=#e20000> </color>        \n             ",
+      "summary": ""
+    },
+    {
+      "id": "Qiu_LowMorale",
+      "name": "Giả Khâu",
+      "desc": "  \n           ",
+      "summary": ""
+    },
+    {
+      "id": "Qiu_Panic",
+      "name": "Giả Khâu",
+      "desc": "  \n           ",
+      "summary": ""
+    },
+    {
+      "id": "QiuAndHonglu",
+      "name": "Chân Tâm Của Em...",
+      "desc": "          \n                \n                <sprite name=\"Enhancement\"><color=#fac400>    </color>       ",
+      "summary": ""
+    },
+    {
+      "id": "ProtectStance",
+      "name": "Thủ Hộ Thế",
+      "desc": "    \n              \n     \n               \n   <sprite name=\"Protection\"><color=#fac400> </color>\n   <sprite name=\"Aggro\"><color=#9f6a3a> </color>      ",
+      "summary": ""
+    },
+    {
+      "id": "ZiluDebuff",
+      "name": "Chế Ngự Sát Khí",
+      "desc": "            ",
+      "summary": ""
+    },
+    {
+      "id": "WitheredWood_LowMorale",
+      "name": "Eldtree Mutation",
+      "desc": "  \n   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>  <sprite name=\"Vulnerable\"><color=#e30000> </color>   <sprite name=\"BurstVulnerable\"><color=#e30000>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WitheredWood_Panic",
+      "name": "Eldtree Mutation",
+      "desc": "  \n   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>  <sprite name=\"Vulnerable\"><color=#e30000> </color>   <sprite name=\"BurstVulnerable\"><color=#e30000>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EvilHeart_LowMorale",
+      "name": "Heart of Evil",
+      "desc": "  \n           \n    <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EvilHeart_Panic",
+      "name": "Heart of Evil",
+      "desc": "  \n           \n    <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepEvilHeart_LowMorale",
+      "name": "Heart of Oppressive Evil",
+      "desc": "  \n           \n    <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepEvilHeart_Panic",
+      "name": "Heart of Oppressive Evil",
+      "desc": "  \n           \n    <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OminousTalisman",
+      "name": "Bùa Chú Bất Hạnh",
+      "desc": "     \n                 <sprite name=\"Burst\"><color=#e30000> </color>              \n   <sprite name=\"OminousTalisman\"><color=#e30000>   </color>   <sprite name=\"Burst\"><color=#e30000> </color>   <sprite name=\"OminousTalisman\"><color=#e30000>   </color>         <sprite name=\"Burst\"><color=#e30000> </color>      <sprite name=\"Burst\"><color=#e30000> </color>   \n            ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RepressedMurderousIntendTwo",
+      "name": "Che Giấu Sát Khí",
+      "desc": "     \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UncontrolledChargeAxe_LowMorale",
+      "name": "Charge Circuitry Countercurrent",
+      "desc": "  \n     <sprite name=\"Burst\"><color=#e30000> </color>       <sprite name=\"Vulnerable\"><color=#e30000> </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UncontrolledChargeAxe_Panic",
+      "name": "Charge Circuitry Countercurrent",
+      "desc": "  \n     <sprite name=\"Burst\"><color=#e30000> </color>      <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MadFeather",
+      "name": "Lông Vũ Nhãn Cầu",
+      "desc": "     \n        <sprite name=\"Burst\"><color=#e30000> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>   \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MadFeather_LowMorale",
+      "name": "Double-edged Feather",
+      "desc": "  \n    <sprite name=\"Vulnerable\"><color=#e30000> </color>           <sprite name=\"Burst\"><color=#e30000> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MadFeather_Panic",
+      "name": "Double-edged Feather",
+      "desc": " \n    <sprite name=\"Vulnerable\"><color=#e30000> </color>           <sprite name=\"Burst\"><color=#e30000> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "JarMaster_LowMorale",
+      "name": "Charge Order",
+      "desc": "  \n    <sprite name=\"Vulnerable\"><color=#e30000> </color>    <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "JarMaster_Panic",
+      "name": "Charge Order",
+      "desc": "  \n    <sprite name=\"Vulnerable\"><color=#e30000> </color>    <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepAngry_LowMorale",
+      "name": "Angst",
+      "desc": "  \n           \n    <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepAngry_Panic",
+      "name": "Angst",
+      "desc": "  \n           \n    <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TakeBreath_LowMorale",
+      "name": "Catching Breath",
+      "desc": "  \n    <sprite name=\"DefenseUp\"><color=#fac400>   </color>     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TakeBreath_Panic",
+      "name": "Catching Breath",
+      "desc": "  \n    <sprite name=\"DefenseUp\"><color=#fac400>   </color>     ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

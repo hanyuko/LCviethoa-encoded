@@ -1,0 +1,1057 @@
+{
+  "dataList": [
+    {
+      "id": 2030511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+4</style> Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Vibration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gây 2 [Paralysis]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +4 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 2 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây <style=\"highlight\">6</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 2 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây <style=\"highlight\">6</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 2 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[BeforeAttack] Nhận (Đố Kỵ Cộng Hưởng - 2) Phạm Vi Tấn Công (tối đa 1)\n[BeforeAttack] Nếu chủ thể có 20+ Tầng [Charge], Tiêu 20 Tầng [Charge] để +30% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[BeforeAttack] Nhận (Đố Kỵ Cộng Hưởng - 2) Phạm Vi Tấn Công (tối đa <style=\"highlight\">2</style>)\n<style=\"highlight\">[BeforeAttack] +((Đố Kỵ Cộng Hưởng - 3) x 5)% sát thương gây ra (tối đa 15%)</style>\n[BeforeAttack] Nếu chủ thể có 20+ Tầng [Charge], Tiêu 20 Tầng [Charge] để <style=\"highlight\">+35%</style> sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[BeforeAttack] Nhận (Đố Kỵ Cộng Hưởng - 2) Phạm Vi Tấn Công (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] +((Đố Kỵ Cộng Hưởng - 3) x <style=\"highlight\">10</style>)% sát thương gây ra (tối đa <style=\"highlight\">30</style>%)\n[BeforeAttack] Nếu chủ thể có 20+ Tầng [Charge], Tiêu 20 Tầng [Charge] để <style=\"highlight\">+40%</style> sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nhận (Đố Kỵ Cộng Hưởng - 2) Phạm Vi Tấn Công (tối đa 1)\n[BeforeAttack] +((Đố Kỵ Cộng Hưởng - 3) x 5)% sát thương gây ra (tối đa 15%)\n[BeforeAttack] Khi Tầng [Charge] dưới 20, tiêu 1.5% HP Tối Đa của chủ thể với mỗi Tầng [Charge] còn thiếu để đạt 20 Tầng [Charge]\n[BeforeAttack] Tiêu tối đa 20 Tầng [Charge] để +2.5% sát thương gây ra với mỗi Tầng [Charge] đã tiêu (tối đa 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Nhận +3 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nhận (Đố Kỵ Cộng Hưởng - 2) Phạm Vi Tấn Công (tối đa <style=\"highlight\">2</style>)\n[BeforeAttack] +((Đố Kỵ Cộng Hưởng - 3) x <style=\"highlight\">8</style>)% sát thương gây ra (tối đa <style=\"highlight\">24</style>%)\n[BeforeAttack] Khi Tầng [Charge] dưới 20, tiêu 1.5% HP Tối Đa của chủ thể với mỗi Tầng [Charge] còn thiếu để đạt 20 Tầng [Charge]\n[BeforeAttack] Tiêu tối đa 20 Tầng [Charge] để +<style=\"highlight\">3.5</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu (tối đa <style=\"highlight\">70</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Nhận +3 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sấm Sét Oán Than",
+          "abName": "Cừu Điện Mộng Mơ",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nhận (Đố Kỵ Cộng Hưởng - 2) Phạm Vi Tấn Công (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] +((Đố Kỵ Cộng Hưởng - 3) x <style=\"highlight\">12</style>)% sát thương gây ra (tối đa <style=\"highlight\">36</style>%)\n[BeforeAttack] Khi Tầng [Charge] dưới 20, tiêu 1.5% HP Tối Đa của chủ thể với mỗi Tầng [Charge] còn thiếu để đạt 20 Tầng [Charge]\n[BeforeAttack] Tiêu tối đa 20 Tầng [Charge] để +<style=\"highlight\">5</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu (tối đa <style=\"highlight\">100</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Nhận +3 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đoá Hồng",
+          "desc": "HP của chủ thể không thể giảm xuống dưới 1 khi dùng Kỹ Năng này.\nSức Mạnh Giao Tranh +1 với mỗi 100 [BloodDinner_Accumulation] trên chủ thể (tối đa 2)\n[BeforeAttack] Khi [BloodDinner] dưới 50, gây 1 [Laceration] mỗi lần Đánh Trúng\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+0.1% sát thương gây ra với mỗi [BloodDinner_Common_Accumulation] (tối đa 10%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ở mốc 100+ [BloodDinner_Common_Accumulation]: +0.1% sát thương gây ra với mỗi giá trị (tối đa 10%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ở mốc 200+ [BloodDinner_Common_Accumulation]: +0.1% sát thương gây ra với mỗi giá trị (tối đa 20%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ở mốc 300+ [BloodDinner_Common_Accumulation]: +0.1% sát thương gây ra với mỗi giá trị (tối đa 30%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây [ThirstyRose] dựa trên Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất (tối đa 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đoá Hồng",
+          "desc": "HP của chủ thể không thể giảm xuống dưới 1 khi dùng Kỹ Năng này.\n<style=\"highlight\">Nếu mục tiêu có 10+ [Laceration], Sức Mạnh Xu +1</style>\nSức Mạnh Giao Tranh +1 với mỗi 100 [BloodDinner_Accumulation] trên chủ thể (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] Khi [BloodDinner] dưới <style=\"highlight\">75</style>, gây 1 [Laceration] mỗi lần Đánh Trúng\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+0.1% sát thương gây ra với mỗi [BloodDinner_Common_Accumulation] (tối đa 10%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ở mốc 100+ [BloodDinner_Common_Accumulation]: +0.1% sát thương gây ra với mỗi giá trị (tối đa <style=\"highlight\">15</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ở mốc 200+ [BloodDinner_Common_Accumulation]: +0.1% sát thương gây ra với mỗi giá trị (tối đa <style=\"highlight\">25</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ở mốc 300+ [BloodDinner_Common_Accumulation]: +0.1% sát thương gây ra với mỗi giá trị (tối đa <style=\"highlight\">40</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây [ThirstyRose] dựa trên Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất (tối đa 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đoá Hồng",
+          "desc": "HP của chủ thể không thể giảm xuống dưới 1 khi dùng Kỹ Năng này.\n<style=\"highlight\">Sức Mạnh Xu +1 với mỗi 10 [Laceration] trên mục tiêu (tối đa 2)</style>\nSức Mạnh Giao Tranh +1 với mỗi 100 [BloodDinner_Accumulation] trên chủ thể (tối đa <style=\"highlight\">5</style>)\n[BeforeAttack] Khi [BloodDinner] dưới <style=\"highlight\">100</style>, gây 1 [Laceration] mỗi lần Đánh Trúng\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+0.1% sát thương gây ra với mỗi [BloodDinner_Common_Accumulation] (tối đa 10%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ở mốc 100+ [BloodDinner_Common_Accumulation]: +0.1% sát thương gây ra với mỗi giá trị (tối đa <style=\"highlight\">20</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ở mốc 200+ [BloodDinner_Common_Accumulation]: +0.1% sát thương gây ra với mỗi giá trị (tối đa <style=\"highlight\">30</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Ở mốc 300+ [BloodDinner_Common_Accumulation]: +0.1% sát thương gây ra với mỗi giá trị (tối đa <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây [ThirstyRose] dựa trên Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất (tối đa <style=\"highlight\">4</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đoá Hồng",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nHP của chủ thể không thể giảm xuống dưới 1 khi dùng Kỹ Năng này.\nNếu mục tiêu có 10+ [Laceration], Sức Mạnh Xu -1\n[BeforeAttack] Khi [BloodDinner] dưới 150, gây 1 [Laceration] mỗi lần Đánh Trúng\n[BeforeAttack] Nhận 20 [Laceration], và kích hoạt [Laceration] trên chủ thể. Mất 2 Tầng [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration] với mỗi 50 [BloodDinner_Common_Accumulation] (tối đa 10)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu [BloodDinner] ≤ 100, gây 10 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+5% sát thương gây ra với mỗi 100 [BloodDinner_Common_Accumulation] (tối đa 25%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây [ThirstyRose] dựa trên Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất (tối đa 3)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Hồi HP bằng 50% lượng sát thương gây ra (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đoá Hồng",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nHP của chủ thể không thể giảm xuống dưới 1 khi dùng Kỹ Năng này.\nNếu mục tiêu có 10+ [Laceration], Sức Mạnh Xu -1\n<style=\"highlight\">Ở mốc 200+ [BloodDinner_Accumulation] trên chủ thể, Sức Mạnh Xu -1</style>\n[BeforeAttack] Khi [BloodDinner] dưới 150, gây 1 [Laceration] mỗi lần Đánh Trúng\n[BeforeAttack] Nhận 20 [Laceration], và kích hoạt [Laceration] trên chủ thể. Mất 2 Tầng [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration] với mỗi 50 [BloodDinner_Common_Accumulation] (tối đa 10)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu [BloodDinner] ≤ 100, gây 10 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">10</style>% sát thương gây ra với mỗi 100 [BloodDinner_Common_Accumulation] (tối đa <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây [ThirstyRose] dựa trên Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất (tối đa <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Hồi HP bằng 50% lượng sát thương gây ra (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mircalla - Khao Khát",
+          "abName": "Bốn Trăm Đoá Hồng",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nHP của chủ thể không thể giảm xuống dưới 1 khi dùng Kỹ Năng này.\nNếu mục tiêu có 10+ [Laceration], Sức Mạnh Xu -1\nỞ mốc 200+ [BloodDinner_Accumulation] trên chủ thể, Sức Mạnh Xu -1\n[BeforeAttack] Khi [BloodDinner] dưới 150, gây 1 [Laceration] mỗi lần Đánh Trúng\n[BeforeAttack] Nhận 20 [Laceration], và kích hoạt [Laceration] trên chủ thể. Mất 2 Tầng [Laceration]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration] với mỗi 50 [BloodDinner_Common_Accumulation] (tối đa 10)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu [BloodDinner] ≤ 100, gây 10 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">20</style>% sát thương gây ra với mỗi 100 [BloodDinner_Common_Accumulation] (tối đa <style=\"highlight\">100</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây [ThirstyRose] dựa trên Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất (tối đa <style=\"highlight\">5</style>)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Hồi HP bằng 50% lượng sát thương gây ra (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Tịch",
+          "abName": "Để Không Một Ai Phải Khóc",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây (4 + Phàm Ăn Cộng Hưởng) [EntangledCurseTalisman] (tối đa 10)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây ([EntangledCurseTalisman] trên mục tiêu / 2) [Burst] (tối đa 3, làm tròn xuống)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +([EntangledCurseTalisman] trên mục tiêu / 4) Tầng [Burst] (tối đa 2, làm tròn xuống)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hồng Tịch",
+          "abName": "Để Không Một Ai Phải Khóc",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây (4 + Phàm Ăn Cộng Hưởng) [EntangledCurseTalisman] (tối đa 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+3% sát thương gây ra với mỗi [EntangledCurseTalisman] trên mục tiêu (tối đa 30%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([EntangledCurseTalisman] trên mục tiêu / 2) [Burst] (tối đa 3, làm tròn xuống)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +([EntangledCurseTalisman] trên mục tiêu / 4) Tầng [Burst] (tối đa 2, làm tròn xuống)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hồng Tịch",
+          "abName": "Để Không Một Ai Phải Khóc",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây (4 + Phàm Ăn Cộng Hưởng) [EntangledCurseTalisman] (tối đa 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">5</style>% sát thương gây ra với mỗi [EntangledCurseTalisman] trên mục tiêu (tối đa <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([EntangledCurseTalisman] trên mục tiêu / 2) [Burst] (tối đa <style=\"highlight\">4</style>, làm tròn xuống)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +([EntangledCurseTalisman] trên mục tiêu / 4) Tầng [Burst] (tối đa 2, làm tròn xuống)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Tịch",
+          "abName": "Để Không Một Ai Phải Khóc",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây (6 + Phàm Ăn Cộng Hưởng) [EntangledCurseTalisman] (tối đa 10)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+5% sát thương gây ra với mỗi [EntangledCurseTalisman] trên mục tiêu (tối đa 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([EntangledCurseTalisman] trên mục tiêu / 2) [Burst] (tối đa 3, làm tròn xuống)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +([EntangledCurseTalisman] trên mục tiêu / 3) Tầng [Burst] (tối đa 2, làm tròn xuống)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hồng Tịch",
+          "abName": "Để Không Một Ai Phải Khóc",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây (6 + Phàm Ăn Cộng Hưởng) [EntangledCurseTalisman] (tối đa 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">10</style>% sát thương gây ra với mỗi [EntangledCurseTalisman] trên mục tiêu (tối đa <style=\"highlight\">100</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([EntangledCurseTalisman] trên mục tiêu / 2) [Burst] (tối đa 3, làm tròn xuống)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +([EntangledCurseTalisman] trên mục tiêu / 3) Tầng [Burst] (tối đa 2, làm tròn xuống)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hồng Tịch",
+          "abName": "Để Không Một Ai Phải Khóc",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây (6 + Phàm Ăn Cộng Hưởng) [EntangledCurseTalisman] (tối đa 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+10% sát thương gây ra với mỗi [EntangledCurseTalisman] trên mục tiêu (tối đa 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([EntangledCurseTalisman] trên mục tiêu / 2) [Burst] (tối đa <style=\"highlight\">4</style>, làm tròn xuống)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +([EntangledCurseTalisman] trên mục tiêu / 3) Tầng [Burst] (tối đa 2, làm tròn xuống)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhân Danh Tình Yêu Và Thù Hận - Major Arcana Slave!!!",
+          "abName": "Nữ Hoàng Thù Hận",
+          "desc": "[BeforeAttack] Gán 1 [MagicalGirlResponse] cho (1 + (Đố Kỵ Cộng Hưởng / 3)) đồng minh khác ngẫu nhiên (tối đa 3 đồng minh)\n\n[BeforeAttack] Nhận +([Charge] - 1) Phạm Vi Tấn Công (tối đa 3)\n\n[EndSkill] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể để hồi cho (2 + (Đố Kỵ Cộng Hưởng / 2)) đồng minh có phần trăm HP thấp nhất bằng (Tầng [Charge] đã tiêu thụ)% HP (tối đa 5 đồng minh, tối đa 5%)\n\n[EndSkill] Nếu chủ thể là E.G.O Lobotomy::Nhân Danh Tình Yêu Và Thù Hận[TabExplain] Don Quixote, nhận 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Charge] (5 mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây [VillainMark] lên mục tiêu chính vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [Burst] (tối đa 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Nhân Danh Tình Yêu Và Thù Hận - Major Arcana Slave!!!",
+          "abName": "Nữ Hoàng Thù Hận",
+          "desc": "[BeforeAttack] Gán 1 [MagicalGirlResponse] cho (1 + (Đố Kỵ Cộng Hưởng / 3)) đồng minh khác ngẫu nhiên (tối đa 3 đồng minh)\n<style=\"highlight\">- Nếu chủ thể có [MagicalGirlAppear], đổi thành gán 2 [MagicalGirlResponse] cho (1 + (Đố Kỵ Cộng Hưởng / 3)) đồng minh khác ngẫu nhiên (tối đa 3 đồng minh)</style>\n\n[BeforeAttack] Nhận +([Charge] - 1) Phạm Vi Tấn Công (tối đa <style=\"highlight\">5</style>)\n[EndSkill] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể để hồi cho (2 + (Đố Kỵ Cộng Hưởng / 2)) đồng minh có phần trăm HP thấp nhất bằng (Tầng [Charge] đã tiêu thụ)% HP (tối đa 5 đồng minh, tối đa <style=\"highlight\">8</style>%)\n\n[EndSkill] Nếu chủ thể là E.G.O Lobotomy::Nhân Danh Tình Yêu Và Thù Hận[TabExplain] Don Quixote, nhận 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Charge] (5 mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây [VillainMark] lên mục tiêu chính vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [Burst] (tối đa <style=\"highlight\">3</style>)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nhân Danh Tình Yêu Và Thù Hận - Major Arcana Slave!!!",
+          "abName": "Nữ Hoàng Thù Hận",
+          "desc": "[BeforeAttack] Gán 1 [MagicalGirlResponse] cho (1 + (Đố Kỵ Cộng Hưởng / <style=\"highlight\">2</style>)) đồng minh khác ngẫu nhiên (tối đa <style=\"highlight\">4</style> đồng minh)\n- Nếu chủ thể có [MagicalGirlAppear], đổi thành gán 2 [MagicalGirlResponse] cho (1 + (Đố Kỵ Cộng Hưởng / <style=\"highlight\">2</style>)) đồng minh khác ngẫu nhiên (tối đa <style=\"highlight\">4</style> đồng minh)\n\n[BeforeAttack] Nhận +([Charge] - 1) Phạm Vi Tấn Công (tối đa 5)\n<style=\"highlight\">- Nếu chủ thể có [MagicalGirlAppear], đổi thành nhận +([Charge]) Phạm Vi Tấn Công (tối đa 5)</style>\n\n[EndSkill] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể để hồi cho (2 + (Đố Kỵ Cộng Hưởng / 2)) đồng minh có phần trăm HP thấp nhất bằng (Tầng [Charge] đã tiêu thụ)% HP (tối đa 5 đồng minh, tối đa <style=\"highlight\">10</style>%)\n\n[EndSkill] Nếu chủ thể là E.G.O Lobotomy::Nhân Danh Tình Yêu Và Thù Hận[TabExplain] Don Quixote, nhận 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">2</style> Tầng [Charge] (<style=\"highlight\">10</style> mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [VillainMark] lên mục tiêu chính vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [Burst] (tối đa <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Nếu chủ thể có [MagicalGirlAppear], gây +1 Tầng [Burst]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reversed Arcana Slave Cực Đại - Tẩy Trừ Thù Hận",
+          "abName": "Nữ Hoàng Thù Hận",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nhận +([Charge]) Phạm Vi Tấn Công (tối đa 5)\n\n[BeforeAttack] Tiêu thụ toàn bộ Tầng [Charge] và +1% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 20%)\n\n[BeforeAttack] Nếu mục tiêu chính có [VillainMark], +3% sát thương gây ra với mỗi [Charge] (tối đa 15%)\n\n[BeforeAttack] +5% sát thương gây ra với mỗi 3 Đố Kỵ Cộng Hưởng (tối đa 10%, làm tròn xuống)\n\n[BeforeAttack] Sức Mạnh Gốc -12 với mỗi Xu Nứt (tối đa -24)\n\n[EndSkill] Nếu chủ thể là E.G.O Lobotomy::Nhân Danh Tình Yêu Và Thù Hận[TabExplain] Don Quixote, nhận 1 [HystericGauge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Charge] (7 lần mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây [VillainMark] lên mục tiêu chính vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [Sinking] (tối đa 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Reversed Arcana Slave Cực Đại - Tẩy Trừ Thù Hận",
+          "abName": "Nữ Hoàng Thù Hận",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nhận +([Charge]) Phạm Vi Tấn Công (tối đa 5)\n<style=\"highlight\">- Nếu chủ thể có [NoVillain], đổi thành nhận +([Charge] + 1) Phạm Vi Tấn Công (tối đa 5)</style>\n\n[BeforeAttack] Tiêu thụ toàn bộ Tầng [Charge] và +<style=\"highlight\">2</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">40</style>%)\n\n[BeforeAttack] Nếu mục tiêu chính có [VillainMark], +<style=\"highlight\">5</style>% sát thương gây ra với mỗi [Charge] (tối đa <style=\"highlight\">25</style>%)\n<style=\"highlight\">- Nếu chủ thể có [HystericGauge], đổi thành +7% sát thương gây ra với mỗi [Charge] (tối đa 35%)</style>\n\n[BeforeAttack] +<style=\"highlight\">7</style>% sát thương gây ra với mỗi 2 Đố Kỵ Cộng Hưởng (tối đa <style=\"highlight\">21</style>%, làm tròn xuống)\n\n[BeforeAttack] Sức Mạnh Gốc -12 với mỗi Xu Nứt (tối đa -24)\n\n[EndSkill] Nếu chủ thể là E.G.O Lobotomy::Nhân Danh Tình Yêu Và Thù Hận[TabExplain] Don Quixote, nhận 1 [HystericGauge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge] (<style=\"highlight\">10</style> mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây [VillainMark] lên mục tiêu chính vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [Sinking] (tối đa <style=\"highlight\">3</style>)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Reversed Arcana Slave Cực Đại - Tẩy Trừ Thù Hận",
+          "abName": "Nữ Hoàng Thù Hận",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nhận +([Charge]) Phạm Vi Tấn Công (tối đa 5)\n- Nếu chủ thể có [NoVillain], đổi thành nhận +([Charge] + 1) Phạm Vi Tấn Công (tối đa 5)\n\n[BeforeAttack] Tiêu thụ toàn bộ Tầng [Charge] và deal <style=\"highlight\">+2.5%</style> more damage với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">50</style>%)\n\n[BeforeAttack] Nếu mục tiêu chính có [VillainMark], +5% sát thương gây ra với mỗi [Charge] (tối đa 25%)\n- Nếu chủ thể có [HystericGauge], đổi thành +<style=\"highlight\">10</style>% sát thương gây ra với mỗi [Charge] (tối đa <style=\"highlight\">50</style>%)\n\n[BeforeAttack] Deal+<style=\"highlight\">10</style>% damage với mỗi 2 Đố Kỵ Cộng Hưởng (tối đa <style=\"highlight\">30</style>%, làm tròn xuống)\n\n[BeforeAttack] Sức Mạnh Gốc -12 với mỗi Xu Nứt (tối đa -24)\n\n[EndSkill] Nếu chủ thể là E.G.O Lobotomy::Nhân Danh Tình Yêu Và Thù Hận[TabExplain] Don Quixote, nhận 1 [HystericGauge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge] (<style=\"highlight\">14</style> mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Gây [VillainMark] lên mục tiêu chính vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [Sinking] (tối đa <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Nếu chủ thể có [NoVillain], gây +1 Tầng [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2031011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[WinDuelEndSkill] Hồi 2% HP và 5 SP cho (2 + Đố Kỵ Cộng Hưởng / 2) đồng minh có phần trăm HP hiện tại thấp nhất (tối đa 3 đơn vị)\n[DefeatDuel] Nhận (Đố Kỵ Cộng Hưởng x 5) Khiên (tối đa 20)\n[DefeatDuel] +100% sát thương gây lên mục tiêu chính",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây 1 [ResultReduction] vào lượt kế (một lần mỗi lượt mỗi mục tiêu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[WinDuelEndSkill] Hồi <style=\"highlight\">4</style>% HP và 5 SP cho (2 + Đố Kỵ Cộng Hưởng / 2) đồng minh có phần trăm HP hiện tại thấp nhất (tối đa <style=\"highlight\">4</style> đơn vị)\n[DefeatDuel] Nhận (Đố Kỵ Cộng Hưởng x 5) Khiên (tối đa <style=\"highlight\">25</style>)\n[DefeatDuel] +<style=\"highlight\">150</style>% sát thương gây lên mục tiêu chính",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây 1 [ResultReduction] vào lượt kế (một lần mỗi lượt mỗi mục tiêu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[WinDuelEndSkill] Hồi <style=\"highlight\">6</style>% HP và 5 SP cho (2 + Đố Kỵ Cộng Hưởng / 2) đồng minh có phần trăm HP hiện tại thấp nhất (tối đa 4 đơn vị)\n[DefeatDuel] Nhận (Đố Kỵ Cộng Hưởng x 5) Khiên (tối đa <style=\"highlight\">30</style>)\n[DefeatDuel] +<style=\"highlight\">200</style>% sát thương gây lên mục tiêu chính",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây 1 [ResultReduction] vào lượt kế (một lần mỗi lượt mỗi mục tiêu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2031021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Ra Kéo Nhé. Người Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nỞ mốc 2+ Đố Kỵ Cộng Hưởng, Sức Mạnh Tổng +1\n[WinDuel] +60% sát thương gây lên mục tiêu chính\n[DefeatDuel] Nhận Khiên bằng (Đố Kỵ Cộng Hưởng x 5) (tối đa 20)\n[DefeatDuel] Kỹ Năng này gây thêm +1 [ResultReduction]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ResultReduction] vào lượt kế (một lần mỗi lượt mỗi mục tiêu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Tổng +1 <style=\"highlight\">với mỗi 2 Đố Kỵ Cộng Hưởng (tối đa 2)</style>\n[WinDuel] +<style=\"highlight\">80</style>% sát thương gây lên mục tiêu chính\n[DefeatDuel] Nhận Khiên bằng (Đố Kỵ Cộng Hưởng x 5) (tối đa <style=\"highlight\">25</style>)\n[DefeatDuel] Kỹ Năng này gây thêm +1 [ResultReduction]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ResultReduction] vào lượt kế (một lần mỗi lượt mỗi mục tiêu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Tổng +1 với mỗi 2 Đố Kỵ Cộng Hưởng (tối đa <style=\"highlight\">3</style>)\n[WinDuel] +<style=\"highlight\">100</style>% sát thương gây lên mục tiêu chính\n[DefeatDuel] Nhận Khiên bằng (Đố Kỵ Cộng Hưởng x 5) (tối đa <style=\"highlight\">30</style>)\n[DefeatDuel] Kỹ Năng này gây thêm +1 [ResultReduction]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ResultReduction] vào lượt kế (một lần mỗi lượt mỗi mục tiêu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

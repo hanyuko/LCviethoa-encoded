@@ -1,0 +1,75 @@
+{
+  "dataList": [
+    {
+      "id": 815901,
+      "name": "Kháng Nguyên Tội",
+      "desc": "Trừ khi chủ thể Bị Choáng hoặc Bộ Phận Bị Phá Hủy, giảm 5 Ngưỡng Choáng khi Kỹ Năng Tấn Công Đánh Trúng"
+    },
+    {
+      "id": 816001,
+      "name": "Kháng Nguyên Tội",
+      "desc": "Trừ khi chủ thể Bị Choáng hoặc Bộ Phận Bị Phá Hủy, -50% sát thương phải nhận từ [Burst]"
+    },
+    {
+      "id": 816501,
+      "name": "Nỗi Bất An Vô Tận",
+      "desc": "Khi HP dưới 65%: nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] khi Thắng Giao Tranh\nKhi HP dưới 40%: nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] Khi Dùng\nHiệu ứng tiếp tục duy trì dù không còn kích hoạt được nữa, miễn là nội tại đã được kích hoạt ít nhất một lần.",
+      "summary": "Nhận một hiệu ứng cường hóa cho bản thân có điều kiện."
+    },
+    {
+      "id": 816502,
+      "name": "Tư Thù Cá Nhân",
+      "desc": "Sau khi hồi phục từ lần Choáng đầu và Thắng Giao Tranh, gây thêm sát thương Phẫn Nội bằng 10% sát thương gây ra."
+    },
+    {
+      "id": 816503,
+      "name": "Săn Mồi",
+      "desc": "Khi Giết Địch, hồi 200 Máu lên Lõi và Bộ Phận\nNhận 1 [Agility], 3 [DefenseUp], và 2 [AttackUp] vào lượt kế."
+    },
+    {
+      "id": 816504,
+      "name": "Đánh Dấu",
+      "desc": "Ưu tiên mục tiêu có [AaCfPbBe]"
+    },
+    {
+      "id": 816401,
+      "name": "Căm Hận Bản Thân",
+      "desc": "Toàn bộ Kỹ Năng nhắm vào Heathcliff.\nThắng Ải khi Heathcliff chết."
+    },
+    {
+      "id": 816402,
+      "name": "Cảm Xúc Bùng Nổ",
+      "desc": "WNếu chủ thể sở hữu hiệu ứng Nguyên Tội 'Bùng Nổ' Nguyên tội: Giảm khả năng kháng Nguyên Tội tương ứng, nhưng tăng khả năng chống chịu với các Nguyên tội khác; kích hoạt hiệu ứng đặc biệt khi trúng đòn."
+    },
+    {
+      "id": 816403,
+      "name": "Oán Hận Chi Phối",
+      "desc": "Nếu chủ thể mất hiệu ứng Nguyên tội 'Bùng Nổ' trước khi kết thúc lượt 2 kể từ khi nhận hiệu ứng, nhận [AaCfPbBd] vào 2 lượt kế, và hình thành Hành Vi Chiến Đấu mới.\nNếu hiệu ứng không mất hiệu lực trong khoảng thời gian đó, nhận 6 [Enhancement] và 3 [Agility] vào lượt kế"
+    },
+    {
+      "id": 816404,
+      "name": "NOTHING TO SEE HERE",
+      "desc": "NOTHING TO SEE HERE"
+    },
+    {
+      "id": 816405,
+      "name": "Oán Hận Chi Phối",
+      "desc": "Nếu chủ thể không đánh trúng Heathcliff trong lượt này, mất 1 Cảm Xúc Bùng Nổ\nNếu chủ thể bị Choáng vào Cuối Lượt, mất 3 Cảm xúc Bùng Nổ\nNếu chủ thể không sở hữu 3+ Cảm Xúc Bùng Nổ ở mỗi lượt; ở cuối lượt, nếu chỉ còn 1 Cảm Xúc Bùng Nổ, mất hiệu ứng đó"
+    },
+    {
+      "id": 816406,
+      "name": "Trái Tim Phục Hận",
+      "desc": "Đầu Lượt: Nếu SP không ở mức -45, hồi 15 SP.\nCuối Lượt: Nếu Hoảng Loạn, hồi phục vào đầu lượt kế và hồi SP về lại 0.\nCuối Lượt: Nếu chủ thể hồi phục sau khi Hoảng Loạn, nhận 2 [Enhancement] vào Đầu Lượt kế"
+    },
+    {
+      "id": 816505,
+      "name": "Nơi Dành Cho Ta",
+      "desc": "HP không thể rớt dưới 40% trong 1 lượt.\nHình thành hành vi chiến đấu mới"
+    },
+    {
+      "id": 816407,
+      "name": "Phẫn Nộ Lộ Rõ",
+      "desc": "Nếu chủ thể không đánh trúng trong lượt này, mất 1 Cảm Xúc Bùng Nổ\nNếu chủ thể bị Choáng vào Cuối Lượt, mất 3 Cảm xúc Bùng Nổ\nNếu chủ thể không sở hữu 3+ Cảm Xúc Bùng Nổ ở mỗi lượt; ở cuối lượt, nếu chỉ còn 1 Cảm Xúc Bùng Nổ, mất hiệu ứng đó"
+    }
+  ]
+}

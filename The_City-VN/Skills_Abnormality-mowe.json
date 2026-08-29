@@ -1,0 +1,227 @@
+{
+  "dataList": [
+    {
+      "id": 835001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hãy Quỳ Lạy Trước Ta",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lũ Đáng Khinh",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cút... Cút Ra Ngay!",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Giao Tranh +1\n[WhenUse] +5% sát thương gây ra với mỗi Tầng [Laceration] trên mục tiêu (tối đa 20%)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hoàng Tử của Buôi Diễu Hành",
+          "desc": "[StartBattle] Gain Phạm Vi Tấn Công bằng số lượng mục tiêu có [Laceration] (tối đa 5)\n[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Gốc +1\n[WhenUse] Nếu mục tiêu có 3+ [Laceration], Sức Mạnh Xu +1\n[DefeatDuel] Mất 1 [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Máu... Máu... Máu...!",
+          "desc": "[WhenUse] Nếu mục tiêu có 8+ [Laceration], Sức Mạnh Xu +1\n[DefeatDuel] Mất 1 [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 10+ [Laceration], Xu tiếp theo +20% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [KeptBlood]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Để Ta Yên...!",
+          "desc": "[WhenUseEvade] Sức Mạnh Gốc +1 với mỗi Tầng [Laceration] trên mục tiêu (tối đa 4)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta... là Hoàng Tử... của Buổi Diễu Hành này...!",
+          "desc": "[CantDuel]\n[WhenUse] Hiệu ứng hồi phục của Huyết Giáp[TabExplain] Đao gấp đôi\n[WhenUse] Đặt SP về 0\n[EndSkill] Nhận 10 [KeptBlood]\nTrong lượt này không thể bị Choáng; kết thúc lượt sau khi sử dụng Kỹ Năng này.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Sẽ... Không Bao Giờ... Trở Về Nơi Đó... Nữa...!",
+          "desc": "[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 5 [Laceration] trên mục tiêu chính (tối đa 3)\n[WhenUse] Nếu mục tiêu chính có 4+ [Laceration], Sức Mạnh Xu +1\n[WhenUse] +5% sát thương gây ra với mỗi [Laceration] trên mục tiêu chính (tối đa 20%)\n[WhenUse] Hiệu ứng hồi phục của Huyết Giáp[TabExplain] Đao gấp đôi\n[EndSkill] Nhận 10 [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

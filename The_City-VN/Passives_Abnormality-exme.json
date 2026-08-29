@@ -1,0 +1,118 @@
+{
+  "dataList": [
+    {
+      "id": 145004,
+      "name": "Headsplitting Memory",
+      "desc": "On Clash Lose, nhận 1 [RegretSCorp] (mỗi lượt một lần)"
+    },
+    {
+      "id": 144804,
+      "name": "Ch'unokkun",
+      "desc": "If this unit inflicted [TiedRope] on target, nhận [TiedWithRope]",
+      "flavor": "             \n                        \n                                              "
+    },
+    {
+      "id": 144801,
+      "name": "Scouring Hunterband [推刷巾]",
+      "desc": "Deal +5% damage for every 1 [Binding] on target (max 15%)",
+      "flavor": "        \n                                              \n                                               "
+    },
+    {
+      "id": 144802,
+      "name": "Tracking Traces",
+      "desc": "On Clash Win, nhận 2 [Breath] for every [ScratchesHurt] on target"
+    },
+    {
+      "id": 144803,
+      "name": "Throwing the Ohra Bond",
+      "desc": "On Hit, if target is Staggered, inflict 2 [Binding] vào lượt kế (mỗi lượt một lần)"
+    },
+    {
+      "id": 144805,
+      "name": "Undertake Orders",
+      "desc": "Nhận [SlaveHunersPower] for this Encounter"
+    },
+    {
+      "id": 145201,
+      "name": "Arranged Information",
+      "desc": "If this unit inflicted [TakePicture] on an enemy, hồi 10 SP"
+    },
+    {
+      "id": 145202,
+      "name": "Firm Nailing",
+      "desc": "On triggering [VibrationExplosion] on an enemy, raise target's Stagger Threshold by [LensmanNail] Stack"
+    },
+    {
+      "id": 145204,
+      "name": "Undertake Orders",
+      "desc": "Nhận [LensmanPower] for this Encounter"
+    },
+    {
+      "id": 145001,
+      "name": "Swordplay of the Homeland [Sal] - Great Hwando",
+      "desc": "Bắt Đầu Ải: Nhận 5 [ChoiSwordsmanship]\n\n<color=#ff6000><mark color=#ff000040><b><u>Assume a different Battleform of the Homeland every 3 turns</color></mark></b></u>\n\nCuối Lượt: If this unit has Shield, nhận 5 [Breath] and +2 Tầng [Breath] vào lượt kế\n\nWhen the following conditions are met, use a pattern that includes the \"Bow of the Homeland - Arrowloose\" Skill\n- When this unit lost all Clashes for 2 turns in a row (does not check for Unopposed Attacks)\n- In the turn after the turn in which this unit spent in Stagger\n- When in Low Morale or Panic",
+      "flavor": "                    \n                \n                   "
+    },
+    {
+      "id": 145002,
+      "name": "Dujeong Brigandine [Sal] - Iron Bulwark",
+      "desc": "Take -30% damage from [Combustion], [Laceration], [Vibration], [Burst], [Sinking] (rounded down)\n\nNhận the effects of [PanicChangeLock]; If this unit is Panicked at Turn End, reset SP to 45\n\nUpon entering the Encounter for the first time, nhận 5 [ChoiSwordsmanshipShield]\n\n<color=#ff6000><mark color=#ff000040><b><u>When [ChoiSwordsmanshipShield] expires, end Encounter</color></mark></b></u>",
+      "flavor": "                      \n                              \n                                \n                                          "
+    },
+    {
+      "id": 145003,
+      "name": "Martial Arts of Perseverance",
+      "desc": "On Clash Win, nhận +2 Tầng [Breath] (2 lần mỗi lượt)\n\nIf the target this unit's Skill hit has less than 5 Lượng [Laceration], inflict 1 [Laceration] and +2 Tầng [Laceration] at Attack End (once per Skill, 2 lần mỗi lượt, prioritize the main target)",
+      "flavor": "                      \n               \n                          "
+    },
+    {
+      "id": 145005,
+      "name": "Yield My Flesh",
+      "desc": "Gây và nhận +20% sát thượng on Critical Hit against and from Bamboo-hatted Kim",
+      "flavor": "   "
+    },
+    {
+      "id": 145006,
+      "name": "Developed Memories",
+      "desc": "Upon entering the Encounter, nhận 3 [PhotoTransitionChoi]\n\n<color=#ff6000><mark color=#ff000040><b><u>Đầu Lượt: At 0 [PhotoTransitionChoi] Stack, Retreat and transition into a different location</color></mark></b></u>\n\nWhen Returning to the field, based on current Battleform of the Homeland, nhận or lose [ChoiSwordsmanship]\n- When in [ChoiSwordsmanshipOne]: Nhận Stack\n- When in [ChoiSwordsmanshipMany]: Lose Stack"
+    },
+    {
+      "id": 145007,
+      "name": "Mismatched Memories",
+      "desc": "Đầu Lượt: Nhận the following effects:\n- When in [ChoiSwordsmanshipOne]: Khi còn dưới 5 [ChoiSwordsmanship] Stack, nhận (5 - [ChoiSwordsmanship] Stack) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n- When in [ChoiSwordsmanshipMany]: At more than 5 [ChoiSwordsmanship] Stack, nhận <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u> equal to surplus [ChoiSwordsmanship] Stack past 5 "
+    },
+    {
+      "id": 145101,
+      "name": "Swordplay of the Homeland [Sal] - Rend Flesh from Flesh",
+      "desc": "Bắt Đầu Ải: Nhận 5 [ChoiSwordsmanship]\n\nAssume a different Battleform of the Homeland every 3 turns\n\nOn Hit using a Slash Skill, nhận 1 Lượng [Breath] (một lần mỗi Kỹ Năng)\n\nWhen the following conditions are met, use a pattern that includes the \"Bow of the Homeland - Arrowloose\" Skill\n- When this unit lost all Clashes for 2 turns in a row (does not check for Unopposed Attacks)\n- Turn after Stagger\n- When in Low Morale or Panic\n\nĐầu Lượt: At Min or Max [ChoiSwordsmanship] Stacks, use a powerful Skill\nIf this unit used the \"Bow of the Homeland - Arrowloose\" Skill in the last turn, use a powerful Skill regardless of [ChoiSwordsmanship] Stack on self\nAt 55% or lower HP, use a powerful Skill regardless of [ChoiSwordsmanship] Stack on self",
+      "flavor": "                    \n                           \n         "
+    },
+    {
+      "id": 145104,
+      "name": "Swordplay of the Homeland [Sal] - Shift Battleform",
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>Đầu Lượt: Nhận or lose 2 [ChoiSwordsmanship] Stack based on Battleform of the Homeland on self (does not activate in the first turn of the Encounter)</color></mark></b></u>\n- [ChoiSwordsmanshipOne]: Nhận Stack\n- [ChoiSwordsmanshipMany]: Lose Stack\n\nIn the turn where this unit equipped Envy Skills, this unit will not be affected by [ChoiSwordsmanship] Stack adjustment effects, and will <color=#ff6000><mark color=#ff000040><b><u>reset [ChoiSwordsmanship] Stack to 5 vào lượt kế</color></mark></b></u>"
+    },
+    {
+      "id": 145105,
+      "name": "Dujeong Brigandine [Sal] - Great Mountain",
+      "desc": "Take -30% damage from [Combustion], [Laceration], [Vibration], [Burst], [Sinking] (rounded down)\n\nNhận the effects of [PanicChangeLock]; If this unit is Panicked at Turn End, reset SP to 45\n\nĐầu Lượt: Nhận the following effects:\n\n- When in [ChoiSwordsmanshipOne]: Khi còn dưới 5 [ChoiSwordsmanship] Stack, nhận (5 - [ChoiSwordsmanship] Stack) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n\n- When in [ChoiSwordsmanshipMany]: At more than 5 [ChoiSwordsmanship] Stack, nhận <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u> equal to surplus [ChoiSwordsmanship] Stack past 5",
+      "flavor": "                        \n                        \n                    \n                                "
+    },
+    {
+      "id": 146101,
+      "name": "Scattering Memories",
+      "desc": "On death, give +1 E.G.O resource of the least-owned Affinity",
+      "summary": "Give E.G.O resource on death"
+    },
+    {
+      "id": 146001,
+      "name": "Location-type Distortion: Photo Lab",
+      "desc": "This unit cannot be killed, and does not take any damage from sources other than Skill damage from Skills attacking this unit as the main target\n\nThis unit's Speed is fixed to 1\n\nĐầu Lượt after entering the Encounter: Nhận 3 [PhotoTransitionChoiCamera]\n\n<color=#ff6000><mark color=#ff000040><b><u>If this unit's HP reaches 1, or if [PhotoTransitionChoiCamera] reaches 0 Stack at Turn Start</color></mark></b></u>, activate the following:\n- Remove self and N Corp. Class 2 Staff from the Encounter\n- Return Im Gyeong-eop to the Encounter\n- Move the battle to a different location"
+    },
+    {
+      "id": 146002,
+      "name": "From Memory to Record",
+      "desc": "Combat Start: If the battlefield has returned from S Corp. to N Corp. this turn, hồi 15 SP for all Sinners"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1017,
+      "panicName": "Cưỡng Chế Có Kỷ Luật",
+      "lowMoraleDescription": "Mất 5 SP khi Thua Giao Tranh. Nhận 1 [Agility] vào lượt kế khi bị đánh (tối đa 2)",
+      "panicDescription": "Nhận 2 [Vulnerable]. Nhận 1 [Agility] vào lượt kế khi bị đánh (tối đa 3)"
+    },
+    {
+      "id": 1018,
+      "panicName": "Tiếng Vọng Của Trang Viên",
+      "lowMoraleDescription": "Chủ thể -1 Sức Mạnh Giao Tranh. +10% sát thương gây ra khi Xu Ngửa",
+      "panicDescription": "Chủ thể -2 Sức Mạnh Giao Tranh. Nhận 1 [AttackDmgUp]"
+    },
+    {
+      "id": 1020,
+      "panicName": "Nhức Óc",
+      "lowMoraleDescription": "Chủ thể mất 2 HP mỗi khi Giao Tranh. Đầu Lượt: Nhận 1 [AttackUp].",
+      "panicDescription": "Chủ thể mất 3 HP mỗi khi Giao Tranh. Đầu Lượt: Nhận 2 [AttackUp]."
+    }
+  ]
+}

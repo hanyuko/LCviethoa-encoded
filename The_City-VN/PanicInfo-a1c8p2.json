@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "id": 1043,
+      "panicName": "Eldtree Mutation",
+      "lowMoraleDescription": "Nhận 1 [AttackDmgUp], 1 [Vulnerable], và 1 [BurstVulnerable]",
+      "panicDescription": "Nhận 2 [AttackDmgUp], 2 [Vulnerable], và 2 [BurstVulnerable]"
+    },
+    {
+      "id": 1044,
+      "panicName": "Heart of Evil",
+      "lowMoraleDescription": "Sức Mạnh Giao Tranh +2 against targets with [OminousTalisman]\nĐầu Lượt: nhận 2 [AttackDmgUp] và 1 [Vulnerable]",
+      "panicDescription": "Sức Mạnh Giao Tranh +3 against targets with [OminousTalisman]\nĐầu Lượt: nhận 3 [AttackDmgUp] và 2 [Vulnerable]"
+    },
+    {
+      "id": 1045,
+      "panicName": "Heart of Oppressive Evil",
+      "lowMoraleDescription": "Sức Mạnh Giao Tranh +2 against targets with [OminousTalisman]\nĐầu Lượt: nhận 3 [AttackDmgUp] và 1 [Vulnerable]",
+      "panicDescription": "Sức Mạnh Giao Tranh +3 against targets with [OminousTalisman]\nĐầu Lượt: nhận 4 [AttackDmgUp] và 2 [Vulnerable]"
+    },
+    {
+      "id": 1047,
+      "panicName": "Giả Khâu",
+      "lowMoraleDescription": "+10% sát thương gây ra against targets that aren't Hồng Lộ",
+      "panicDescription": "+20% sát thương gây ra against targets that aren't Hồng Lộ"
+    },
+    {
+      "id": 1042,
+      "panicName": "Charge Circuitry Countercurrent",
+      "lowMoraleDescription": "When Clashing against targets with [Burst], nhận +3 Tầng [Charge] và 1 [Vulnerable] (2 lần mỗi lượt)",
+      "panicDescription": "When Clashing against targets with [Burst], nhận +5 Tầng [Charge], 1 [AttackDmgUp], và 2 [Vulnerable] (2 lần mỗi lượt)"
+    },
+    {
+      "id": 9995,
+      "panicName": "Catching Breath",
+      "lowMoraleDescription": "Đầu Lượt: nhận 2 [DefenseUp] and lose 2 Lượng [Breath]",
+      "panicDescription": "Đầu Lượt: nhận 5 [DefenseUp] and lose 5 Lượng [Breath]"
+    },
+    {
+      "id": 1055,
+      "panicName": "Double-edged Feather",
+      "lowMoraleDescription": "Đầu Lượt: gain 1 Fragile và 1 HP Healing Boost. Khi Đánh Trúng, inflict 1 Rupture và 1 Bleed",
+      "panicDescription": "Đầu Lượt: gain 2 Fragile và 2 HP Healing Boost. Khi Đánh Trúng, inflict 1 Rupture và 1 Bleed"
+    },
+    {
+      "id": 1056,
+      "panicName": "Angst",
+      "lowMoraleDescription": "Sức Mạnh Giao Tranh +2 against targets with [OminousTalisman]\nĐầu Lượt: nhận 2 [AttackDmgUp] và 1 [Vulnerable]",
+      "panicDescription": "Sức Mạnh Giao Tranh +3 against targets with [OminousTalisman]\nĐầu Lượt: nhận 3 [AttackDmgUp] và 2 [Vulnerable]"
+    },
+    {
+      "id": 1058,
+      "panicName": "Charge Order",
+      "lowMoraleDescription": "Đầu Lượt: nhận 1 [Vulnerable] and gán 1 [AttackDmgUp] lên toàn bộ đồng minh",
+      "panicDescription": "Đầu Lượt: nhận 2 [Vulnerable] and gán 2 [AttackDmgUp] lên toàn bộ đồng minh"
+    }
+  ]
+}

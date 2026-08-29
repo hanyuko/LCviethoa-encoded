@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "KeptBlood",
+      "name": "Máu Dự Trữ",
+      "desc": "     \n          \n        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyCrave",
+      "name": "Thèm Khát Máu Tươi",
+      "desc": "   <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>\n     <sprite name=\"KeptBlood\"><color=#fac400>  </color>\n       <sprite name=\"KeptBlood\"><color=#fac400>  </color>      <sprite name=\"Vulnerable\"><color=#e30000> </color>  <sprite name=\"Agility\"><color=#fac400> </color>   <sprite name=\"AttackUp\"><color=#fac400>   </color>        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodPocket_LowMorale",
+      "name": "Khát Máu",
+      "desc": "    <sprite name=\"Vulnerable\"><color=#e30000> </color>  <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodPocket_Panic",
+      "name": "Khát Máu",
+      "desc": "    <sprite name=\"Vulnerable\"><color=#e30000> </color>  <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HardenedBlood",
+      "name": "Máu Đông",
+      "desc": "              ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

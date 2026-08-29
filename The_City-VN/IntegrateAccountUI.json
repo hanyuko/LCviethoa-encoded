@@ -1,0 +1,104 @@
+{
+  "dataList": [
+    {
+      "id": "receive_integrate_account_code",
+      "content": "Gửi Mã Sáp Nhập"
+    },
+    {
+      "id": "receive_integrate_account_code_description",
+      "content": "Sau khi bạn nhận mã, vui lòng hoàn thành thủ tục trước khi mã hết hạn."
+    },
+    {
+      "id": "request_integrate_account_code",
+      "content": "Yêu Cầu Mã"
+    },
+    {
+      "id": "input_integrate_account_code",
+      "content": "Nhập Mã Sáp Nhập"
+    },
+    {
+      "id": "input_code",
+      "content": "Xác Nhận Mã"
+    },
+    {
+      "id": "integrate_account_code",
+      "content": "Mã Sáp Nhập Tài Khoản"
+    },
+    {
+      "id": "input_integrate_account_code_description",
+      "content": "Vui lòng nhập UID và mã được gửi."
+    },
+    {
+      "id": "unable_to_integrate_account",
+      "content": "Không thể sáp nhập tài khoản."
+    },
+    {
+      "id": "not_exist_integrate_code",
+      "content": "Mã sáp nhập không tồn tại."
+    },
+    {
+      "id": "select_account_for_integrate",
+      "content": "Vui lòng chọn tài khoản để sáp nhập."
+    },
+    {
+      "id": "current_account",
+      "content": "Tài Khoản Hiện Tại"
+    },
+    {
+      "id": "new_account",
+      "content": "Tài Khoản Mới"
+    },
+    {
+      "id": "warning_none_integrate_account_removed",
+      "content": "※ Tài khoản không được chọn sẽ bị xóa."
+    },
+    {
+      "id": "ask_to_integrate_account",
+      "content": "Sáp nhập dữ liệu cho tài khoản đã chọn?"
+    },
+    {
+      "id": "ask_to_integrate_account_warning",
+      "content": "Sáp nhập dữ liệu cho tài khoản đã chọn?"
+    },
+    {
+      "id": "receiving_integrate_account_code",
+      "content": "Đang gửi mã…"
+    },
+    {
+      "id": "success_integrate_account_message",
+      "content": "Sáp nhập dữ liệu tài khoản thành công."
+    },
+    {
+      "id": "warning_before_integrate",
+      "content": "<color=red>Tài khoản không được chọn sẽ bị xóa.</color>"
+    },
+    {
+      "id": "link_error_link_failed",
+      "content": "Không thể sáp nhạp"
+    },
+    {
+      "id": "link_error_expired",
+      "content": "Mã sáp nhập đã hét hạn."
+    },
+    {
+      "id": "link_error",
+      "content": "Tích hợp dữ liệu tài khoản thất bại.\nBạn không thể sáp nhập dữ liệu tài khoản cùng nền tảng hoặc tài khoản khách."
+    },
+    {
+      "id": "input_unlink_account",
+      "content": "Hủy liên kết tài khoản"
+    },
+    {
+      "id": "alarm_unlink_account",
+      "content": "Hủy liên kết tài khoản thành công"
+    },
+    {
+      "id": "unlink_account_ask_title",
+      "content": "Hủy liên kết tài khoản"
+    },
+    {
+      "id": "unlink_account_ask_content",
+      "content": "Hủy liên kết tài khoản sau.\nMột khi hủy liên kết, bạn không thể hủy liên kết lần nữa trong {0} ngày."
+    }
+  ]
+}

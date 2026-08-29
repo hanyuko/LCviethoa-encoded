@@ -1,0 +1,1039 @@
+{
+  "dataList": [
+    {
+      "id": 2020511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chuyển 2 [Combustion] trên mục tiêu thành 1 [DefenseDown] (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "<style=\"highlight\">[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gây 3 [Combustion]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Chuyển 2 [Combustion] trên mục tiêu thành 1 [DefenseDown] (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), Phạm Vi Tấn Công +1\n<style=\"highlight\">Ở mốc 6+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), tăng thêm +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Gây 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Chuyển 2 [Combustion] trên mục tiêu thành 1 [DefenseDown] (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Chuyển 2 [Combustion] trên mục tiêu thành 1 [DefenseDown] (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Gây 2 [Binding] vào lượt kế</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Chuyển 2 [Combustion] trên mục tiêu thành 1 [DefenseDown] (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), Phạm Vi Tấn Công +1\n<style=\"highlight\">Ở mốc 6+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), tăng thêm +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Chuyển 2 [Combustion] trên mục tiêu thành 1 [DefenseDown] (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vĩnh Hằng",
+          "abName": "Vịt Thời Gian",
+          "desc": "Nếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(2.5 x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa 25%)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây Lượng [Vibration] bằng Cộng Hưởng cao nhất (tối đa 5)\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration] và +5 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationContinue]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm một nửa Tốc Độ Tối Đa của mục tiêu vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vĩnh Hằng",
+          "abName": "Vịt Thời Gian",
+          "desc": "Nếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(<style=\"highlight\">3.5</style> x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa <style=\"highlight\">35%</style>)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây Lượng [Vibration] bằng Cộng Hưởng cao nhất (tối đa 5)\n<style=\"highlight\">- Nếu Cộng Hưởng cao nhất là Lười Biếng Cộng Hưởng Tuyệt Đối, gây Tầng [Vibration] bằng Lượng [Vibration] đã gây (tối đa 5)</style>\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration] và +5 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationContinue]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm một nửa Tốc Độ Tối Đa của mục tiêu vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vĩnh Hằng",
+          "abName": "Vịt Thời Gian",
+          "desc": "Nếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(<style=\"highlight\">5</style> x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa <style=\"highlight\">50%</style>)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây Lượng [Vibration] bằng (<style=\"highlight\">2</style> x (Cộng Hưởng cao nhất)) (tối đa <style=\"highlight\">10</style>)\n- Nếu Cộng Hưởng cao nhất là Lười Biếng Cộng Hưởng Tuyệt Đối, gây Tầng [Vibration] bằng Lượng [Vibration] đã gây (tối đa <style=\"highlight\">10</style>)\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [Vibration] và <style=\"highlight\">+10</style> Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationContinue]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm một nửa Tốc Độ Tối Đa của mục tiêu vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vĩnh Hằng",
+          "abName": "Vịt Thời Gian",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nNếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(1.5 x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa 12%)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây 3 Lượng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationContinue]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm một nửa Tốc Độ Tối Đa của mục tiêu vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vĩnh Hằng",
+          "abName": "Vịt Thời Gian",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nNếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(<style=\"highlight\">2</style> x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa <style=\"highlight\">16%</style>)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây Lượng [Vibration] bằng Cộng Hưởng cao nhất (tối đa 4)\n<style=\"highlight\">- [BeforeAttack] Nếu Cộng Hưởng cao nhất là Lười Biếng Cộng Hưởng Tuyệt Đối, gây +2 Tầng [Vibration]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +3 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationContinue]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm một nửa Tốc Độ Tối Đa của mục tiêu vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vĩnh Hằng",
+          "abName": "Vịt Thời Gian",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nNếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(<style=\"highlight\">2.5</style> x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa <style=\"highlight\">20%</style>)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây Lượng [Vibration] bằng Cộng Hưởng cao nhất (tối đa <style=\"highlight\">5</style>)\n- [BeforeAttack] Nếu cộng hưởng cao nhất là Lười Biếng Cộng Hưởng Tuyệt Đối, <style=\"highlight\">gây Tầng [Vibration] bằng Lượng [Vibration] đã gây (tối đa 5)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Vibration] và <style=\"highlight\">+5</style> Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationContinue]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm một nửa Tốc Độ Tối Đa của mục tiêu vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "Sức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "<style=\"highlight\">Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1</style>\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n<style=\"highlight\">[BeforeAttack] Nhận 2 [Agility] vào lượt kế\n[BeforeAttack] Ở mốc 4+ (Phàm Ăn Cộng Hưởng hoặc Dục Vọng), nhận +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+2</style> Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nhận 2 [Agility] vào lượt kế\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, Phạm Vi Tấn Công +1\n<style=\"highlight\">- Nếu đó là Phàm Ăn Cộng Hưởng, Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Snare]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1</style>\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n<style=\"highlight\">[BeforeAttack] Nhận 2 [Agility] vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Snare]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] +2% sát thương gây ra với mỗi [Burst] trên mục tiêu (tối đa 30%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nNếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nhận 2 [Agility] vào lượt kế\n<style=\"highlight\">[EndSkill] Nếu mục tiêu Bị Choáng hoặc bị đánh bại, nhận 1 [ShamrockResultUp] vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+2</style> Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Snare]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] +2% sát thương gây ra với mỗi [Burst] trên mục tiêu (tối đa <style=\"highlight\">60%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa 4)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, và gán thêm 1 [ReleaseBreath] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa <style=\"highlight\">6</style>)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, và gán thêm 1 [ReleaseBreath] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nhận +1 Tầng [Breath]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+(Lượng [Breath] + Tầng [Breath])% sát thương gây ra khi Trí Mạng (tối đa 20%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa 6)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, và gán thêm 1 [ReleaseBreath] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+(Lượng [Breath] + Tầng [Breath])% sát thương gây ra khi Trí Mạng (tối đa <style=\"highlight\">40%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nếu Lượng [Breath] dưới 20, nhận lên tới 20 Lượng [Breath] và tiêu thụ (Lượng [Breath] nhận được x 2)% HP trên chủ thể\n- Không thể Bị Choáng hoặc bị đánh bại do hiệu ứng này\n[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa 4)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, đồng thời gán thêm 1 [ReleaseBreath] và 1 [IndigoDamageUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nếu Lượng [Breath] dưới 20, nhận lên tới 20 Lượng [Breath] và tiêu thụ (Lượng [Breath] nhận được x 2)% HP trên chủ thể\n- Không thể Bị Choáng hoặc bị đánh bại do hiệu ứng này\n[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa <style=\"highlight\">6</style>)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, đồng thời gán thêm 1 [ReleaseBreath] và 1 [IndigoDamageUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nhận +1 Tầng [Breath]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+(Lượng [Breath] + Tầng [Breath])% sát thương gây ra khi Trí Mạng (tối đa 20%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nếu Lượng [Breath] dưới 20, nhận lên tới 20 Lượng [Breath] và tiêu thụ (Lượng [Breath] nhận được x 2)% HP trên chủ thể\n- Không thể Bị Choáng hoặc bị đánh bại do hiệu ứng này\n[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa 6)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, đồng thời gán thêm 1 [ReleaseBreath] và 1 [IndigoDamageUp] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+(Lượng [Breath] + Tầng [Breath])% sát thương gây ra khi Trí Mạng (tối đa <style=\"highlight\">40%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mệnh Lệnh: Hủy Diệt",
+          "abName": "Kal'tsit",
+          "desc": "Nếu mục tiêu chính có [Combustion] hoặc [Burst], Sức Mạnh Tổng +1\n[BeforeAttack] +1% sát thương gây ra với mỗi 1 (Lượng [Burst] + Tầng [Burst]) trên mục tiêu chính (tối đa 15%)\n[EndSkill] Nhận 4 [CuredFilm]\n[EndSkill] Hồi 15% HP Tối Đa cho chủ thể và 1 đồng minh có phần trăm HP thấp nhất\n- Nếu chủ thể đang ở mức HP Tối Đa, đổi thành hồi cho 2 đồng minh khác\n[EndSkill] Hồi 10 SP cho 2 đồng minh có SP thấp nhất, bao gồm cả chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mệnh Lệnh: Hủy Diệt",
+          "abName": "Kal'tsit",
+          "desc": "Nếu mục tiêu chính có [Combustion] hoặc [Burst], Sức Mạnh Tổng +<style=\"highlight\">2</style>\n[BeforeAttack] +1% sát thương gây ra với mỗi 1 (Lượng [Burst] + Tầng [Burst]) trên mục tiêu chính (tối đa 15%)\n<style=\"highlight\">- Nếu chủ thể có [CuredFilm], tăng hiệu quả hiệu ứng này và giới hạn tối đa lên 1.5 lần</style>\n[EndSkill] Nhận <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Hồi <style=\"highlight\">20</style>% HP Tối Đa cho chủ thể và 1 đồng minh có phần trăm HP thấp nhất\n- Nếu chủ thể đang ở mức HP Tối Đa, đổi thành hồi cho 2 đồng minh khác\n[EndSkill] Hồi 10 SP cho 2 đồng minh có SP thấp nhất, bao gồm cả chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mệnh Lệnh: Hủy Diệt",
+          "abName": "Kal'tsit",
+          "desc": "Nếu mục tiêu chính có [Combustion] hoặc [Burst], Sức Mạnh Tổng +<style=\"highlight\">3</style>\n[BeforeAttack] +1% sát thương gây ra với mỗi 1 (Lượng [Burst] + Tầng [Burst]) trên mục tiêu chính (tối đa <style=\"highlight\">25</style>%)\n- Nếu chủ thể có [CuredFilm], tăng hiệu quả hiệu ứng này và giới hạn tối đa lên <style=\"highlight\">2</style> lần\n[EndSkill] Nhận <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Hồi <style=\"highlight\">30</style>% HP Tối Đa cho chủ thể và 1 đồng minh có phần trăm HP thấp nhất\n- Nếu chủ thể đang ở mức HP Tối Đa, đổi thành hồi cho 2 đồng minh khác\n[EndSkill] Hồi <style=\"highlight\">15</style> SP cho 2 đồng minh có SP thấp nhất, bao gồm cả chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mệnh Lệnh: Hủy Diệt",
+          "abName": "Kal'tsit",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[EndSkill] Nhận 4 [CuredFilm]\n[EndSkill] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, nhận sát thương HP bằng 20% HP Tối Đa của chủ thể, và nhận Khiên bằng lượng sát thương HP đã nhận do hiệu ứng này\n- Sát thương này không giết chủ thể. Nâng số Lớp [CuredFilm] lên tối đa vào Cuối Lượt và nhận 2 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mệnh Lệnh: Hủy Diệt",
+          "abName": "Kal'tsit",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">Nếu mục tiêu chính có 6+ (Lượng [Burst] + Tầng [Burst]), Sức Mạnh Gốc +1</style>\n[BeforeAttack] Ở mốc <style=\"highlight\">3</style>+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[EndSkill] Nhận <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, nhận sát thương HP bằng 20% HP Tối Đa của chủ thể, và nhận Khiên bằng lượng sát thương HP đã nhận do hiệu ứng này\n- Sát thương này không giết chủ thể. Nâng số Lớp [CuredFilm] lên tối đa vào Cuối Lượt và nhận 2 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Burst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mệnh Lệnh: Hủy Diệt",
+          "abName": "Kal'tsit",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">Sức Mạnh Gốc +1 với mỗi 6 (Lượng [Burst] + Tầng [Burst]) trên mục tiêu chính (tối đa 2)</style>\n<style=\"highlight\">[BeforeAttack] Nhận +1 Phạm Vi Tấn Công với mỗi 3 Cộng Hưởng cao nhất (tối đa 2)</style>\n[EndSkill] Nhận <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, nhận sát thương HP bằng 20% HP Tối Đa của chủ thể, và nhận Khiên bằng <style=\"highlight\">(lượng sát thương HP đã nhận do hiệu ứng này x 2)</style>\n- Sát thương này không giết chủ thể. Nâng số Lớp [CuredFilm] lên tối đa vào Cuối Lượt và nhận 2 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Burst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, +30% sát thương gây ra</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 15+ [Combustion] trên chủ thể, nhận 1 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Ở mốc 15+ [Combustion] trên chủ thể, gây 1 [FaustFlameMothEmber] lên toàn bộ mục tiêu (một lần mỗi lượt; trong Ải Chuyên Sâu, lên tất cả Bộ Phận)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 15+ [Combustion] trên chủ thể, nhận 1 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây [Combustion] bằng (Phẫn Nộ Cộng Hưởng / 2) (tối đa 3; làm tròn xuống)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Ở mốc 15+ [Combustion] trên chủ thể, gây 1 [FaustFlameMothEmber] lên toàn bộ mục tiêu (một lần mỗi lượt; trong Ải Chuyên Sâu, lên tất cả Bộ Phận)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 15+ [Combustion] trên chủ thể, nhận 1 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng (Phẫn Nộ Cộng Hưởng / 2) (tối đa 3; làm tròn xuống)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây Tầng [Combustion] bằng (Phẫn Nộ Cộng Hưởng / 3) (tối đa 2; làm tròn xuống)</style>"
+                },
+                {
+                  "desc": "[EndCoin] Ở mốc 15+ [Combustion] trên chủ thể, gây 1 [FaustFlameMothEmber] lên toàn bộ mục tiêu (một lần mỗi lượt; trong Ải Chuyên Sâu, lên tất cả Bộ Phận)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 25+ [Combustion] trên chủ thể, nhận 2 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)\n[EndSkill] Nếu HP chủ thể đã mất ≥ 50%, hồi 5 SP với mỗi 10 [Combustion] trên chủ thể (tối đa 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Gây ngẫu nhiên 3 [FaustFlameMothEmber] lên toàn bộ mục tiêu (một lần mỗi lượt, không tính mục tiêu đã đạt Lớp [FaustFlameMothEmber] tối đa. Trong Ải Chuyên Sâu, lên tất cả Bộ Phận)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 25+ [Combustion] trên chủ thể, nhận 2 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)\n[EndSkill] Nếu HP chủ thể đã mất ≥ 50%, hồi 5 SP với mỗi 10 [Combustion] trên chủ thể (tối đa 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây [Combustion] bằng (Phẫn Nộ Cộng Hưởng / 2) (tối đa 3; làm tròn xuống)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Gây ngẫu nhiên 3 [FaustFlameMothEmber] lên toàn bộ mục tiêu (một lần mỗi lượt, không tính mục tiêu đã đạt Lớp [FaustFlameMothEmber] tối đa. Trong Ải Chuyên Sâu, lên tất cả Bộ Phận)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 25+ [Combustion] trên chủ thể, nhận 2 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)\n[EndSkill] Nếu HP chủ thể đã mất ≥ 50%, hồi 5 SP với mỗi 10 [Combustion] trên chủ thể (<style=\"highlight\">tối đa 15</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây Tầng [Combustion] bằng (Phẫn Nộ Cộng Hưởng / 3) (tối đa 2; làm tròn xuống)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng (Phẫn Nộ Cộng Hưởng / 2) (tối đa 3; làm tròn xuống)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Gây ngẫu nhiên <style=\"highlight\">6</style> [FaustFlameMothEmber] lên toàn bộ mục tiêu (một lần mỗi lượt, không tính mục tiêu đã đạt Lớp [FaustFlameMothEmber] tối đa. Trong Ải Chuyên Sâu, lên tất cả Bộ Phận)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

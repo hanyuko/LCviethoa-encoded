@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": 122801,
+      "name": "Giờ Chuẩn",
+      "desc": "Cuối Lượt:  nếu [LimitedTime] chia đều cho 60, nhận 2 [SlashDamageUp] và 2 [PenetrateDamageUp] vào lượt kế"
+    },
+    {
+      "id": 122802,
+      "name": "Thời Gian Còn Lại",
+      "desc": "Nếu chủ thể ở trong trạng thái [TimeAcceleration], Đánh Trúng sẽ gây thêm 10% sát thương bằng với tổng sát thương gây ra (2 lần mỗi lượt)"
+    },
+    {
+      "id": 122901,
+      "name": "Giờ Chuẩn",
+      "desc": "Cuối Lượt: nếu [LimitedTime], hoặc tổng lượng [OwnTime]  của chủ thể chia đều cho 60, nhận 2 [SlashDamageUp] và 2 [PenetrateDamageUp] vào lượt kế"
+    },
+    {
+      "id": 122902,
+      "name": "Siêu Gia Tốc Thời Gian",
+      "desc": "Nếu chủ thể ở trong trạng thái [EquitableDistribution], Đánh Trúng sẽ gây thêm 10% sát thương bằng với tổng sát thương gây ra (2 lần mỗi lượt)"
+    },
+    {
+      "id": 123001,
+      "name": "Siêu Gia Tốc Thời Gian",
+      "desc": "Cuối Lượt: nếu chủ thể còn sống, gán 1 [Protection] lên Bộ Phận ngẫu của Đồ Tể Thời Gian vào lượt kế."
+    }
+  ]
+}

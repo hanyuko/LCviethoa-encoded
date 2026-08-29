@@ -1,0 +1,109 @@
+{
+  "dataList": [
+    {
+      "id": 9020301,
+      "name": "Easy Money",
+      "desc": "Cuối Lượt: If this unit hit a target this turn, nhận 1 [Enhancement] vào lượt kế\nIf the target is Hồng Lộ, nhận 1 [ParryingResultUp] và 1 [AttackDmgUp] vào lượt kế as well"
+    },
+    {
+      "id": 9020302,
+      "name": "oh no",
+      "desc": "Mất 5 SP on Clash Lose\nWhen Staggered, nhận 2 [Vulnerable] vào lượt kế (một lần mỗi lượt)"
+    },
+    {
+      "id": 9020101,
+      "name": "Training Dummy",
+      "desc": "Can be damaged only with damages equal to or higher than 10\nAll damage under 10 is nullified"
+    },
+    {
+      "id": 9020102,
+      "name": "Upgradable Training Dummy",
+      "desc": "Cuối Lượt: if this unit failed to hit with a Skill, nhận [ParryingResultUp] vào lượt kế equal to the number of turns this unit failed to hit\nIf this unit hits an enemy with a Skill, reset the above stack"
+    },
+    {
+      "id": 9020103,
+      "name": "Remember the Basics",
+      "desc": "Cuối Lượt: if this unit was hit by 4 or more Attack Skills, to all enemies that attacked this unit, gán 1 [AttackDmgUp] vào lượt kế for every turn this unit was hit\nIf this unit was hit by 3 or fewer Attack Skills, reset the above stack"
+    },
+    {
+      "id": 9019501,
+      "name": "Off-mark Curse",
+      "desc": "When this unit is Staggered, halve the Lượng [Burst] and Tầng [Burst] on the target this unit hit last"
+    },
+    {
+      "id": 9019502,
+      "name": "Jar-haunting Curse",
+      "desc": "Cuối Lượt: If this unit hit a target this turn, nhận 1 [Enhancement] vào lượt kế\nIf this unit kills itself, gán 1 [Enhancement] lên tất cả đồng minh"
+    },
+    {
+      "id": 9019601,
+      "name": "Jar-haunting Curse",
+      "desc": "On Skill hit: if target has 1 remaining Tầng [Burst], gây +1 Tầng [Burst] (2 lần mỗi lượt)\nKhi Đánh Trúng: if target has 1 remaining [Burst], gây 2 [Burst] (2 lần mỗi lượt)\nIf this unit kills itself, gây 2 [Burst] và +1 Tầng [Burst] on all enemies"
+    },
+    {
+      "id": 9019701,
+      "name": "Jar-haunting Curse",
+      "desc": "On Skill hit: if target has 4+ [Burst], gây 1 [DefenseDown] vào lượt kế (3 lần mỗi lượt)\nIf this unit kills itself, gây 3 [DefenseDown] on all enemies"
+    },
+    {
+      "id": 9102201,
+      "name": "Off-mark Curse",
+      "desc": "When this unit is Staggered, eliminate the Lượng [Burst] and Tầng [Burst] on the target this unit hit last"
+    },
+    {
+      "id": 9102202,
+      "name": "Cursed Spirit Jar",
+      "desc": "Khi Đánh Trúng, nếu mục tiêu có 5+ (Lượng [Burst] + Tầng [Burst]), gây 1 [DefenseDown] (5 lần mỗi lượt)"
+    },
+    {
+      "id": 9102203,
+      "name": "Jar-haunting Curse",
+      "desc": "Cuối Lượt: against all enemies, inflict [Poison] equal to the number of turns that passed since this unit joined the battle (tối đa 5)\nIf this unit kills itself, apply (# of turns x 5) [Poison] and gây +2 Tầng [Burst] on all enemies vào lượt kế (tối đa 25)"
+    },
+    {
+      "id": 9019801,
+      "name": "Damage Taken",
+      "desc": "When hit during the combat phase: +10% damage for the turn\nWhen hit during the combat phase: on Clash Win, +20% damage"
+    },
+    {
+      "id": 9019802,
+      "name": "Target - Jia Baoyu",
+      "desc": "Prioritizes Hồng Lộ"
+    },
+    {
+      "id": 9019803,
+      "name": "Focusing on Target",
+      "desc": "Ở mốc 70%+ HP: at Turn End, if this unit failed to hit Hồng Lộ with a Skill, nhận 1 [Reduction] vào lượt kế\nKhi còn dưới 70% HP: at Turn End, if this unit failed to hit Hồng Lộ with a Skill, gây +1 [Laceration] and Tầng [Laceration] vào lượt kế"
+    },
+    {
+      "id": 9020001,
+      "name": "Mission Progress",
+      "desc": "Deal +0.5% damage for every 1% HP bị mất trên chủ thể (tối đa 50%)"
+    },
+    {
+      "id": 9020002,
+      "name": "Honing in on Target",
+      "desc": "Ở mốc 70%+ HP: at Turn End, if this unit failed to hit Hồng Lộ with a Skill, nhận 1 [Reduction] vào lượt kế\nKhi còn dưới 70% HP: at Turn End, if this unit failed to hit Hồng Lộ with a Skill, nhận 1 [Enhancement] vào lượt kế\n- gây +1 [Laceration] and Tầng [Laceration] vào lượt kế"
+    },
+    {
+      "id": 9102101,
+      "name": "Damage Taken",
+      "desc": "When hit during the combat phase: +20% damage for the turn\nDuring the combat phase: On Clash Lose, take +15% damage from the Skill"
+    },
+    {
+      "id": 9102102,
+      "name": "Plastered Training",
+      "desc": "+2% sát thương gây ra for every 1% HP bị mất trên chủ thể (tối đa 100%)"
+    },
+    {
+      "id": 9102103,
+      "name": "Well, well... Hic. This won't do",
+      "desc": "Ở mốc 50% HP, recover from Stagger and end this turn.\nFix this unit's Speed to 10 vào lượt kế"
+    },
+    {
+      "id": 9102104,
+      "name": "Clear Target",
+      "desc": "Ở mốc 70%+ HP: at Turn End, if this unit failed to hit Hồng Lộ with a Skill, nhận 3 [AttackDown] vào lượt kế\nKhi còn dưới 70% HP: at Turn End, if this unit failed to hit Hồng Lộ with a Skill, nhận 6 [AttackUp] vào lượt kế"
+    }
+  ]
+}

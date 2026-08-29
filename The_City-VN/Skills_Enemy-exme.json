@@ -1,0 +1,225 @@
+{
+  "dataList": [
+    {
+      "id": 9105701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Striker’s Stance",
+          "desc": "[WhenUse] Khi có 6+ [Breath], Sức Mạnh Gốc +1\n[WhenUse] Nhận 2 [Breath]\n[DefeatDuel] Nhận 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Acupuncture",
+          "desc": "[WhenUse] Khi có 8+ [Breath], Sức Mạnh Gốc +2\n[DefeatDuel] Nhận 5 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [SlashDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chém Liên Tiếp",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 4 [Breath] trên chủ thể (tối đa 5)\n[DefeatDuel] Sức Mạnh Gốc -13\n[DefeatDuel] Kỹ năng này không thể Choáng mục tiêu\n[EndSkill] Tiêu thụ toàn bộ [Breath] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 4 [Breath] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+70% sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Khi có 6+ [Breath], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Striker’s Stance",
+          "desc": "[WhenUse] Khi có 6+ [Breath], Sức Mạnh Gốc +1\n[WhenUse] Nhận 2 [Breath]\n[DefeatDuel] Nhận 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Acupuncture",
+          "desc": "[WhenUse] Khi có 8+ [Breath], Sức Mạnh Gốc +2\n[DefeatDuel] Nhận 5 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [SlashDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chém Liên Tiếp",
+          "desc": "Nếu mục tiêu có HP dưới 50%, Sức Mạnh Tổng +2\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 4 [Breath] trên chủ thể (tối đa 5)\n[DefeatDuel] Sức Mạnh Gốc -13\n[DefeatDuel] Kỹ năng này không thể Choáng mục tiêu\n[EndSkill] Tiêu thụ toàn bộ [Breath] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nâng Ngưỡng Choáng bằng 20% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Khi có 6+ [Breath], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

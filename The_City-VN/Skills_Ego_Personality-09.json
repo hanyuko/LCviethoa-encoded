@@ -1,0 +1,916 @@
+{
+  "dataList": [
+    {
+      "id": 2090411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "<style=\"highlight\">[BeforeAttack] Nếu HP của mục tiêu chính ≥ 50%, Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [Vibration] và +5 Tầng [Vibration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Kích hoạt [VibrationExplosion]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "[BeforeAttack] Nếu HP của mục tiêu chính ≥ 50%, Phạm Vi Tấn Công +1;\n<style=\"highlight\">Nếu HP của mục tiêu chính ≥ 75%, Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +<style=\"highlight\">7</style> Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 30% lượng sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Nếu HP của mục tiêu chính ≥ 50%, Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 30% lượng sát thương gây ra"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu HP của mục tiêu chính ≥ 50%, Phạm Vi Tấn Công +1;\n<style=\"highlight\">Nếu HP của mục tiêu chính ≥ 75%, Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 30% lượng sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [AmberTakeDamageUp] vào lượt kế"
+                },
+                {
+                  "desc": "[EndSkill] Hồi 2 đồng minh khác có phần trăm HP thấp nhất bằng 15% HP Tối Đa của chủ thể"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [AmberTakeDamageUp] vào lượt kế"
+                },
+                {
+                  "desc": "[EndSkill] Hồi 2 đồng minh khác có phần trăm HP thấp nhất bằng <style=\"highlight\">25%</style> HP Tối Đa của chủ thể"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillHead] Nếu mục tiêu Bị Choáng hoặc bị đánh bại, các đồng minh được hồi phục nhận Khiên bằng 10% HP Tối Đa của chủ thể</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AmberTakeDamageUp] vào lượt kế"
+                },
+                {
+                  "desc": "[EndSkill] Hồi 2 đồng minh khác có phần trăm HP thấp nhất bằng <style=\"highlight\">30%</style> HP Tối Đa của chủ thể"
+                },
+                {
+                  "desc": "[EndSkillHead] Nếu mục tiêu Bị Choáng hoặc bị đánh bại, các đồng minh được hồi phục nhận Khiên bằng <style=\"highlight\">15%</style> HP Tối Đa của chủ thể"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 15 sát thương SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">20</style> sát thương SP"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Nếu mục tiêu Bị Choáng hoặc bị đánh bại, hồi 5 SP cho chủ thể</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +<style=\"highlight\">2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 20 sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu Bị Choáng hoặc bị đánh bại, hồi <style=\"highlight\">7</style> SP cho chủ thể"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khát Vọng Đẫm Máu",
+          "abName": "Đôi Giày Đỏ",
+          "desc": "Sức Mạnh Xu +1 với mỗi 2 [Laceration] trên mục tiêu (tối đa 6)\n[StartBattle] Mục tiêu chính của Kỹ Năng này không mất Tầng [Laceration] trong lượt này.\n[EndSkill] Trong 3 lượt, Mất 10 SP vào Cuối Lượt.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Dục Vọng bằng Lượng [Laceration] trên mục tiêu.\n- Ở mốc 4+ Dục Vọng Cộng Hưởng, gây sát thương Dục Vọng bằng (Lượng [Laceration] trên mục tiêu x 1.2).\n(Chỉ lấy tối đa 99 Lượng [Laceration] khi tính toán cho Kỹ Năng này)",
+                  "summary": "[OnSucceedAttack] Gây sát thương Dục Vọng dựa trên [Laceration] của mục tiêu"
+                },
+                {
+                  "desc": "[EnemyKill] Nếu hiệu ứng của Kỹ Năng này hoặc Xu gây sát thương vượt quá lượng HP còn lại của mục tiêu (trong Ải Chuyên Sâu, HP còn lại của Lõi), lượng sát thương dư ra sẽ được gây dưới dạng sát thương cố định lên toàn bộ kẻ địch.",
+                  "summary": "[EnemyKill] Gây sát thương dư ra cho toàn bộ kẻ địch."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Khát Vọng Đẫm Máu",
+          "abName": "Đôi Giày Đỏ",
+          "desc": "Sức Mạnh Xu +1 với mỗi 2 [Laceration] trên mục tiêu (tối đa <style=\"highlight\">9</style>)\n[StartBattle] Mục tiêu chính của Kỹ Năng này không mất Tầng [Laceration] trong lượt này.\n[EndSkill] Trong 3 lượt, Mất 10 SP vào Cuối Lượt.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Dục Vọng bằng <style=\"highlight\">(Lượng [Laceration] trên mục tiêu x 1.2)</style>.\n- Ở mốc 4+ Dục Vọng Cộng Hưởng, gây sát thương Dục Vọng bằng (Lượng [Laceration] trên mục tiêu x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- Ở mốc 4+ Dục Vọng Cộng Hưởng Tuyệt Đối, gây sát thương Dục Vọng bằng (Lượng [Laceration] trên mục tiêu x 1.8).</style>\n(Chỉ lấy tối đa 99 Lượng [Laceration] khi tính toán cho Kỹ Năng này)",
+                  "summary": "[OnSucceedAttack] Gây sát thương Dục Vọng dựa trên [Laceration] của mục tiêu"
+                },
+                {
+                  "desc": "[EnemyKill] Nếu hiệu ứng của Kỹ Năng này hoặc Xu gây sát thương vượt quá lượng HP còn lại của mục tiêu (trong Ải Chuyên Sâu, HP còn lại của Lõi), lượng sát thương dư ra sẽ được gây dưới dạng sát thương cố định lên toàn bộ kẻ địch.",
+                  "summary": "[EnemyKill] Gây sát thương dư ra cho toàn bộ kẻ địch."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Khát Vọng Đẫm Máu",
+          "abName": "Đôi Giày Đỏ",
+          "desc": "Sức Mạnh Xu +1 với mỗi 2 [Laceration] trên mục tiêu (tối đa <style=\"highlight\">13</style>)\n[StartBattle] Mục tiêu chính của Kỹ Năng này không mất Tầng [Laceration] trong lượt này.\n[EndSkill] Trong 3 lượt, Mất 10 SP vào Cuối Lượt.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Dục Vọng bằng (Lượng [Laceration] trên mục tiêu x <style=\"highlight\">1.5</style>)\n- Ở mốc 4+ Dục Vọng Cộng Hưởng, gây sát thương Dục Vọng bằng (Lượng [Laceration] trên mục tiêu x <style=\"highlight\">1.8</style>).\n- Ở mốc 4+ Dục Vọng Cộng Hưởng Tuyệt Đối, gây sát thương Dục Vọng bằng (Lượng [Laceration] trên mục tiêu x <style=\"highlight\">2</style>).\n(Chỉ lấy tối đa 99 Lượng [Laceration] khi tính toán cho Kỹ Năng này)",
+                  "summary": "[OnSucceedAttack] Gây sát thương Dục Vọng dựa trên [Laceration] của mục tiêu"
+                },
+                {
+                  "desc": "[EnemyKill] Nếu hiệu ứng của Kỹ Năng này hoặc Xu gây sát thương vượt quá lượng HP còn lại của mục tiêu (trong Ải Chuyên Sâu, HP còn lại của Lõi), lượng sát thương dư ra sẽ được gây dưới dạng sát thương cố định lên toàn bộ kẻ địch.",
+                  "summary": "[EnemyKill] Gây sát thương dư ra cho toàn bộ kẻ địch."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khát Vọng Đẫm Máu",
+          "abName": "Đôi Giày Đỏ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây (2 + (Dục Vọng Cộng Hưởng)) [Laceration]\n(Dục Vọng Cộng Hưởng tối đa được tính: 4)",
+                  "summary": "[OnSucceedAttack] Gây (2 + (Dục Vọng Cộng Hưởng)) [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Khát Vọng Đẫm Máu",
+          "abName": "Đôi Giày Đỏ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây (<style=\"highlight\">3</style> + (Dục Vọng Cộng Hưởng)) [Laceration]\n(Dục Vọng Cộng Hưởng tối đa được tính: <style=\"highlight\">5</style>)",
+                  "summary": "[OnSucceedAttack] Gây (3 + (Dục Vọng Cộng Hưởng)) [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Khát Vọng Đẫm Máu",
+          "abName": "Đôi Giày Đỏ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây (<style=\"highlight\">4</style> + (Dục Vọng Cộng Hưởng)) [Laceration]\n(Dục Vọng Cộng Hưởng tối đa được tính: <style=\"highlight\">6</style>)",
+                  "summary": "[OnSucceedAttack] Gây (4 + (Dục Vọng Cộng Hưởng)) [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">3</style> Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[EndSkill] Hồi cho chủ thể và 2 đồng minh khác có phần trăm HP thấp nhất bằng 12.5% HP Tối Đa của chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[EndSkill] Hồi cho chủ thể và 2 đồng minh khác có phần trăm HP thấp nhất bằng 12.5% HP Tối Đa của chủ thể\n<style=\"highlight\">- Cứ mỗi đơn vị được hồi nhận +2.5% HP với mỗi 2 hiệu ứng bất lợi trên đơn vị đó (tối đa 7.5%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[EndSkill] Hồi cho chủ thể và 2 đồng minh khác có phần trăm HP thấp nhất bằng <style=\"highlight\">15%</style> HP Tối Đa của chủ thể\n- Cứ mỗi đơn vị được hồi nhận +2.5% HP với <style=\"highlight\">mỗi</style> hiệu ứng bất lợi trên đơn vị đó (tối đa <style=\"highlight\">10%</style>)\n<style=\"highlight\">- Ở mốc 4+ Đố Kỵ Cộng Hưởng bao gồm cả Kỹ năng này, hồi thêm 1 đồng minh</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Hồi 3 đồng minh khác có phần trăm HP thấp nhất bằng 15% HP Tối Đa của chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Hồi 3 đồng minh khác có phần trăm HP thấp nhất bằng 15% HP Tối Đa của chủ thể\n<style=\"highlight\">- Cứ mỗi đơn vị được hồi nhận 1 [AttackUp] cho đến lượt kế với mỗi 2 hiệu ứng bất lợi trên đơn vị đó (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 2 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Hồi 3 đồng minh khác có phần trăm HP thấp nhất bằng <style=\"highlight\">20%</style> HP Tối Đa của chủ thể\n- Cứ mỗi đơn vị được hồi nhận 1 [AttackUp] cho đến lượt kế với <style=\"highlight\">mỗi</style> hiệu ứng bất lợi trên đơn vị đó (tối đa <style=\"highlight\">3</style>)\n<style=\"highlight\">- Ở mốc 4+ Đố Kỵ Cộng Hưởng bao gồm cả Kỹ năng này, hồi thêm 1 đồng minh</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tòa Án Phán Xét",
+          "abName": "Nữ Công Tước Rực Cháy",
+          "desc": "[EndSkill] Hồi (1 + Cộng Hưởng cao nhất) đồng minh có phần trăm HP thấp nhất bằng 15% HP Tối Đa của họ (tối đa 3 đồng minh)\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu đánh trúng mục tiêu chính, gây (1 + (Phẫn Nộ Cộng Hưởng / 3)) [BirdCage] vào lượt kế lên mục tiêu chính (tối đa 2; làm tròn xuống)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tòa Án Phán Xét",
+          "abName": "Nữ Công Tước Rực Cháy",
+          "desc": "<style=\"highlight\">[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)</style>\n[EndSkill] Hồi (1 + Cộng Hưởng cao nhất) đồng minh có phần trăm HP thấp nhất bằng <style=\"highlight\">18</style>% HP Tối Đa của họ (tối đa 3 đồng minh)\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">8</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu đánh trúng mục tiêu chính, gây (1 + (Phẫn Nộ Cộng Hưởng / 3)) [BirdCage] vào lượt kế lên mục tiêu chính (tối đa <style=\"highlight\">3</style>; làm tròn xuống)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tòa Án Phán Xét",
+          "abName": "Nữ Công Tước Rực Cháy",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)\n[EndSkill] Hồi (1 + Cộng Hưởng cao nhất) đồng minh có phần trăm HP thấp nhất bằng <style=\"highlight\">20</style>% HP Tối Đa của họ (tối đa 3 đồng minh)\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu đánh trúng mục tiêu chính, gây (1 + (Phẫn Nộ Cộng Hưởng / 3)) [BirdCage] vào lượt kế lên mục tiêu chính (tối đa 3; làm tròn xuống)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tòa Án Phán Xét",
+          "abName": "Nữ Công Tước Rực Cháy",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 6 [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu đánh trúng mục tiêu chính, gây (1 + Phẫn Nộ Cộng Hưởng) [BirdCage] lên mục tiêu chính (tối đa 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+1% sát thương gây lên mục tiêu chính với mỗi Lượng [Combustion] trên mục tiêu chính (tối đa 50%)"
+                },
+                {
+                  "desc": "[EnemyKill] Gán 1 [CrimsonResultUp] và 1 [CrimsonDamageUp] cho (1 + Cộng Hưởng cao nhất) đồng minh có phần trăm HP thấp nhất (tối đa 4 đồng minh; một lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tòa Án Phán Xét",
+          "abName": "Nữ Công Tước Rực Cháy",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây <style=\"highlight\">8</style> [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu đánh trúng mục tiêu chính, gây (1 + Phẫn Nộ Cộng Hưởng) [BirdCage] lên mục tiêu chính (tối đa <style=\"highlight\">4</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+1% sát thương gây lên mục tiêu chính với mỗi Lượng [Combustion] trên mục tiêu chính (tối đa 50%)"
+                },
+                {
+                  "desc": "[EnemyKill] Gán 1 [CrimsonResultUp] và 1 [CrimsonDamageUp] cho (1 + Cộng Hưởng cao nhất) đồng minh có phần trăm HP thấp nhất (tối đa <style=\"highlight\">5</style> đồng minh; một lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tòa Án Phán Xét",
+          "abName": "Nữ Công Tước Rực Cháy",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây <style=\"highlight\">10</style> [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] Gây +1 Tầng [Combustion]</style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu đánh trúng mục tiêu chính, gây (1 + Phẫn Nộ Cộng Hưởng) [BirdCage] lên mục tiêu chính (tối đa <style=\"highlight\">5</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+<style=\"highlight\">2</style>% sát thương gây lên mục tiêu chính với mỗi Lượng [Combustion] trên mục tiêu chính (tối đa <style=\"highlight\">100</style>%)"
+                },
+                {
+                  "desc": "[EnemyKill] Gán 1 [CrimsonResultUp] và 1 [CrimsonDamageUp] cho (1 + Cộng Hưởng cao nhất) đồng minh có phần trăm HP thấp nhất (tối đa <style=\"highlight\">6</style> đồng minh; một lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hướng Về Hoàng Hôn",
+          "abName": "Nhà Lữ Hành Hoàng Hôn",
+          "desc": "[EndSkill] Hồi 5% HP cho 2 đồng minh có phần trăm HP hiện tại thấp nhất và gán 2 [ScarletMothRodion] cho họ (lượng HP hồi tối thiểu: 1)\n- Hồi thêm số đồng minh bằng (Dục Vọng Cộng Hưởng - 1) (tối đa 2 đồng minh)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hướng Về Hoàng Hôn",
+          "abName": "Nhà Lữ Hành Hoàng Hôn",
+          "desc": "<style=\"highlight\">[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 6 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 2)</style>\n[EndSkill] Hồi <style=\"highlight\">8%</style> HP cho 2 đồng minh có phần trăm HP hiện tại thấp nhất và gán 2 [ScarletMothRodion] cho các đồng minh đó (lượng HP hồi tối thiểu: 1)\n- Hồi thêm số đồng minh bằng (Dục Vọng Cộng Hưởng - 1) (tối đa 2 đồng minh)\n<style=\"highlight\">- Nếu đồng minh được hồi có trang bị Kỹ Năng Dục Vọng, hồi 3 SP cho đồng minh đó</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hướng Về Hoàng Hôn",
+          "abName": "Nhà Lữ Hành Hoàng Hôn",
+          "desc": "[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 6 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 2)\n[EndSkill] Hồi <style=\"highlight\">10%</style> HP cho 2 đồng minh có phần trăm HP hiện tại thấp nhất và gán 2 [ScarletMothRodion] cho các đồng minh đó (lượng HP hồi tối thiểu: 1)\n- Hồi thêm số đồng minh bằng (Dục Vọng Cộng Hưởng - 1) (tối đa 2 đồng minh)\n- Nếu đồng minh được hồi có trang bị Kỹ Năng Dục Vọng, hồi <style=\"highlight\">6</style> SP cho đồng minh đó",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndCoin] Gây 1 [CrimsonTakeDamageUp] và 1 [ScarletTakeDamageUp] vào lượt kế khi đánh trúng mục tiêu</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hướng Về Hoàng Hôn",
+          "abName": "Nhà Lữ Hành Hoàng Hôn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] +5% sát thương gây ra với mỗi 4 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -6 với mỗi Xu Nứt (tối đa -12)\n[EndSkill] Gán 1 [ScarletMothRodion] cho đồng minh ngẫu nhiên 3 lần",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[EndCoin] Gây 1 [CrimsonTakeDamageUp] vào lượt kế khi đánh trúng mục tiêu (một lần mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[EndCoin] Gây 1 [ScarletTakeDamageUp] vào lượt kế khi đánh trúng mục tiêu (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hướng Về Hoàng Hôn",
+          "abName": "Nhà Lữ Hành Hoàng Hôn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] +5% sát thương gây ra với mỗi 4 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 15%)\n<style=\"highlight\">- Nếu có Phẫn Nộ hoặc Dục Vọng Cộng Hưởng Tuyệt Đối, +10% sát thương gây ra</style>\n[BeforeAttack] Sức Mạnh Gốc -6 với mỗi Xu Nứt (tối đa -12)\n[EndSkill] Gán 1 [ScarletMothRodion] cho các đồng minh ngẫu nhiên, lặp lại <style=\"highlight\">4</style> lần",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[EndCoin] Gây 1 [CrimsonTakeDamageUp] vào lượt kế khi đánh trúng mục tiêu (một lần mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[EndCoin] Gây 1 [ScarletTakeDamageUp] vào lượt kế khi đánh trúng mục tiêu (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hướng Về Hoàng Hôn",
+          "abName": "Nhà Lữ Hành Hoàng Hôn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] +10% sát thương gây ra với mỗi 4 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 30%)</style>\n- Nếu có Phẫn Nộ hoặc Dục Vọng Cộng Hưởng Tuyệt Đối, <style=\"highlight\">+20%</style> sát thương gây ra\n<style=\"highlight\">[BeforeAttack] Sức Mạnh Gốc -5 với mỗi Xu Nứt (tối đa -10)</style>\n[EndSkill] Gán 1 [ScarletMothRodion] cho các đồng minh ngẫu nhiên, lặp lại <style=\"highlight\">5</style> lần",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Combustion]"
+                },
+                {
+                  "desc": "[EndCoin] Gây 1 [CrimsonTakeDamageUp] vào lượt kế khi đánh trúng mục tiêu (một lần mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Laceration]"
+                },
+                {
+                  "desc": "[EndCoin] Gây 1 [ScarletTakeDamageUp] vào lượt kế khi đánh trúng mục tiêu (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

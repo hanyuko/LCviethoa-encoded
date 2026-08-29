@@ -1,0 +1,32 @@
+{
+    "dataList": [
+        {
+            "id": "837901",
+            "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> <color=#fe4b48>nhận {0} sát thương SP</color>"
+        },
+        {
+            "id": "837902_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>nhận {1} sát thương HP</color>, và <color=#80c9ff>hồi {2} SP</color>"
+        },
+        {
+            "id": "837902_2",
+            "content": "<color=#ebcaa2>[{0}]</color> nhận %{2} [{1}]/% mỗi lượt"
+        },
+        {
+            "id": "837601_success_1_1",
+            "content": "Thợ Săn Hoa Hồng nhận <color=#e30000>3 <sprite name=\"AttackDown\"><color=#e20000>Giảm Cấp Công Kích</color> và 3 <sprite name=\"DefenseDown\"><color=#e20000>Giảm Cấp Phòng Thủ</color></color>"
+        },
+        {
+            "id": "837601_success_1_2",
+            "content": "Thợ Săn Hoa Hồng nhận <color=#e30000>3 <sprite name=\"AttackDown\"><color=#e20000>Giảm Cấp Công Kích</color> và 3 <sprite name=\"DefenseDown\"><color=#e20000>Giảm Cấp Phòng Thủ</color></color>"
+        },
+        {
+            "id": "837601_failure_1_1",
+            "content": "{0} nhận <color=#e30000>sát thương bằng 15% HP tối đa</color>"
+        },
+        {
+            "id": "837601_failure_1_2",
+            "content": "Thợ Săn Hoa Hồng nhận <color=#f8c200>3 <sprite name=\"AttackUp\"><color=#fac400>Tăng Cấp Công Kích</color> và 3 <sprite name=\"DefenseUp\"><color=#fac400>Tăng Cấp Phòng Thủ</color></color>"
+        }
+    ]
+}

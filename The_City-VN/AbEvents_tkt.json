@@ -1,0 +1,95 @@
+{
+  "dataList": [
+    {
+      "id": 1051101,
+      "title": "Take a general, sweeping look around the factory.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ giúp đỡ?",
+      "successDesc": [
+        "\"Sau khi dò xét xung quanh và dừng lại suy nghĩ một lát, {0} nhận ra rằng cỗ máy của nhà máy đang hoạt động ở tốc độ cao.\n\n{0} nói rằng chỉ ngủ gật hai tiếng có thể mang gánh nặng lên những nhân viên khác...\n\nvà thậm chí ảnh hưởng tiêu cực tới năng suất của nhà máy nữa.\n\n\"Tinh mắt nhìn người đấy.\"\n\n\"Nghe chưa? Đừng có viện cớ nữa, mau quay lại làm việc đi.\"\n\nChủ nhà máy nhíu mày nhìn người công nhân chậm rãi đi xuống cầu thang, rồi trao thứ gì đó cho chúng tôi.\n\n\"Tôi định thưởng cái này cho công nhân nào làm việc tích cực, nhưng chắc có lẽ tôi không cần nữa. Đây, cầm lấy đi.\""
+      ],
+      "failureDesc": [
+        "{0} tỏ vẻ bối rối, vì chẳng ai để ý thấy người công nhân này đã ngủ tận hai tiếng cả, thậm chí là bản thân anh ta.\n\n\"Chậc chậc. Vụ này sẽ làm mất hình tượng nhà máy chúng ta mất.\"\n\n\"Anh bị sa thải. Ra khỏi đây ngay.\"\n\nCó gì đó sai sai, nhưng đã quá muộn.\n\nNgười nhân viên chậm rãi quỵ gối, rơm rớm nước mắt. Nhưng chủ nhà máy chẳng thèm để tâm, chỉ quay lưng và bước ra khỏi phòng.\n\nChỉ còn lại chúng tôi và người công nhân đang chậm rãi nức nở trong tuyệt vọng."
+      ]
+    },
+    {
+      "id": 1051102,
+      "title": "Take a closer look at the factory owner and the employee.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ giúp đỡ?",
+      "successDesc": [
+        "{0} đi qua đi lại một lúc, rồi nhận ra rằng độ dài ngày của hai người hoàn toàn khác so với nhau.\n\nChủ nhà máy có đến tận tám mươi giờ trong một ngày, nên đối với ông ta, người công nhân này ngủ mất tận hai tiếng rồi.\n\nNhưng người công nhân chỉ có sáu tiếng trong một ngày, nên anh ta chỉ chợp mắt có chín phút thôi.\n\n\"Hừm. Anh này một ngày làm mấy tiếng đồng hồ?\"\n\n\"N...ă...m... T...i...ế...n...g...\"\n\n\"Hừm, được rồi. Nghe cũng có lý. Tôi sẽ tạm thời bỏ qua chuyện này. Lần sau đừng có tái phạm.\"\n\nNói xong, ông chủ đi ngang qua người công nhân.\n\nNgười công nhân chậm rãi cúi đầu cảm tạ, rồi đưa cho chúng tôi một món đồ."
+      ],
+      "failureDesc": [
+        "{0} nói rằng người công nhân này có ngày ngắn hơn chủ nhà máy.\n\n\"Thì liên quan gì đến tôi?\"\n\n\"Chín phút, hai tiếng, thì khác gì nhau? Anh vẫn chọn ngủ gật trong giờ làm. Anh bị sa thải.\"\n\nCó gì đó rất sai ở đây, nhưng đã quá muộn.\n\nNgười nhân viên chậm rãi quỵ gối, rơm rớm nước mắt. Nhưng chủ nhà máy chẳng thèm để tâm, chỉ quay lưng và bước ra khỏi phòng.\n\nChỉ còn lại chúng tôi và người công nhân đang chậm rãi nức nở trong tuyệt vọng."
+      ]
+    },
+    {
+      "id": 1051201,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ nói chuyện?",
+      "successDesc": [
+        "{0} nói rằng phép tính của Nhân Viên Thu Thuế có sai sót.\n\nNhững Tội Nhân khác nhảy vào nói rằng họ phải xác nhận lại số thuế ấy. Một trong số Tội Nhân nhận ra có một Văn Phòng Thu Thuế ngay gần đó.\n\nMột đám đông bâu lại quanh chúng tôi và bắt đầu xì xào. Nhân Viên Thu Thuế cuối cùng cũng bỏ cuộc.\n\n\"Xem ra mấy người không mang đồng hồ theo mình.\"\n\n\"Tôi khuyên một câu, đừng có gây sự không đâu.\"\n\nNhân Viên Thu Thuế bức xúc vì bị cản trở. Người đó lẩm bẩm cái gì rồi bỏ đi, nhưng đồng thời cũng đã dán thứ gì đó trên lưng Tội Nhân."
+      ],
+      "failureDesc": [
+        "{0} nói rằng phép tính của Nhân Viên Thu Thuế có sai sót.\n\nNhững Tội Nhân khác nhảy vào nói rằng họ phải xác nhận lại số thuế ấy. Một trong số Tội Nhân nhận ra có một Văn Phòng Thu Thuế ngay gần đó.\n\nMột đám đông bâu lại quanh chúng tôi và bắt đầu xì xào. Nhân Viên Thu Thuế cuối cùng cũng bỏ cuộc.\n\n\"Xem ra mấy người không mang đồng hồ theo mình.\"\n\n\"Đã vậy, các người còn gây rối trật tự công cộng. Tôi buộc phải thu thuế của các người.\""
+      ]
+    },
+    {
+      "id": 1051301,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ bước ra?",
+      "successDesc": [
+        "Sau khi vất vả lắm mới bắt kịp được cậu thanh niên ấy, {0} hỏi xem tại sao cậu ta lại vội vã vậy.\n\nCậu thanh niên liên tục liếc qua đồng hồ của mình, rõ là còn chẳng thèm chờ {0} nói cho xong câu hỏi. Cậu ta cứ đi đi lại lại từ chỗ này sang chỗ khác.\n\n\"Tôi phải đi làm nhanh để còn có thêm thời gian!\"\n\n\"Thấy gã chủ nhà máy kia không? Dám cá là số thời gian hắn ta có nhiều hơn tôi gấp mười lần!\"\n\n{0} ghé vào và hỏi cậu thanh niên: \"Cậu tính dùng chỗ thời gian đó cho việc gì?\"\n\n\"Có càng nhiều thời gian thì tôi càng làm việc được lâu hơn chứ gì nữa! Thôi chết, muộn giờ làm rồi! Tôi phải đi đây, chào!\"\n\nCậu thanh niên hối hả chạy vào trong tòa nhà.\n\nRốt cuộc thì chúng tôi cũng chẳng biết cậu ta thật sự muốn dùng chỗ thời gian đó vào việc gì.\n\nHình như do vội quá nên cậu ta có làm rơi gì đó...\n\nNhưng cậu ta đã đi quá xa rồi nên không trả lại được nữa."
+      ],
+      "failureDesc": [
+        "Bạn không bắt kịp được với cậu thanh niên ấy.\n\nThôi vậy."
+      ]
+    },
+    {
+      "id": 1051302,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ bước ra?",
+      "successDesc": [
+        "Bạn hỏi ông già rằng: \"Sao ông biết rõ là mình có ít thời gian mà còn mỉm cười được như vậy?\"\n\nÔng già nhẹ nhàng cười rồi ghi gì đó lên giấy.\n\n'Giá trị của cuộc sống không nằm ở việc ta có bao nhiêu thời gian.'\n\n'Điều quan trọng là ta sử dụng khoảng thời gian mình được trao cho như thế nào.'\n\n'Sao ta có thể không mỉm cười chứ? Giờ đây ta là kẻ thảnh thơi nhất trong thế giới vội vã này.'\n\nÔng cụ đó từ từ quay người lại rồi rời đi.\n\nHình như ông ấy vừa đánh rơi gì đó.\n\nBạn ngẩng đầu lên tính trả lại món đồ cho ông già... nhưng ông ấy đã rời đi rồi."
+      ],
+      "failureDesc": [
+        "Bạn hỏi ông già rằng: \"Sao ông biết rõ là mình có ít thời gian mà còn mỉm cười được như vậy?\"\n\nÔng già nhẹ nhàng cười rồi ghi gì đó lên giấy.\n\nChúng tôi không có thời gian cho cái trò ngớ ngẩn này.\n\nBạn nhanh chóng rời đi, bỏ lại ông cụ ở đó."
+      ]
+    },
+    {
+      "id": 1051401,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ đứng ra phát biểu?",
+      "successDesc": [
+        "ĐOÀN KẾT LẠI!\n\nCác Yurodivy lấy ra vài chai rượu họ cướp được từ đám người giàu, vừa đổ lên trên tháp ly vừa hô vang khẩu hiệu.\n\nRượu tràn ra khỏi chiếc ly trên đỉnh rồi chảy xuống những ly rượu bên dưới."
+      ],
+      "failureDesc": [
+        "Lời hô hào vừa rồi nghe rất sượng trân. Mọi người đột nhiên lườm bạn với vẻ dò xét.\n\nBạn viện cớ có việc phải rời đi, rồi vội vàng chuồn khỏi đó."
+      ]
+    },
+    {
+      "id": 1051501,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người nói?",
+      "successDesc": [
+        "Bạn đã làm đủ mọi cách nhưng chẳng giúp ích được gì.\n\nHọ không di chuyển được, còn bạn thì không thể chạm được vào họ.\n\nNhưng bạn tìm thấy một tờ hóa đơn khả nghi dưới chân nạn nhân.\n\nCó khi đây là một manh mối."
+      ],
+      "failureDesc": [
+        "Bạn đã làm đủ mọi cách nhưng chẳng giúp ích được gì.\n\nHọ không di chuyển được, còn bạn thì không thể chạm được vào họ."
+      ]
+    }
+  ]
+}

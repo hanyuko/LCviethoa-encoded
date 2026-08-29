@@ -1,0 +1,170 @@
+{
+  "dataList": [
+    {
+      "id": 9799,
+      "name": "Một Triết Lý Nào Đó",
+      "desc": "Cố định tỷ lệ Dung Hợp thành 100%",
+      "simpleDesc": [
+        {
+          "abilityID": 9799,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9800,
+      "name": "Tài Phú",
+      "desc": "Cố định Cost Mua & Cường Hóa Quà Tặng E.G.O thành 1.\n\nĐồng minh nhận 1 [AttackUp] với mỗi 500 Cost đang sở hữu (tối đa 20)",
+      "simpleDesc": [
+        {
+          "abilityID": 9800,
+          "simpleDesc": ""
+        },
+        {
+          "abilityID": 980001,
+          "simpleDesc": "Gain Offense Level Up"
+        }
+      ]
+    },
+    {
+      "id": 9801,
+      "name": "Cường Nhận Hoàn",
+      "desc": "Đầu Lượt: 1 đồng minh có HP tối đa cao nhất nhận [DefenseUp] bằng với số lần đơn vị đó bị kẻ địch đánh trúng bằng Kỹ Năng Tấn Công (tối đa 6)",
+      "simpleDesc": [
+        {
+          "abilityID": 9801,
+          "simpleDesc": "Gain Defense Level Up"
+        }
+      ]
+    },
+    {
+      "id": 9802,
+      "name": "Điện Kích Phủ",
+      "desc": "Đánh Trúng bằng Kỹ Năng có tiêu thụ Tầng [Charge]: gây 1 [Burst] (3 lần mỗi Kỹ Năng; tính cả '<noparse>Năng Lượng</noparse> Đặc Trưng')\n\nHiệu ứng của Quà Tặng E.G.O này được cường hóa dựa trên Số Danh Tính trong Đội Hình có Kỹ Năng Tấn Công gây [Burst] hoặc nhận [Charge] (không tính Kỹ Năng E.G.O; tính cả Đồng Minh Dự Bị)\n\n- Ở mốc 6+ Danh Tính:\nKhi gây sát thương [Burst] lên kẻ địch, nhận +1 Tầng [Charge] (3 lần mỗi Kỹ Năng)\n\n- Ở mốc 8+ Danh Tính:\nKhi Đánh Trúng bằng Kỹ Năng có tiêu thụ Tầng [Charge], gây +1 Tầng [Burst] (3 lần mỗi Kỹ Năng, tính cả '<noparse>Năng Lượng</noparse> Đặc Trưng')",
+      "simpleDesc": [
+        {
+          "abilityID": 9802,
+          "simpleDesc": "Inflict 1 Rupture"
+        },
+        {
+          "abilityID": 980201,
+          "simpleDesc": ""
+        },
+        {
+          "abilityID": 980202,
+          "simpleDesc": "Gain +1 Charge Count"
+        },
+        {
+          "abilityID": 980203,
+          "simpleDesc": "Inflict +1 Rupture Count"
+        }
+      ]
+    },
+    {
+      "id": 9803,
+      "name": "Kính Trung Hoa",
+      "desc": "Vào Đầu mỗi Lượt: gây 3 Lượng [Burst] và +1 Tầng [Burst] lên toàn bộ kẻ địch (với Ải Chuyên Sâu, lên tất cả Bộ Phận)\n\nHiệu ứng của Quà Tặng E.G.O này sẽ mạnh hơn khi sở hữu nhiều Danh Tính trong Đội Hình có Kỹ Năng Tấn Công gây [Burst] hoặc nhận [Breath] (không tính Kỹ Năng E.G.O; tính cả Đồng Minh Dự Bị)\n\n- Ở mốc 6+ Danh Tính:\nKhi Đánh Trúng và gây sát thương [Burst] bằng Kỹ Năng, nhận +1 Tầng [Breath] (3 lần môi Kỹ Năng)\n\n- Ở mốc 10+ Danh Tính:\nKhi gây Trí Mạng bằng Kỹ Năng, gây +1 Tầng [Burst] (3 lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 9803,
+          "simpleDesc": "Inflict 3 Rupture Potency và +1 Rupture Count"
+        },
+        {
+          "abilityID": 980301,
+          "simpleDesc": ""
+        },
+        {
+          "abilityID": 980302,
+          "simpleDesc": "Gain +1 Poise Count"
+        },
+        {
+          "abilityID": 980303,
+          "simpleDesc": "Inflict +1 Rupture Count"
+        }
+      ]
+    },
+    {
+      "id": 9804,
+      "name": "Thủy Trung Nguyệt",
+      "desc": "Đánh Trúng kẻ địch có 5+ Lượng [Burst]: nhận 1 Lượng [Breath] và +1 Tầng [Breath] (3 lần mỗi Kỹ Năng)\n\nHiệu ứng của Quà Tặng E.G.O này sẽ mạnh hơn khi sở hữu nhiều Danh Tính trong Đội Hình có Kỹ Năng Tấn Công gây [Burst] hoặc nhận [Breath] (không tính Kỹ Năng E.G.O; tính cả Đồng Minh Dự Bị)\n\nĐánh Trúng bằng Kỹ Năng: nếu mục tiêu có 20+ [Burst], +10% sát thương gây ra khi Trí Mạng  +3% sát thương gây thêm khi Trí Mạng với mỗi 1 Danh Tính đã Triển Khai thỏa mãn những điều kiện trên)\n\n- Ở mốc 12+ Danh Tính:\nĐánh Trúng bằng Kỹ Năng: nếu gây Trí Mạng, xóa 1 hiệu ứng bất lợi ngẫu nhiên trên chủ thể (mỗi lần mỗi lượt, mỗi Danh Tính)",
+      "simpleDesc": [
+        {
+          "abilityID": 9804,
+          "simpleDesc": "Gain Poise Potency and Count"
+        },
+        {
+          "abilityID": 980401,
+          "simpleDesc": ""
+        },
+        {
+          "abilityID": 980402,
+          "simpleDesc": "Deal more Sát Thương gây ra khi Trí Mạng"
+        },
+        {
+          "abilityID": 980403,
+          "simpleDesc": "Remove a random negative effect"
+        }
+      ]
+    },
+    {
+      "id": 9795,
+      "name": "Giọt Máu",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng tiêu thụ [BloodDinner] ≥ 3 (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nKhởi Chiến: nếu mục tiêu có 30+ Lượng [Laceration] bị Danh Tính tiêu thụ [BloodDinner] tấn công, giảm lượng [Laceration] của chúng xuống 15. Rồi tăng [BloodDinner] bằng với Lượng [Laceration] đã giảm. (chỉ một lần duy nhất với mỗi lượt; chỉ kích hoạt trên mục tiêu chính nếu dùng Kỹ Năng có nhiều Phạm Vi Tấn Công)\n\nVới Danh Tính có Kỹ Năng tiêu thụ [BloodDinner], gán 1 [ResultEnhancement] và 1 [AttackDmgUp] vào lượt kế với mỗi 10 [BloodDinner] được tạo ra nhờ hiệu ứng trên (tối đa 4)",
+      "simpleDesc": [
+        {
+          "abilityID": 9795,
+          "simpleDesc": "Reduce Bleed Potency and increase Bloodfeast"
+        },
+        {
+          "abilityID": 979501,
+          "simpleDesc": "Apply Power Up and Damage Up"
+        }
+      ]
+    },
+    {
+      "id": 9796,
+      "name": "Hơi Thở U Uất",
+      "desc": "Nếu đồng minh được Triển Khai ở vị trí Số 5 có 50+ (tổng Lượng [Breath] và Tầng [Breath]): Xu Kỹ Năng của họ, khi tấn công sau khi Thắng Giao Tranh hoặc khi sử dụng Đòn Một Chiều, sẽ luôn lật Mặt Ngửa (với Xu Âm, là Mặt Úp), và +80% sát thương gây ra khi Trí Mạng. (một lần mỗi Ải, không tính Kỹ Năng E.G.O)\n\nNếu Số đồng minh trong Đội Hình có Kỹ Năng Tấn Công gán hay nhận Lượng [Breath] hoặc Tầng [Breath] ≥ 5, đồng minh được Triển Khai ở vị trí Số 5 +60% sát thương gây ra khi Trí Mạng (+20% sát thương gây thêm với mỗi 1 Danh Tính gây Chí Mạng vượt quá điều kiện trên, tính cả Đơn Vị Dự Bị)",
+      "simpleDesc": [
+        {
+          "abilityID": 9796,
+          "simpleDesc": "Deal more Sát Thương gây ra khi Trí Mạng"
+        },
+        {
+          "abilityID": 979601,
+          "simpleDesc": "Deal more Sát Thương gây ra khi Trí Mạng"
+        }
+      ]
+    },
+    {
+      "id": 9797,
+      "name": "Khẩu Pháo Sắp Tàn",
+      "desc": "Đầu Lượt: nhận 2 [GiftCannon] và 2 [GiftGlass] mỗi lượt\n\nBắt đầu từ lượt thứ 2 trở đi, số Lớp [GiftCannon] và [GiftGlass] nhận từ hiệu ứng trên tăng thêm 1 (lên tới 8 lần)",
+      "simpleDesc": [
+        {
+          "abilityID": 9797,
+          "simpleDesc": "Gain Firepower and Delicateness"
+        },
+        {
+          "abilityID": 979701,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9798,
+      "name": "Gai Dục Vọng",
+      "desc": "Đầu Ải: Tăng thêm 100 [BloodDinner]\nĐầu Lượt: Gây 2 [RoseThorn] lên\nkẻ địch (hoặc Bộ Phận) có [Laceration].\nNếu toàn bộ kẻ địch (hoặc tất cả Bộ Phận) đều có [Laceration], gây 4 [RoseThorn].",
+      "simpleDesc": [
+        {
+          "abilityID": 9798,
+          "simpleDesc": "Inflict Gluttonous Thorn (貪食棘)"
+        },
+        {
+          "abilityID": 979801,
+          "simpleDesc": "Inflict Gluttonous Thorn (貪食棘)"
+        }
+      ]
+    }
+  ]
+}

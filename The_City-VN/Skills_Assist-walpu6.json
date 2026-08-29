@@ -1,0 +1,183 @@
+{
+  "dataList": [
+    {
+      "id": 40000301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Với Tình Yêu!",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 5 ([Burst] + [Sinking]) trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +10 [PowerOfLoveAndJustice]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhân Danh Công Lý!",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 7 ([Burst] + [Sinking]) trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +10 Tầng [PowerOfLoveAndJustice]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 10+ ([Burst] + [Sinking]), gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arcana Beats",
+          "desc": "Chủ yếu nhắm vào 'Hiệp Sĩ Tuyệt Vọng'\nMục tiêu phụ là đồng minh có nhiều [ColdBlackTear] nhất\n- Nếu không có, mục tiêu phụ là đồng minh có HP thấp nhất\nGây 0 sát thương và không kích hoạt hiệu ứng [Sinking] và [ColdBlackTear] lên đồng minh\n\n[WinDuel] Gỡ 1 [ColdBlackTear] của đồng minh là mục tiêu phụ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu là kẻ địch, Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu là đồng minh, hồi 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu là kẻ địch, Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu là đồng minh, hồi 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu là kẻ địch, Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu là đồng minh, hồi 5 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Có Vẻ Ta Phải Dùng Đến Sức Mạnh Này!",
+          "desc": "[StartBattle] Nhận 1 [ChasingArcana]\n[StartBattle] Nhận 50 Khiên\n[StartBattle] Nhận 20 [Aggro] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vịnh Xướng - Arcana Slave",
+          "desc": "[StartBattle] Nhận 50 Khiên\n[StartBattle] Nhận 20 [Aggro] vào lượt kế\n[EndBattle] Ở mốc 0 Khiên HP, Rút Lui",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ARCANA SLAVE",
+          "desc": "[CantDuel]\nKhông gây sát thương lên Sword of a Forgotten Knight\nKết thúc lượt khi đánh trúng kẻ địch có [WornOutKnight]\n[EndBattle] Nhận [UsedTooMuchPower]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Giảm HP của mục tiêu xuống (100 - (Lớp [CollapsedPride] x 33))%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ARCANA SLAVE",
+          "desc": "[CantDuel]\nChỉ gây sát thương qua hiệu ứng Xu\nKhông gây sát thương lên Heart-breaking Sword, Heart-tearing Sword, và Heart-piercing Sword\nKết thúc lượt khi đánh trúng kẻ địch có [WornOutKnight] và HP ≤ 600\n[EndBattle] Nhận [UsedTooMuchPower]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây ([CollapsedPride] x 200) sát thương cố định"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Có Vẻ Ta Phải Dùng Đến Sức Mạnh Này!",
+          "desc": "[StartBattle] Nhận 1 [ChasingArcanahard]\n[StartBattle] Nhận 50 Khiên\n[StartBattle] Nhận 20 [Aggro] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

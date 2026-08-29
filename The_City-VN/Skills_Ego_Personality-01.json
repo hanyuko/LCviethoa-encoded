@@ -1,0 +1,1127 @@
+{
+  "dataList": [
+    {
+      "id": 2010611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[EndSkill] Gây ngẫu nhiên (6 + Thờ Ơ Cộng Hưởng) [Sinking] lên các mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Sinking], gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[EndSkill] Gây ngẫu nhiên (6 + Thờ Ơ Cộng Hưởng) [Sinking] lên các mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Sinking], gây <style=\"highlight\">2</style> [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[EndSkill] Gây ngẫu nhiên (6 + (<style=\"highlight\">Thờ Ơ Cộng Hưởng x 1.5</style>)) [Sinking] lên các mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Sinking], gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]. Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Sinking], gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">[BeforeAttack] Ở mốc 3+ (Thờ Ơ Cộng Hưởng), Phạm Vi Tấn Công +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]. Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Sinking], gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tháng Ngày Đã Qua",
+          "abName": "Chân Dung Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Ở mốc 3+ (Thờ Ơ Cộng Hưởng), Phạm Vi Tấn Công +1\n<style=\"highlight\">[BeforeAttack] Ở mốc 5+ (Thờ Ơ Cộng Hưởng), nhận thêm +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]. Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Sinking], gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "Ưu tiên mục tiêu có HP thấp nhất (ưu tiên đồng minh)\n[BeforeAttack] Nhận (Cộng hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa 7)\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu chính."
+                },
+                {
+                  "desc": "Nếu mục tiêu chính là đồng minh, +8% sát thương gây ra với mỗi [BoseProjektil] (tối đa 56%)"
+                },
+                {
+                  "desc": "[AllyKill] Gán 2 [Breath] cho chủ thể và 2 đồng minh ngẫu nhiên"
+                },
+                {
+                  "desc": "[AllyKillFail] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu phụ\n- Nếu Xu đầu tiên không giết được đồng minh, Xu này gây sát thương lên 1 mục tiêu phụ ngẫu nhiên"
+                },
+                {
+                  "desc": "+2% Sát Thương khi Trí Mạng với mỗi [BoseProjektil] (tối đa 14%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "Ưu tiên mục tiêu có HP thấp nhất (ưu tiên đồng minh)\n[BeforeAttack] Nhận (Cộng hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa 7)\n[EndSkill] Mất toàn bộ [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu chính.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Nếu mục tiêu chính là đồng minh, <style=\"highlight\">+10%</style> sát thương gây ra với mỗi [BoseProjektil] (tối đa <style=\"highlight\">70%</style>)"
+                },
+                {
+                  "desc": "[AllyKill] Gán 3 [Breath] cho chủ thể và 2 đồng minh ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 tài nguyên E.G.O dựa trên Nguyên Tội Kỹ Năng 1 của đồng minh bị giết</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Nhận <style=\"highlight\">3</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu phụ\n- Nếu Xu đầu tiên không giết được đồng minh, Xu này gây sát thương lên 1 mục tiêu phụ ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+5%</style> Sát Thương khi Trí Mạng với mỗi [BoseProjektil] (tối đa <style=\"highlight\">35%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "Ưu tiên mục tiêu có HP thấp nhất (ưu tiên đồng minh)\n[BeforeAttack] Nhận (Cộng hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n<style=\"highlight\">- Nếu đó là Kiêu Ngạo Cộng Hưởng, đổi thành nhận (Cộng hưởng cao nhất x 2) [BoseProjektil] (tối đa 7)</style>\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa 7)\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu chính.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Nếu mục tiêu chính là đồng minh, <style=\"highlight\">+15%</style> sát thương gây ra với mỗi [BoseProjektil] (tối đa <style=\"highlight\">105%</style>)"
+                },
+                {
+                  "desc": "[AllyKill] Gán 3 [Breath] cho chủ thể và 2 đồng minh ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 tài nguyên E.G.O dựa trên Nguyên Tội Kỹ Năng 1 và 2 của đồng minh bị giết</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Nhận <style=\"highlight\">3</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu phụ\n- Nếu Xu đầu tiên không giết được đồng minh, Xu này gây sát thương lên 1 mục tiêu phụ ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+9%</style> Sát Thương khi Trí Mạng với mỗi [BoseProjektil] (tối đa <style=\"highlight\">63%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có HP thấp nhất (ưu tiên đồng minh)\n[BeforeAttack] Nhận (Cộng hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n[BeforeAttack] +2% sát thương gây ra với mỗi [BoseProjektil] (tối đa 14%)\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa 7)\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu chính."
+                },
+                {
+                  "desc": "Nếu mục tiêu chính là đồng minh, +10% sát thương gây ra với mỗi [BoseProjektil] (tối đa 70%)"
+                },
+                {
+                  "desc": "Nếu mục tiêu chính là đồng minh, +2% sát thương gây ra với mỗi [Breath] trên chủ thể (tối đa 50%)"
+                },
+                {
+                  "desc": "[AllyKill] Gán 2 [Breath] cho chủ thể và 3 đồng minh ngẫu nhiên"
+                },
+                {
+                  "desc": "[AllyKill] Xu kế tiếp +2% sát thương gây ra mỗi [BoseProjektil] (tối đa 14%)"
+                },
+                {
+                  "desc": "[AllyKill] +1 tài nguyên E.G.O dựa trên Nguyên Tội Kỹ Năng 1 và 2 của đồng minh bị giết"
+                },
+                {
+                  "desc": "[AllyKillFail] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu phụ\n- Nếu Xu đầu tiên không giết được đồng minh, Xu này gây sát thương lên 1 mục tiêu phụ ngẫu nhiên"
+                },
+                {
+                  "desc": "+2% Sát Thương khi Trí Mạng với mỗi [BoseProjektil] (tối đa 14%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có HP thấp nhất (ưu tiên đồng minh)\n[BeforeAttack] Nhận (Cộng hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n[BeforeAttack] <style=\"highlight\">+3%</style> sát thương gây ra với mỗi [BoseProjektil] (tối đa <style=\"highlight\">21%</style>)\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa 7)\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu chính.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Nếu mục tiêu chính là đồng minh, <style=\"highlight\">+12%</style> sát thương gây ra với mỗi [BoseProjektil] (tối đa <style=\"highlight\">84%</style>)"
+                },
+                {
+                  "desc": "Nếu mục tiêu chính là đồng minh, +2% sát thương gây ra với mỗi [Breath] trên chủ thể (tối đa 50%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKill] Gán 3 [Breath] cho chủ thể và <style=\"highlight\">3</style> đồng minh ngẫu nhiên"
+                },
+                {
+                  "desc": "[AllyKill] Xu kế tiếp <style=\"highlight\">+5%</style> sát thương gây ra mỗi [BoseProjektil] (tối đa <style=\"highlight\">35%</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 tài nguyên E.G.O dựa trên Nguyên Tội Kỹ Năng 1, 2 và 3 của đồng minh bị giết</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Nhận <style=\"highlight\">2</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu phụ\n- Nếu Xu đầu tiên không giết được đồng minh, Xu này gây sát thương lên 1 mục tiêu phụ ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+3%</style> Sát Thương khi Trí Mạng với mỗi [BoseProjektil] (tối đa <style=\"highlight\">21%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có HP thấp nhất (ưu tiên đồng minh)\n[BeforeAttack] Nhận (Cộng hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n<style=\"highlight\">- Nếu đó là Kiêu Ngạo Cộng Hưởng, đổi thành nhận (Cộng hưởng cao nhất x 2) [BoseProjektil] (tối đa 7)</style>\n[BeforeAttack] <style=\"highlight\">+4%</style> sát thương gây ra với mỗi [BoseProjektil] (tối đa 28%)\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa 7)\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu chính.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Nếu mục tiêu chính là đồng minh, +15% sát thương gây ra với mỗi [BoseProjektil] (tối đa 105%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Nếu mục tiêu chính là đồng minh, +2% sát thương gây ra với mỗi [Breath] trên chủ thể (tối đa 50%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+30% Sát Thương khi Trí Mạng</style>"
+                },
+                {
+                  "desc": "[AllyKill] Gán 3 [Breath] cho chủ thể và <style=\"highlight\">4</style> đồng minh ngẫu nhiên"
+                },
+                {
+                  "desc": "[AllyKill] Xu kế tiếp <style=\"highlight\">+7%</style> sát thương gây ra mỗi [BoseProjektil] (tối đa <style=\"highlight\">49%</style>)"
+                },
+                {
+                  "desc": "[AllyKill] +1 tài nguyên E.G.O dựa trên Nguyên Tội Kỹ Năng 1, 2 và 3 của đồng minh bị giết<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Nhận <style=\"highlight\">3</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ gây sát thương lên mục tiêu phụ\n- Nếu Xu đầu tiên không giết được đồng minh, Xu này gây sát thương lên 1 mục tiêu phụ ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+4% Sát Thương khi Trí Mạng với mỗi [BoseProjektil] (tối đa 28%)</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây <style=\"highlight\">5</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[BeforeAttack] Nhận (Cộng hưởng cao nhất) [Breath] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, nhận thêm +(Cộng hưởng cao nhất / 3) Tầng [Breath] (tối đa 2; làm trong xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [ThreeMirrorpartYiSang] trong lượt này và lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng ([Sinking] trên mục tiêu / 3) (tối đa 5; làm tròn xuống)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu một lần; sau đó, giảm 1 Tầng [Combustion] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "<style=\"highlight\">[BeforeAttack] Nếu mục tiêu chính có 15+ ([Combustion] + [Sinking]), Sức Mạnh Xu +1</style>\n[BeforeAttack] Nhận (Cộng hưởng cao nhất) [Breath] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, nhận thêm +(Cộng hưởng cao nhất / 3) Tầng [Breath] (tối đa 2; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+2</style> Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [ThreeMirrorpartYiSang] trong lượt này và lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng ([Sinking] trên mục tiêu / 3) (tối đa 5; làm tròn xuống)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu một lần; sau đó, giảm 1 Tầng [Combustion] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[BeforeAttack] Nếu mục tiêu chính có <style=\"highlight\">10</style>+ ([Combustion] + [Sinking]), Sức Mạnh Xu +1\n[BeforeAttack] Nhận (Cộng hưởng cao nhất) [Breath] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, nhận thêm +(Cộng hưởng cao nhất / 3) Tầng [Breath] (tối đa 2; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">3</style> Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [ThreeMirrorpartYiSang] trong lượt này và lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng ([Sinking] trên mục tiêu / 3) (tối đa 5; làm tròn xuống)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu một lần; sau đó, giảm 1 Tầng [Combustion] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nKhi Xu Đánh Trúng, nhận 5 [Combustion]; khi Dùng Xu cuối, Sức Mạnh Tổng +1 (tối đa 3; một lần mỗi Xu)\n[BeforeAttack] Nhận (Cộng hưởng cao nhất) [Breath] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, nhận thêm +(Cộng hưởng cao nhất / 3) Tầng [Breath] (tối đa 2; làm tròn xuống)\n[BeforeAttack] Sức Mạnh Gốc -1 với mỗi Xu Nứt (lên tới -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ThreeMirrorpartYiSang] trong lượt này và lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] +10% sát thương gây ra với mỗi 10 ([Combustion] + [Sinking]) trên toàn bộ mục tiêu (tối đa 40%)",
+                  "summary": "[OnStartCoin] Gây thêm sát thương với mỗi 10 ([Combustion] + [Sinking]) trên toàn bộ mục tiêu"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu một lần; sau đó, giảm 1 Tầng [Combustion] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nKhi Xu Đánh Trúng, nhận <style=\"highlight\">4</style> [Combustion]; khi Dùng Xu cuối, Sức Mạnh Tổng +1 (tối đa 3; một lần mỗi Xu)\n[BeforeAttack] Nhận (Cộng hưởng cao nhất) [Breath] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, nhận thêm +(Cộng hưởng cao nhất / 3) Tầng [Breath] (tối đa 2; làm tròn xuống)\n[BeforeAttack] Sức Mạnh Gốc -1 với mỗi Xu Nứt (lên tới -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ThreeMirrorpartYiSang] trong lượt này và lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] +10% sát thương gây ra với mỗi 10 ([Combustion] + [Sinking]) trên toàn bộ mục tiêu (tối đa <style=\"highlight\">50</style>%)",
+                  "summary": "[OnStartCoin] Gây thêm sát thương với mỗi 10 ([Combustion] + [Sinking]) trên toàn bộ mục tiêu"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu một lần; sau đó, giảm 1 Tầng [Combustion] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nKhi Xu Đánh Trúng, nhận <style=\"highlight\">3</style> [Combustion]; khi dùng Xu cuối, Sức Mạnh Tổng +1 (tối đa 3; một lần mỗi Xu)\n[BeforeAttack] Nhận (Cộng hưởng cao nhất) [Breath] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, nhận thêm +(Cộng hưởng cao nhất / 3) Tầng [Breath] (tối đa 2; làm tròn xuống)\n[BeforeAttack] Sức Mạnh Gốc -1 với mỗi Xu Nứt (lên tới -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">3</style> Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ThreeMirrorpartYiSang] trong lượt này và lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] +10% sát thương gây ra với mỗi 10 ([Combustion] + [Sinking]) trên toàn bộ mục tiêu (tối đa <style=\"highlight\">60</style>%)",
+                  "summary": "[OnStartCoin] Gây thêm sát thương với mỗi 10 ([Combustion] + [Sinking]) trên toàn bộ mục tiêu"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Combustion] trên mục tiêu một lần; sau đó, giảm 1 Tầng [Combustion] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "[WideAreaRampage]\nKhi gây [SinkingWhite] bằng hiệu ứng của Kỹ Năng này: Có (Tỷ lệ tung Xu Ngửa)% tỷ lệ gây Tử Điệp. Nếu chủ thể không gây được Tử Điệp, đổi thành gây Sinh Điệp. (tính riêng cho từng Lớp [SinkingWhite])\n\nNếu E.G.O Lobotomy::Âm Vang Tiễn Biệt Yi Sang sử dụng Kỹ Năng này:\n- [BeforeAttack] Nhận một lượng ngẫu nhiên (Thờ Ơ Cộng Hưởng + 1) [BulletLament] (tối đa 7)\n- [EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [SinkingWhite] ngẫu nhiên"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu toàn bộ [BulletLament] trên chủ thể"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite](Sinh Điệp)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite](Tử Điệp)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "[WideAreaRampage]\nKhi gây [SinkingWhite] bằng hiệu ứng của Kỹ Năng này: Có (Tỷ lệ tung Xu Ngửa)% tỷ lệ gây Tử Điệp. Nếu chủ thể không gây được Tử Điệp, đổi thành gây Sinh Điệp. (tính riêng cho từng Lớp [SinkingWhite])\n\nNếu E.G.O Lobotomy::Âm Vang Tiễn Biệt Yi Sang sử dụng Kỹ Năng này:\n- [BeforeAttack] Nhận một lượng ngẫu nhiên (Thờ Ơ Cộng Hưởng + 1) [BulletLament] (tối đa 7)\n- [EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Tiêu toàn bộ [BulletLament] trên chủ thể<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite](Sinh Điệp)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite](Tử Điệp)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây sát thương Thờ Ơ bằng tổng cả hai [SinkingWhite] trên mục tiêu</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây sát thương Thờ Ơ bằng ([BulletLament] đã tiêu từ Xu này x 2)% tổng sát thương của Xu này</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "[WideAreaRampage]\nKhi gây [SinkingWhite] bằng hiệu ứng của Kỹ Năng này: Có (Tỷ lệ tung Xu Ngửa)% tỷ lệ gây Tử Điệp. Nếu chủ thể không gây được Tử Điệp, đổi thành gây Sinh Điệp. (tính riêng cho từng Lớp [SinkingWhite])\n<style=\"highlight\">Sức Mạnh Giao Tranh +1 với mỗi 4 ([Sinking] + cả hai [SinkingWhite]) trên mục tiêu chính (tối đa 4)</style>\n\nNếu E.G.O Lobotomy::Âm Vang Tiễn Biệt Yi Sang sử dụng Kỹ Năng này:\n- [BeforeAttack] Nhận một lượng ngẫu nhiên (Thờ Ơ Cộng Hưởng + 1) [BulletLament] (tối đa 7)\n- [EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Sinking]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Sinking]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Sinking]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [SinkingWhite] ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Sinking]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [AzureTakeDamageUp] và 1 [AzureResistDown], trong lượt này và lượt kế</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Tiêu toàn bộ [BulletLament] trên chủ thể<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite](Sinh Điệp)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SinkingWhite](Tử Điệp)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Thờ Ơ bằng tổng cả hai [SinkingWhite] trên mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Thờ Ơ bằng ([BulletLament] đã tiêu từ Xu này x 2)% tổng sát thương của Xu này<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 2, làm tròn xuống)\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [SinkingWhite](Sinh Điệp)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [SinkingWhite](Tử Điệp)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 2, làm tròn xuống)\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [SinkingWhite](Sinh Điệp)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [SinkingWhite](Tử Điệp)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây sát thương Thờ Ơ bằng tổng cả hai [SinkingWhite] trên mục tiêu</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Âm Vang Tiễn Biệt",
+          "abName": "Lễ Tang Tử Điệp",
+          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">Sức Mạnh Giao Tranh +1 với mỗi 4 ([Sinking] + cả hai [SinkingWhite]) trên mục tiêu chính (tối đa 4)</style>\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 2, làm tròn xuống)\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [SinkingWhite](Sinh Điệp)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [SinkingWhite](Tử Điệp)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [AzureTakeDamageUp] và 1 [AzureResistDown], trong lượt này và lượt kế</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Thờ Ơ bằng tổng cả hai [SinkingWhite] trên mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây sát thương Thờ Ơ bằng với số Lượng [Sinking] trên mục tiêu</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

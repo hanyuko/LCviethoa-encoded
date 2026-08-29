@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": 9011601,
+      "name": "Thấy... Mày...",
+      "desc": "Gây +10% sát thương lên mục tiêu có HP thấp nhất",
+      "summary": "+10% sát thương"
+    },
+    {
+      "id": 9011801,
+      "name": "...",
+      "desc": "Mục tiêu mất 3 SP nếu chủ thể thua giao tranh",
+      "summary": "Mục tiêu mất 3 SP"
+    },
+    {
+      "id": 9012001,
+      "name": "Dọn Dẹp",
+      "desc": "Khi sử dụng Kỹ Năng, nếu Máu của mục tiêu dưới 50%, Giá Trị Kỹ Năng +1",
+      "summary": "Giá Trị Kỹ Năng +1"
+    },
+    {
+      "id": 9012201,
+      "name": "Sắp Xếp",
+      "desc": "Khi sử dụng Kỹ Năng, nếu Máu của mục tiêu dưới 50%, +30% sát thương gây ra",
+      "summary": "Sát thương +30%"
+    },
+    {
+      "id": 9012301,
+      "name": "Dead End",
+      "desc": "When using a Skill, if this unit's Speed is faster than the target's, Sức Mạnh Giao Tranh +1",
+      "summary": "Sức Mạnh Giao Tranh +1"
+    },
+    {
+      "id": 9012501,
+      "name": "Đường Cùng",
+      "desc": "Khi sử dụng Kỹ Năng, nếu Tốc Độ của chủ thể nhanh hơn mục tiêu, Giá Trị Giao Tranh +1 và gây thêm 20% sát thương",
+      "summary": "Sức Mạnh Giao Tranh +1, +20% sát thương gây ra"
+    },
+    {
+      "id": 9012601,
+      "name": "Tôi... Sẽ Cố Hết Sức",
+      "desc": "Kết Thúc Lượt: Nếu bị Choáng, hồi 12 SP. Nhận 2 [DefenseDown] vào lượt kế (Tối đa một lần)",
+      "summary": ""
+    },
+    {
+      "id": 9012602,
+      "name": "Tôi Xin Lỗi... Phu Nhân!",
+      "desc": "Kết Thúc Lượt: Nếu chủ thể hồi phục sau cơn Hoảng Loạn, nhận 2 [Enhancement] vào lượt kế",
+      "summary": "Nhận 1 Tăng Sức Mạnh Công Kích vào lượt kế"
+    },
+    {
+      "id": 9101401,
+      "name": "Tao Dọn Cả Lũ Chúng Mày...",
+      "desc": "Kết Thúc Lượt: Nếu bị Choáng, hồi phục ngay lập tức và hồi lại 20 SP. Nhận 1 [AttackUp] vào lượt kế. (tối đa 1)",
+      "summary": ""
+    },
+    {
+      "id": 9101402,
+      "name": "Lũ Ngu Ngục!",
+      "desc": "Nếu Tốc Độ của chủ thể nhanh hơn mục tiêu, Giá Trị Giao Tranh +2",
+      "summary": "Sức Mạnh Giao Tranh +2"
+    },
+    {
+      "id": 9101403,
+      "name": "Giọng Nói Của Phu Nhân...!",
+      "desc": "Hồi 10 SP với mỗi Xu Ngửa được lật từ Kỹ Năng",
+      "summary": "Hồi 10 SP"
+    },
+    {
+      "id": 9101404,
+      "name": "Người Có Đang Dõi Theo Tôi Không, Phu Nhân?!",
+      "desc": "Nếu mục tiêu có [Sinking] và có -15 SP hoặc ít hơn, nhận 3 [AttackUp] vào lượt kế (một lần mỗi lượt)",
+      "summary": ""
+    },
+    {
+      "id": 9999999,
+      "name": "Bình Tâm Trở Lại",
+      "desc": "Cuối Lượt: nếu rơi vào Hoảng Loạn, đặt lại SP về 0.",
+      "summary": ""
+    },
+    {
+      "id": 9999998,
+      "name": "Tâm Thần Ổn Định",
+      "desc": "Hiệu ứng thay đổi Loại Hoảng Loạn không thể ghi đè Loại Hoảng Loạn của chủ thể. Thay vào đó, chủ thể sẽ được xem như mục tiêu không có SP khi nhận các hiệu ứng liên quan đến thay đổi Loại Hoảng Loạn",
+      "summary": ""
+    }
+  ]
+}

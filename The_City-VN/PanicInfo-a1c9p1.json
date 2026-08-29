@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1067,
+      "panicName": "Hụt Hơi",
+      "lowMoraleDescription": "Đầu Lượt: Mất 3 Lượng [Breath]",
+      "panicDescription": "Đầu Lượt: Mất 5 Lượng [Breath]"
+    },
+    {
+      "id": 1068,
+      "panicName": "Sách Giáo Khoa",
+      "lowMoraleDescription": "Sức Mạnh Giao Tranh +1 khi Giao Tranh với mục tiêu có [DuelEdge]\nThua Giao Tranh: Nhận 1 [Vulnerable] vào lượt kế (một lần mỗi lượt)",
+      "panicDescription": "Sức Mạnh Giao Tranh +2 khi Giao Tranh với mục tiêu có [DuelEdge]\nThua Giao Tranh: Nhận 2 [Vulnerable] vào lượt kế (một lần mỗi lượt)"
+    },
+    {
+      "id": 1069,
+      "panicName": "Trinh Nữ Sắt",
+      "lowMoraleDescription": "Đầu Lượt: nhận 1 [AttackDown] và 1 [DefenseUp]",
+      "panicDescription": "Đầu Lượt: nhận 2 [AttackDown] và 2 [DefenseUp]"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "dataList": [
+    {
+      "id": 971085,
+      "name": "Yield My Flesh",
+      "desc": "Từng lớp mái ngói dài san sát nhau tạo thành một vùng tối bất khả xâm phạm. Ẩn mình bên trong vùng tối ấy là một hình bóng đang tựa lưng vào bức tường trầm ngâm điều gì đó.\n\nNgười ấy thoáng nhận thấy chúng tôi rồi nhỏ giọng chất vấn chúng tôi.\n\n\"Các ngươi có sẵn sàng... hiến thịt bản thân để đoạt cốt kẻ thù không?\"\n\"Nếu sở hữu quyết tâm vững chắc như thế thì hãy cầm lấy thanh đao này.\"\n\nDù chỉ mới nhìn thoáng qua thôi nhưng thanh đao mà người ấy đưa ra có phần rất đáng ngờ.",
+      "options": [
+        {
+          "message": "Lấy thanh đao.",
+          "messageDesc": "Chọn để nhận Quà Tặng E.G.O Bị Nguyền Rủa",
+          "result": [
+            "\"Nhục trảm cốt đoạn, lí đại đào cương.\"(肉斬骨斷, 李代桃僵)\n\"Thí mạng bản thân sẽ cho phép con người ta trảm sâu vào kẻ thù.\"\n\nÁp lực trong cụm \"Thí mạng bản thân\" đè nặng lên tâm trí chúng tôi ngay khoảnh khắc nhận lấy thanh đao."
+          ]
+        },
+        {
+          "message": "Không lấy thanh đao.",
+          "messageDesc": "",
+          "result": [
+            "\"Kẻ không dám trảm không đáng sở hữu thanh đao lẫn lòng kiên quyết.\"\n\nDứt lời, người ấy đặt thanh đao về ngang eo rồi rời đi, không lời từ biệt."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971086,
+      "name": "T Corp. Time Prepayment Apparatus",
+      "desc": "Đằng sau tấm biển hiệu đã cũ nát từ thuở nào là một cỗ máy bán hàng tự động với biểu tượng của Tập Đoàn T được in mờ lên đó.\n\nCỗ máy rất cao với vô số kim đồng hồ vang lên liên tục và di chuyển khắp các đường ống bên trong. Bên dưới ghi rõ một câu khẩu hiệu để quảng cáo tiếp thị.\n\n\"Ngưng vay mượn thời gian đi!\"\n\"Những lúc nguy cấp hãy mua thời gian mà không bị trì trệ gì cả và trả trước bằng khoảng thời gian rảnh rỗi của bạn!\"\n\nCó một cái khe nhỏ bên cạnh cỗ máy để người sử dụng đút tay vào.\nChờ đã, bên dưới cái khe đó là những dòng chữ cực kỳ nhỏ gần như không thể nào đọc được.\n<Nó ghi cái gì đấy?>\n\"Khi sử dụng thiết bị này, theo điều khoản thì người dùng phải thanh toán một khoản phí thời gian, tiếp theo sẽ áp dụng trạng thái thiếu thời gian tạm thời (theo thỏa thuận, \"trạng thái thiếu thời gian tạm thời\" được đề cập bên trên sẽ do Thang Đo Biến Số Thời Gian của Tập Đoàn T dự đoán, tuy nhiên nếu bất kỳ khoảng thời gian nào trong ngày hoặc lớn hơn nữa sẽ được đo lường dựa trên Thang Đo Thời Gian Chuẩn của Tập Đoàn A); và khoản thời gian trả trước sẽ tự động được chuyển và tích lũy bên trong thiết bị bổ sung nằm bên trong cỗ máy, sau đó sẽ được chuẩn bị để cung cấp cho người dùng trong trường hợp họ yêu cầu rút khoản thời gian ấy ra thông qua việc thực hiện một loạt thủ tục quy trình hoặc đáp ứng các điều khoản hoàn tiền được quy định rõ ràng trong bản hướng dẫn sử dụng, bằng cách cộng tổng số giờ sử dụng mỗi ngày của người dùng và các khoản trợ cấp tỷ lệ gia tốc được tính bằng một công thức riêng biệt; thời gian, thứ tự và giới hạn chính xác trong việc phản ánh những thay đổi này vào số dư tài khoản của người dùng được xác định bằng các điều khoản dịch vụ của thiết bị như đã mô tả—\"\n\n\"T-tốt lắm. Anh không cần thiết phải thuật lại toàn bộ nội dung đâu.\"\n\n\"Ê khoan, chẳng phải cái này là thứ mà Nhân Viên Thu Thuế hay đeo trên tay sao?\"",
+      "options": [
+        {
+          "message": "Sử dụng thiết bị.",
+          "messageDesc": "Chọn để nhận Quà Tặng E.G.O Bị Nguyền Rủa",
+          "result": [
+            "Còn thời gian dư thừa để lãng phí thì có lẽ cũng nên thanh toán một chút luôn vậy.\n\n\"Có vẻ như chức năng của thiết bị này cũng không khác gì cơ chế được lắp đặt trên món găng tay của các Nhân Viên Thu Thuế của Tập Đoàn T cả, thưa Quản Lý Điều Hành.\"\n\n\"Có chắc là khoản thanh toán thành công không vậy? Tại tôi chẳng cảm thấy gì cả.\"\n\n<.......>\n\nLời nói của các Tội Nhân vang chậm ở đằng sau thì tôi cũng vội vàng tiếp tục hành trình của mình."
+          ]
+        },
+        {
+          "message": "Không sử dụng thiết bị.",
+          "messageDesc": "",
+          "result": [
+            "Chúng tôi hiện tại cũng chẳng dư dả thời gian mấy.\n\nNên đành bỏ qua nó và tiếp tục di chuyển."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971087,
+      "name": "Audio Logs of That Day",
+      "desc": "Trên chiếc bàn trống trải mà gọn gàng xuất hiện một máy ghi âm bằng giọng nói với lớp nhãn đã gần như bong tróc.\n\n<i><Bản Ghi Phỏng Vấn Người Sống Sót Nhánh Tập Đoàn Lobotomy ■■></i>\n\nNút \"Phát\" trơn nhẵn và có dấu hiệu như thể ai đó đã ấn đi ấn lại cái nút này vô số lần vậy.",
+      "options": [
+        {
+          "message": "Phát bản ghi âm.",
+          "messageDesc": "Chọn để nhận Quà Tặng E.G.O Bị Nguyền Rủa",
+          "result": [
+            "\"Nghiên cứu viên ■■■■■■■■■. Chúng ta có thể bắt đầu phỏng vấn được chưa?\"\n\n\"Một câu hỏi thật vô nghĩa khi cả hai ta đều biết rằng cậu có toàn quyền quyết định bắt đầu bất cứ lúc nào cũng được.\"\n\n\"Haha... Phải rồi. Vậy thì vào vấn đề chính luôn nhé.\"\n\n\"Về sự việc ■■■■■ ■■■■■■, liên quan đến sự cố ■■■■ ■■■■ tại ■■■... tình hình lúc đó như thế nào khi mọi chuyện xảy ra?\"\n\n\"Toàn bộ cơ sở bắt đầu rung lắc dữ dội. Rồi loa phát thanh vang lên: Tiến hành chôn vùi cơ sở trong 100 giây nữa.\"\n\n\"100 giây... đúng là có hơi ngắn thật, nhưng suy xét đến việc đã lắp đặt công nghệ của Tập Đoàn ■ cùng với các đơn vị vận chuyển hiện có khi ấy, thì như thế đồng nghĩa rằng vẫn còn đủ thời gian để sơ tán.\"\n\n\"Như cậu đã biết thì Nhánh ■■■ là một trong những cơ sở to lớn, quản thúc vô số Dị Thể với Mức Độ Nguy Hiểm cao hơn. Ví dụ như ■■■ ■■■ hoặc ■■.\"\n\n\"Và tất nhiên thì một vài trong số những thực thể ấy sở hữu khả năng chiếm trọn quyền kiểm soát toàn bộ cơ sở.\"\n\n\"Hầu hết lối thoát hiểm lẫn thang máy đều đã bị phá hủy hoặc đóng chặt hết. Chỉ còn duy nhất một khoang thoát hiểm mà thôi.\"\n\n\"Trong số tất cả những người dưới đấy thì tôi được xem là cá nhân với giá trị tiềm lực cao nhất—là nhân sự duy nhất cần được bảo toàn tính mạng và thoát ra trước.\"\n\n\"Sau khi suy xét kỹ lưỡng, tất cả đều đồng tình rằng tôi mới nên là người nên sơ tán trước.\"\n\n\"Chỉ có thế thôi.\"\n\n\"... Trông cậu bình tĩnh thật nhỉ. Như thể sự kiện ấy chưa từng xảy ra vậy.\"\n\n\"Có bổ sung thêm những chi tiết không liên quan cũng chẳng thay đổi được cốt lõi vấn đề, có đúng không?\"\n\n\"Thốt nên những lời lẽ hoặc suy nghĩ cảm thông cũng chẳng giúp ích được gì.\"\n\n\"Cậu không tiếc thương cho họ sao? Thậm chí chẳng hề đau buồn hay hối lỗi?\"\n\n\"Không hề.\"\n\n\"Điều kiện tiên quyết để nhận được lời cảm thông là phải có người cần những lời cảm thông đó hiện diện đã.\"\n\n\"Và điều kiện đó không hề áp dụng lên tôi. Thế thôi, tôi không có nhu cầu để đắm chìm vào thứ cảm xúc như thế.\"\n\nTrong bản ghi âm ấy, nghiên cứu viên tiếp tục trả lời những câu hỏi một cách thờ ơ.\n\nRồi bản ghi âm chợt cắt ngang và chỉ còn những âm thanh rè rè chói tai mà thôi."
+          ]
+        },
+        {
+          "message": "Rời đi.",
+          "messageDesc": "",
+          "result": [
+            "Đôi lúc lựa chựa tốt nhất chính là đừng tọc mạch vào những gì bản thân không muốn biết.\n\nChúng tôi tiếp tục hành trình và để yên cái máy ghi âm đó lại."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971088,
+      "name": "Recurring Faith and Promise",
+      "desc": "Chúng tôi bắt gặp hai thể sống dị thường đang đứng ở hai đầu của một cái bàn xoay hơi cổ kín.\n\n\"Có muốn thử vận may không? Giải thưởng đợi chờ người được vận may ban phước.\"\n\"Nếu thua. Sẽ trắng tay. Không thích hãy rời đi.\"\n\nChiếc bàn xoay cổ kín được chạm khắc rất nhiều ký tự kỳ lạ.\n\nChúng tôi không biết chúng có nghĩa là gì, nhưng lạ thay chúng lại hấp dẫn chúng tôi biết bao.\n\nNên làm gì đây?",
+      "options": [
+        {
+          "message": "Quay vòng quay may mắn.",
+          "messageDesc": "Chọn để nhận thêm hoặc mất Cost",
+          "result": [
+            "Chúng tôi không thể rời mắt khỏi vòng quay may mắn.\n\nVòng quay dừng lại ngay trước khi rời khỏi vạch màu vàng.\n\n\"Ồ, bạn thắng rồi!\"\n\"Bạn. May mắn.\"\n\n\"Một vòng quay nữa không? Gấp đôi tiền thưởng.\"\n\"Rời đi. Nếu. Không. Muốn.\""
+          ]
+        },
+        {
+          "message": "Dừng lại.",
+          "messageDesc": "",
+          "result": [
+            "\"Lựa chọn. Khôn ngoan.\"\n\"Hóa ra bản thân là kẻ hèn nhát.\"\n\nChúng tôi chạy khỏi căn phòng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97108801,
+      "name": "Recurring Faith and Promise 2",
+      "desc": "\"Một vòng quay nữa không? Gấp đôi tiền thưởng.\"\n\"Rời đi. Nếu. Không. Muốn.\"",
+      "options": [
+        {
+          "message": "Quay một vòng nữa..",
+          "messageDesc": "Chọn để nhận thêm hoặc mất Cost",
+          "result": [
+            "Chúng tôi không thể rời mắt khỏi vòng quay may mắn.\n\nVòng quay dừng lại ngay trước khi rời khỏi vạch màu vàng.\n\n\"Ồ, bạn thắng rồi!\"\n\"Bạn. May mắn.\"",
+            "Chúng tôi không thể rời mắt khỏi vòng quay may mắn.\n\nVòng quay dừng lại ngay trước khi rời khỏi vạch màu xanh.\n\n\"Bạn. Thua. Biến đi.\"\n\"Chia buồn, thua rồi. Không có tiền thưởng.\"\n\nChúng tôi vừa trắng tay, vừa bị đá khỏi căn phòng."
+          ]
+        },
+        {
+          "message": "Dừng lại.",
+          "messageDesc": "Dừng lại.",
+          "result": [
+            "\"Kẻ khôn ngoan luôn biết lúc nào nên dừng lại.\"\n\"Kẻ khôn ngoan. Không. Đánh cược.\"\n\nTôi không còn cảm thấy sức hấp dẫn của vòng xoay ấy nữa.\n\nChúng tôi rời đi với một túi tiền trên tay."
+          ]
+        },
+        {
+          "message": "Nói \"Tôi muốn cái vòng xoay.\"",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O",
+          "result": [
+            "\"Không. Có. Luật. Lệ. Như. Thế.\"\n\"Nhưng đấy lại là một lựa chọn vô cùng thú vị.\"\n\nHai sinh vật ấy nghi vấn một hồi, rồi quyết định biến mất vào bên trong vòng xoay.\n\nChúng tôi nhặt cái vòng xoay ấy lên rồi tiếp tục hành trình."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97108802,
+      "name": "Recurring Faith and Promise 3",
+      "desc": "\"Quay một vòng cuối nhé?\"\n\"Hãy nhớ. Luôn chơi. Có chừng mực.\"",
+      "options": [
+        {
+          "message": "Tiếp tục quay.",
+          "messageDesc": "Chọn để nhận thêm hoặc mất Cost",
+          "result": [
+            "Chúng tôi không thể rời mắt khỏi vòng quay may mắn.\n\nVòng quay dừng lại ngay trước khi rời khỏi vạch màu vàng.\n\n\"Chiến thắng hoàn hảo!\"\n\"Bạn thắng. Chỉ nhờ. May mắn. Đừng. Bao giờ. Quay lại.\"\n\nKhoảnh khắc nhận lấy túi tiền dày cộm, cả bàn xoay lẫn hai sinh vật ấy đều biến mất.",
+            "Chúng tôi không thể rời mắt khỏi vòng quay may mắn.\n\nVòng quay dừng lại ngay trước khi rời khỏi vạch màu xanh.\n\n\"Chia buồn, thua rồi. Không có tiền thưởng.\"\n\"Có. Linh cảm. Đừng. Bao giờ. Quay lại.\"\n\nChúng tôi vừa trắng tay, vừa bị đá khỏi căn phòng."
+          ]
+        },
+        {
+          "message": "Dừng lại.",
+          "messageDesc": "Chọn để nhận Cost",
+          "result": [
+            "\"Kẻ khôn ngoan luôn biết lúc nào nên dừng lại.\"\n\"Kẻ khôn ngoan. Không. Đánh cược.\"\n\nTôi không còn cảm thấy sức hấp dẫn của vòng xoay ấy nữa.\n\nChúng tôi rời đi với một túi tiền trên tay."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971089,
+      "name": "Poultry Memory",
+      "desc": "Quán Nhậu Eunbong!'\n'Gọi ngay 555-0102-0386-2664! Tức là 555-0102-Zero-EUN-BONG!'\n\nChúng tôi đi theo giai điệu bắt tai ấy đến trước một cỗ máy quá đỗi quen thuộc.\n\"A, đó là máy gắp thú. Nó có... Ơ, mấy cái này là...\"\n<... Tại sao lại có thú bông Bongy trong này vậy?>\n\"Chẳng phải cái tên đó nói cái con đưa cho chúng ta là bản độc nhất sao? Rằng trên đời không hề có con thứ hai giống vậy?\"\n\"... Lời hứa như thế chẳng hề có lấy bất kỳ trọng lượng nào trong Hầm Ngục Gương.\"\n\"Ừm ừm. Có lẽ là một đặc tính cần phải trải nghiêm mới có thể hiểu biết được.\"\n\"Mọi người chờ đã nào. Nhìn con thú bông đằng kia đi. Tôi vừa thấy đường may của nó áng lên màu vàng chói lóa đó! Chắc chắn bên trong có tiền rồi!\"\n\nBên trong máy gắp thú là vô số Bongy với đủ loại kiểu mẫu khác nhau.\nChúng tôi nên gắp con nào đây?",
+      "options": [
+        {
+          "message": "Gắp thú bông Bongy nhỏ.",
+          "messageDesc": "Chọn để nhận Cost",
+          "result": [
+            "Con Bongy nhỏ có lẽ gắp cũng dễ thôi.\n\nTôi từ tốn điều khiển cái tay gắp qua đám thú bông và ấn nút để gắp con Bongy nhỏ ấy... và thật bất ngờ làm sao, con thú bông đã được đưa thẳng đến chỗ nhận quà mà không hề bị xê dịch hay rớt xuống giữa chừng. Một tiếng <i>rầm</i> vang lên từ trong khe nhận hàng.\n\n\"Nghe tiếng hơi nặng đấy. Không biết có món gì đắt tiền trong đấy không ta?\"\n\"Dĩ nhiên là có rồi? Bộ không thấy cái ánh vàng lấp lánh hồi nãy hả? Để chuyên gia làm việc nào Dante!\"\n\"Ấy cô làm cái gì vậy—\"\n\"Rạch bụng nó ra chứ còn gì nữa!\"\n\"Ngài Bongy Bé Bỏng!!!!!!\"\n\nMột Tội Nhân mở phanh bụng con Bongy tội nghiệp ra và những đồng tiền cứ thế trào khỏi lớp da bông bông.\nLúc chúng tôi bận bịu gom hết những đồng tiền ấy lại, thì cái tiếng nhạc bắt tay cũng dần bé đi và cũng không còn cất lên nữa."
+          ]
+        },
+        {
+          "message": "Gắp thú bông Bongy cỡ vừa.",
+          "messageDesc": "Chọn để nhận Cost (có khả năng nhận thêm Cost)",
+          "result": [
+            "Chúng tôi nhìn thấy con Bongy cỡ vừa ở một vị trí khá thuận lợi và quyết định thử vận may.\n\nTôi từ tốn điều khiển cái tay gắp qua đám thú bông và ấn nút để gắp con Bongy cỡ vừa ấy... và thật bất ngờ làm sao, con thú bông đã được đưa thẳng đến chỗ nhận quà mà không hề bị xê dịch hay rớt xuống giữa chừng. Hai tiếng <i>rầm</i> vang lên từ trong khe nhận hàng. <i>Những hai lần.</i>\n\n\"Ồồồ... Bên cạnh con Bongy đã chọn là một con Bongy nhỏ hơn nữa; câu thành ngữ \"một mũi tên trúng hai con nhạn\" hay đúng hơn là \"một lần gắp hưởng hai bé gà\" rất phù hợp trong ngữ cảnh này. Hai bé gia cầm này không chỉ giúp chúng tôi có thêm miếng cơm manh áo mà còn cho chúng ta thêm tiền tài phú quý nữa.\"\n<Tôi có nghe thấy bên trong phát ra tiếng leng keng ấy. Chắc là tiền chăng?>\n\"Ngài nghĩ thế sao? Vậy để chuyên gia thẩm định nào Dante!\"\n\"Ấy cô làm cái gì vậy—\"\n\"Rạch bụng chúng ra chứ còn gì nữa!\"\n\"Ngài Bongy Bé Bỏng! Và Ngài Bongy Bé Con!!!!!\"\n\nMột Tội Nhân mở phanh bụng hai con Bongy tội nghiệp ra và những đồng tiền cứ thế trào khỏi lớp da bông bông.\nLúc chúng tôi bận bịu gom hết những đồng tiền ấy lại, thì cái tiếng nhạc bắt tay cũng dần bé đi và cũng không còn cất lên nữa.",
+            "Tôi từ tốn điều khiển cái tay gắp qua đám thú bông và ấn nút để gắp con Bongy cỡ vừa ấy... nhưng bằng một cách nào đó thì nó lại kẹt thẳng ngay trong lỗ nhận quà.\nMay thay, một con nhỏ hơn ở cạnh bên rớt thẳng xuống.\n\n\"Rách mất rồi.. Hẳn là do kẹt lại trước khi mới tòi ra khỏi khe nhận.\"\n\"Hửm? Này, đưa nó cho tôi cái, Dante!\n\"Ấy cô làm cái gì vậy—\"\n\"Con thú bông này đầy ắp tiền nè. Gặp may rồi!\"\n\nMột Tội Nhân mở phanh bụng hai con Bongy tội nghiệp ra và những đồng tiền cứ thế trào khỏi lớp da bông bông.\nLúc chúng tôi bận bịu gom hết những đồng tiền ấy lại, thì cái tiếng nhạc bắt tay cũng dần bé đi và cũng không còn cất lên nữa."
+          ]
+        },
+        {
+          "message": "Gắp thú bông Bongy to lớn.",
+          "messageDesc": "Chọn để nhận Cost (có khả năng nhận thêm Cost)",
+          "result": [
+            "Mấy cái tay gắp mảnh khảnh đó có gắp nổi con Bongy khổng lồ kia không ta?\n\nTôi cũng chẳng chắc lắm nhưng vẫn từ tốn điều khiển cái tay gắp qua đám thú bông và ấn nút để gắp con Bongy ấy.\n\nMột tiếng rầm rõ to vang lên từ trong khe nhận hàng.\n\n\"Ố-ui! Đường may của Ngài Bongy Bé Bự đã hoàn toàn sứt chỉ rồi!\n\"Nó không chịu được tác động của cú rơi đó.\"\n\"Đợi chút, nhìn kìa! Có thứ gì đó tuôn ra từ mấy chỗ đứt chỉ nè~ Là tiền đó mọi người!\"\n\nChúng tôi nhặt nhạnh hết những đồng tiền bên trong con thú bông.\nLúc chúng tôi bận bịu gom hết những đồng tiền ấy lại, thì cái tiếng nhạc bắt tay cũng dần bé đi và cũng không còn cất lên nữa.",
+            "CMấy cái tay gắp mảnh khảnh đó có gắp nổi con Bongy khổng lồ kia không ta?\n\nTôi cũng chẳng chắc lắm nhưng vẫn từ tốn điều khiển cái tay gắp qua đám thú bông và ấn nút để gắp con Bongy ấy.\n\nTrong khe nhận hàng liên tục vang lên tiếng rọc rạch.\n\n\"Nó không chịu rớt xuống... Chắc là kẹt cứng rồi.\"\n\"Mấy đường chỉ may hẳn bị giãn ra rồi, xung quanh toàn là đồng tiền đang liên tục đổ ra này.\"\n<Thôi thì cũng nhặt hết chúng xem như quà an ủi vậy.>\n\nLúc chúng tôi bận bịu gom hết những đồng tiền ấy lại, thì cái tiếng nhạc bắt tay cũng dần bé đi và cũng không còn cất lên nữa."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971110,
+      "name": "Bamboo-hatted Kim's Past 1",
+      "desc": "\"Ừm, xin thứ lỗi...\"\n\nKhi chúng tôi đang thong thả dạo quanh đường phố của Tập Đoàn S, một chàng trai trẻ tiến tới nhóm tôi nhờ giúp đỡ. Cậu ta có vẻ đã lấy hết dũng khí để hỏi sau một hồi lâu do dự.\n\nSau đó, cậu ấy bắt đầu tự thuật: Để cải thiện địa vị của mình, cậu ta đã tham gia Kỳ Thi Khoa Cử—một chính sách hỗ trợ việc làm cho Tập Đoàn S—và đã đạt được một kết quả cao đầy triển vọng.\n\nNhưng đó cũng là lúc vấn đề của cậu ta bắt đầu phát sinh. Theo như những gì cậu ta biết, những người đạt kết quả xuất sắc  trong kỳ thi này sẽ được đãi ngộ hoàn toàn chi phí đi lại về nhà cùng với một người dẫn đường. Nhưng có gì đó sai sai vì khi cậu ta rời khỏi khu vực thi, không có ai hộ tống cậu bạn này cả.\n\nQuá bối rối trước tình cảnh eo hẹp bất ngờ, cậu quyết định đi quanh khu vực thi để tìm kiếm người hộ tống nhưng kết quả là cậu mất phương hướng và lạc đường tới con hẻm này.\n\nVà giờ cậu ấy đang hỏi xem chúng tôi có thể chỉ đường giúp không.... Chúng tôi nên làm gì đây?",
+      "options": [
+        {
+          "message": "\"Thứ lỗi, chúng tôi cũng chỉ vừa đặt chân tới đây.\"",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "\"À, mọi người cũng chưa rõ đường ở đây sao?\"\n\nCậu thanh niên rời đi, tặc lưỡi thất vọng.\n\n\"... Hừm.\"\n\nNgay khi cậu thanh niên đó khuất khỏi tầm mắt chúng tôi, Kim Nón Tre, người đang lén lút ở phía sau nhóm đột nhiên thở dài.\n\n\"Sư Phụ, huynh có gì muốn nói sao?\"\n\"Ờm, đó là... ta. Ta là cái thằng vừa nãy hỏi đường đó.\"\n\n... Tên này vừa thản nhiên đáp một quả bom sự thật khiến cả lũ sững sờ trong giây lát.\n\n\"Ngày xưa, do trẻ người non dạ, ta uống 'nước' nhưng 'khen nguồn trong', dù thứ 'nước' đó đã vấy bẩn từ lâu rồi. Thật lố bịch.\"\n\"Nội dung của bài kiểm tra là viết một bài luận về một kẻ đã phản bội Tập Đoàn S. Tuổi trẻ đầy lầm lỡ, ta đã tự tin viết một bài luận dài làm nhục tên phản bội khốn kiếp đó để những chuyện như vậy sẽ không bao giờ tái diễn, làm hoen ố lịch sử của chúng ta lần nữa...\"\n\"...cho tới khi ta nhận ra danh tính của kẻ đó lúc trở về nhà. Ai mà biết được \"tên phản bội khốn kiếp\" mà ta đã dành những từ ngữ nhục mạ thậm tệ trong lúc thi lại chính là tổ tiên của ta cơ chứ?\"\n\n\"V-Vậy thì lý do huynh không hứng thú tìm kiếm một chức tước cao ngay cả khi đã hoàn thành bài kiểm tra đó là vì...\"\n\n\"Sao ta dám chứ, Aeng-du? Muội có muốn biết lý do không có ai tình nguyện hộ tống con người ngu ngốc của ta trong quá khứ kia không?\n\"Bởi vì tất cả mọi người ở Tập Đoàn S trừ bản thân ta đều đã biết những gì mà ta đã làm. Ta—một thằng khốn đã phản bội cái danh của dòng họ tổ tiên chỉ để vượt qua một bài kiểm tra.\n\nKim lầm bẩm câu chuyện của mình như thể đang kể một câu chuyện cười ngắn rồi bắt đầu tiến lên trước chúng tôi...\n\n\"Nhưng họ cũng không cần chế nhạo khiến ta tự bẻ gãy bút lông của mình vì bản thân ta đã tự làm việc này trước đó rồi.\"\n\n...với một bàn tay đang cố nắm chặt, giấu cái tay run rẩy còn lại."
+          ]
+        },
+        {
+          "message": "\"Để tôi hỏi xem nhóm tôi có thể giúp được gì không?\"",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phàm Ăn & Kiêu Ngạo để nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971111,
+      "name": "Bamboo-hatted Kim's Past 2",
+      "desc": "Băng qua những con đường ở Tập Đoàn S, chúng tôi bắt gặp một chàng trai trẻ đang ôm chặt thanh kiếm, hướng ánh mắt vô hồn lên trời.\n\n\"... A.\"\n\nCó vẻ cậu ta đã để ý thấy ánh mắt dò xét của chúng tôi—Cậu ấy ngẩng đầu lên, nhìn về phía chúng tôi một lượt rồi lại quay đầu về chỗ cũ.\n\n\"Mấy người thoải mái đi qua đê. Tôi không có ý định làm hại ai đâu.\"\n\nGiọng này quen thật... nhưng tôi không thể khẳng định rằng đó là giọng của ai.\n\n\"Ta ngồi ta ngắm mây trôi; Không có hồi kết, không ngộ được thêm.\"\n\nKim đột nhiên nổi hứng ngâm thơ khi chúng tôi chuẩn bị bước qua chàng trai đang ôm kiếm.\nỒ, vậy thì cậu trai đó chắc hẳn là...\n\n\"... Anh biết tôi sao?\"\n\"Ta chỉ muốn đưa ra một lời khuyên bâng quơ thôi thì cớ gì mà ta phải biết tên cậu chứ? Ta chỉ đơn thuần là một kẻ tọc mạch không thể kiểm soát được bản thân khi đi qua một ván cờ vây đang ở thế bất lợi mà thôi.\"\n\nChàng trai mở to mắt ngạc nhiên và bắt đầu nói với giọng trầm tư.\n\n\"Anh chắc chắn là một cao thủ hạng Dan cao trình hơn tôi. Nếu được phép, tôi có thể thỉnh giáo anh một 'nước đi' được không?\"\n\"Trong quá khứ, tôi đã đi một nước cờ đầy ô nhục và đáng bị chế giễu. Tôi vẫn luôn hổ thẹn với bản thân vì nước đi đó; vậy nên để sinh mạng này trở nên có ích hơn, tôi bắt đầu suy nghĩ về việc trở thành một lưỡi kiếm lang thang xuôi theo túi tiền của kẻ khác...\"\n\"...Nhưng rồi một người đàn ông liêm khiết, một tâm hồn cao thượng chính trực đã tìm đến tôi và đề nghị tôi trở thành lưỡi kiếm phục vụ cho người ấy. Tuy nhiên, tôi sợ bàn tay của người đó sẽ do chính tay tôi vấy bẩn.\"\n\"Anh nghĩ sao? Tôi lên chớp lấy cơ hội và đi nước cờ này không? Hay là...\"",
+      "options": [
+        {
+          "message": "Để Kim Nón Tre trả lời.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Chém",
+          "result": [
+            "\"Hổ thẹn về nước đi trong quá khứ hả, thế thì sao nào?\"\n\n\"Cậu chẳng còn cách nào khác ngoài việc tiếp tục đặt quân lên bàn, luật chơi là thế, không được phép đi lại. Nghĩ mà xem?\"\n\n\"Nếu tiếp tục chơi tôi sẽ mất hết quân thì sao?\"\n\n\"Thế thì đầu hàng thôi.\"\n\"Cậu đã cố gắng hết khả năng của mình rồi. Kể cả khi nhận trái đắng thì cậu có thể làm được gì? Ít ra thì cậu đã có thể cầm cự và chơi cho tới khi ván cờ kết thúc.\"\n\"Cậu đang chơi theo kiểu 'nước chảy bèo trôi' đúng không?\"\n\n\".......\"\n\"Dù chúng ta mời gặp nhau nhưng anh như đi guốc trong 'xương' tôi vậy, người lạ mặt.\"\n\"Hãy nhận lấy thứ này coi như là lời cảm ơn cho nước đi 'can thiệp' này của anh.\"\n\nCảm giác như tôi vừa thấy bóng đèn lóe lên trên đầu chàng trai này; đôi mắt của cậu ta ngập tràn ánh sáng quyết tâm. Chàng trai—không, phải nói là Kim Nón Tre trong quá khứ nhanh chóng đưa cho chúng tôi thứ gì đó rồi nhảy dựng lên, rời đi trong chớp mắt.\n\n\"... Mà dù cậu có làm gì đi nữa thì thế cờ thua cuộc này chắc chắn đã an bài rồi.\"\nTôi nghĩ là Kim vừa lẩm bẩm gì đó."
+          ]
+        },
+        {
+          "message": "Để một Tội Nhân trả lời.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Kiêu Ngạo để hồi phục Danh Tính được chọn",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971112,
+      "name": "Bamboo-hatted Kim's Past 3",
+      "desc": "Tôi thoáng thấy một bóng người đang nhìn chằm chằm về phía bóng tối ảm đạm của nhà tù.\n\n\"Hầy...\"\n\nKim Nón Tre bắt đầu thở dài nhưng ngay trước khi anh ta kịp ngắt nhịp thở đó...\n\n\"Ai đó?!\"\n\nMột tiếng kêu chói tai cắt phăng đi bầu không khí ngột ngạt. Ai đó ở đây chắc chắn đã nhận ra chúng tôi.\n\nChúng tôi sẽ làm gì đây?",
+      "options": [
+        {
+          "message": "Nói bản thân mình là lính cai ngục, đang kiểm tra các tù nhân.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "\"Muốn lừa người khác thì chúng mày phải cố gắng thêm chút nữa chứ?!\"\n\nBị vạch trần ngay lập tức. Ai nghĩ ra ý tưởng lừa gạt dễ lộ như ban ngày này vậy...?\n\nChúng tôi vội vàng chuồn khỏi đây khi thấy một người phụ nữ mặt đỏ phừng phừng giận dữ đã tuốt gươm sẵn đuổi theo chúng tôi."
+          ]
+        },
+        {
+          "message": "Rút vũ khí và sẵn sàng chiến đấu.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Chém dựa vào kết quả của lựa chọn kế tiếp",
+          "result": [
+            "\"... Các người không phải lính cai ngục.\"\n\nNgười phụ nữ vừa phát hiện ra chúng tôi đứng yên đó quan sát một lúc với khuôn mặt bình thản, bỏ qua việc chúng tôi đã tuốt vũ khí, sẵn sàng để chiến đấu. Sau đó, cô ta tiến về phía chúng tôi, không có chút sát khí nào cả.\n\nNhưng thay vì nói với chúng tôi, cô ta hướng về phía bóng người đang ngồi phía sau song sắt nhà tù.\n\n\"Anh có thể giải thích không? Mấy kẻ này là ai? Và... chuyện gì đã xảy ra?\"\n\nMột loạt câu hỏi một chiều liên tiếp hướng về phía người tù nhân kia. Cô ta thử hết mọi cách để hỏi chuyện với người ngồi phía sau song sắt nhưng không có lời nào đáp lại.\n\n\"... Hầy. Khác gì nói chuyện với một cái xác đã chết khô đâu.\"\n\nCô ta thở dài bực bội rồi quay về phía chúng tôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97111201,
+      "name": "Bamboo-hatted Kim's Past 3",
+      "desc": "\"Mấy người tới đây để thăm anh ta sao? Mấy người có chung chí hướng với anh ta à?\"",
+      "options": [
+        {
+          "message": "Nói không.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "\"... Không hả?\"\n\n\"À, thế thì ta có thể... coi các ngươi như những con gián bẩn thỉu đã xâm nhập trái phép vào nhà ngục của Triều Đình Hoàng Gia nhỉ?\"\n\nVừa dứt lời, cô ta rút kiếm và lao về phía chúng tôi, không thèm nghe lấy một lời giải thích. Chúng tôi nhanh chóng chuồn gấp, rời khỏi đây."
+          ]
+        },
+        {
+          "message": "Khẳng định bản thân và giải thích tình huống.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Kiêu Ngạo để nhận một Quà Tặng E.G.O Chém.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

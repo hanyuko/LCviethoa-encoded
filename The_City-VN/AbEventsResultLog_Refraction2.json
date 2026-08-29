@@ -1,0 +1,128 @@
+{
+  "dataList": [
+    {
+      "id": "853901_success_1_1",
+      "content": "<color=#ebcaa2>Toàn bộ Ô Cũ được triệu hồi kế tiếp</color> <color=#00ff9c>giảm 30% HP Tối Đa</color> khi xuất hiện"
+    },
+    {
+      "id": "853901_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>mất {1} SP</color>"
+    },
+    {
+      "id": "853901_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>mất {1} SP</color>"
+    },
+    {
+      "id": "854101_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] mất %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "854101_success_1_2",
+      "content": "<color=#ebcaa2>Tất cả bộ phận của [{0}]</color> <color=#ebcaa2>nhận</color> % {2} [{1}]/%"
+    },
+    {
+      "id": "854101_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] nhận %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "854101_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "854201_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>hồi {1} HP</color>"
+    },
+    {
+      "id": "854201_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}], {4} [{3}], và {6} [{5}]/%"
+    },
+    {
+      "id": "854201_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>hồi {1} HP</color>"
+    },
+    {
+      "id": "854201_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}], {4} [{3}], và {6} [{5}]/%"
+    },
+    {
+      "id": "854401_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> {2} {1}"
+    },
+    {
+      "id": "854401_success_1_2",
+      "content": "[{0}] nhận <color=#00ff9c>{2} {1}</color> vào lượt kế"
+    },
+    {
+      "id": "854401_failure_1_1",
+      "content": "<color=#ebcaa2>Toàn bộ {1} bị xóa bỏ</color> khỏi <color=#ebcaa2>[{0}]</color>"
+    },
+    {
+      "id": "854501_success_1_1",
+      "content": "<color=#ebcaa2>{0} Bị Choáng</color>"
+    },
+    {
+      "id": "854501_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "854501_failure_1_1",
+      "content": "<color=#ebcaa2>Phần Lõi của [{0}]</color> <color=#e30000>mất {1} HP</color>"
+    },
+    {
+      "id": "854901_success_1_1",
+      "content": "<color=#ebcaa2>Tiên đã Bị Choáng!</color>"
+    },
+    {
+      "id": "854901_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> <color=#e30000>{2} [{1}]</color>"
+    },
+    {
+      "id": "854901_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> <color=#e30000>{2} [{1}]</color>"
+    },
+    {
+      "id": "855001_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> <color=#e30000>{2} [{1}]</color>"
+    },
+    {
+      "id": "855001_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> <color=#e30000>{2} [{1}]</color>"
+    },
+    {
+      "id": "855001_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] mất</color> <color=#e30000>20% HP Tối Đa (Mất {1} HP)</color>"
+    },
+    {
+      "id": "855501_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>mất</color> <color=#e30000>{2} {1}</color>"
+    },
+    {
+      "id": "855501_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> <color=#e30000>{2} {1}</color>"
+    },
+    {
+      "id": "855501_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> <color=#e30000>{2} {1}</color>"
+    },
+    {
+      "id": "855501_failure_1_2",
+      "content": "<color=#ebcaa2>Tội Nhân [{0}]</color> <color=#ebcaa2>nhận</color> <color=#e30000>{2} {1}</color>"
+    },
+    {
+      "id": "855601_1_1",
+      "content": "Toàn bộ nhân vật gây {0}% sát thương"
+    },
+    {
+      "id": "855601_1_2",
+      "content": "Toàn bộ nhân vật nhận {0}% sát thương"
+    },
+    {
+      "id": "85560101_success_1_1",
+      "content": "Toàn bộ nhân vật <color=#00ff9c>gây {1}% sát thương</color> bằng Kỹ Năng Nguyên Tội [{0}]"
+    },
+    {
+      "id": "85560101_success_1_2",
+      "content": "Toàn bộ nhân vật <color=#e30000>nhận {1}% sát thương</color> từ Kỹ Năng Nguyên Tội [{0}]"
+    }
+  ]
+}

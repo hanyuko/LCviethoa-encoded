@@ -1,0 +1,5252 @@
+{
+  "dataList": [
+    {
+      "id": 800001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn"
+        }
+      ]
+    },
+    {
+      "id": 800002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né"
+        }
+      ]
+    },
+    {
+      "id": 800003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn"
+        }
+      ]
+    },
+    {
+      "id": 800004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né"
+        }
+      ]
+    },
+    {
+      "id": 8001001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngờ Vực",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8001002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuốn Cây Mờ Nhạt"
+        }
+      ]
+    },
+    {
+      "id": 8001003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuốn Cây Mờ Nhạt"
+        }
+      ]
+    },
+    {
+      "id": 8001004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gai Rễ",
+          "keywords": [],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +3 Tầng [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8001005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sẻ Chia Nổi Đau",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8001006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quả Phù Phiếm",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 800501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gặm Nhấm",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ăn, Ăn Nữa, Ăn Mãi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Hồi 1 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Hồi 1 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Hồi 1 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lăn",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cú Chộp Lười Biếng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cháy Sém",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phẫn Nộ Bộc Phá",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Combustion] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Nát",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Nát",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Địa Chấn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hiến Tế Sống",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vũ Trụ Rực Lửa",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tượng Thờ Kiên Cố",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vũ Trụ Rực Lửa",
+          "desc": "[CantDuel] Tấn công đồng minh",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhào Vào",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +1 Tầng [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cào Xé",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +1 Tầng [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhào Vào Dữ Dội",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +1 Tầng [Laceration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +1 Tầng [Combustion] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cào Xác",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +1 Tầng [Laceration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +1 Tầng [Combustion] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phun Lửa",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mầm Mọc",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 800802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quả Vàng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[DefeatDuel] Nhận 20 sát thương"
+                },
+                {
+                  "desc": "[DefeatDuel] Mất 1 [BeingGolden]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vàng Nguyên Khối",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hấp Thụ Dinh Dưỡng",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Phần thân chính hồi 3 HP"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xác Thịt Mục Nát",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trói Chặt",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Phần thân chính hồi 10 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đi Làm Nào...",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Làm Việc Cật Lực!",
+          "desc": "[WhenUse] Mất 10 HP; Sức Mạnh Kỹ Năng +1",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bận Quá...",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phải Cố Thêm Tí Nữa...",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Giữ Vững Phong Độ!",
+          "desc": "[WhenUse] Mất 10 HP; Sức Mạnh Kỹ Năng +1",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bận Quá...",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đến Giờ Làm Việc Rồi!",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đi Làm Đi!",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Agility] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hào Hứng Quá!!",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 sát thương"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 sát thương"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "TRỪNG☆PHẠT",
+          "desc": "[WhenUse] Mất 10 HP; Sức Mạnh Kỹ Năng +2",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "KHẨN-CẤP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 sát thương"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 sát thương"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 sát thương"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mày Dám Cản Tao?!",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cử Chỉ Bị Kiềm Chế",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khao Khát Bị Dồn Nén",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điệu Nhảy Hồng Đào",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Desire] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Desire] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cử Chỉ Bị Kiềm Chế",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khao Khát Bị Dồn Nén",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điệu Nhảy Hồng Đào",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Desire] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kiếm Ăn!",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kiếm Thật Nhiều Tiền!",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Agility] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thật Là Vui!!!",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 sát thương"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 sát thương"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vòng Xoáy☆ Lấp Lánh!?",
+          "desc": "[WhenUse] Mất 10 HP; Sức Mạnh Kỹ Năng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Desire] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khai Hỏa",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sầu Muộn Trào Dâng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Sinking] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Xuống",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khát Vọng Mãnh Liệt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nghiền Nát",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cú Cán Kiêu Hãnh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vục Mỏ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phang Chém",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dậm Chân",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mổ Mỏ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khối Băng",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Mỏ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ánh Nhìn Rùng Rợn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 sát thương SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sao Chép Không Hoàn Chỉnh",
+          "desc": "Sao chép kĩ năng đã đánh trúng đơn vị này\n[WhenUse] Gây 10 sát thương SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điều Chỉnh Vỏ Bọc",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 10% HP tối đa; Nhận 1 [Aggressive]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bạo Cốt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 10% HP tối đa"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cào Tàn Bạo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điên Cuồng Càn Quét",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Thành Từng Mảnh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điên Cuồng Truy Đuổi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +6 Tầng [Laceration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +6 Tầng [Burst] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bản Năng Sắc Bén",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cào Xé",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Canh Gác",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xung Kích Vô Định",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cánh Tay Quấn Xiết",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuộn Tròn",
+          "desc": "[DefeatDuel] Mất 1 [Aggressive]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 20 HP; Gây +5 tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vung Tay",
+          "desc": "Sức Mạnh Kỹ Năng -1 với mỗi cánh tay bị phá",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] và 2 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cánh Tay Giãy Giụa",
+          "desc": "[DefeatDuel] Mất 1 [Aggressive]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nâng 10 Ngưỡng Choáng; Gây 5 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nín Thở",
+          "desc": "[StartBattle] Gây 1 [Aggressive]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quằn Quại Đau Đớn",
+          "desc": "[WhenUse] Mất 12 HP; Nhận 5 [Laceration] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Poison] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Poison] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Poison] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quằn Quại Đau Đớn",
+          "desc": "[WhenUse] Mất 12 HP; Nhận +3 tầng [Laceration] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đâm Sâu",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Siết Chặt",
+          "desc": "[StartBattle] Gán [Cromer_Target] lên mục tiêu vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khúc Khích",
+          "desc": "[WhenUse] Gây 10 sát thương SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Enhancement] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Xuyên Thấu Tội Lỗi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Nail] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Nail] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Nail] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thanh Tẩy",
+          "desc": "[WhenUse] Nếu mục tiêu HP thấp hơn 30%, Sức Mạnh Kỹ Năng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Nail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Nail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Nail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 5+ [Nail], làm Choáng và gỡ toàn bộ [Nail] trên mục tiêu này"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Sẽ Đoạt Mạng Ngươi!",
+          "desc": "[WhenUse] Nếu mục tiêu HP thấp hơn 30%, Sức Mạnh Kỹ Năng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 5+ [NailPersonality], làm Choáng mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương bằng 3x [Nail] trên mục tiêu, sau đó gỡ toàn bộ [Nail]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Sẽ Đoạt Mạng Ngươi!",
+          "desc": "[DefeatDuel] Bản thân bị Choáng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Choáng mục tiêu và gây 10 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 802910,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngươi Không Là Gì Cả",
+          "desc": "[OnSucceedEvade] Gây 5 sát thương SP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cánh Của Nguyên Thể",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cánh Của Nguyên Thể",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Cánh Ngây Thơ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đôi Cánh Tan Vỡ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đôi Cánh Tan Vỡ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Cánh Giận Dữ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sự Thanh Tẩy Cao Quý",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cái Siết Danh Dự",
+          "desc": "[WhenUse] Nếu mục tiêu HP thấp hơn 30%, +100% Sát thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nếu mục tiêu HP thấp hơn 30%, diết mục tiêu và hồi 30 HP\nNhận 2 [Enhancement] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hãy Sám Hối!!",
+          "desc": "[WhenUse] Nếu mục tiêu HP thấp hơn 30%, +100% Sát thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xác Thịt Vô Địch",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vỗ",
+          "keywords": [
+            "Reduction"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Reduction] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vỗ Mạnh",
+          "keywords": [
+            "Reduction"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Reduction] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quật Đuôi",
+          "keywords": [
+            "Vulnerable"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Túi Đè",
+          "keywords": [
+            "Binding"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pháo Máu",
+          "keywords": [
+            "Bleeding"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 20 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đông Máu",
+          "keywords": [
+            "Bleeding"
+          ],
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 30 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cào Xé",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điện Áp Ổn Định",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Truy Đuổi Điện Động",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 4 [Burst] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hú",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 4 [Disarming]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiếng Hú Điện",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Burst] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cột Thu Lôi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 5 [Burst] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chớp Đỏ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Burst] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hú",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 4 [Disarming]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cánh Tay Quấn Xiết",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vung Tay",
+          "desc": "[WhenUse] Nhận 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đùng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phun Độc",
+          "desc": "[WhenUse] Mất 6 HP; Nhận 5 [Laceration] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Poison] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Poison] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cụctáccụctác",
+          "desc": "Ưu tiên mục tiêu có SP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cụctacục",
+          "desc": "Ưu tiên mục tiêu có SP thấp nhất",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 7 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kiii-kéc",
+          "desc": "Nếu bản không nhật sát thương trong lượt này, Gắn 2 [Enhancement] cho tất đồng mình vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cụctáccccụctác",
+          "desc": "Ưu tiên mục tiêu có SP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cụctáccụccụctác",
+          "desc": "Ưu tiên mục tiêu có SP thấp nhất",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 7 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khii",
+          "desc": "[OnSucceedEvade] Mục tiêu mất 15 SP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kiikhìii",
+          "desc": "Nếu bản thân không nhận sát thương trong lượt trước, Sức Mạnh Xu +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Agility] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kụctácc!",
+          "desc": "Nếu bản thân không nhận sát thương trong lượt trước, Sức Mạnh Xu +3",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 7 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Krgh!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khii",
+          "desc": "Ưu tiên mục tiêu có HP cao nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khgaawahk",
+          "desc": "Ưu tiên mục tiêu có HP cao nhất",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 7 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khì!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ghi!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Krgh!",
+          "desc": "Ưu tiên mục tiêu có SP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Krgh…",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ghi!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khì",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Paralysis] và 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kiii-kéc!",
+          "desc": "Ưu tiên mục tiêu có SP thấp nhất\n[OnSucceedAttack] Triệu hồi Gà Sống",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khghghghgk",
+          "desc": "[WinDuel] Sức Mạnh Tổng +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 803905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Keghgh…",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Húc",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đè Ngã",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lao vào",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng 20% dựa trên sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng bằng 20% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng bằng 20% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "U Sầu Ngập Tràn",
+          "desc": "[DefeatDuel] Nhận 1 [Bull_Sadness]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 15 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng bằng 50% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiếng Khóc Bốc Hỏa",
+          "desc": "[WinDuel] Nhận 1 [Agility] và 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Bull_BuzzingEmotion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiếng Hét Bốc Hỏa",
+          "desc": "[WinDuel] Nhận 1 [Agility] và 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Bull_BuzzingEmotion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Bull_BuzzingEmotion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chói Mù Mắt Chó",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quét . . .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bắn Cự Ly Gần",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cắn",
+          "desc": "[WhenUse] Nhận 2 [SelfCharge]\n[DefeatDuel] Mất 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đuôi Chọc",
+          "desc": "[WhenUse] Nhận 2 [SelfCharge]\n[DefeatDuel] Mất 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quấn siết",
+          "desc": "[WhenUse] Nhận 2 [SelfCharge]\n[DefeatDuel] Mất 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tụ Điện",
+          "desc": "[WhenUse] Nhận 1 [SelfCharge]\nGây +10% sát thương lên mục tiêu đang bị [Paralysis]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Giải Phóng Năng Lượng",
+          "desc": "[WhenUse] Nhận 1 [SelfCharge]\nGây +10% sát thương lên mục tiêu đang bị [Paralysis]",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Giải Phóng Điện Năng",
+          "desc": "[WhenUse] Nhận 1 [SelfCharge]\nGây +20% sát thương lên mục tiêu đang bị [Paralysis]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phóng Thích Điện Cao Áp",
+          "desc": "Khi có 11+ [SelfCharge], gây +10% Sát thương với mỗi số [SelfCharge] vượt quá 10 (tối đa 100%)\nTiêu thụ toàn bộ số [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [ElectricStorage], gây sát thương cố định bằng 40% sát thương đã gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis] và 1 [ElectricStorage]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuộn Tròn",
+          "desc": "[Combat Start] Phần Đầu nhận Khiên dựa trên lượng HP hiện tại",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đầu Ngọ Nguậy",
+          "desc": "Ưu tiên mục tiêu có HP thấp nhất\n[WhenUse] Tiêu thụ 2 [SelfCharge]\n[DefeatDuel] Mất 2 [SelfCharge]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804510,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đuôi Ngọ Nguậy",
+          "desc": "Ưu tiên mục tiêu có HP thấp nhất\n[WhenUse] Tiêu thụ 2 [SelfCharge]\n[DefeatDuel] Mất 3 [SelfCharge]",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiếng Rên U Sầu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thoái Lui Cuồng Nộ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dội Ngược Đau Đớn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuồng Lưu Bi Thương",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiếng Khóc Tìm Kiếm Gì Đó",
+          "desc": "[WhenUse] Triệu hồi Ô Cũ vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +15% sát thương với mỗi Ô Cũ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mong Mỏi",
+          "desc": "[StartBattle] Tất cả kẻ địch mất 20 SP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bùa Trói Buộc",
+          "desc": "[WhenUse] Gây 2 [WrappedCurseTag]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Disarming] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chú Phù Chồng Chất",
+          "desc": "[WhenUse] Gây 1 [WrappedCurseTag]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [WrappedCurseTag] bằng với [WrappedCurseTag] trên mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 5 [Burst] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Burst] và +2 Tầng [Disarming] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Để Không Một Ai Phải Khóc",
+          "desc": "[EndBattle] Gỡ toàn bộ [ReattachedCurseTag]",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 5 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Luân Chuyển Bùa Nguyền",
+          "desc": "[WhenUse] Gỡ toàn bộ [WrappedCurseTag] trên mục tiêu; Nhận lại bằng lượng [ReattachedCurseTag]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bùa Nguyền Lan Rộng",
+          "desc": "[WhenUse] Gây [WrappedCurseTag] bằng với [WrappedCurseTag] trên mục tiêu",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Muốn Nhậu Không?",
+          "desc": "Trong giao tranh, cho 1 [Exalted]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration] và +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cùng Uống Một Ly Nào!",
+          "desc": "Trong giao tranh, cho 1 [Exalted]\n[WhenUse] Hồi 5% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Chỉ Còn Chừng Này Thôi!",
+          "desc": "Trong giáo tranh, cho 2 [Exalted]\nƯu tiên kẻ địch có [Vibration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion] bằng với Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Sẽ Lấy Cái Này!",
+          "desc": "[CantDuel]\nKhông thể bị chuyển mục tiêu\nƯu tiên mục tiêu có [Exalted]\nNếu mục tiêu không có [Tipsiness], Sức Mạnh Giao Tranh +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Exalted], +10% sát thương gây ra với mỗi Tầng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Tipsiness], gây 0 sát thương, và chủ thể mất 50 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gỡ toàn bộ [Exalted] hoặc [Tipsiness]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Sẽ Lấy Cái Này!",
+          "desc": "Ưu tiên mục tiêu có [Exalted]\nNếu mục tiêu không có [Tipsiness], Sức Mạnh Giao Tranh +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Exalted], +100% sát thương gây ra với mỗi Tầng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Tipsiness], gây 0 sát thương, và chủ thể mất 50 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gỡ toàn bộ [Exalted] hoặc [Tipsiness]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Không Có Lần Hai Đâu!",
+          "desc": "Ưu tiên 'Rượu Tiên'",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu đòn này tấn công Rượu Tiên, hồi 10% HP vào lượt kế, and nhận 2 [Enhancement], 2 [Agility], và 2 [Protection]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thích Mẻ Này Chứ?",
+          "desc": "[WhenUse] Nhận 1 [Binding] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rượu Tiên",
+          "desc": "[WhenUse] Chuyển hóa [Exalted] của mục tiêu thành [Tipsiness]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "U Sầu Lan Tỏa",
+          "desc": "[EndSkill] Gây +2 Tầng [Burst] và +2 Tầng [Sinking] lên tất cả kẻ địch",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ký Ức Đau Đớn",
+          "desc": "[WinDuel] Hồi 8 SP\n[DefeatDuel] Mất 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking] và 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking] và 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking] và 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ký Ức Gai Góc",
+          "desc": "[WinDuel] Hồi 8 SP\n[DefeatDuel] Mất 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tự Vệ",
+          "desc": "[DefeatDuel] Mất 8 SP and nhận 3 [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] và 2 [Reduction] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Con Tim Đau Nhói",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng bằng 50% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhấn Chìm Tất Cả",
+          "desc": "[WhenUse] Mất 30 SP and nhận 5 [Sinking]; Nhận [ErodingMind] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 15 SP."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Sinking] và 8 [Poison] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đuổi Chúng Đi",
+          "desc": "[OnDefeatEvade] Mất 8 SP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đừng Chạm Vào Ta...!",
+          "desc": "[StartBattle] Nhận [Thorn]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tỏa Hương",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nùng Hương",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DongbaekFlorescence]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DongbaekFlorescence]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nụ Hoa",
+          "desc": "Triệu hồi 2 hoa vào lượt kế\nNếu đã có đủ 4 hoa trên sân, nâng mức độ của hoa có mức độ thấp nhất lên 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DongbaekFlorescence]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tự Bách Hoa Thịnh Khai...",
+          "desc": "[WhenUse] Gây 3 [DongbaekFlorescence]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vĩ Lệ Cốc Phong",
+          "desc": "Sức Mạnh Tổng +5 cho mỗi Hoa Sắp Nở còn trên sân\n\n[EndSkill] Gỡ toàn bộ Hoa Sắp Nở",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 15 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DongbaekFlorescence]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phải Chôn Vùi Bằng Đất",
+          "desc": "[WhenUse] Gây [DongbaekShowdown] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quang Vinh Hoa Thắm",
+          "desc": "[StartBattle] Nhận 10 [Protection]\n[DefeatDuel] Nhận 1 [DongbaekScatterPetal]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804408,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điêu Tàn",
+          "desc": "[StartBattle] Nhận 10 [Protection]\n[DefeatDuel] Nhận 3 [DongbaekScatterPetal]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804409,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tụ Hương",
+          "desc": "Nếu mục tiêu đang trong trạng thái [DongbaekFullBloom], +100% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu đang trong trạng thái [DongbaekFullBloom], làm Choáng mục tiêu và gỡ bỏ hiệu ứng này"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +5 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804410,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lạt Hương",
+          "desc": "[OnSucceedEvade] Gây 1 [DongbaekFlorescence]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thủ Thời",
+          "desc": "[StartBattle] Nhận 5 [Protection]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gió Thoảng Hương Hoa",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gió Hương",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gió Hương Nồng Nàn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DongbaekFlorescence]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lan Tỏa Hương",
+          "desc": "[WhenUse] Hồi 10 HP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nở Rộ Hoàn Toàn",
+          "desc": "[DefeatDuel] This unit is defeated",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nở Rộ Hoàn Toàn",
+          "desc": "Không Thể Hành Động\nKhi kết thúc lượt, mất 20 SP\nNếu SP chạm ngưỡng -45, hồi lên SP tối đa, sau đó nhận [DongbaekFascination] vào lượt kế\nNếu hiệu ứng này không được loại bỏ trong 2 lượt, loại bỏ nó vào cuối lượt",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngươi cũng trống rỗng như ta",
+          "desc": "[WhenUse] Gây [DistortedDongrangEmptyMark] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tỉa Cành",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tỉa Cành",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Heal by damage dealt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tỉa Thưa",
+          "desc": " +50% sát thương gây lên mục tiêu có [DistortedDongrangEmptyMark]\n[DefeatDuel] Nhận 1 [Vulnerable] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP theo sát thương gây ra\nNếu mục tiêu có [DistortedDongrangEmptyMark], nhận 1 [Enhancement] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP theo sát thương gây ra\nNếu mục tiêu có [DistortedDongrangEmptyMark], nhận 1 [Enhancement] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phá Hủy",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vẫn Không Đủ...",
+          "desc": "Tấn công 1 đồng minh ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]; Hồi HP bằng 25% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]; Hồi HP bằng 25% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hấp thụ một hiệu ứng có lợi ngẫu nhiên và nhận nó vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phải Lấp Đầy......",
+          "desc": "Tấn công một mục tiêu ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hấp thụ một hiệu ứng có lợi ngẫu nhiên và nhận nó vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gán +5 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tất Cả Đều Trống Rỗng",
+          "desc": "[DefeatDuel] Nhận 10 [Burst]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đã Quá Muộn Rồi",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804910,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tất Cả Rồi Sẽ Bị Thiêu Rụi",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable], 5 [Burst], và 5 [Laceration]; Hồi HP bằng 10% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 804911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vô Dụng Thôi",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ươm Mầm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Binding] và 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Binding] và 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gieo Hạt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [EgoAwakenDongrangSeed] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thúc Đẩy",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [EgoAwakenDongrangSeed]; nếu mục tiêu đã có [EgoAwakenDongrangSeed], gây thêm 1 [EgoAwakenDongrangSeed]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [EgoAwakenDongrangSeed]; nếu mục tiêu đã có [EgoAwakenDongrangSeed], gây thêm 1 [EgoAwakenDongrangSeed]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [EgoAwakenDongrangSeed]; nếu mục tiêu đã có [EgoAwakenDongrangSeed], gây thêm 1 [EgoAwakenDongrangSeed]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mọc Tràn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [EgoAwakenDongrangSeed] và [EgoAwakenDongrangOverHeal]; hồi 15 HP cho mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thời Khắc Thu Hoạch",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vulnerable] và 10 [Laceration]\nNếu mục tiêu có [EgoAwakenDongrangTree], hồi 20 HP, and nhận 2 [Enhancement] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xin Hãy Trở Thành Dưỡng Chất Của Ta",
+          "desc": "[WhenUse] Toàn bộ Cây Khao Khát hồi 15 HP; Nếu không có Cây Khao Khát, triệu hồi 1 cây",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 10 HP; Gây 3 [EgoAwakenDongrangSeed]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thành Quả Nuôi Trồng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [EgoAwakenDongrangSeed]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [EgoAwakenDongrangSeed]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kỳ Vọng",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rễ Cây Lan Rộng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rễ Cây Chôn Vùi",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mồi Câu Rung Động",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Giảm 2 Cấp Phòng Thủ của mục tiêu vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thân Cây Lấn Chiếm",
+          "desc": "[WinDuel] Nếu mục tiêu có [Burst], Gây +2 Tầng [Disarming]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vực Thẳm Hiện Hữu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Vibration] bằng [Burst] trên mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cành Cứng",
+          "desc": "[StartBattle] Nhận 3 [Protection]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vết Thương Ngoài Da",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 2+ Tầng [Laceration], gây 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vết Thương Phức Tạp",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trét Thịt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], hồi 20 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 2+ Tầng [Laceration], gây 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tán Cây Phủ Bóng",
+          "desc": "[WhenUse] Triệu hồi Giant Clover vào lượt kế\n[DefeatDuel] Giant Clover xuất hiện với 70% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gỡ toàn bộ Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khuấy Trộn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 1% HP tối đa với mỗi [Laceration] của mục tiêu\n Gỡ toàn bộ Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gặm Nhấm",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ăn, Ăn Nữa, Ăn Mãi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Hồi 1 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Hồi 1 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Hồi 1 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lăn",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cú Chộp Lười Biếng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cháy Sém",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phẫn Nộ Bộc Phá",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Combustion] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khai Hỏa",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sầu Muộn Trào Dâng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Sinking] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Xuống",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khát Vọng Mãnh Liệt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nghiền Nát",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cú Cán Kiêu Hãnh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trác Lệnh Nữ Hoàng",
+          "desc": "[StartBattle] Gây 1 [PreparedMeat] cho tất cả đồng minh chưa có [PreparedMeat]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cánh Tiên Lam Sắc",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ăn Thịt",
+          "desc": "Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 3% HP tối đa cho Lõi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đói Khát Rung Chuyển",
+          "desc": "Khi có 3+ [Hunger], Sức Mạnh Xu +1\nNếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cơn Đói Cồn Cào",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có [PreparedMeat]\nNếu mục tiêu có 5 +[Laceration], Sức Mạnh Xu +1\nNếu mục tiêu có [PreparedMeat], Sức Mạnh Xu +10\nSức Mạnh Xu -5 với mỗi Bộ phận Tay bị phá hủy\n[TargetKill] Tất cả bộ phận nhận 2 [Enhancement] cho đến hết trận (có cộng dồn)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Dùng lại Xu này một lần (tối đa 3 lần mỗi Kĩ năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Lõi hồi 10 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tạm Nghỉ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đến Lúc Cho Tùy Tùng Ăn",
+          "desc": "[StartBattle] Gây 1 [PreparedMeat] cho tất cả đồng minh chưa có [PreparedMeat]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Măm Măm",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Lõi hồi 3 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Lõi hồi 3 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phàm Ăn",
+          "desc": "Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Lõi hồi 10 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Cánh Nhỏ Nhẹ",
+          "desc": "Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 826404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tạm Nghỉ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Truy Đuổi và Cắn Xé",
+          "desc": "Ưu tiên mục tiêu có Tốc Độ thấp nhất",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

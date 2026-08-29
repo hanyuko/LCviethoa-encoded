@@ -1,0 +1,368 @@
+{
+  "dataList": [
+    {
+      "id": "loginui_sign_in_with_google",
+      "content": "Đăng nhập bằng Google"
+    },
+    {
+      "id": "loginui_sign_in_with_apple",
+      "content": "Đăng nhập bằng Apple"
+    },
+    {
+      "id": "loginui_sign_in_with_steam",
+      "content": "Đăng nhập bằng Steam"
+    },
+    {
+      "id": "loginui_sign_in_with_guest",
+      "content": "Đăng Nhập bằng Tài Khoản Khách"
+    },
+    {
+      "id": "loginui_sign_out_current_account",
+      "content": "Đăng Xuất"
+    },
+    {
+      "id": "loginui_sign_out_current_account_desc",
+      "content": "Đăng xuất khỏi tài khoản hiện tại?\nDữ liệu của bạn có thể mất nếu bạn đang chơi tài khoản khách."
+    },
+    {
+      "id": "loginui_sign_out_switch_account_desc",
+      "content": "Đăng xuất khỏi tài khoản hiện tại\nvà chuyển qua tài khoản đang chọn?\nDữ liệu của bạn có thể mất nếu bạn đang chơi tài khoản khách."
+    },
+    {
+      "id": "switch_account",
+      "content": "Đổi Tài Khoản"
+    },
+    {
+      "id": "user_agreements",
+      "content": "Điều Khoản Sử Dụng"
+    },
+    {
+      "id": "title_game_data_download",
+      "content": "Tải Tài Nguyên Game"
+    },
+    {
+      "id": "content_game_data_download",
+      "content": "Xác nhận tải {0} dữ liệu game."
+    },
+    {
+      "id": "content_game_data_download_description",
+      "content": "Bạn sẽ quay về màn hình tiêu đề nếu thiết bị không dủ dung lượng bộ nhớ."
+    },
+    {
+      "id": "content_game_data_download_recommend",
+      "content": "Khuyến khích kết nối trực tiếp hệ thống mạng Internet (Wi-Fi)."
+    },
+    {
+      "id": "switch_allcacheclear",
+      "content": "Xóa Cache"
+    },
+    {
+      "id": "switch_oldcacheclear",
+      "content": "Xóa Cache Cũ"
+    },
+    {
+      "id": "networkingerror_content",
+      "content": "Mạng không ổn định.\nHãy kiểm tra lại đường truyền internet."
+    },
+    {
+      "id": "networkingerror_close",
+      "content": "Đóng"
+    },
+    {
+      "id": "networkingerror_retry",
+      "content": "Thử Lại"
+    },
+    {
+      "id": "loginui_ok",
+      "content": "Xác Nhận"
+    },
+    {
+      "id": "login_cancel",
+      "content": "Hủy Bỏ"
+    },
+    {
+      "id": "loginui_loading_battlehint",
+      "content": "Mẹo Vặt Chiến Đấu"
+    },
+    {
+      "id": "servererror_content",
+      "content": "Đã có lỗi máy chủ xảy ra.\nVui lòng thử lại sau."
+    },
+    {
+      "id": "forcequit_content",
+      "content": "Không thể chạy game.\nĐang đóng."
+    },
+    {
+      "id": "serverstate_openpreparation",
+      "content": "Hệ thống chuẩn bị sẵn sàng!"
+    },
+    {
+      "id": "serverstate_regularcheck",
+      "content": "Server hiện đang tiến hành bảo trì định kỳ."
+    },
+    {
+      "id": "serverstate_temporary_check",
+      "content": "Server hiện đang tiến hành bảo trì tạm thời."
+    },
+    {
+      "id": "serverstate_verify_invaliduser",
+      "content": "Tài khoản này không tồn tại hoặc đã bị đóng."
+    },
+    {
+      "id": "serverstate_verify_ban",
+      "content": "Tài khoản đã bị hạn chế."
+    },
+    {
+      "id": "serverstate_verify_invalidauth",
+      "content": "Đã có lỗi xảy ra.\nHãy đăng nhập lại."
+    },
+    {
+      "id": "guestlogin_failed_try_newguest",
+      "content": "Đăng Nhập Tài Khoản Khách Thất Bại.\nTài khoản có thể đã được liên kết từ trước, hoặc không tồn tại.\n\nBạn có muốn tạo Tài Khoản Khách mới không?"
+    },
+    {
+      "id": "secession_remain_days",
+      "content": "Tài khoản hiện đang trong giai đoạn ngừng hoạt động.\nThời Gian Còn Lại: {0}N {1}G {2}P\n\nBạn có thể khôi phục tài khoản nếu đăng nhập bây giờ.\nBạn có muốn hồi phục tài khoản?"
+    },
+    {
+      "id": "secession_canceled",
+      "content": "Khôi phục tài khoản thành công."
+    },
+    {
+      "id": "serverstate_verify_invalidclientversion",
+      "content": "Phiên bản hiện tại của trò chơi chưa được cập nhật.\nVui lòng cập nhật phiên bản mới nhất."
+    },
+    {
+      "id": "create_guest",
+      "content": "Tạo Tài Khoản Khách"
+    },
+    {
+      "id": "ask_to_remove_all_cache",
+      "content": "Xác nhận xóa cache?"
+    },
+    {
+      "id": "networkingerror_update",
+      "content": "Đi tới Cửa Hàng "
+    },
+    {
+      "id": "speed_hack_warning",
+      "content": "Usage of unauthorized third party program has been detected."
+    },
+    {
+      "id": "serverstate_verify_ban_startdate",
+      "content": "Ngày"
+    },
+    {
+      "id": "serverstate_verify_ban_reason",
+      "content": "Thông Tin"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_refund",
+      "content": "Lạm dụng hệ thống hoàn tiền trong Thị Trường Tự Do"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_cheat",
+      "content": "Lịch sử hành vi bất thường trong trò chơi"
+    },
+    {
+      "id": "serverstate_blocking_endpoint",
+      "content": "Chức năng này hiện đang được bảo trì."
+    },
+    {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "Yêu cầu này đã được xử lý.\nVui lòng khởi động lại trò chơi để đồng bộ."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "Cốt truyện này diễn ra sau Chương {0} của Cốt Truyện Chính. Bạn vẫn muốn xem chứ?"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_105",
+      "content": "5"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_9105",
+      "content": "5.5"
+    },
+    {
+      "id": "switch_clearcatalog",
+      "content": "Delete Catalogue"
+    },
+    {
+      "id": "panel_clearcatalog",
+      "content": "Delete catalogue?"
+    },
+    {
+      "id": "serverstate_error_thirdparty_api",
+      "content": "Lỗi kết nối máy chủ ngoài. Vui lòng thử lại sau.."
+    },
+    {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "Giao dịch thất bại."
+    },
+    {
+      "id": "forcequit_cache_initialize_fail",
+      "content": "Phiên Bản Trò Chơi không thể khởi động.\nVui lòng kiểm tra kết nối mạng và thử lại sau.\nGửi yêu cầu: limbussupport+bug@projmoon.com"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_title",
+      "content": "Limbus Company"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_text",
+      "content": "Enkephalin has been fully recharged."
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_text",
+      "content": "Take notice, yet naught is odd here. Ideally, my only purpose here would be to inform you that Enkephalin is replenished fully. Such is all I have to say."
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_text",
+      "content": "Enkephalin recharge is complete. Dear manager, Enkephalin module conversion is recommended for the sake of efficiency."
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_text",
+      "content": "MANAGER ESQUIRE!!! THE FUEL TANK HATH BEEN REFILLED!!! COME HITHER, FOR OUR ADVENTURES MUST GO ON!!!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_text",
+      "content": "E.C.(Enkephalin Charged.)"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_text",
+      "content": "Enkephalin has been fully recharged, manager."
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_text",
+      "content": "Woow~ Enkephalin's already fully charged~ Would you like to go check?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_text",
+      "content": "The, uh. Enkeph—? ... The green stuff's full. Go take a gander, yeah?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_text",
+      "content": "Enkephalin's been recharged... Hm. Yeah, the bus is ready for another voyage. Let's go."
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_text",
+      "content": "Dante~ Enkephalin's charged! Don'tcha forget to convert 'em to modules!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_text",
+      "content": "Hi, manager... are you... busy? I-it's nothing too serious, but... Enkephalin's about to overflow..."
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_text",
+      "content": "Reporting to the Executive Manager. Enkephalin has been fully replenished. May I suggest that you use or convert them?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_text",
+      "content": "Uhh, manager bud? You there? The, uh, the bus fuel tank is full... Might wanna come check?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_text",
+      "content": "Your break is over, Manager Dante. Don't keep the bus sitting for too long."
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_text",
+      "content": "Mephi's stuffed. Charon, time to vroom-vroom."
+    },
+    {
+      "id": "custom_localize_button",
+      "content": "Chọn Ngôn Ngữ"
+    },
+    {
+      "id": "custom_localize_title",
+      "content": "Chọn Ngôn Ngữ"
+    },
+    {
+      "id": "custom_localize_desc",
+      "content": "※ Khởi động lại trò chơi để áp dụng gói ngôn ngữ."
+    },
+    {
+      "id": "steam_overlay_cannot_activate_title",
+      "content": "Lỗi Giao Dịch Steam"
+    },
+    {
+      "id": "steam_overlay_cannot_activate_text",
+      "content": "Vui lòng mở lựa chọn [Bật lớp phủ Steam khi đang chơi]\ntrong thiết lập trò chơi của Steam - Tổng quát.\nsau đó khởi động lại trò chơi."
+    },
+    {
+      "id": "servererror_remain_restore_purchasing",
+      "content": "Giao dịch vẫn đang được tiến hành.\nVui lòng nhấn nút [Hoàn Tác Giao Dịch] và thử lại."
+    },
+    {
+      "id": "invalid_login_no_guest_uid",
+      "content": "Tài khoản Khách không tồn tại,\nhoặc đã bị xóa."
+    },
+    {
+      "id": "invalid_login_is_not_guest",
+      "content": "Tài khoản Khách này đã được liên kết trên thiết bị.\nVui lòng nhấn nút [Đổi Tài Khoản] để đăng nhập vào thiết bị đã liên kết."
+    },
+    {
+      "id": "try_new_guest",
+      "content": "Tạo tài khoản Khách mới?"
+    },
+    {
+      "id": "need_verify_integrity_steam",
+      "content": "Phát hiện tài nguyên bị thiếu.\nVui lòng sử dụng chức năng \"Kiểm tra lại dữ liệu trò chơi\" của Steam."
+    }
+  ]
+}

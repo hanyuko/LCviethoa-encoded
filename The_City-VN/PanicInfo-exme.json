@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 1092,
+      "panicName": "Ký Ức Hỗn Độn",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 1~3 [AttackUp] và 1~3 [DefenseDown]",
+      "panicDescription": "Đầu Lượt: Nhận 1~5 [AttackUp] và 1~5 [DefenseDown]"
+    },
+    {
+      "id": 1093,
+      "panicName": "Oán Hận",
+      "lowMoraleDescription": "- Đầu Lượt: Nhận 1 [Enhancement] và 1 [Disarming]\n- Cuối Lượt: Nhận 2 [Agility] vào lượt kế",
+      "panicDescription": "- Đầu Lượt: Nhận 2 [Enhancement] và 2 [Disarming]\n- Cuối Lượt: Nhận 2 [Agility] vào lượt kế"
+    },
+    {
+      "id": 1094,
+      "panicName": "Ám Ảnh Về Tình Báo",
+      "lowMoraleDescription": "- Khi Giao Tranh với mục tiêu có [TakePicture], Sức Mạnh Gốc +1 và +10% sát thương gây ra\n- Đầu Lượt: Nhận 1 [Vulnerable]",
+      "panicDescription": "- Khi Giao Tranh với mục tiêu có [TakePicture], Sức Mạnh Gốc +1 và +20% sát thương gây ra\n- Đầu Lượt: Nhận 2 [Vulnerable]"
+    },
+    {
+      "id": 1095,
+      "panicName": "Hối Hận Thâm Căn",
+      "lowMoraleDescription": "- Đầu Lượt: Nhận 2 [AttackDmgDown] và hồi 40 HP",
+      "panicDescription": "- Đầu Lượt: Nhận 3 [AttackDmgDown] và hồi 60 HP"
+    },
+    {
+      "id": 1096,
+      "panicName": "Ký Ức Đã Được Tráng Rửa",
+      "lowMoraleDescription": "Nhận 1 [Vulnerable], +10% sát thương gây ra, và +15% sát thương gây ra khi Trí Mạng",
+      "panicDescription": "Nhận 2 [Vulnerable], +10% sát thương gây ra, +30% sát thương gây ra khi Trí Mạng, và <color=#ff6000><mark color=#ff000040><b><u>ấp đôi lượng hiệu ứng mà Kỹ Năng \"Bản Quốc Cung [Nhục] - Phóng Tiễn\" gây ra</color></mark></b></u>"
+    }
+  ]
+}

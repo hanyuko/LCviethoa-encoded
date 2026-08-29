@@ -1,0 +1,277 @@
+{
+  "dataList": [
+    {
+      "id": "BloodyHand_2nd",
+      "name": "Bàn Tay Nhuốm Máu II",
+      "desc": "        <sprite name=\"BloodyHand\"><color=#fac400>   </color>       \n     \n    \n         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyHand_3rd",
+      "name": "Bàn Tay Nhuốm Máu III",
+      "desc": "        <sprite name=\"BloodyHand\"><color=#fac400>   </color>       \n     \n    \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>\n                 <sprite name=\"Burst\"><color=#e30000> </color>    <sprite name=\"Burst\"><color=#e30000> </color>\n                <sprite name=\"Laceration\"><color=#e30000> </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WornHeart",
+      "name": "Con Tim Thống Khổ",
+      "desc": "     \n      \n     <sprite name=\"DefenseDown\"><color=#e30000>   </color>   \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>    \n         <sprite name=\"Vulnerable\"><color=#e30000> </color>    \n                        <sprite name=\"BloodyHand\"><color=#fac400>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingPriestTwo",
+      "name": "Héo Mòn",
+      "desc": "         \n      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Guilt_LowMorale",
+      "name": "Tội Lỗi",
+      "desc": "    <sprite name=\"Vulnerable\"><color=#e30000> </color>  <sprite name=\"MentalIncreaseDown\"><color=#e30000>    </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Guilt_Panic",
+      "name": "Tội Lỗi",
+      "desc": "    <sprite name=\"Vulnerable\"><color=#e30000> </color>  <sprite name=\"MentalIncreaseDown\"><color=#e30000>    </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MentalIncreaseDown",
+      "name": "Giảm Hiệu Quả Hồi SP",
+      "desc": "<sprite name=\"MentalSystemResultIncrease_Typo\"><color=#9f6a3a>   </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AffectionTeddy",
+      "name": "Sự Gắn Kết",
+      "desc": "     \n                     \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaintMemory",
+      "name": "Ký Ức Mờ Nhạt",
+      "desc": "    \n    <sprite name=\"DefenseUp\"><color=#fac400>   </color>    \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CursePackage",
+      "name": "Hộp Nguyền Rủa",
+      "desc": "     \n     <sprite name=\"Reduction\"><color=#e20000>    </color>  <sprite name=\"Disarming\"><color=#e20000>    </color>  <sprite name=\"AttackDown\"><color=#e20000>   </color>  <sprite name=\"DefenseDown\"><color=#e20000>   </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TinyCarmilla",
+      "name": "Carmilla Bé Nhỏ",
+      "desc": "     \n   <sprite name=\"Laceration\"><color=#e30000> </color>      <sprite name=\"TinyCarmilla\"><color=#e20000>  </color>\n      <sprite name=\"Laceration\"><color=#e30000> </color>\n                                        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OneDropNutrition",
+      "name": "Một Giọt Dinh Dưỡng",
+      "desc": "     \n                   \n    {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThornNoose",
+      "name": "Thòng Lọng Gai",
+      "desc": "     \n     <sprite name=\"Burst\"><color=#e30000> </color>    <sprite name=\"Burst\"><color=#e30000> </color>\n               \n            \n                            \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SwirlingBlood",
+      "name": "【Huyết Quỷ】Huyền Ảo",
+      "desc": "                  <sprite name=\"Laceration\"><color=#e30000> </color>   \n               \n         <sprite name=\"Vulnerable\"><color=#e30000> </color>                   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmor",
+      "name": "Huyết Giáp",
+      "desc": "     \n    \n        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmor_2nd",
+      "name": "Huyết Giáp II",
+      "desc": "     \n    \n               \n           \n        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmor_3rd",
+      "name": "Huyết Giáp III",
+      "desc": "     \n    \n               \n           \n        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Dreamy",
+      "name": "Sự Do Dự Mơ Màng",
+      "desc": "      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodringUp_LowMorale",
+      "name": "Thấm Đẫm Máu",
+      "desc": "  \n     <sprite name=\"Laceration\"><color=#e30000> </color>             <sprite name=\"Laceration\"><color=#e30000> </color>   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodringUp_Panic",
+      "name": "Thấm Đẫm Máu",
+      "desc": "  \n    <sprite name=\"Laceration\"><color=#e30000> </color>           <sprite name=\"Laceration\"><color=#e30000> </color>             <sprite name=\"Laceration\"><color=#e30000> </color>   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner_Common_Accumulation",
+      "name": "Huyết Yến Đã Tiêu Thụ (Tổng)",
+      "desc": "  <sprite name=\"BloodDinner\"><color=#9f6a3a> </color>      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThirstyRose",
+      "name": "Thị Huyết Mân Côi",
+      "desc": "     \n       <sprite name=\"Laceration\"><color=#e30000> </color>                \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RoseWedge",
+      "name": "Mân Côi Tiêm",
+      "desc": "    \n    \n            <sprite name=\"Laceration\"><color=#e30000> </color>\n   <sprite name=\"Laceration\"><color=#e30000> </color>            <sprite name=\"Laceration\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>        \n·         <sprite name=\"Laceration\"><color=#e30000> </color>      \n     \n                           \n                    <sprite name=\"BloodDinner\"><color=#9f6a3a> </color>                     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FerrisWheel",
+      "name": "Vòng Quay Vô Tận",
+      "desc": "           \n                         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingDonqui",
+      "name": "Đói Khát và Héo Mòn",
+      "desc": "      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegainedStrength",
+      "name": "Cơn Khát Máu Trỗi Dậy",
+      "desc": "     \n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegainedStrength_2nd",
+      "name": "Cơn Khát Máu Trỗi Dậy II",
+      "desc": "     \n      \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseUp\"><color=#fac400>   </color>    \n           <sprite name=\"RegainedStrength\"><color=#fac400>    </color>        <sprite name=\"Laceration\"><color=#e30000> </color>  <sprite name=\"Burst\"><color=#e30000> </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegainedStrength_3rd",
+      "name": "Cơn Khát Máu Trỗi Dậy III",
+      "desc": "     \n      \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseUp\"><color=#fac400>   </color>    \n           <sprite name=\"RegainedStrength\"><color=#fac400>    </color>        <sprite name=\"Laceration\"><color=#e30000> </color>  <sprite name=\"Burst\"><color=#e30000> </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeightOfResponsibility_LowMorale",
+      "name": "Đã đến lúc ta từ bỏ giấc mơ của mình...",
+      "desc": "  \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>        \n       \n      <sprite name=\"RegainedStrength\"><color=#fac400>    </color>           <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeightOfResponsibility_Panic",
+      "name": "... Vì Gia Đình ta, với tư cách là Cha của họ...",
+      "desc": "  \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>  <sprite name=\"Agility\"><color=#fac400> </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>\n       \n      <sprite name=\"RegainedStrength\"><color=#fac400>    </color>          <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Precarious",
+      "name": "Giấc Mộng Buông Thả",
+      "desc": "       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Penetration",
+      "name": "Huyết Ngạnh",
+      "desc": "                  ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DecreamentalDefense",
+      "name": "Trọng Thương",
+      "desc": "             \n       \n     <sprite name=\"DefenseDown\"><color=#e30000>   </color>        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfinishedDream",
+      "name": "SỰ GIẢI PHÓNG KHỎI GIỌT MÁU ĐÀO ĐẶC HƠN AO NƯỚC LÃ",
+      "desc": "       <sprite name=\"Agility\"><color=#fac400> </color>   <sprite name=\"AttackUp\"><color=#fac400>   </color>   \n    <sprite name=\"AttackUp\"><color=#fac400>   </color>         \n      \n      <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SanchoMind_LowMorale",
+      "name": "Tái Thức Tỉnh Khoái Cảm Giết Chóc",
+      "desc": "  \n  <sprite name=\"Enhancement\"><color=#fac400>    </color>      <sprite name=\"MentalSystemResultIncrease_Typo\"><color=#9f6a3a>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SanchoMind_Panic",
+      "name": "Tái Thức Tỉnh Khoái Cảm Giết Chóc",
+      "desc": "  \n    <sprite name=\"DefenseUp\"><color=#fac400>   </color>   <sprite name=\"AttackUp\"><color=#fac400>   </color>   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHope",
+      "name": "XE BUÝT, CÁC BẠN HỮU, VÀ NHỮNG CUỘC PHIÊU LƯU",
+      "desc": "        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeTwo",
+      "name": "VỀ CÁCH MÀ SANCHO, DON QUIOXTE CỦA CHÚNG TA, TỪ CHỐI KẾT THÚC GIẤC MƠ ẤY",
+      "desc": "       \n            ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConfinementOfGoldenBranch",
+      "name": "Phán Quyết Ép Buộc Của Cành Vàng",
+      "desc": "      \n      ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

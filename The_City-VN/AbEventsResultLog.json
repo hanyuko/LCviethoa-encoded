@@ -1,0 +1,524 @@
+{
+  "dataList": [
+    {
+      "id": "800101_whitesnow_success_1_1",
+      "content": "<color=#e30000>Mất</color><color=#ebcaa2> [{0}]</color>"
+    },
+    {
+      "id": "800101_whitesnow_failure_1_1",
+      "content": "<color=#ebcaa2>Không có gì xảy ra.</color>"
+    },
+    {
+      "id": "800105_whitesnow_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#f8c200>bị phá hủy!</color>"
+    },
+    {
+      "id": "800105_whitesnow_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] Bị Choáng!</color>"
+    },
+    {
+      "id": "800105_whitesnow_failure_1_1",
+      "content": "<color=#ebcaa2>Không có gì xảy ra.</color>"
+    },
+    {
+      "id": "800801_muckwormedapple_success_1_1",
+      "content": "<color=#ebcaa2>Táo Vàng đã hình thành một cơ thể mới!</color>"
+    },
+    {
+      "id": "800801_muckwormedapple_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất [{1}] HP.</color>"
+    },
+    {
+      "id": "800801_muckwormedapple_failure_1_2",
+      "content": "Tất cả bộ phận của [{0}] nhận %{3} {2} trong {1} lượt/%."
+    },
+    {
+      "id": "800801_muckwormedapple_failure_1_3",
+      "content": "<color=#ebcaa2>Táo Vàng đã hình thành một cơ thể mới!</color>"
+    },
+    {
+      "id": "800201_aztec_circle_1_1",
+      "content": "<color=#ebcaa2>Tất cả bộ phận của [{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}]/%."
+    },
+    {
+      "id": "800202_aztec_circle_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "800202_aztec_circle_success_1_2",
+      "content": "<color=#ebcaa2>Tất cả bộ phận của [{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}]/%."
+    },
+    {
+      "id": "800202_aztec_circle_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "800202_aztec_circle_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>mất {1} SP.</color>"
+    },
+    {
+      "id": "800202_aztec_circle_failure_1_3",
+      "content": "<color=#ebcaa2>Tất cả bộ phận của [{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}] và {4} [{3}]/%."
+    },
+    {
+      "id": "800203_aztec_circle_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "800203_aztec_circle_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất</color> <color=#ebcaa2>[{1}].</color>"
+    },
+    {
+      "id": "800204_aztec_circle_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_success_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất</color> <color=#ebcaa2>[{1}].</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>mất {1} SP.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_4",
+      "content": "<color=#ebcaa2>Gây</color> %{1} [{0}]/% lên <color=#ebcaa2>toàn bộ Tội Nhân.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_success_1_2",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> <color=#fe4b48>mất {0} SP.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_success_1_3",
+      "content": "<color=#ebcaa2>Trấn Áp Dị Thể Thành Công!</color>"
+    },
+    {
+      "id": "800206_aztec_circle_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_failure_1_2",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> <color=#fe4b48>mất {0} SP.</color>"
+    },
+    {
+      "id": "800206_aztec_circle_failure_1_3",
+      "content": "<color=#ebcaa2>Tất cả bộ phận của [{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}] và {4} [{3}]/%."
+    },
+    {
+      "id": "801201_reinforcedHuman_1_1",
+      "content": "<color=#ebcaa2>Bắt đầu đi điều tra nhà máy…</color>"
+    },
+    {
+      "id": "801201_reinforcedHuman_1_2",
+      "content": "<color=#ebcaa2>Chúng tôi quyết định không điều tra khu nhà máy đó nữa.</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_1_1",
+      "content": "<color=#ebcaa2>Nhấn “Có”.</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_2_1",
+      "content": "<color=#ebcaa2>Nhấn “Không”.</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_1_2_1",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> <color=#e30000>mất {0} HP.</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_1_2_2",
+      "content": "<color=#ebcaa2>Tất cả Người Máy Sinh Học</color> <color=#e30000>mất</color> <color=#ebcaa2>Nội Tại [Nâng Cấp Nhà Máy Đang Hoạt Động]!</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_2_2",
+      "content": "<color=#ebcaa2>Toàn bộ kẻ địch</color> <color=#e30000>mất</color> <color=#ebcaa2>Nội Tại [Nâng Cấp Nhà Máy Đang Hoạt Động]!</color>"
+    },
+    {
+      "id": "801502_pinkshoe_success_1_1",
+      "content": "<color=#ebcaa2>Xuyên suốt những lượt còn lại, toàn bộ kẻ địch</color> <color=#ebcaa2>sẽ nhận</color> %{1} [{0}] và {3} [{2}]/%."
+    },
+    {
+      "id": "801502_pinkshoe_success_1_2",
+      "content": "<color=#ebcaa2>Toàn bộ kẻ địch sẽ không còn [{0}] nữa.</color>"
+    },
+    {
+      "id": "801502_pinkshoe_failure_1_1",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#e30000>mất {0} HP.</color>"
+    },
+    {
+      "id": "801502_pinkshoe_failure_1_2",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#ebcaa2>nhận</color> %{1} [{0}]/%."
+    },
+    {
+      "id": "801502_pinkshoe_failure_1_3",
+      "content": "<color=#ebcaa2>Toàn bộ kẻ địch trở nên %[{0}]/%.</color>"
+    },
+    {
+      "id": "102001_action_4_1",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#e30000>mất {0} HP.</color>"
+    },
+    {
+      "id": "102001_action_4_2",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#fe4b48>mất {0} SP.</color>"
+    },
+    {
+      "id": "102002_action_1_1",
+      "content": "<color=#ebcaa2>[Rodion]</color> <color=#80c9ff>hồi {0} SP.</color>"
+    },
+    {
+      "id": "102002_action_1_2",
+      "content": "<color=#ebcaa2>[Rodion]</color> <color=#fe4b48>mất {0} SP.</color>"
+    },
+    {
+      "id": "102002_action_2_2",
+      "content": "<color=#ff8000>Vào Ải Chiến Đấu!</color>"
+    },
+    {
+      "id": "1020201_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>hồi {1} SP.</color>"
+    },
+    {
+      "id": "1020201_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "1020203_success_1_1",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#80c9ff>hồi {0} SP.</color>"
+    },
+    {
+      "id": "1020203_success_1_2",
+      "content": "<color=#ebcaa2>[Rodion]</color> <color=#80c9ff>hồi {0} SP.</color>"
+    },
+    {
+      "id": "1020203_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "acquire_ego_gift",
+      "content": "<color=#ebcaa2>Nhận một Quà Tặng E.G.O!</color>"
+    },
+    {
+      "id": "disappear_ego_gift",
+      "content": "<color=#e30000>Mất</color> <color=#ebcaa2>Quà Tặng E.G.O ‘{0}’.</color>"
+    },
+    {
+      "id": "acquire_ego_gift_if_win",
+      "content": "<color=#ebcaa2>Thắng trận sẽ nhận Quà Tặng E.G.O!</color>"
+    },
+    {
+      "id": "chracter_mp_decrease",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>mất {1} SP.</color>"
+    },
+    {
+      "id": "chracter_mp_increase",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>hồi {1} SP.</color>"
+    },
+    {
+      "id": "chracter_hp_increase",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>hồi {1} HP.</color>"
+    },
+    {
+      "id": "chracter_hp_decrease",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "chracter_hp_mp_decrease",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP<color=#ebcaa2> và <color=#fe4b48>SP.</color>"
+    },
+    {
+      "id": "all_ally_hp_decrease",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#e30000>mất {0} HP.</color>"
+    },
+    {
+      "id": "all_ally_hp_increase",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#e30000>hồi {0} HP.</color>"
+    },
+    {
+      "id": "all_ally_mp_decrease",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#fe4b48>mất {0} SP.</color>"
+    },
+    {
+      "id": "all_ally_hp_mp_decrease",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#e30000>mất {0} HP<color=#ebcaa2> và <color=#fe4b48>SP.</color>"
+    },
+    {
+      "id": "all_ally_add_buff",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#ebcaa2>nhận</color> %{1} {0}/%!"
+    },
+    {
+      "id": "all_ally_add_buff_during_next_n_battle",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#ebcaa2>nhận</color> %{2} {1}/% trong {0} trận chiến tiếp theo."
+    },
+    {
+      "id": "all_enemy_apply_buff",
+      "content": "<color=#ebcaa2>Gán</color> %{1} {0}/% <color=#ebcaa2>cho toàn bộ kẻ địch!</color>"
+    },
+    {
+      "id": "character_apply_buff_during_next_n_battle",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> %{3} {2}/% <color=#ebcaa2>trong {1} trận chiến tiếp theo.</color>"
+    },
+    {
+      "id": "battle_occurrence",
+      "content": "<color=#ebcaa2>Vào Ải Giao Chiến!</color>"
+    },
+    {
+      "id": "nothing_happend",
+      "content": "<color=#ebcaa2>Không có gì xảy ra.</color>"
+    },
+    {
+      "id": "unlock_hidden_node",
+      "content": "<color=#ebcaa2>Một con đường mới đã xuất hiện trên bản đồ!</color>"
+    },
+    {
+      "id": "enemy_wave_decrease",
+      "content": "<color=#ebcaa2>Giảm {0} đợt kẻ địch tấn công.!</color>"
+    },
+    {
+      "id": "803001_cromer_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] Bị Choáng!</color>"
+    },
+    {
+      "id": "803001_cromer_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>mất {1} SP.</color>"
+    },
+    {
+      "id": "all_ally_mp_increase",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh</color> <color=#80c9ff>hồi {0} SP.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_hp_increase",
+      "content": "<color=#ebcaa2>Danh Tính có</color> %Kỹ Năng Tấn Công Nguyên Tội {0}/% <color=#ebcaa2>hồi</color> <color=#00ff9c>{1} HP.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_hp_increase",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> %Kỹ Năng Tấn Công Nguyên Tội {0}/% <color=#ebcaa2>hồi</color> <color=#00ff9c>{1} HP.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_hp_decrease",
+      "content": "<color=#ebcaa2>Danh Tính có</color> %Kỹ Năng Tấn Công Nguyên Tội {0}/% <color=#ebcaa2>nhận</color> <color=#e30000>{1} sát thương HP.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_hp_decrease",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> %Kỹ Năng Tấn Công Nguyên Tội {0}/% <color=#ebcaa2>nhận</color> <color=#e30000>{1} sát thương HP.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_mp_increase",
+      "content": "<color=#ebcaa2>Danh Tính có</color> %Kỹ Năng Tấn Công Nguyên Tội {0}/% <color=#ebcaa2>hồi</color> <color=#80c9ff>{1} SP.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_mp_increase",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> %Kỹ Năng Tấn Công Nguyên Tội {0}/% <color=#ebcaa2>hồi</color> <color=#80c9ff>{1} SP.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_mp_decrease",
+      "content": "<color=#ebcaa2>Danh Tính có</color> %Kỹ Năng Tấn Công Nguyên Tội {0}/% <color=#ebcaa2>nhận</color> <color=#fe4b48>{1} sát thương SP.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_mp_decrease",
+      "content": "<color=#ebcaa2>Danh Tính không có</color> %Kỹ Năng Tấn Công Nguyên Tội {0}/% <color=#ebcaa2>nhận</color> <color=#fe4b48>{1} sát thương SP.</color>"
+    },
+    {
+      "id": "852701_statue_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] đã Bị Choáng!</color>"
+    },
+    {
+      "id": "852701_statue_failure_1_1",
+      "content": "<color=#ebcaa2>Nghiệp Chướng của [{0}] đã được giải quyết.</color>"
+    },
+    {
+      "id": "852701_statue_failure_1_2",
+      "content": "Nghiệp Chướng giáng lên toàn bộ Tội Nhân một cách ngẫu nhiên!"
+    },
+    {
+      "id": "852701_statue_failure_1_3",
+      "content": "<color=#ebcaa2>[{0}] đã Bị Choáng!</color>"
+    },
+    {
+      "id": "851901_kqe_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>tiêu toàn bộ</color> [{1}]."
+    },
+    {
+      "id": "851901_kqe_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] đã Bị Choáng!</color>"
+    },
+    {
+      "id": "851901_kqe_success_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "851901_kqe_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}] và {4} [{3}]/%."
+    },
+    {
+      "id": "851901_kqe_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}]/%."
+    },
+    {
+      "id": "851001_cryingtoad_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] đã Bị Choáng!</color>"
+    },
+    {
+      "id": "851001_cryingtoad_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>hồi {1} SP.</color>"
+    },
+    {
+      "id": "851001_cryingtoad_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>mất {1} SP.</color>"
+    },
+    {
+      "id": "803101_waterFish_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]’s body</color> <color=#e30000>hồi {1} HP.</color>"
+    },
+    {
+      "id": "803101_waterFish_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] dùng kỹ năng</color> <color=#e30000>[{1}]</color>!"
+    },
+    {
+      "id": "803201_lightningBeast_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "803201_lightningBeast_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] dùng</color> kỹ năng <color=#e30000>[{1}]</color>!"
+    },
+    {
+      "id": "804501_electriccentipede_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] mất %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "804501_electriccentipede_success_1_2",
+      "content": "<color=#ebcaa2>Tất cả bộ phận của [{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "804501_electriccentipede_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] nhận %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "804501_electriccentipede_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "804801_gentlefairy_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>hồi {1} HP</color>"
+    },
+    {
+      "id": "804801_gentlefairy_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}], {4} [{3}], và {6} [{5}]/%"
+    },
+    {
+      "id": "804801_gentlefairy_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>hồi {1} HP</color>"
+    },
+    {
+      "id": "804801_gentlefairy_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}], {4} [{3}], và {6} [{5}]/%"
+    },
+    {
+      "id": "804601_umbrellafox_success_1_1",
+      "content": "<color=#ebcaa2>Tất cả [{0}]</color> <color=#00ff9c>nhận sát thương bằng {1} HP Tối Đa</color>"
+    },
+    {
+      "id": "804601_umbrellafox_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>mất {1} SP</color>"
+    },
+    {
+      "id": "804601_umbrellafox_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>mất {1} SP</color>"
+    },
+    {
+      "id": "804701_nobodygonnacry_success_1_1",
+      "content": "<color=#ebcaa2>Để Không Một Ai Phải Khóc nhận</color> 5 <sprite name=\"ReattachedCurseTag_Re\"><color=#9f6a3a>Bùa Chú Phản Đòn</color>"
+    },
+    {
+      "id": "804701_nobodygonnacry_success_1_2",
+      "content": "[{0}] nhận <color=#00ff9c>{2} {1}</color> vào lượt kế"
+    },
+    {
+      "id": "804701_nobodygonnacry_failure_1_1",
+      "content": "<color=#ebcaa2>Tất cả {1} bị gỡ bỏ</color> khỏi <color=#ebcaa2>[{0}]</color>"
+    },
+    {
+      "id": "805002_egoawakendongrang_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805002_egoawakendongrang_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805002_egoawakendongrang_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] mất</color> <color=#e30000>{1} HP</color> và <color=#fe4b48>{2} SP</color>"
+    },
+    {
+      "id": "805002_egoawakendongrang_failure_1_2",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh nhận</color> {1} <color=#e30000>[{0}]</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_success_2_1",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805004_egoawakendongrang_success_2_2",
+      "content": "<color=#ebcaa2>Toàn bộ đồng minh nhận</color> {1} <color=#e30000>[{0}]</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_success_2_3",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805004_egoawakendongrang_failure_2_1",
+      "content": "<color=#ebcaa2>[{0}] mất</color> <color=#e30000>{1} HP</color> và <color=#fe4b48>{2} SP</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_failure_2_2",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805006_egoawakendongrang_success_3_1",
+      "content": "Dongrang has been confronted"
+    },
+    {
+      "id": "805006_egoawakendongrang_failure_3_1",
+      "content": "Dongrang has been confronted"
+    },
+    {
+      "id": "805801_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "805801_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805801_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805901_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    },
+    {
+      "id": "805901_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] nhận</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "805901_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>mất {1} HP.</color>"
+    }
+  ]
+}

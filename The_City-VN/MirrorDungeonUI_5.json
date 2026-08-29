@@ -1,0 +1,556 @@
+{
+  "dataList": [
+    {
+      "id": "mirror_dungeon_get_ego_gift_with_enemy_buff_less_count",
+      "content": "Vẫn còn có thể chọn Quà Tặng E.G.O.\n\nXác nhận đi tiếp mà không chọn Quà Tặng E.G.O?\n\n(※ Bạn sẽ nhận Thử Thách ngẫu nhiên tương đương với số lần chọn còn lại)"
+    },
+    {
+      "id": "mirror_dungeon_easy_difficulty",
+      "content": ""
+    },
+    {
+      "id": "mirror_dungeon_hard_difficulty",
+      "content": ""
+    },
+    {
+      "id": "mirror_dungeon_start_bonus_formation_rest_point",
+      "content": "Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_dungeon_start_bonus_formation_total",
+      "content": "Thưởng\nÁnh Sao"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_reset_selection",
+      "content": "Hủy Chọn Hiệu Ứng"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_applied_effect",
+      "content": "Hiệu Ứng Đã Chọn"
+    },
+    {
+      "id": "mirror_dungeon_reward_popup_rest_bonus_guide",
+      "content": "Tất cả Danh Tính bên ngoài Đội Hình hiện tại nhận 1 Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_user_start_buff",
+      "content": "Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_enemy_buff",
+      "content": "Thử Thách"
+    },
+    {
+      "id": "mirror_enemy_addenemylevel_desc",
+      "content": "Cấp Kẻ Địch +{0}"
+    },
+    {
+      "id": "mirror_card_pack",
+      "content": "Gói Chủ Đề"
+    },
+    {
+      "id": "mirror_acquired_random_enemy_buff_popup_title",
+      "content": "Thử Thách Nhận Được"
+    },
+    {
+      "id": "mirror_acquired_enemy_buff_popup_desc",
+      "content": "Đã thêm Thử Thách."
+    },
+    {
+      "id": "mirror_start_buff_purchase_complete_modal_title",
+      "content": "Đặc Ân Của Các Vì Sao Đã Chọn"
+    },
+    {
+      "id": "mirror_start_buff_purchase_complete_modal_desc",
+      "content": "Đã chọn Đặc Ân Của Các Vì Sao."
+    },
+    {
+      "id": "mirror_recovered_unit_status",
+      "content": "Tất cả đồng minh đã được hồi phục hoàn toàn, và các đồng minh bị hạ đã được hồi sinh\n(ngoại trừ đồng minh không thể được hồi sinh)"
+    },
+    {
+      "id": "mirror_start_buff_cannot_purchase_side_popup_title",
+      "content": "Không Thể Tiếp Tục"
+    },
+    {
+      "id": "mirror_start_buff_cannot_purchase_side_popup_desc",
+      "content": "Không Đủ Thưởng Ánh Sao"
+    },
+    {
+      "id": "user_enemy_buff_empty_list",
+      "content": "Không Có Hiệu Ứng"
+    },
+    {
+      "id": "mirror_start_set_buff_type",
+      "content": "Đặc Ân Của Các Vì Sao"
+    },
+    {
+      "id": "mirror_start_buff_type",
+      "content": "Grace of Star Clusters"
+    },
+    {
+      "id": "mirror_start_buff_purchase_button",
+      "content": "Vào"
+    },
+    {
+      "id": "user_enemy_buff_select_event_buff",
+      "content": "Hiệu Ứng Từ Sự Kiện"
+    },
+    {
+      "id": "dungeon_shop_heal_desc_one_revive",
+      "content": "Hồi sinh Tội Nhân được chọn"
+    },
+    {
+      "id": "dungeon_shop_heal_desc_all_revive",
+      "content": "Hồi sinh toàn bộ Tội Nhân"
+    },
+    {
+      "id": "dungeon_encounter_guide_mirror_hard_ab_battle",
+      "content": "Ải Dị Thể"
+    },
+    {
+      "id": "dungeon_shop_heal_enter",
+      "content": "Ta có thể hồi phục hoặc hồi sinh các Tội Nhân ở đây.\nNên làm gì giờ?"
+    },
+    {
+      "id": "dungeon_shop_heal_select_one",
+      "content": "Đã hồi HP và SP cho {0}."
+    },
+    {
+      "id": "dungeon_shop_heal_all",
+      "content": "Đã hồi HP và SP cho toàn bộ Tội Nhân."
+    },
+    {
+      "id": "dungeon_shop_heal_revive_select_one",
+      "content": "Đã hồi sinh {0}, có thể tiếp tục chiến đấu."
+    },
+    {
+      "id": "mirrordungeon_revive_log",
+      "content": "Đã kích hoạt Đặc Ân Của Các Vì Sao\nĐã hồi sinh [{0}]"
+    },
+    {
+      "id": "mirror_start_buff_unlock_condition_needs_held_buff_points",
+      "content": "Trên mốc {0} Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_after_selected_bonus",
+      "content": "Thưởng Ánh Sao Còn Lại"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_exchanged_cost",
+      "content": "Cost"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_title",
+      "content": "Lựa Chọn\nĐặc Ân Của Các Vì Sao"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_description",
+      "content": "Tiếp tục với các hiệu ứng đã chọn?"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_purchase_description",
+      "content": "Số Thưởng Ánh Sao còn lại sẽ được chuyển thành Cost"
+    },
+    {
+      "id": "mirror_start_buff_applied_passive",
+      "content": "Nội Tại Đặc Ân Của Các Vì Sao"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_title",
+      "content": "Grace of the Dreaming Star"
+    },
+    {
+      "id": "mirror_shop_purchase_complete",
+      "content": "Đã Mua"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_not_selected_any_buff",
+      "content": "Chưa Chọn"
+    },
+    {
+      "id": "dungeon_shop_heal_title_all_season5",
+      "content": "Hồi phục nhẹ cho toàn bộ Tội Nhân."
+    },
+    {
+      "id": "dungeon_shop_heal_title_one_season5",
+      "content": "Hồi phục triệt để cho một Tội Nhân."
+    },
+    {
+      "id": "dungeon_shop_revive_title_one_season5",
+      "content": "Hồi sinh một Tội Nhân."
+    },
+    {
+      "id": "dungeon_shop_revive_one_select_ask",
+      "content": "Chọn Tội Nhân để hồi sinh."
+    },
+    {
+      "id": "mirror_dungeon_block_to_click_hard_theme_list",
+      "content": "Hoàn Thành Canto 8 để mở khóa"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_blocked",
+      "content": "Hoàn Thành Canto 8 để mở khóa"
+    },
+    {
+      "id": "mirrordungeon_shop_heal_title",
+      "content": "Hồi Phục Tội Nhân"
+    },
+    {
+      "id": "mirrordungeon_shop_title",
+      "content": "Cửa Hàng"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_5",
+      "content": "Mirror of the Dreaming - F{0}"
+    },
+    {
+      "id": "mirror_dungeon_progress_awaiting_reward_claim",
+      "content": "Phần Thưởng Chưa Nhận"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_bonus_gift",
+      "content": "Đã Kích Hoạt Đặc Ân của Các Vì Sao\n Đã Nhận các Quà Tặng E.G.O Đang Giảm Giá/Để Dung Hợp"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_1",
+      "content": "THƯỜNG"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_2",
+      "content": "KHÓ"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_1",
+      "content": "Ải Thường : 7.5%\nẢi Chuyên Sâu : -\nẢi Tinh Anh : -\nẢi Dị Thể: -\nẢi Thủ Lĩnh : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_2",
+      "content": "Ải Thường : 7.5%\nẢi Chuyên Sâu : -\nẢi Tinh Anh : -\nẢi Dị Thể: -\nẢi Thủ Lĩnh : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_1",
+      "content": "Ải Thường : 10%\nẢi Chuyên Sâu : 20%\nẢi Tinh Anh : 33%\nẢi Dị Thể: -\nẢi Thủ Lĩnh : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_2",
+      "content": "Ải Thường : 10%\nẢi Chuyên Sâu : 20%\nẢi Tinh Anh : 33%\nẢi Dị Thể: -\nẢi Thủ Lĩnh : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_1",
+      "content": "Ải Thường : 10%\nẢi Chuyên Sâu : 20%\nẢi Tinh Anh : 33%\nẢi Dị Thể: 100%\nẢi Thủ Lĩnh : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_2",
+      "content": "Ải Thường : 10%\nẢi Chuyên Sâu : 20%\nẢi Tinh Anh : 33%\nẢi Dị Thể: 100%\nẢi Thủ Lĩnh : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_1",
+      "content": "Ải Thường : 12.5%\nẢi Chuyên Sâu : 25%\nẢi Tinh Anh : 50%\nẢi Dị Thể: 100%\nẢi Thủ Lĩnh : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_2",
+      "content": "Ải Thường : 12.5%\nẢi Chuyên Sâu : 25%\nẢi Tinh Anh : 50%\nẢi Dị Thể: 100%\nẢi Thủ Lĩnh : 100%"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_1",
+      "content": "Ải Thường : 12.5%\nẢi Chuyên Sâu : 25%\nẢi Tinh Anh : 50%\nẢi Dị Thể: 100%\nẢi Thủ Lĩnh : -"
+    },
+    {
+      "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_2",
+      "content": "Ải Thường : 12.5%\nẢi Chuyên Sâu : 25%\nẢi Tinh Anh : 50%\nẢi Dị Thể: 100%\nẢi Thủ Lĩnh : -"
+    },
+    {
+      "id": "mirrordungeon_additional_cost_by_start_bonus",
+      "content": "Đã kích hoạt Đặc Ân Của Các Vì Sao\nĐã nhận Cost"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_desc",
+      "content": "Mỗi Quà Tặng E.G.O đều có số 'Điểm' khác nhau để Dung Hợp tùy theo Hạng của chúng."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_header",
+      "content": "Hạng của Quà Tặng E.G.O"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_score_header",
+      "content": "Số Điểm"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_1",
+      "content": "Hạng 1"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_1_score",
+      "content": "3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_2",
+      "content": "Hạng 2"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_2_score",
+      "content": "6"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_3",
+      "content": "Hạng 3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_3_score",
+      "content": "10"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_4",
+      "content": "Hạng 4"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_4_score",
+      "content": "15"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_5",
+      "content": "Hạng 5"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_score_tier_5_score",
+      "content": "30"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_label",
+      "content": "Hạng của Quà Tặng E.G.O Dung Hợp được xác định bằng tổng số Điểm từ từng món."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_header",
+      "content": "Tổng Điểm"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_header",
+      "content": "Hạng của Quà Tặng E.G.O Dung Hợp"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_1",
+      "content": "Dưới 10 Điểm"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_1",
+      "content": "Hạng 1"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_2",
+      "content": "Trong Khoảng 11~16 Điểm"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_2",
+      "content": "Hạng 2"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_3",
+      "content": "Trong Khoảng 17 ~ 24 Điểm"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_3",
+      "content": "Hạng 3"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_4",
+      "content": "Trên 25 Điểm"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_tier_4",
+      "content": "Hạng 4"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_1",
+      "content": "※ Không thể Dung Hợp thành các Quà Tặng E.G.O đang sở hữu."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_2",
+      "content": "※ Các Quà Tặng E.G.O được dùng làm nguyên liệu Dung Hợp không thể được Dung Hợp lại. Tuy nhiên, các Quà Tặng E.G.O đã được tiêu hao làm nguyên liệu cho các lần Dung Hợp trước đó có thể nhận thông qua kết quả Dung Hợp."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_3",
+      "content": "※ Nếu đã sở hữu toàn bộ Quà Tặng E.G.O có thể thu thập trong tổ hợp Hạng + Từ Khóa đó, bạn sẽ nhận được Quà Tặng E.G.O của loại Từ Khóa khác cùng Hạng."
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_season_5_etc_4",
+      "content": "※ Nếu đã sở hữu toàn bộ Quà Tặng E.G.O có thể thu thập trong Hạng đó, bạn sẽ nhận được Quà Tặng E.G.O Chỉ dùng để Dung Hợp hoặc Bán."
+    },
+    {
+      "id": "mirrordungeon_upgrade_shop_title",
+      "content": "<color=#990000>Cửa Hàng Siêu Cấp</color>"
+    },
+    {
+      "id": "mirrordungeon_upgrade_shop_rate_in_next_floor",
+      "content": "<size=85%>Tỷ Lệ Xuất Hiện\nCửa Hàng Siêu Cấp\ntại Tầng Kế Tiếp</size>"
+    },
+    {
+      "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
+      "content": "Không Đủ Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_theme_pack_baton",
+      "content": "Trận Chiến Dài Hơi"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_no_pool",
+      "content": "Bạn giờ đã có thể bật chế độ Khó. Có thể chuyển độ khó bắt đầu từ giao diện Chọn Gói Chủ Đề của Tầng tiếp theo."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_3_0",
+      "content": "Trên 4 Quà Tặng"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_3_1",
+      "content": "99%"
+    },
+    {
+      "id": "mirrordungeon_level_up_by_long_battle_theme",
+      "content": "Nhận Thưởng Trận Chiến Dài Hơi\n+3 Cấp Độ Danh Tính"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_100",
+      "content": "Ngôi Sao Khởi Nguyên"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_101",
+      "content": "Tinh Vân Tích Tụ"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_102",
+      "content": "Du Hành Giữa Các Vì Sao"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_103",
+      "content": "Mưa Sao Băng"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_104",
+      "content": "Cửa Hàng Song Tinh"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_105",
+      "content": "Cửa Hàng Nguyệt Tinh"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_106",
+      "content": "Tinh Vân Ưu Ái"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_107",
+      "content": "Ánh Sao Dẫn Lối"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_108",
+      "content": "Sao Chổi Hy Vọng"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_title_109",
+      "content": "Viễn Cảnh Hoàn Mỹ"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over10",
+      "content": "Ở Mốc [10] Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over20",
+      "content": "Khi Trên [20] Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over30",
+      "content": "Khi Trên [30] Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs_over40",
+      "content": "Khi Trên [40] Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs__over50",
+      "content": "Khi Trên [50] Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirror_dungeon_5_buffs__over60",
+      "content": "Khi Trên [60] Thưởng Ánh Sao"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
+      "content": "Dung Hợp trong Cửa Hàng Siêu Cấp sẽ thêm chỉ số vào tổng số Điểm từ mỗi nguyên liệu"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade",
+      "content": "Dưới 9 Điểm"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_2_upgrade",
+      "content": "Khoảng 10 ~ 14 Điểm"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_3_upgrade",
+      "content": "Khoảng 15 ~ 21 Điểm"
+    },
+    {
+      "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
+      "content": "Trên 22 Điểm"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_title",
+      "content": "Starlight Bonus Retention Units"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_desc",
+      "content": "For the retention duration, these units' Starlight Bonuses will not be spent upon clearing a Mirror Dungeon run."
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_label",
+      "content": "Đơn Vị Duy Trì"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_button_label",
+      "content": "Starlight Bonus Retention Units"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_period",
+      "content": "Cho đến ngày {0}"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
+      "content": "※ Khi mua {0} Tỷ Lệ Phản Chiếu sẽ tốn {1} Lunacy Trả Phí."
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
+      "content": "Xác nhận tiêu {0} Lunacy Trả Phí để mua Tỷ Lệ Phản Chiếu?"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_title",
+      "content": "Mua Tỷ Lệ Phản Chiếu"
+    },
+    {
+      "id": "mirrordungeon_achievement_progress",
+      "content": "Tiến Độ"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_block_by_max_level",
+      "content": "Vượt quá Cấp Thông Hành có thể mua"
+    },
+    {
+      "id": "mirrordungeon_achievement_max_level",
+      "content": "Đã đạt cấp tối đa của Vé Thông Hành"
+    },
+    {
+      "id": "lack_of_point_for_shop_without_new_line",
+      "content": "Không Đủ Cost"
+    },
+    {
+      "id": "mirror_dungeon_give_up_ego_gift_ask_with_random_category",
+      "content": "Xác nhận tiếp tục mà không chọn Quà Tặng E.G.O?\n\nNếu chọn đi tiếp mà không nhận Quà Tặng E.G.O,\nphân loại Từ Khóa của Quà Tặng E.G.O Khởi Đầu sẽ được chọn ngẫu nhiên."
+    },
+    {
+      "id": "mirror_dungeon_block_to_click_extream_theme_list",
+      "content": "Hoàn Thành Canto 8 để mở khóa"
+    },
+    {
+      "id": "mirror_dungeon_extream_difficulty",
+      "content": " "
+    }
+  ]
+}

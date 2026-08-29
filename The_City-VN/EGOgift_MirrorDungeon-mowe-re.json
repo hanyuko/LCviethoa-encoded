@@ -1,0 +1,184 @@
+{
+  "dataList": [
+    {
+      "id": 9840,
+      "name": "Mũ Lưỡi Trai Tiêu Chuẩn Tập Đoàn W",
+      "desc": "Sau khi sử dụng Kỹ Năng có nhận Tầng [Charge] hoặc <noparse>Năng Lượng</noparse> Đặc Trưng, nhận [EmergencyChargeForceField] bằng với Tầng [Charge] đã nhận (tối đa 7 mỗi Danh Tính)",
+      "simpleDesc": [
+        {
+          "abilityID": 9840,
+          "simpleDesc": "Gain Emergency Barrier Battery"
+        }
+      ]
+    },
+    {
+      "id": 9841,
+      "name": "Trang Thiết Bị Bộ C Của Đặc Vụ Dọn Dẹp",
+      "desc": "Sau khi sử dụng kỹ năng có nhận Tầng [Charge] hoặc <noparse>Năng Lượng</noparse> Đặc Trưng, nhận [EmergencyChargeForceField] bằng với số Tầng [Charge] đã nhận (tối đa 7 lần mỗi Danh Tính)\n\nKỹ Năng có tiêu thụ Tầng [Charge] hoặc <noparse>Năng Lượng</noparse> Đặc Trưng +(số Danh Tính trong đội có thể nhận hay tiêu thụ Tầng [Charge] hoặc <noparse>Năng Lượng</noparse> Đặc Trưng)% sát thương gây ra (tính toàn bộ đơn vị trong Đội)\n\nKỹ Năng tiêu thụ Tầng [Charge] hoặc <noparse>Năng Lượng</noparse> Đặc Trưng nhận Sức Mạnh Giao Tranh +3 và +15% sát thương gây ra\n- Khi sử dụng Kỹ Năng trên, đồng minh đó nhận +4 Tầng [Charge] và 1 [ChargeForceField] (một lần mỗi Danh Tính mỗi lượt)\n\nDanh Tính thuộc Tập Đoàn W nhận những hiệu ứng sau:\n- Khi gây sát thương bằng Kỹ Năng (tính cả Kỹ Năng E.G.O), gây 2 [TakeHpHealReduce] (không thể Cộng Dồn)\n- Trong giai đoạn giao chiến, nếu chủ thể nhận sát thương HP từ nguồn khác ngoài sát thương Kỹ Năng trực tiếp, nhận 5 [ChargeForceField] (một lần mỗi lượt mỗi Danh Tính)\n- Kỹ Năng 2 nhận Sức Mạnh Giao Tranh +3 và +15% sát thương gây ra\n- Đầu Lượt: trong lượt này, Kỹ Năng 3 +(số Danh Tính thuộc Tập Đoàn W trên sân x 6.25)% sát thương gây ra\n- Đầu Lượt: Đặc Vụ W Corp L2 nhận 1 [PlusCoinValueUp]\n- Đầu Lượt: nhận (số Danh Tính Thuộc Tập Đoàn W trên sân / 3) [ChargeLoad] (tối đa 2; làm tròn xuống)\n\nTrong số các Danh Tính gây [DimensionRift] bằng Kỹ Năng Cơ Bản, coi 1 Danh Tính không thuộc Tập Đoàn W có thứ tự Triển Khai sớm nhất như 1 Danh Tính thuộc Tập Đoàn W",
+      "simpleDesc": [
+        {
+          "abilityID": 9841,
+          "simpleDesc": "Gain Emergency Barrier Battery"
+        },
+        {
+          "abilityID": 98411,
+          "simpleDesc": "Skills that consume Charge Count deal more damage"
+        },
+        {
+          "abilityID": 98412,
+          "simpleDesc": "Skill 1 gains Clash Power and deals more damage; gain Charge Count and Charge Barrier"
+        },
+        {
+          "abilityID": 98413,
+          "simpleDesc": "Inflict HP Healing Down"
+        },
+        {
+          "abilityID": 98414,
+          "simpleDesc": "Gain Charge Barrier"
+        },
+        {
+          "abilityID": 98415,
+          "simpleDesc": "Skill 2 gains Clash Power and deals more damage"
+        },
+        {
+          "abilityID": 98416,
+          "simpleDesc": "Skill 3 deals more damage"
+        },
+        {
+          "abilityID": 98417,
+          "simpleDesc": "Apply Plus Coin Boost"
+        },
+        {
+          "abilityID": 98418,
+          "simpleDesc": "Gain Load"
+        }
+      ]
+    },
+    {
+      "id": 9842,
+      "name": "Huyết Tinh, Phàm Huyết",
+      "desc": "Hiệu ứng của Quà Tặng E.G.O này được cường hóa dựa trên Số Danh Tính trong Đội Hình có Kỹ Năng Tấn Công tiêu thụ [BloodDinner] (Số Danh Tính đạt điều kiện được biểu thị bằng \"N\" ở dưới, không tính Kỹ Năng E.G.O; tính toàn bộ đồng minh có trong Đội)\n\nVào Đầu đợt mới: tăng (N x 20) [BloodDinner]; rồi gán 3 Lượng và +3 Tầng [Laceration] lên toàn bộ mục tiêu (Hiệu ứng này chỉ có thể tăng tối đa 100 [BloodDinner] mỗi lần kích hoạt)\n\nToàn bộ đồng minh -(N x 10%) sát thương [Laceration] phải nhận (tối tiểu 1 sát thương [Laceration]; tối đa 40%)\n- Sát thương bị giảm không ảnh hưởng đến lượng [BloodDinner] được tăng\n\nToàn bộ kẻ địch nhận +(N x 5)% sát thương [Laceration] (tối đa 20%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9842,
+          "simpleDesc": "Increase Bloodfeast and inflict Bleed & Bleed Count"
+        },
+        {
+          "abilityID": 98421,
+          "simpleDesc": "Take less Bleed damage"
+        },
+        {
+          "abilityID": 98422,
+          "simpleDesc": "Deal more Bleed damage"
+        }
+      ]
+    },
+    {
+      "id": 9843,
+      "name": "Huyết Giáp Trảm Kích",
+      "desc": "Hiệu ứng của Quà Tặng E.G.O này được cường hóa dựa trên Số Danh Tính trong Đội Hình có Kỹ Năng Tấn Công tiêu thụ [BloodDinner] (Số Danh Tính đạt điều kiện được biểu thị bằng \"N\" ở dưới, không tính Kỹ Năng E.G.O; tính toàn bộ đồng minh có trong Đội)\n\nĐầu Ải: toàn bộ đồng minh nhận (N - 2) [BloodArmorCasting] (tối đa 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9843,
+          "simpleDesc": "Gain Hardblood Cast"
+        }
+      ]
+    },
+    {
+      "id": 9205,
+      "name": "Bình MTP",
+      "desc": "Khi giết kẻ địch, tăng (HP tối đa của kẻ địch bị giết / 10) [BloodDinner] (tối đa 50)\nCuối Lượt: Nếu một đồng minh bị đánh bại trong lượt này, toàn bộ đồng minh nhận 2 [Enhancement] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9205,
+          "simpleDesc": "Increase Bloodfeast"
+        },
+        {
+          "abilityID": 92051,
+          "simpleDesc": "Gain Attack Power Up"
+        }
+      ]
+    },
+    {
+      "id": 9206,
+      "name": "Huyết Hương Giáng Lâm",
+      "desc": "Đồng minh có HP thấp nhất trước khi Khởi Chiến hồi 3% HP khi Đánh Trúng bằng Kỹ Năng Tấn Công có gây [Laceration] hoặc <noparse>Chảy Máu</noparse> Đặc Trưng (2 lần mỗi lượt)\n\nKhi Giao Tranh bằng Kỹ Năng có gây [Laceration] hoặc <noparse>Chảy Máu</noparse> Đặc Trưng lên kẻ địch có [Laceration] hoặc <noparse>Chảy Máu</noparse> Đặc Trưng, Sức Mạnh Giao Tranh +1\n- Nếu Số Danh Tính có Kỹ Năng Tấn Công gây [Laceration] hoặc <noparse>Chảy Máu</noparse> Đặc Trưng ≥ 5, Sức Mạnh Giao Tranh +1 và +10% sát thương gây ra (tính toàn bộ đồng minh trong Đội)\n- Nếu Số Danh Tính phù hợp với mô tả trên ≥ 10 , Sức Mạnh Giao Tranh +2 và 15% sát thương gây ra",
+      "simpleDesc": [
+        {
+          "abilityID": 9206,
+          "simpleDesc": "Heal HP"
+        },
+        {
+          "abilityID": 92061,
+          "simpleDesc": "Gain Clash Power or deal more damage"
+        }
+      ]
+    },
+    {
+      "id": 9818,
+      "name": "Găng Tay Thứ Nguyên Bị Thải Ra",
+      "desc": "Khi gây sát thương lên kẻ địch bằng Kỹ Năng có tiêu thụ Tầng [Charge] hoặc <noparse>Năng Lượng</noparse> Đặc Trưng, +0.1 Kháng Loại Tấn Công thấp nhất trong lượt này (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9818,
+          "simpleDesc": "Raise the lowest Attack Type Resistance"
+        }
+      ]
+    },
+    {
+      "id": 19818,
+      "name": "Găng Tay Thứ Nguyên Bị Thải Ra+",
+      "desc": "Khi gây sát thương lên kẻ địch bằng Kỹ Năng có tiêu thụ Tầng [Charge] hoặc <noparse>Năng Lượng</noparse> Đặc Trưng, +0.1 Kháng Loại Tấn Công thấp nhất trong lượt này (một lần mỗi lượt)\n<style=\"upgradeHighlight\">- Đồng thời gây 1 [VioletResistDown]</style>",
+      "simpleDesc": [
+        {
+          "abilityID": 19818,
+          "simpleDesc": "Raise the lowest Attack Type Resistance"
+        }
+      ]
+    },
+    {
+      "id": 29818,
+      "name": "Găng Tay Thứ Nguyên Bị Thải Ra++",
+      "desc": "Khi gây sát thương lên kẻ địch bằng Kỹ Năng có tiêu thụ Tầng [Charge] hoặc <noparse>Năng Lượng</noparse> Đặc Trưng, +0.1 Kháng Loại Tấn Công thấp nhất trong lượt này (<style=\"upgradeHighlight\">2</style> lần mỗi lượt)\n- Đồng thời gây 1 [VioletResistDown] <style=\"upgradeHighlight\">và 1 [AzureResistDown]</style>",
+      "simpleDesc": [
+        {
+          "abilityID": 29818,
+          "simpleDesc": "Raise the lowest Attack Type Resistance"
+        }
+      ]
+    },
+    {
+      "id": 9817,
+      "name": "Mảnh Sao Xanh",
+      "desc": "Kẻ địch trong trạng thái Nhụt Chí hoặc Hoảng Loạn mất 1 Sức Mạnh Tổng (với mục tiêu không có SP, khi chúng có 25+ [Sinking])\n- Khi gây sát thương lên kẻ địch bị ảnh hưởng bằng Kỹ Năng có gây Lượng, Tầng [Sinking] hoặc <noparse>Sa Lầy</noparse> Đặc Trưng, gây 2 [DefenseDown] (2 lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9817,
+          "simpleDesc": "Reduce target's Final Power; Khi Đánh Trúng, inflict Defense Level Down"
+        }
+      ]
+    },
+    {
+      "id": 19817,
+      "name": "Mảnh Sao Xanh+",
+      "desc": "Kẻ địch trong trạng thái Nhụt Chí hoặc Hoảng Loạn mất <style=\"upgradeHighlight\">2</style> Sức Mạnh Tổng (với mục tiêu không có SP, khi chúng có <style=\"upgradeHighlight\">15</style>+ [Sinking])\n- Khi gây sát thương lên kẻ địch bị ảnh hưởng bằng Kỹ Năng có gây Lượng, Tầng [Sinking] hoặc <noparse>Sa Lầy</noparse> Đặc Trưng, gây <style=\"upgradeHighlight\">3</style> [DefenseDown] (2 lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 19817,
+          "simpleDesc": "Reduce target's Final Power; Khi Đánh Trúng, inflict Defense Level Down"
+        }
+      ]
+    },
+    {
+      "id": 29817,
+      "name": "Mảnh Sao Xanh++",
+      "desc": "Kẻ địch trong trạng thái Nhụt Chí hoặc Hoảng Loạn mất <style=\"upgradeHighlight\">3</style> Sức Mạnh Tổng (với mục tiêu không có SP, khi chúng có <style=\"upgradeHighlight\">10</style>+ [Sinking])\n- Khi gây sát thương lên kẻ địch bị ảnh hưởng bằng Kỹ Năng có gây Lượng, Tầng [Sinking] hoặc <noparse>Sa Lầy</noparse> Đặc Trưng, gây 3 [DefenseDown] (<style=\"upgradeHighlight\">3</style> lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 29817,
+          "simpleDesc": "Reduce target's Final Power; Khi Đánh Trúng, inflict Defense Level Down"
+        }
+      ]
+    }
+  ]
+}

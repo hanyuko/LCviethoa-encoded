@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": 971038,
+      "name": "",
+      "desc": "Khi đang dạo quanh một khu vực tràn ngập ánh hào quang màu xanh lam, một thực thể mang màu đen mờ ảo tiếp cận chúng tôi rồi đưa tay ra.\n\nMột viên đạn nằm gọn trong lòng bàn tay của hắn. Luồng hào quang nó tỏa ra khiến bạn cảm thấy bất an.\n\n'Viên ma đạn này một khi bắn ra sẽ không bao giờ trượt mục tiêu.'\n\n'Nhưng... đi kèm với đó là một điều kiện. Viên đạn cuối cùng sẽ luôn bay thẳng về hướng người mà ngươi yêu thương nhất.'\n\n'Nếu dù vậy ngươi vẫn muốn khai hỏa viên đạn này, hoặc có kẻ mà ngươi muốn bắn gục... ta có thể giúp ngươi.'",
+      "options": [
+        {
+          "message": "Tỏ ra nghi ngờ.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Kiêu Ngạo & Đố Kỵ để nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Tỏ ra sẵn sàng tự mình khai hỏa viên đạn.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Kiêu Ngạo để nhận một Quà Tặng E.G.O Đâm.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971039,
+      "name": "",
+      "desc": "Tiếng súng nổ vang từ khoảng cách rất gần.\n\nKhi đến nơi phát ra âm thanh, chúng tôi chỉ thấy tàn dư của trận chiến thôi.\n\nNhững kẻ tấn công đã rời khỏi hiện trường vì giờ mọi thứ quanh đây vô cùng yên tĩnh.\n\nVài cái bánh răng bất động nằm rải rác khắp mặt đất.\n\nNgay chính giữa là một cái ghế còn nguyên vẹn.\n\nVẫn còn một chiếc bánh răng đang xoay chuyển bên trên.",
+      "options": [
+        {
+          "message": "Ngồi vào ghế.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Kiêu Ngạo & Đố Kỵ để nhận một Quà Tặng E.G.O Sắc Bén.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Đi ngang qua nó.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971040,
+      "name": "",
+      "desc": "Chúng tôi thấy bản thân đang ở trong một tòa văn phòng trống trải.\n\nCó các Fixer khác ở đây đang thảo luận về hợp đồng sắp tới.\n\n'Hiểu rồi. Vậy ta chỉ cần mang hai khẩu súng ngắm cho hợp đồng này.'\n\n'Để phòng hờ thì có lẽ nên trang bị súng trường đi.'\n\n'Tôi thì sao cũng được.'\n\nThảo luận xong xuôi thì các Fixer đó lấy túi đồ của mình rồi rời đi.",
+      "options": [
+        {
+          "message": "Quan sát mặt bàn.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Kiêu Ngạo & Đố Kỵ để nhận một Quà Tặng E.G.O Đâm.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Theo họ ra ngoài.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971041,
+      "name": "",
+      "desc": "Tôi nghe thấy tiếng lắp ráp súng và những trang giấy liên tục lật qua lật lại.\n\nNơi này có vẻ như là một cơ sở giáo dục gì đó. Bầu không khí quanh đây cũng vô cùng trang nghiêm.\n\nCó lẽ các Tội Nhân cũng sẽ học được đôi điều từ những huấn luyện viên ở đây.",
+      "options": [
+        {
+          "message": "Học Kỹ Thuật Cận Chiến.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Dục Vọng để nhận một Quà Tặng E.G.O Sắc Bén.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Học binh pháp tôn tử.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Đố Kỵ để nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

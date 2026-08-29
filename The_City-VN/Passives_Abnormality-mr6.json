@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": 814201,
+      "name": "Dueling",
+      "desc": "When HP falls below 50%, uses a special skill to target 1 unit, then becomes immune to Stagger and Panic for the next 2 turns.\nIf Yi Sang has 'Dueling', Dongbaek nhận 1 [Enhancement].\nIf Yi Sang wins the duel, all allies nhận 3 [AttackDmgUp] vào lượt kế.\nIf Dongbaek wins the duel, Dongbaek fully hồi SP."
+    },
+    {
+      "id": 118301,
+      "name": "I am yet to hear your answer.",
+      "desc": "Every Đầu Lượt: Core and Part  nhận 900 Khiên.\n- When the unit with the earliest Deployment order has [Teaching], lose 300 Shield per Stack\n- When the unit with the earliest Deployment order has 3+ [Teaching], this unit does not nhận Shield for the rest of the Encounter"
+    },
+    {
+      "id": 118701,
+      "name": "Watch this little girl...!",
+      "desc": "If there are this unit's summoned units at Turn Start, hồi 10 SP"
+    },
+    {
+      "id": 124105,
+      "name": "Tigermark Round Reload",
+      "desc": "Cuối Lượt: at 90% or less HP, or at the end of the 2nd turn, reload [BulletPropellant] and nhận a new pattern vào lượt kế\n- If this unit is Staggered, recover from Stagger"
+    },
+    {
+      "id": 124106,
+      "name": "Lei Heng [雷橫]",
+      "desc": "Cuối Lượt: at 80% or less HP, or at the end of the 4th turn, nhận a new pattern vào lượt kế\n- Use a powerful attack ('Tanglecleaver'), repeat every 3rd turn. +10 to Min & Max Speed for turns in which this unit uses this Skill\n- At the start of that turn, nhận 25 [BattleSense]\n- If this unit is Staggered, recover from Stagger"
+    },
+    {
+      "id": 124107,
+      "name": "Tiantui Star [天退星]",
+      "desc": "If this unit's HP dropped to 60% or below at Turn End, or if this unit is set to use a powerful attack ('Tanglecleaver') vào lượt kế for the second time this Encounter, nhận a new pattern vào lượt kế\n- When that turn starts, nhận 1 [Irritation]\n- When that turn starts, nhận 18 [BulletPropellantSpecial] and reload immediately\n· If this unit spends all [BulletPropellantSpecial], convert the effect to [BulletPropellant] and summon 2 of \"Stern Soldato of the Thumb\" units vào lượt kế and have them supply this unit with [BulletPropellantSpecial]\n- When Staggered, recover from Stagger"
+    },
+    {
+      "id": 124108,
+      "name": "Lei Heng, The Pinky's Tiantui Star",
+      "desc": "Cuối Lượt: at 40% or less HP, or if this unit is set to use a powerful attack ('Tanglecleaver') vào lượt kế for the third time this Encounter, nhận a new pattern vào lượt kế\n- Replace the powerful attack 'Tanglecleaver' with 'Savage Tigerslayer's Perfected Flurry of Blades'. +15 to Min & Max Speed for turns in which this unit uses this Skill\n- Convert [BattleSense] to [RestoredBattleSense]\n- Convert [Irritation] to [DerivativeHugeIrritation]\n- If this unit is Staggered, recover from Stagger"
+    },
+    {
+      "id": 124112,
+      "name": "Tiantui Star's Blade - Overheat",
+      "desc": "If this unit used a powerful attack ('Tanglecleaver' or 'Savage Tigerslayer's Perfected Flurry of Blades'), nhận [Complacency] vào lượt kế equal to the number of times those skills were used (tối đa 5)"
+    },
+    {
+      "id": 124301,
+      "name": "I'm Stuffed",
+      "desc": "Ở mốc 10+ [FullCharon]...\n- Đầu Lượt: enter a forced Stagger State (for a turn)\n- Cuối Lượt: remove [HungryCharon] and [FullCharon] completely"
+    },
+    {
+      "id": 124302,
+      "name": "Vroom-vroom. Angry now",
+      "desc": "Combat Start: Vergilius nhận 1 [HungryCharon]\nAt 3 [HungryCharon], uses a devastating attack (\"Vroom-Vroom\")\n※ Does not activate at \"Combat Start\" if this unit is Staggered due to [FullCharon]"
+    },
+    {
+      "id": 124303,
+      "name": "Got Candy?",
+      "desc": "Đầu Lượt: in Deployment Order, gây 1 [GiveMeCandy] against 1 enemy without [GiveMeCandy]"
+    },
+    {
+      "id": 124304,
+      "name": "Kkomi's not a Piñata",
+      "desc": "Gây 1 [GiveMeCandy] to the target who attacked Kkomi"
+    },
+    {
+      "id": 124001,
+      "name": "Shattering, Scattering Hardblood",
+      "desc": "When this unit is killed due to enemy attack or Status effect damage, increase [BloodDinner] by 30. Does not activate if this unit killed itself."
+    },
+    {
+      "id": 124002,
+      "name": "Memories of the Journeys Past",
+      "desc": "Apply special effect lên tất cả đồng minh"
+    },
+    {
+      "id": 124003,
+      "name": "Memories of the Journeys Past",
+      "desc": "Đầu Lượt: Gây 3 [Laceration] và +1 Tầng [Laceration] against all enemies"
+    },
+    {
+      "id": 124004,
+      "name": "Memories of the Journeys Past",
+      "desc": "Cuối Lượt: Gán 1 [RegainedStrength] on Don Quixote"
+    }
+  ]
+}

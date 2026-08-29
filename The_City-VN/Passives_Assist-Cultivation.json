@@ -1,0 +1,104 @@
+{
+  "dataList": [
+    {
+      "id": 940000501,
+      "name": "The Inner Self",
+      "desc": "Starting from Turn 3: nhận 2 [AttackUp] at every Turn Start"
+    },
+    {
+      "id": 940000502,
+      "name": "Widening Knowledge",
+      "desc": "Before Attack: the targeted enemy gains +1 Blunt Resist. (resets after Skill ends)"
+    },
+    {
+      "id": 940000503,
+      "name": "Spirit of Fixers",
+      "desc": "Remove the first Stagger Threshold from this unit\nWhen hit, nhận 1 [Protection], 1 [AttackUp], and hồi 3 SP (một lần mỗi lượt)"
+    },
+    {
+      "id": 940000504,
+      "name": "The Tianya Sword",
+      "desc": "Cuối Lượt: at 15+ Lượng [Breath], halve Lượng [Breath] and nhận the following effects:\n- All allies, bao gồm cả chủ thể, hồi 10 HP\n- All allies, bao gồm cả chủ thể, hồi 3 SP\n- Halve all removable negative effects from all allies, bao gồm cả chủ thể"
+    },
+    {
+      "id": 940000505,
+      "name": "How to Prepare for War",
+      "desc": "Bắt Đầu Ải: hồi 10 SP, nhận 2 [AttackUp], và 2 [DefenseUp]"
+    },
+    {
+      "id": 940000506,
+      "name": "How to Survive",
+      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (once per Encounter)"
+    },
+    {
+      "id": 940000507,
+      "name": "Apathetic Response",
+      "desc": "When other allies are hit, nhận 1 [AttackUp]; then, nhận 2 [Agility] vào lượt kế (một lần mỗi lượt)"
+    },
+    {
+      "id": 940000508,
+      "name": "POW Torture Technique",
+      "desc": "Khi Đánh Trúng: if target has [Binding] or [Laceration], nhận 1 [ParryingResultUp] vào lượt kế (2 lần mỗi lượt)"
+    },
+    {
+      "id": 940000509,
+      "name": "The Reassuring Heart",
+      "desc": "Đầu Lượt: all allies, bao gồm cả chủ thể, hồi 5 SP\nCombat Start: if the main target's SP is equal to or higher than this unit's, nhận 1 [Protection] (một lần mỗi lượt)"
+    },
+    {
+      "id": 940000510,
+      "name": "God of Gamblers",
+      "desc": "On Clash Win without losing any Coins: regardless of whether they hit or not, if every Coin flipped by that Skill, down to the final Coin, flipped heads, the final Coin +30% sát thương gây ra"
+    },
+    {
+      "id": 940000511,
+      "name": "My Bestie and a Rival",
+      "desc": "Đầu Lượt: if Sinner Sinclair is participating in this battle, this unit and Sinclair both nhận 2 [AttackUp] và 2 [DefenseUp] (does not count if he is a Backup Unit)"
+    },
+    {
+      "id": 940000512,
+      "name": "Hồng Viên Trưởng Tộc",
+      "desc": "Đầu Lượt: gán 1 [DefenseUp] lên tất cả đồng minh, bao gồm cả chủ thể"
+    },
+    {
+      "id": 940000513,
+      "name": "Hồng Viên Trưởng Tộc",
+      "desc": "Đầu Lượt: gán 1 [AttackUp] và 1 [DefenseUp] lên tất cả đồng minh, bao gồm cả chủ thể"
+    },
+    {
+      "id": 940000514,
+      "name": "Hồng Viên Trưởng Tộc",
+      "desc": "Đầu Lượt: gán 2 [AttackUp] và 2 [DefenseUp] lên tất cả đồng minh, bao gồm cả chủ thể"
+    },
+    {
+      "id": 940000515,
+      "name": "Hồng Viên Trưởng Tộc",
+      "desc": "Đầu Lượt: gán 3 [AttackUp] và 3 [DefenseUp] lên tất cả đồng minh, bao gồm cả chủ thể"
+    },
+    {
+      "id": 940000516,
+      "name": "Jin Gang Bolus",
+      "desc": "On Clash Lose, nhận 1 [Protection] và 3 [DefenseUp] (2 lần mỗi lượt)"
+    },
+    {
+      "id": 940000517,
+      "name": "Jin Gang Bolus",
+      "desc": "On Clash Lose, nhận 1 [Protection], 1 [AttackUp], và 3 [DefenseUp] (2 lần mỗi lượt)"
+    },
+    {
+      "id": 940000518,
+      "name": "Jin Gang Bolus",
+      "desc": "On Clash Lose, nhận 2 [Protection], 1 [AttackUp], và 3 [DefenseUp] (2 lần mỗi lượt)"
+    },
+    {
+      "id": 940000519,
+      "name": "Jin Gang Bolus",
+      "desc": "On Clash Lose, nhận 2 [Protection], 1 [AttackUp], và 4 [DefenseUp] (2 lần mỗi lượt)"
+    },
+    {
+      "id": 940000520,
+      "name": "Jin Gang Bolus",
+      "desc": "On Clash Lose, nhận 3 [Protection], 1 [AttackUp], và 4 [DefenseUp] (2 lần mỗi lượt)"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "dataList": [
+    {
+      "id": 90001,
+      "name": "Cơ Thể Côn Trùng",
+      "desc": "Vào cuối lượt, hồi 5 HP."
+    },
+    {
+      "id": 90002,
+      "name": "Bổ sung dinh dưỡng",
+      "desc": "Sau khi đánh bại 1 kẻ địch, hồi 20 HP, and nhận 5 [Endurance] vào lượt kế."
+    },
+    {
+      "id": 90003,
+      "name": "Sắc Bén",
+      "desc": "Khi đánh trúng, gây 1-2 [Laceration].\nNếu có một mục tiêu bị Đánh Dấu, tấn công mục tiêu đó."
+    },
+    {
+      "id": 90004,
+      "name": "Nhụt Trí",
+      "desc": "Bất cứ khi nào có một đồng minh bị đánh bại, vĩnh viễn nhận 1 [Vulnerable]."
+    },
+    {
+      "id": 90005,
+      "name": "Báo Thù",
+      "desc": "Khi HP xuống dưới 50%, nhận 5 [Enhancement] vào lượt kế."
+    },
+    {
+      "id": 90006,
+      "name": "Sóng Não",
+      "desc": "Khi đánh trúng, mục tiêu mất 10 SP."
+    },
+    {
+      "id": 9000101,
+      "name": "Thương Cường",
+      "desc": "Vào đầu lượt, nếu dưới 50% HP, hồi 1 HP."
+    },
+    {
+      "id": 9000102,
+      "name": "Cơ Thể Cường Hóa",
+      "desc": "Vào đầu lượt, nếu dưới 50% HP, hồi 2 HP."
+    },
+    {
+      "id": 9000103,
+      "name": "Cường Hóa Bào Mòn",
+      "desc": "Vào đầu lượt, nếu dưới 50% HP, hồi 4 HP."
+    },
+    {
+      "id": 9100301,
+      "name": "Đại Ca",
+      "desc": "Khi đơn vị này bị hạ, tất cả đồng minh mất 45 SP."
+    },
+    {
+      "id": 9100302,
+      "name": "Nhầm Người Rồi Mấy Đứa!",
+      "desc": "Đơn vị này mất 15 SP mỗi khi đồng minh bị giết."
+    },
+    {
+      "id": 9100401,
+      "name": "Hora de Fiesta",
+      "desc": "Đầu lượt, tất cả đồng minh hồi 10 SP.\nKhi ở 20 SP hoặc hơn, nhận 1 [Enhancement] & 1 [Endurance] ở đầu lượt.."
+    },
+    {
+      "id": 9100402,
+      "name": "Se Acabó la Fiesta",
+      "desc": "Khi nhân vật này bị giết, tất cả đồng minh mất 45 SP."
+    },
+    {
+      "id": 9002801,
+      "name": "Đạn HP",
+      "desc": "Đầu lượt, hồi 15 HP.\nKhi còn dưới 50% HP, hồi thêm 15 HP."
+    },
+    {
+      "id": 9003201,
+      "name": "Sự Hi Sinh Của Ngươi Sẽ Được Tôn Vinh",
+      "desc": "Khi một đồng minh bị giết, nhận 1 [Enhancement] vào lượt kế."
+    },
+    {
+      "id": 9003801,
+      "name": "Niềm Vui Việc Phán Quyết",
+      "desc": "Sau khi giết 1 mục tiêu, nhận 2 [AttackDmgUp] vào lượt kế."
+    },
+    {
+      "id": 9100501,
+      "name": "Cánh Tay Phải Của Người Nắm Giữ",
+      "desc": "Khi bắt đầu lượt, toàn bộ đồng minh hồi 10 SP\nNếu nhân vật này bị giết, toàn bộ đồng minh mất 45 SP."
+    },
+    {
+      "id": 9100601,
+      "name": "Kiên Định",
+      "desc": "Khi HP tụt xuống dưới 50%, loại bỏ toàn bộ hiệu ứng bất lợi vào lượt kế, nhận 4 [Assemble], 1 [Enhancement], và 1 [Endurance] mỗi lượt"
+    },
+    {
+      "id": 9100502,
+      "name": "Ngươi Sẽ Gõ Búa",
+      "desc": "Khi chủ thể đang trong trạng thái [Assemble], +50% sát thương gây ra."
+    },
+    {
+      "id": 9004601,
+      "name": "Tư Duy Cơ Khí",
+      "desc": "SP duy trì ở mức 0"
+    },
+    {
+      "id": 9004602,
+      "name": "Vỏ Ngoài Cứng Cáp",
+      "desc": "Nhận nửa sát thương từ [Laceration] và [Combustion]"
+    },
+    {
+      "id": 9004603,
+      "name": "Cảnh Báo: Bất Ổn Định",
+      "desc": "Khi dính [VibrationExplosion], nâng [VibrationExplosion] của đơn vị này thêm 50%"
+    },
+    {
+      "id": 9004604,
+      "name": "Cảnh Báo: Dễ Vỡ",
+      "desc": " +30% sát thương [Burst] phải nhận (làm tròn xuống)"
+    },
+    {
+      "id": 9004901,
+      "name": "Phá Liên Hư Hoại",
+      "desc": "Sau khi bị choáng, gây ít hơn 1 Tầng và Lượng [Burst]"
+    },
+    {
+      "id": 9005001,
+      "name": "Đập Tạ Hư Hoại",
+      "desc": "Sau khi bị choáng, gây ít hơn 1 Tầng và Lượng [Vibration]"
+    },
+    {
+      "id": 9100701,
+      "name": "Overheating Attack Function",
+      "desc": "When staggering a unit with an attack, nhận 3 [AttackDmgUp] vào lượt kế."
+    },
+    {
+      "id": 9100702,
+      "name": "Phá Liên Hư Hoại",
+      "desc": "Sau khi bị choáng, gây ít hơn 1 Tầng và Lượng [Burst]"
+    },
+    {
+      "id": 9100703,
+      "name": "Đập Tạ Hư Hoại",
+      "desc": "Sau khi bị choáng, gây ít hơn 1 Tầng và Lượng [Vibration]"
+    },
+    {
+      "id": 9100801,
+      "name": "Vặn Cờ Lê",
+      "desc": "Nhận [Resonate] dựa trên số lần nhân vật này lật Xu Ngửa trong lượt (tối đa 10 lần)"
+    },
+    {
+      "id": 9100802,
+      "name": "Đại diện xưởng chế Rosespanner",
+      "desc": "Inflict more [Vibration] by the number of allies that have died this wave"
+    },
+    {
+      "id": 9100803,
+      "name": "Còn mỗi ta thôi nhỉ",
+      "desc": "Khi chỉ còn một mình, nhận Cộng Hưởng Chấn Động và Cộng Hưởng mỗi lượt"
+    },
+    {
+      "id": 9100804,
+      "name": "Ta không còn lựa chọn nào khác",
+      "desc": "Khi chỉ còn một mình, đánh dấu mục tiêu cuối cùng đã tấn công chủ thể làm mục tiêu bị tấn công vào lượt kế"
+    },
+    {
+      "id": 9100901,
+      "name": "Bùa Chú Trói Buộc",
+      "desc": "Nhận [WrappedCurseTagRe] bằng với số lần nhân vật này giao tranh trong lượt."
+    },
+    {
+      "id": 9100902,
+      "name": "Bùa Nguyền Siết Cổ",
+      "desc": "Khi có 10 [WrappedCurseTagRe] trên chủ thể, nâng Ngưỡng Choáng lên 10 và mất hiệu ứng này"
+    },
+    {
+      "id": 9100903,
+      "name": "Bùa Nguyền Nhân Bội",
+      "desc": "Khi HP dưới 30%, gây +1 [ReattachedCurseTag]"
+    },
+    {
+      "id": 9100904,
+      "name": "Bùa Nguyền Lấn Chiếm",
+      "desc": "Khi HP dưới 30%, và mục tiêu có 5+ [ReattachedCurseTag] sau khi tấn công, gây 2 [Paralysis] vào lượt kế."
+    },
+    {
+      "id": 9006201,
+      "name": "Nỗi Buồn Dâng Trào",
+      "desc": "Xu Úp gây 2 [Sinking]"
+    },
+    {
+      "id": 9006202,
+      "name": "Nỗi Sầu Tràn Ly",
+      "desc": "Cuối lượt, mất 5 SP"
+    },
+    {
+      "id": 9006101,
+      "name": "Ngộ Rượu",
+      "desc": "Ở mốc 5 [Exalted], nhận 5 [Tipsiness]."
+    },
+    {
+      "id": 9006102,
+      "name": "Giải Rượu",
+      "desc": "Ở mốc 5 [Tipsiness], dùng 1 kỹ năng phòng thủ."
+    },
+    {
+      "id": 9006801,
+      "name": "Tiêm Huyết Thanh Hồi Phục",
+      "desc": "Vào đầu lượt, hồi 20 HP."
+    },
+    {
+      "id": 9006802,
+      "name": "Tiêm Huyết Thanh Khẩn Cấp",
+      "desc": "Khi có ít hơn 25% HP, hồi lại 40% HP tối đa (một lần duy nhất)"
+    },
+    {
+      "id": 9007001,
+      "name": "Thời Khắc Hoàng Kim",
+      "desc": "Cuối lượt, nếu HP ở giữa khoảng 24% và 12%, hồi lại 65% HP tối đa và hồi phục khỏi trạng thái Choáng. (Một lần duy nhất)"
+    },
+    {
+      "id": 9007002,
+      "name": "Thời Gian Quay Ngược Hồi Tố",
+      "desc": "Sau khi kích hoạt Thời Khắc Hoàng Kim, nhận 3 [Vulnerable] vào cuối lượt."
+    },
+    {
+      "id": 9005401,
+      "name": "Kinh Hãi",
+      "desc": "Khi đồng minh tấn công đồng minh khác, gây 3 sát thương SP"
+    },
+    {
+      "id": 9006901,
+      "name": "Tiêm Huyết Thanh Hồi Phục",
+      "desc": "Vào đầu lượt, hồi 20 HP."
+    },
+    {
+      "id": 9006902,
+      "name": "Tiêm Huyết Thanh Khẩn Cấp",
+      "desc": "Khi có ít hơn 25% HP, hồi lại 40% HP tối đa (một lần duy nhất)"
+    },
+    {
+      "id": 9006803,
+      "name": "Huyết Thanh Khẩn Cấp Quá Liều",
+      "desc": "HP không giảm xuống dưới 1;\nNếu còn dưới 60 HP, vào trạng thái cường hóa"
+    }
+  ]
+}

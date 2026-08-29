@@ -1,0 +1,149 @@
+{
+    "dataList": [
+        {
+            "id": 806301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đập Thô Bạo",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dập! Thật! Mạnh!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +4 Tầng [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sủi Bọt",
+                    "desc": "[CantIdentify]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +5 Tầng [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +5 Tầng [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mai Tấn Công!!!",
+                    "desc": "[CantIdentify] \n +20% sát thương gây ra mỗi 5 Tầng [Burst] trên mục tiêu",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 5 [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +5 Tầng [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tiệc Cua",
+                    "desc": "[CantIdentify] +20% sát thương mỗi 5 Tầng [Burst] trên mục tiêu\n[EndSkill] Triệu hồi 3 Cua Rác nếu có ít hơn 5 Cua Rác khác trên sân vào cuối lượt (tối đa 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 5 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806306,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Giáp Bọt Sủi",
+                    "desc": "[StartBattle] Khi đơn vị này còn Khiên HP và bị tấn công, gây 7 sát thương lên kẻ tấn công, và gây 1 [Burst]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806307,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Giáp Bọt Sủi",
+                    "desc": "[StartBattle] Khi đơn vị này còn Khiên HP và bị tấn công, gây 7 sát thương lên kẻ tấn công, và gây 1 [Burst]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

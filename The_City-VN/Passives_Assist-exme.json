@@ -1,0 +1,65 @@
+{
+  "dataList": [
+    {
+      "id": 40003801,
+      "name": "Limbus Company Specialized Custom Prosthetic Prototype mk5 - Dokkaebi Arms",
+      "desc": "Bắt Đầu Ải: Nhận [AengduNewArm]\n\nIf there is an ally at less than 50% HP on the field excluding this unit, nhận 1 [SupportProtect] (mỗi lượt một lần)",
+      "summary": "Nhận [SupportProtect]",
+      "flavor": "                                     \n\n                                                                   "
+    },
+    {
+      "id": 40003802,
+      "name": "Demonfire Spinecleaver",
+      "desc": "Skill End: Nhận 1 [WindBlade] for every 3 [Breath] (max 5, 2 lần mỗi lượt)\n\nOn Base Attack Skill End: At 15+ [WindBlade], activate \"Even the Balance - Lucent Rippling Flame\" on the enemy (mỗi lượt một lần)\n\nOn Defense Skill Clash Lose, if this unit has 3+ [Agility], this unit cannot be Staggered from taking damage until Defense Skill End, and activate \"To Claim Their Bones\" against the enemy after being hit (2 lần mỗi lượt, excluding forced Staggers)",
+      "summary": "Activate additional Skill when conditions are met"
+    },
+    {
+      "id": 40003803,
+      "name": "Swiftblade",
+      "desc": "On Crit, nhận 1 [Agility] vào lượt kế (3 lần mỗi Kỹ Năng, 2 lần mỗi lượt)",
+      "summary": "Nhận [Agility]"
+    },
+    {
+      "id": 40003804,
+      "name": "To Where I Must Return",
+      "desc": "When 3 or more other Blade Lineage allies are defeated:\n- When gaining Lượng [Breath]/Count using this unit's own Skills and Coin effects: Nhận 1 more of each\n- When 5 or more other Blade Lineage allies are defeated, nhận 2 more of each instead\n- Combat Start: Apply [SwordPlayOfTheHomeland] on self",
+      "summary": ""
+    },
+    {
+      "id": 40004001,
+      "name": "Fugitive",
+      "desc": "Upon entering the Encounter for the first time, nhận [BrandedKimSatgat]"
+    },
+    {
+      "id": 40004002,
+      "name": "Bearing of a Salsu",
+      "desc": "At 1 Tầng [Breath], lose 10 HP instead of losing Tầng [Breath] (this effect cannot Stagger this unit and does not drop this unit's HP below 1)\n\nDeal +(missing HP percentage on self / 2) damage on Critical Hit using Kỹ Năng Cơ Bản (tối đa 50%)"
+    },
+    {
+      "id": 40004003,
+      "name": "Swordplay of the Homeland",
+      "desc": "Combat Start: If Pride Reson. was activated,\n- Nhận (Pride Reson. x 2) [Breath] (tối đa 8)\n- Gán 1 [SlashResultUp] và 1 [CriticalDamageUp] on all Sinners and Assist Units excluding this unit (for Blade Lineage targets, double this effect)\n\nCuối Lượt: Nhận ([Breath] on self / 4) [Agility] vào lượt kế (max 6, rounded down)"
+    },
+    {
+      "id": 40004004,
+      "name": "Sư Phụ Gia Tộc Kiếm Sư",
+      "desc": "When gaining Lượng [Breath]/Count using this unit's own Skills and Coin effects: Gán 1 Lượng [Breath] và 1 Tầng [Breath] on the Sinner and 2 Assist Units that do not have [Breath] or have the lowest Lượng [Breath] (excluding this unit)\n- For Blade Lineage allies, gán 3 Lượng [Breath] và +2 Tầng [Breath] instead\n\nWhen a Blade Lineage Sinner or Assist Unit is defeated, this unit loses 10 SP"
+    },
+    {
+      "id": 40004005,
+      "name": "Yield My Flesh to Claim Their Bones",
+      "desc": "In this Encounter, when this unit takes damage that brings its HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn (once per Encounter)\n\nCuối Lượt: At 30+ Lượng [Breath], fix this unit's Speed to 20 vào lượt kế and equip \"Yield My Flesh\" on the leftmost Skill Slot\n- If \"Yield My Flesh\" becomes inaccessible due to Skill effect, this effect does not activate"
+    },
+    {
+      "id": 40004006,
+      "name": "Fate Lost",
+      "desc": "Lose this Encounter if this unit is killed",
+      "flavor": "                           "
+    },
+    {
+      "id": 40003901,
+      "name": "Dimensional Bag [Ezra]",
+      "desc": "Bắt Đầu Ải: Nhận 1 [DimensionalBagEzraA]\n\nIf this unit used the current Workshop weapon more than once, switch weapons the vào lượt kế\n\nList of weapons:\n- Allas Workshop Gloves\n- Nester Workshop Hammer\n- Screw Atelier Drill Hammer\n- Namir Workshop Gauntlets\n- YuRia Atelier Axe"
+    }
+  ]
+}

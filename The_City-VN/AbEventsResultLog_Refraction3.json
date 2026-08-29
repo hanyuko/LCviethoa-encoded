@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "857701_abm_success_1_1",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> mất %{0}/%."
+    },
+    {
+      "id": "857701_abm_success_1_2",
+      "content": "<color=#ebcaa2>{0}</color> mất %{2} {1}/%"
+    },
+    {
+      "id": "857701_abm_failure_1_1",
+      "content": "Tính tổng Lượng và Tầng <color=#ebcaa2>{0}</color> trên <color=#ebcaa2>từng Tội Nhân</color>, rồi cộng hết lại và chia cho số lượng Tội Nhân. Gây <color=#e30000>{0} và Tầng {0}</color> theo kết quả vừa tính được lên toàn bộ Tội Nhân. (Tối thiểu 1)"
+    },
+    {
+      "id": "857801_success_1_1",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> mất %{0}/%."
+    },
+    {
+      "id": "857801_success_1_2",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> <color=#80c9ff>hồi {0} SP.</color>"
+    },
+    {
+      "id": "857801_success_1_3",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>nhận</color> %{2} [{1}]/% vào lượt kế."
+    },
+    {
+      "id": "857801_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "857801_failure_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>mất {1} SP</color>"
+    },
+    {
+      "id": "857801_failure_1_3",
+      "content": "<color=#ebcaa2>{0}</color> <color=#e30000>mất {1} HP</color>"
+    },
+    {
+      "id": "857101_skinPredector_success_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>nhận</color> %{2} {1}/% <color=#ebcaa2>cho tới hết Ải.</color>"
+    },
+    {
+      "id": "857101_skinPredector_success_1_3",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>nhận</color> %{2} {1}/% và %{4} {3}/% <color=#ebcaa2>cho tới hết Ải.</color>"
+    },
+    {
+      "id": "857101_skinPredector_failure_1_1",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>nhận</color> %{2} {1}/% và %{4} {3}/% <color=#ebcaa2>cho tới hết Ải.</color>"
+    },
+    {
+      "id": "857101_skinPredector_failure_1_2",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> <color=#ebcaa2>nhận</color> %{1} {0}/% và %{3} {2}/%."
+    },
+    {
+      "id": "858501_soc_success_1_1",
+      "content": "<color=#ebcaa2>Kháng {1} của {0} đổi thành 1.5</color>"
+    },
+    {
+      "id": "858501_soc_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000> takes {1} sát thương HP</color>"
+    },
+    {
+      "id": "858501_soc_failure_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>nhận {1} sát thương SP</color>"
+    },
+    {
+      "id": "858502_soc_success_1_1",
+      "content": "<color=#ebcaa2>Kháng {1} của {0} đổi thành 1.5</color>"
+    },
+    {
+      "id": "858502_soc_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000> takes {1} sát thương HP</color>"
+    },
+    {
+      "id": "858502_soc_failure_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>nhận {1} sát thương SP</color>"
+    },
+    {
+      "id": "858502_soc_failure_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>nhận</color> %{2} {1}/%"
+    }
+  ]
+}

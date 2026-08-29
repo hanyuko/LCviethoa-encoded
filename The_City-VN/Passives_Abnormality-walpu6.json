@@ -1,0 +1,69 @@
+{
+  "dataList": [
+    {
+      "id": 122301,
+      "name": "Hiệp Sĩ Tuyệt Vọng",
+      "desc": "Giảm -50% phải nhận từ [Combustion], [Laceration], [Vibration], [Burst], và [Sinking] (làm tròn xuống)\nNếu chủ thể đánh trúng bằng [SuperCoin] Nứt, không kích hoạt hiệu ứng [Sinking] trên mục tiêu (cũn không tiêu hao Tầng [Sinking])"
+    },
+    {
+      "id": 122302,
+      "name": "Dòng Sông Tràn Ngập Nước Mắt Bạc Nhược",
+      "desc": "Đầu Lượt: nếu không có thanh kiếm nào trên sân có [HelplessTear], gán [HelplessTear] cho 1 thanh kiếm ngẫu nhiên (mỗi lượt một lần; không kích hoạt nếu có thanh kiếm sở hữu [HelplessTear])"
+    },
+    {
+      "id": 122303,
+      "name": "Danh Dự Trống Rỗng",
+      "desc": "Cuối Lượt sau khi Bị Choáng lần đầu tiên: nếu có Tội Nhân sở hữu 5+ [ColdBlackTear], dùng một Kỹ Năng Diện Rộng vào lượt kế\nCuối Lượt sau khi Bị Choáng lần đầu tiên: nếu toàn bộ Tội Nhân đều có [ColdBlackTear], nhận [SignOfDespair] vào lượt kế"
+    },
+    {
+      "id": 122304,
+      "name": "Chia Sẻ Nỗi Buồn",
+      "desc": "Khi Bị Choáng lần đầu tiên, hồi phục khỏi Choáng vào lượt kế; sau đó, nhận 10 [Protection] và 500 Khiên mỗi lượt\nTriệu hồi một Thanh Kiếm của Hiệp Sĩ Bị Lãng Quên vào lượt kế"
+    },
+    {
+      "id": 122305,
+      "name": "Hiệp Sĩ Suy Nhược",
+      "desc": "Mỗi khi có một thanh kiếm đâm xuyên chủ thể, nhận 1 [CollapsedPride], và [Protection] nhận được mỗi lượt bị giảm đi 3 trong khi HP Khiên nhận được mỗi lượt bị giảm đi 100\nỞ mốc 3 [CollapsedPride], chủ thể không còn nhận [Protection] và Khiên mỗi lượt nữa, thay vào đó Bị Choáng vào lượt kế và nhận [WornOutKnight]"
+    },
+    {
+      "id": 122306,
+      "name": "Công Lý Cuối Cùng",
+      "desc": "Khi chủ thể bị ARCANA[TabExplain] SLAVE đánh trúng trong khi đang có [WornOutKnight]: HP không giảm xuống dưới 5%, và tự kết liễu bản thân vào Cuối Lượt"
+    },
+    {
+      "id": 122307,
+      "name": "Chia Sẻ Nỗi Buồn",
+      "desc": "Khi Bị Choáng lần đầu tiên, hồi phục khỏi Choáng vào lượt kế; sau đó, nhận 10 [Protection] và 500 Khiên mỗi lượt\nTriệu hồi Thanh Kiếm Đập Tan Con Tim, Thanh Kiếm Xé Toạc Con Tim, và Thanh Kiếm Xuyên Phá Con Tim vào lượt kế"
+    },
+    {
+      "id": 122308,
+      "name": "Công Lý Cuối Cùng",
+      "desc": "Khi chủ thể bị ARCANA[TabExplain] SLAVE đánh trúng trong khi đang có [WornOutKnight] và đang có HP thấp hơn 600: HP không giảm xuống dưới 5%, và tự kết liễu bản thân vào Cuối Lượt"
+    },
+    {
+      "id": 122401,
+      "name": "Thanh Kiếm Xuyên Phá Tuyệt Vọng",
+      "desc": "Nếu một thanh kiếm có [HelplessTear] chạm mốc 0 HP, nó sẽ đâm xuyên Hiệp Sĩ Tuyệt Vọng[TabExplain]"
+    },
+    {
+      "id": 122402,
+      "name": "Thanh Kiếm Của Hiệp Sĩ Bị Lãng Quên",
+      "desc": "Nếu chủ thể đánh trúng bằng [SuperCoin] nứt, không kích hoạt hiệu ứng [Sinking] của mục tiêu"
+    },
+    {
+      "id": 122403,
+      "name": "Thanh Kiếm Hướng Thẳng Đến Những Ai Không Thể Được Bảo Vệ",
+      "desc": "Nếu một kẻ địch có [ChasingArcana], ưu tiên mục tiêu đó"
+    },
+    {
+      "id": 122404,
+      "name": "Tạm Nghỉ",
+      "desc": "HP của chủ thể không giảm xuống dưới 1 khi không có [HelplessTear]\nCuối Lượt: nếu HP của chủ thể giảm xuống 1 khi không có [HelplessTear], hồi đầy HP"
+    },
+    {
+      "id": 122405,
+      "name": "Thanh Kiếm Xuyên Phá Tuyệt Vọng",
+      "desc": "Nếu một thanh kiếm có [HelplessTear] chạm mốc 0 HP, nó sẽ đâm xuyên Hiệp Sĩ Tuyệt Vọng[TabExplain]; sau đó, chuyển giá trị Kháng Chí Tử của nó sang một thanh Kiếm ngẫu nhiên khác vào lượt kế"
+    }
+  ]
+}

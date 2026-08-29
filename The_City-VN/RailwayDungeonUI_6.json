@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": "railway_dungeon_enter_recommend_growth",
+      "content": "- Danh Tính : Cấp Đồng Bộ {1}, Cấp Độ {0}\n- E.G.O : Cấp Thêu Dệt {2}"
+    },
+    {
+      "id": "railway_dungeon_enter_recommend_growth_level_max",
+      "content": "- Danh Tính : Cấp Đồng Bộ {1}, Cấp Độ {0} (Cấp Độ Giới Hạn : {3})\n- E.G.O : Cấp Thêu Dệt {2}"
+    },
+    {
+      "id": "railway_dungeon_6_reward_condition_warning",
+      "content": "※ Hãy lưu ý rằng bất kỳ phần thưởng nào được nhận sau khi kết thúc Mùa 7: Sợi Tơ Nhện · ỏĐ ỉhC iỢS sẽ bị ảnh hưởng do quy trình chuyển tiếp giữa các mùa. Mọi loại tài nguyên theo mùa, chẳng hạn như <color=#990000>Hòm Mảnh Ego và Hòm Mảnh Ego Tùy Chọn</color> sẽ bị giảm một nửa.\n(Các Hòm Mảnh Ego — cả loại Ngẫu Nhiên và loại Tùy Chọn — chưa được chuyển tiếp sẽ được chuyển đổi thành Hòm Chỉ.)"
+    },
+    {
+      "id": "railway_dungeon_6_reward_condition_special_ticket",
+      "content": "Nhận được khi hoàn thành Tuyến Số 6 dưới 111 Tổng Số Lượt trước khi kết thúc Mùa 7: Sợi Tơ Nhện · ỏĐ ỉhC iỢS."
+    },
+    {
+      "id": "railway_dungeon_6_reward_condition_special_ticket_warning",
+      "content": "<color=#990000>※ Không thể nhận sau khi kết thúc Mùa 7: Sợi Tơ Nhện · ỏĐ ỉhC iỢS.</color>"
+    },
+    {
+      "id": "railway_dungeon_6_banner_reward_condition_1",
+      "content": "Nhận được khi hoàn thành Đoàn Tàu Khúc Xạ Tuyến Số 6"
+    },
+    {
+      "id": "railway_dungeon_6_banner_reward_condition_2",
+      "content": "Nhận được khi hoàn thành Tuyến Số 6 dưới {0} Tổng Số Lượt trước khi kết thúc <color=#990000>Mùa 7: Sợi Tơ Nhện · ỏĐ ỉhC iỢS</color>."
+    },
+    {
+      "id": "railway_6_warning_enter_node_1",
+      "content": "Phần Trăm HP và SP khi kết thúc Khu Vực Số 1 của cả đội sẽ đồng thời được chuyển sang Khu Vực Số 5.\n\nXác nhận vào trận với đội hình hiện tại?"
+    },
+    {
+      "id": "railway_6_must_participate_all",
+      "content": "Hãy Triển Khai tất cả Danh Tính.\n\n※ Trong Đoàn Tàu Khúc Xạ: Tuyến Số 6, tất cả Tội Nhân phải được Triển Khai mới có thể tiến vào."
+    },
+    {
+      "id": "railway_6_past",
+      "content": "Quá Khứ"
+    },
+    {
+      "id": "railway_6_present",
+      "content": "Hiện Tại"
+    },
+    {
+      "id": "railway_6_future",
+      "content": "Vị Lai"
+    },
+    {
+      "id": "railway_6_check_first_stage_unit_hp_mp",
+      "content": "Thông Tin Tội Nhân"
+    },
+    {
+      "id": "railway_6_ui_battle_effect",
+      "content": "Hiệu Ứng Hiện Hoạt"
+    },
+    {
+      "id": "railway_6_ui_empty_battle_effect_desc",
+      "content": "Không có hiệu ứng nào."
+    },
+    {
+      "id": "railway_6_ui_passive_effect_title",
+      "content": "Nội Tại của La Sinh Điệp::Thành Trùng"
+    },
+    {
+      "id": "railway_6_ui_empty_passive_effect_desc",
+      "content": "Sẽ được hiển thị sau khi hoàn thành Khu Vực 2."
+    },
+    {
+      "id": "railway_6_ui_empty_statistics_desc",
+      "content": "Sẽ được hiển thị khi hoàn thành Ải tương ứng với Khu Vực."
+    },
+    {
+      "id": "railway_6_ui_attack_resistance_buff_for_ui",
+      "content": "Kháng {0} + 0.25, Kháng {1} + 0.25"
+    },
+    {
+      "id": "railway_6_ui_attack_resistance_buff_for_ui_only_one",
+      "content": "Kháng {0} + 0.25"
+    },
+    {
+      "id": "railway_6_ui__attack_resistance_buff_for_ui_empty",
+      "content": "Không Có Hiệu Ứng"
+    }
+  ]
+}

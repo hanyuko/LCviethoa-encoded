@@ -1,0 +1,95 @@
+{
+  "dataList": [
+    {
+      "id": 97109002,
+      "title": "Punishing Bird",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ là người thực hiện?",
+      "successDesc": [
+        "Khi {0} đang làm việc thì chú chim nhỏ liên tục nhảy nhót qua lại trên cành cây trong buồng quản thúc.\nCó lẽ thực thể ấy đã thích {0} chăng?\nChú chim nhỏ ngậm sợi dây chuyền treo trên cành cây và vứt nó quanh cổ Tội Nhân."
+      ],
+      "failureDesc": [
+        "Khi {0} đang làm việc thì chú chim nhỏ liên tục nhảy nhót qua lại trên cành cây trong buồng quản thúc.\nCó lẽ thực thể ấy đã thích {0} chăng?\n{0} rời buồng quản thúc sau khi hoàn thành công việc, nhưng bỗng nhiên Bộ Đếm Qliphoth giảm xuống.\n\n\"... Cái đấy có nên xảy ra kể cả khi Kết Quả Công Việc là Tốt không đấy?\"\n\"Đó không phải là vấn đề ngay lúc này! Con chim nó vi phạm quản thúc mất rồi kìa!\"\n\"Nó dễ thương quớ mà... Ấy đau thế! Sao nó lại mổ tôi thế này?!\"\n\nCon chim xổng ra bắt đầu mổ các Tội Nhân không ngừng nghỉ.\nChúng tôi nhanh chóng tháo chạy khỏi cái hành lang để tránh nó."
+      ]
+    },
+    {
+      "id": 97109102,
+      "title": "1.76 MHz",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ là người thực hiện?",
+      "successDesc": [
+        "{0} rời khỏi buồng quản thúc cùng Kết Quả Công Việc hiện lên là \"Tốt\".\nKhi Tội Nhân trở ra bên ngoài, một chiếc radio được đính kèm lên ngực, liên tục phát ra thứ âm thanh hệt như bên trong buồng quản thúc."
+      ],
+      "failureDesc": [
+        "Khi {0} rời buồng quản thúc thì Bộ Đếm Qliphoth của 1.76 Mhz bất chợt giảm xuống dù kết quả được xem là thành công. \n\n\"T-tại sao bộ đếm giảm vậy?\"\n\"Chờ đã. Tôi nghe ngoài hành lang có tiếng lạ...\"\n\nMột khối hình dị dạng bắt đầu ngập tràn khắp cái hành lang, chắn mất tầm nhìn chúng tôi.\nRồi những tiếng nổ cùng tạp âm cứ vang lên, các Tội Nhân thì liên tục nhìn nhau đầy bất an.\nTôi nhanh chóng dẫn các Tội Nhân thoát khỏi hành lang trước khi mọi thứ dần trở nên tồi tệ và mất kiểm soát."
+      ]
+    },
+    {
+      "id": 97109601,
+      "title": "Queen Bee Gift Options",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "AI sẽ tiến vào buồng quản thúc?",
+      "successDesc": [
+        "{0} trở ra sau khi cho Ong Chúa ăn.\nTrong lòng bàn tay của {0} tỏa ra mùi gì đó rất ngọt.\nChúng tôi chẳng biết đây là quà đáp lễ vì đã cho nó miếng thịt, hay là dấu ấn biểu thị rằng các ngươi chính là con mồi sắp tới nữa...\nCơ mà sẽ giữ nó lại phòng hờ nó hữu ích trên chặng đường tiếp theo."
+      ],
+      "failureDesc": [
+        "{0} trở ra sau khi cho Queen Bee ăn.\nTội Nhân đó nhăn mặt và ôm đầu như thể rất đau.\n\n\"Để xem... Có nín thở đàng hoàng không đấy? Mà chả quan trọng, đằng nào cũng cần phải thu thập mẫu vật.\"\n\nNgười nghiên cứu viên thu thập mấy cái bào tử rồi chạy vội ra khỏi phòng."
+      ]
+    },
+    {
+      "id": 97109701,
+      "title": "Singing Machine Gift Options",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ thử đây?",
+      "successDesc": [
+        "{0} đưa tay vào trong cỗ máy đáng ngờ.\nCảm giác đau đớn hiện rõ trên mặt, nhưng lát sau lại đưa tay ra hiệu rằng có thể cam chịu được.\nVà rồi cỗ máy bắt đầu vang lên giai điệu mỹ miều mà đầy ám ảnh.\n\n\"Tôi... Tôi cần phải hoàn tất việc tinh chỉnh này... trước khi bản thân quên mất giai điệu ấy.\"\n\nKẻ lạ mặt này bắt đầu tinh chỉnh món nhạc cụ để khớp với từng hợp âm được cất lên.\n{0} rút tay ra và lấy đi cây ghi-ta ở gần đó."
+      ],
+      "failureDesc": [
+        "{0} đưa tay vào trong cỗ máy đáng ngờ.\nCảm giác đau đớn hiện rõ trên mặt, nhưng lát sau lại đưa tay ra hiệu rằng có thể cam chịu được.\nVà rồi cỗ máy bắt đầu vang lên giai điệu mỹ miều mà đầy ám ảnh.\n\n\"Ôi... N-nó ngắn quá. Thêm nữa đi mà... Hãy cho tôi nghe thêm giai điệu ấy đi mà!\"\n\nKẻ lạ mặt này đẩy cánh tay của Tội Nhân đó vào sâu bên trong cỗ máy.\nSau đó anh ta đưa cây ghi-ta cho {0} rồi bắt đầu tinh chỉnh món nhạc cụ ấy. Còn Tội Nhân ấy thì vẫn vô cùng đau đớn sau hành động vừa rồi."
+      ]
+    },
+    {
+      "id": 97109702,
+      "title": "Singing Machine Gift Options",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ thử đây?",
+      "successDesc": [
+        "{0} đưa tay vào trong cỗ máy đáng ngờ.\nCảm giác đau đớn hiện rõ trên mặt, nhưng lát sau lại đưa tay ra hiệu rằng có thể cam chịu được.\nVà rồi cỗ máy bắt đầu vang lên giai điệu mỹ miều mà đầy ám ảnh.\n\n\"Tôi... Tôi cần phải hoàn tất việc tinh chỉnh này... trước khi bản thân quên mất giai điệu ấy.\"\n\nKẻ lạ mặt này bắt đầu tinh chỉnh món nhạc cụ để khớp với từng hợp âm được cất lên.\n{0} rút tay ra và lấy đi cây ghi-ta trầm ở gần đó."
+      ],
+      "failureDesc": [
+        "{0} đưa tay vào trong cỗ máy đáng ngờ.\nCảm giác đau đớn hiện rõ trên mặt, nhưng lát sau lại đưa tay ra hiệu rằng có thể cam chịu được.\nVà rồi cỗ máy bắt đầu vang lên giai điệu mỹ miều mà đầy ám ảnh.\n\n\"Ôi... N-nó ngắn quá. Thêm nữa đi mà... Hãy cho tôi nghe thêm giai điệu ấy đi mà!\"\n\nKẻ lạ mặt này đẩy cánh tay của Tội Nhân đó vào sâu bên trong cỗ máy.\nSau đó anh ta đưa cây ghi-ta trầm cho {0} rồi bắt đầu tinh chỉnh món nhạc cụ ấy. Còn Tội Nhân ấy thì vẫn vô cùng đau đớn sau hành động vừa rồi."
+      ]
+    },
+    {
+      "id": 97109801,
+      "title": "Singing Machine Gift Option 2 - Harmony Guitar",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ thử đây?",
+      "successDesc": [
+        "{0} đưa tay vào cỗ máy. Và đáp lại là cỗ máy phát ra một bản nhạc thật tuyệt đẹp làm sao.\n\nSau khi lắng nghe thật lâu trong im lặng, kẻ lạ mặt gật đầu tỏ vẻ hài lòng và giao món nhạc cụ còn lại cho {0}."
+      ],
+      "failureDesc": [
+        "{0} đưa tay vào cỗ máy. Và đáp lại là cỗ máy phát ra một bản nhạc thật tuyệt đẹp làm sao.\n\n\"... Kh-không, không được. Nếu như không còn nhạc cụ nữa, thì tôi phải tiếp tục nghe được thứ giai điệu hoàn chỉnh ấy thì mới thôi.\"\n\"Đúng thế... Chẳng có gì tạo nên thứ âm nhạc hấp dẫn mà lôi cuốn như con người cả.\"\n\nAnh ta ném món nhạc cụ cho chúng tôi, rồi không nói thêm lời nào đẩy {0} vào bên trong cỗ máy.\nChưa kịp phản ứng thì cái cỗ máy đó đã nhai ngấu nghiến rồi nuốt chửng {0}...\nCái âm thanh thịt nát xương tan vang vọng khắp buồng quản thúc trong thứ hòa âm man rợ.\nKẻ lạ mặt quay sang nhìn các Tội Nhân khác sau khi đã bị thứ giai điệu rợn người làm cho mê hoặc.\nChúng tôi tức tốc tháo chạy khỏi buồng quản thúc."
+      ]
+    },
+    {
+      "id": 97109901,
+      "title": "Singing Machine Gift Option 2 - Self-playing Bass",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ thử đây?",
+      "successDesc": [
+        "{0} đưa tay vào cỗ máy. Và đáp lại là cỗ máy phát ra một bản nhạc thật tuyệt đẹp làm sao.\n\nSau khi lắng nghe thật lâu trong im lặng, kẻ lạ mặt gật đầu tỏ vẻ hài lòng và giao món nhạc cụ còn lại cho {0}."
+      ],
+      "failureDesc": [
+        "{0} đưa tay vào cỗ máy. Và đáp lại là cỗ máy phát ra một bản nhạc thật tuyệt đẹp làm sao.\n\n\"... Kh-không, không được. Nếu như không còn nhạc cụ nữa, thì tôi phải tiếp tục nghe được thứ giai điệu hoàn chỉnh ấy thì mới thôi.\"\n\"Đúng thế... Chẳng có gì tạo nên thứ âm nhạc hấp dẫn mà lôi cuốn như con người cả.\"\n\nAnh ta ném món nhạc cụ cho chúng tôi, rồi không nói thêm lời nào đẩy {0} vào bên trong cỗ máy.\nChưa kịp phản ứng thì cái cỗ máy đó đã nhai ngấu nghiến rồi nuốt chửng {0}...\nCái âm thanh thịt nát xương tan vang vọng khắp buồng quản thúc trong thứ hòa âm man rợ.\nKẻ lạ mặt quay sang nhìn các Tội Nhân khác sau khi đã bị thứ giai điệu rợn người làm cho mê hoặc.\nChúng tôi tức tốc tháo chạy khỏi buồng quản thúc."
+      ]
+    }
+  ]
+}

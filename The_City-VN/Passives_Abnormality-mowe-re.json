@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": 123806,
+      "name": "Ác Mộng của La Manchaland",
+      "desc": "Nếu kẻ địch có Huyết Quỷ La Manchaland, nhận các hiệu ứng sau:\n- Khi giao tranh vói Huyết Quỷ La Manchaland, giảm 4 Sức Mạnh Giao Tranh\n- Khi tấn công Huyết Quỷ La Manchaland, giảm 5 SP (một lần mỗi Kỹ Năng; 2 lần mỗi lượt)\n- -20% sát thương khi tấn công Huyết Quỷ La Manchaland"
+    },
+    {
+      "id": 123801,
+      "name": "Máu Dự Trữ",
+      "desc": "Cuối Lượt: dựa vào số Lớp [KeptBlood] chủ thể đang có:\n- Gây +2 [Laceration] và +1 Tầng [Laceration] lên bản thân với mỗi Lớp\n- Khi có 5- Lớp: nhận 1 [Binding], 1 [Vulnerable], 1 [AttackDown] và mất 5 SP vào lượt kế với mỗi (6 - Lớp) (hiệu ứng này không thể giảm SP của chủ thể dưới -20)\n- Khi có 5+ Lớp: Nhận 1 [AttackUp], 1 [DefenseUp], và hồi 8 SP vào lượt kế với mỗi (6 - Lớp) (hiệu ứng này không thể tăng SP của chủ thể quá 30)"
+    },
+    {
+      "id": 123805,
+      "name": "Sinh Vật Hút Máu - Đông Máu",
+      "desc": "Khi vào sân, hồi 30 SP\nĐầu Lượt: Nếu chủ thể có [Laceration],\n- Nhận 1 [AttackUp] và 1 [DefenseUp] với mỗi 5 [Laceration] (tối đa 5)\n- Nhận 1 [ParryingResultUp] với mỗi 10 [Laceration] (tối đa 2)\n-50% sát thương phải nhận từ [Laceration] (làm tròn xuống)"
+    },
+    {
+      "id": 130502,
+      "name": "Bộ Phân Cơ Học Mã L37",
+      "desc": "Khi vào sân, hồi 20 SP\nĐầu Lượt: Hồi 1 SP với mỗi 1 tầng [Charge] đang có (tối đa 15)\nĐầu Lượt: Đầu Lượt: Khi có 5- tầng [Charge], nhận 1 [Reduction]\nĐầu Lượt: Khi có 5+ tầng [Charge], nhận 2 [ParryingResultUp]\nĐầu Lượt: Khi có 10+ tầng [Charge], nhận 1 [PlusCoinValueUp]\nĐầu Lượt: Khi 15+ tầng [Charge], kỹ năng Tấn Công Cơ Bản gây thêm (tầng [Charge] của chủ thể x 2)% sát thương"
+    }
+  ]
+}

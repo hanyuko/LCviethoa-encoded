@@ -1,0 +1,134 @@
+{
+  "dataList": [
+    {
+      "id": 139001,
+      "name": "Lễ Hội Huyết Khai",
+      "desc": "Chuyển sang giai đoạn tiếp theo sau khi tất cả Búp Bê Đất bị tiêu diệt."
+    },
+    {
+      "id": 139003,
+      "name": "Lễ Hội Hỏa Khai",
+      "desc": "Nếu cả hai Cánh Tay bị phá hủy hoặc máu thân chính còn 70%, trận chiến chuyển sang giai đoạn tiếp theo."
+    },
+    {
+      "id": 139004,
+      "name": "Frenzy",
+      "desc": "During phase 3, gây 7 [Combustion] on all enemies every turn"
+    },
+    {
+      "id": 139006,
+      "name": "Cuồng Loạn",
+      "desc": "Khi HP còn 25%, trận chiến chuyển sang giai đoạn tiếp theo."
+    },
+    {
+      "id": 139101,
+      "name": "Vật Tế Thần",
+      "desc": "Không chết khi HP về 0; thay vào đó vẫn hiện diện trên sân dưới dạng bất động và không thể bị chọn làm mục tiêu.\nBị áp chế khi Lịch Tận Thế bị áp chế"
+    },
+    {
+      "id": 139301,
+      "name": "Quá Khứ Lặp Lại",
+      "desc": "Ở 50+ [AccumulatedPast], và nếu HP của Lõi ít hơn 80%, tiêu thụ 50 [AccumulatedPast] để hồi 200 HP cho Lõi vào Cuối Lượt"
+    },
+    {
+      "id": 139302,
+      "name": "Quá Khứ Sai Chỗ",
+      "desc": "Tiêu thụ toàn bộ [AccumulatedPast] khi phần Thân Thể bị phá hủy\nKhi phần Thân Thể bị phá hủy, gán các hiệu ứng sau lên nó trong suốt Ải này:\n- Kháng Nguyên Tội trở thành 0.5 kể từ lượt này\n- Kháng Loại Tấn Công trở thành 0.5 kể từ lượt kế"
+    },
+    {
+      "id": 139303,
+      "name": "Cổng Xả Bị Hỏng",
+      "desc": "Khi phần Pháo Hơi Nước bị phá hủy, mất toàn bộ [Breath] ở tất cả Bộ Phận\nKhi phần Pháo Hơi Nước bị phá hủy, nếu chủ thể nhận [Breath] nhận số [Vulnerable] tương ứng \nMột khi phần Pháo Hơi Nước bị phá hủy, các Kỹ Năng Tấn Công mất 1 [Breath] Khi Dùng"
+    },
+    {
+      "id": 139304,
+      "name": "Hơi Nước Rò Rỉ ",
+      "desc": "Khi phần Pháo Hơi Nước nhận đòn, mất 1 [Breath] và 1 Tầng [Breath]"
+    },
+    {
+      "id": 139305,
+      "name": "Máy Đếm Nhịp",
+      "desc": "Nếu [AccumulatedPastMirror] đang là số lẻ, nhận 3 [Vulnerable] và [AttackDmgUp]\nNếu là số chẵn, nhận 3 [Protection] và 3 [AttackDmgDown]"
+    },
+    {
+      "id": 139401,
+      "name": "Gia Cầm Mạnh Khỏe",
+      "desc": "Cuối Lượt: Hồi 5 HP với mỗi Gà Sống trên sân"
+    },
+    {
+      "id": 139402,
+      "name": "Gà Ảm Đạm",
+      "desc": "Cuối Lượt: Gây 5 sát thương SP lên tất cả kẻ địch với mỗi Gà Sống trên sân"
+    },
+    {
+      "id": 139403,
+      "name": "Gia Cầm Yếu Ớt",
+      "desc": "Khi một Bộ Phận bị phá, nhận 1 [Vulnerable] mỗi lượt với mỗi Gà Sống đã bị giết trước khi Bộ Phận đó bị phá"
+    },
+    {
+      "id": 139404,
+      "name": "Bé Gà Mạnh Mẽ",
+      "desc": "Nếu Bộ Phận này chưa bị phá, nhận 1 [AttackDmgUp] mỗi lượt cho mỗi Gà Sống còn sống"
+    },
+    {
+      "id": 139501,
+      "name": "Bé Gà Bongy Lả Lướt",
+      "desc": "Cuối Lượt: Gây 3 sát thương SP lên một kẻ địch ngẫu nhiên"
+    },
+    {
+      "id": 139701,
+      "name": "Bé Gà Bongy Chắc Thịt",
+      "desc": "Cuối Lượt: Gán 2 [AttackDmgUp] và 2 [Protection] lên tất cả đồng minh vào lượt kế, bao gồm cả chủ thể"
+    },
+    {
+      "id": 141001,
+      "name": "Túi Máu",
+      "desc": "Nếu chủ thể có [BloodPocket]:\n- Kháng nguyên tội Phẫn Nộ của phần thân -50%\n- Kháng nguyên tội Thờ Ơ của phần thân +50%"
+    },
+    {
+      "id": 141002,
+      "name": "Túi Dịch",
+      "desc": "Nếu chủ thể có [WaterPocket], hồi máu cho phần Lõi bằng (Lớp x 20)"
+    },
+    {
+      "id": 141003,
+      "name": "Túi Máu Vụn Vỡ",
+      "desc": "Khi phần thân bị phá hủy, giao tranh thắng sẽ kích hoạt [Laceration] của kẻ địch 1 lần và giảm Tầng [Laceration] đi 1"
+    },
+    {
+      "id": 141004,
+      "name": "Té Nước Xung Quanh",
+      "desc": "Gán 1 [PlayingWithWaterTogetherMirror] trên mục tiêu Giao Tranh với Kỹ Năng của chủ thể bằng Kỹ Năng với loại tấn công tương tự (1 lần mỗi Kỹ Năng, 3 lần mỗi lượt)\n- Nếu nó là một kỹ năng đập, thay vào đó gán 2 [PlayingWithWaterTogetherMirror]"
+    },
+    {
+      "id": 141101,
+      "name": "Túi Dịch",
+      "desc": "Nếu chủ thể có [WaterPocket], hồi phục cho phần Lõi bằng (Lớp x 30)"
+    },
+    {
+      "id": 141102,
+      "name": "Túi Máu Vụn Vỡ",
+      "desc": "Khi phần thân bị phá hủy, giao tranh thắng sẽ kích hoạt 2 lần [Laceration] của kẻ địch 1 lần và giảm Tầng [Laceration] đi 2"
+    },
+    {
+      "id": 141201,
+      "name": "Túi Máu",
+      "desc": "Nếu chủ thể có [BloodPocket]:\n- Kháng nguyên tội Phẫn Nộ của phần thân -35%\n- Kháng nguyên tội Thờ Ơ của phần thân +35%"
+    },
+    {
+      "id": 141202,
+      "name": "Túi Dịch",
+      "desc": "Nếu chủ thể có [WaterPocket], Hồi phục phần lõi bằng (Lớp x 35)"
+    },
+    {
+      "id": 141203,
+      "name": "Túi Máu Vụn Vỡ",
+      "desc": "Khi phần thân bị phá hủy, giao tranh thắng sẽ kích hoạt 3 lần [Laceration] của kẻ địch 1 lần và giảm Tầng [Laceration] đi 3"
+    },
+    {
+      "id": 141204,
+      "name": "Té Nước Té Nước Té Nước",
+      "desc": "Nếu mục tiêu không có [PlayingWithWaterTogetherMirror], nhận các hiệu ứng sau:\n- Thêm 80% sát thương gây ra\n- Khi Đánh Trúng bằng xu cuối cùng của kỹ năng, kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration]\n\nNếu mục tiêu có [PlayingWithWaterTogetherMirror], nhận các hiệu ứng sau:\n- -50% sát thương gây ra\n- nhận thêm 10% sát thương với mỗi [PlayingWithWaterTogetherMirror] trên mục tiêu (tối đa 100%)\n\nNếu không ai có [PlayingWithWaterTogetherMirror], nhận các hiệu ứng sau:\n- Khi Đánh Trúng bằng một kỹ năng, gây 5 [Laceration]\n- Khi Đánh Trúng bằng xu cuối cùng của một kỹ năng, kích hoạt 1 lần [Laceration]; sau đó, giảm số Tầng [Laceration] của mục tiêu đi 1"
+    }
+  ]
+}

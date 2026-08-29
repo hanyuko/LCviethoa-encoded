@@ -1,0 +1,222 @@
+{
+  "dataList": [
+    {
+      "id": 9819,
+      "name": "Huyết Viêm Đao",
+      "desc": "Vào Đầu Ải:  Danh Tính có Kỹ Năng Tấn Công Cơ Bản nhận [Combustion] thì nhận 5 [Combustion] và hồi 8 SP\n\nVới Danh Tính thuộc Hắc Thú - Nhánh Dậu: HP bị giới hạn thành 49% HP Tối Đa. Đổi lại, -50% sát thương phải nhận và giảm 50% khả năng hồi phục (ngoại trừ hồi phục nhờ Quà E.G.O)",
+      "simpleDesc": [
+        {
+          "abilityID": 9819,
+          "simpleDesc": "Nhận [Combustion], Offense Levels, and hồi SP"
+        },
+        {
+          "abilityID": 98191,
+          "simpleDesc": "HP gets capped. Take less damage and hồi less HP."
+        }
+      ]
+    },
+    {
+      "id": 9820,
+      "name": "Hắc Thiết Mã Giáp",
+      "desc": "Đầu Lượt: gán (Cấp Phòng Thủ / 3) Khiên cho 1 đồng minh có Cấp Phòng Thủ cao nhất (ưu tiên Danh Tính Hắc Thú - Ngọ; tối đa 15 Khiên)\n\nKhi đồng minh có Khiên thắng Giao Tranh, gây (Speed / 2) Lượng [Vibration]; rồi nhận 2 [Agility] và 2 [DefenseUp] vào lượt kế (mỗi lần mỗi lượt mỗi Danh Tính)",
+      "simpleDesc": [
+        {
+          "abilityID": 9820,
+          "simpleDesc": "Apply Shield & [Agility] to an ally"
+        },
+        {
+          "abilityID": 98201,
+          "simpleDesc": "Inflict Tremor Potency based on Speed; gain Defense Level next turn"
+        }
+      ]
+    },
+    {
+      "id": 9821,
+      "name": "Hồng Bố Bế Tâm",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1]\n\nKhi đồng minh khác sử dụng Đòn Một Chiều lên kẻ địch, nhận 1 [AttackUp] vào lượt kế (họ chỉ có thể kích hoạt mỗi lần mỗi lượt mỗi Danh tính; hiệu ứng này có thể kích hoạt lên tới 6 lần mỗi lượt)\n\nKhi có đồng minh khác [RetreatForCommon], nhận 1 [SlashResultUp] và 1 [SlashDamageUp] vào lượt kế (mỗi lần mỗi lượt)\n\nKhi đạt được toàn bộ điều kiện trên, nhận 1 [ResultEnhancement] vào lượt kế (mỗi lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9821,
+          "simpleDesc": "Gain Offense Level next turn"
+        },
+        {
+          "abilityID": 98211,
+          "simpleDesc": "Gain Slash Power Up and Slash DMG Up next turn"
+        },
+        {
+          "abilityID": 98212,
+          "simpleDesc": "Gain Power Up next turn"
+        }
+      ]
+    },
+    {
+      "id": 9822,
+      "name": "Đức Hạnh - Trí (智)",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 6]\n\nKhi sử dụng Kỹ Năng Tấn Công (tính cả Kỹ Năng E.G.O) có gây Lượng [Burst] hoặc Tầng [Burst] thắng giao tranh, nhận 2 [DefenseUp] vào lượt kế (một lần mỗi lượt)\n- Nếu chủ thể là một Ứng Viên Trưởng Tộc: nhận thêm 1 [Agility] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9822,
+          "simpleDesc": "Gain Defense Level Up. Family Hierarch Candidate Faction gains [Agility] next turn as well"
+        }
+      ]
+    },
+    {
+      "id": 9823,
+      "name": "Đức Hạnh - Dũng (勇)",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 6]\n\nKhi sử dụng Kỹ Năng Tấn Công (tính cả Kỹ Năng E.G.O) có gây Lượng [Burst] hoặc Tầng [Burst] thắng giao tranh, nhận 2 [AttackUp] vào lượt kế (một lần mỗi lượt)\n- Nếu chủ thể là một Ứng Viên Trưởng Tộc: nhận thêm 3 [AttackUp] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9823,
+          "simpleDesc": "Gain Offense Level Up. Family Hierarch Candidate Faction gains [AttackUp] next turn as well"
+        }
+      ]
+    },
+    {
+      "id": 9824,
+      "name": "Đức Hạnh - Nhân (仁)",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 6]\n\nKhi sử dụng Kỹ Năng Tấn Công (tính cả Kỹ Năng E.G.O) có gây Lượng [Burst] hoặc Tầng [Burst] thắng giao tranh, hồi 15 HP (một lần mỗi lượt)\n- Nếu chủ thể là một Ứng Viên Trưởng Tộc: nhận thêm 1 [Protection] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9824,
+          "simpleDesc": "Heal HP. Family Hierarch Candidate Faction gains [Protection] next turn as well"
+        }
+      ]
+    },
+    {
+      "id": 9825,
+      "name": "Thiết Tha Trác Ma",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 6]\n\nKhi sử dụng Kỹ Năng Tấn Công (tính cả Kỹ Năng E.G.O) có gây Lượng [Burst] hoặc Tầng [Burst] thắng giao tranh, hồi 20 HP, nhận 3 [AttackUp] và 3 [DefenseUp] vào lượt kế (một lần mỗi lượt)\n- Nếu chủ thể là một Ứng Viên Trưởng Tộc: gán 1 [Agility], 1 [Protection] và 3 [AttackUp] cho toàn bộ đồng minh, bao gồm cả chủ thể",
+      "simpleDesc": [
+        {
+          "abilityID": 9825,
+          "simpleDesc": "Gain Offense Level Up, Defense Level Up, and hồi HP. If this unit is a Family Hierarch Candidate, apply Haste, Protection, and Offense Level Up lên tất cả đồng minh next turn as well"
+        }
+      ]
+    },
+    {
+      "id": 9826,
+      "name": "Thiệu Hưng Tửu",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 2]\n\n+1% sát thương gây ra với mỗi 1% HP đã mất (tối đa 10%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9826,
+          "simpleDesc": "Deal more damage based on missing HP"
+        }
+      ]
+    },
+    {
+      "id": 19826,
+      "name": "Thiệu Hưng Tửu+",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 2 và <style=\"upgradeHighlight\">Số 4</style>]\n\n+1% sát thương gây ra với mỗi 1% HP đã mất (tối đa 10%)",
+      "simpleDesc": [
+        {
+          "abilityID": 19826,
+          "simpleDesc": "Deal more damage based on missing HP"
+        }
+      ]
+    },
+    {
+      "id": 29826,
+      "name": "Thiệu Hưng Tửu++",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 2, Số 4 và <style=\"upgradeHighlight\">Số 6</style>]\n\n+1% sát thương gây ra với mỗi 1% HP đã mất (tối đa 10%)",
+      "simpleDesc": [
+        {
+          "abilityID": 29826,
+          "simpleDesc": "Deal more damage based on missing HP"
+        }
+      ]
+    },
+    {
+      "id": 9827,
+      "name": "Nỗi Oán Hận Của Gia Tộc",
+      "desc": "Gấp đôi lượng Huyết Yến được tạo ra trong Ải\nKỹ Năng gây Lượng [Laceration], Tầng [Laceration], hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng': Hồi HP bằng 30% lượng sát thương gây ra khi Kết Đòn (tối đa 20)\n* Nếu một đơn vị hồi phục nhờ hiệu ứng trên, họ nhận 1 [Enhancement] vào Đầu Lượt kế (tối đa 2)\n\nVới mỗi 50 [BloodDinner_Common_Accumulation], toàn bộ đồng minh nhận 1 [AttackUp] vào Đầu Lượt kế (tối đa 5)\nMỗi đơn vị thuộc La Manchaland nhận thêm 1 [AttackUp] với mỗi 30 [BloodDinner] mà họ đã tiêu thụ (tối đa 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9827,
+          "simpleDesc": "Generate more Bloodfeast"
+        },
+        {
+          "abilityID": 98271,
+          "simpleDesc": "Heal HP"
+        },
+        {
+          "abilityID": 98272,
+          "simpleDesc": "Gain Offense Level Up"
+        },
+        {
+          "abilityID": 98272,
+          "simpleDesc": "Gain Offense Level Up"
+        }
+      ]
+    },
+    {
+      "id": 9828,
+      "name": "Vì Capo",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1]\nKhi sử dụng Kỹ Năng có tiêu [Bullet], kích hoạt những hiệu ứng sau:\n- Nhận 3 [Agility] vào lượt kế (một lần mỗi lượt)\n- Đánh Trúng: Kích hoạt [VibrationExplosion] một lần (và tiêu thụ 1 Tầng [Vibration]) (2 lần mỗi lượt)\n- Thắng Giao Tranh - Đánh Trúng: Nếu mục tiêu có cả [Combustion] và [Vibration] (tính cả '<noparse>Thiêu Đốt</noparse> Đặc Trưng' và '<noparse>Chấn Động</noparse> Đặc Trưng'), gây sát thương Phẫn Nộ bằng với ([Combustion] + [Vibration]). (2 lần mỗi lượt)\n\nỞ 4+ Phẫn Nộ Cộng Hưởng., kích hoạt những hiệu ứng sau:\n- Kỹ Năng Phẫn Nộ nhận Sức Mạnh Xu +2 khi sử dụng\n- Đánh Trúng, nếu tiêu [Bullet], +30% sát thương gây ra",
+      "simpleDesc": [
+        {
+          "abilityID": 9828,
+          "simpleDesc": "Gain Haste"
+        },
+        {
+          "abilityID": 98281,
+          "simpleDesc": "Trigger Tremor Burst"
+        },
+        {
+          "abilityID": 98282,
+          "simpleDesc": "Deal Wrath damage"
+        },
+        {
+          "abilityID": 98283,
+          "simpleDesc": "Gain Coin Power"
+        },
+        {
+          "abilityID": 98284,
+          "simpleDesc": "Deal more damage"
+        }
+      ]
+    },
+    {
+      "id": 9829,
+      "name": "Luật Lệ của Ngón Giữa",
+      "desc": "Kỹ Năng Tấn Công Cơ Bản Loại Đập: Sức Mạnh Xu +1; Danh Tính thuộc Băng Ngón Giữa thì nhận Sức Mạnh Xu +2\nKhi một đồng minh bị đánh trúng, toàn bộ đồng minh nhận 2 [AttackUp] vào lượt kế (3 lần mỗi lượt)\n\nNhững hiệu ứng sau được kích hoạt khi Số Danh Tính trong Ải thuộc 'Băng Ngón Giữa' ≥ 3:\nKhởi Chiến: Nhận 1 [Enhancement] và 1 [Protection] với mỗi Đố Kỵ Cộng Hưởng (tối đa 3)\nKhi Danh Tính thuộc Băng Ngón Giữa dùng một Kỹ Năng Cơ Bản Đố Kỵ, chuyển toàn bộ Xu thành [SuperCoin], -50% sát thương phải nhận và nhận 2 [HitDamageUp] vào lượt này và lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9829,
+          "simpleDesc": "Gain Coin Power"
+        },
+        {
+          "abilityID": 98291,
+          "simpleDesc": "Gain Coin Power"
+        },
+        {
+          "abilityID": 98292,
+          "simpleDesc": "Gain Offense Level"
+        },
+        {
+          "abilityID": 98293,
+          "simpleDesc": "Gain Attack Power Up & Protection"
+        },
+        {
+          "abilityID": 98294,
+          "simpleDesc": "Convert Coins to Unbreakable Coins, take less damage, and deal more Blunt damage"
+        }
+      ]
+    },
+    {
+      "id": 9830,
+      "name": "Món Quà Nhỏ Bé của Kkomi",
+      "desc": "Vào Vào Đầu Ải, và với toàn bộ đồng minh vừa Thay Vào, gán 3 [VerEmergencyCandy]\nNếu họ không tiêu thụ [VerEmergencyCandy] ở lượt trước, gán 1 [VerHunger] vào Đầu Lượt",
+      "simpleDesc": [
+        {
+          "abilityID": 9830,
+          "simpleDesc": "Apply Backup Candy"
+        },
+        {
+          "abilityID": 98301,
+          "simpleDesc": "Apply Hunger"
+        }
+      ]
+    }
+  ]
+}

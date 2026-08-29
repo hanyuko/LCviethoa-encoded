@@ -1,0 +1,228 @@
+{
+  "dataList": [
+    {
+      "id": 9102401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bị Rớt Liêm Sỉ À?",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n[WhenUse] Ở 5+ Tầng [Vibration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "À, Mất Luôn Chứ Rớt Gì Nữa",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n[WhenUse] Ở 5+ Tầng [Vibration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bảo Vệ Được Hết Không?",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n[WhenUse] Ở 5+ Tầng [Vibration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở 10+ Tầng [Vibration] trên chủ thể, kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 15+ Lượng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chưa Dùng Được Vũ Khí Đâu",
+          "desc": "[WhenUse] Nhận +3 Tầng [Vibration]\n[WhenUse] Ở 5+ Tầng [Vibration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationCollapse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuẩn Bị Ăn Đập Chưa?",
+          "desc": "Ưu tiên mục tiêu có [VibrationCollapse]\n[WhenUse] Gán Tầng [Vibration] lên tất cả đồng minh khác bằng Tầng [Vibration] trên chủ thể\n[WhenUse] Kích hoạt [Switch_Vibration] trên tất cả đồng minh(bao gồm cả chủ thể) chuyển [Vibration] thành [VibrationDistribution]\n[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 10 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationEcho]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[StartBattle] Nhận 5 x (Tầng [Vibration] trên chủ thể) Khiên HP (tối đa 60)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vì Mục Đích Cao Cả",
+          "desc": "[CantDuel]\n[StartBattle] Lấy toàn bộ số Tầng [Vibration] của đồng minh khác về bản thân; [Vibration] trên tất cả đồng minh hết hiệu lực\n[StartBattle] Nhận 1 [AttackUp] với mỗi 3 Tầng [Vibration] trên chủ thể\n[WhenUse] Nhận 10 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 20% sát thương Lười Biếng với mỗi Tầng [Vibration] trên chủ thể"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +4 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 20% sát thương Lười Biếng với mỗi Tầng [Vibration] trên chủ thể"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể, và kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể, và kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể, và kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

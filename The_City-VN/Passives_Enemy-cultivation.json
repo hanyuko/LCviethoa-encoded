@@ -1,0 +1,52 @@
+{
+    "dataList": [
+        {
+            "id": 9021501,
+            "name": "Now's Our Chance",
+            "desc": "For a turn, if this unit reduced the target's [BurstPoison] down to 0 Lớp, nhận 1 [PenetrateDamageUp] vào lượt kế (tối đa 2)",
+            "summary": ""
+        },
+        {
+            "id": 9021502,
+            "name": "Snake Venom",
+            "desc": "Nếu mục tiêu có [BurstPoison], +2.5% sát thương gây ra for every [SnakeStance] on self (max 7.5%)",
+            "summary": ""
+        },
+        {
+            "id": 9102301,
+            "name": "I See Your Weakness",
+            "desc": "When using an [WideAreaRampage] attack, when attacking the same target, +20% sát thương gây ra and gây +1 Lượng [Burst] or Count",
+            "summary": ""
+        },
+        {
+            "id": 9102302,
+            "name": "I Spy an Opportunity",
+            "desc": "For a turn, if this unit reduced the target's [BurstPoison] down to 0 Lớp, nhận 1 [PenetrateDamageUp] vào lượt kế (tối đa 2)",
+            "summary": ""
+        },
+        {
+            "id": 9102303,
+            "name": "Snake Deathvenom",
+            "desc": "Nếu mục tiêu có [BurstPoison], +5% sát thương gây ra for every [SnakeStance] on self (tối đa 15%)",
+            "summary": ""
+        },
+        {
+            "id": 9102601,
+            "name": "Determination",
+            "desc": "When recovering from Stagger, nhận 1 [Enhancement]",
+            "summary": ""
+        },
+        {
+            "id": 9102602,
+            "name": "Fruits of Education",
+            "desc": "Upon entering the Stage, nhận [StudyStatSinclair] based on the sum of Zhi, Yong, and Ren gained from classes",
+            "summary": ""
+        },
+        {
+            "id": 9102603,
+            "name": "If I lend my ear to the inner self...",
+            "desc": "Đầu Lượt: if this unit is Staggered, recover from Stagger; then, nhận [StudySignSinclair] (once per Encounter)\n- Every Skill used after this activates becomes Unbreakable Coins",
+            "summary": ""
+        }
+    ]
+}

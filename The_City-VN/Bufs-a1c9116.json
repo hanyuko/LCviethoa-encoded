@@ -1,0 +1,95 @@
+{
+  "dataList": [
+    {
+      "id": "BurstAgility",
+      "name": "Tử Chú 【Tốc】",
+      "desc": "     \n  <sprite name=\"Burst\"><color=#e30000> </color>                        <sprite name=\"Burst\"><color=#e30000> </color>\n            <sprite name=\"Burst\"><color=#e30000> </color>           \n            ",
+      "summary": "Nếu thỏa mãn điều kiện: gây sát thương Phàm Ăn bổ sung",
+      "undefined": "-"
+    },
+    {
+      "id": "LegStrength",
+      "name": "Hành Bộ Giả 【Mão】",
+      "desc": "    \n    <sprite name=\"Agility\"><color=#fac400> </color>   \n     ",
+      "summary": "Nếu thỏa mãn điều kiện: gây sát thương Phàm Ăn bổ sung",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkBeast_LowMorale",
+      "name": "Đánh Lừa",
+      "desc": "  \n                        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkBeast_Panic",
+      "name": "Đánh Lừa",
+      "desc": "  \n                                       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RepressedMurderousIntend",
+      "name": "Chế Ngự Sát Khí",
+      "desc": "    \n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeighedMurderousIntend",
+      "name": "Dồn Nén Sát Khí",
+      "desc": "    \n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerBook",
+      "name": "Dấu Ấn Thâm Thù Của Băng Ngón Giữa",
+      "desc": "    \n                ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Persistent",
+      "name": "Kiên Trì",
+      "desc": "    \n                          \n\n      \n               \n      <sprite name=\"TakeHpHealReduce\"><color=#e30000>    </color>\n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BackstreetsNight_LowMorale",
+      "name": "Đên ở Phố Sau",
+      "desc": "  \n     <sprite name=\"Enhancement\"><color=#fac400>    </color>  <sprite name=\"TakeHpHealIncrease\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BackstreetsNight_Panic",
+      "name": "Đên ở Phố Sau",
+      "desc": "  \n     <sprite name=\"Enhancement\"><color=#fac400>    </color>  <sprite name=\"TakeHpHealIncrease\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperA",
+      "name": "Đợt Đầu Tiên",
+      "desc": "      {0} ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperB",
+      "name": "Đợt Thứ Hai",
+      "desc": "      {0} ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperC",
+      "name": "Đợt Thứ Ba",
+      "desc": "      {0} ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

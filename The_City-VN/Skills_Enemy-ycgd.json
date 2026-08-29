@@ -1,0 +1,556 @@
+{
+  "dataList": [
+    {
+      "id": 9011001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chém",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhất Kích",
+          "desc": "Nếu mục tiêu có 7+ [Laceration], Sức Mạnh Xu +1\n[WinDuel] Nhận 1 [SlashDamageUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [Laceration], +50% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tàn Vân Tán",
+          "desc": "Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1\n[WinDuel] Nhận 1 [SlashResultUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [Laceration], +20% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [Laceration], +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [Laceration], +40% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né Đòn",
+          "desc": "[OnSucceedEvade] Nhận 1 [SlashDamageUp] vào lượt kế (Một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vụt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cắt Xé",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [Laceration], +30% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vết Chém Sắc",
+          "desc": "[WinDuel] Nhận 1 [SlashDamageUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [Laceration], +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [Laceration], +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [Laceration], +20% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né Đòn",
+          "desc": "[OnSucceedEvade] Nhận 1 [SlashDamageUp] vào lượt kế (Một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chém Xuống",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chém Ngược",
+          "desc": "[WinDuel] Gây 1 [Paralysis] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhất Kích",
+          "desc": "[WinDuel] Nhận 1 [Protection] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[StartBattle] Nhận 1 [Protection]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vết Chém Xuyên",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lưỡi Dao Sắc Bén",
+          "desc": "Nếu mục tiêu có 7+ [Laceration], Sức Mạnh Xu +1\n[WinDuel] Nhận 1 [Protection] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhất Kích",
+          "desc": "Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1\n[StartBattle] Nhận 1 [Protection]\n[WinDuel] Nhận 1 [Protection] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[StartBattle] Nhận 2 [Protection]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hắc Vân",
+          "desc": "[WhenUse] Nếu mục tiêu có [Laceration], +10% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lau Kiếm",
+          "desc": "Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashTakeDamageUp] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashTakeDamageUp] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tàn Vân Trảm",
+          "desc": "Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sắc Lẹm",
+          "desc": "[StartBattle] Gán 2 [SlashDamageUp] cho tất cả đồng minh, bao gồm cả chủ thể\n[StartBattle] Nhận 2 [SlashResultUp]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phá Thiên Trảm",
+          "desc": "[StartBattle] Nếu mục tiêu chính có 10+ [Laceration], Phạm Vi Tấn Công +1\n[StartBattle] Nếu chủ thể sử dụng 5+ Kỹ Năng Tấn Công trong lượt này, Sức Mạnh Tổng +5\n[WinDuel] Toàn bộ đồng minh hồi 10 SP\nNếu mục tiêu có 7+ [Laceration], +30% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có 7+ [Laceration], +50% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +10 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Luật của Phố Sau",
+          "desc": "[WhenUse] Cứ mỗi đồng minh khác còn sống, thêm 1 Xu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[EnemyKill] Toàn bộ đồng minh hồi 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

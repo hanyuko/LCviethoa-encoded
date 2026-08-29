@@ -1,0 +1,1923 @@
+{
+  "dataList": [
+    {
+      "id": 837801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thứ Tội Lỗi Bất Dung Thứ Này...",
+          "desc": "[WhenUse] Nhận 20 [Laceration] và +1 Tầng [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đền Tội Thích Đáng...",
+          "desc": "[WhenUse] Nhận 20 [Laceration] và +1 Tầng [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hôm nay ngươi có nghĩ về máu không?",
+          "desc": "[WhenUse] Nhận 10 [Laceration]\n[WhenUse] Tiêu thụ lên tới 30 [BloodDinner]: Hồi Lõi và Bộ Phận của đồng minh có HP thấp nhất bằng ([BloodDinner] đã tiêu thụ x 2). (trừ bản thân; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [WornHeart] và [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngươi vẫn còn đang nghĩ về máu sao?",
+          "desc": "[WhenUse] Nhận 10 [Laceration]\n[WhenUse] Tiêu thụ lên tới 20 [BloodDinner]: hồi cho bản thân và đồng minh(Lõi và Bộ Phận) có HP thấp nhất ([BloodDinner] đã tiêu thụ x 2).\n- Nếu không còn đồng minh nào, bản thân hồi gấp đôi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 50%+ HP, kích hoạt [Laceration] trên chủ thể. Mất 1 Tầng [Laceration] trên chủ thể"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [WornHeart] và [BloodyHand]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 10 [WornHeart], nhận thêm 3 [BloodyHand] và nhận 1 [AttackUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thêm nữa, nhiều máu hơn nữa...!",
+          "desc": "[WhenUse] Tiêu thụ lên tới 50 [BloodDinner] và nhận 1 [BloodyHand] với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Nhận 10 [Laceration]\n[WhenUse] Nhận 3 [BloodyHand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [BloodyHand] với mỗi 5 [Laceration] trên mục tiêu (tối đa 5)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thật dồi dào...",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1\n[WhenUse] Tiêu thụ lên tới 30 [BloodDinner]: nhận Sức Mạnh Xu +1 với mỗi 10 [BloodDinner] đã tiêu thụ (hiệu ứng này hết hiệu lực sau khi Xu đầu tiên tấn công)\n[DefeatDuel] Nhận 1 [Vulnerable] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng sát thương gây ra (tối đa 30)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu Kỹ Năng này đã tiêu thụ 30 [BloodDinner], và Khi chủ thể có 30+ [BloodyHand_3rd], Tái sử dụng Xu này một lần"
+                },
+                {
+                  "desc": "- Nếu Kỹ Năng này của chủ thể tiêu hao [BloodDinner] thất bại, nhận 20 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hy Sinh Vì Gia Đình",
+          "desc": "[StartBattle] Ở mốc 50%+ HP, kích [Laceration] trên chủ thể (tối đa 3 lần; giảm Tầng [Laceration] mỗi lần được kích hoạt; không thể bị Choáng từ sát thương này)\n[StartBattle] Toàn bộ đồng minh hồi 5 SP (bao gồm cả bản thân)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Máu...",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], +20% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thể Hiện Tình Yêu",
+          "desc": "Ưu tiên mục tiêu có ít hiệu ứng bất lợi\n[WhenUse] Nếu mục tiêu không có bất kỳ hiệu ứng bất lợi nào, dùng 'Thể Hiện Tình Yêu Thô Bạo' vào lượt kế\n\n[WhenUse] Nếu mục tiêu có nhiều hiệu ứng bất lợi hơn [FaintMemory] trên chủ thể, dùng 'Cái Ôm Buồn Bã' vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [AffectionTeddy]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây 2 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cào Cấu",
+          "desc": "Ưu tiên mục tiêu có ít hiệu ứng bất lợi\n[WinDuel] Gây 3 [AffectionTeddy] vào lượt kế\n[DefeatDuel] Gây 1 [AffectionTeddy] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cào Cấu Dữ Dội",
+          "desc": "Ưu tiên mục tiêu có ít hiệu ứng bất lợi\n[WinDuel] Gây 3 [AffectionTeddy] vào lượt kế\n[DefeatDuel] Gây 1 [AffectionTeddy] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Curse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thể Hiện Tình Yêu E Dè",
+          "desc": "[DuelCounter]\n[WhenUse] Gây 2 [Disarming] vào lượt kế\n[WhenUse] Gây 1 [Curse]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [AffectionTeddy], tiêu thụ [AffectionTeddy] và gây [Curse] và [NailPersonality] bằng [AffectionTeddy] đã tiêu thụ (tối đa 4)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ [Curse], tiêu thụ 4 [Curse] trên mục tiêu và gây 1 [CursePackage]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thể Hiện Tình Yêu Thô Bạo",
+          "desc": "[CantChangeTarget]\nNhắm vào mục tiêu mà chủ thể đã Giao Tranh với 'Thể Hiện Tình Yêu' ở lượt trước",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Nếu mục tiêu không có bất kỳ hiệu ứng bất lợi nào, +100% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Curse]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây 6 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cái Ôm Buồn Bã",
+          "desc": "[CantChangeTarget]\nNhắm vào mục tiêu mà chủ thể đã Giao Tranh với 'Thể Hiện Tình Yêu' ở lượt trước\nCố định sát thương gây lên mục tiêu đó thành 0\n[StartBattle] Nhận 2 [Vulnerable] cho đến lượt kế\n[EndBattle] Vào trạng thái Choáng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi đầy SP cho mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cái Ôm Hoài Niệm Xưa Cũ",
+          "desc": "[DefeatDuel] Kỹ Năng này chỉ gây một nửa sát thương lên kẻ địch",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Curse]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [NailPersonality]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ toàn bộ [AffectionTeddy] trên mục tiêu\n- Nếu chủ thể thắng Giao Tranh, nâng Ngưỡng Choáng của mục tiêu bằng ([AffectionTeddy] đã tiêu thụ x 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ghìm Xuống",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dục Vong Xuyên Thấu",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kìm Nén Dục Vọng",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Gốc +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Gây Tầng [Laceration] bằng Tầng [Laceration] mà mục tiêu đã mất trong Giao Tranh"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [ScarletTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[WhenUse] Khiên +10 với mỗi 4 [Laceration] trên mục tiêu (tối đa 30)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nghiền",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nghiền Nát",
+          "desc": "[WhenUse] Nhận 5 [Breath]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [IndigoTakeDamageUp] vào lượt kế"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cú Nghiền Cao Ngạo",
+          "desc": "[WhenUse] Ở mốc 5+ [Breath], Sức Mạnh Xu +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [Breath] và +3 Tầng [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] +100% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Ở mốc 6+ [Breath], Sức Mạnh Xu +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lật Đổ",
+          "desc": "[WhenUse] Tiêu thụ 10 [BloodDinner]: Nhận 1 [BloodArmor]\n[WhenUse] Sức Mạnh Xu +1 với mỗi 10 [BloodArmor] (tối đa 2)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 15 [Laceration] trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tổn Thương",
+          "desc": "[WhenUse] Tiêu thụ lên tới 20 [BloodDinner]: Nhận 1 [BloodArmor] với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Sức Mạnh Xu +1 với mỗi 10 [BloodArmor] (tối đa 2)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 15 [Laceration] trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niềm Vui Đẫm Máu",
+          "desc": "[WhenUse] Tiêu thụ 4 [BloodArmor] để hồi 10 SP\n[WhenUse] Tiêu thụ 10 [BloodDinner] để nhận 1 [BloodArmor] và hồi 10 SP\n- Nếu chủ thể tiêu hao [BloodDinner] thất bại, nhận 3 [Laceration].",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +10% sát thương gây ra với mỗi [Laceration] trên mục tiêu (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cơn Say Máu",
+          "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[StartBattle] Nếu có kẻ địch có [Laceration], kích hoạt [Laceration] trên tất cả kẻ địch. Tất cả kẻ địch mất 2 Tầng [Laceration]\n[WhenUse] Nếu hiệu ứng này không kích hoạt khi Khỏi Chiến, nhận 30 [Laceration].\n[WinDuel] Tiêu thụ lên tới 40 [BloodDinner]: với mỗi 10 [BloodDinner] đã tiêu thụ, nhận 1 [BloodArmor] và +25% sát thương gây ra (tối đa 100%)\n- Nếu chủ thể tiêu hao [BloodDinner] thất bại, nhận 5 [Laceration], và kích hoạt [Laceration] ngay lập tức. Mất 2 Tầng [Laceration]\n[EndSkill] Kết thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp Thuật Don Quixote Thức 4 - Phá Vỡ",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1\n[WinDuel] Với Kỹ Năng này, +20% sát thương gây ra với mỗi Bậc [BloodArmor] (tối đa 60%)\n[DefeatDuel] Tiêu thụ 4 [BloodArmor] để nhận 20 Khiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp Thuật Don Quixote Thức 11 - Đâm Xuyên",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 3)\n[WinDuel] Với Kỹ Năng này, +20% sát thương gây ra với mỗi Bậc [BloodArmor] (tối đa 60%)\n[DefeatDuel] Tiêu thụ 4 [BloodArmor] để nhận 20 Khiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu bằng số Tầng. Tiêu thụ Tầng [Laceration] của mục tiêu xuống còn 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp Thuật Don Quixote Thức 2 - Huyết Giáp",
+          "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[StartBattle] Tiêu thụ 200 [BloodDinner], nhận 500 Khiên, 5 [BloodArmor], và 1 [SwirlingBlood]\n- Nếu chủ thể không đủ [BloodDinner], nhận 50 [Laceration], và kích hoạt [Laceration] ngay lập tức. Mất 2 Tầng [Laceration]. Nhận 500 Khiên và 1 [SwirlingBlood] (sát thương này không thể giảm HP của đơn vị này xuống 1)\n[WinDuel] Nhận 200 Khiên\n[DefeatDuel] Nhận 3 [Vulnerable] Miễn là Khiên nhận được từ Kỹ Năng này vẫn còn hiệu lực\n[DefeatDuel] -50% sát thương gây ra, và Kỹ Năng này không thể làm Choáng mục tiêu\n[EndSkill] Kết thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Biến Thể Huyết Giáp Thuật Don Quixote: Sancho Thức 4 - Truy Cùng",
+          "desc": "Ưu tiên mục tiêu có nhiều [Laceration] nhất\n[BeforeAttack] Nếu mục tiêu là mục tiêu có nhiều [Laceration] nhất, nhận Phạm Vi Tấn Công +2 và Sức Mạnh Giao Tranh +3\n[WhenUse] Tiêu thụ lên tới 30 [BloodDinner]: Nhận 1 [BloodArmor] và Sức Mạnh Xu +1 với mỗi 15 [BloodDinner] đã tiêu thụ (tối đa 2)\n- Nếu chủ thể tiêu hao [BloodDinner] thất bại, nhận 10 [Laceration], và kích hoạt [Laceration] ngay lập tức. Mất 2 Tầng [Laceration]\n[EndSkill] Tăng [BloodDinner] bằng sát thương Kỹ Năng này gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế\n- Nếu Kỹ Năng này đã tiêu thụ 30 [BloodDinner], gây thêm 2 [Binding]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Biến Thể Huyết Giáp Thuật Don Quixote: Sancho Thức 3 -  Phục Kích",
+          "desc": "Ưu tiên mục tiêu có nhiều [Laceration] nhất\n[BeforeAttack] Nếu mục tiêu là mục tiêu có nhiều [Laceration] nhất, nhận Phạm Vi Tấn Công +2 và Sức Mạnh Giao Tranh +3\n[WhenUse] Tiêu thụ lên tới 50 [BloodDinner]: Nhận 1 [BloodArmor] và Sức Mạnh Gốc +1 với mỗi 10 [BloodDinner] đã tiêu thụ (tối đa 5)\n- Nếu chủ thể tiêu hao [BloodDinner] thất bại, nhận 10 [Laceration], và kích hoạt [Laceration] ngay lập tức. Mất 1 Tầng [Laceration]\n[EndSkill] Tăng [BloodDinner] bằng sát thương Kỹ Năng này gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế\n- Nếu Kỹ Năng này đã tiêu thụ 50 [BloodDinner], gây thêm 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Biến Thể Huyết Giáp Thuật Don Quixote: Sancho Thức 2 - La Sangre",
+          "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse] Tiêu thụ 50 [BloodDinner] để gây 1 [Paralysis] lên mục tiêu và bản thân\n[WhenUse] Tiêu thụ 100 [BloodDinner] để nhận Sức Mạnh Giao Tranh +5\n- Nếu không đủ [BloodDinner], tiêu thụ 100 HP của chủ thể để nhận Sức Mạnh Giao Tranh +5\n[EndSkill] Kết thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 8 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Hồi bằng sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Aventura Ha Terminado",
+          "desc": "[WhenUse] Tiêu thụ (45 - SP hiện tại) [BloodDinner] để hồi lên tới 45 SP\n- Nếu không đủ [BloodDinner], tiêu thụ (45 - SP hiện tại) HP để hồi lên tới 45 SP (sát thương này không thể giảm mục tiêu xuống 1)\n- Nhận Khiên bằng [BloodDinner] còn lại (tối đa 100)\n[WinDuel] Gây 10 [Laceration]\n[DefeatDuel] Tiêu thụ 100 [BloodDinner]\n[EndSkill] Tăng [BloodDinner] bằng sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] +10% sát thương gây ra với mỗi [Laceration] trên mục tiêu (tối đa 200%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] +10% sát thương gây ra với mỗi [BloodDinner] (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Keeehhhhnnhhh",
+          "desc": "[WhenUse] Nhận 3 [DefenseUp]\n[DefeatDuel] Nhận 3 [DefenseUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [DefenseUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [DefenseUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knnhgh nhhnnh",
+          "desc": "[WinDuel] Gây 1 [Binding] vào lượt kế\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 4 [DefenseUp] trên chủ thể (tối đa 2)\n[WhenUse] Nhận 3 [DefenseUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [DefenseUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [DefenseUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [DefenseUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knngghh",
+          "desc": "[StartBattle] Gán 3 [DefenseUp] lên 1 đồng minh, bao gồm cả chủ thể, có phần trăm HP thấp nhất\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 5 [DefenseUp] trên chủ thể (tối đa 4)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [AttackUp] bằng [DefenseUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knnh",
+          "desc": "[StartBattle] Nhận 2 x ([DefenseUp] trên chủ thể) Khiên (tối đa 20, 2 lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Roi Đính Gai",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Burst], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quật Roi",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có ít hơn 5 Tầng [Burst], gây +2 Tầng [Burst]\n- Ở 5+ Tầng [Burst], thì gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có ít hơn 5 Tầng [Burst], gây +2 Tầng [Burst]\n- Ở 5+ Tầng [Burst], thì gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vương Miện Gai Trói Buộc",
+          "desc": "Ưu tiên mục tiêu có SP thấp nhất\n[WhenUse] Nếu mục tiêu có 0- SP, Sức Mạnh Giao Tranh +3\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 sát thương SP\n- Nếu mục tiêu có 0- SP, thì gây 20 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thu Hồi Roi",
+          "desc": "Ưu tiên mục tiêu có [ThornNoose]\nNếu mục tiêu không có [ThornNoose], -50% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [ThornNoose], gây 2 [Burst]\n- Nếu mục tiêu có 10+ [Burst], thì gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [ThornNoose], gây 2 [Burst]\n- Nếu mục tiêu có 10+ [Burst], thì gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [ThornNoose], gây 2 [Burst]\n- Nếu mục tiêu có 10+ [Burst], thì gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [ThornNoose], +50% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Roi Gai Góc",
+          "desc": "[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu, Sức Mạnh Giao Tranh +5\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận Sức Mạnh Gốc bằng số Lớp [ThornNoose] của mục tiêu",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu bị Choáng hoặc đang có [ThornNoose], +30% sát thương gây ra"
+                },
+                {
+                  "desc": "[EnemyKill] Gây (Tầng [Burst] trên mục tiêu x 2) [Burst] lên toàn bộ kẻ địch (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vòng Hoa Roi",
+          "desc": "[StartBattle] Nhận Khiên bằng (số Lớp kẻ địch có [ThornNoose])% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thòng Lọng Trói Chân",
+          "desc": "[StartBattle] Nếu số kẻ địch đang có [ThornNoose] là 3 hoặc ít hơn, gây 1 [ThornNoose]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Gai",
+          "desc": "[CantChangeTarget]\nƯu tiên mục tiêu có [ThornNoose]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst] và +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Duyên Dáng",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Diễu Hành Vô Định",
+          "desc": "[CantDuel]\nNếu mục tiêu sử dụng Kỹ Năng Phòng Thủ, -100% sát thương gây ra\n[WhenUse] Tạo 1 Buồng Đu Quay vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lễ Hội Vô Tận",
+          "desc": "[CantDuel]\nNếu mục tiêu sử dụng Kỹ Năng Phòng Thủ, -100% sát thương gây ra\n[WhenUse] Tạo 4 Buồng Đu Quay vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 840301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "CHOTÔIRA!!!CHOTÔIRA!!!",
+          "desc": "Dùng Kỹ Năng tự phát nổ vào lượt kế.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 840302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "NÓ SẮP PHÁT NỔ!!!",
+          "desc": "[CantDuel]\n[StartBattle] Nhận 3 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Gây 10 sát thương Dục Vọng lên mục tiêu, sau đó hết hiệu lực"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 840303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phô Trương!",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Gây 10 sát thương Dục Vọng lên mục tiêu, sau đó tự chết."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cơn Khát Cháy Bỏng",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 3)\n[WhenUse] Tiêu thụ lên tới 30 [BloodDinner]: Nhận 1 [RegainedStrength] với mỗi 10 [BloodDinner] đã tiêu thụ\n[DefeatDuel] Mất 3 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bị Đâm Xuyên",
+          "desc": "[WhenUse] Tiêu thụ lên tới 40 [BloodDinner]: Nhận 1 [RegainedStrength] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n\n[DefeatDuel] Mất 3 SP\n[DefeatDuel] Tiêu thụ 3 [RegainedStrength]. Nhận 3 [DefenseDown] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Dục Vọng bằng 20% HP tối đa của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Dục Vọng bằng 20% HP tối đa của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp Thuật Don Quixote Thức 2 - Đóng Cọc",
+          "desc": "Tấn công mục tiêu có nhiều [Laceration] nhất\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sát thương Dục Vọng gây ra bằng (Lượng x Tầng [Laceration])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Tiềm",
+          "desc": "[StartBattle] Nhận Phạm Vi Tấn Công +1 với mỗi 3 [RegainedStrength] trên chủ thể (tối đa 2)\n[EndSkill] Tiêu thụ 3 [RegainedStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack] Tiêu thụ 1 [RegainedStrength]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack] Tiêu thụ 1 [RegainedStrength]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cơn Khát Máu",
+          "desc": "[WhenUse] Tiêu thụ lên tới 40 [BloodDinner]: Nhận 1 [RegainedStrength] với mỗi 10 [BloodDinner] đã tiêu thụ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khoảng Khắc Yến Tiệc",
+          "desc": "[CantIdentify]\n[WhenUse] Tiêu thụ lên tới 300 [BloodDinner]: Nhận 1 [RegainedStrength] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Nếu chủ thể này đã tiêu thụ [BloodDinner], hồi 30 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp Thuật Don Quixote Thức 4 - Phá Vỡ",
+          "desc": "Không thể bị Choáng cho đến khi chủ thể sử dụng Kỹ Năng này.\n[WhenUse] Tiêu thụ lên tới 100 [BloodDinner]: Nhận 1 [RegainedStrength] và hồi 15 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi [BloodDinner_Accumulation] do chủ thể (tối đa 15)\n[DefeatDuel] -50% sát thương gây ra, và Kỹ Năng này không thể làm Choáng mục tiêu.\n[EndSkill] Trong lượt này và lượt kế, nhận [AttackDown] và [DefenseDown] bằng với Sức Mạnh Giao Tranh đã nhận được từ Kỹ Năng này. (tối đa 15)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 2 [RegainedStrength]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp Thuật Don Quixote Thức 14: Huyết Bào",
+          "desc": "[DuelGuard]\n[WinDuel] Gây 4 [Laceration] và [Burst]\n[DefeatDuel] Tiêu thụ 2 [RegainedStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thật Yếu Ớt Làm Sao",
+          "desc": "[DuelCounter]\nSức Mạnh Gốc +1 với mỗi 10 [RegainedStrength]\nSức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)\n[DefeatDuel] Mất 3 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vòng Quay Đẫm Máu",
+          "desc": "[CantDuel]\n[WhenUse] Tạo Giấc Mơ Đông Đặc vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bị Đâm Xuyên",
+          "desc": "[DefeatDuel] Mất 3 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu vào trạng thái Choáng, sau đó bị [Penetration] vào lượt kế"
+                },
+                {
+                  "desc": "[EndCoin] Mục tiêu mất 25 Lượng [Laceration]. Nhận [Laceration] và tăng [BloodDinner] bằng với giá trị đó"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841012,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tuyệt Kỹ Don Quioxte Huyết Giáp Thuật - Huyết Cầu",
+          "desc": "Không thể bị Choáng cho đến khi chủ thể sử dụng Kỹ Năng này.\nGây thêm sát thương bằng [BloodDinner_Common_Accumulation]. (tối đa 300%)\n[WhenUse] Hồi 30 SP\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 10 [RegainedStrength]\n[EndSkill] Tiêu thụ toàn bộ [RegainedStrength]. Nhận 5 [Vulnerable] lượt này và lượt kế. Nhận 2 [Binding] vào lượt kế.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ksssh",
+          "desc": "[WhenUse] Gây [DuelDeclaration_Camille]\n[WhenUse] Nhận 5 [Breath]\n[WinDuel] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hnnnhhhhhh",
+          "desc": "[WhenUse] Nhận 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kihh",
+          "desc": "[WhenUse] Ở mốc 7+ [Breath], Sức Mạnh Xu +2\n[WinDuel] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] +50% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ksssh",
+          "desc": "[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu, Sức Mạnh Xu +1 (Sức Mạnh Xu +1 với mỗi 2 Tốc Độ chênh lệch; tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +4 Tầng [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst] và +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst] và +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst] và +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +100% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] +5% sát thương gây ra với mỗi [Burst] trên mục tiêu (tối đa 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knnh",
+          "desc": "[WinDuel] Gây thêm sát thương dựa trên số lần Giao Tranh (mỗi lần Giao Tranh +10% sát thương, tối đa 50%)\n[WinDuel] Nhận 2 [Agility] vào lượt kế\n[DefeatDuel] Nhận 2 [Binding] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knhhh",
+          "desc": "[OnSucceedEvade] Nhận 1 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841013,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sancho Huyết Giáp Thuật Tuyệt Kỹ - La Sangre",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ký Ức Tươi Đẹp Của Cuộc Phiêu Lưu",
+          "desc": "[StartBattle] Gán 1 [ParryingResultUp] và 1 [AttackDmgUp] lên một Tội Nhân ngẫu nhiên\n[StartBattle] Gây 1 [Vulnerable] lên cả Don Quixote và Giấc Mơ Đông Đặc",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

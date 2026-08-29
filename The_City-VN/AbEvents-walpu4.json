@@ -1,0 +1,97 @@
+{
+  "dataList": [
+    {
+      "id": 836601,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "Chúng tôi quay trở lại hành lang của Đội Huấn Luyện.\n\nTheo hướng dẫn Công Việc thì chúng tôi cần Khiên Chắn Sát Thương Vật Lý để có thể sống sót qua sóng xung kích của thử thách Trưa Tím.\n\nChúng tôi đứng chụm lại với nhau ở hành lang theo chỉ dẫn của Sephirah Hod bên Đội Huấn Luyện. Những viên đạn giống khi trước bắn vào chúng tôi.\n\nNhững lớp khiên chắn màu đỏ dần hình thành quanh các Tội Nhân bị trúng đạn.\n\n'Xem xét lại nào... Theo lịch trình thì chúng ta vẫn còn ít thời gian trước khi Trưa Tím xuất hiện.'\n\nMột Tội Nhân để ý đến hướng dẫn Phản Ứng Khẩn Cấp dán đầy khắp tường.\n\nNội dung trên đó là hướng dẫn để sử dụng bảng điều khiển được lắp trong hành lang nhằm kích hoạt hệ thống Máy Phát Điện nối trực tiếp đến Đội Bảo An.\n\n'Cũng đáng để thử đấy.'\n\nNếu nhanh chân thì có lẽ sẽ kích hoạt đươc Máy Phát Điện trước khi Trưa Tím đến.",
+      "behaveDesc": "Ai sẽ kích hoạt Máy Phát Điện?",
+      "successDesc": [
+        "Sau khi đọc hướng dẫn thì mặt {0} rạng rỡ lên.\n\nRồi một thông báo vang lên nhắc rằng Bộ Phân Biệt Máy Phát Điện đã được tinh chỉnh lại và tái kích hoạt gần như toàn bộ chức năng."
+      ],
+      "failureDesc": [
+        "Sau khi đọc hướng dẫn thì mặt {0} tối sầm lại.\n\nNhìn mãi cũng chẳng hiểu nó đang nói gì cả..\n\n... nhưng {0} cũng xoay sở để tái kích hoạt các chức năng cơ bản của Máy Phát Điện.\n\nKhông còn nhiều thời gian nữa, Thử Thách tiếp theo sắp xuất hiện rồi.\n\nCũng chẳng còn thời gian để táy máy bảng điều khiển nữa. Chúng tôi mau chóng thoái lui về sảnh chính."
+      ]
+    },
+    {
+      "id": 97103201,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ là người kiểm tra Máy Phát Điện?",
+      "successDesc": [
+        "Nhìn qua mớ mạng nhện kia, lộ ra... những con nhện nhỏ đang bò lúc nhúc bên trong.\n\nVà chúng không chỉ đơn thuần là mạng nhện.\n\nBóng tối bao trùm sàn nhà bỗng sáng lên, những con mắt đỏ rực phát sáng và bao trùm lấy cả nơi này.\n\n{0} cố gắng tránh ánh nhìn của mình vào những con mắt đỏ và bắt đầu quan sát chiếc máy phát điện đang chập chờn. Thật may mắn, việc tìm ra bộ phận trục trặc của máy không tốn nhiều thời gian.\n\n{0} cẩn thận loại bỏ nó...\n\n... rồi đột nhiên, máy phát điện ngừng phát ra tiếng xẹt điện và cửa buồng quản thúc đóng sập lại.\n\nĐám nhện bắt đầu bò lên người {0}"
+      ],
+      "failureDesc": [
+        "Nhìn qua mớ mạng nhện kia, lộ ra... những con nhện nhỏ đang bò lúc nhúc bên trong.\n\nVà chúng không chỉ đơn thuần là mạng nhện.\n\nBóng tối bao trùm sàn nhà bỗng sáng lên, những con mắt đỏ rực phát sáng và bao trùm lấy cả nơi này.\n\n{0} cố gắng tránh ánh nhìn của mình vào những con mắt đỏ và bắt đầu quan sát chiếc máy phát điện đang chập chờn. Thật may mắn, việc tìm ra bộ phận trục trặc của máy không tốn nhiều thời gian.\n\n{0} giật mạnh bộ phận đó ra. Một âm thanh nặng nề vang vọng khắp buồng quản thúc.\n\nMột vài con nhện giật mình bởi tiếng động, lao tới và cắn các Tội Nhân."
+      ]
+    },
+    {
+      "id": 97103301,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ lấy chúng?",
+      "successDesc": [
+        "'Đùa giỡn với mấy thứ khí ga mà không biết hiệu ứng của nó là một chiến thuật ngu xuẩn. Tôi đề nghị chúng ta bỏ mặc nó lại và chỉ lấy Enkephalin.'\n\n'Hừm, cô đang làm nhảm cái quái gì vậy?'\n\nCác Tội Nhân nhanh chóng chia làm hai phe và bắt đầu tranh luận với nhau.\n\nKhi cuộc tranh luận bắt đầu gay gắt, {0} lấy luôn cả Enkephalin lẫn bình ga.\n\n'Nên làm luôn thế này ngay từ đầu thay vì phí thời gian tranh cãi.'\n\nChúng ta đã tốn quá nhiều thời gian cho vụ này rồi.\n\nKhi vừa thoát khỏi khu hành lang, chúng tôi chạm mặt với một thứ gì đó khổng lồ đang lao về hướng chúng tôi vừa đứng.\n\nChúng tôi nhanh chóng chạy theo hướng khác."
+      ],
+      "failureDesc": [
+        "'Đùa giỡn với mấy thứ khí ga mà không biết hiệu ứng của nó là một chiến thuật ngu xuẩn. Tôi đề nghị chúng ta bỏ mặc nó lại và chỉ lấy Enkephalin.'\n\n'Hừm, cô đang làm nhảm cái quái gì vậy?'\n\nCác Tội Nhân nhanh chóng chia làm hai phe và bắt đầu tranh luận với nhau.\n\nKhi cuộc tranh luận bắt đầu gay gắt, {0} lấy luôn cả Enkephalin lẫn bình ga\n\n'Hừm. Chúng ta rời đi hơi trễ quá rồi đấy.'\n\nChúng ta chắc chắn đã đốt quá nhiều thời gian cho vụ này.\n\nNgay khi vừa thoát khỏi khu hành lang, chúng tôi thấy một thứ gì đó khổng lồ đang lao tới phía này từ chỗ chúng tôi vừa đứng.\n\nQuá trễ rồi."
+      ]
+    },
+    {
+      "id": 97103401,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Tội Nhân nào sẽ thành tâm cầu nguyện?",
+      "successDesc": [
+        "[{0}] cầu nguyện trước hộp sọ.\n\nKhông rõ Tội Nhân này cầu nguyện với ai.\n\nKhông rõ Tội Nhân này cầu nguyện điều gì.\n\nỞ nơi báng bổ này, chúng tôi thậm chí không rõ đó có phải là một lời cầu nguyện hay không.\n\nTầng tầng lớp lớp ánh nhìn phán xét từ hốc mắt hộp sọ nhìn về phía Tội Nhân.\n\nThỉnh thoảng hộp sọ phát ra tiếng động đe dọa, nghiến răng lại, nhưng {0} vẫn giữ được bình tĩnh, chắc chắn nó không làm hại mình.\n\nSau khi nghi lễ đẩy vẻ \"sùng đạo\" này kết thúc, một hình nộm cô độc cắm thẳng giữa vị trí của Hộp Sọ khổng lồ, tắm mình dưới lớp ánh sáng huyền bí."
+      ],
+      "failureDesc": [
+        "[{0}] cầu nguyện trước hộp sọ.\n\nKhông rõ Tội Nhân này cầu nguyện với ai.\n\nKhông rõ Tội Nhân này cầu nguyện điều gì.\n\nỞ nơi báng bổ này, chúng tôi thậm chí không rõ đó có phải là một lời cầu nguyện hay không.\n\nTầng tầng lớp lớp ánh nhìn phán xét từ hốc mắt hộp sọ nhìn về phía Tội Nhân.\n\nThỉnh thoảng hộp sọ phát ra tiếng động đe dọa, nghiến răng lại. [{0}] lo lắng nhìn về phía hộp sọ, khẽ rùng mình lo lắng.\n\nSau khi nghi lễ đẩy vẻ \"sùng đạo\" này kết thúc, một hình nộm cô độc cắm thẳng giữa vị trí của Hộp Sọ khổng lồ, tắm mình dưới lớp ánh sáng huyền bí."
+      ]
+    },
+    {
+      "id": 97103402,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Tội Nhân nào sẽ khẳng định ý chí của mình?",
+      "successDesc": [
+        "[{0}] bắt đầu kể chuyện trước hộp sọ.\n\nChúng tôi không thể nghe thấy nội dung phần tự thuật của người đó nhưng cảm giác như thể Tội Nhân này đang thú tội của mình một cách chân thành và bình tĩnh.\n\n[{0}] tắm mình trong chùm sáng huyền bí dù không có một khe hở nào trên trần.\n\nVào khoảnh khắc chùm sáng chiếu qua người [{0}], một chiếc vòng gai giống với chiếc vòng mà hộp sọ đang đội tự động rơi xuống đầu Tội Nhân.\n\nKhi [{0}] kết thúc câu chuyện của mình, tất cả Tội Nhân đều nhắm mắt lại với vẻ mặt bình yên."
+      ],
+      "failureDesc": [
+        "[{0}] bắt đầu kể chuyện trước hộp sọ.\n\nChúng tôi không thể nghe thấy nội dung phần tự thuật của người đó nhưng cảm giác như thể Tội Nhân này đang thú tội của mình một cách chân thành và bình tĩnh.\n\n[{0}] tắm mình trong chùm sáng huyền bí dù không có một khe hở nào trên trần.\n\nVào khoảnh khắc chùm sáng chiếu qua người [{0}], một chiếc vòng gai giống với chiếc vòng mà hộp sọ đang đội tự động rơi xuống đầu Tội Nhân.\n\n[{0}] thoáng quằn quại trong đau đớn ngay khi chiếc vòng gai bắt đầu đâm qua da đầu.\n\nLát sau, [{0}] như thể ngộ ra điều gì đó. Tội nhân này nhắm mắt lại và cơ mặt dãn ra nhẹ nhõm."
+      ]
+    },
+    {
+      "id": 97103601,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ thu hồi các món quà?",
+      "successDesc": [
+        "{0} tiến lại gần đám thần lùn đang đóng gói các món quà.\n\nChúng hồn nhiên nhìn {0} rồi đồng thanh hét lên với đống công cụ trên tay.\n\n'Con người-nôm!!'\n\n'Chúng ta thiếu hụt con người ở đây nè-nôm! Canh thời gian chuẩn-nôm!!'\n\n'Mang tên này đi-nôm!'\n\nĐám thần lùn vây kín {0} rồi nhanh chóng đóng gói Tội Nhân ấy thành một hộp quà cỡ lớn trước khi chúng tôi chưa kịp làm gì luôn.\n\nChúng tôi lao đến chỗ cái hộp chứa {0} và vọt khỏi hiện trường.\n\n{0} trông khá sang chấn. Phản ứng của người đấy cũng đúng thôi vì bản thân đã xém trở thành một món quà sống kia mà.",
+        "{0} tiến lại gần đám thần lùn đang đóng gói các món quà.\n\nChúng hồn nhiên nhìn {0} rồi đồng thanh hét lên với đống công cụ trên tay.\n\n'Con người-nôm!!'\n\n'Chúng ta thiếu hụt con người ở đây nè-nôm! Canh thời gian chuẩn-nôm!!'\n\n'Mang tên này đi-nôm!'\n\nĐám thần lùn vây kín {0} rồi nhanh chóng đóng gói Tội Nhân ấy thành một hộp quà cỡ lớn trước khi chúng tôi chưa kịp làm gì luôn.\n\nChúng tôi lao đến chỗ cái hộp chứa {0} và vọt khỏi hiện trường.\n\n{0} trông khá sang chấn. Phản ứng của người đấy cũng đúng thôi vì bản thân đã xém trở thành một món quà sống kia mà."
+      ],
+      "failureDesc": [
+        "{0} tiến lại gần đám thần lùn đang đóng gói các món quà.\n\nChúng hồn nhiên nhìn {0} rồi đồng thanh hét lên với đống công cụ trên tay.\n\n'Con người-nôm!!'\n\n'Chúng ta thiếu hụt con người ở đây nè-nôm! Canh thời gian chuẩn-nôm!!'\n\n'Mang tên này đi-nôm!'\n\nĐám thần lùn vây kín {0} rồi nhanh chóng đóng gói Tội Nhân ấy thành một hộp quà cỡ lớn trước khi chúng tôi chưa kịp làm gì luôn.\n\nChúng tôi vội vã chạy đến cản đám thần lùn và cứu {0}...\n\nnhưng có lẽ đã quá muộn vì {0} đã hóa thành một hộp quà mất rồi..."
+      ]
+    },
+    {
+      "id": 97103701,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ tiến đến chiếc giường?",
+      "successDesc": [
+        "Tấm sàn gỗ kêu lên kẽo kẹt theo từng bước chân của {0}.\n\nTất cả ánh lửa xung quanh chiếc giường phập phừng mãnh liệt như thể ngăn cản chúng tôi tiến lại gần.\n\n{0} cẩn thận cúi người xuống bên dưới gầm giường.\n\nBên dưới là một cái lồng đèn và một ngọn nến. Cả hai cái đều đã tắt ngúm và nằm lăn lóc trong đó.\n\nNỗi sợ kinh hoảng nhất thì lại chẳng thấy đâu.\n\nChẳng có gì sống bên dưới chiếc giường cả.",
+        "Tấm sàn gỗ kêu lên kẽo kẹt theo từng bước chân của {0}.\n\nTất cả ánh lửa xung quanh chiếc giường phập phừng mãnh liệt như thể ngăn cản chúng tôi tiến lại gần.\n\n{0} cẩn thận cúi người xuống bên dưới gầm giường.\n\nBên dưới là một cái lồng đèn và một ngọn nến. Cả hai cái đều đã tắt ngúm và nằm lăn lóc trong đó.\n\nNỗi sợ kinh hoảng nhất thì lại chẳng thấy đâu.\n\nChẳng có gì sống bên dưới chiếc giường cả."
+      ],
+      "failureDesc": [
+        "Tấm sàn gỗ kêu lên kẽo kẹt theo từng bước chân của {0}.\n\nTất cả ánh lửa xung quanh chiếc giường phập phừng mãnh liệt như thể ngăn cản chúng tôi tiến lại gần.\n\n{0} cẩn thận cúi người xuống bên dưới gầm giường.\n\nCái bóng tối đen tuyền ấy thôi thúc trí tò mò của chúng tôi và cứ vang vảng bên tai rằng hãy nhìn vào xem trong đấy là cái gì. Nhưng dưới đấy chỉ hiện hữu một cảm giác ngột ngạt rợn người mà thôi.\n\n{0} bỗng dưng bất động trong cái tư thế cúi gập người đó, rồi từ từ lùi xa khỏi chiếc giường.\n\nThứ gì đó cào vào tấm sàn gỗ như thể đang ra hiệu, và chúng tôi cũng lập tức chạy ra khỏi căn phòng đó.\n\nCó con quái vật trú ngụ bên dưới chiếc giường."
+      ]
+    }
+  ]
+}

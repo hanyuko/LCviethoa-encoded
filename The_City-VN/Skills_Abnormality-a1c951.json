@@ -1,0 +1,141 @@
+{
+    "dataList": [
+        {
+            "id": 811301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vui Lên Nào",
+                    "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 3 [Binding] trên mục tiêu vào lượt kế"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thả Lỏng Lên Nào",
+                    "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +3 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Nhận [Breath] bằng số [Breath] trên chủ thể"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +3 Tầng [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tặng Cho Phần Quà",
+                    "desc": "Nếu mục tiêu có [Binding], và nếu đơn vị này có Tốc Độ nhanh hơn, nhận Sức Mạnh Giao Tranh bằng số chênh lệch Tốc Độ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Mất 5 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận 2 [Breath] và +3 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quấn Quà Thôi Nào",
+                    "desc": "Nếu chủ thể có [AaCeSeBa], thêm 'Gây 1 [Paralysis] vào lượt kế' vào hiệu ứng Xu\nNhắm vào đơn vị có Tốc Độ thấp nhất\n[EndBattle] Tiêu thụ toàn bộ Tầng [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận 3 [Breath]."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây thêm sát thương bằng số [Breath] trên chủ thể"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận 1 [Breath] và +3 Tầng [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Ngẫu nhiên chọn 1 trong 4 hiệu ứng ([Protection], [Enhancement], [Vulnerable], [Paralysis]). Gây hoặc gán 3 hiệu ứng đã chọn."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Mục tiêu mất SP bằng số Tầng [Charge] trên đơn vị này"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Tất cả kẻ địch mất 10 Sp."
+                                },
+                                {
+                                    "desc": "[EnemyKillFail] Nhận 2 [Paralysis] vào lượt kế."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tới Giờ bị Đóng Hộp Nào",
+                    "desc": "Nếu Khiên HP về 0, rơi vào trạng thái Choáng vào lượt kế.\nNếu còn Khiên HP, nhận 2 [Enhancement] vào lượt kế",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

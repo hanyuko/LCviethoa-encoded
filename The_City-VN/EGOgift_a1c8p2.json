@@ -1,0 +1,227 @@
+{
+  "dataList": [
+    {
+      "id": 2061,
+      "name": "Đồng",
+      "desc": "Hồng Lộ +0.5% sát thương gây ra với mỗi Đồng\n\n<i><color=#a16a3b>Cổ Vật được sử dụng trong vòng hai của kỳ Tuyển Chọn Trưởng Tộc. Ứng viên nào không sở hữu đồng, do đánh mất hay bị cướp đoạt, sẽ lập tức bị loại.</color></i>",
+      "simpleDesc": [
+        {
+          "abilityID": 2061,
+          "simpleDesc": "Hồng Lộ deals +0.5% damage for every Coin"
+        }
+      ]
+    },
+    {
+      "id": 2062,
+      "name": "Tàn Thông Quan Lệnh",
+      "desc": "Một lệnh bài tàn tạ và trầy xước.\nCó lẽ nó dùng để mở một cánh cửa nào đó."
+    },
+    {
+      "id": 2063,
+      "name": "Thiên Vương Bổ Tâm Đan",
+      "desc": "Cuối Lượt: 1 đồng minh có SP thấp nhất hồi 10 SP",
+      "simpleDesc": [
+        {
+          "abilityID": 2063,
+          "simpleDesc": "Every Cuối Lượt: 1 ally with the least SP heals 10 SP at Turn End"
+        }
+      ]
+    },
+    {
+      "id": 2064,
+      "name": "Tịnh Liên Hoàn",
+      "desc": "Cuối Lượt: hồi 5% HP cho 1 đồng minh có phần trăm HP thấp nhất (làm tròn xuống)",
+      "simpleDesc": [
+        {
+          "abilityID": 2064,
+          "simpleDesc": "Heal the affected unit by 5% HP"
+        }
+      ]
+    },
+    {
+      "id": 2065,
+      "name": "Huyết Hoa Hoàn",
+      "desc": "Đầu Lượt: trong số các đồng minh vừa mất HP, 1 đồng minh có phần trăm HP thấp nhất +(phần trăm HP đã mất / 4)% sát thương gây ra (làm tròn xuống)",
+      "simpleDesc": [
+        {
+          "abilityID": 2065,
+          "simpleDesc": "The affected unit deals +(missing HP percentage /4)% damage"
+        }
+      ]
+    },
+    {
+      "id": 2066,
+      "name": "Cường Nhận Hoàn",
+      "desc": "Đầu Lượt: 1 đồng minh có HP tối đa cao nhất nhận [DefenseUp] bằng với số lần đơn vị đó bị kẻ địch đánh trúng bằng Kỹ Năng Tấn Công (tối đa 6)",
+      "simpleDesc": [
+        {
+          "abilityID": 2066,
+          "simpleDesc": "Gain Defense Level Up equal to the number of times this unit was hit"
+        }
+      ]
+    },
+    {
+      "id": 2067,
+      "name": "Kính Trung Hoa",
+      "desc": "Vào Đầu mỗi Lượt: Gây 3 Lượng [Burst] và +1 Tầng [Burst] lên toàn bộ kẻ địch không có [Burst] (với Ải Chuyên Sâu, lên mọi Bộ Phận)\n\n<i><color=#a16a3b>Thủy lưu hoa tạ lưỡng vô tình.</color></i>",
+      "simpleDesc": [
+        {
+          "abilityID": 2067,
+          "simpleDesc": "Inflict 3 Rupture Potency và +1 Rupture Count to all enemies/Parts without Rupture"
+        }
+      ]
+    },
+    {
+      "id": 2068,
+      "name": "Nguyền Cổ Thư",
+      "desc": "Vào Đầu Ải: toàn bộ Danh Tính trên sân mất 5 SP và nhận 1 [ShamrockResultUp] kèm 1 [ShamrockDamageUp] trong 3 lượt. ",
+      "simpleDesc": [
+        {
+          "abilityID": 2068,
+          "simpleDesc": "Deployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for 3 turns"
+        }
+      ]
+    },
+    {
+      "id": 2069,
+      "name": "Cuồng Ẩn Cổ Thư",
+      "desc": "Vào Đầu Ải: toàn bộ Danh Tính trên sân mất 5 SP và nhận 1 [ShamrockResultUp] kèm 1 [ShamrockDamageUp] trong Ải này\nKhi Thua Giao Tranh, mất 5 SP; chuyển Xu cuối của Kỹ Năng thành [SuperCoin]. (không tính Kỹ Năng E.G.O; một lần mỗi lượt mỗi Danh Tính)",
+      "simpleDesc": [
+        {
+          "abilityID": 2069,
+          "simpleDesc": "Combat Deployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for this Encounter"
+        },
+        {
+          "abilityID": 20691,
+          "simpleDesc": "Mất 5 SP on Clash Lose. Convert the Skill's final Coin to Unbreakable Coin"
+        }
+      ]
+    },
+    {
+      "id": 2070,
+      "name": "Thủy Trung Nguyệt",
+      "desc": "Khi Đánh Trúng kẻ địch có 5+ Lượng [Burst]: nhận 1 Lượng [Breath] và +1 Tầng [Breath] (3 lẫn mỗi Kỹ Năng)\n\n<i><color=#a16a3b>Thủy lưu hoa tạ lưỡng vô tình.</color></i>",
+      "simpleDesc": [
+        {
+          "abilityID": 2070,
+          "simpleDesc": "Khi Đánh Trúng against enemies with 5+ Rupture: gain Poise Potency and Count"
+        }
+      ]
+    },
+    {
+      "id": 2071,
+      "name": "Hoa Trủng",
+      "desc": "Kỹ Năng gây [Burst]: Sức Mạnh Giao Tranh +1, +10% sát thương gây ra\nKết Đòn: Nếu mục tiêu có 15+ Lượng [Burst] bị đánh bại, Danh Tính nào đánh bại mục tiêu đó nhận 2 [AttackUp] vào lượt kế (3 lần mỗi Kỹ Năng)\n\n<i><color=#a16a3b>Lãnh nguyệt táng hoa hồn.</color></i>",
+      "simpleDesc": [
+        {
+          "abilityID": 2071,
+          "simpleDesc": "Skills that inflict Rupture: Sức Mạnh Giao Tranh +1, +10% sát thương gây ra"
+        },
+        {
+          "abilityID": 20712,
+          "simpleDesc": "If a target with 15+ Rupture is defeated, the unit that defeated it gains 2 Offense Level Up next turn"
+        }
+      ]
+    },
+    {
+      "id": 2072,
+      "name": "Điện Kích Phủ",
+      "desc": "Nhận 1 [Charge] mỗi lần chủ thể tiêu thụ tổng cộng 10 Tầng [Charge] trong Ải này\nCuối Lượt: Ở mốc 2+ [Charge], nhận 1 [ParryingResultUp] vào lượt kế\nKhi Đánh Trúng bằng Kỹ Năng tiêu thụ 5+ [Charge]: Gây 1 Lượng [Burst] (3 lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 2072,
+          "simpleDesc": "Gain 1 Charge every time this unit consumes 10 Charge Count"
+        },
+        {
+          "abilityID": 20721,
+          "simpleDesc": "Ở mốc 2+ Charge, gain 1 [ParryingResultUp] next turn"
+        },
+        {
+          "abilityID": 20722,
+          "simpleDesc": "Khi Đánh Trúng with Skills that consumed 5+ Charge Count: inflict 1 Rupture"
+        }
+      ]
+    },
+    {
+      "id": 2073,
+      "name": "Phá Tâm Phù",
+      "desc": "Kỹ Năng Phàm Ăn +10% sát thương gây lên kẻ địch có hiệu ứng Tử Chú\nVới Danh Tính ở mốc ≤ -15 SP khi Khởi Chiến: chuyển Xu cuối của Kỹ Năng thành [SuperCoin] (một lần mỗi lượt mỗi Kỹ Năng; ưu tiên Kỹ Năng Kỹ Năng ở Ô trái nhất; không tính Kỹ Năng E.G.O)",
+      "simpleDesc": [
+        {
+          "abilityID": 2073,
+          "simpleDesc": "Gluttony Skills +10% sát thương gây ra against enemies with Deathrite effects"
+        },
+        {
+          "abilityID": 20731,
+          "simpleDesc": "Ở mốc -15 or less SP: convert the final Coin for their Skills into Unbreakable Coin"
+        }
+      ]
+    },
+    {
+      "id": 2074,
+      "name": "Tuyệt Huyết Đao",
+      "desc": "Sức Mạnh Giao Tranh +1 nếu HP < 100%.\nKhi một đơn vị hưởng hiệu ứng đánh trúng, +1% sát thương gây ra với mỗi (Lượng [Laceration] trên mục tiêu + Tầng [Laceration] trên mục tiêu) (tối đa 20%)",
+      "simpleDesc": [
+        {
+          "abilityID": 2074,
+          "simpleDesc": "When not at full HP, Sức Mạnh Giao Tranh +1"
+        },
+        {
+          "abilityID": 20741,
+          "simpleDesc": "Khi Đánh Trúng, +1% sát thương gây ra for every (Bleed Potency on target + Bleed Count on target)"
+        }
+      ]
+    },
+    {
+      "id": 2075,
+      "name": "Kim Cương Hoàn",
+      "desc": "Khi nhận sát thương, nhận Sức Mạnh Tổng của Kỹ Năng +1 và +10% sát thương gây ra (kích hoạt ngay cả khi tự gây sát thương lên bản thân) vào lượt kế\nKhi nhận sát thương khiến HP của đơn vị giảm xuống còn 1, hồi 50% HP, và đơn vị hưởng hiệu ứng nhận 2 [Enhancement] vào Đầu Lượt tới khi hết Ải (một lần mỗi Ải)",
+      "simpleDesc": [
+        {
+          "abilityID": 2075,
+          "simpleDesc": "Sức Mạnh Tổng Kỹ Năng +1, +10% sát thương gây ra next turn"
+        },
+        {
+          "abilityID": 20751,
+          "simpleDesc": "Heal 50% HP and gain 2 Attack Power Up for this Encounter"
+        }
+      ]
+    },
+    {
+      "id": 2076,
+      "name": "Thoái Sắc Hải Báo",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1, Số 8]]\nKết Đòn: Nếu mục tiêu bị đánh bại, nhận 2 Lượng [Breath] và +2 Tầng [Breath].\nTrong Ải này, mỗi đơn vị nhận +1 [AttackUp] với mỗi 1 kẻ địch bị đánh bại khi 'Kết Đòn' (tối đa 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 2076,
+          "simpleDesc": "Gain 2 Poise Potency và +2 Poise Count"
+        },
+        {
+          "abilityID": 20761,
+          "simpleDesc": "Cấp Công Kích +1 for every defeated enemy"
+        }
+      ]
+    },
+    {
+      "id": 2077,
+      "name": "Thâm Thâm Trảo Ngân",
+      "desc": "Nhận 1 [ParryingResultUp] trong 3 lượt sau khi Thay Vào.",
+      "simpleDesc": [
+        {
+          "abilityID": 20771,
+          "simpleDesc": "Gain 1 [ParryingResultUp] for 3 turns after Substituting in"
+        }
+      ]
+    },
+    {
+      "id": 2078,
+      "name": "Khổng Gia Diệt Môn Ký",
+      "desc": "Cấp độ của Hồng Lộ tăng lên 55\nCấp Đồng Bộ và Cấp Thêu Dệt của Hồng Lộ tăng lên Cấp 4\n\n<i><color=#a16a3b>'Hãy khắc cốt ghi tâm ngày tàn giáng xuống Khổng gia,\nnhững kẻ đã tự chuốc lấy diệt vong bằng vô số tội trạng ngập đầu. Dám vi phạm luật lệ của Hồng Viên thì cái chết chẳng phải là bi kịch — vì lẽ đó, chúng không đáng được xót thương, chỉ đáng nhận sỉ nhục cùng khinh miệt. \nPhế tích lịch sử này sẽ mãi đứng vững như một đài bia chứng giám cho sự tất yếu của nghiệp quả.'</color></i>"
+    },
+    {
+      "id": 2079,
+      "name": "Hồng Thông Quan Lệnh",
+      "desc": "Một lệnh bài màu đỏ tàn tạ và trầy xước.\nCó lẽ nó dùng để mở một cánh cửa nào đó."
+    }
+  ]
+}

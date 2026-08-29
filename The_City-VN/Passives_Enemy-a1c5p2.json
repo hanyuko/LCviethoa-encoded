@@ -1,0 +1,120 @@
+{
+    "dataList": [
+        {
+            "id": 9008801,
+            "name": "Dáng Hình Vô Định",
+            "desc": "Khi bị giết trong giao chiến, gây 10 sát thương SP lên kẻ địch cuối cùng tấn công chủ"
+        },
+        {
+            "id": 9008901,
+            "name": "Bạch Hóa",
+            "desc": "Nhận 2 Cấp Công Kích và Cấp Phòng Thủ với mỗi đồng minh bị Bạch Hóa còn sống (không tính chủ thể)"
+        },
+        {
+            "id": 9008902,
+            "name": "Nghiền Nát Rác Rưởi",
+            "desc": "Khi có 10% HP Tối Đa,  gây 20 sát thương SP khi Đánh Trúng, gây 1 [AaCePbBa] vào lượt kế, sau đó chết."
+        },
+        {
+            "id": 9008903,
+            "name": "Truyền Lửa",
+            "desc": "Nếu có đồng minh Bạch Hóa còn sống khi Kết Thúc Lượt, mọi kẻ địch có nhiều hơn 20 SP mất 1 SP với mỗi đồng minh Bạch Hóa còn sống (không tính chủ thể)"
+        },
+        {
+            "id": 9009001,
+            "name": "Truyền Lửa",
+            "desc": "Nếu có đồng minh Bạch Hóa còn sống khi Kết Thúc Lượt, mọi kẻ địch có nhiều hơn 20 SP mất 1 SP với mỗi đồng minh Bạch Hóa còn sống (không tính chủ thể)"
+        },
+        {
+            "id": 9009101,
+            "name": "Hồi Phục Oán Hận",
+            "desc": "Nếu có đồng minh Bạch Hóa còn sống khi Kết Thúc Lượt, mọi đồng minh Bạch Hóa hồi (Số đồng minh Bạch Hóa * 3) HP"
+        },
+        {
+            "id": 9009201,
+            "name": "Tích Lũy Vật Liệu Hữu Cơ",
+            "desc": "Cấp Phòng Thủ +1 với mỗi đồng minh còn sống (không tính chủ thể)."
+        },
+        {
+            "id": 9009202,
+            "name": "Phân Rã Vật Liệu Vô Cơ",
+            "desc": "Nhận 1 [Vulnerable] vào lượt kế nếu có một đồng minh chết"
+        },
+        {
+            "id": 9009301,
+            "name": "Đan Xen Vật Liệu Hữu Cơ",
+            "desc": "Cấp Công Kích +1 với mỗi đồng minh còn sống (không tính chủ thể)"
+        },
+        {
+            "id": 9009302,
+            "name": "Phân Tán Vật Liệu Vô Cơ",
+            "desc": "Nhận 1 [Reduction] vào lượt kế nếu có một đồng minh chết"
+        },
+        {
+            "id": 9009401,
+            "name": "Hít Thở Hữu Cơ",
+            "desc": "Nếu chủ thể ra đòn kết liễu, gán 5 [Breath] cho toàn bộ đồng minh bị Bạch Hóa. Gán 1 Tầng [Breath]"
+        },
+        {
+            "id": 9009501,
+            "name": "Gồng Cứng Hữu Cơ",
+            "desc": "Nếu chủ thể ra đòn kết liễu, gán 1 [Protection] và 2 [Defense Level Up] lên tất cả đồng minh"
+        },
+        {
+            "id": 9009601,
+            "name": "Hình Xăm Báo Thù",
+            "desc": "Mỗi khi có một đồng minh Ngón Giữa bị giết trong ải, nhận 1 [AttackUp] (Tối đa 5)"
+        },
+        {
+            "id": 9009602,
+            "name": "Làm Tí Báo Thù",
+            "desc": "Khi Thua Giao Tranh, nhận 1 [MinusCoinValueUp] vào lượt kế (2 lần mỗi lượt)"
+        },
+        {
+            "id": 9009603,
+            "name": "Tích Lũy Báo Thù",
+            "desc": "Khi có ≤ 20% HP, sử dụng \"Tích Lũy Báo Thù\". (Một lần mỗi đợt)"
+        },
+        {
+            "id": 9009604,
+            "name": "Xiềng Xích Của Sự Trung Thành",
+            "desc": "Khi một đồng minh Băng Ngón Giữa bị giết, nhận 1 [PlusCoinValueUp] vào lượt kế."
+        },
+        {
+            "id": 809901,
+            "name": "Anh Lớn",
+            "desc": "Tất cả đồng minh hồi 10 SP ở Đầu Lượt",
+            "summary": ""
+        },
+        {
+            "id": 809902,
+            "name": "Xiềng Xích của Sự Trung Thành ",
+            "desc": "Khi một đồng minh Băng Ngón Giữa bị kết liễu, nhận 1 [PlusCoinValueUp] vào lượt kế. (Tối đa 2)",
+            "summary": ""
+        },
+        {
+            "id": 809903,
+            "name": "Kẻ Thống Trị",
+            "desc": "Nếu có kẻ địch tấn công chủ thể bằng Kỹ Năng và không gây được hơn 12 sát thương HP, kẻ địch đó mất 10 SP",
+            "summary": ""
+        },
+        {
+            "id": 809904,
+            "name": "Đéo Quan Tâm",
+            "desc": "Khi bị hoảng loạn, phục hồi hoảng loạn ở đầu lượt kế và đặt SP về 0.",
+            "summary": ""
+        },
+        {
+            "id": 809905,
+            "name": "Thế Giới Đầy Lông Lá",
+            "desc": "Nhận 6 [DefenseDown] vào lượt kế sau khi thua Giao Tranh 3 lần",
+            "summary": ""
+        },
+        {
+            "id": 9008904,
+            "name": "",
+            "desc": "Bắt đầu ải với -20 SP.",
+            "summary": ""
+        }
+    ]
+}

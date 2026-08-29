@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": 1049,
+      "panicName": "Bản Năng Mãnh Thú",
+      "lowMoraleDescription": "+(chênh lệch HP / 2)% sát thương gây ra lên mục tiêu có %HP lớn hơn chủ thể (tối đa 10%)\nĐầu Lượt: nhận 1 [Enhancement], 1 [AttackDmgUp], và 1 [Vulnerable]",
+      "panicDescription": "+(chênh lệch HP)% sát thương gây ra lên mục tiêu có %HP lớn hơn chủ thể (tối đa 25%)\nĐầu Lượt: nhận 1 [PlusCoinValueUp], 2 [AttackDmgUp], và 2 [Vulnerable]"
+    },
+    {
+      "id": 1046,
+      "panicName": "Flesh Scoop",
+      "lowMoraleDescription": "Đầu Lượt: nhận 5 [Laceration] và 1 [Enhancement].",
+      "panicDescription": "Đầu Lượt: nhận 10 [Laceration] và 2 [Enhancement]."
+    },
+    {
+      "id": 1050,
+      "panicName": "Le Regole",
+      "lowMoraleDescription": "Nếu chủ thể gây 2+ [Vibration] vào lượt trước, nhận 1 [AmberDamageUp]\nNếu chủ thể gây 2+ [Combustion] vào lượt trước, nhận 1 [CrimsonDamageUp]\nNếu chủ thể này không thể gây bất kỳ hiệu ứng nào, nhận 2 [DefenseDown]",
+      "panicDescription": "Nếu chủ thể gây 2+ [Vibration] vào lượt trước, nhận 2 [AmberDamageUp]\nNếu chủ thể gây 2+ [Combustion] vào lượt trước, nhận 2 [CrimsonDamageUp]\nNếu chủ thể này không thể gây bất kỳ hiệu ứng nào, nhận 3 [DefenseDown]"
+    },
+    {
+      "id": 1051,
+      "panicName": "Soft Goldcasted Heart",
+      "lowMoraleDescription": "Đầu Lượt: nhận 1 [Enhancement] và 1 [Vulnerable]",
+      "panicDescription": "Đầu Lượt: nhận 2 [Enhancement] và 2 [Vulnerable]"
+    },
+    {
+      "id": 1052,
+      "panicName": "Heart Toward the New Era",
+      "lowMoraleDescription": "Khi Đánh Trúng, consume 3 SP on self to gây 2 [Sinking]",
+      "panicDescription": "Khi Đánh Trúng, gây 3 [Sinking] and nhận 1 [Sinking]"
+    },
+    {
+      "id": 1053,
+      "panicName": "Inherited Will of Hongyuan",
+      "lowMoraleDescription": "Toàn Bộ Phận nhận 2 [Enhancement] và 1 [Binding]\n- When the Body Part loses a Clash against Hồng Lộ: the Body Part nhận 1 [AttackDmgUp] và 1 [Vulnerable] vào lượt kế (một lần mỗi lượt)",
+      "panicDescription": "Toàn Bộ Phận nhận 2 [Enhancement] và 2 [Binding]\n- When the Body Part loses a Clash against Hồng Lộ: the Body Part nhận 2 [AttackDmgUp] và 2 [Vulnerable] vào lượt kế (một lần mỗi lượt)"
+    },
+    {
+      "id": 1054,
+      "panicName": "Infinitely Bequeathing Will of Hongyuan",
+      "lowMoraleDescription": "Nhận 2 [Enhancement] và 1 [Vulnerable]\nUnits generated do chủ thể nhận 3 [DefenseDown]\n+20% sát thương gây ra. If the Palanquin Part's HP drops to 0, -10% sát thương gây ra instead",
+      "panicDescription": "Nhận 2 [Enhancement] và 2 [Vulnerable]\nUnits generated do chủ thể nhận 6 [DefenseDown]\n+30% sát thương gây ra. If the Palanquin Part's HP drops to 0, -15% sát thương gây ra instead"
+    }
+  ]
+}

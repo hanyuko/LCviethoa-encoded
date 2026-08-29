@@ -1,0 +1,258 @@
+{
+  "dataList": [
+    {
+      "id": 836301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thấu Hiểu",
+          "desc": "Nếu SP của mục tiêu ≤ 10, Sức Mạnh Giao Tranh +1\n[WhenUse] Nhận 1 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhận Thức",
+          "desc": "Nếu SP của mục tiêu ≤ 10, Sức Mạnh Giao Tranh +1\n[WhenUse] Nhận 2 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cứu Rỗi",
+          "desc": "Nếu SP của mục tiêu ≤ 10, Sức Mạnh Giao Tranh +1\n[WhenUse] Nhận 1 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điều Không Thể Hiểu Được",
+          "desc": "[WhenUse] Nhận 2 [VioletUnderstand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mục Ruỗng",
+          "desc": "[CantDuel]\n[EndSkill] Chết",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [VioletTakeDamageUp] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10~14 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhân Từ",
+          "desc": "Nếu SP của mục tiêu ≤ 20, Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tình Yêu",
+          "desc": "Nếu SP của mục tiêu ≤ 20, Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Văn Tự Thấu Hiểu Chập Chờn",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MentalCrack]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Văn Tự Thấu Hiểu Chập Chờn",
+          "desc": "Nếu SP của mục tiêu ≤ 20, Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [VioletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điều Không Thể Hiểu Được",
+          "desc": "[WhenUse] Nhận 2 [Protection]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 836606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vòng Tay Yên Nghỉ Ập Tới",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 100 sát thương HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "dataList": [
+    {
+      "id": "816601_success_1",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận %{2} [{1}]/%"
+    },
+    {
+      "id": "816601_success_2",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận %{2} [{1}]/% vào lượt kế"
+    },
+    {
+      "id": "816601_failure_1",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận %{2} [{1}]/% vào lượt kế"
+    },
+    {
+      "id": "816601_failure_2",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận {1} sát thương SP"
+    },
+    {
+      "id": "816602_success_1",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận %{2} [{1}]/%"
+    },
+    {
+      "id": "816602_success_2",
+      "content": "<color=#ebcaa2>[{0}]</color> hồi {1} HP và {2} SP"
+    },
+    {
+      "id": "816602_failure_1",
+      "content": "<color=#ebcaa2>[{0}]</color> hồi {1} HP cho Lõi và Bộ Phận"
+    },
+    {
+      "id": "816602_failure_2",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận {1} sát thương SP"
+    },
+    {
+      "id": "817101_log_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận %{2} [{1}]/%"
+    },
+    {
+      "id": "817101_log_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận %{2} [{1}]/% vào lượt kế"
+    },
+    {
+      "id": "817302_success_1",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> hồi {0} SP"
+    },
+    {
+      "id": "817302_success_2",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận %{2} {1}/% cho tới hết Ải"
+    },
+    {
+      "id": "817302_success_3",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân nhận</color> %{1} {0}/% cho tới hết Ải"
+    },
+    {
+      "id": "817302_failure_1",
+      "content": "<color=#ebcaa2>[{0}]</color> nhận %{2} {1}/% cho tới hết Ải"
+    },
+    {
+      "id": "817302_failure_2",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân nhận</color> {1} {0} cho tới hết Ải"
+    },
+    {
+      "id": "817304_success_1",
+      "content": "<color=#ebcaa2>[{0}]</color> hồi {1} SP"
+    },
+    {
+      "id": "817304_success_2",
+      "content": "[{0}] nhận %{3} {2}/% trong {1} lượt"
+    },
+    {
+      "id": "817304_success_3",
+      "content": "Cả hai tay của Mọi Catherine nhận %{2} {1}/% trong {0} lượt"
+    },
+    {
+      "id": "817304_success_4",
+      "content": "Cả hai tay của Mọi Catherine nhận %{2} {1}/% trong {0} lượt"
+    },
+    {
+      "id": "817304_failure_2",
+      "content": "Cả hai tay của Mọi Catherine nhận %{2} {1}/% trong {0} lượt"
+    },
+    {
+      "id": "817304_failure_1",
+      "content": "[{0}] nhận %{3} {2}/% trong {1} lượt"
+    },
+    {
+      "id": "817305_1",
+      "content": "[{0}] <color=#80c9ff>hồi đầy SP</color>"
+    },
+    {
+      "id": "817305_2",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> <color=#80c9ff>hồi {0} SP.</color>"
+    },
+    {
+      "id": "817305_3",
+      "content": "{1} của [{0}] đổi thành {2}"
+    }
+  ]
+}

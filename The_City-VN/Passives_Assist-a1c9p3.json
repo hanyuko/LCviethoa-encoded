@@ -1,0 +1,235 @@
+{
+  "dataList": [
+    {
+      "id": 40000701,
+      "name": "Biện Pháp Cuối Cùng",
+      "desc": "Cuối Lượt: nếu toàn bộ đồng minh ngoại trừ chủ thể bị bất động do các tác nhân bên ngoài, trang bị 'H.D.T Hòa Hợp Cực Hạn【Xâm Thực Phân Rã' vào lượt kế",
+      "flavor": "   "
+    },
+    {
+      "id": 40000702,
+      "name": "Chống Cháy",
+      "desc": "Sát thương từ [Combustion] không thể làm Choáng và giảm HP của chủ thể xuống dưới 1; chủ thể không thể bị bất động do các tác nhân bên ngoài\n\n-50% sát thương phải nhận từ [Combustion]"
+    },
+    {
+      "id": 40000703,
+      "name": "Tăng Cường Đồng Nhất E.G.O",
+      "desc": "Đầu Ải: Nhận [LvUpFireFly]\n\nKhi Đánh Trúng: Nếu HP < 70%, gây 1 [Combustion] mục tiêu và chủ thể"
+    },
+    {
+      "id": 40000704,
+      "name": "Tăng Cường Cộng Hưởng E.G.O",
+      "desc": "Đầu Lượt: Nhận 1 [AttackUp] với mỗi đồng minh đang mặc trang bị E.G.O"
+    },
+    {
+      "id": 40000705,
+      "name": "Như con Thiêu Thân lao vào Lửa",
+      "desc": "Ưu tiên tấn công mục tiêu có HP Tối Đa thấp nhất\n\nHồi 10 SP khi giết kẻ địch bằng sát thương [Combustion] hoặc Kỹ Năng Tấn Công gây [Combustion] (tối đa một lần mỗi lượt)"
+    },
+    {
+      "id": 40000706,
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Ải nếu chủ thể bị giết sau khi Hohenheim chết",
+      "flavor": "                           "
+    },
+    {
+      "id": 40000801,
+      "name": "Đừng Có Mà Coi Thường Đồng Nhất và Xâm Thực E.G.O của Tổng Bộ",
+      "desc": "Đầu Ải: Nhận [LvUpHohenheimBigBird]"
+    },
+    {
+      "id": 40000802,
+      "name": "Hướng Dẫn Sử Dụng Trang Bị E.G.O Hiệu Quả",
+      "desc": "Đầu Lượt: Nhận 1 [DefenseUp] với mỗi đồng minh đang mặc trang bị E.G.O",
+      "flavor": "  "
+    },
+    {
+      "id": 40000803,
+      "name": "Đừng Mù Quáng Đi Theo Ánh Đèn khi Lạc Lối trong Khu Rừng Đen",
+      "desc": "Đầu Lượt: Nếu chủ thể không có [LanternHohenheimBigBird], nhận 1 [LanternHohenheimBigBird]\n\n<color=#ff6000><mark=#ff000040><b><u>Cuối Lượt: Khi có 20 [LanternHohenheimBigBird], gây [DelusionHohenheimBigBird] lên kẻ địch dùng đòn đánh mạnh mẽ vào lượt kế</u></b></mark></color>"
+    },
+    {
+      "id": 40000804,
+      "name": "Lồng Đèn Chói Lòa",
+      "desc": "Ưu tiên tấn công kẻ địch có Tốc Độ Tối Đa nhanh nhất\n\nKhi nối Kỹ Năng, chủ thể sẽ đổi hướng đòn đánh lên mình, bất kể Tốc Độ (chỉ áp dụng cho Ải Chuyên Sâu)"
+    },
+    {
+      "id": 40000805,
+      "name": "Ánh Mắt của Nó Theo Dõi Khắp Khu Rừng Đen Này",
+      "desc": "Đầu Lượt: Gán ([Binding] trên chủ thể/2) [Agility] lên đồng minh (ngoại trừ chủ thể) có Tốc Độ chậm nhất vào lượt kế (tối đa 2, làm tròn xuống)\n\nNếu chủ thể có Tốc Độ chậm nhất, +10% sát thương gây ra cho Kỹ Năng Tấn Công Cơ Bản\n- Nếu Tốc Độ của chủ thể là 1, thay vào đó +20% sát thương gây ra"
+    },
+    {
+      "id": 40000806,
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Ải nếu chủ thể bị giết sau Alyssa chết",
+      "flavor": "                           "
+    },
+    {
+      "id": 40000901,
+      "name": "Lao Móc Vàng (được Ezra đặt)",
+      "desc": "Đầu Lượt: Nhận [YellowHarpoon]\n\nCuối Lượt: Nếu chủ thể ở 0+ SP và Cha Đỡ Đầu Ngón Giữa có 2 [ReinforcedTattooSpider], nhận [YellowHarpoonSin]\n\nKhi SP < 0, mất [YellowHarpoonSin]",
+      "flavor": "<color=#fde55d>           \n      \n           \n         \n        \n\n      <b>  </b></color>"
+    },
+    {
+      "id": 40000902,
+      "name": "Ong Bắp Cày Của Văn Phòng Thám Tử Biến Dị",
+      "desc": "Vào lượt Moses trang bị '<noparse>Hít Sâu</noparse> Làn Khói[TabExplain] Đỏ', chủ thể nhận [YellowHarpoonSin] vĩnh viễn"
+    },
+    {
+      "id": 40000904,
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Ải nếu chủ thể bị giết",
+      "flavor": "                           "
+    },
+    {
+      "id": 40001001,
+      "name": "Hồi Phục Tâm Lý - Chiêm Nghiệm Sâu Sắc",
+      "desc": "Bắt Đầu Ải: Nhận [MosesWarPTSD]\n\nCuối Lượt: Nếu chủ thể Hoảng Loạn, đặt lại SP về 0"
+    },
+    {
+      "id": 40001002,
+      "name": "Điểm Đỏ",
+      "desc": " Nếu Cha Đỡ Đầu Ngón Giữa có [MiddleFatherSwordFour], chủ thể nhận [MosesSin] và dùng ''Hít Sâu Làn Khói Đỏ' mỗi lượt\n\nNếu chủ thể có [MosesRedBreathCharge], miễn nhiễm khỏi Hoảng Loạn\n\n<color=#ff6000><mark color=#ff000040><b><u>Cuối Lượt: Khi có 3 [MosesRedBreathCharge], dùng một đòn đánh mạnh mẽ</color></mark></b></u>",
+      "flavor": "                        "
+    },
+    {
+      "id": 40001003,
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Ải nếu chủ thể bị giết",
+      "flavor": "                           "
+    },
+    {
+      "id": 40001101,
+      "name": "Túi Không Gian [Ezra]",
+      "desc": "Bắt Đầu Ải: Nhận 1 [DimensionalBagEzraA]\n\nNếu chủ thể đã dùng vũ khí Xưởng Chế hiện tại nhiều hơn 1 lần, đổi vũ khí vào lượt kế\n\nDanh sách vũ khí gồm:\n- Găng Tay Xưởng Chế Allas\n- Búa Xưởng Chế Nester\n- Búa Khoan Kỹ Nghệ Screw\n- Găng Tay Chiến Đấu Xưởng Chế Namir"
+    },
+    {
+      "id": 40001102,
+      "name": "Thám T- Ý tôi là, Đội Trưởng! Chúng Tôi Sẽ Hỗ Trợ Cô!",
+      "desc": "Vũ khí của chủ thể sẽ được cố định thành 'Rìu Đặc Chế Thủ Công Dành Riêng Cho Golden Retriever - Kỹ Nghệ YuRia' kể từ lượt Moses trang bị 'Hít Sâu Làn Khói Đỏ'\n\nChủ thể nhận [MiddleFingerEzraSin] kể từ lượt Moses trang bị 'Hít Sâu Làn Khói Đỏ'",
+      "flavor": "            "
+    },
+    {
+      "id": 40001104,
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Ải nếu chủ thể bị giết",
+      "flavor": "                           "
+    },
+    {
+      "id": 40001201,
+      "name": "Xích Mục",
+      "desc": "Cuối Lượt: Gây 3 [Binding] vào lượt kế lên kẻ địch có HP tối đa ≥ 50% vào Cuối Lượt\n<color=#ff6000><mark=#ff000040><b><u>Kẻ địch chuẩn bị dùng Kỹ Năng Tấn Công lên chủ thể sẽ nhận 1 [Reduction]</u></b></mark></color>"
+    },
+    {
+      "id": 40001202,
+      "name": "Bạch Nhiệt Đoản Kiếm",
+      "desc": "Gây 1 [AaCfPcBiv2] Khi Đánh Trúng với Kỹ Năng dùng Đoản Kiếm",
+      "summary": ""
+    },
+    {
+      "id": 40001203,
+      "name": "Huyết Lệ",
+      "desc": "Khi Dùng Kỹ Năng: Nhận sát thương cố định bằng 3% HP tối đa (sát thương này không thể giết chủ thể).\nĐánh Trúng bằng Kỹ Năng: Hồi HP bằng với 10% sát thương gây ra",
+      "summary": ""
+    },
+    {
+      "id": 40001204,
+      "name": "Huyết Giáp",
+      "desc": "Tất cả đồng minh và chủ thể, nhận Khiên mỗi lượt",
+      "summary": ""
+    },
+    {
+      "id": 40001205,
+      "name": "Tâm (心) - Xích Mục",
+      "desc": "Khi 'Cha Đỡ Đầu Ngón Cái - Valencina' có [ObsessionAndGreed], chủ thể nhận [VergiliusSin] vào lượt kế",
+      "summary": ""
+    },
+    {
+      "id": 40001206,
+      "name": "E.G.O Nở Rộ::Lavacrum Sanguinis",
+      "desc": "Khai Mở[TabExplain] E.G.O Nở Rộ::Lavacrum Sanguinis, và nhận các hiệu ứng sau:\n- Nhận 3 [Agility] mỗi lượt\n- Miễn nhiễm sát thương từ hiệu ứng [Laceration]\n- Mở khóa Kỹ Năng Triệu Hoán E.G.O",
+      "summary": ""
+    },
+    {
+      "id": 40001208,
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Ải nếu chủ thể bị giết",
+      "flavor": "                           "
+    },
+    {
+      "id": 40001209,
+      "name": "Người Dẫn Đường",
+      "desc": "Quan sát chỉ dẫn của Dante và chuyển hướng mục tiêu Kỹ Năng cho phù hợp",
+      "summary": "",
+      "flavor": "   "
+    },
+    {
+      "id": 40001302,
+      "name": "Đập Nát Chi Giả",
+      "desc": "+40% sát thương gây lên <Sinh Vật Dung Hợp Cơ Khí> và <Biến Dị> \n\nKhi Giết, tất cả đồng minh hồi 20 SP (một lần mỗi lượt)",
+      "flavor": "                "
+    },
+    {
+      "id": 40001306,
+      "name": "Tâm (心) - Một Sinclair Nào Đó",
+      "desc": "Đầu Lượt: Nhận [WillAwakenSinclair] (một lần mỗi Ải)"
+    },
+    {
+      "id": 40001309,
+      "name": "Trụ Vững Trong Khói",
+      "desc": "TChủ thể không nhận sát thương SP do các tác nhân khác và không thể bị bất động\n\nNếu một đồng minh bị bất động do các tác nhân bên ngoài trước khi tới Cuối Lượt, sử dụng 'Xua Tan Làn Khói[TabExplain]'",
+      "flavor": "                         \n                 "
+    },
+    {
+      "id": 40001308,
+      "name": "Lắng Nghe Nội Tâm, Nắm Lấy Hình Bóng Thanh Âm Ấy...",
+      "desc": "Nhận [SignAwakenSinclair] và [LimitedAwakenSinclair] khi giết kẻ địch có 1,000+ HP tối đa (một lần mỗi Ải)\n- Sau đó, khi chủ thể sử dụng Kỹ Năng Kiêu Hãnh, Phẫn Nộ hoặc Đố Kỵ, toàn bộ Xu sẽ được chuyển thành [SuperCoin]"
+    },
+    {
+      "id": 40001301,
+      "name": "Lực Lượng Đổ Bộ Đường Không - Chiến Xa Abraxas",
+      "desc": "Mục tiêu có dưới 20 [Burst] sẽ không mất Tầng [Burst] khi bị chủ thể tấn công bằng kỹ năng gây Lượng hoặc Tầng [Burst]",
+      "flavor": "          \n                              \n                                  \n                             "
+    },
+    {
+      "id": 40001304,
+      "name": "Kích và Kiếm Lai",
+      "desc": "Kết Đòn: Xóa 1 hiệu ứng có lợi của mục tiêu và gây 4 [Burst] (một lần mỗi lượt)\n\nCuối Lượt: Xóa 1 hiệu ứng bất lợi trên chủ thể và nhận 5 [Breath] và +2 Tầng [Breath]",
+      "flavor": "                               \n            "
+    },
+    {
+      "id": 40001307,
+      "name": "Dấu Ấn - Triệu Hoán Tương Lai",
+      "desc": "Tất cả đồng minh và chủ thể, nhận thêm 1 tài nguyên E.G.O khi dùng Kỹ Năng\n\nKết Lượt: Hồi 6 SP với mỗi Tội Nhân tham chiến trong Ải"
+    },
+    {
+      "id": 40001310,
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Ải nếu chủ thể bị giết",
+      "flavor": "                           "
+    },
+    {
+      "id": 40001401,
+      "name": "Tâm (心) - Xích Mục",
+      "desc": "Đầu Ải: Nhận [VergiliusSin]"
+    },
+    {
+      "id": 40001501,
+      "name": "Vô Ngã Mộng Trung [無我夢中]",
+      "desc": "Đầu Lượt: Nhận [CutbondRyoshu] bằng với số lượt hiện tại\nNhận 1 [CutbondRyoshu] mỗi khi chủ thể này tung Xu",
+      "flavor": "                \n\n                        "
+    },
+    {
+      "id": 40001502,
+      "name": "A Tỳ Khiếu Hoán [阿鼻叫喚]",
+      "desc": "Bắt Đầu Ải: Nhận [HeavenlyKillerStar] và cố định SP ở -44\n\nKhi nhận sát thương SP, tính cả hiệu ứng từ [Sinking], nhận (sát thương SP x 3) sát thương HP",
+      "flavor": "           \n\n                 \n\n             \n\n          <i></i>            "
+    },
+    {
+      "id": 40001503,
+      "name": "Chi Ly Diệt Liệt [支離滅裂]",
+      "desc": "Khi Đánh Trúng, Gây 1 [CutoffRyoshu]\n- Đầu Lượt: Gây thêm 1 [CutoffRyoshu] với mỗi 10 [CutbondRyoshu] chủ thể sở hữu (tối đa 4)\n\nKhi bị đánh, -([CutbondRyoshu] trên chủ thể +[CutoffRyoshu] trên mục tiêu)% sát thương phải nhận (tối đa 90%)\n\nNếu một kẻ địch có hơn 100 [CutoffRyoshu] sau khi chủ thể dùng toàn bộ Kỹ Năng, dùng một Kỹ Năng mạnh mẽ lên mục tiêu",
+      "flavor": "                        \n\n \n\n   \n\n     \n\n                             "
+    }
+  ]
+}

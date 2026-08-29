@@ -1,0 +1,816 @@
+{
+  "dataList": [
+    {
+      "id": 2070511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Chọn ngẫu nhiên một trong các hiệu ứng sau: [Combustion], [Laceration], [Vibration], [Burst], hoặc [Sinking]. Rồi gây 1 Lượng vào lượt kế.\nLặp lại quá trình trên (2 + (Phàm Ăn Cộng Hưởng Tuyệt Đối cao nhất)) lần. (tối đa 5 lần)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Chọn ngẫu nhiên một trong các hiệu ứng sau: [Combustion], [Laceration], [Vibration], [Burst], hoặc [Sinking]. Rồi gây 1 Lượng vào lượt kế.\nLặp lại quá trình trên (2 + (Phàm Ăn Cộng Hưởng Tuyệt Đối cao nhất)) lần. (tối đa 5 lần)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Chọn ngẫu nhiên một trong các hiệu ứng sau: 1 Tầng [Breath], 1 Tầng [Charge], 1 [Agility], 1 [AttackUp], hoặc 1 [DefenseUp]. Rồi gán cho 2 đồng minh ngẫu nhiên vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chọn ngẫu nhiên một trong các hiệu ứng sau: [Combustion], [Laceration], [Vibration], [Burst], hoặc [Sinking]. Rồi gây 1 Lượng vào lượt kế.\nLặp lại quá trình trên (2 + (Phàm Ăn Cộng Hưởng Tuyệt Đối cao nhất)) lần. (tối đa <style=\"highlight\">7</style> lần)"
+                },
+                {
+                  "desc": "[EnemyKill] Chọn ngẫu nhiên một trong các hiệu ứng sau: <style=\"highlight\">2</style> Tầng [Breath], <style=\"highlight\">2</style> Tầng [Charge], <style=\"highlight\">2</style> [Agility], <style=\"highlight\">2</style> [AttackUp], hoặc <style=\"highlight\">2</style> [DefenseUp]. Rồi gán cho 2 đồng minh ngẫu nhiên vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có SP cao nhất\n[BeforeAttack] Mục tiêu mất 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chọn ngẫu nhiên một trong các hiệu ứng sau: [Combustion], [Laceration], [Vibration], [Burst], hoặc [Sinking]. Rồi gây 1 Lượng vào lượt kế.\nLặp lại quá trình trên (2 + (Phàm Ăn Cộng Hưởng Tuyệt Đối cao nhất)) lần. (tối đa 7 lần)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có SP cao nhất\n[BeforeAttack] Mục tiêu mất 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chọn ngẫu nhiên một trong các hiệu ứng sau: [Combustion], [Laceration], [Vibration], [Burst], hoặc [Sinking]. Rồi gây 1 Lượng vào lượt kế.\nLặp lại quá trình trên (2 + (Phàm Ăn Cộng Hưởng Tuyệt Đối cao nhất)) lần. (tối đa 7 lần)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có SP cao nhất\n<style=\"highlight\">Nếu SP của mục tiêu chính cao hơn 15, Phạm Vi Tấn Công +1</style>\n[BeforeAttack] Mục tiêu mất 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chọn ngẫu nhiên một trong các hiệu ứng sau: [Combustion], [Laceration], [Vibration], [Burst], hoặc [Sinking]. Rồi gây 1 Lượng vào lượt kế.\nLặp lại quá trình trên (2 + (Phàm Ăn Cộng Hưởng Tuyệt Đối cao nhất)) lần. (tối đa 7 lần)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt\n[EndSkill] Vào lượt kế, nhận 20 [Binding], 1 [ForwardToTheKing], và 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt\n[EndSkill] Vào lượt kế, nhận 20 [Binding], 1 [ForwardToTheKing], và 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Binding] vào lượt kế</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt\n[EndSkill] Vào lượt kế, nhận 20 [Binding], 1 [ForwardToTheBoundKing], và <style=\"highlight\">2</style> [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Vào lượt kế, nhận 20 [Binding], 1 [ForwardToTheKing], và 2 [Enhancement]\n[EndSkill] Vào lượt kế, gán 20 [Binding] và 3 [Enhancement] cho 2 đồng minh khác theo thứ tự Triển Khai\n- Số đồng minh nhận được hiệu ứng tăng thêm (Thờ Ơ Cộng Hưởng hoặc Kiêu Ngạo cao nhất - 2) (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Vào lượt kế, nhận 20 [Binding], 1 [ForwardToTheKing], và 2 [Enhancement]\n[EndSkill] Vào lượt kế, gán 20 [Binding], 3 [Enhancement], và 1 <style=\"highlight\">[AzureDamageUp]</style> cho 2 đồng minh khác theo thứ tự Triển Khai\n- Số đồng minh nhận được hiệu ứng tăng thêm (Thờ Ơ Cộng Hưởng hoặc Kiêu Ngạo cao nhất - 2) (tối đa <style=\"highlight\">3</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Vào lượt kế, nhận 20 [Binding], 1 [ForwardToTheKing], và 3 [Enhancement]\n[EndSkill] Vào lượt kế, gán 20 [Binding], 3 [Enhancement], và <style=\"highlight\">2</style> [AzureDamageUp] cho 2 đồng minh khác theo thứ tự Triển Khai\n- Số đồng minh nhận được hiệu ứng tăng thêm (Thờ Ơ Cộng Hưởng hoặc Kiêu Ngạo cao nhất - 2) (tối đa <style=\"highlight\">4</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, đổi thành nhận (Cộng Hưởng cao nhất +2) [BoseProjektil]\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa 3)\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+5% Sát Thương khi Trí Mạng với mỗi [BoseProjektil] (tối đa 35%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Sinking]"
+                },
+                {
+                  "desc": "[CriticalTargetKill] Nếu chủ thể có hiệu ứng [Bullet], nhận 1 [Bullet] (2 lần mỗi Ải)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, đổi thành nhận (Cộng Hưởng cao nhất + 2) [BoseProjektil]\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa <style=\"highlight\">4</style>)\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">10</style>% Sát Thương gây ra khi Trí Mạng với mỗi [BoseProjektil] (tối đa <style=\"highlight\">70</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Sinking]"
+                },
+                {
+                  "desc": "[CriticalTargetKill] Nếu chủ thể có hiệu ứng [Bullet], nhận 1 [Bullet] (2 lần mỗi Ải)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, đổi thành nhận (Cộng Hưởng cao nhất + 2) [BoseProjektil]\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa <style=\"highlight\">7</style>)\n[BeforeAttack] Nhận +1 Tầng [Breath]\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">15</style>% Sát Thương khi Trí Mạng với mỗi [BoseProjektil] (tối đa <style=\"highlight\">105</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Sinking]"
+                },
+                {
+                  "desc": "[CriticalTargetKill] Nếu chủ thể có hiệu ứng [Bullet], nhận 1 [Bullet] (<style=\"highlight\">3</style> lần mỗi Ải)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, đổi thành nhận (Cộng Hưởng cao nhất + 2) [BoseProjektil]\n[BeforeAttack] +2% sát thương gây ra với mỗi [BoseProjektil] (tối đa 14%)\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa 3)\n[BeforeAttack] +3% sát thương gây ra với mỗi 5 [Breath] trên chủ thể (tối đa 15%)\n[BeforeAttack] Tiêu thụ 5 [Breath] trên chủ thể\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, đổi thành nhận (Cộng Hưởng cao nhất + 2) [BoseProjektil]\n<style=\"highlight\">[BeforeAttack] Ở mốc 3+ [BoseProjektil], nhận +1 Phạm Vi Tấn Công</style>\n[BeforeAttack] +2% sát thương gây ra với mỗi [BoseProjektil] (tối đa 14%)\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa <style=\"highlight\">4</style>)\n[BeforeAttack] +<style=\"highlight\">4</style>% sát thương gây ra với mỗi 5 [Breath] trên chủ thể (tối đa <style=\"highlight\">20</style>%)\n[BeforeAttack] Tiêu thụ 5 [Breath] trên chủ thể\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Laceration] và <style=\"highlight\">3</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đạn Xạ",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 1) [BoseProjektil] (tối đa 7)\n- Nếu đó là Cộng Hưởng Tuyệt Đối, đổi thành nhận (Cộng Hưởng cao nhất + 2) [BoseProjektil]\n[BeforeAttack] Nhận +1 Phạm Vi Tấn Công với mỗi <style=\"highlight\">3 [BoseProjektil] (tối đa 2)</style>\n[BeforeAttack] +<style=\"highlight\">3</style>% sát thương gây ra với mỗi [BoseProjektil] (tối đa <style=\"highlight\">21</style>%)\n[BeforeAttack] Nhận 1 [Breath] với mỗi [BoseProjektil] (tối đa <style=\"highlight\">7</style>)\n[BeforeAttack] +<style=\"highlight\">5</style>% sát thương gây ra với mỗi 5 [Breath] trên chủ thể (tối đa <style=\"highlight\">25</style>%)\n[BeforeAttack] Tiêu thụ 5 [Breath] trên chủ thể\n[EndSkill] Mất toàn bộ [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quán Tính Bất Đối Xứng",
+          "abName": "Lật Đật Thời Gian",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) Tầng [Vibration] (tối đa 6, 20 Tầng mỗi lượt)\n- Nếu đó là Lười Biếng Cộng Hưởng, kích hoạt [Switch_Vibration] lên [Vibration] của chủ thể thành [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi kích hoạt [VibrationExplosion], gây 1 [AmberTakeDamageUp] trong lượt này\n- Nếu Cộng Hưởng cao nhất là 4+ Lười Biếng Cộng Hưởng Tuyệt Đối, gây 1 [AmberTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Quán Tính Bất Đối Xứng",
+          "abName": "Lật Đật Thời Gian",
+          "desc": "[BeforeAttack] Nhận (<style=\"highlight\">2 +</style> Cộng Hưởng cao nhất) Tầng [Vibration] (tối đa <style=\"highlight\">8</style>, 20 Tầng mỗi lượt)\n- Nếu đó là Lười Biếng Cộng Hưởng, kích hoạt [Switch_Vibration] lên [Vibration] của chủ thể thành [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi kích hoạt [VibrationExplosion], gây 1 [AmberTakeDamageUp] trong lượt này\n- Nếu Cộng Hưởng cao nhất là <style=\"highlight\">Lười Biếng Cộng Hưởng Tuyệt Đối</style>, gây 1 [AmberTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Quán Tính Bất Đối Xứng",
+          "abName": "Lật Đật Thời Gian",
+          "desc": "[BeforeAttack] Nhận (<style=\"highlight\">4 +</style> Cộng Hưởng cao nhất) Tầng [Vibration] (tối đa 8, trong 1 lượt tối đa 20)\n- Nếu đó là Lười Biếng Cộng Hưởng, kích hoạt [Switch_Vibration] lên [Vibration] của chủ thể thành [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây +3 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi kích hoạt [VibrationExplosion], gây 1 [AmberTakeDamageUp] trong lượt này\n- Nếu Cộng Hưởng cao nhất là <style=\"highlight\">3+ Lười Biếng Cộng Hưởng</style>, gây 1 [AmberTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quán Tính Bất Đối Xứng",
+          "abName": "Lật Đật Thời Gian",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (2 + Cộng Hưởng cao nhất) Tầng [Vibration] (tối đa 8, 20 Tầng mỗi lượt)\n- Nếu đó là Lười Biếng Cộng Hưởng, kích hoạt [Switch_Vibration] lên [Vibration] của chủ thể thành [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi kích hoạt [VibrationExplosion], gây 2 [AmberTakeDamageUp] trong lượt này\n- Nếu Cộng Hưởng cao nhất là 4+ Lười Biếng Cộng Hưởng Tuyệt Đối, gây 2 [AmberTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Quán Tính Bất Đối Xứng",
+          "abName": "Lật Đật Thời Gian",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (<style=\"highlight\">4 +</style> Cộng Hưởng cao nhất) Tầng [Vibration] (tối đa 8, 20 Tầng mỗi lượt)\n- Nếu đó là Lười Biếng Cộng Hưởng, kích hoạt [Switch_Vibration] lên [Vibration] của chủ thể thành [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây +3 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi kích hoạt [VibrationExplosion], gây 2 [AmberTakeDamageUp] trong lượt này\n- Nếu Cộng Hưởng cao nhất là <style=\"highlight\">Lười Biếng Cộng Hưởng Tuyệt Đối</style>, gây 2 [AmberTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Quán Tính Bất Đối Xứng",
+          "abName": "Lật Đật Thời Gian",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (4 + Cộng Hưởng cao nhất) Tầng [Vibration] (tối đa <style=\"highlight\">10</style>, 20 Tầng mỗi lượt)\n- Nếu cộng hưởng đó là Lười Biếng Cộng Hưởng, kích hoạt [Switch_Vibration] lên [Vibration] của chủ thể thành [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây +4 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi kích hoạt [VibrationExplosion], gây 2 [AmberTakeDamageUp] trong lượt này\n- Nếu Cộng Hưởng cao nhất là <style=\"highlight\">3+ Lười Biếng Cộng Hưởng</style>, gây 2 [AmberTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 1) Tầng [Charge] (tối đa 7)\n- Ở mốc 4+ Đố Kỵ Cộng Hưởng, đổi thành nhận +7 Tầng [Charge]\n[BeforeAttack] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể. +2% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1~2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 1) Tầng [Charge] (tối đa 7)\n- Ở mốc 4+ Đố Kỵ Cộng Hưởng, đổi thành nhận +7 Tầng [Charge]\n[BeforeAttack] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể. +3% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 45%)\n<style=\"highlight\">- Nếu tiêu thụ 5+ Tầng [Charge], Sức Mạnh Gốc +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1~2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "<style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 [Combustion] trên mục tiêu chính (tối đa 3)</style>\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 1) Tầng [Charge] (tối đa 7)\n- Ở mốc 4+ Đố Kỵ Cộng Hưởng, đổi thành nhận +7 Tầng [Charge]\n[BeforeAttack] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể. +3% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 45%)\n- Nếu tiêu thụ 5+ Tầng [Charge], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">1~3</style> Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có HP cao nhất\n[BeforeAttack] Nếu Tầng [Charge] dưới 10, nhận 10% sát thương HP và nhận +10 Tầng [Charge]\n(hiệu ứng này không giết hoặc Làm Choáng chủ thể)\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 1) Tầng [Charge] (tối đa 8)\n- Ở mốc 5+ Đố Kỵ Cộng Hưởng, đổi thành nhận +8 Tầng [Charge]\n[BeforeAttack] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể. +3% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [IDMicroChip], +20% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1~2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có HP cao nhất\n[BeforeAttack] Nếu Tầng [Charge] dưới 10, nhận 10% sát thương HP và nhận +10 Tầng [Charge]\n(hiệu ứng này không giết hoặc Làm Choáng chủ thể)\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + <style=\"highlight\">2</style>) Tầng [Charge] (tối đa 8)\n- Ở mốc 5+ Đố Kỵ Cộng Hưởng, đổi thành nhận +8 Tầng [Charge]\n[BeforeAttack] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể. +3% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">55</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [IDMicroChip], +20% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1~2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có HP cao nhất\n<style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 [Combustion] trên mục tiêu chính (tối đa 3)</style>\n[BeforeAttack] Nếu Tầng [Charge] dưới 10, nhận 10% sát thương HP và nhận +10 Tầng [Charge]\n(hiệu ứng này không giết hoặc Làm Choáng chủ thể)\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + <style=\"highlight\">3</style>) Tầng [Charge] (tối đa <style=\"highlight\">10</style>)\n- Ở mốc 5+ Đố Kỵ Cộng Hưởng, đổi thành nhận +<style=\"highlight\">10</style> Tầng [Charge]\n[BeforeAttack] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể. +3% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu mục tiêu có [IDMicroChip], +20% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">1~3</style> Tầng [Charge]"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

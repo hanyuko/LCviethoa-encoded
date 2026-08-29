@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": 971080,
+      "name": "Hardblood weapon found while resting",
+      "desc": "Trong lúc chúng tôi đang chống đỡ bầy Túi Máu gần như vô tận...\n\n<Hử...?>\n\n... chúng tôi tình cờ nhìn thấy một món đồ đem lại cảm giác bất an trên sàn.\n\nDù nó khá giống vũ khí của đám Túi Máu nhưng nhìn qua cũng đủ để phân biệt nó với chúng.\n\n\"Chắc hẳn đây là một thứ vũ khí mạnh mẽ ha?\"\n\n\"Đây có thể là một vũ khí khá nguy hiểm.\"\n\n\"Chắc chắn rồi, đây là một vật phẩm rất kì quặc!\"\n\nRõ ràng nhóm Tội Nhân đang bất đồng quan điểm.\n\n... Có vẻ như tôi sẽ là người quyết định việc lấy thứ đó lên hay không.",
+      "options": [
+        {
+          "message": "Lấy vũ khí.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Chảy Máu",
+          "result": [
+            "Có lẽ nó sẽ hữu ích, theo một cách nào đó.\n\nSau một quãng nghỉ ngắn, các Tội Nhân tiếp tục tiến về điểm dừng kế tiếp.\n\n... Nhưng không một ai trong số chúng tôi nhận ra Tội Nhân đang cầm thứ vũ khí này luôn hướng ánh nhìn về phía những vệt máu."
+          ]
+        },
+        {
+          "message": "Không lấy vũ khí.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "Chẳng ai dại để giữ một thứ cổ vật bí ẩn trên người đi khắp nơi cả.\n\nCác Tội Nhân tiếp tục tiến về điểm dừng kế tiếp, dù có phảng phất chút thất vọng trên khuôn mặt họ."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971081,
+      "name": "There is a useful piece of gear on a W Corp. Cleanup Agent who was turned into a Bloodbag.",
+      "desc": "Các Đặc Vụ của Tập Đoàn W bị biến đổi thành Túi Máu sẽ khó đối phó hơn đám Túi Máu thông thường trên tàu.\n\nSau khi đánh bại họ, chúng tôi tìm thấy một trang bị nhìn khá kì quặc từ tàn tích của cuộc chiến.\n\nTôi đã từng thấy một Danh Tính của Tập Đoàn W đeo chiếc găng tay này trước đó.\n\n\"Trang bị này dính đầy máu và nội tạng, sẽ rất khó để sử dụng nó với hiện trạng hiện tại.\"\n\nCó vẻ như chúng tôi phải tốn rất nhiều công sức để sửa đây...",
+      "options": [
+        {
+          "message": "Tách bỏ phần máu thịt.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Chảy Máu.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Từ bỏ.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "Chúng tôi không có thời gian để lãng phí vào mấy việc như thế này.\n\nĐể mặc chiếc găng dính đầy máu thịt lại, chúng tôi tiếp tục tiến lên."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971082,
+      "name": "There is a useful piece of gear on the body of a W Corp. Cleanup Agent who was turned into a Bloodbag.",
+      "desc": "Ít ra thì nó đã gần như được sửa chữa hoàn toàn.\n\nNhưng có lẽ giá trị nó mang lại sẽ không xứng với việc đặt cược vết thương của một Tội Nhân đâu.",
+      "options": [
+        {
+          "message": "Sửa chữa chiếc găng.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Đố Kỵ. Thành công sẽ nhận một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Từ bỏ việc sửa.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "Chúng tôi không có thời gian để lãng phí vào mấy việc như thế này.\n\nĐể mặc chiếc găng dính đầy máu thịt lại, chúng tôi tiếp tục tiến lên."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971083,
+      "name": "A merchant passenger",
+      "desc": "Khu vực này có vẻ đông hành khách.\n\nTrong số họ, chúng tôi để ý một hành khách điềm tĩnh và bình thản đến bất ngờ.\n\n\"Mấy người tới đây nào...\"\n\nTrên tay hắn là một lọ chứa đầy những viên thuốc kì quặc khả nghi.\n\nHành khách này giải thích những viên thuốc trong lọ mà hắn cầm chính là lý do mà hắn giữ tỉnh táo cho tới lúc này.\n\n\"Làm tí không bạn?\"",
+      "options": [
+        {
+          "message": "Mua thuốc.",
+          "messageDesc": "Sử dụng Cost để hồi phục HP & SP cho toàn bộ đồng minh",
+          "result": [
+            "Tôi ra giá và chia thuốc cho các Tội Nhân.\n\n\"Ô hô... Hàng ngon đấy chứ.\"\n\nHiệu quả ngay lập tức. Đống thuốc này có vẻ giúp mọi người hồi phục kha khá cả về thể chất lẫn tinh thần.\n\n\"Nhớ quay lại ủng hộ nhé...\"\n\nNhững hành khách vẫy tay chào tạm biệt. Chúng tôi cũng đáp lại lời chào và tiếp tục di chuyển."
+          ]
+        },
+        {
+          "message": "Nhìn qua rồi sủi.",
+          "messageDesc": "Không có hiệu ứng.",
+          "result": [
+            "Nhìn gian thương lắm, đừng hòng mong tôi trả một xu nào.\n\nChúng tôi đi tiếp."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971084,
+      "name": "A W Corp. Cleanup Agent is battling a group of Bloodbags.",
+      "desc": "\"Nhìn kìa! Một chiến binh đang đơn thương độc mã chiến đấu với một đám Túi Máu!\"\n\nCác Tội Nhân đang nhìn về phía người mặc đồng phục Tập Đoàn W.\n\nKĩ năng của anh ta khá tốt nhưng số lượng Túi Máu đang quá áp đảo.\n\n<Chúng ta phải giúp—>\n\nLời của tôi bị ngắt bởi một đám Túi Máu khác tràn vào trong khoang hành khách này. Chúng bắt đầu bao vây chúng tôi.\n\n\"Mẹ kiếp... chuẩn bị chiến đấu!\"\n\n\"V-vậy còn chiến binh đơn độc kia thì sao?\"\n\n\"À thì—\"",
+      "options": [
+        {
+          "message": "Đưa anh ta Dao Găm Thứ Nguyên Loại E.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "\"Ít nhất thì thứ này sẽ giúp ích...!\"\n\nChúng tôi quăng con dao găm về phía Đặc Vụ Tập Đoàn W...\n\n... Dao găm ghim thẳng vào gáy một Túi Máu đang chuẩn bị cắn anh ta. Ngay lập tức, đặc vụ này rút con dao găm ra và sử dụng nó để tự vệ.\n\nSau khi hoàn thành công việc dọn dẹp, anh ta cảm ơn chúng tôi và trả lại con dao.\n\n\"Cảm ơn mọi người đã giúp đỡ! Chỉ cách một giây nữa thôi là tôi sẽ trở thành một trong số đám quái vậ—\"\n\nDo quá kinh hãi trước ý nghĩ này, người Đặc Vụ đột nhiên ngắt lời và cố gắng quên đi những gì mình vừa nói.\n\n\"Tôi rút lui đây. Nhận lấy thứ này đi—Tuy không phải thứ gì đó đáng giá nhưng tôi hi vọng nó giúp được mọi người.\""
+          ]
+        },
+        {
+          "message": "Cử Tội Nhân tới hỗ trợ Đặc Vụ Tập Đoàn W.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Đố Kỵ & Phẫn Nộ. Thành công sẽ nhận một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Không hỗ trợ.",
+          "messageDesc": "Toàn bộ đồng minh mất SP",
+          "result": [
+            "Vì cũng phải đối đầu với đám Túi Máu, chúng tôi quyết định tự cứu bản thân trước.\n\nNgười Đặc Vụ Tập Đoàn W tội nghiệp chống đỡ trong vô vọng và bị cuốn vào trong đám Túi Máu không lâu sau đó.\n\nChúng tôi có thể nghe thấy tiếng hét đau đớn cùng tiếng cầu xin sự giúp đỡ trong tuyệt vọng của anh ta... nhưng đã quá muộn."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePbBa",
+      "name": "Âm Thanh Bạch Biến",
+      "desc": "<sprite name=\"MentalSystemResultDecrease_Typo\"><color=#9f6a3a>   </color> \n  ≤         <sprite name=\"AaCePbBb\"><color=#e30000>   </color>   \n    ",
+      "summary": "SP Loss Efficiency +2",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBb",
+      "name": "Âm Vang Hoảng Loạn",
+      "desc": "          \n     ",
+      "summary": "Every Coin lands on tails",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBc",
+      "name": "Tạp Chất",
+      "desc": "  \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>           ",
+      "summary": "Target loses 2 SP if this unit loses the clash",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBd",
+      "name": "Tạp Chất",
+      "desc": "  \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>           ",
+      "summary": "Target loses 5 SP if this unit loses the clash",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBi",
+      "name": "Bài Kiểm Tra Của Anh Lớn",
+      "desc": "    \n                        <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>\n                <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBe",
+      "name": "Báo Thù",
+      "desc": "  \n     <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>  <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>            <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>        ",
+      "summary": "Gain <sprite name=\"AttackDmgUp\"><color=#fac400>Tăng Sát Thương</color> based on total damage taken last turn.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBf",
+      "name": "Báo Thù",
+      "desc": "  \n     <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>  <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>            <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>        ",
+      "summary": "Gain <sprite name=\"AttackDmgUp\"><color=#fac400>Tăng Sát Thương</color> based on total damage taken last turn.",
+      "undefined": "-"
+    }
+  ]
+}

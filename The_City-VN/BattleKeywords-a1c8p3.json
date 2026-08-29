@@ -1,0 +1,322 @@
+{
+  "dataList": [
+    {
+      "id": "Bothersome",
+      "name": "Thiết Trảm [切斬]",
+      "desc": "                   ≥ \n      ",
+      "summary": ""
+    },
+    {
+      "id": "VibrationIgnition",
+      "name": "Chấn Động - Hỏa Thiêu",
+      "desc": "    <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>         <sprite name=\"Vibration\"><color=#e30000> </color>   <sprite name=\"Combustion\"><color=#e30000> </color>       <sprite name=\"Combustion\"><color=#e30000> </color>\n       <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>               \n     \n            <sprite name=\"Vibration\"><color=#e30000> </color>  <sprite name=\"Vibration\"><color=#e30000> </color>  ",
+      "summary": ""
+    },
+    {
+      "id": "BulletPropellant",
+      "name": "Đạn Hổ Ấn",
+      "desc": "   \n         \n     ",
+      "summary": ""
+    },
+    {
+      "id": "BulletPropellantSpecial",
+      "name": "Đạn Mãnh Hổ Ấn",
+      "desc": "   \n              <sprite name=\"BulletPropellant\"><color=#fac400>  </color>\n                    \n·       \n                 <sprite name=\"Combustion\"><color=#e30000> </color>\n                  <sprite name=\"BulletPropellant\"><color=#fac400>  </color>",
+      "summary": ""
+    },
+    {
+      "id": "Prey",
+      "name": "Con Mồi",
+      "desc": "            \n  \n·                     \n·               \n                           \n           ",
+      "summary": ""
+    },
+    {
+      "id": "Complacency",
+      "name": "Quá Nhiệt",
+      "desc": "     \n    <sprite name=\"ParryingResultDown\"><color=#e30000>     </color>  <sprite name=\"Vulnerable\"><color=#e30000> </color>   \n      ",
+      "summary": ""
+    },
+    {
+      "id": "BattleSense",
+      "name": "Để Lực [底力]",
+      "desc": "     \n                          \n                           \n                \n    <sprite name=\"Agility\"><color=#fac400> </color>                <sprite name=\"Agility\"><color=#fac400> </color>      \n               ",
+      "summary": ""
+    },
+    {
+      "id": "RestoredBattleSense",
+      "name": "Cực Lực [極力]",
+      "desc": "     \n    <sprite name=\"BattleSense\"><color=#fac400>  [底力]</color>                          \n                           \n                \n    <sprite name=\"Agility\"><color=#fac400> </color>                <sprite name=\"Agility\"><color=#fac400> </color>      ",
+      "summary": ""
+    },
+    {
+      "id": "Irritation",
+      "name": "Thiên Thoái Tinh [天退星]",
+      "desc": "     <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"ResultEnhancement\"><color=#fac400>  </color>              \n     <sprite name=\"Vibration\"><color=#e30000> </color>      \n                           \n            <sprite name=\"SuperCoin\"><color=#9f6a3a>  </color>\n      <sprite name=\"HugeIrritation\"><color=#fac400> 心     [天退星]</color>        ",
+      "summary": ""
+    },
+    {
+      "id": "HugeIrritation",
+      "name": "Tâm (心) - Thiên Thoái Tinh [天退星]",
+      "desc": "     <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"ResultEnhancement\"><color=#fac400>  </color>              \n     <sprite name=\"Vibration\"><color=#e30000> </color>    <sprite name=\"Vibration\"><color=#e30000> </color>      \n                           \n                 <sprite name=\"SuperCoin\"><color=#9f6a3a>  </color>",
+      "summary": ""
+    },
+    {
+      "id": "ReloadKeepAmmo",
+      "name": "Nạp Đạn - Chiến Thuật",
+      "desc": "             ",
+      "summary": ""
+    },
+    {
+      "id": "BeastEyes_LowMorale",
+      "name": "Bản Năng Mãnh Thú - Nhụt Chí",
+      "desc": "                        \n          <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": ""
+    },
+    {
+      "id": "BeastEyes_Panic",
+      "name": "Bản Năng Mãnh Thú - Hoảng Loạn",
+      "desc": "                      \n          <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>\n                 ",
+      "summary": ""
+    },
+    {
+      "id": "DisengageCombat",
+      "name": "Trốn Khỏi Trận Chiến",
+      "desc": "                      ",
+      "summary": ""
+    },
+    {
+      "id": "Chesed_Mercy",
+      "name": "Lòng Từ Bi Của Chesed",
+      "desc": "               \n                      \n                  ",
+      "summary": ""
+    },
+    {
+      "id": "Ryoshu_Attackup",
+      "name": "Ký Ức Bị Trảm Đoạn",
+      "desc": "[Hiệu Ứng Độc Quyền Của Ryōshū]\n                  ",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_EGOResourceup",
+      "name": "Tâm Của Tôi, Tưởng Của Tôi...",
+      "desc": "[Hiệu Ứng Độc Quyền Của Hồng Lộ]\n                            ",
+      "summary": ""
+    },
+    {
+      "id": "BudgetBulletPropellant",
+      "name": "Đạn Nén Áp",
+      "desc": "   \n         \n     ",
+      "summary": ""
+    },
+    {
+      "id": "NEgoFleshSpatula_LowMorale",
+      "name": "Muỗng Thịt",
+      "desc": "  \n    <sprite name=\"Laceration\"><color=#e30000> </color>   <sprite name=\"Enhancement\"><color=#fac400>    </color>",
+      "summary": ""
+    },
+    {
+      "id": "NEgoFleshSpatula_Panic",
+      "name": "Muỗng Thịt",
+      "desc": "  \n    <sprite name=\"Laceration\"><color=#e30000> </color>   <sprite name=\"Enhancement\"><color=#fac400>    </color>",
+      "summary": ""
+    },
+    {
+      "id": "LeRegole_LowMorale",
+      "name": "Le Regole",
+      "desc": "  \n       <sprite name=\"Vibration\"><color=#e30000> </color>      <sprite name=\"AmberResultUp\"><color=#fac400>    </color>\n       <sprite name=\"Combustion\"><color=#e30000> </color>      <sprite name=\"CrimsonResultUp\"><color=#fac400>    </color>\n              <sprite name=\"DefenseDown\"><color=#e30000>   </color>",
+      "summary": ""
+    },
+    {
+      "id": "LeRegole_Panic",
+      "name": "Le Regole",
+      "desc": "  \n       <sprite name=\"Vibration\"><color=#e30000> </color>      <sprite name=\"AmberResultUp\"><color=#fac400>    </color>\n       <sprite name=\"Combustion\"><color=#e30000> </color>      <sprite name=\"CrimsonResultUp\"><color=#fac400>    </color>\n              <sprite name=\"DefenseDown\"><color=#e30000>   </color>",
+      "summary": ""
+    },
+    {
+      "id": "GazeReplica",
+      "name": "Ánh Nhìn",
+      "desc": "     \n               \n       <sprite name=\"ContemptReplica\"><color=#e30000> </color>",
+      "summary": ""
+    },
+    {
+      "id": "ContemptReplica",
+      "name": "Khinh Miệt",
+      "desc": "     \n               \n    <sprite name=\"ContemptReplica\"><color=#e30000> </color>    <sprite name=\"GazeReplica\"><color=#fac400> </color>\n      ",
+      "summary": ""
+    },
+    {
+      "id": "GraspReplica",
+      "name": "Nắm Chặt",
+      "desc": "     \n     <sprite name=\"Binding\"><color=#e30000> </color>   \n     ",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeReplica",
+      "name": "E.G.O Ăn Mòn - Tập Đoàn N",
+      "desc": "     \n          \n·        \n·   <sprite name=\"Enhancement\"><color=#fac400>    </color>    \n             ",
+      "summary": ""
+    },
+    {
+      "id": "BoseProjektilReplica",
+      "name": "Ký Ức Đứt Đoạn",
+      "desc": "    ",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeContempt_LowMorale",
+      "name": "Soft Goldcasted Heart",
+      "desc": "  \n     <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeContempt_Panic",
+      "name": "Soft Goldcasted Heart",
+      "desc": "  \n     <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeMemory_LowMorale",
+      "name": "Heart Toward the New Era",
+      "desc": "  \n              <sprite name=\"Sinking\"><color=#e30000> </color>",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeMemory_Panic",
+      "name": "Heart Toward the New Era",
+      "desc": "  \n      <sprite name=\"Sinking\"><color=#e30000> </color>    <sprite name=\"Sinking\"><color=#e30000> </color>",
+      "summary": ""
+    },
+    {
+      "id": "PileObedient",
+      "name": "Heaping Obedience",
+      "desc": "                ",
+      "summary": ""
+    },
+    {
+      "id": "Obedient",
+      "name": "Hollow Obedience",
+      "desc": "           \n                 \n     ",
+      "summary": ""
+    },
+    {
+      "id": "ExpensiveJade",
+      "name": "Cái Nôi Cho Bảo Ngọc",
+      "desc": "                                ",
+      "summary": ""
+    },
+    {
+      "id": "FamilyTreasure",
+      "name": "Niềm Vui Bùng Nổ",
+      "desc": "   \n·    \n·              \n·   \n·                     <sprite name=\"Obedient\"><color=#e30000> </color>         ",
+      "summary": ""
+    },
+    {
+      "id": "OutpouringAnger",
+      "name": "Cuồng Nộ",
+      "desc": "                                          <sprite name=\"SuperCoin\"><color=#9f6a3a>   </color>",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Xi",
+      "name": "Hỉ",
+      "desc": "        \n          ≥                  \n                                                          <sprite name=\"Vulnerable\"><color=#e30000> </color>   \n                       ",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Le",
+      "name": "Hỉ, Lạc",
+      "desc": "       \n                  \n          ≥                  \n                       ",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Ai",
+      "name": "Hỉ, Lạc, Ai",
+      "desc": "       \n                  \n                 <sprite name=\"Enhancement\"><color=#fac400>    </color>       \n          ≥                  \n                       ",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Nu",
+      "name": "Hỉ, Lạc, Ai, Nộ",
+      "desc": "       \n             \n                 <sprite name=\"Enhancement\"><color=#fac400>    </color>       \n          ≥                  \n                      \n                       ",
+      "summary": ""
+    },
+    {
+      "id": "SupremeEternalLife",
+      "name": "Trường Sinh Thăng Hoa",
+      "desc": "                       ",
+      "summary": ""
+    },
+    {
+      "id": "ImperfectEternalLife",
+      "name": "Trường Sinh Hữu Khuyết",
+      "desc": "              \n            <sprite name=\"Vulnerable\"><color=#e30000> </color>        ",
+      "summary": ""
+    },
+    {
+      "id": "GoldenBoughSync",
+      "name": "Hòa Hợp Méo Mó",
+      "desc": "          ",
+      "summary": ""
+    },
+    {
+      "id": "GoldenBoughSyncDistorted",
+      "name": "Quái, Lực, Loạn, Thần",
+      "desc": "          ",
+      "summary": ""
+    },
+    {
+      "id": "LastingHongwonWill_LowMorale",
+      "name": "Inherited Will of Hongyuan",
+      "desc": "  \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Binding\"><color=#e30000> </color>\n              <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>       ",
+      "summary": ""
+    },
+    {
+      "id": "LastingHongwonWill_Panic",
+      "name": "Inherited Will of Hongyuan",
+      "desc": "  \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Binding\"><color=#e30000> </color>\n              <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>       ",
+      "summary": ""
+    },
+    {
+      "id": "LongLastingHongwonWill_LowMorale",
+      "name": "Infinitely Bequeathing Will of Hongyuan",
+      "desc": "  \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>\n          <sprite name=\"DefenseDown\"><color=#e30000>   </color>\n                   ",
+      "summary": ""
+    },
+    {
+      "id": "LongLastingHongwonWill_Panic",
+      "name": "Infinitely Bequeathing Will of Hongyuan",
+      "desc": "  \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>\n          <sprite name=\"DefenseDown\"><color=#e30000>   </color>\n                   ",
+      "summary": ""
+    },
+    {
+      "id": "YisangParryGubo",
+      "name": "Trách Nhiệm",
+      "desc": "         ",
+      "summary": ""
+    },
+    {
+      "id": "HongluParryGahwan",
+      "name": "Ý Chí Đối Diện",
+      "desc": "          ",
+      "summary": ""
+    },
+    {
+      "id": "GahwanEgoContempt",
+      "name": "Hòa Hợp E.G.O Bộc Phát - Khinh",
+      "desc": "                                   \n     \n       \n      \n              \n        <sprite name=\"Protection\"><color=#fac400> </color>          ",
+      "summary": ""
+    },
+    {
+      "id": "GuboEgoShooter",
+      "name": "Hòa Hợp E.G.O Bộc Phát - Đạn Xạ",
+      "desc": "                                   \n     \n       \n      \n              \n        <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>          ",
+      "summary": ""
+    },
+    {
+      "id": "FellBulletMarkReplica",
+      "name": "Khắc Ấn",
+      "desc": "    \n      ",
+      "summary": ""
+    }
+  ]
+}

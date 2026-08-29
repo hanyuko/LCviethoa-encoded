@@ -1,0 +1,190 @@
+{
+  "dataList": [
+    {
+      "id": 2047,
+      "name": "Giấc Mơ Tan Vỡ",
+      "desc": "Khi nhận được Quà Tặng E.G.O này, nhận các hiệu ứng sau:\n• Cấp độ của Don Quixote tăng lên 50\n• Cấp Đồng Bộ và Cấp Thêu Dệt của Don Quixote tăng lên Cấp 4\n(Nếu Cấp Độ, Đồng Bộ, hoặc Cấp Thêu Dệt cao hơn những giá trị trên, giữ nguyên những giá trị đó.)",
+      "simpleDesc": [
+        {
+          "abilityID": 2047,
+          "simpleDesc": "Don Quixote's level rises to 50"
+        },
+        {
+          "abilityID": 204701,
+          "simpleDesc": "Don Quixote's Uptie and Threadspin Tiers rise to Tier 4"
+        }
+      ]
+    },
+    {
+      "id": 2048,
+      "name": "Vé Ngày La Manchaland",
+      "desc": "Đánh trúng mục tiêu có 10+ (tổng [Laceration], '<noparse>Chảy Máu</noparse> Đặc Trưng', và [Burst]): nhận 1 Lượng và Tầng [Breath] (3 lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 2048,
+          "simpleDesc": "Khi Đánh Trúng against targets with 10+ (sum of [Laceration], 'Unique Bleed', and [Burst]): nhận 1 Lượng và Tầng [Breath]"
+        }
+      ]
+    },
+    {
+      "id": 2049,
+      "name": "Vé Phổ Thông La Manchaland",
+      "desc": "Vào Đầu Ải: toàn bộ đơn vị nhận 4 Lượng và Tầng [Laceration].",
+      "simpleDesc": [
+        {
+          "abilityID": 2049,
+          "simpleDesc": "First Turn Start of an Encounter: all units nhận 4 Lượng và Tầng [Laceration]."
+        }
+      ]
+    },
+    {
+      "id": 2050,
+      "name": "Đồng Xu Chiến Thắng",
+      "desc": "Khi Giết Địch bằng sát thương Kỹ Năng: 1 đồng minh có SP thấp nhất hồi 8 SP.\nKết Đòn: Nếu một đồng minh đánh bại kẻ địch có 10+ (tổng [Laceration], '<noparse>Chảy Máu</noparse> Đặc Trưng', và [Burst]), họ nhận 2 [AttackUp] vào lượt kế. (3 lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 2050,
+          "simpleDesc": "On Kill, 1 ally with the least SP heals 8 SP."
+        },
+        {
+          "abilityID": 205001,
+          "simpleDesc": "Attack End: If an enemy with 10+ (sum of [Laceration], 'Unique Bleed', and [Burst]) is defeated, the unit who killed that enemy nhận 2 [AttackUp] vào lượt kế."
+        }
+      ]
+    },
+    {
+      "id": 2051,
+      "name": "Roi Tự Trừng Phạt",
+      "desc": "Khi 1 đồng minh có phần trăm HP cao nhất sử dụng Kỹ Năng Tấn Công, nhận 10 [Laceration], 3 [AttackUp], và 3 [DefenseUp]. (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 2051,
+          "simpleDesc": "When 1 ally with currently the highest HP percentage uses an Attack Skill, nhận 10 [Laceration], 3 [AttackUp], và 3 [DefenseUp]."
+        }
+      ]
+    },
+    {
+      "id": 2052,
+      "name": "Mặt Nạ Diễu Hành",
+      "desc": "Ải Tiếp Sức: khi một kẻ địch mới vào sân, gây 5 [Laceration] và +3 Tầng [Laceration] lên kẻ địch đó lúc Khởi Chiến.",
+      "simpleDesc": [
+        {
+          "abilityID": 2052,
+          "simpleDesc": "Chain Battles: when a new enemy enters the battle, gây 5 [Laceration] và +3 Tầng [Laceration] against that enemy at Combat Start."
+        }
+      ]
+    },
+    {
+      "id": 2053,
+      "name": "Khối Nuốt Chửng",
+      "desc": "Khi một đồng minh chết, nhận 1 tài nguyên E.G.O có Nguyên Tội tương ứng với Kỹ Năng 1, 2 và 3 của đồng minh đó kèm 1 tài nguyên E.G.O ngẫu nhiên\nKết Đòn: Nếu có kẻ địch bị giết, nhận 1 tài nguyên E.G.O ngẫu nhiên (một lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 2053,
+          "simpleDesc": "When an ally dies, gain 1 E.G.O resource for each of that ally's Skills 1, 2, và 3 và 1 random E.G.O resource"
+        },
+        {
+          "abilityID": 205301,
+          "simpleDesc": "Attack End: If the enemy is killed, gain 1 random E.G.O resource (một lần mỗi Kỹ Năng)"
+        }
+      ]
+    },
+    {
+      "id": 2054,
+      "name": "Cơn Đói Dai Dẳng",
+      "desc": "Vào Đầu Ải: toàn bộ Danh Tính trên sân mất 5 SP và nhận 1 [Enhancement] trong 3 lượt.\nNếu Danh Tính trên là Huyết Quỷ, mất 10 SP, nhận 2 [Enhancement] trong 3 lượt, và gây thêm 1 Lượng và Tầng [Laceration] bằng hiệu ứng Kỹ Năng & Xu",
+      "simpleDesc": [
+        {
+          "abilityID": 2054,
+          "simpleDesc": "First Turn Start of an Encounter: every Identity on the field loses 5 SP and nhận 1 [Enhancement] for 3 turns."
+        },
+        {
+          "abilityID": 205401,
+          "simpleDesc": "If the said Identity is a Bloodfiend, lose 10 SP, nhận 2 [Enhancement] for 3 turns, and gây +1 Lượng [Laceration] and Count with its Skill & Coin effects"
+        }
+      ]
+    },
+    {
+      "id": 2055,
+      "name": "Giấc Mơ Bé Nhỏ",
+      "desc": "Thắng Giao Tranh bằng Kỹ Năng Kiêu Ngạo: hồi 5 SP.\nĐánh Trúng sau khi Thắng Giao Tranh bằng Kỹ Năng trên: gây +1 Tầng [Laceration] và +1 Tầng [Burst] (4 lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 2055,
+          "simpleDesc": "On Clash Win with a Pride Skill: hồi 5 SP, and Khi Đánh Trúng after Clash Win with the said Skill, gây +1 Tầng [Laceration] và +1 Tầng [Burst]"
+        }
+      ]
+    },
+    {
+      "id": 2056,
+      "name": "Giấc Mơ Trống Rỗng",
+      "desc": "Đánh Trúng mục tiêu có [Laceration] hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng': hồi 2~5 HP.\nKỹ Năng tiêu thụ [BloodDinner]: Sức Mạnh Xu +1",
+      "simpleDesc": [
+        {
+          "abilityID": 2056,
+          "simpleDesc": "Heal HP Khi Đánh Trúng against targets with [Laceration] or 'Unique Bleed'."
+        },
+        {
+          "abilityID": 205601,
+          "simpleDesc": "Skills that consume [BloodDinner]: Sức Mạnh Xu +1"
+        }
+      ]
+    },
+    {
+      "id": 2057,
+      "name": "Khởi Đầu Mới Của Giấc Mơ",
+      "desc": "Toàn bộ Kỹ Năng của Don Quixote nhận Sức Mạnh Tổng +2\nKhi có đồng minh chết, những đồng minh còn lại hồi 15 SP, và lúc Cuối Lượt, nhận 1 [Enhancement] vào lượt kế ([Enhancement] tối đa nhận được: 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 2057,
+          "simpleDesc": "Sức Mạnh Tổng Kỹ Năng của Don Quixote +2"
+        },
+        {
+          "abilityID": 205701,
+          "simpleDesc": "When an ally dies, the remaining allies hồi 15 SP, and at Turn End, nhận 1 [Enhancement] vào lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 2058,
+      "name": "Cọc Sắt Bẩn Thỉu",
+      "desc": "Khi đánh trúng kẻ địch bằng kỹ năng Xu đơn, gây 1 Lượng [Laceration]. Gây 2 [DefenseDown] cho đến hết lượt kế.\nNếu mục tiêu đã có [Laceration] hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng', đổi thành gây 3 Lượng [Laceration].",
+      "simpleDesc": [
+        {
+          "abilityID": 2058,
+          "simpleDesc": "Gây 1 Lượng [Laceration]. Gây 2 [DefenseDown] until the end of the next turn"
+        },
+        {
+          "abilityID": 205801,
+          "simpleDesc": "Gây 3 Lượng [Laceration]"
+        }
+      ]
+    },
+    {
+      "id": 2059,
+      "name": "Thòng Lọng Gai",
+      "desc": "Cuối Lượt: Gây Lượng [Burst] lên toàn bộ kẻ địch bằng với Tốc Độ hiện tại của chúng.\n\nKhi kích hoạt Dục Vọng Cộng Hưởng Tuyệt Đối, gây 3 Lượng [Burst] và +3 Tầng [Burst] lên một kẻ địch ngẫu nhiên khi Khởi Chiến.",
+      "simpleDesc": [
+        {
+          "abilityID": 2059,
+          "simpleDesc": "Inflict Lượng [Burst] by Speed"
+        },
+        {
+          "abilityID": 205901,
+          "simpleDesc": "Gây 3 Lượng [Burst] và +3 Tầng [Burst]"
+        }
+      ]
+    },
+    {
+      "id": 2060,
+      "name": "Carmilla",
+      "desc": "Vào Đầu Ải không Chuyên Sâu, toàn bộ kẻ địch nhận sát thương cố định bằng 20% HP Tối Đa của chúng.",
+      "simpleDesc": [
+        {
+          "abilityID": 2060,
+          "simpleDesc": "Deal 20% of Max HP as fixed damage"
+        }
+      ]
+    }
+  ]
+}

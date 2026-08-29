@@ -1,0 +1,4552 @@
+{
+  "dataList": [
+    {
+      "id": 2010111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tầm Nhìn Mắt Quạ",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Reduction]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gán 1 [Agility] cho toàn bộ đồng minh vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tầm Nhìn Mắt Quạ",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Reduction]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gán 3 [Agility] cho tất cả đồng minh vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tầm Nhìn Mắt Quạ",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Reduction]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gán 3 [Agility] cho toàn bộ đồng minh vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [Binding] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây <style=\"highlight\">4</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 4 [Combustion]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây <style=\"highlight\">6</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "<style=\"highlight\">[BeforeAttack] Nhận các hiệu ứng sau:\n- Sức Mạnh Tổng +1 với mỗi 6 [Combustion] trên toàn bộ mục tiêu (tối đa 4)\n- Gây +1% sát thương với mỗi 1 [Combustion] trên toàn bộ mục tiêu (tối đa 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack]</style> Gây 6 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gây 6 [Combustion]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Nhận các hiệu ứng sau:\n- Sức Mạnh Tổng +1 với mỗi 6 [Combustion] trên toàn bộ mục tiêu (tối đa 6)\n- Gây +1.5% sát thương với mỗi 1 [Combustion] trên toàn bộ mục tiêu (tối đa 45%)\n[DefeatDuel] Sức Mạnh Cơ Bản -12\n[EndSkill] Nhận [MatchesPersonality] vào lượt kế (một lần mỗi lượt)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack]</style> Gây 6 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AmberTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [AmberTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây <style=\"highlight\">3</style> [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AmberTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mộ Đá Nguyện Ước",
+          "abName": "Tôn Kính Tháp Chùa",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AmberTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gây 3 [Binding] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thuật Giải Trình",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Hồi 8 SP cho 4 đồng minh có SP thấp nhất<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thuật Giải Trình",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Hồi 10 SP cho 4 đồng minh có SP thấp nhất<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thuật Giải Trình",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Hồi 12 SP cho <style=\"highlight\">4</style> đồng minh có SP thấp nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Hồi 10 SP cho toàn bộ đồng minh<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Hồi 10% HP tối đa cho toàn bộ đồng minh<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Hồi <style=\"highlight\">15</style> SP cho toàn bộ đồng minh"
+                },
+                {
+                  "desc": "[EndSkill] Hồi <style=\"highlight\">15%</style> HP tối đa cho toàn bộ đồng minh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Hồi 15 SP cho toàn bộ đồng minh<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Hồi 15% HP tối đa cho toàn bộ đồng minh<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillHead] Hồi 10 SP cho toàn bộ đồng minh</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 sát thương SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">20</style> sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Reduction] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 20 sát thương SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Gây 10 sát thương SP</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [PenetrateTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [VioletTakeDamageUp]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [PenetrateTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [VioletTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gây 3 [Curse]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [PenetrateTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [VioletTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gây 3 [NailPersonality]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu mục tiêu có [Curse], +50% sát thương gây ra</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [PenetrateTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [VioletTakeDamageUp]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [PenetrateTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [VioletTakeDamageUp]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [Curse]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đinh Nguyền Rủa",
+          "abName": "Gấu Teddy Đau Đớn",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [PenetrateTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [VioletTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [NailPersonality]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu mục tiêu có [Curse], +50% sát thương gây ra</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 4 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Hồi HP bằng 50% lượng sát thương gây ra<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">8</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 50% lượng sát thương gây ra<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 15 sát thương SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">25</style> sát thương SP"
+                },
+                {
+                  "desc": "<style=\"highlight\">Nếu mục tiêu Bị Choáng, Nhụt Chí, hoặc Hoảng Loạng, gây thêm sát thương bằng 30% lượng sát thương gây ra</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 25 sát thương SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Nếu mục tiêu đang bị Choáng, Nhụt Chí, hoặc Hoảng Loạng, gây thêm sát thương bằng 30% sát thương gây ra<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">7</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">7</style> [Sinking]"
+                },
+                {
+                  "desc": "<style=\"highlight\">Nếu mục tiêu KHÔNG Bị Choáng, Nhụt Chí, nhoặc Hoảng Loạng, gây thêm sát thương bằng 50% lượng sát thương gây ra</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Túi Dịch",
+          "abName": "Cá Không Đầu",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [Sinking]"
+                },
+                {
+                  "desc": "Nếu mục tiêu KHÔNG Bị Choáng, Nhụt Chí, nhoặc Hoảng Loạng, gây thêm sát thương bằng 50% lượng sát thương gây ra<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sâm La Viêm Tượng",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sâm La Viêm Tượng",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Vulnerable] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sâm La Viêm Tượng",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Vulnerable] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "Khi đối đầu với đơn vị có [Combustion], Sức Mạnh Kỹ Năng +2\n[EnemyKill] Nhận 1 [Enhancement] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "Khi đối đầu với đơn vị có [Combustion], Sức Mạnh Kỹ Năng +2\n[EnemyKill] Nhận <style=\"highlight\">2</style> [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "Khi đối đầu với đơn vị có [Combustion], Sức Mạnh Kỹ Năng +2\n<style=\"highlight\">+5% sát thương gây ra với mỗi [Combustion] trên mục tiêu (Tối Đa 100%)</style>\n[EnemyKill] Nhận +2 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "Khi đối đầu với đơn vị có [Combustion], Sức Mạnh Kỹ Năng +2\n<style=\"highlight\">[BeforeAttack]</style> +5% sát thương gây ra với mỗi <style=\"highlight\">1 tổng cộng [Combustion] trên toàn bộ mục tiêu</style> (tối đa 100%)\n[EnemyKill] Nhận 2 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây sát thương Phẫn Nộ bằng (([Combustion] trên mục tiêu x 2)% tổng sát thương của Xu này) (tối đa 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nKhi đối đầu với đơn vị có [Combustion], Sức Mạnh Kỹ Năng +2\n[EnemyKill] Nhận 2 [Enhancement] vào lượt kế\n[EnemyKillFail] Nhận 10 [Combustion] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nKhi đối đầu với đơn vị có [Combustion], Sức Mạnh Kỹ Năng +<style=\"highlight\">4</style>\n[EnemyKill] Nhận <style=\"highlight\">3</style> [Enhancement] vào lượt kế\n[EnemyKillFail] <style=\"highlight\">Nhận 3 [Enhancement]</style> và 10 [Combustion] vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nKhi đối đầu với đơn vị có [Combustion], Sức Mạnh Kỹ Năng +4\n<style=\"highlight\">+5% sát thương gây ra với mỗi [Combustion] trên mục tiêu (Tối Đa 100%)</style>\n[EnemyKill] Nhận 3 [Enhancement] vào lượt kế\n[EnemyKillFail] Nhận 3 [Enhancement] và 10 [Combustion] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nKhi đối đầu với đơn vị có [Combustion], Sức Mạnh Kỹ Năng +4\n<style=\"highlight\">[BeforeAttack]</style> +5% sát thương gây ra với mỗi <style=\"highlight\">1 tổng cộng [Combustion] trên toàn bộ mục tiêu</style> (tối đa 100%)\n<style=\"highlight\">[DefeatDuel] Sức Mạnh Gốc -16</style>\n[EnemyKill] Nhận 3 [Enhancement] vào lượt kế\n[EnemyKillFail] Nhận 3 [Enhancement] và 10 [Combustion] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây sát thương Phẫn Nộ bằng (([Combustion] trên mục tiêu x 3)% tổng sát thương của Xu này) (tối đa 30%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ràng Buộc của Tha Nhân",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ràng Buộc của Tha Nhân",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 2 [Protection] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ràng Buộc của Tha Nhân",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận <style=\"highlight\">3</style> [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận <style=\"highlight\">3</style> [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Protection] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cú Móc Xoáy Cuồng Loạn",
+          "abName": "Muốn Bị Ăn Đập? Rất Là Đau?",
+          "desc": "[EndSkill] Nhận 3 [Protection]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cú Móc Xoáy Cuồng Loạn",
+          "abName": "Muốn Bị Ăn Đập? Rất Là Đau?",
+          "desc": "[EndSkill] Nhận 3 [Protection]\n<style=\"highlight\">[EndSkill] Nhận 1 [Operation] vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cú Móc Xoáy Cuồng Loạn",
+          "abName": "Muốn Bị Ăn Đập? Rất Là Đau?",
+          "desc": "[EndSkill] Nhận 2 [Operation] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cú Móc Xoáy Cuồng Loạn",
+          "abName": "Muốn Bị Ăn Đập? Rất Là Đau?",
+          "desc": "[EndSkill] Nhận 2 [Operation] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">Nâng Ngưỡng Choáng bằng 30% lượng sát thương gây ra</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "[EndSkill] Hồi 15% HP Tối Đa cho 2 đồng minh khác có HP thấp nhất<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "[EndSkill] Hồi <style=\"highlight\">30%</style> HP Tối Đa cho 2 đồng minh khác có HP thấp nhất; <style=\"highlight\">Gán 2 [Protection] vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "[CantIdentify] Công Kích Ngẫu Nhiên\n[EndSkill] Gán 1 [Vulnerable] và 2 [AttackDmgUp] cho 2 đồng minh khác có HP thấp nhất vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chấp Hành",
+          "abName": "Thư Ký Của Phán Đao Thiên Đường",
+          "desc": "[CantIdentify] Công Kích Ngẫu Nhiên\n[EndSkill] Gán <style=\"highlight\">2</style> [Vulnerable] và <style=\"highlight\">3</style> [AttackDmgUp] cho 2 đồng minh khác có HP thấp nhất vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thái Hư Huyễn Cảnh",
+          "abName": "Hồng Lộ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thái Hư Huyễn Cảnh",
+          "abName": "Hồng Lộ",
+          "desc": "[EndSkill] Hồi 15 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thái Hư Huyễn Cảnh",
+          "abName": "Hồng Lộ",
+          "desc": "[EndSkill] Hồi 15 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkill] Vào Lượt Kế: -2 [MentalSystemResultDecrease_Typo] cho toàn bộ đồng minh; -2 SP tiêu hao khi dùng E.G.O</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Disarming]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Disarming]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Disarming]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có Tốc Độ cao nhất<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Disarming]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 4 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có Tốc Độ cao nhất<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Disarming]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [DefenseDown]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Gây 4 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có Tốc Độ cao nhất<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Disarming]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bao Xác",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [Enhancement] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 2 [Agility] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bao Xác",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Enhancement] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Agility] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bao Xác",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Enhancement] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Agility] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Nhận 2 [Enhancement] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "Tiêu 5 Tầng [Charge] để nhận +3 Sức Mạnh Kỹ Năng<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Nhận +3 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "<style=\"highlight\">[WhenUse] Nhận Tầng [Charge] bằng Đố Kỵ Cộng Hưởng</style>\nTiêu 5 Tầng [Charge] để nhận +3 Sức Mạnh Kỹ Năng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Nhận +<style=\"highlight\">5</style> Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "[WhenUse] Nhận Tầng [Charge] bằng Đố Kỵ Cộng Hưởng\nTiêu 5 Tầng [Charge] để nhận +3 Sức Mạnh Kỹ Năng <style=\"highlight\">(Tối Đa 12)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Nhận +5 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "[CantIdentify] Công Kích Ngẫu Nhiên\nTiêu toàn bộ Tầng [Charge] để nhận +6 Sức Mạnh Kỹ Năng<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 3 [Vulnerable] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "[CantIdentify] Công Kích Ngẫu Nhiên\n<style=\"highlight\">[WhenUse] Nhận Tầng [Charge] bằng Đố Kỵ Cộng Hưởng</style>\nTiêu toàn bộ Tầng [Charge] để nhận +<style=\"highlight\">10</style> Sức Mạnh Kỹ Năng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 3 [Vulnerable] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "[CantIdentify] Công Kích Ngẫu Nhiên\n[WhenUse] Nhận Tầng [Charge] bằng Đố Kỵ Cộng Hưởng\nTiêu thụ toàn bộ Tầng [Charge] để nhận +<style=\"highlight\">15</style> Sức Mạnh Kỹ Năng<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 3 [Vulnerable] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lao Móc",
+          "abName": "Ishmael",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lao Móc",
+          "abName": "Ishmael",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lao Móc",
+          "abName": "Ishmael",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Kích hoạt [VibrationExplosion]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">7</style> [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [Binding] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có Tốc Độ cao nhất<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 4 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có Tốc Độ cao nhất<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">7</style> [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Paralysis]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Gây 4 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Khát Vọng Hồng Đào",
+          "abName": "Giày Hồng",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có Tốc Độ cao nhất<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Gây [Combustion] bằng một nửa Phẫn Nộ Cộng Hưởng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Combustion] lên 3 kẻ địch ngẫu nhiên<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Nâng Ngưỡng Choáng bằng 40% lượng sát thương gây ra</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng <style=\"highlight\">Phẫn Nộ Cộng Hưởng</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Combustion] lên 3 kẻ địch ngẫu nhiên<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nâng Ngưỡng Choáng bằng 40% sát thương gây ra<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng Phẫn Nộ Cộng Hưởng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkillHead] Gây <style=\"highlight\">5</style> [Combustion] lên 3 kẻ địch ngẫu nhiên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Mất HP bằng 10% HP Tối Đa<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng Phẫn Nộ Cộng Hưởng lên toàn bộ đơn vị<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Mất HP bằng 10% HP Tối Đa<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng <style=\"highlight\">(2x)</style> Phẫn Nộ Cộng Hưởng lên toàn bộ đơn vị"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nâng Ngưỡng Choáng bằng 60% lượng sát thương gây ra</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hồng Diễm Tinh",
+          "abName": "Hồng Diễm Nga",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Mất HP bằng 10% HP Tối Đa<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Gây [Combustion] bằng <style=\"highlight\">(2 * Phẫn Nộ Cộng Hưởng)</style> lên toàn bộ đơn vị"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng bằng 60% lượng sát thương gây ra<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điều Đã Xảy Ra",
+          "abName": "Rodion",
+          "desc": "Nếu HP của mục tiêu ≥ 50%, +10% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Điều Đã Xảy Ra",
+          "abName": "Rodion",
+          "desc": "Nếu HP của mục tiêu ≥ 50%, +30% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Điều Đã Xảy Ra",
+          "abName": "Rodion",
+          "desc": "Nếu HP của mục tiêu ≥ 50%, +30% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nhận +2 [MentalSystemResultIncrease_Typo] vào lượt kế</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nhận -2 [MentalSystemResultDecrease_Typo] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [CrimsonTakeDamageUp] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "<style=\"highlight\">+5% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 30%)\n[EndSkill] Nhận 1 [CrimsonResultUp] và 1 [CrimsonDamageUp] vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack]</style> Gây 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [CrimsonTakeDamageUp] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [CrimsonTakeDamageUp] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Que Diêm Thứ Tư",
+          "abName": "Cô Bé Hỏa Viêm",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">+5% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 30%)\n[DefeatDuel] Sức Mạnh Gốc -18\n[EndSkill] Nhận 2 [CrimsonResultUp] và 1 [CrimsonDamageUp] vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [CrimsonTakeDamageUp] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chân Băng",
+          "abName": "Baba Yaga",
+          "desc": "Nếu HP của mục tiêu trên 50%, +10% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chân Băng",
+          "abName": "Baba Yaga",
+          "desc": "Nếu HP của mục tiêu trên 50%, +30% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">3</style> Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chân Băng",
+          "abName": "Baba Yaga",
+          "desc": "Nếu HP của mục tiêu trên 50%, +30% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Sinking]\n[OnSucceedAttack] Gây +<style=\"highlight\">5</style> Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chân Băng",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\nNếu HP của mục tiêu trên 50%, +10% Sát Thương<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +4 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chân Băng",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\nNếu HP của mục tiêu trên 50%, +<style=\"highlight\">30</style>% Sát Thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">6</style> Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chân Băng",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\nNếu HP của mục tiêu trên 50%, +30% Sát Thương<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [Sinking]\n[OnSucceedAttack] Gây +<style=\"highlight\">8</style> Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cành Tri Thức",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 6 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mất 10 SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cành Tri Thức",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 12 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Mất 10 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nhận 10 SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cành Tri Thức",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 12 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Mất 10 SP. <style=\"highlight\">Nhận 1 [Enhancement] vào lượt kế</style>"
+                },
+                {},
+                {
+                  "desc": "[OnSucceedAttackTail] Nhận 10 SP. <style=\"highlight\">Nhận 1 [Protection] vào lượt kế</style>"
+                },
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngày Tận Thế",
+          "abName": "Lịch Tận Thế",
+          "desc": "Nếu HP của mục tiêu dưới 25%, +10% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Toàn bộ đồng minh hồi 10% HP Tối Đa của riêng họ<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ngày Tận Thế",
+          "abName": "Lịch Tận Thế",
+          "desc": "Nếu HP của mục tiêu dưới 25%, +<style=\"highlight\">20</style>% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Nhận 1 [Enhancement] vào lượt kế</style>"
+                },
+                {
+                  "desc": "[EnemyKill] Toàn bộ đồng minh hồi <style=\"highlight\">15</style>% HP Tối Đa của riêng họ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ngày Tận Thế",
+          "abName": "Lịch Tận Thế",
+          "desc": "Nếu HP của mục tiêu dưới 25%, +<style=\"highlight\">40</style>% Sát Thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Nhận 1 [Enhancement] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Toàn bộ đồng minh hồi 15% HP Tối Đa của riêng họ<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngày Tận Thế",
+          "abName": "Lịch Tận Thế",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu HP của mục tiêu dưới 25%, +15% Sát Thương<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Nhận 10 [Laceration] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ngày Tận Thế",
+          "abName": "Lịch Tận Thế",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu HP của mục tiêu dưới 25%, +<style=\"highlight\">25</style>% Sát Thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Nhận 10 [Laceration] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKillFail] Nhận 3 [Enhancement] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ngày Tận Thế",
+          "abName": "Lịch Tận Thế",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu HP của mục tiêu dưới 25%, +<style=\"highlight\">50</style>% Sát Thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Nhận 10 [Laceration] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKillFail] Nhận 3 [Enhancement] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Nếu HP của mục tiêu dưới 50%, +10% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Nếu HP của mục tiêu dưới 50%, +30% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Nếu HP của mục tiêu dưới 50%, +30% sát thương gây ra<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Gán 1 [AttackDmgUp] cho một đồng minh ngẫu nhiên</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cành Gỗ Mun",
+          "abName": "Táo Hắc Hậu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cành Gỗ Mun",
+          "abName": "Táo Hắc Hậu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [ShamrockTakeDamageUp]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cành Gỗ Mun",
+          "abName": "Táo Hắc Hậu",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cành Gỗ Mun",
+          "abName": "Táo Hắc Hậu",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [ShamrockTakeDamageUp]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "[EndSkill] Hồi 12 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ScarletTakeDamageUp]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "[EndSkill] Hồi <style=\"highlight\">18</style> SP\n<style=\"highlight\">[EndSkill] Gán 1 [Enhancement] cho 2 đồng mình khác ngẫu nhiên</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [ScarletTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ScarletTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 1 [Vulnerable]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nhận 1 [Vulnerable]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[EndSkill] Gán 1 [Enhancement] cho 2 đồng mình khác ngẫu nhiên</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [ScarletTakeDamageUp]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [Vulnerable]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nhận <style=\"highlight\">2</style> [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đột Nhiên, Đến Một Ngày",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chọn ngẫu nhiên 1 trong các hiệu ứng sau: [Combustion], [Laceration], [Vibration], [Burst], và [Sinking], sau đó gây 3 Lượng<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đột Nhiên, Đến Một Ngày",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chọn ngẫu nhiên 1 trong các hiệu ứng sau: [Combustion], [Laceration], [Vibration], [Burst], và [Sinking], sau đó gây 6 Lượng<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đột Nhiên, Đến Một Ngày",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Chọn ngẫu nhiên 1 trong các hiệu ứng sau: [Combustion], [Laceration], [Vibration], [Burst], và [Sinking], sau đó gây <style=\"highlight\">10</style> Lượng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tảo Thuật",
+          "abName": "Táo Vàng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tảo Thuật",
+          "abName": "Táo Vàng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Kích hoạt [VibrationExplosion]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây <style=\"highlight\">4</style> [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tảo Thuật",
+          "abName": "Táo Vàng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tảo Thuật",
+          "abName": "Táo Vàng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tảo Thuật",
+          "abName": "Táo Vàng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 4 [Paralysis]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 4 [Muckworm]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tảo Thuật",
+          "abName": "Táo Vàng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Muckworm]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 40% lượng sát thương gây ra<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng <style=\"highlight\">60</style>% lượng sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "[CantIdentify] \nNhắm vào đơn vị có HP cao nhất<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 20% lượng sát thương gây ra<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Huỳnh Đăng",
+          "abName": "Lồng Đèn Gốc Tiên",
+          "desc": "[CantIdentify] \nNhắm vào đơn vị có HP cao nhất<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng <style=\"highlight\">30</style>% lượng sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây <style=\"highlight\">5</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +10 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +10 Tầng [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gán Tầng [Charge] cho toàn bộ đồng minh bằng Đố Kỵ Cộng Hưởng</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +10 Tầng [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkill]</style> Gán Tầng [Charge] cho toàn bộ đồng minh bằng Đố Kỵ Cộng Hưởng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +10 Tầng [Charge] và 10 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +10 Tầng [Charge] và 10 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gán +10 Tầng [Charge], 5 [Vulnerable], và 10 [Burst] cho toàn bộ đồng minh</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +10 Tầng [Charge] và 10 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkill]</style> Gán 5 [Vulnerable], 10 [Burst], và +12 Tầng [Charge] cho toàn bộ đồng minh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +5 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận <style=\"highlight\">+7</style> Tầng [Charge]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gán 1 [VioletResultUp] và 1 [Agility] cho 2 đồng minh ngẫu nhiên vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkill]</style> Nhận +7 Tầng [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillHead] Gán 1 [VioletResultUp] và 1 [Agility] cho 2 đồng minh ngẫu nhiên vào lượt kế, và chủ thể nhận +3 Tầng [Charge]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +7 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận <style=\"highlight\">+10</style> Tầng [Charge]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Gây 2 [Paralysis] và 2 [Binding] lên 2 đơn vị ngẫu nhiên vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Điện Lang",
+          "abName": "Sói Gác Ngõ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Nhận +10 Tầng [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillTail] Gây 2 [Paralysis] và 2 [Binding] lên 2 đơn vị ngẫu nhiên vào lượt kế, nhận +3 Tầng [Charge]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[BeforeAttack] Tăng sát thương gây ra dựa trên lượng tài nguyên Dục Vọng hiện có (Lên tới 25%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[BeforeAttack] Tăng sát thương gây ra dựa trên lượng tài nguyên Dục Vọng hiện có (Lên tới <style=\"highlight\">50%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+3</style> Tầng [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[BeforeAttack] Tăng sát thương gây ra dựa trên lượng tài nguyên Dục Vọng hiện có (Lên tới 50%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "<style=\"highlight\">Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Laceration]) trên mục tiêu chính (tối đa 3)\n[BeforeAttack] Gán 1 [ScarletResultUp] vào lượt kế cho đồng minh dựa theo Thứ Tự Triển Khai với mỗi 6 tài nguyên E.G.O Dục Vọng đang sở hữu (tối đa 5 đơn vị)\n[BeforeAttack] +6% sát thương gây ra với mỗi 1 tài nguyên E.G.O Dục Vọng đang sở hữu (tối đa 120%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +3 Tầng [Laceration]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\n\n[BeforeAttack] Tăng sát thương gây ra dựa trên lượng tài nguyên Dục Vọng hiện có (tối đa 25%)\nSau đó, tiêu thụ tài nguyên Dục Vọng bằng (Dục Vọng Cộng Hưởng); tăng thêm 5% sát thương với mỗi tài nguyên đã tiêu thụ<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\n\n[BeforeAttack] Tăng sát thương gây ra dựa trên lượng tài nguyên Dục Vọng hiện có (tối đa <style=\"highlight\">50%</style>)\nSau đó, tiêu thụ tài nguyên Dục Vọng bằng (Dục Vọng Cộng Hưởng); tăng thêm <style=\"highlight\">10%</style> sát thương với mỗi tài nguyên đã tiêu thụ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">4</style> Tầng [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\n\n[BeforeAttack] Tăng sát thương gây ra dựa trên lượng tài nguyên Dục Vọng hiện có (tối đa <style=\"highlight\">50%</style>)\nSau đó, tiêu thụ tài nguyên Dục Vọng bằng (Dục Vọng Cộng Hưởng); tăng thêm 10% sát thương với mỗi tài nguyên đã tiêu thụ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +4 Tầng [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\n\n<style=\"highlight\">Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Laceration]) trên mục tiêu (tối đa 3)\n[BeforeAttack] Gán 1 [ScarletResultUp] và 1 [ScarletDamageUp] vào lượt kế cho đồng minh dựa theo Thứ Tự Triển Khai với mỗi 6 tài nguyên E.G.O Dục Vọng đang sở hữu (tối đa 5 đơn vị)\n[BeforeAttack]\n- Gây +5% sát thương với mỗi 1 tài nguyên E.G.O Dục Vọng đang sở hữu (tối đa 100%)\n- Sau đó, tiêu thụ (Dục Vọng Cộng Hưởng x 2) tài nguyên E.G.O Dục Vọng (tối đa 8)\n- Gây +20% sát thương với mỗi 1 tài nguyên E.G.O Dục Vọng đã tiêu thụ (tối đa 160%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +4 Tầng [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +4 Tầng [Laceration]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\nNếu mục tiêu là đồng minh, gây 0 sát thương<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nếu mục tiêu là đồng minh, hồi HP cho họ bằng 5% HP Tối Đa của người dùng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 7 [Combustion]; nếu mục tiêu là đồng minh, gán 2 [Agility] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\nNếu mục tiêu là đồng minh, gây 0 sát thương<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nếu mục tiêu là đồng minh, hồi HP cho họ bằng <style=\"highlight\">10%</style> HP Tối Đa của người dùng"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 7 [Combustion]; nếu mục tiêu là đồng minh, gán 2 [Agility] <style=\"highlight\">và 1 [GainSinStockAdder]</style> vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\nNếu mục tiêu là đồng minh, gây 0 sát thương<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nếu mục tiêu là đồng minh, hồi HP bằng 10% HP Tối Đa của người dùng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 7 [Combustion]; nếu mục tiêu là đồng minh, gán 2 [Agility] và 1 [GainSinStockAdder] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\n<style=\"highlight\">Tài nguyên E.G.O Phàm Ăn cần thiết để dùng Kỹ Năng này được giảm về 0\nNếu mục tiêu là đồng minh, gây 0 sát thương và không kích hoạt Kỹ Năng Phòng Thủ (tính cả Kỹ Năng Phòng Thủ Giao Tranh)\n[DefeatDuel] Sức Mạnh Gốc -8\n[EndSkill] Nếu Kỹ Năng này đánh trúng một đồng minh, chủ thể hồi SP bằng số đồng minh bị Kỹ Năng này nhắm đến\n[EndSkill] Hồi cho chủ thể (5 x số lượng đồng minh bị Kỹ Năng này nhắm đến)% HP Tối Đa (tối thiểu 5%, tối đa 20%)\n[EndSkill] Gán 1 [GainSinStockAdder] và 2 [Agility] vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu mục tiêu là đồng minh,</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Hồi cho mục tiêu (5 x số đồng minh bị Kỹ Năng này nhắm đến)% HP Tối Đa của chủ thể (tối đa 20%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Gán 1 [GainSinStockAdder] và 2 [Agility] vào lượt kế</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 7 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\n\n[BeforeAttack] Tiêu 3 tài nguyên E.G.O ngẫu nhiên để tăng 10% sát thương<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\n\n[BeforeAttack] Tiêu 3 tài nguyên E.G.O ngẫu nhiên để tăng <style=\"highlight\">20</style>% sát thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\n\n[BeforeAttack] Tiêu 3 tài nguyên E.G.O ngẫu nhiên để tăng <style=\"highlight\">30</style>% sát thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Món Hầm Để Đời",
+          "abName": "Súp Kê Xà",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\n<style=\"highlight\">Tài nguyên E.G.O Phàm Ăn cần thiết để dùng Kỹ Năng này được giảm về 0\n[DefeatDuel] Sức Mạnh Gốc -12\n[BeforeAttack] +15% sát thương gây ra với mỗi 4 (Lượng [Combustion] trên toàn bộ mục tiêu) (tối đa 60%)\n[BeforeAttack] Tiêu thụ tối đa 3 tài nguyên E.G.O đang sở hữu nhiều nhất, và +10% sát thương gây ra với mỗi 1 tài nguyên E.G.O đã tiêu thụ (tối đa 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [Combustion]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] Nếu có tài nguyên E.G.O được tiêu thụ do hiệu ứng của Kỹ Năng này, gây sát thương Dục Vọng bằng 50% tổng sát thương của Xu này</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)\n\n[BeforeAttack] Tiêu thụ Tầng [Charge] để gây thêm sát thương (tối đa 50%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm sát thương Kiêu Ngạo bằng ([Burst] của mục tiêu x 7.5)% sát thương gây ra, và giảm 5 Tầng [Burst] (tối đa 75%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)\n\n[BeforeAttack] Tiêu thụ Tầng [Charge] để gây thêm sát thương (tối đa <style=\"highlight\">75</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">Nếu Tầng [Charge] đã được tiêu thụ, gây 3 [DimensionRift]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm sát thương Kiêu Ngạo bằng ([Burst] của mục tiêu x <style=\"highlight\">10</style>)% sát thương gây ra, và giảm 5 Tầng [Burst] (tối đa <style=\"highlight\">100</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)\n\n[BeforeAttack] Tiêu thụ Tầng [Charge] để gây thêm sát thương (tối đa 75%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu Tầng [Charge] đã được tiêu thụ, gây <style=\"highlight\">5</style> [DimensionRift]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm sát thương Kiêu Ngạo bằng ([Burst] của mục tiêu x 10)% sát thương gây ra, và giảm 5 Tầng [Burst] (tối đa 100)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[CantIdentify]\nNhắm vào một đơn vị ngẫu nhiên\n\n[BeforeAttack] Tiêu thụ Tầng [Charge] để gây thêm sát thương (tối đa 50%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm sát thương Kiêu Ngạo bằng ([Burst] của mục tiêu x 7.5)% sát thương gây ra, và giảm 5 Tầng [Burst] (tối đa 75%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[CantIdentify]\nNhắm vào một đơn vị ngẫu nhiên\n\n[BeforeAttack] Tiêu thụ Tầng [Charge] để gây thêm sát thương (tối đa <style=\"highlight\">75</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu Tầng [Charge] đã được tiêu thụ, gây 3 [DimensionRift]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm sát thương Kiêu Ngạo bằng ([Burst] của mục tiêu x <style=\"highlight\">10</style>)% sát thương gây ra, và giảm 5 Tầng [Burst] (tối đa <style=\"highlight\">100</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[CantIdentify]\nNhắm vào một đơn vị ngẫu nhiên\n\n[BeforeAttack] Tiêu thụ Tầng [Charge] để gây thêm sát thương (tối đa 75%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu Tầng [Charge] đã được tiêu thụ, gây <style=\"highlight\">5</style> [DimensionRift]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm sát thương Kiêu Ngạo bằng ([Burst] của mục tiêu x 10)% sát thương gây ra, và giảm 5 Tầng [Burst] (tối đa 100)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)\n\n[BeforeAttack] Nhận +3 Tầng [Charge]; Nhận 2 [Agility] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] và 2 [DimensionRift]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "Nhắm vào mục tiêu cuối đội hình (Trong các ải thường)\n\n[BeforeAttack] Nhận +<style=\"highlight\">5</style> Tầng [Charge]; Nhận 2 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] và <style=\"highlight\">4</style> [DimensionRift]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\n\n[BeforeAttack] Nhận 2 [Agility] vào lượt kế\nTiêu thụ 10 Tầng [Charge] để gây thêm +1 [Vulnerable] và [DimensionRift] khi Kỹ Năng này Đánh Trúng<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] và 3 [DimensionRift]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP cao nhất\n\n[BeforeAttack] Nhận <style=\"highlight\">3</style> [Agility] vào lượt kế\nTiêu thụ 10 Tầng [Charge] để gây thêm <style=\"highlight\">+2</style> [Vulnerable] và [DimensionRift] khi Kỹ Năng này Đánh Trúng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] và <style=\"highlight\">4</style> [DimensionRift]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[EndSkill] Nhận 1 [Agility], 1 [CrimsonResultUp], và 1 [HitResultUp] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Vibration] bằng [Combustion] trên mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion], sau đó giảm 3 Tầng [Vibration] của mục tiêu; nếu [VibrationExplosion] Làm Choáng mục tiêu, gây +1 Tầng [Combustion] lên 5 kẻ địch ngẫu nhiên<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[EndSkill] Nhận <style=\"highlight\">2</style> [Agility], 1 [CrimsonResultUp], và 1 [HitResultUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">7</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Vibration] bằng [Combustion] trên mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [Combustion] lên 5 kẻ địch ngẫu nhiên</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion], sau đó giảm <style=\"highlight\">2</style> Tầng [Vibration] của mục tiêu; nếu [VibrationExplosion] Làm Choáng mục tiêu, gây +<style=\"highlight\">2</style> Tầng [Combustion] lên 5 kẻ địch ngẫu nhiên"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[EndSkill] Nhận 2 [Agility], 1 [CrimsonResultUp], và 1 [HitResultUp] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Vibration] bằng [Combustion] trên mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion] lên 5 kẻ địch ngẫu nhiên"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion], sau đó giảm 2 Tầng [Vibration] của mục tiêu; nếu [VibrationExplosion] Làm Choáng mục tiêu, gây +<style=\"highlight\">3</style> Tầng [Combustion] lên 5 kẻ địch ngẫu nhiên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Nhận 1 [Agility], 1 [CrimsonResultUp], và 1 [HitResultUp] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Vibration] bằng [Combustion] trên mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion], sau đó giảm 3 Tầng [Vibration] của mục tiêu; nếu [VibrationExplosion] Làm Choáng mục tiêu, gây +2 Tầng [Combustion] lên 5 đơn vị ngẫu nhiên<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Nhận <style=\"highlight\">2</style> [Agility], 1 [CrimsonResultUp], và 1 [HitResultUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Vibration] bằng [Combustion] trên mục tiêu</style><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [Combustion] lên 5 đơn vị ngẫu nhiên"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion], sau đó giảm <style=\"highlight\">2</style> Tầng [Vibration] của mục tiêu; nếu [VibrationExplosion] Làm Choáng mục tiêu, gây +<style=\"highlight\">3</style> Tầng [Combustion] lên 5 đơn vị ngẫu nhiên"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Nhận 2 [Agility], 1 [CrimsonResultUp], và 1 [HitResultUp] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">12</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Vibration] bằng [Combustion] trên mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion] lên 5 đơn vị ngẫu nhiên"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion], sau đó giảm 2 Tầng [Vibration]; nếu [VibrationExplosion] Làm Choáng mục tiêu, gây +<style=\"highlight\">4</style> Tầng [Combustion] lên 5 đơn vị ngẫu nhiên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[EndSkill] Gán 1 [CrimsonDamageUp] cho toàn bộ đồng minh vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 7 sát thương SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[EndSkill] Gán 1 [CrimsonDamageUp] cho toàn bộ đồng minh vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">15</style> sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Gán 1 [CrimsonTakeDamageUp], và 1 [CrimsonDamageUp] cho toàn bộ đơn vị vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 7 sát thương SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion], sau đó giảm 2 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Bò Đồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Gán 1 [CrimsonTakeDamageUp], và 1 [CrimsonDamageUp] cho toàn bộ đơn vị vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">15</style> sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion], sau đó giảm 2 Tầng [Vibration] của mục tiêu; <style=\"highlight\">nếu [VibrationExplosion] Làm Choáng mục tiêu, gây +2 Tầng [Combustion] lên 3 đơn vị ngẫu nhiên</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[BeforeAttack] Nhận +4 Tầng [Breath]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[BeforeAttack] Nhận +<style=\"highlight\">6</style> Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 4 [Sinking]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]; <style=\"highlight\">Gây +2 Tầng [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[BeforeAttack] Nhận +<style=\"highlight\">7</style> Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]; Gây +<style=\"highlight\">3</style> Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\n[BeforeAttack] Nhận +5 Tầng [Breath]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\n[BeforeAttack] Nhận +<style=\"highlight\">7</style> Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 4 [Sinking]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 4 [Burst]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]; <style=\"highlight\">Gây +2 Tầng [Sinking] và Tầng [Burst]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\n[BeforeAttack] Nhận +7 Tầng [Breath]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]; Gây +<style=\"highlight\">3</style> Tầng [Sinking] và Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[BeforeAttack] Nhận +5 Tầng [Charge]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [EmittedCurrent]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[BeforeAttack] Nhận +<style=\"highlight\">7</style> Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [EmittedCurrent]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[BeforeAttack] Nhận +<style=\"highlight\">10</style> Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">15</style> [EmittedCurrent]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[CantIdentify]\nƯu tiên đơn vị có [Charge]\n[BeforeAttack] Nhận +5 Tầng [Charge]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [EmittedCurrent] và +5 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[CantIdentify]\nƯu tiên đơn vị có [Charge]\n[BeforeAttack] Nhận +<style=\"highlight\">7</style> Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">10</style> [EmittedCurrent] và +5 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[CantIdentify]\nƯu tiên đơn vị có [Charge]\n[BeforeAttack] Nhận +<style=\"highlight\">10</style> Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">15</style> [EmittedCurrent] và +<style=\"highlight\">7</style> Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[BeforeAttack] Nhận +1 Tầng [Charge] với mỗi 10% HP đã mất (Tối Đa 5)\nNhận 2 [Agility] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[BeforeAttack] Nhận +1 Tầng [Charge] với mỗi 10% HP đã mất (Tối Đa <style=\"highlight\">7</style>)\nNhận 2 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis] và <style=\"highlight\">1 [AzureTakeDamageUp]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận +1 Tầng [Charge] với mỗi 10% HP đã mất (Tối Đa 5)\nNhận 2 [Agility] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ toàn bộ Tầng [Charge] để gây thêm sát thương Thờ Ơ bằng (Tầng [Charge] * 1.5)% sát thương gây ra (Tối Đa 30%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Sau khi tấn công, mất 10% HP Tối Đa để nhận +7 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận +1 Tầng [Charge] với mỗi 10% HP đã mất (Tối Đa <style=\"highlight\">7</style>)\nNhận 2 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ toàn bộ Tầng [Charge] để gây thêm sát thương Thờ Ơ bằng (Tầng [Charge] * <style=\"highlight\">2.5</style>)% sát thương gây ra (Tối Đa <style=\"highlight\">50%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Sau khi tấn công, mất 10% HP Tối Đa để nhận +<style=\"highlight\">10</style> Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "AEDD",
+          "abName": "Rết Sốc Điện",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận +1 Tầng [Charge] với mỗi 10% HP đã mất (Tối Đa 7)\nNhận 2 [Agility] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ toàn bộ Tầng [Charge] để gây thêm sát thương Thờ Ơ bằng (Tầng [Charge] * 2.5)% sát thương gây ra (tối đa 50%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkill] Tiêu thụ toàn bộ Tầng [Charge]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillTail]</style> Mất HP bằng 10% HP Tối Đa để nhận +10 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[BeforeAttack] Gán 1 [AmberResultUp], 1 [AmberDamageUp], và 2 [Protection] cho toàn bộ đồng minh trong lượt này và lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[BeforeAttack] Gán 1 [AmberResultUp], 2 [AmberDamageUp], và <style=\"highlight\">3</style> [Protection] cho toàn bộ đồng minh trong lượt này và lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Hồi 15 SP</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 1 [AmberResultUp] và 1 [AmberDamageUp] trong lượt này và 2 lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AmberTakeDamageUp] và 1 [PenetrateTakeDamageUp] trong lượt này và lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mưa Bóng Mây",
+          "abName": "Cáo Lang Thang",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận <style=\"highlight\">2</style> [AmberResultUp] và <style=\"highlight\">2</style> [AmberDamageUp] trong lượt này và 2 lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [AmberTakeDamageUp] và <style=\"highlight\">2</style> [PenetrateTakeDamageUp] trong lượt này và lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xích Nhãn",
+          "abName": "Nhện Nụ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], gây 1 [PlusCoinValueDown] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xích Nhãn",
+          "abName": "Nhện Nụ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], gây 1 [PlusCoinValueDown] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu Tốc Độ của mục tiêu chậm hơn chủ thể, gây 2 [SlashTakeDamageUp] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xích Nhãn",
+          "abName": "Nhện Nụ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], gây 1 [PlusCoinValueDown] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu Tốc Độ của mục tiêu chậm hơn chủ thể, gây 2 [SlashTakeDamageUp] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xích Nhãn",
+          "abName": "Nhện Nụ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], gây 2 [PlusCoinValueDown] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xích Nhãn",
+          "abName": "Nhện Nụ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], gây 2 [PlusCoinValueDown] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu Tốc Độ của mục tiêu chậm hơn chủ thể, gây 1-3 [SlashTakeDamageUp] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xích Nhãn (Khai)",
+          "abName": "Nhện Nụ",
+          "desc": "Nếu Tốc Độ của mục tiêu chính thấp hơn chủ thể từ 3 trở lên, Sức Mạnh Xu +4<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], +20% sát thương gây ra<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xích Nhãn (Khai)",
+          "abName": "Nhện Nụ",
+          "desc": "Nếu Tốc Độ của mục tiêu chính thấp hơn chủ thể từ 3 trở lên, Sức Mạnh Xu +4<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], +20% sát thương gây ra<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu kỹ năng này Làm Choáng hoặc đánh bại một kẻ địch, hồi HP cho chủ thể và đồng minh có HP thấp nhất bằng 10% HP Tối Đa</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xích Nhãn (Khai)",
+          "abName": "Nhện Nụ",
+          "desc": "Nếu Tốc Độ của mục tiêu chính thấp hơn chủ thể từ 3 trở lên, Sức Mạnh Xu +<style=\"highlight\">7</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], +<style=\"highlight\">40%</style> sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu kỹ năng này Làm Choáng hoặc đánh bại một kẻ địch, hồi HP cho chủ thể và đồng minh có HP thấp nhất bằng 10% HP Tối Đa<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xích Nhãn (Khai)",
+          "abName": "Nhện Nụ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu Tốc Độ của mục tiêu chính thấp hơn chủ thể từ 3 trở lên, Sức Mạnh Tổng +7<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], +30% sát thương gây ra<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xích Nhãn (Khai)",
+          "abName": "Nhện Nụ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu Tốc Độ của mục tiêu chính thấp hơn chủ thể từ 3 trở lên, Sức Mạnh Tổng +7<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], +30% sát thương gây ra<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu kỹ năng này Làm Choáng hoặc đánh bại một kẻ địch, hồi HP cho chủ thể và đồng minh có HP thấp nhất bằng 10% HP Tối Đa</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xích Nhãn (Khai)",
+          "abName": "Nhện Nụ",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu Tốc Độ của mục tiêu chính thấp hơn chủ thể từ 3 trở lên, Sức Mạnh Tổng +<style=\"highlight\">10</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [Binding], +<style=\"highlight\">50%</style> sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu kỹ năng này Làm Choáng hoặc đánh bại một kẻ địch, hồi HP cho chủ thể và đồng minh có HP thấp nhất bằng 10% HP Tối Đa<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Hồi 12 SP cho 4 đồng minh khác có SP thấp nhất<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "<style=\"highlight\">[BeforeAttack] Ở mốc 15+ SP, nhận +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Hồi <style=\"highlight\">17</style> SP cho 4 đồng minh khác có SP thấp nhất"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "[BeforeAttack] Ở mốc 15+ SP, nhận +<style=\"highlight\">2</style> Phạm Vi Tấn Công",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Reduction] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Hồi <style=\"highlight\">25</style> SP cho 4 đồng minh khác có SP thấp nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown] cho 1 đồng minh ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [DefenseUp] vào lượt kế.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [AttackDmgUp] vào lượt kế.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "[CantIdentify]\nMục Tiêu Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Nếu SP ≤ -15, nhận +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown] cho 1 đồng minh ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [DefenseUp] vào lượt kế.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [AttackDmgUp] vào lượt kế.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Hồi 4 SP cho chủ thể</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Không Tức Thị Sắc",
+          "abName": "Vô Ngã Nhập Định",
+          "desc": "[CantIdentify]\nMục Tiêu Ngẫu Nhiên\n[BeforeAttack] Nếu SP ≤ -15, nhận +<style=\"highlight\">2</style> Phạm Vi Tấn Công",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown] cho 1 đồng minh ngẫu nhiên<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [DefenseUp] vào lượt kế.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [AttackDmgUp] vào lượt kế.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Hồi 4 SP cho chủ thể<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Gây 1 [Vulnerable]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

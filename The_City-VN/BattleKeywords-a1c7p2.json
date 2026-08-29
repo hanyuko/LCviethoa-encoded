@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "id": "BloodyHand",
+      "name": "Bàn Tay Nhuốm Máu",
+      "desc": "     \n    \n        <sprite name=\"Burst\"><color=#e30000> </color>         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThorns",
+      "name": "Gai Nở Rộ",
+      "desc": "     \n         <sprite name=\"Laceration\"><color=#e30000> </color>               ",
+      "summary": "Inflict <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color> equal to Stack against the Attacker",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThorns_2nd",
+      "name": "Gai Dệt Từ Máu",
+      "desc": "        <sprite name=\"BloomingThorns\"><color=#fac400>  </color>       \n     \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>      \n         <sprite name=\"Laceration\"><color=#e30000> </color>                  \n      <sprite name=\"Laceration\"><color=#e30000> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>        \n   <sprite name=\"AttackUp\"><color=#fac400>   </color>  <sprite name=\"DefenseUp\"><color=#fac400>   </color>              <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>   \n       <sprite name=\"BloodDinner\"><color=#9f6a3a> </color>     ",
+      "summary": "Inflict <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color> on the Attacker equal to Stack\nInflict +1 more Lượng <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color> & Count\nGán 1 <sprite name=\"ParryingResultUp\"><color=#fac400>Tăng Sức Mạnh Giao Tranh</color> to allies\nIf the Skill consumes Bloodfeast, Sức Mạnh Xu +1",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThorns_3rd",
+      "name": "Gai Nặn Từ Máu",
+      "desc": "        <sprite name=\"BloomingThorns\"><color=#fac400>  </color>       \n     \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>      \n         <sprite name=\"Laceration\"><color=#e30000> </color>                  \n      <sprite name=\"Laceration\"><color=#e30000> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>        \n   <sprite name=\"AttackUp\"><color=#fac400>   </color>  <sprite name=\"DefenseUp\"><color=#fac400>   </color>              <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>   \n       <sprite name=\"BloodDinner\"><color=#9f6a3a> </color>     \n                ",
+      "summary": "Inflict <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color> on the Attacker equal to Stack\nInflict +2 more Lượng <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color> & Count\nGán 2 <sprite name=\"ParryingResultUp\"><color=#fac400>Tăng Sức Mạnh Giao Tranh</color> to allies\nIf the Skill consumes Bloodfeast, Sức Mạnh Xu +2 and deal +50% damage",
+      "undefined": "-"
+    },
+    {
+      "id": "FestivalFever",
+      "name": "Lễ Hội Cuồng Nhiệt",
+      "desc": "     \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>      \n        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IncompleteParade",
+      "name": "Lễ Diễu Hành Không Hoàn Chỉnh",
+      "desc": "     \n       \n       \n     <sprite name=\"Vulnerable\"><color=#e30000> </color>          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodDolci_LowMorale",
+      "name": "Xiềng Xích Hư Vô",
+      "desc": "  \n     <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>\n       ",
+      "summary": "Nhận 1 Attack Power Up & 3 Defense Level Down",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodDolci_Panic",
+      "name": "Xiềng Xích Hư Vô",
+      "desc": "  \n     <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>\n     ",
+      "summary": "Nhận 2 Attack Power Up & 6 Defense Level Down",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingDolcineaOne",
+      "name": "Héo Mòn",
+      "desc": "         \n      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingDolcineaServant",
+      "name": "Héo Mòn",
+      "desc": "         \n      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThornyFall_LowMorale",
+      "name": "Gai Góc",
+      "desc": "     <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>",
+      "summary": "Clash Win: gain 1 <sprite name=\"AttackDmgUp\"><color=#fac400>Tăng Sát Thương</color>",
+      "undefined": "-"
+    },
+    {
+      "id": "ThornyFall_Panic",
+      "name": "Gai Góc",
+      "desc": "     <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>\n    <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>   ",
+      "summary": "Thắng Giao Tranh: nhận 1 <sprite name=\"AttackDmgUp\"><color=#fac400>Tăng Sát Thương</color>",
+      "undefined": "-"
+    },
+    {
+      "id": "HonorableDuel_Don",
+      "name": "Cuộc Quyết Đấu Cao Thượng",
+      "desc": "      \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HonorableDuel_Knight",
+      "name": "Cuộc Quyết Đấu Cao Thượng",
+      "desc": "      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingPriestOne",
+      "name": "Héo Mòn",
+      "desc": "         \n      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodPriestServant_LowMorale",
+      "name": "Đói Khát",
+      "desc": "  \n     <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>\n       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodPriestServant_Panic",
+      "name": "Đói Khát",
+      "desc": "  \n     <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>\n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnstoppableFunny",
+      "name": "Niềm Vui Vô Tận",
+      "desc": " \n              \n    <sprite name=\"Laceration\"><color=#e30000> </color>            \n        <sprite name=\"FestivalFever\"><color=#fac400>   </color>   <sprite name=\"Agility\"><color=#fac400> </color>   \n     <sprite name=\"FestivalFever\"><color=#fac400>   </color>   <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>",
+      "summary": "Nhận 1 of each 3 E.G.O resources\nInflict +3 Tầng <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color>",
+      "undefined": "-"
+    }
+  ]
+}

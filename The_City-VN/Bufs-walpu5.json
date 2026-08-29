@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "Smoke",
+      "name": "Khói",
+      "desc": "    \n    \n        \n       \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Church_LowMorale",
+      "name": "Giáo Hội",
+      "desc": "  \n    <sprite name=\"Smoke\"><color=#e20000></color>   <sprite name=\"Smoke\"><color=#e20000></color>        \n     <sprite name=\"Vulnerable\"><color=#e20000> </color>  <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Endurance\"><color=#fac400>    </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Church_Panic",
+      "name": "Giáo Hội",
+      "desc": "  \n    <sprite name=\"Smoke\"><color=#e20000></color>   <sprite name=\"Smoke\"><color=#e20000></color>        \n     <sprite name=\"Vulnerable\"><color=#e20000> </color>  <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Endurance\"><color=#fac400>    </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeatGearForce",
+      "name": "Bánh Răng Thịt: Cưỡng Ép",
+      "desc": "            \n            ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AllSetForShooting",
+      "name": "Sẵn Sàng Khai Hỏa",
+      "desc": "    \n                    \n       <sprite name=\"Bullet\"><color=#9f6a3a></color>        \n      <sprite name=\"Bullet\"><color=#9f6a3a></color>        <sprite name=\"FreischutzShotCount\"><color=#9f6a3a> </color>         \n                                              ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

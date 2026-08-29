@@ -1,0 +1,219 @@
+{
+  "dataList": [
+    {
+      "id": 9233,
+      "name": "Bộ Đàm Hai Chiều Bị Nhiễu",
+      "desc": "Khi Dùng Kỹ Năng nhận hoặc tiêu [Bullet]: Nhận 1 [Agility] và 2 [AttackUp] vào lượt kế (một lần mỗi lượt mỗi Danh Tính)\n- Với Kỹ Năng gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng',  +(20 / Số Xu)% sát thương gây ra",
+      "simpleDesc": [
+        {
+          "abilityID": 9233,
+          "simpleDesc": "Nhận [Agility] and [AttackUp] vào lượt kế"
+        },
+        {
+          "abilityID": 92331,
+          "simpleDesc": "Deal more damage"
+        }
+      ]
+    },
+    {
+      "id": 9234,
+      "name": "Dây Chuyền Hình Mỏ Chim",
+      "desc": "Khi Dùng Kỹ Năng nhận hoặc tiêu [Bullet]: Nhận 1 [Agility] và 1 [Enhancement] vào lượt kế (một lần mỗi lượt mỗi Danh Tính)\n- Với Kỹ Năng gây Lượng, Tầng [Laceration], hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng',  +(20 / Số Xu)% sát thương gây ra",
+      "simpleDesc": [
+        {
+          "abilityID": 9234,
+          "simpleDesc": "Nhận [Agility] and [Enhancement] vào lượt kế"
+        },
+        {
+          "abilityID": 92341,
+          "simpleDesc": "Deal more damage"
+        }
+      ]
+    },
+    {
+      "id": 9235,
+      "name": "Desperado",
+      "desc": "Hiệu ứng của Quà Tặng E.G.O này được cường hóa dựa trên Số Danh Tính trong Đội Hình có Kỹ Năng Tấn Công nhận hoặc tiêu [Bullet] (không tính Kỹ Năng E.G.O; tính toàn bộ đồng minh có trong Đội)\n\n- Ở mốc 2+ Danh Tính:\nKhi Dùng Kỹ Năng nhận hoặc tiêu [Bullet]: Nhận 2 [Agility] và 4 [AttackUp] vào lượt kế (một lần mỗi Danh Tính mỗi lượt)\n\n- Ở mốc 5+ Danh Tính:\nKỹ Năng của Danh Tính nhận hoặc tiêu [Bullet]: Sức Mạnh Giao Tranh +1, +10% sát thương gây ra\nKỹ Năng nhận hoặc tiêu [Bullet]: +(100 / Số Xu)% sát thương gây ra\nNếu đơn vị hưởng hiệu ứng hết [Bullet], nhận 4 [Bullet] vào Đầu Lượt kế (một lần mỗi Danh Tính mỗi Ải)\n\n- Ở mốc 8+ Danh Tính:\nĐầu Lượt: Gán 1 [DesperadoBuff] cho Danh Tính nhận hoặc tiêu [Bullet]\n• Nếu đơn vị hưởng hiệu ứng không tiêu [Bullet] vào lượt trước, gán thêm 1 [DesperadoBuff]\nKết Chiến: gây (tổng toàn bộ [DesperadoBuff] trên đồng minh x 3) sát thương Đâm lên 1 kẻ địch ngẫu nhiên (tối đa 30)\n• Sau đó, lặp lại hiệu ứng trên (Số Danh Tính nhận hoặc tiêu [Bullet] - 1) lần",
+      "simpleDesc": [
+        {
+          "abilityID": 9235,
+          "simpleDesc": "Nhận [Agility] and [AttackUp] vào lượt kế"
+        },
+        {
+          "abilityID": 92351,
+          "simpleDesc": "Gain Clash Power and deal more damage"
+        },
+        {
+          "abilityID": 92352,
+          "simpleDesc": "Deal more damage"
+        },
+        {
+          "abilityID": 92353,
+          "simpleDesc": "Nhận [Bullet]"
+        },
+        {
+          "abilityID": 92354,
+          "simpleDesc": "Inflict [DesperadoBuff]. Inflict additional [DesperadoBuff] when conditions are met"
+        },
+        {
+          "abilityID": 92355,
+          "simpleDesc": "Deal Pierce damage to 1 random enemy"
+        }
+      ]
+    },
+    {
+      "id": 9236,
+      "name": "Harmonics",
+      "desc": "Khi một đồng minh hoặc kẻ địch chết trong một lượt, toàn bộ đơn vị nhận 1 [Vulnerable] vào lượt kế (một lần mỗi Đợt)\n- Trong lượt đó, nếu đồng minh Thắng Giao Tranh, toàn bộ đồng minh mất 1 [Vulnerable] và gây 4 [Laceration] kèm +2 Tầng [Laceration] lên toàn bộ kẻ địch (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9236,
+          "simpleDesc": "Nhận [Vulnerable] vào lượt kế"
+        },
+        {
+          "abilityID": 92361,
+          "simpleDesc": "Reduce [Vulnerable] Stack on all allies and inflict [Laceration] and Tầng [Laceration] against all enemies"
+        }
+      ]
+    },
+    {
+      "id": 19236,
+      "name": "Harmonics+",
+      "desc": "Khi một đồng minh hoặc kẻ địch chết trong một lượt, toàn bộ đơn vị nhận <style=\"upgradeHighlight\">2</style> [Vulnerable] vào lượt kế (một lần mỗi Đợt)\n- Trong lượt đó, nếu đồng minh Thắng Giao Tranh, toàn bộ đồng minh mất 1 [Vulnerable] và gây 4 [Laceration] kèm +2 Tầng [Laceration] lên toàn bộ kẻ địch (<style=\"upgradeHighlight\">2</style> lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 19236,
+          "simpleDesc": "Nhận [Vulnerable] vào lượt kế"
+        },
+        {
+          "abilityID": 192361,
+          "simpleDesc": "Reduce [Vulnerable] Stack on all allies and inflict [Laceration] and Tầng [Laceration] against all enemies"
+        }
+      ]
+    },
+    {
+      "id": 29236,
+      "name": "Harmonics++",
+      "desc": "Khi một đồng minh hoặc kẻ địch chết trong một lượt, toàn bộ đơn vị nhận <style=\"upgradeHighlight\">3</style> [Vulnerable] vào lượt kế (một lần mỗi Đợt)\n- Trong lượt đó, nếu đồng minh Thắng Giao Tranh, toàn bộ đồng minh mất 1 [Vulnerable] và gây 4 [Laceration] kèm +2 Tầng [Laceration] lên toàn bộ kẻ địch (<style=\"upgradeHighlight\">3</style> lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 29236,
+          "simpleDesc": "Nhận [Vulnerable] vào lượt kế"
+        },
+        {
+          "abilityID": 292361,
+          "simpleDesc": "Reduce [Vulnerable] Stack on all allies and inflict [Laceration] and Tầng [Laceration] against all enemies"
+        }
+      ]
+    },
+    {
+      "id": 9237,
+      "name": "Walking Bass",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 3]\n\nĐầu Lượt: Nhận 1 [TensionUp]\n\nĐánh Trúng, có 25% tỷ lệ gán 1 [TensionUp] cho chủ thể và 1 đồng minh ngẫu nhiên\n- Nếu là Kỹ Năng gây [Laceration] hoặc [Combustion] (bao gồm Lượng, Tầng, và biến thể Đặc Trưng), nâng tỷ lệ lên 50%",
+      "simpleDesc": [
+        {
+          "abilityID": 9237,
+          "simpleDesc": "Nhận [TensionUp]"
+        },
+        {
+          "abilityID": 92371,
+          "simpleDesc": "Apply [TensionUp] to self và 1 random ally"
+        }
+      ]
+    },
+    {
+      "id": 19237,
+      "name": "Walking Bass+",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 3, Số <style=\"upgradeHighlight\">4</style>]\n\nĐầu Lượt: Nhận 1 [TensionUp]\n\nĐánh Trúng, có 25% tỷ lệ gán 1 [TensionUp] cho chủ thể và 1 đồng minh ngẫu nhiên\n- Nếu là Kỹ Năng gây [Laceration] hoặc [Combustion] (bao gồm Lượng, Tầng, và biến thể Đặc Trưng), nâng tỷ lệ lên <style=\"upgradeHighlight\">75</style>%",
+      "simpleDesc": [
+        {
+          "abilityID": 19237,
+          "simpleDesc": "Nhận [TensionUp]"
+        },
+        {
+          "abilityID": 192371,
+          "simpleDesc": "Apply [TensionUp] to self và 1 random ally"
+        }
+      ]
+    },
+    {
+      "id": 29237,
+      "name": "Walking Bass++",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 3, Số 4]\n\nĐầu Lượt: Nhận 1 [TensionUp]\n\nĐánh Trúng, có 25% tỷ lệ gán 1 [TensionUp] cho chủ thể và <style=\"upgradeHighlight\">2</style> đồng minh ngẫu nhiên\n- Nếu là Kỹ Năng gây [Laceration] hoặc [Combustion] (bao gồm Lượng, Tầng, và biến thể Đặc Trưng), nâng tỷ lệ lên <style=\"upgradeHighlight\">100</style>%",
+      "simpleDesc": [
+        {
+          "abilityID": 29237,
+          "simpleDesc": "Nhận [TensionUp]"
+        },
+        {
+          "abilityID": 292371,
+          "simpleDesc": "Apply [TensionUp] to self và 2 random allies"
+        }
+      ]
+    },
+    {
+      "id": 9238,
+      "name": "Cánh Hoa Hồng",
+      "desc": "Khi một đồng minh Đánh Trúng bằng kỹ năng gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng', gây 1 [PinkPetals]\n\n- Gây thêm 1 [PinkPetals] với mỗi 5 [Sinking] trên kẻ địch (tối đa 4)",
+      "simpleDesc": [
+        {
+          "abilityID": 9238,
+          "simpleDesc": "Inflict [PinkPetals]"
+        }
+      ]
+    },
+    {
+      "id": 9239,
+      "name": "Bó Hoa Hồng",
+      "desc": "Đánh Trúng bằng Kỹ Năng Đâm lên một kẻ địch: Nhận 1 [Agility] và 1 [PenetrateDamageUp] vào lượt kế (2 lần mỗi lượt mỗi Danh Tính)\n- Khi Giết kẻ địch bằng Kỹ Năng đó: nhận thêm 1 [Agility] và 2 [PenetrateDamageUp] vào lượt kế (một lần mỗi lượt mỗi Danh Tính)\n\nKhi một đồng minh Đánh Trúng bằng kỹ năng gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng', gây 2 [PinkPetals]\n- Gây thêm 1 [PinkPetals] với mỗi 5 [Sinking] trên kẻ địch (tối đa 4)\n- Nếu kẻ địch có 10+ Lớp [PinkPetals], gây 2 [Vibration] khi Đánh Trúng (3 lần mỗi lượt)\n\nCuối Lượt: Gây 2 [Binding] và 3 [DefenseDown] vào lượt kế lên kẻ địch (với Dị Thể, lên Bộ Phận) có 5+ ([Sinking] + [Vibration])\n- Nếu mục tiêu có 10+ ([Sinking] + [Vibration]), đổi thành gây 2 [Binding], 1 [Paralysis], và 4 [DefenseDown]\n\nCuối Lượt: Nếu toàn bộ kẻ địch vẫn còn [PinkPetals], toàn bộ đồng minh nhận 1 [Enhancement] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9239,
+          "simpleDesc": "Nhận [Agility] and [PenetrateDamageUp] vào lượt kế"
+        },
+        {
+          "abilityID": 92391,
+          "simpleDesc": "Nhận 1 [Agility] và 2 [PenetrateDamageUp] vào lượt kế"
+        },
+        {
+          "abilityID": 92392,
+          "simpleDesc": "Inflict [PinkPetals]. Inflict [Vibration] when conditions are met"
+        },
+        {
+          "abilityID": 92393,
+          "simpleDesc": "Inflict [Binding] and [DefenseDown] vào lượt kế. Inflict [Binding], [Paralysis], and [DefenseDown] when conditions are met"
+        },
+        {
+          "abilityID": 92394,
+          "simpleDesc": "All allies nhận [Enhancement] vào lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 9240,
+      "name": "Nước Hoa Sữa Ong Chúa",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 6]\n\nĐầu Ải: Nhận [QueenBeepheromone]\n\n-15% sát thương phải nhận từ kẻ địch có [Combustion]\n\nCuối Lượt: Gây [QueenBeeMark] vào lượt kế lên kẻ địch (trong Ải Chuyên Sâu, lên Bộ Phận) gây nhiều sát thương nhất lên chủ thể\n- Nếu đồng minh không nhận bất kỳ sát thương nào từ kẻ địch, gây [QueenBeeMark] vào lượt kế lên 1 kẻ địch ngẫu nhiên (trong Ải Chuyên Sâu, lên Bộ Phận)",
+      "simpleDesc": [
+        {
+          "abilityID": 9240,
+          "simpleDesc": "Nhận [QueenBeepheromone]"
+        },
+        {
+          "abilityID": 92401,
+          "simpleDesc": "Inflict [QueenBeeMark]"
+        }
+      ]
+    },
+    {
+      "id": 9241,
+      "name": "Cà Phê Còn Ấm",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1]\n\nCuối Lượt sau khi dùng Kỹ Năng Tấn Công: Hồi 5 SP\n- Sau đó, nếu đơn vị hưởng hiệu ứng đạt HP tối đa và là một Danh Tính thuộc Tập Đoàn Lobotomy, nhận 1 [PlusCoinValueUp] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9241,
+          "simpleDesc": "Heal SP; nhận [PlusCoinValueUp] vào lượt kế if conditions are met"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1155 @@
+{
+  "dataList": [
+    {
+      "id": 2060411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkillHead] Hồi 10 HP cho 2 đồng minh có phần trăm HP thấp nhất"
+                },
+                {
+                  "desc": "[EndSkillTail] Hồi 10 SP cho 2 đồng minh có SP thấp nhất"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkillHead] Hồi <style=\"highlight\">12</style> HP cho 2 đồng minh có phần trăm HP thấp nhất"
+                },
+                {
+                  "desc": "[EndSkillTail] Hồi <style=\"highlight\">12</style> SP cho 2 đồng minh có SP thấp nhất"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalEndSkill] Hồi 6 HP cho 1 đồng minh có phần trăm HP thấp nhất; Hồi 6 SP cho đồng minh có SP thấp nhất</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkillHead] Hồi <style=\"highlight\">15</style> HP cho 2 đồng minh có phần trăm HP thấp nhất"
+                },
+                {
+                  "desc": "[EndSkillTail] Hồi <style=\"highlight\">15</style> SP cho 2 đồng minh có SP thấp nhất"
+                },
+                {
+                  "desc": "[CriticalEndSkill] Hồi <style=\"highlight\">8</style> HP cho 1 đồng minh có phần trăm HP thấp nhất; Hồi <style=\"highlight\">8</style> SP cho đồng minh có SP thấp nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify] Nhắm vào đơn vị có HP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify] Nhắm vào đơn vị có HP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify] Nhắm vào đơn vị có HP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Burst] bằng (Phàm Ăn Cộng Hưởng / 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "<style=\"highlight\">[BeforeAttack] Nếu HP ≤ 50%, +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Burst] bằng (Phàm Ăn Cộng Hưởng / 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [ShamrockTakeDamageUp] vào lượt kế"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [Binding] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "[BeforeAttack] Nếu HP ≤ 50%, +1 Phạm Vi Tấn Công;\n<style=\"highlight\">Nếu HP ≤ 25%, nhận +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Burst] bằng (Phàm Ăn Cộng Hưởng / 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [ShamrockTakeDamageUp] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây Tầng [Burst] bằng (Phàm Ăn Cộng Hưởng / 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 20% lượng sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "[CantIdentify]\nNhắm vào đơn vị có HP thấp nhất\n<style=\"highlight\">[BeforeAttack] Nếu HP ≤ 50%, +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây Tầng [Burst] bằng (Phàm Ăn Cộng Hưởng / 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng <style=\"highlight\">30%</style> lượng sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ăn Mòn Sục Sôi",
+          "abName": "Trai Ung Dung",
+          "desc": "[CantIdentify]\nMục tiêu đơn vị có HP thấp nhất\n[BeforeAttack] Nếu HP ≤ 50%, +1 Phạm Vi Tấn Công\n<style=\"highlight\">Nếu HP ≤ 25%, +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây Tầng [Burst] bằng (Phàm Ăn Cộng Hưởng / 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng <style=\"highlight\">50%</style> lượng sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "Nếu mục tiêu có [Vibration], +(([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "Nếu mục tiêu có [Vibration], +(([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa <style=\"highlight\">25%</style>)\n<style=\"highlight\">- Ở mốc 4+ Cộng Hưởng cao nhất, đổi thành +(5 + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa 35%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và <style=\"highlight\">+2 Tầng [Vibration]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "Nếu mục tiêu có [Vibration], +(<style=\"highlight\">5 +</style> ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa <style=\"highlight\">30%</style>)\n- Ở mốc 4+ Cộng Hưởng cao nhất, đổi thành +(<style=\"highlight\">7.5 +</style> ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / <style=\"highlight\">1.5</style>)% sát thương gây ra (tối đa <style=\"highlight\">40%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và <style=\"highlight\">+3</style> Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu mục tiêu có [Vibration], +(([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa 25%)\n- Ở mốc 4+ Cộng Hưởng cao nhất, nâng giới hạn trên lên (tối đa 35%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu mục tiêu có [Vibration], +(([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa <style=\"highlight\">30%</style>)\n- Ở mốc 4+ Cộng Hưởng cao nhất, <style=\"highlight\">đổi thành +(5 + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa 40%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +3 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kêu Khóc Đáy Hang",
+          "abName": "Cóc Khóc Lóc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu mục tiêu có [Vibration], +(<style=\"highlight\">5</style> + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa <style=\"highlight\">40%</style>)\n- Ở mốc 4+ Cộng Hưởng cao nhất, đổi thành +(<style=\"highlight\">7.5</style> + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / <style=\"highlight\">1.5</style>)% sát thương gây ra (tối đa <style=\"highlight\">50%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Vibration] và <style=\"highlight\">+6</style> Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "Sức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Snare]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst] với mỗi 2 Phàm Ăn Cộng Hưởng (tối đa 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "<style=\"highlight\">Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1</style>\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n<style=\"highlight\">[BeforeAttack] Nhận 2 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst] với mỗi 2 Phàm Ăn Cộng Hưởng (tối đa 3)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây ngẫu nhiên [Laceration] bằng (Tốc Độ của chủ thể / 2) lên toàn bộ mục tiêu (tối đa 3)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây ngẫu nhiên [Burst] bằng (Tốc Độ của chủ thể / 2) lên toàn bộ mục tiêu (tối đa 3)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nhận 2 [Agility] vào lượt kế<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [TakeHpHealReduce] vào lượt kế</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst] với mỗi 2 Phàm Ăn Cộng Hưởng (tối đa 3)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây ngẫu nhiên [Laceration] bằng Tốc Độ của chủ thể lên toàn bộ mục tiêu (tối đa 7)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây ngẫu nhiên [Burst] bằng Tốc Độ của chủ thể lên toàn bộ mục tiêu (tối đa 7)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Snare]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1% sát thương gây ra với mỗi [Laceration] trên mục tiêu (tối đa 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] +1% sát thương gây ra với mỗi [Burst] trên mục tiêu (tối đa 20%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1</style>\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n<style=\"highlight\">[BeforeAttack] Nhận 2 [Agility] vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1% sát thương gây ra với mỗi [Laceration] trên mục tiêu <style=\"highlight\">(tối đa 30%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] +1% sát thương gây ra với mỗi [Burst] trên mục tiêu <style=\"highlight\">(tối đa 30%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thòng Lọng Gai",
+          "abName": "Thợ Săn Hoa Hồng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nhận 2 [Agility] vào lượt kế\n<style=\"highlight\">[BeforeAttack] Ở mốc 4+ Phàm Ăn Cộng Hưởng hoặc Dục Vọng, +1 Phạm Vi Tấn Công</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 3 [TakeHpHealReduce] vào lượt kế</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +1% sát thương gây ra với mỗi [Laceration] trên mục tiêu (tối đa 30%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] +1% sát thương gây ra với mỗi [Burst] trên mục tiêu (tối đa 30%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ô Huyết Khấp Lệ - Thủy [始]",
+          "abName": "Ứng Long",
+          "desc": "[CantDuel]\nBỏ qua Kỹ Năng Phòng thủ của mục tiêu\nKỹ Năng này không tác động lên kẻ địch\n[EndSkill] Nhận [DragonLance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Chủ thể nhận sát thương cố định bằng Sức Mạnh Tổng của Kỹ Năng này\n- Sát thương này không Làm Choáng hoặc làm HP của chủ thể xuống dưới 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ô Huyết Khấp Lệ - Thủy [始]",
+          "abName": "Ứng Long",
+          "desc": "[CantDuel]\nBỏ qua Kỹ Năng Phòng thủ của mục tiêu\nKỹ Năng này không tác động lên kẻ địch\n[EndSkill] Nhận [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Chủ thể nhận sát thương cố định bằng Sức Mạnh Tổng của Kỹ Năng này\n- Sát thương này không Làm Choáng hoặc làm HP của chủ thể xuống dưới 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ô Huyết Khấp Lệ - Thủy [始]",
+          "abName": "Ứng Long",
+          "desc": "[CantDuel]\nBỏ qua Kỹ Năng Phòng thủ của mục tiêu\nKỹ Năng này không tác động lên kẻ địch\n[EndSkill] Nhận [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Chủ thể nhận sát thương cố định bằng Sức Mạnh Tổng của Kỹ Năng này\n- Sát thương này không Làm Choáng hoặc làm HP của chủ thể xuống dưới 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060812,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ô Huyết Khấp Lệ - Chung [終]",
+          "abName": "Ứng Long",
+          "desc": "Kỹ năng này không tiêu thụ Tài Nguyên E.G.O\n[CantDuel]\n+2% sát thương gây ra với mỗi [DragonLance] trên chủ thể (tối đa 6%)\n+4% sát thương gây ra với mỗi [CondensedBlood] trên chủ thể (tối đa 20%)\n[WhenUse] Nếu mục tiêu chính có 5+ [Burst], Sức Mạnh Xu +1\n[WhenUse] Ở mốc 3+ [CondensedBlood], +1 Phạm Vi Tấn Công và Sức Mạnh Gốc +1\n[EndSkill] Xóa [DragonLance] và [CondensedBlood] khỏi chủ thể, sau đó chết",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ô Huyết Khấp Lệ - Chung [終]",
+          "abName": "Ứng Long",
+          "desc": "Kỹ năng này không tiêu thụ Tài Nguyên E.G.O\n[CantDuel]\n<style=\"highlight\">+3%</style> sát thương gây ra với mỗi [DragonLance] trên chủ thể (tối đa <style=\"highlight\">9%</style>)\n<style=\"highlight\">+6%</style> sát thương gây ra với mỗi [CondensedBlood] trên chủ thể (tối đa <style=\"highlight\">30%</style>)\n<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Burst] trên mục tiêu chính (tối đa 2)</style>\n[WhenUse] Ở mốc 3+ [CondensedBlood], +1 Phạm Vi Tấn Công và Sức Mạnh Gốc +1\n<style=\"highlight\">- Ở mốc 4+ [CondensedBlood], đổi thành Phạm Vi Tấn Công +2 và Sức Mạnh Gốc +2</style>\n[EndSkill] Xóa [DragonLance] và [CondensedBlood] khỏi chủ thể, sau đó chết",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ô Huyết Khấp Lệ - Chung [終]",
+          "abName": "Ứng Long",
+          "desc": "Kỹ năng này không tiêu Tài Nguyên E.G.O\n[CantDuel]\n+3% sát thương gây ra với mỗi [DragonLance] trên chủ thể (tối đa 9%)\n+6% sát thương gây ra với mỗi [CondensedBlood] trên chủ thể (tối đa 30%)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Burst] trên mục tiêu chính (tối đa <style=\"highlight\">3</style>)\n[WhenUse] Ở mốc 3+ [CondensedBlood], +1 Phạm Vi Tấn Công và Sức Mạnh Gốc +1\n- Ở mốc 4+ [CondensedBlood], đổi thành Phạm Vi Tấn Công +2 và Sức Mạnh Gốc +2\n<style=\"highlight\">- Ở mốc 5+ [CondensedBlood], đổi thành Phạm Vi Tấn Công +3 và Sức Mạnh Gốc +3</style>\n[EndSkill] Xóa [DragonLance] và [CondensedBlood] khỏi chủ thể, sau đó chết",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ô Huyết Khấp Lệ - Thủy [始]",
+          "abName": "Ứng Long",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, +1 Phạm Vi Tấn Công\n[BeforeAttack] -2 Sức Mạnh Gốc với mỗi Xu Nứt (tối đa -8)\n[EndSkill] Nhận [DragonLance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ô Huyết Khấp Lệ - Thủy [始]",
+          "abName": "Ứng Long",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, +1 Phạm Vi Tấn Công\n[BeforeAttack] -2 Sức Mạnh Gốc với mỗi Xu Nứt (tối đa -8)\n[EndSkill] Nhận [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ô Huyết Khấp Lệ - Thủy [始]",
+          "abName": "Ứng Long",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, +1 Phạm Vi Tấn Công\n<style=\"highlight\">- Ở mốc 6+ Cộng Hưởng cao nhất, đổi thành Phạm Vi Tấn Công +2</style>\n[BeforeAttack] -2 Sức Mạnh Gốc với mỗi Xu Nứt (tối đa -8)\n[EndSkill] Nhận [DragonLance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ninh Tác Ngô [宁作吾]",
+          "abName": "Ling",
+          "desc": "[WhenUse] Nhận 2 [Breath]\n[BeforeAttack] Ở mốc 5+ (Lượng [Breath] + Tầng [Breath]), Sức Mạnh Tổng +1\n[BeforeAttack] Nếu chủ thể có [Cianjing], +15% sát thương gây ra\n[BeforeAttack] Nếu chủ thể có [SeniorCianjing], +27% sát thương gây ra\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu chủ thể có [Cianjing], +(Lượng [Breath] / 2)% sát thương gây ra khi Trí Mạng (tối đa 15%)"
+                },
+                {
+                  "desc": "Nếu chủ thể có [SeniorCianjing], +((Lượng [Breath] + Tầng [Breath]) / 2)% sát thương gây ra khi Trí Mạng (tối đa 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ninh Tác Ngô [宁作吾]",
+          "abName": "Ling",
+          "desc": "[WhenUse] Nhận <style=\"highlight\">3</style> [Breath]\n[BeforeAttack] <style=\"highlight\">Sức Mạnh Tổng +1 với mỗi 5 (Lượng [Breath] + Tầng [Breath]) (tối đa 2)</style>\n[BeforeAttack] Nếu chủ thể có [Cianjing], nhận <style=\"highlight\">+1 Phạm Vi Tấn Công</style> và +15% sát thương gây ra\n[BeforeAttack] Nếu chủ thể có [SeniorCianjing], nhận <style=\"highlight\">+2 Phạm Vi Tấn Công</style> và +27% sát thương gây ra\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu chủ thể có [Cianjing], +(Lượng [Breath] / 2)% sát thương gây ra khi Trí Mạng (tối đa <style=\"highlight\">20</style>%)"
+                },
+                {
+                  "desc": "Nếu chủ thể có [SeniorCianjing], +((Lượng [Breath] + Tầng [Breath]) / 2)% sát thương gây ra khi Trí Mạng (tối đa <style=\"highlight\">40</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ninh Tác Ngô [宁作吾]",
+          "abName": "Ling",
+          "desc": "[WhenUse] Nhận <style=\"highlight\">4</style> [Breath]\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 5 (Lượng [Breath] + Tầng [Breath]) (tối đa <style=\"highlight\">3</style>)\n<style=\"highlight\">[BeforeAttack] Nếu chủ thể không có [Cianjing] hoặc [SeniorCianjing], hoàn trả một nửa số tài nguyên E.G.O và lượng SP mà Kỹ Năng này đã tiêu thụ (làm tròn xuống; hiệu ứng này áp dụng cả cho Kỹ Năng Ăn Mòn cũng như kích hoạt do khả năng bị \"Ăn Mòn\" khi sử dụng Kỹ Năng Thức Tỉnh)</style>\n[BeforeAttack] Nếu chủ thể có [Cianjing], nhận +1 Phạm Vi Tấn Công và +<style=\"highlight\">25</style>% sát thương gây ra\n[BeforeAttack] Nếu chủ thể có [SeniorCianjing], nhận +2 Phạm Vi Tấn Công và +<style=\"highlight\">45</style>% sát thương gây ra\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu chủ thể có [Cianjing], +(Lượng [Breath])% sát thương gây ra khi Trí Mạng (tối đa 20%)"
+                },
+                {
+                  "desc": "Nếu chủ thể có [SeniorCianjing], +(Lượng [Breath] + Tầng [Breath])% sát thương gây ra khi Trí Mạng (tối đa 40%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ninh Tác Ngô [宁作吾]",
+          "abName": "Ling",
+          "desc": "[CantIdentify]\nNhắm vào mục tiêu ngẫu nhiên\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]\n[BeforeAttack] Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], Sức Mạnh Xu +1\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng 10% lượng sát thương gây ra (tối đa 10)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng 15% lượng sát thương gây ra (tối đa 15)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Nếu chủ thể có [Cianjing], +(Lượng [Breath] / 2)% sát thương gây ra khi Trí Mạng (tối đa 20%)"
+                },
+                {
+                  "desc": "Nếu chủ thể có [SeniorCianjing], +((Lượng [Breath] + Tầng [Breath]) / 2)% sát thương gây ra khi Trí Mạng (tối đa 40%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng 25% lượng sát thương gây ra (tối đa 25)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ninh Tác Ngô [宁作吾]",
+          "abName": "Ling",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Nhận <style=\"highlight\">3</style> [Breath] và +<style=\"highlight\">3</style> Tầng [Breath]\n[BeforeAttack] Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], <style=\"highlight\">nhận +1 Phạm Vi Tấn Công, Sức Mạnh Gốc +1</style>, và Sức Mạnh Xu +1\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng 10% lượng sát thương gây ra (tối đa 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng 15% lượng sát thương gây ra (tối đa 15)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Nếu chủ thể có [Cianjing], +(Lượng [Breath] / 2)% sát thương gây ra khi Trí Mạng (tối đa <style=\"highlight\">30</style>%)"
+                },
+                {
+                  "desc": "Nếu chủ thể có [SeniorCianjing], +((Lượng [Breath] + Tầng [Breath]) / 2)% sát thương gây ra khi Trí Mạng (tối đa <style=\"highlight\">60</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng 25% sát thương gây ra (tối đa 25)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ninh Tác Ngô [宁作吾]",
+          "abName": "Ling",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Nhận <style=\"highlight\">4</style> [Breath] và +<style=\"highlight\">4</style> Tầng [Breath]\n[BeforeAttack] Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], nhận +<style=\"highlight\">2</style> Phạm Vi Tấn Công, Sức Mạnh Gốc +<style=\"highlight\">2</style>, và Sức Mạnh Xu +<style=\"highlight\">2</style>\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng 10% sát thương gây ra (tối đa 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng 15% sát thương gây ra (tối đa 15)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Nếu chủ thể có [Cianjing], +(<style=\"highlight\">Lượng [Breath]</style>)% sát thương gây ra khi Trí Mạng (tối đa 30%)"
+                },
+                {
+                  "desc": "Nếu chủ thể có [SeniorCianjing], +(<style=\"highlight\">Lượng [Breath]</style> + Tầng [Breath])% sát thương gây ra khi Trí Mạng (tối đa 60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking] <style=\"highlight\">và +2 Tầng [Sinking]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng 25% sát thương gây ra (tối đa 25)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

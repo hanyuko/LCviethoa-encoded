@@ -1,0 +1,652 @@
+{
+  "dataList": [
+    {
+      "id": 9209,
+      "name": "Gửi Bạn, Người Yêu Thành Phố",
+      "desc": "Nếu HP của một đồng minh còn dưới 30% khi bị đánh trúng, đồng minh đó hồi 80% HP và những đồng minh khác hồi 40% HP vào lượt kế (một lần mỗi Ải)\n- Lượng hồi phục vượt ngưỡng HP tối đa sẽ chuyển thành Khiên\n- Nếu một đồng minh hồi 50+ HP nhờ hiệu ứng trên,\nnhận 3 [AttackUp] và 3 [DefenseDown]",
+      "simpleDesc": [
+        {
+          "abilityID": 9209,
+          "simpleDesc": "Heal HP"
+        }
+      ]
+    },
+    {
+      "id": 9210,
+      "name": "Búa Đập Thịt",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 4]\n\nNếu chủ thể có 2+ Kỹ Năng Tấn Công loại Đập, nhận 1 [ParryingResultUp] vào Đầu Lượt",
+      "simpleDesc": [
+        {
+          "abilityID": 9210,
+          "simpleDesc": "Nhận [ParryingResultUp]"
+        }
+      ]
+    },
+    {
+      "id": 19210,
+      "name": "Búa Đập Thịt+",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 4]\n\nNếu chủ thể có 2+ Kỹ Năng Tấn Công loại Đập, nhận <style=\"upgradeHighlight\">2</style> [ParryingResultUp] vào Đầu Lượt",
+      "simpleDesc": [
+        {
+          "abilityID": 19210,
+          "simpleDesc": "Nhận [ParryingResultUp]"
+        }
+      ]
+    },
+    {
+      "id": 29210,
+      "name": "Búa Đập Thịt++",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 4, <style=\"upgradeHighlight\">Số 5</style>]\n\nNếu chủ thể có 2+ Kỹ Năng Tấn Công loại Đập, nhận 2 [ParryingResultUp] vào Đầu Lượt",
+      "simpleDesc": [
+        {
+          "abilityID": 29210,
+          "simpleDesc": "Nhận [ParryingResultUp]"
+        }
+      ]
+    },
+    {
+      "id": 9207,
+      "name": "Vận May & Lựa Chọn",
+      "desc": "Kỹ Năng E.G.O ở Ô trái nhất có tỷ lệ ngẫu nhiên -50% sát thương gây ra hoặc +150% sát thương gây ra (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9207,
+          "simpleDesc": "E.G.O Skills deal more(or less) damage"
+        }
+      ]
+    },
+    {
+      "id": 9208,
+      "name": "Số Phận Ràng Buộc",
+      "desc": "Khởi Chiến: Ở mốc 7+ Cộng Hưởng Tuyệt Đối, toàn bộ đồng minh nhận Sức Mạnh Tổng +5 trong lượt này (một lần mỗi Ải)",
+      "simpleDesc": [
+        {
+          "abilityID": 9208,
+          "simpleDesc": "Gain Final Power"
+        }
+      ]
+    },
+    {
+      "id": 9211,
+      "name": "Mây Vũ Tích",
+      "desc": "Đầu Lượt: Ở 30+ tổng Lượng và Tầng [Sinking] trên toàn bộ kẻ địch, kích hoạt các hiệu ứng sau:\n\n- Kỹ Năng gây Lượng hoặc Tầng [Sinking]: Sức Mạnh Tổng +1 (tính cả '<noparse>Sa Lầy</noparse> Đặc Trưng'; không tính Kỹ Năng E.G.O)\n\n- Khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng' ≥  6, Kỹ Năng gây Lượng hoặc Tầng [Sinking] +20% sát thương gây ra (tính cả '<noparse>Sa Lầy</noparse> Đặc Trưng' và Đơn Vị Dự Bị; không tính Kỹ Năng E.G.O)\n · Nếu mục tiêu đang ở -45 SP, thêm +10% sát thương gây ra\n\n- Khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng' ≥  10, Kỹ Năng Xu Dương gây Lượng hoặc Tầng [Sinking] nhận Sức Mạnh Xu +1 (tính cả '<noparse>Sa Lầy</noparse> Đặc Trưng' và Đơn Vị Dự Bị; không tính Kỹ Năng E.G.O)\n · Kỹ Năng Xu Âm: Thay vì nhận Sức Mạnh Xu, nhận Sức Mạnh Gốc +(4 / Số Xu) (tối thiểu 1; làm tròn xuống)",
+      "simpleDesc": [
+        {
+          "abilityID": 9211,
+          "simpleDesc": "Sinking Skills nhận Sức Mạnh Tổng"
+        },
+        {
+          "abilityID": 92111,
+          "simpleDesc": "Sinking Skills deal more damage"
+        },
+        {
+          "abilityID": 92112,
+          "simpleDesc": "Sinking Skills gain Coin/Base Power"
+        }
+      ]
+    },
+    {
+      "id": 9212,
+      "name": "Hồi Kết Của Mọi Cái Ác",
+      "desc": "Kích hoạt khi Số Danh Tính thuộc Đội Thuyền Pequod ≥ 3 (tính cả đơn vị Dự Bị)\n\nĐánh Trúng bằng Kỹ Năng Tấn Công lên kẻ địch có [Laceration] hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng': Nhận 3 [Breath] hoặc +2 Tầng [Breath] (3 lần mỗi lượt mỗi Danh Tính)\n\nTrí Mạng: có 80% tỷ lệ nhận 1 [PenetrateResultUp] vào lượt kế (2 lần mỗi lượt mỗi Danh Tính; tính cả Kỹ Năng E.G.O và Phản Đòn)\n- Danh Tính thuộc Đội Thuyền Pequod nhận thêm 1 [PlusCoinValueUp] vào lượt kế (một lần mỗi lượt mỗi Danh Tính)\n\nKhi Trí Mạng - Xu Ngửa với một Kỹ Năng Cơ Bản: Gây thêm +1 hiệu ứng xấu với Xu đó (một lần mỗi lượt mỗi Danh Tính; tính cả Kỹ Năng Phản Đòn và không tính Kỹ Năng E.G.O)\n\nKhi kẻ địch hoặc đồng minh chết, Danh Tính thuộc Đội Thuyền Pequod nhận 1 [PenetrateResultUp], 1 [Protection], và 1 [CriticalDamageUp] mỗi lượt cho tới hết Ải (3 lần mỗi Ải)\n\nNếu một Danh Tính thuộc Đội Thuyền Pequod tấn công và đánh trúng kẻ địch, hồi 7 SP cho Danh Tính thuộc Đội Thuyền Pequod ở vị trí Triển Khai sớm nhất (một lần mỗi Kỹ Năng)\n\nKhi một đồng minh giết một kẻ địch, hồi 15 SP cho Danh Tính thuộc Đội Thuyền Pequod ở vị trí Triển Khai sớm nhất nếu họ mất SP",
+      "simpleDesc": [
+        {
+          "abilityID": 9212,
+          "simpleDesc": "Gain Poise"
+        },
+        {
+          "abilityID": 92121,
+          "simpleDesc": "On Crit: Chance to nhận [PenetrateResultUp] vào lượt kế; nhận [PlusCoinValueUp] and increase the amount of negative effect inflicted when conditions are met"
+        },
+        {
+          "abilityID": 92122,
+          "simpleDesc": "Nhận [PenetrateResultUp], [Protection], and [CriticalDamageUp]"
+        },
+        {
+          "abilityID": 92123,
+          "simpleDesc": "Heal SP"
+        }
+      ]
+    },
+    {
+      "id": 9213,
+      "name": "Vòng Đu Quay Thu Nhỏ",
+      "desc": "Với toàn bộ đồng minh Huyết Quỷ: Sức Mạnh Xu của Kỹ Năng Cơ Bản +1, +([BloodDinner_Accumulation] / 10)% sát thương Kỹ Năng gây ra\n\nCuối Lượt: Trong số đồng minh có [Laceration], 2 đồng minh có HP thấp nhất hồi 5% HP và nhận 10 [SwirlingBloodPersonality] vào Đầu Lượt kế\n\nKhi Giết kẻ địch, tăng thêm (HP tối đa của phần Lõi kẻ địch / 10) [BloodDinner] (tối đa 50)\n\nCuối Lượt: Nếu một đồng minh chết vào lượt này, toàn bộ đồng minh nhận 2 [Enhancement] vào lượt kế\n\nTrong Ải có xuất hiện kẻ địch dự bị: Khi kẻ địch mới xuất hiện, gây 5 [Laceration] và +3 Tầng [Laceration] lên chúng lúc Khởi Chiến\nNếu trong số đồng minh có <Huyết Quỷ>: Khi kẻ địch mới vào sân, kích hoạt [Laceration] trên toàn bộ kẻ địch 2 lần và giảm 2 Tầng [Laceration] trên chúng",
+      "simpleDesc": [
+        {
+          "abilityID": 9213,
+          "simpleDesc": "Gain Base Skill Coin Power"
+        },
+        {
+          "abilityID": 92131,
+          "simpleDesc": "Heal HP and nhận [SwirlingBloodPersonality]"
+        },
+        {
+          "abilityID": 92132,
+          "simpleDesc": "Gain Attack Power Up"
+        },
+        {
+          "abilityID": 92133,
+          "simpleDesc": "Inflict Bleed Potency and Count"
+        }
+      ]
+    },
+    {
+      "id": 9214,
+      "name": "Búa Thiêu Đốt",
+      "desc": "Nếu kẻ địch có [VibrationIgnition], kích hoạt các hiệu ứng sau:\n- Đánh Trúng bằng Kỹ Năng Cơ Bản, gây 1 [Combustion] (3 lần mỗi Kỹ Năng)\n- Đánh Trúng bằng Kỹ Năng Cơ Bản, nếu kẻ địch có 15+ [VibrationIgnition], gây +1 Tầng [Combustion] (2 lần mỗi Kỹ Năng)\n- Với mỗi 3 [Combustion], +1% hiệu lực nâng Ngưỡng Choáng từ [VibrationExplosion] (tối đa 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9214,
+          "simpleDesc": "Inflict Burn"
+        },
+        {
+          "abilityID": 92141,
+          "simpleDesc": "Tremor Burst increases Stagger threshold further"
+        }
+      ]
+    },
+    {
+      "id": 9215,
+      "name": "Cà Vạt Đỏ",
+      "desc": "Kỹ Năng 3 có gây Lượng, Tầng [Combustion], hoặc '<noparse>Thiêu Đốt</noparse> Đặc Trưng': Sức Mạnh Giao Tranh +2 và +30% sát thương gây ra",
+      "simpleDesc": [
+        {
+          "abilityID": 9215,
+          "simpleDesc": "Gain Clash Power and deal more damage"
+        }
+      ]
+    },
+    {
+      "id": 9216,
+      "name": "Đồng Phục Của Hiệp Hội Liu",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Combustion], hoặc '<noparse>Thiêu Đốt</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n \nDanh Tính thuộc Liên Đoàn Liu: Kỹ Năng Tấn Công Cơ Bản nhận Sức Mạnh Xu Dương +2 (Kỹ Năng Xu Âm nhận Sức Mạnh Gốc +(8 / Số Xu) (tối thiểu 1; làm tròn xuống))\n\nKỹ Năng Không phải Kỹ Năng 3 (tính cả Kỹ Năng E.G.O) gây Lượng, Tầng [Combustion], hoặc '<noparse>Thiêu Đốt</noparse> Đặc Trưng' +20% sát thương gây ra\n\nKỹ Năng 3 gây Lượng, Tầng [Combustion], hoặc '<noparse>Thiêu Đốt</noparse> Đặc Trưng' nhận Sức Mạnh Xu Dương +1 (Kỹ Năng Xu Âm nhận Sức Mạnh Gốc +(4 / Số Xu) (tối thiểu 1; làm tròn xuống)) và +30% sát thương gây ra\n- Danh Tính thuộc một phe phái +5% sát thương gây ra với mỗi Danh Tính cùng phe trong Đội Hình (tối đa 20%; tính cả Đơn Vị Dự Bị)\n\nCuối Lượt: 2 đồng minh có SP thấp nhất hồi 8 SP\n- Nếu đồng minh hưởng hiệu ứng có SP ≤ 0, hồi thêm 5 SP",
+      "simpleDesc": [
+        {
+          "abilityID": 9216,
+          "simpleDesc": "Gain Skill Power and deal more damage"
+        }
+      ]
+    },
+    {
+      "id": 9217,
+      "name": "Máy Nhắn Của Ai Đó",
+      "desc": "Kết Đòn: Nếu [IndexPrescriptTargetToEnemy] bị giết, Danh Tính tấn công và giết  [IndexPrescriptTargetToEnemy] nhận 1 [AzureResultUp] vào lượt kế; gây +3 Tầng [Sinking] lên 1 kẻ địch còn sống ngẫu nhiên (một lần mỗi lượt)\n- Nếu đơn vị giết [IndexPrescriptTargetToEnemy] thuộc Băng Ngón Trỏ, nhận 1 [Enhancement] thay vì [AzureResultUp] vào lượt kế (một lần mỗi lượt)\n\nCuối Lượt: Đơn vị thuộc Băng Ngón Trỏ nhận (Lớp [KarmaOfIndexAlly] trên chủ thể)% sát thương HP.\n(Hiệu ứng này không Làm Choáng; lượng sát thương này không giảm HP của đồng minh xuống dưới 20%)\nSau đó, Danh Tính nhận sát thương từ hiệu ứng trên nhận (Lớp [KarmaOfIndexAlly] trên chủ thể / 5) [ResultEnhancement] vào lượt kế (tối đa 2)",
+      "simpleDesc": [
+        {
+          "abilityID": 9217,
+          "simpleDesc": "Gain Gloom Power Up. The Index Identities gain Attack Power Up instead"
+        },
+        {
+          "abilityID": 92171,
+          "simpleDesc": "The Index Identities take damage and gain Power Up next turn"
+        }
+      ]
+    },
+    {
+      "id": 9218,
+      "name": "Thiên Ý Của Sắc Lệnh",
+      "desc": "Danh Tính gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng', nhận 3 [Breath] hoặc +2 Tầng [Breath] vào Đầu Lượt (một lần mỗi lượt mỗi Danh Tính)\n\nTrong Ải, nếu một Danh Tính đã nhận [Breath] 3 lần từ hiệu ứng trên, kể từ lượt sau đó, Tội Nhân ấy +30% sát thương gây ra khi Trí Mạng",
+      "simpleDesc": [
+        {
+          "abilityID": 9218,
+          "simpleDesc": "Gain Poise Potency and Count"
+        },
+        {
+          "abilityID": 92181,
+          "simpleDesc": "Deal more Sát Thương gây ra khi Trí Mạng"
+        }
+      ]
+    },
+    {
+      "id": 9219,
+      "name": "Dụng Cụ Đa Năng",
+      "desc": "Khi các Kỹ Năng có cùng Loại Tấn Công đánh trúng một kẻ địch 12 lần, kẻ địch đó nhận +0.1 Kháng Loại Tấn Công đó (3 lần mỗi Ải mỗi kẻ địch hoặc Bộ Phận của Dị Thể; hiệu ứng này không thể nâng giá trị Kháng lên quá 2.0)",
+      "simpleDesc": [
+        {
+          "abilityID": 9219,
+          "simpleDesc": "Target becomes more vulnerable to an Attack Type"
+        }
+      ]
+    },
+    {
+      "id": 19219,
+      "name": "Dụng Cụ Đa Năng+",
+      "desc": "Khi các Kỹ Năng có cùng Loại Tấn Công đánh trúng một kẻ địch <style=\"upgradeHighlight\">9 lần</style>, kẻ địch đó nhận +0.1 Kháng Loại Tấn Công đó (3 lần mỗi Ải mỗi kẻ địch hoặc Bộ Phận của Dị Thể; hiệu ứng này không thể nâng giá trị Kháng lên quá 2.0)",
+      "simpleDesc": [
+        {
+          "abilityID": 19219,
+          "simpleDesc": "Target becomes more vulnerable to an Attack Type"
+        }
+      ]
+    },
+    {
+      "id": 29219,
+      "name": "Dụng Cụ Đa Năng++",
+      "desc": "Khi các Kỹ Năng có cùng Loại Tấn Công đánh trúng một kẻ địch <style=\"upgradeHighlight\">6 lần</style>, kẻ địch đó nhận +0.1 Kháng Loại Tấn Công đó (3 lần mỗi Ải mỗi kẻ địch hoặc Bộ Phận của Dị Thể; hiệu ứng này không thể nâng giá trị Kháng lên quá 2.0)",
+      "simpleDesc": [
+        {
+          "abilityID": 29219,
+          "simpleDesc": "Target becomes more vulnerable to an Attack Type"
+        }
+      ]
+    },
+    {
+      "id": 9220,
+      "name": "Tạp Chí Fixer Bị Đánh Cắp",
+      "desc": "Đầu Lượt: Nhận 1 [HitResultUp]\n\nKhởi Chiến: Nhận 1 [HitDamageUp] nếu Đố Kỵ Cộng Hưởng Tuyệt Đối được kích hoạt\n\nĐầu Ải: Nếu Số Danh Tính trên sân thuộc Băng Ngón Giữa ≥ 4, gây [RetaliationBook] lên một kẻ địch ngẫu nhiên",
+      "simpleDesc": [
+        {
+          "abilityID": 9220,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9221,
+      "name": "Binh Khí Nhiệt Năng",
+      "desc": "Đánh Trúng bằng Kỹ Năng Đố Kỵ hoặc Phản Đòn, gây +1 Tầng [Laceration] hoặc +1 Tầng [Combustion] (3 lần mỗi lượt)\n\nKhi số Tầng [Laceration] trên một kẻ địch giảm xuống dưới 1 trong lúc giao chiến, giảm Tầng [Combustion] thay thế nếu kẻ địch có 2+ Tầng [Combustion] (3 lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9221,
+          "simpleDesc": "Inflict Bleed Count and Burn Count"
+        },
+        {
+          "abilityID": 92211,
+          "simpleDesc": "Reduce Burn Count"
+        }
+      ]
+    },
+    {
+      "id": 9222,
+      "name": "Tấm Toan Trắng Tinh",
+      "desc": "Đánh Trúng một kẻ địch có 15+ [Laceration] bằng Kỹ Năng Xu Dương, hồi 3 SP (một lần mỗi lượt với mỗi Danh Tính)\n- Nếu Danh Tính hoặc kẻ địch trên có số loại hiệu ứng xấu ≥ 3, đổi thành hồi 6 SP",
+      "simpleDesc": [
+        {
+          "abilityID": 9222,
+          "simpleDesc": "Heal SP"
+        }
+      ]
+    },
+    {
+      "id": 9223,
+      "name": "Tác Phẩm Bình Thường",
+      "desc": "Danh Tính thuộc Băng Ngón Nhẫn nhận [Inspire]\n\nNếu Danh Tính thuộc Băng Ngón Nhẫn có [Inspire] đánh trúng một kẻ địch bằng Kỹ Năng Dục Vọng hoặc Chém, gây [ObjectOfExploration] lên kẻ địch đó vào lượt kế\n- Nếu kẻ địch đó đã có [ObjectOfExploration], thay thế [ObjectOfExploration] bằng [PaintingMaterial]\n\nNếu Danh Tính thuộc Băng Ngón Nhẫn sở hữu [Inspire] giết kẻ địch có [PaintingMaterial], Danh Tính đó nhận 1 [PlusCoinValueUp] vào lượt kế (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9223,
+          "simpleDesc": "Inflict [ObjectOfExploration]"
+        },
+        {
+          "abilityID": 92231,
+          "simpleDesc": "Nhận [PlusCoinValueUp]"
+        }
+      ]
+    },
+    {
+      "id": 9224,
+      "name": "Tác Phẩm Tinh Xảo",
+      "desc": "Danh Tính thuộc Băng Ngón Nhẫn nhận [Inspire]\n\nNếu Danh Tính thuộc Băng Ngón Nhẫn có [Inspire] đánh trúng một kẻ địch, gây [ObjectOfExploration] lên kẻ địch đó vào lượt kế\n- Nếu kẻ địch đó đã có [ObjectOfExploration], thay thế [ObjectOfExploration] bằng [PaintingMaterial]\n\nNếu Danh Tính thuộc Băng Ngón Nhẫn sở hữu [Inspire] giết kẻ địch có [PaintingMaterial], Danh Tính đó mất [Inspire] và nhận [GreatAesthetics]\n\nĐánh Trúng một kẻ địch có 15+ [Laceration] bằng Kỹ Năng Xu Dương, hồi 3 SP (một lần mỗi lượt với mỗi Danh Tính)\n- Nếu Danh Tính hoặc kẻ địch trên có số loại hiệu ứng xấu ≥ 3, đổi thành hồi 6 SP",
+      "simpleDesc": [
+        {
+          "abilityID": 9224,
+          "simpleDesc": "Nhận [Inspire]"
+        },
+        {
+          "abilityID": 92241,
+          "simpleDesc": "Inflict [ObjectOfExploration]"
+        },
+        {
+          "abilityID": 92242,
+          "simpleDesc": "Nhận [GreatAesthetics]"
+        }
+      ]
+    },
+    {
+      "id": 9225,
+      "name": "Sợi Tơ Nhện",
+      "desc": "Đồng minh sử dụng Kỹ Năng Phòng Thủ +10% sát thương gây ra bằng Kỹ Năng 3 vào lượt kế (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9225,
+          "simpleDesc": "Skill 3 deals more damage"
+        }
+      ]
+    },
+    {
+      "id": 19225,
+      "name": "Sợi Tơ Nhện+",
+      "desc": "Đồng minh sử dụng Kỹ Năng Phòng Thủ <style=\"upgradeHighlight\">+15%</style> sát thương gây ra bằng Kỹ Năng 3 vào lượt kế (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 19225,
+          "simpleDesc": "Skill 3 deals more damage"
+        }
+      ]
+    },
+    {
+      "id": 29225,
+      "name": "Sợi Tơ Nhện++",
+      "desc": "Đồng minh sử dụng Kỹ Năng Phòng Thủ <style=\"upgradeHighlight\">+20%</style> sát thương gây ra bằng Kỹ Năng 3 vào lượt kế (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 29225,
+          "simpleDesc": "Skill 3 deals more damage"
+        }
+      ]
+    },
+    {
+      "id": 9226,
+      "name": "Thanh Đao Của Ai Đó",
+      "desc": "Khởi Chiến: Đồng minh có Khiên nhận 1 [CriticalDamageUp]\nKhi đồng minh gây Trí Mạng bằng Kỹ Năng, họ nhận ([Breath] / 5) Khiên vào lượt kế (tối đa 15)",
+      "simpleDesc": [
+        {
+          "abilityID": 9226,
+          "simpleDesc": "Nhận [CriticalDamageUp]"
+        },
+        {
+          "abilityID": 92261,
+          "simpleDesc": "Gain Shield"
+        }
+      ]
+    },
+    {
+      "id": 9227,
+      "name": "Quỷ Khí Hoàn Đao",
+      "desc": "Quà Tặng E.G.O này thay đổi sau khi thắng 6 Ải\n{0}\n\nVới toàn bộ đồng minh: +20% sát thương phải nhận, Sức Mạnh Giao Tranh -1",
+      "simpleDesc": [
+        {
+          "abilityID": 9227,
+          "simpleDesc": "Take more damage and lose Clash Power"
+        }
+      ]
+    },
+    {
+      "id": 9228,
+      "name": "Thân Kiếm Hợp Nhất",
+      "desc": "Toàn bộ đồng minh +25% sát thương gây ra",
+      "simpleDesc": [
+        {
+          "abilityID": 9228,
+          "simpleDesc": "Deal more damage"
+        }
+      ]
+    },
+    {
+      "id": 9229,
+      "name": "Găng Tay Sắt Bạc Màu",
+      "desc": "Quà Tặng E.G.O này thay đổi sau khi thắng 6 Ải\n{0}\n\nToàn bộ đồng minh -5 Tốc Độ Tối Thiểu & Tối Đa (hiệu ứng này không thể giảm Tốc Độ xuống dưới 1)",
+      "simpleDesc": [
+        {
+          "abilityID": 9229,
+          "simpleDesc": "Reduce Speed"
+        }
+      ]
+    },
+    {
+      "id": 9230,
+      "name": "Thời Khắc Hoàng Kim",
+      "desc": "Toàn bộ đồng minh +3 Tốc Độ Tối Thiểu & Tối Đa\nSức Mạnh Tổng +2 khi dùng Kỹ Năng lên mục tiêu chậm hơn với 4+ Tốc Độ chênh lệch\nĐánh Trúng một kẻ địch, gán 1 [Binding] vào lượt kế (4 lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9230,
+          "simpleDesc": "Gain Speed and Final Power"
+        }
+      ]
+    },
+    {
+      "id": 9231,
+      "name": "Bản Ghi Chép Của Ngày Hôm Đó",
+      "desc": "Quà Tặng E.G.O này thay đổi sau khi thắng 6 Ải\n{0}\n\nĐầu Lượt: Một đồng minh ngẫu nhiên không Bị Choáng bị ép tiến vào trạng thái Choáng",
+      "simpleDesc": [
+        {
+          "abilityID": 9231,
+          "simpleDesc": "Gets Staggered"
+        }
+      ]
+    },
+    {
+      "id": 9232,
+      "name": "Tiềm Năng",
+      "desc": "Khi Bị Choáng do nhận sát thương, hồi phục khỏi Choáng; rồi nhận Khiên bằng 50% HP tối đa và xóa 1 hiệu ứng xấu ngẫu nhiên có thể xóa được trên chủ thể (không tính Cưỡng Ép Choáng, 2 lần mỗi Ải)\n\nNhận 20 [Breath] vào đầu lượt kế sau khi kích hoạt hiệu ứng trên (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9232,
+          "simpleDesc": "Recover from Stagger; remove negative effect"
+        }
+      ]
+    },
+    {
+      "id": 9242,
+      "name": "Thú Nhồi Bông Bongy",
+      "desc": "Nhân Cost đang sở hữu lên 1.5 khi hoàn thành một Tầng, \n\n- Thêm 0.5% sát thương gây ra với mỗi Quà Tặng E.G.O đang sở hữu (Hiện tại: +{0}%; tối đa 100%)\n- Đầu Lượt: Nhận 1 [Enhancement] với mỗi 20 Quà Tặng E.G.O đang sở hữu (Số Lớp Hiện Tại: {1}; tối đa 10)",
+      "simpleDesc": [
+        {
+          "abilityID": 9242,
+          "simpleDesc": "Deal more damage"
+        },
+        {
+          "abilityID": 92421,
+          "simpleDesc": "Nhận [Enhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9256,
+      "name": "Con Mắt Tiên Liệu Không Hoàn Chỉnh",
+      "desc": "Kỹ Năng Xu Dương của đồng minh: Nhận Sức Mạnh Xu +(8 / Số Xu) (nhận ít nhất 1 Sức Mạnh Xu, tính cho cả Kỹ Năng E.G.O; làm tròn xuống)\n\nKỹ Năng Xu Âm của đồng minh: Nhận Sức Mạnh Tổng +(8 / Số Xu) (nhận ít nhất 1 Sức Mạnh Tổng, tính cho cả Kỹ Năng E.G.O; làm tròn xuống)\n\n[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1]\n- Trong Giao Tranh, nhận 1 [LookingFutureMirror] với mỗi lần Giao Tranh. Gây 2 [Vibration] và [Combustion] lên mục tiêu (10 lần mỗi Kỹ Năng)\n- Khi Thắng Giao Tranh, kích hoạt [Switch_Vibration] thành [VibrationIgnition] và kích hoạt [VibrationExplosion] trên mục tiêu chính. Mục tiêu mất 1 Tầng [Vibration]\n- Đánh Trúng bằng Kỹ Năng, nếu mục tiêu Bị Choáng, +30% sát thương gây ra\n- Trí Mạng, kích hoạt [VibrationExplosion]. Mục tiêu mất 1 Tầng [Vibration] (2 lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9257,
+      "name": "Thần Thác Bị Bỏ Lại",
+      "desc": "Kỹ Năng Xu Dương của đồng minh: Nhận Sức Mạnh Xu +(8 / Số Xu) (nhận ít nhất 1 Sức Mạnh Xu, tính cho cả Kỹ Năng E.G.O; làm tròn xuống)\n\nKỹ Năng Xu Âm của đồng minh: Nhận Sức Mạnh Tổng +(8 / Số Xu) (nhận ít nhất 1 Sức Mạnh Tổng, tính cho cả Kỹ Năng E.G.O; làm tròn xuống)\n\nTrong Giao Tranh, nhận Sức Mạnh Giao Tranh +1 với mỗi 30 ([Sinking] trên mục tiêu + [Breath] trên chủ thể) (tối đa 5)\n\n+25% sát thương gây ra bằng [SuperCoin]\n-25% sát thương nhận từ [SuperCoin]\n\n[Độc Quyền dành cho Băng Ngón Trỏ]\n- Khi vào Ải lần đầu tiên, nhận 6 [BlessingOfIndexPrescriptAlly]\n· Nếu đơn vị đó là một Danh Tính có thể nhận [UnlockBuff_Base], nhận luôn [UnlockBuffAlly_2]\n- Thêm 50% sát thương gây lên [IndexPrescriptTargetToEnemy]",
+      "simpleDesc": [
+        {
+          "abilityID": 98270,
+          "simpleDesc": "Allies gain a significant amount of Coin Power or Final Power"
+        },
+        {
+          "abilityID": 9257,
+          "simpleDesc": "Gain Clash Power based on the sum of Sinking on target and Poise on self"
+        },
+        {
+          "abilityID": 92571,
+          "simpleDesc": "+25% sát thương gây ra with Unbreakable Coins"
+        },
+        {
+          "abilityID": 92572,
+          "simpleDesc": "+50% sát thương gây ra against The Prescript's Target"
+        }
+      ]
+    },
+    {
+      "id": 9258,
+      "name": "Quyển Sách Báo Thù: Sáp Nhập",
+      "desc": "Kỹ Năng Xu Dương của đồng minh: Nhận Sức Mạnh Xu +(8 / Số Xu) (nhận ít nhất 1 Sức Mạnh Xu, tính cho cả Kỹ Năng E.G.O; làm tròn xuống)\n\nKỹ Năng Xu Âm của đồng minh: Nhận Sức Mạnh Tổng +(8 / Số Xu) (nhận ít nhất 1 Sức Mạnh Tổng, tính cho cả Kỹ Năng E.G.O; làm tròn xuống)\n\nĐầu Ải: Toàn bộ đồng minh nhận 50 Khiên với mỗi đồng minh thuộc Băng Ngón Giữa trên sân (không tính đơn vị Dự Bị; Khiên nhận từ hiệu ứng này không biến mất vào Cuối Lượt)\n\nKhi đơn vị đồng minh thuộc Băng Ngón Giữa Kết Đòn bằng Kỹ Năng Cơ Bản Đố Kỵ hoặc loại Đập: Hồi phục bằng 10% lượng sát thương đã gây\n- Nếu Kỹ Năng Phản Đòn kích hoạt hiệu ứng này, hồi phục bằng 20% lượng sát thương đã gây\n- Lượng HP hồi vượt ngưỡng chuyển thành Khiên (Khiên nhận từ hiệu ứng này không biến mất vào Cuối Lượt)\n\nKhởi Chiến: Đơn vị đồng minh thuộc Băng Ngón Giữa nhận Cấp Công Kích dựa trên số Kỹ Năng Phòng Thủ đã trang bị tới hết lượt (tối đa 12 Cấp Công Kích)\n- Nếu có 6+ Kỹ Năng Phòng Thủ đã được trang bị , +30% sát thương gây ra bằng Kỹ Năng Cơ Bản Đố Kỵ\n- Thêm +10% sát thương gây ra với mỗi Kỹ Năng Phòng Thủ đã được trang bị vượt quá 6 (tối đa 60%)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9259,
+      "name": "Chiếc Nhẫn của Maestro đã hóa Tác Phẩm ",
+      "desc": "Kỹ Năng Xu Dương của đồng minh: Nhận Sức Mạnh Xu +(8 / Số Xu) (nhận ít nhất 1 Sức Mạnh Xu, tính cho cả Kỹ Năng E.G.O; làm tròn xuống)\n\nKỹ Năng Xu Âm của đồng minh: Nhận Sức Mạnh Tổng +(8 / Số Xu) (nhận ít nhất 1 Sức Mạnh Tổng, tính cho cả Kỹ Năng E.G.O; làm tròn xuống)\n\nKhi Danh Tính thuộc Băng Ngón Nhẫn sử dụng Kỹ Năng Tấn Công Cơ Bản, kích hoạt các hiệu ứng sau dựa trên số loại hiệu ứng xấu trên mục tiêu:\n- 2+: Sức Mạnh Giao Tranh +2\n- 4+: +15% sát thương gây ra\n- 6+: Gây thêm 1 Lượng và Tầng của hiệu ứng xấu nhờ hiệu ứng Xu\n- 7+: Sức Mạnh Gốc +2\n- 8+: +35% sát thương gây ra",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9250,
+      "name": "Ống Thuốc Tầm Trung của Tập Đoàn K",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1]\nĐầu Ải: Nhận 1 [KAmpouleMirror]",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9251,
+      "name": "Số Phận Cháy Rụi",
+      "desc": "Lượng [Combustion] Tối Đa +30\n \nKhi Thắng Giao Tranh với mục tiêu có [Combustion], kích hoạt [Combustion] trên mục tiêu và giảm 1 Tầng [Combustion] của mục tiêu (một lần mỗi Danh Tính)\n\nKhi Dùng Kỹ Năng lên kẻ địch có [Combustion], Kỹ Năng đó nhận Cấp Công Kích bằng với (Lượng [Combustion] trên mục tiêu chính / 10) (tối đa 8)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9252,
+      "name": "Đinh và Búa",
+      "desc": "Danh Tính thuộc <noparse>Cuồng Tín</noparse> Tập Đoàn N: Kỹ Năng Cơ Bản nhận Sức Mạnh Gốc +3\n\nKhi một Danh Tính thuộc <noparse>Cuồng Tín</noparse> Tập Đoàn N nhận [AssemblePersonality], toàn bộ Danh Tính thuộc <noparse>Cuồng Tín</noparse> Tập Đoàn N cũng nhận chung số Lớp [AssemblePersonality] (một lần mỗi lượt tính cả đơn vị đầu tiên)\n- Nếu có Dục Vọng Cộng Hưởng Tuyệt Đối, gấp ba lần số Lớp nhận được\n\nĐầu Ải: Gây 2 [NailPersonality] lên toàn bộ kẻ địch\n\nKhi một Danh Tính thuộc <noparse>Cuồng Tín</noparse> Tập Đoàn N dùng một Kỹ Năng Cơ Bản để Giao Tranh với một mục tiêu có [NailPersonality], gây 3 [Laceration] (một lần mỗi Kỹ Năng)\n\nKỹ Năng Cơ Bản của Danh Tính thuộc <noparse>Cuồng Tín</noparse> Tập Đoàn N +100% sát thương gây lên mục tiêu có [NailPersonality]",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9253,
+      "name": "Mô Hình Vòng Quay Ngựa Gỗ Nhỏ",
+      "desc": "Đầu Lượt 1: Tăng 300 [BloodDinner]\nGấp đôi lượng [BloodDinner] được tăng nhờ [Laceration]\nKhi Dùng Kỹ Năng tiêu thụ [BloodDinner], lúc Kết Đòn, tiêu thụ thêm [BloodDinner] bằng lượng mà Kỹ Năng đã tiêu thụ\n\n[Chỉ Dành Cho Danh Tính thuộc La Manchaland]\nKhi một Danh Tính thuộc La Manchaland vào sân, Danh Tính đó nhận hiệu ứng tùy vào từng người:\n- Quản Lý La Manchaland Don Quixote: Nhận 15 [BloodArmorPersonalityFirst]\n- Công Chúa La Manchaland Rodion: Nhận 15 [BloomingThornsRodionFirst]\n- Linh Mục La Manchaland Gregor: Nhận 15 [BloodyHandGregFirst]\n- Thợ Cạo Xứ La  Mancha Outis: Nhận 15 [BloodScissorPersonalityFirst]\n- Hoàng Tử La Manchaland Meursault: Nhận 3 [BloodArmorMeursault]\n\n[Chỉ Dành Cho Quản Lý La Manchaland Don Quixote]\nKỹ Năng Cơ Bản của Quản Lý La Manchaland Don Quixote nhận Sức Mạnh Tổng +1 và +30% sát thương gây ra với mỗi Danh Tính Thuộc La Manchaland trong Đội Hình (tối đa  4; tối đa 120%; tính cả Đơn Vị Dự Bị; tính cả đơn vị đã bị đánh bại; không tính đơn vị không được triển khai)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9254,
+      "name": "Thêm Ly Nữa!",
+      "desc": "Kỹ Năng Cơ Bản tiêu thụ Tầng [Vibration] hoặc Tầng [Charge] +20% sát thương gây ra (tính cả '<noparse>Năng Lượng</noparse> Đặc Trưng'; không tính '<noparse>Năng Lượng</noparse> Đặc Trưng' (Lượng cố định))\n\nKhi tiêu thụ Tầng [Vibration] hoặc Tầng [Charge] bằng Kỹ Năng Cơ Bản, nhận lại một nửa Tầng đã tiêu thụ khi Kết Thúc Kỹ Năng (tối thiểu 1, làm tròn xuống; tính cả '<noparse>Năng Lượng</noparse> Đặc Trưng'; không tính '<noparse>Năng Lượng</noparse> Đặc Trưng' (Lượng cố định))",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9255,
+      "name": "Vỗ Tay Bốp Bốp!",
+      "desc": "Khi Thắng Giao Tranh bằng Kỹ Năng gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' lên một kẻ địch, kích hoạt [FusionVibration] thành một '<noparse>Chấn Động</noparse> Đặc Trưng' ngẫu nhiên trong số sau (một lần mỗi lượt):\n- [VibrationIgnition]\n- [VibrationBleeding]\n- [VibrationEcho]\n- [VibrationCollapse]\n- [VibrationChainPersonality]",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9273,
+      "name": "Chu Võng La Chu",
+      "desc": "Toàn bộ đồng minh nhận 1 Cấp Công Kích và 1 Cấp Phòng Thủ với mỗi đồng minh bị đánh bại (tối đa 10)\n\nNếu Thanh Đao Của Tổ Nhện Ryōshū có trong Đội Hình, các Danh Tính khác bị đánh bại sẽ không thể được hồi sinh sau khi hoàn thành một Ải (nốt thủ lĩnh cuối Tầng và nốt Ẩn)\n\n[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1]\n\nĐầu Lượt: Nếu không còn đồng minh nào sống sót ngoại trừ chủ thể, nhận [RedButterfly]\n\n[Chỉ áp dụng lên Thanh Đao Của Tổ Nhện Ryōshū]\n\nLần đầu vào Ải, với mỗi Danh Tính thuộc Tổ Nhện bị đánh bại, nhận 5 [PhantomIncisionTotalID]\nVới mỗi 2 Danh Tính thuộc Tổ Nhện bị đánh bại, Sức Mạnh Tổng +1, Sức Mạnh Xu +1, và +10% sát thương gây ra (tối đa lần lượt là 3 và 30%)\nNếu không còn đồng minh nào sống sót ngoại trừ Thanh Đao Của Tổ Nhện Ryōshū, nhận +12 giá trị cho toàn bộ Sự Kiện Lựa Chọn có kiểm định Kỹ Năng",
+      "simpleDesc": [
+        {
+          "abilityID": 9273,
+          "simpleDesc": "Gain Offense Level and Defense Level"
+        },
+        {
+          "abilityID": 92731,
+          "simpleDesc": "Nhận [RedButterfly]"
+        },
+        {
+          "abilityID": 92732,
+          "simpleDesc": "Nhận [PhantomIncisionTotalID]"
+        },
+        {
+          "abilityID": 92733,
+          "simpleDesc": "Gain Final Power, Coin Power, deal more damage"
+        }
+      ]
+    },
+    {
+      "id": 9274,
+      "name": "Thòng Lọng Ohra",
+      "desc": "Khi gây Trí Mạng lên kẻ địch, gây 1 [Binding] vào lượt kế (2 lần mỗi lượt)\nKhi Đánh Trúng bằng Kỹ Năng lên kẻ địch có [Binding], nhận 1 [Breath] (2 lần mỗi lượt mỗi Danh Tính)\n\nĐầu Lượt: Toàn bộ kẻ địch có [Laceration] nhận [AttackDown] bằng với [Binding] trên chúng (tối đa 5)\n\nĐầu Lượt: Nếu toàn bộ kẻ địch (với Ải Chuyên Sâu, là tất cả Bộ Phận) có [Binding], toàn bộ đồng minh nhận 3 [Breath]",
+      "simpleDesc": [
+        {
+          "abilityID": 9274,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9275,
+      "name": "Va Li Service des Clous Tập Đoàn N",
+      "desc": "Khi đánh trúng kẻ địch bằng Kỹ Năng gây Lượng, Tầng [Laceration], hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng', gây 1 [NailPersonality] (một lần mỗi Kỹ Năng)\nKhi kích hoạt [VibrationExplosion] lên một kẻ địch có [NailPersonality], gây 1 [Binding] vào lượt kế (3 lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9275,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9276,
+      "name": "Nghiên Tích Bạch Từ",
+      "desc": "Khi một Danh Tính đồng minh nhận [SupportProtect], đồng minh đó nhận 2 [AttackDmgUp] và 2 [Protection]\n\n[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1]\nCuối Lượt: Nhận 2 [Agility] vào lượt kế\nNếu Tốc Độ của Danh Tính cao hơn kẻ địch, +3% sát thương gây ra với mỗi chênh lệch Tốc Độ (tối đa 30%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9276,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9277,
+      "name": "Kiếm Gậy Xương Bồ",
+      "desc": "Nếu một đồng minh không bị kẻ địch nào đánh trúng vào lượt này, đồng minh đó nhận 1 [SlashDamageUp] vào lượt kế\nNếu một đồng minh bị kẻ địch đánh trúng, đồng minh đó nhận 4 [Breath], và nhận 1 [CriticalDamageUp] vào lượt này và lượt kế (một lần mỗi lượt mỗi Danh Tính)\n- Nếu đồng minh hưởng hiệu ứng là một Danh Tính thuộc Gia Tộc Kiếm Sư, hiệu quả của Quà Tặng E.G.O này tăng gấp đôi",
+      "simpleDesc": [
+        {
+          "abilityID": 9277,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9278,
+      "name": "Gông Gỗ Bị Phá",
+      "desc": "Đánh Trúng kẻ địch bằng Kỹ Năng Chém, gây 1 [DefenseDown] vào lượt kế (2 lần mỗi Kỹ năng)\nNếu một đồng minh nhanh hơn kẻ địch, đồng minh đó +3% sát thương gây ra bằng Kỹ Năng Tấn Công Cơ Bản với mỗi 1 Chênh Lệch Tốc Độ (tối đa 12%)\n- Nếu kẻ địch có [Binding], gấp đôi lượng sát thương cộng thêm và giới hạn tối đa",
+      "simpleDesc": [
+        {
+          "abilityID": 9278,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9279,
+      "name": "Kiếm Cách Mộc Mạc",
+      "desc": "Kỹ Năng Chém +1% sát thương gây ra với mỗi [Breath] (tối đa 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9279,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9280,
+      "name": "Bản Quốc Kiếm Phổ [本國劍譜]",
+      "desc": "Nếu một kẻ địch có Kháng Chém ≤ 1.5, Kháng Chém +0.3\nKỹ Năng Chém nhận Cấp Công Kích +2\nKhi tấn công kẻ địch Kháng Chém Yếu (Kháng > 1.0; không tính trạng thái Bị Choáng), +(5 + (Kháng của mục tiêu x 10))% sát thương gây ra (tối đa 25%)\n\nKỹ Năng Chém +1.5% sát thương gây ra với mỗi [Breath] (tối đa 30%)\n\nCoi 1 Danh Tính Tập Đoàn S không thuộc Gia Tộc Kiếm Sư có thứ tự Triển Khai sớm nhất như một thành viên của Gia Tộc và gán [BongukGiftEnhance] lên họ vào mỗi lượt\n\nĐầu Lượt: Kích hoạt khi Số Danh Tính thuộc Gia Tộc Kiếm Sư ≥ 3 (chỉ tính đồng minh ở trên sân vào Đầu Ải)\n- Khởi Chiến: Gán 1 [BongukGiftEnhance] lên đồng minh thuộc Gia Tộc Kiếm Sư có trang bị Kỹ Năng Phẫn Nộ hoặc Kiêu Ngạo",
+      "simpleDesc": [
+        {
+          "abilityID": 9280,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9282,
+      "name": "Nến Sáp Hình Chiếc Cánh",
+      "desc": "Đầu Lượt: Kích hoạt khi Số Danh Tính thuộc <noparse>Văn Phòng Dawn</noparse> ≥ 3 (tính cả Danh Tính Dự Bị)\n\nLượt 1: Gán 2 [DawnLight] cho toàn bộ đồng minh\nKhởi Chiến: Fixer <noparse>Văn Phòng Dawn</noparse> Sinclair hồi 10 SP, và Danh Tính đó có thể tiến vào trạng thái \"E.G.O Bộc Phát::Cánh Sáp\" thông qua hiệu ứng của Nội Tại \"Vỏ Bọc Nhân Cách Dễ Vỡ\" ở mốc 25+ SP thay vì 40+ SP\n\n[Độc Quyền dành cho Danh Tính thuộc <noparse>Văn Phòng Dawn</noparse>]\nĐánh Trúng bằng Kỹ Năng Cơ Bản, gây 2 [Combustion] và 2 [Vibration] lên mục tiêu (một lần mỗi Kỹ Năng)\nDanh Tính thuộc <noparse>Văn Phòng Dawn</noparse> được xem là \"Danh Tính có gây [Combustion] và [Vibration]\"\n- Kỹ Năng Cơ Bản của Danh Tính thuộc <noparse>Văn Phòng Dawn</noparse> được tính là \"Kỹ Năng có gây [Combustion] và [Vibration]\"\nĐầu Ải: Nếu Fixer <noparse>Văn Phòng Dawn</noparse> Faust trên sân, gán 1 [Firstlight] cho Danh Tính đó",
+      "simpleDesc": [
+        {
+          "abilityID": 9281,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9283,
+      "name": "Xì gà Tributary ",
+      "desc": "Đầu Lượt: Kích hoạt khi Số Danh Tính thuộc \"Băng Ngón Cái\" ≥ 3 (chỉ tính đồng minh trên sân)\nĐầu Lượt: Danh Tính thuộc \"Băng Ngón Cái\" nhận 1 [PlusCoinValueUp] và 2 [AttackDmgUp]\nĐồng thời nhận [AttackUp] với mỗi Danh Tính thuộc \"Băng Ngón Cái\" trên sân (tối đa 4)\n+1% sát thương gây ra với mỗi [VibrationIgnition] trên mục tiêu (tối đa 20%)\n- Kỹ Năng tiêu [Bullet] gây thêm +1% sát thương (tối đa 20%)\n- Danh Tính thuộc \"Băng Ngón Cái\" gây thêm +1% sát thương (tối đa 20%)\n\nĐơn vị kích hoạt [VibrationExplosion] bằng hiệu ứng Kỹ Năng nhận 2 [AttackUp] vào lượt kế (3 lần mỗi lượt)\n\nKhi Kỹ Năng 3 của Tổ Nhện: Cha Đỡ Đầu Ngón Cái Rodion Kết Đòn, gán 1 [EvolvingManual] cho Tổ Nhện: Ngón Cái Tập Sự Heathcliff",
+      "simpleDesc": [
+        {
+          "abilityID": 9282,
+          "simpleDesc": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "dataList": [
+    {
+      "id": "AaCfPcBe",
+      "name": "Đau Thương Tột Cùng",
+      "desc": "       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBf",
+      "name": "Xiềng Xích Đau Đớn",
+      "desc": "                    \n       <sprite name=\"Vulnerable\"><color=#e30000> </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBg",
+      "name": "Mục Tiêu Thù Hận",
+      "desc": "             \n              ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBb",
+      "name": "Dấu Ấn Quản Gia",
+      "desc": "                ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBc",
+      "name": "Kỹ Thuật Trói",
+      "desc": "     \n     \n    <sprite name=\"Binding\"><color> </color>   \n            \n   ",
+      "summary": "Gain Bind equal to the Value next turn.\nIf at 3 Value, become Staggered for the rest of the Encounter.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBa",
+      "name": "Quyết Tâm",
+      "desc": "       <sprite name=\"AttackUp\"><color=#fac400>   </color>       \n         <sprite name=\"Enhancement\"><color=#fac400>    </color>\n       ",
+      "summary": "When hit, gain 1 <sprite name=\"AttackUp\"><color=#fac400>Tăng Cấp Công Kích</color> next turn.\nĐầu Lượt: at less than 0 SP, gain 3 Attack Power Up.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBh",
+      "name": "Cơn Giận Không Nguôi",
+      "desc": "     <sprite name=\"AaCfPbBc\"><color=#e30000>   </color>    ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBm",
+      "name": "Sấm Sét Thống Khổ",
+      "desc": "     <sprite name=\"AaCfPcBn\"><color=#e30000>   </color>      \n          <sprite name=\"AaCfPcBn\"><color=#e30000>   </color>      \n        ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBn",
+      "name": "Trái Tim Vụn Vỡ",
+      "desc": "            \n      ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBp",
+      "name": "Dũng Khí Để Tiếp Cận",
+      "desc": "     \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Protection\"><color=#fac400> </color>  \n          <sprite name=\"AttackUp\"><color=#fac400>   </color>       \n         <sprite name=\"Enhancement\"><color=#fac400>    </color>\n                      \n       ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBo",
+      "name": "Quyết Tâm",
+      "desc": "               <sprite name=\"AttackUp\"><color=#fac400>   </color>       \n         <sprite name=\"Enhancement\"><color=#fac400>    </color>\n                      \n       ",
+      "summary": "Cuối Lượt: hồi 10 SP. \nWhen hit, gain 1 <sprite name=\"AttackUp\"><color=#fac400>Tăng Cấp Công Kích</color>.\nĐầu Lượt: at less than 0 SP, gain 3 Attack Power Up.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBq",
+      "name": "Trái Tim Tan Vỡ",
+      "desc": "     \n   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>  \n               \n        <sprite name=\"Binding\"><color=#e30000> </color>   <sprite name=\"AttackDmgDown\"><color=#e30000>  </color>   ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBr",
+      "name": "Mong Nàng... Tỉnh Dậy Trong Thống Khổ!",
+      "desc": "            <sprite name=\"AaCfPcBm\"><color=#9f6a3a>   </color>",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBi",
+      "name": "Sinh Nhiệt Cực Hạn",
+      "desc": "              ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBs",
+      "name": "Anh Biến Đi",
+      "desc": "      {0}",
+      "undefined": "-"
+    },
+    {
+      "id": "RageResonance",
+      "name": "Siết Chặt Phẫn Nộ",
+      "desc": "   {0} <sprite name=\"AttackUp\"><color=#fac400>   </color>           ",
+      "undefined": "-"
+    }
+  ]
+}

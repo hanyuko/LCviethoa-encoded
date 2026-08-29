@@ -1,0 +1,252 @@
+{
+  "dataList": [
+    {
+      "id": "formation_ego_resource_detail",
+      "content": "Chi Tiết"
+    },
+    {
+      "id": "formation_deck_code_auto_filled",
+      "content": "Các Danh Tính và E.G.O Cơ Bản đã được đặt vào các vị trí cho các Danh Tính hoặc E.G.O mà bạn chưa có."
+    },
+    {
+      "id": "formation_deck_filled_complete",
+      "content": "Tải Mã Đội Hình Hoàn Tất"
+    },
+    {
+      "id": "formation_set_to_default",
+      "content": "Đặt lại Đội hình?\n\n<size=80%>Khi đặt lại Đội hình sẽ gỡ tất cả các Danh Tính và E.G.O đã trang bị, chỉ giữ lại các Danh Tính và E.G.O Cơ Bản.</size>"
+    },
+    {
+      "id": "formation_unable_to_set_default",
+      "content": "Không thể đặt lại Đội hình gốc."
+    },
+    {
+      "id": "formation_ego_resource_popup_title",
+      "content": "     "
+    },
+    {
+      "id": "formation_ego_resource_popup_total_used",
+      "content": "Tổng Quan Lượng Tài Nguyên Để S.Dụng E.G.O:"
+    },
+    {
+      "id": "formation_ego_resource_popup_total_acquirable",
+      "content": "<size=85%>Tổng Tài Nguyên E.G.O Nhận Được:</size>"
+    },
+    {
+      "id": "formation_ego_resource_popup_personality",
+      "content": "Tài Nguyên Danh Tính"
+    },
+    {
+      "id": "formation_ego_resource_popup_ego",
+      "content": "Tài Nguyên Để S.Dụng E.G.O"
+    },
+    {
+      "id": "formation_code_popup_title",
+      "content": "Mã Đội Hình"
+    },
+    {
+      "id": "formation_code_popup_desc",
+      "content": "Với Mã Đội Hình, bạn có thể:\n- Sao chép và chia sẻ các đội hình của bạn\n- Dán và tải các đội hình"
+    },
+    {
+      "id": "formation_code_popup_copy",
+      "content": "Sao Chép Mã Đội Hình"
+    },
+    {
+      "id": "formation_code_popup_paste",
+      "content": "Tải Mã Đội Hình"
+    },
+    {
+      "id": "formation_code_popup_paste_desc",
+      "content": "Dán Mã Đội Hình vào đây để trang bị đội hình."
+    },
+    {
+      "id": "formation_code_popup_paste_input",
+      "content": "Nhập Mã Đội Hình"
+    },
+    {
+      "id": "formation_code_popup_copy_success",
+      "content": "Đã Sao Chép Mã Đội Hình"
+    },
+    {
+      "id": "formation_side_button_all_personality",
+      "content": "Toàn Bộ D.Tính"
+    },
+    {
+      "id": "formation_side_button_all_ego",
+      "content": "Toàn Bộ E.G.O"
+    },
+    {
+      "id": "formation_side_button_friend_support",
+      "content": "Hỗ Trợ"
+    },
+    {
+      "id": "character_list_title_all_personality",
+      "content": "Danh Tính"
+    },
+    {
+      "id": "character_list_title_all_personality_with_character_name",
+      "content": "Danh Tính: {0}"
+    },
+    {
+      "id": "character_list_title_all_ego",
+      "content": "E.G.O"
+    },
+    {
+      "id": "character_list_title_all_ego_with_character_name",
+      "content": "E.G.O: {0}"
+    },
+    {
+      "id": "character_list_title_friend_support",
+      "content": "    {0}"
+    },
+    {
+      "id": "character_list_collect_rate",
+      "content": "Phần Trăm Sở Hữu"
+    },
+    {
+      "id": "character_list_owned_toggle_label",
+      "content": "Đã Có"
+    },
+    {
+      "id": "character_list_sort_label",
+      "content": "Sắp Xếp Theo"
+    },
+    {
+      "id": "character_list_friend_support_not_existed",
+      "content": "Không có Danh Tính Hỗ Trợ nào cho Tội Nhân này."
+    },
+    {
+      "id": "character_list_friend_support_impossible",
+      "content": "Không thể trang bị Danh Tính Hỗ Trợ cho Tội Nhân này."
+    },
+    {
+      "id": "view_personality_status_button_label",
+      "content": "Danh Tính"
+    },
+    {
+      "id": "formation_ui_announcer",
+      "content": "  "
+    },
+    {
+      "id": "formation_ui_announcer_detail",
+      "content": "    "
+    },
+    {
+      "id": "formation_deck_code_invalid_code",
+      "content": "Mã Đội Hình này không hợp lệ."
+    },
+    {
+      "id": "formation_ego_resource_popup_personality_desc",
+      "content": "Tổng quan lượng Tài Nguyên E.G.O có thể nhận từ từng Danh Tính/Tội Nhân trong Đội hình."
+    },
+    {
+      "id": "formation_ego_resource_popup_ego_desc",
+      "content": "Lượng Tài Nguyên E.G.O cần thiết cho từng E.G.O đã trang bị."
+    },
+    {
+      "id": "formation_current_personality",
+      "content": "Danh Tính Đã Chọn"
+    },
+    {
+      "id": "ego_sort_label_rarity",
+      "content": "Độ Hiếm"
+    },
+    {
+      "id": "ego_filter_label_attack_type",
+      "content": "Loại Tấn Công Của E.G.O"
+    },
+    {
+      "id": "ego_filter_label_attribute_type",
+      "content": "Loại Nguyên Tội Của E.G.O"
+    },
+    {
+      "id": "personality_filter_label_attack_type",
+      "content": "Loại Kỹ Năng Tấn Công"
+    },
+    {
+      "id": "personality_filter_label_attribute_type",
+      "content": "Loại Nguyên Tội Kỹ Năng"
+    },
+    {
+      "id": "character_list_personality_not_existed",
+      "content": "Không có Danh Tính nào phù hợp với bộ lọc của bạn."
+    },
+    {
+      "id": "character_list_ego_not_existed",
+      "content": "Không có E.G.O nào phù hợp với bộ lọc của bạn."
+    },
+    {
+      "id": "filter_condition_speed",
+      "content": "Tốc Độ"
+    },
+    {
+      "id": "filter_condition_defense",
+      "content": "Cấp Phòng Thủ"
+    },
+    {
+      "id": "filter_condition_grade",
+      "content": "Cấp Đ.Bộ {0}"
+    },
+    {
+      "id": "ego_sort_label_syncLevel",
+      "content": "Cấp T.Dệt"
+    },
+    {
+      "id": "ego_sort_label_crimson_resist",
+      "content": "Kháng Phẫn Nộ"
+    },
+    {
+      "id": "ego_sort_label_scarlet_resist",
+      "content": "Kháng Dục Vọng"
+    },
+    {
+      "id": "ego_sort_label_amber_resist",
+      "content": "Kháng Lười Biếng"
+    },
+    {
+      "id": "ego_sort_label_shamrock_resist",
+      "content": "Kháng Phàm Ăn"
+    },
+    {
+      "id": "ego_sort_label_azure_resist",
+      "content": "Kháng Thờ Ơ"
+    },
+    {
+      "id": "ego_sort_label_indigo_resist",
+      "content": "Kháng Kiêu Ngạo"
+    },
+    {
+      "id": "ego_sort_label_violet_resist",
+      "content": "Kháng Đố Kỵ"
+    },
+    {
+      "id": "personality_info_list_not_owned",
+      "content": "Chưa Sở Hữu"
+    },
+    {
+      "id": "formation_must_participate_specific_character_with_baton",
+      "content": "Không thể tham chiến khi {0} ở hàng Dự Bị. {0} phải trực tiếp tham chiến."
+    },
+    {
+      "id": "character_list_skin_not_existed",
+      "content": "Không có Dung Mạo nào khớp với bộ lọc tìm kiếm của bạn"
+    },
+    {
+      "id": "character_list_title_all_skin",
+      "content": " "
+    },
+    {
+      "id": "character_list_title_all_skin_with_character_name",
+      "content": "     {0}"
+    },
+    {
+      "id": "mainui_common_skin",
+      "content": "Dung Mạo"
+    },
+    {
+      "id": "formation_side_button_skin",
+      "content": "Dung Mạo"
+    }
+  ]
+}

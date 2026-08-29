@@ -1,0 +1,192 @@
+{
+  "dataList": [
+    {
+      "id": "ADDITIONAL_START_COST",
+      "description": "Số <color=#dd0000>Cost</color> Khởi Đầu +{0}"
+    },
+    {
+      "id": "ADDITIONAL_FLOOR_THEME_SLOT",
+      "description": "Số <color=#dd0000>Gói Chủ Đề</color> có thể chọn +{0}"
+    },
+    {
+      "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
+      "description": "Số <color=#dd0000>lựa chọn Quà Tặng E.G.O trong Cửa Hàng</color> +{0}"
+    },
+    {
+      "id": "FREE_SHOP_REFRESH_EGO_GIFT_ONCE",
+      "description": "{0} lần <color=#dd0000>Làm Mới Cửa Hàng (thường) Miễn Phí</color>"
+    },
+    {
+      "id": "ADDITIONAL_START_COST_TEXT_HIGHLIGHT",
+      "description": "Số <color=#dd0000>Cost</color> Khởi Đầu +{0}"
+    },
+    {
+      "id": "FREE_SHOP_REFRESH_EGO_GIFT_ONCE_TEXT_HIGHLIGHT",
+      "description": "<color=#f8c200>{0} lần <color=#dd0000>Làm Mới Cửa Hàng (thường) Miễn Phí</color>"
+    },
+    {
+      "id": "ADDITIONAL_COST_RATE_ON_CLEAR_FLOOR",
+      "description": "Khi đến Tầng tiếp theo, tăng Cost bằng {0}% <color=#dd0000>số Cost hiện tại</color> (tối đa {1})"
+    },
+    {
+      "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE",
+      "description": "Giảm {0}% <color=#dd0000>giá bán Quà Tặng E.G.O</color> (một lần mỗi Cửa Hàng)"
+    },
+    {
+      "id": "ADDITIONAL_COST_RATE_ON_CLEAR_FLOOR_TEXT_HIGHLIGHT",
+      "description": "Khi đến Tầng tiếp theo, tăng Cost bằng <color=#f8c200>{0}%</color> <color=#dd0000>số Cost hiện tại</color> (tối đa <color=#f8c200>{1}</color>)"
+    },
+    {
+      "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE_TEXT_HIGHLIGHT",
+      "description": "Giảm <color=#f8c200>{0}%</color> <color=#dd0000>giá bán Quà Tặng E.G.O</color> (một lần mỗi Cửa Hàng)"
+    },
+    {
+      "id": "ADDITIONAL_FLOOR_THEME_REFRESH",
+      "description": "+{0} Số lần <color=#dd0000>Làm Mới Gói Chủ Đề </color>"
+    },
+    {
+      "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_SELECT_NEW_FLOOR_THEME",
+      "description": "Lần đầu chọn Gói Chủ Đề mới, toàn bộ Danh Tính nhận +{0} <color=#dd0000>Cấp Độ</color> (tối đa 9)"
+    },
+    {
+      "id": "ADDITIONAL_FLOOR_THEME_REFRESH_TEXT_HIGHLIGHT",
+      "description": "<color=#f8c200>+{0}</color> Số lần <color=#dd0000>Làm Mới Gói Chủ Đề </color>"
+    },
+    {
+      "id": "GiveBuffOnRSOnNewFloorTheme",
+      "description": "<color=#f8c200>Lần đầu chọn Gói Chủ Đề mới(chỉ tính tại Tầng {4} hoặc thấp hơn), nhận {2} {1} trong các Ải giao chiến</color>"
+    },
+    {
+      "id": "GiveBuffOnRSOnThemePackUnlockCount",
+      "description": "<color=#f8c200>Nếu đã mở khóa trên {4} Gói Chủ Đề trong phần Tổng Hợp Gói Chủ Đề, nhận {2} {1}</color>"
+    },
+    {
+      "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
+      "description": "Số lựa chọn <color=#dd0000>Quà Tặng E.G.O Khởi Đầu</color> +{0}"
+    },
+    {
+      "id": "ACQUIRE_COST_AFTER_SELECT_STARLIGHT_BATTLE_REWARD",
+      "description": "<color=#f8c200>Khi chọn nhận Ánh Sao từ các Thẻ Thưởng Vượt Ải, +{0} Cost</color>"
+    },
+    {
+      "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
+      "description": "Tăng +{0}% lượng <color=#dd0000>Cost</color> từ <color=#dd0000>Thưởng Vượt Ải</color>"
+    },
+    {
+      "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
+      "description": "<color=#dd0000>Tăng tỷ lệ xuất hiện Quà Tặng E.G.O Hạng cao</color> trong các Cửa Hàng"
+    },
+    {
+      "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE_TEXT_HIGHLIGHT",
+      "description": "Tăng <color=#f8c200>+{0}%</color> lượng <color=#dd0000>Cost</color> từ <color=#dd0000>Thưởng Vượt Ải</color>"
+    },
+    {
+      "id": "ACQUIRE_COST_BY_EGOGIFT_TIER_TOTAL_ON_ENTER_SHOP",
+      "description": "<color=#f8c200>Khi vào Cửa Hàng, nhận Cost bằng tổng số Hạng của các Quà Tặng E.G.O đang sở hữu (tối đa {1})</color>"
+    },
+    {
+      "id": "FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE",
+      "description": "{0} lần <color=#dd0000>Làm Mới Cửa Hàng (Từ Khóa) Miễn Phí</color>"
+    },
+    {
+      "id": "ACQUIRE_1_TIER_RANDOM_EGO_GIFT_ON_ENTER_1ST_FLOOR",
+      "description": "Khi đến Tầng 1, nhận ngẫu nhiên {0} <color=#dd0000>Quà Tặng E.G.O</color> Hạng 1"
+    },
+    {
+      "id": "FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE_TEXT_HIGHLIGHT",
+      "description": "<color=#f8c200>{0}</color> lần <color=#dd0000>Làm Mới Cửa Hàng (Từ Khóa) Miễn Phí</color>"
+    },
+    {
+      "id": "ACQUIRE_1_TIER_RANDOM_EGO_GIFT_ON_ENTER_1ST_FLOOR_TEXT_HIGHLIGHT",
+      "description": "Khi đến Tầng 1, nhận ngẫu nhiên <color=#f8c200>{0}</color> <color=#dd0000>Quà Tặng E.G.O</color> Hạng 1"
+    },
+    {
+      "id": "ADDITIONAL_ENHANCED_SHOP_APPEARANCE_PROB",
+      "description": "<color=#f8c200>+{0}% tỷ lệ xuất hiện Cửa Hàng Siêu Cấp</color>"
+    },
+    {
+      "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_1ST_FLOOR",
+      "description": "Khi đến Tầng 1, tất cả Tội Nhân nhận {0} <color=#dd0000>Cấp Độ</color>"
+    },
+    {
+      "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR",
+      "description": "Khi hoàn thành Tầng, tất cả Tội Nhân nhận {0} <color=#dd0000>Cấp Độ</color> (tối đa {1})"
+    },
+    {
+      "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR_TEXT_HIGHLIGHT",
+      "description": "Khi hoàn thành Tầng, tất cả Tội Nhân nhận {0} <color=#dd0000>Cấp Độ</color> (tối đa <color=#f8c200>{1}</color>)"
+    },
+    {
+      "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_6TH_FLOOR",
+      "description": "<color=#f8c200>Khi vào Tầng 6, tất cả Tội Nhân nhận {0} Cấp Độ</color>"
+    },
+    {
+      "id": "MaxSpeedUpAdder",
+      "description": "<color=#dd0000>Tốc Độ Tối Đa</color> +{0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStart",
+      "description": "Nhận {2} <color=#dd0000>{1}</color>"
+    },
+    {
+      "id": "MaxSpeedUpAdder_TEXT_HIGHLIGHT",
+      "description": "<color=#dd0000>Tốc Độ Tối Đa</color> <color=#f8c200>+{0}</color>"
+    },
+    {
+      "id": "GiveBuffOnRoundStart_TEXT_HIGHLIGHT",
+      "description": "Nhận <color=#f8c200>{2}</color> <color=#dd0000>{1}</color>"
+    },
+    {
+      "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP",
+      "description": "Khi vào Cửa Hàng, nhận ngẫu nhiên {0} Quà Tặng E.G.O <color=#dd0000>Chỉ dùng để Dung Hợp hoặc Bán</color>"
+    },
+    {
+      "id": "ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3RD_FLOOR",
+      "description": "Khi đến Tầng 3, nhận ngẫu nhiên {0} <color=#dd0000>Quà Tặng E.G.O Hạng 3</color>"
+    },
+    {
+      "id": "ACQUIRE_LOWER_TIER_RANDOM_EGO_GIFT_ON_COMBINE",
+      "description": "Khi Dung Hợp, nhận thêm <color=#dd0000>một Quà Tặng E.G.O ngẫu nhiên</color> dưới 2 Hạng của món đã Dung Hợp(món được Dung Hợp phải trên Hạng 3) (một lần mỗi Cửa Hàng)"
+    },
+    {
+      "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP_2",
+      "description": "Khi vào Cửa Hàng, nhận 1 Quà Tặng E.G.O <color=#dd0000>'Chỉ dùng để Dung Hợp hoặc Bán'</color>\n<color=#f8c200>· Dưới/Tại Tầng 5 : Hạng 1~3\n· Trên/Tại Tầng 6 : Hạng 2~3</color>"
+    },
+    {
+      "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP_3",
+      "description": "Khi vào Cửa Hàng, nhận 1 Quà Tặng E.G.O <color=#dd0000>'Chỉ dùng để Dung Hợp hoặc Bán'</color>\n<color=#f8c200>· Dưới/Tại Tầng 5 : Hạng 2~3\n· Trên/Tại Tầng : Hạng 3~4</color>"
+    },
+    {
+      "id": "ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3F_5F",
+      "description": "Khi đến Tầng 3<color=#f8c200>/Tầng 5</color>, nhận 1 <color=#dd0000>Quà Tặng E.G.O</color> Hạng 3 từ <color=#f8c200>loại Từ Khóa đã chọn</color>"
+    },
+    {
+      "id": "ACQUIRE_4_TIER_RANDOM_EGO_GIFT_ON_ENTER_3F_5F_7F",
+      "description": "Khi đến Tầng 3<color=#f8c200>/Tầng 5/Tầng 7</color>, nhận ngẫu nhiên {0} <color=#dd0000>Quà Tặng E.G.O</color> <color=#f8c200>Hạng 4</color> từ <color=#f8c200>loại Từ Khóa đã chọn</color>"
+    },
+    {
+      "id": "ACQUIRE_LOWER_TIER_RANDOM_EGO_GIFT_ON_COMBINE_1",
+      "description": "Khi Dung Hợp, nhận thêm 1 <color=#dd0000>Quà Tặng E.G.O ngẫu nhiên</color> dưới <color=#f8c200>1 Hạng</color> của món đã Dung Hợp (món được Dung Hợp phải trên Hạng 3) (một lần mỗi Cửa Hàng)"
+    },
+    {
+      "id": "ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR",
+      "description": "Khi bắt đầu, có thể tự chọn {0} <color=#dd0000>Quà Tặng E.G.O</color> Hạng 3 để nhận dựa theo loại Từ Khóa đã chọn (nếu không có Quà Tặng nào thỏa mãn điều kiện sẽ cấp cho một quà tặng có Hạng thấp hơn)"
+    },
+    {
+      "id": "ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR_TEXT_HIGHLIGHT",
+      "description": "Khi bắt đầu, <color=#f8c200>có thể tự chọn</color> <color=#f8c200>{0}</color> <color=#dd0000>Quà Tặng E.G.O Hạng 3</color> để nhận dựa theo loại Từ Khóa đã chọn (nếu không có Quà Tặng nào thỏa mãn điều kiện sẽ cấp cho một quà tặng có Hạng thấp hơn)"
+    },
+    {
+      "id": "ACQUIRE_1_TIER_MATERIAL_EGO_GIFT_ON_ENTER_1ST_FLOOR",
+      "description": "Khi bắt đầu, nhận 1 <color=#dd0000>Vết Tích Đen</color>"
+    },
+    {
+      "id": "ACQUIRE_12_TIER_MATERIAL_EGO_GIFT_ON_ENTER_1ST_FLOOR",
+      "description": "Khi bắt đầu, nhận 1 <color=#dd0000>Vết Tích Đen</color> và 1 <color=#f8c200>Vết Tích Mờ Nhạt</color>"
+    },
+    {
+      "id": "ACQUIRE_123_TIER_MATERIAL_EGO_GIFT_ON_ENTER_1ST_FLOOR",
+      "description": "Khi bắt đầu, nhận 1 <color=#dd0000>Vết Tích Đen</color>,1 <color=#f8c200>Vết Tích Mờ Nhạt, và 1 Vết Tích Lấp Lánh</color>"
+    }
+  ]
+}

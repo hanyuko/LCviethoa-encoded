@@ -1,0 +1,143 @@
+{
+    "dataList": [
+        {
+            "id": 2027,
+            "name": "Quyển Sổ Đen",
+            "desc": "Vào Đầu Ải: nhận ngẫu nhiên tài nguyên E.G.O bằng với số kẻ địch trên sân.\n\nNếu Số Danh Tính thuộc Gia Tộc Kiếm Sư hoặc Hắc Vân Hội trong Ải ≥ 4, đổi thành nhận tài nguyên E.G.O cho Nguyên Tội đang sở hữu ít nhất.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2027,
+                    "simpleDesc": "Gain random E.G.O resources"
+                },
+                {
+                    "abilityID": 20271,
+                    "simpleDesc": "Gain the least-owned E.G.O resources"
+                }
+            ]
+        },
+        {
+            "id": 2028,
+            "name": "Chuôi Kiếm Rỉ Sét",
+            "desc": "Đầu Lượt: toàn bộ đồng minh nhận 1 [SlashDamageUp].\n\nDanh Tính thuộc Gia Tộc Kiếm Sư hoặc Hắc Vân</noparse> Hội nhận 2 [SlashDamageUp].",
+            "simpleDesc": [
+                {
+                    "abilityID": 2028,
+                    "simpleDesc": "Gain 1 Slash Power Up"
+                },
+                {
+                    "abilityID": 20281,
+                    "simpleDesc": "Gain 2 Slash Power Up"
+                }
+            ]
+        },
+        {
+            "id": 2029,
+            "name": "Lưỡi Kiếm Bị Nứt",
+            "desc": "Trong Ải: khi gây Lượng [Laceration] hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng' lần đầu tiên lên kẻ địch bằng hiệu ứng Kỹ Năng Tấn Công, gây +2 Tầng [Laceration]. (Một lần mỗi Ải)\n\nVới Danh Tính thuộc Hắc Vân</noparse> Hội,\nkhi gây sát thương lên kẻ địch lần đầu tiên, gây thêm 4 Lượng [Laceration] và +4 Tầng [Laceration].",
+            "simpleDesc": [
+                {
+                    "abilityID": 2029,
+                    "simpleDesc": "Inflict additional 2 Tầng [Laceration]"
+                },
+                {
+                    "abilityID": 20291,
+                    "simpleDesc": "Inflict additional 4 Lượng [Laceration] và +4 Tầng [Laceration]"
+                }
+            ]
+        },
+        {
+            "id": 2030,
+            "name": "Lưỡi Kiếm Đã Gãy",
+            "desc": "Khi một đồng minh Đánh Trí Mạng lên một kẻ địch, gây thêm +(Lượng [Breath] / 3) sát thương Kiêu Ngạo.\n\nVới danh tính Gia Tộc Kiếm Sư, khi Đánh Trí Mạng lên một kẻ địch, gây thêm +(Lượng [Breath] / 2) sát thương Kiêu Ngạo.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2030,
+                    "simpleDesc": "Deal an additional (Lượng [Breath]/3) Pride damage."
+                },
+                {
+                    "abilityID": 20301,
+                    "simpleDesc": "Deal an additional (Lượng [Breath]/2) Pride damage."
+                }
+            ]
+        },
+        {
+            "id": 2031,
+            "name": "Tua Đỏ",
+            "desc": "Nếu Kháng Chém của mục tiêu ≤ 1.5, Kháng Chém +0.3.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2031,
+                    "simpleDesc": "Slash Resistance +0.3"
+                }
+            ]
+        },
+        {
+            "id": 2032,
+            "name": "Tráng Quan",
+            "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Hắc Vân</noparse> Hội ≥ 3 (chỉ tính đồng minh trên sân).\n\nĐầu Lượt: toàn bộ đồng minh nhận 2 [SlashDamageUp], và +35% sát thương Chém gây ra.\n\nĐầu Lượt: khi một Danh Tính thuộc Hắc Vân</noparse> Hội gây sát thương lần đầu tiên, gây thêm 4 Lượng [Laceration] và +4 Tầng [Laceration]. (Một lần mỗi lượt)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2032,
+                    "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+                },
+                {
+                    "abilityID": 20321,
+                    "simpleDesc": "Inflict additional 4 Bleed Potency và +4 Bleed Count"
+                }
+            ]
+        },
+        {
+            "id": 2033,
+            "name": "Kiên Định",
+            "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Gia Tộc Kiếm Sư ≥ 3 (chỉ tính đồng minh trên sân).\n\nĐầu Lượt: toàn bộ đồng minh nhận 2 [SlashDamageUp], và +35% sát thương Chém gây ra.\n\nĐầu Lượt: khi một Danh Tính thuộc Gia Tộc Kiếm Sư Đánh Trí Mạng, gây thêm sát thương Kiêu Ngạo bằng với Lượng [Breath] đang có.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2033,
+                    "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+                },
+                {
+                    "abilityID": 20331,
+                    "simpleDesc": "Deal additional Pride damage equal to Poise Potency on self"
+                }
+            ]
+        },
+        {
+            "id": 2034,
+            "name": "Mũ Tre Rách Rưới",
+            "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Gia Tộc Kiếm Sư ≥ 3 (chỉ tính đồng minh trên sân).\n\nToàn bộ đồng minh +50% sát thương Chém gây ra\n\nDanh Tính thuộc Gia Tộc Kiếm Sư: nếu đồng minh đó có [Breath], cố định tỷ lệ Trí Mạng thành 100%.\n\nDanh Tính thuộc Gia Tộc Kiếm Sư: gây x1.5 sát thương khi Trí Mạng.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2034,
+                    "simpleDesc": "Deal +50% Slash Damage"
+                },
+                {
+                    "abilityID": 20341,
+                    "simpleDesc": "Fix Critical rate to 100%"
+                },
+                {
+                    "abilityID": 20342,
+                    "simpleDesc": "Deal 1.5 times more damage on Crit"
+                }
+            ]
+        },
+        {
+            "id": 2035,
+            "name": "Áo Dopo Cũ Kỹ",
+            "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Gia Tộc Kiếm Sư ≥ 3 (chỉ tính đồng minh trên sân).\n\nToàn bộ đồng minh +50% sát thương Chém gây ra\n\nDanh Tính thuộc Gia Tộc Kiếm Sư: Kỹ Năng 1 nhận Sức Mạnh Xu +1; Kỹ Năng 1 Xu Đơn nhận Sức Mạnh Xu +3\n\n[Chỉ dành cho Sư Phụ Gia Tộc Kiếm Sư Meursault] Không thể Bị Choáng trong lượt trang bị Kỹ Năng \"Hiến Thịt Ta\". Sức Mạnh Giao Tranh Cuối của Kỹ năng \"Hiến Thịt Ta\" -12, Kỹ Năng \"Đoạt Cốt Chúng\" +50% sát thương gây ra",
+            "simpleDesc": [
+                {
+                    "abilityID": 2035,
+                    "simpleDesc": "Deal +50% Slash Damage"
+                },
+                {
+                    "abilityID": 20351,
+                    "simpleDesc": "Skill 1 Coin Power Up"
+                },
+                {
+                    "abilityID": 20352,
+                    "simpleDesc": "'Yield My Flesh' Skill Final Clash Power -12; 'To Claim Your Bones' deals +50% damage"
+                }
+            ]
+        }
+    ]
+}

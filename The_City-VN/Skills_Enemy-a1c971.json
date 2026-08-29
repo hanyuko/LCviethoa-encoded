@@ -1,0 +1,246 @@
+{
+  "dataList": [
+    {
+      "id": 9018101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "■■ew",
+          "desc": "[WhenUse] Nếu mục tiêu không có [Burst], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ă■ ■h■ N■■",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 sát thương SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng sát thương gây ra (tối đa 20)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "G■■ T■i L■■t N■■■!!",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng sát thương gây ra (tối đa 20)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Khi HP dưới 50%, Tái Sử Dụng Xu một lần"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng sát thương gây ra (tối đa 20)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ■■",
+          "desc": "[WhenUse] Nhận Khiên HP với mỗi 5 [Burst] trên mục tiêu\n[EndBattle] Hồi HP bằng lượng Khiên còn lại",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Áha■■■■ha",
+          "desc": "[WhenUse] Nếu mục tiêu không có [Burst], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "C■■an",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 sát thương SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng sát thương gây ra (tối đa 20)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T■■ Giờ Ă■!",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng sát thương gây ra (tối đa 20)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Khi HP dưới 50%, Tái Sử Dụng Xu một lần"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng sát thương gây ra (tối đa 20)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "■■■òn",
+          "desc": "[WhenUse] Nhận Khiên HP với mỗi 5 [Burst] trên mục tiêu\n[EndBattle] Hồi HP bằng lượng Khiên còn lại",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

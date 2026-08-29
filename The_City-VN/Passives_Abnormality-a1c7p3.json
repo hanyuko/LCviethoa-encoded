@@ -1,0 +1,256 @@
+{
+  "dataList": [
+    {
+      "id": 837804,
+      "name": "Héo Mòn và Kiệt Quệ",
+      "desc": "Nhận [StarvingPriestTwo] khi bắt đầu màn này"
+    },
+    {
+      "id": 837801,
+      "name": "Bí Tíc Xức Dầu",
+      "desc": "Kết Thúc Lượt: Kích hoạt [Laceration] trên chủ thể (tối đa 50; tiêu 1 tầng [Laceration] trên chủ thể). Hồi 50 HP lên phần Lõi và Bộ Phận của đồng minh Huyết Quỷ có HP thấp nhất (kỹ năng bị động này không kích hoạt khi toàn bộ đồng minh đang ở HP tối đa)"
+    },
+    {
+      "id": 837802,
+      "name": "Thánh Lễ Chuộc Tội",
+      "desc": "Kết Thúc Lượt: mất 5 SP vào hồi 10 SP cho đồng minh có SP thấp nhất (không kích hoạt nếu không còn đồng minh nào có SP)"
+    },
+    {
+      "id": 837803,
+      "name": "Con Tim Thống Khổ",
+      "desc": "Thay đổi hành vi dựa trên tầng [WornHeart]\nCuối Lượt: nhận 1 [WornHeart]"
+    },
+    {
+      "id": 837805,
+      "name": "Bàn Tay Nhuốm Máu",
+      "desc": "- Ở 10+ [BloodyHand], cường hóa thành [BloodyHand_2nd]\n- Ở 20+ [BloodyHand_2nd], cường hóa thành [BloodyHand_3rd]"
+    },
+    {
+      "id": 837901,
+      "name": "Thứ Từng Được Yêu Thương",
+      "desc": "Bắt Đầu Lượt: Nếu toàn bộ kẻ địch có [AffectionTeddy], sử dụng một Kỹ Năng mạnh mẽ"
+    },
+    {
+      "id": 837902,
+      "name": "Cọc Sắt Bẩn Thỉu",
+      "desc": "Khi đánh trúng kẻ địch bằng Kỹ Năng một Xu, gây 3 Lượng [Laceration]. Gây 2 [DefenseDown] cho đến hết lượt tiếp theo.\nNếu mục tiêu đã có [Laceration], thay vào đó gây 5 Lượng [Laceration]"
+    },
+    {
+      "id": 837903,
+      "name": "Để Nhớ",
+      "desc": "Nếu chủ thể bị Choáng do hiệu ứng vào Cuối Lượt của Cái Ôm Buồn Bã, nhận 10 [FaintMemory] vào Đầu Lượt kế tiếp"
+    },
+    {
+      "id": 837904,
+      "name": "Để Yêu",
+      "desc": "Nếu HP của chủ thể ≤ 30% vào Cuối Lượt: thay vì gây 3 [AffectionTeddy] lên toàn bộ kẻ địch, nhận 15 [AttackDown] vào lượt kế (một lần mỗi Ải)"
+    },
+    {
+      "id": 837905,
+      "name": "Xin Đừng Ốm Đau",
+      "desc": "Sức Mạnh Gốc -1 với mỗi 3 loại hiệu ứng bất lợi trên mục tiêu (tối đa 3)"
+    },
+    {
+      "id": 837301,
+      "name": "Kháng Nguyên Tội",
+      "desc": "Trừ khi chủ thể bị Choáng hoặc Phá Hủy Bộ Phận, chỉ nhận 1 nửa sát thương từ [Laceration]"
+    },
+    {
+      "id": 837401,
+      "name": "Kháng Nguyên Tội",
+      "desc": "Trừ khi chủ thể bị Choáng hoặc Phá Hủy Bộ Phận, chỉ nhận 1 nửa sát thương từ đòn trí mạng."
+    },
+    {
+      "id": 837501,
+      "name": "Carmilla",
+      "desc": "Bắt Đầu Lượt: Gây sát thương cố định bằng 5% HP lên một kẻ địch ngẫu nhiên."
+    },
+    {
+      "id": 837502,
+      "name": "Giọt Đầy Dinh Dưỡng",
+      "desc": "Kết Đòn: Hồi phục cho Bộ Phận và Lõi một lượng bằng 50% sát thương mà chủ thể đã gây ra bằng Kỹ Năng Tấn Công\n- Ở 100% HP, Nhận 2 [AttackUp] vào lượt kế. (tối đa 2 lần)\nDựa trên lượng HP đã hồi, nhận các hiệu ứng sau (có thể cộng dồn)\n- Khi có 1+ Lớp: Nhận 3 [DefenseUp] vào mỗi Bắt Đầu Lượt\n- Khi có 2+ Lớp: Nhận 3 [AttackUp] vào mỗi Bắt Đầu Lượt\n- Khi có 3+ Lớp: Nhận +2 Tốc Độ Tối Thiểu & Tối Đa\n- Khi có 5+ Lớp: Nhận 3 [Enhancement] vào mỗi Bắt Đầu Lượt"
+    },
+    {
+      "id": 837503,
+      "name": "Một Đóa Hoa Siết Cổ",
+      "desc": "Kết Đòn: Gây 1 [TinyCarmilla]\nNếu mục tiêu có [Laceration], gây thêm 1 [TinyCarmilla] khi Kết Đòn"
+    },
+    {
+      "id": 837601,
+      "name": "Roi Đính Gai",
+      "desc": "Nếu mục tiêu có [Burst] ngay trước khi tấn công, có 20% cơ hội gây +1 Tầng [Burst]\nKhi gây [ThornNoose], tạo 'Roi Gai Góc' trói buộc mục tiêu.",
+      "summary": "Nếu mục tiêu có [Burst] ngay trước khi tấn công, có 20% cơ hội gây +1 Tầng [Burst]"
+    },
+    {
+      "id": 837602,
+      "name": "Chiến Mã Bụi Gai",
+      "desc": "Nhận Tốc Độ bằng với số 'Roi Gai Góc' được tạo trên sân"
+    },
+    {
+      "id": 837603,
+      "name": "Bụi Gai Khóa Chặt",
+      "desc": "Khi HP dưới 40%, thay đổi hành vi\nVào mỗi lượt, gây [Burst] bằng với Tốc Độ của mỗi kẻ địch nhắm tới chủ thể\nThay vào đó, gây 2 [ThornNoose]\nNhận 2 [AttackUp] and [DefenseDown] sau mỗi lượt (tối đa 12)"
+    },
+    {
+      "id": 838006,
+      "name": "Trong Những Giấc Mộng",
+      "desc": "Bắt Đầu Ải: nhận [Dreamy].\nBắt Đầu Ải: dòng máu đang say ngủ thấm đẫm nơi chiến trường sẽ trỗi dậy, tăng [BloodDinner] thêm 400."
+    },
+    {
+      "id": 838001,
+      "name": "Những Câu Chuyện Kể Mê Say, cùng với Đam Mê Rực Cháy",
+      "desc": "Khi chạm ngưỡng 80%, 60%, và 40% HP, không nhận thêm sát thương và thay đổi hành vi\nKhi thay đổi hành vi, phục hồi khỏi Choáng và tăng Tốc Độ lên 10 ở lượt kế"
+    },
+    {
+      "id": 838002,
+      "name": "Nếu chúng ta có thể được giải thoát khỏi cơn khát máu quái ác này",
+      "desc": "Khi Đánh Trúng, nếu mục tiêu có [Laceration], hồi phục cho Bộ Phận và Lõi của chủ thể bằng 40% sát thương gây ra.\n- Nội Tại này hồi thêm 1% HP với mỗi [Laceration] trên chủ thể (tối đa 20%)\n- Với các Xu Bất Hoại: hiệu ứng này không kích hoạt khi Đánh Trúng sau khi Thua Giao Tranh.\nBắt Đầu Mỗi Lượt: hồi ([BloodDinner]/10) HP. (tối đa 50)\nĐầu Mỗi Lượt: khi có -15 SP hoặc thấp hơn, tiêu thụ (20 - SP hiện tại) [BloodDinner] để nhận SP và nhận 2 [ParryingResultUp]\nKết Liễu, nhận 5 [BloodArmor]",
+      "summary": "Khi Đánh Trúng, nếu mục tiêu có [Laceration], hồi HP"
+    },
+    {
+      "id": 838003,
+      "name": "Con đi cùng người chuyến hành trình, được không?",
+      "desc": "Kết Thúc Lượt: Tốc Độ Tối Thiểu & Tối Đa +1 ở lượt kế với mỗi 300 [BloodDinner]"
+    },
+    {
+      "id": 838004,
+      "name": "Huyết Yến",
+      "desc": "Nếu chủ thể đang tham chiến hoặc có thể tham chiến, tăng [BloodDinner] dựa theo tổng sát thương [Laceration] tất cả đơn vị trong trận đã nhận.\nKhi chủ thể tham chiến, huyết mạch ngủ say giờ đây xuất hiện trên chiến trường."
+    },
+    {
+      "id": 838005,
+      "name": "Huyết Giáp",
+      "desc": "Khởi Chiến: Nhận 1 [BloodArmor]\n- [BloodArmor] không thể giảm xuống dưới 1\n- Khi có 10+ [BloodArmor], chuyển hết thành [BloodArmor_2nd].\n- Khi có 20+ [BloodArmor], chuyển hết thành [BloodArmor_3rd].\nNhận Tốc Độ Tối Thiểu & Tối Đa dựa trên số Tầng của hiệu ứng này (tối đa 2)\nNếu chủ thể tiêu thụ [BloodArmor] và giảm xuống dưới các ngưỡng trên, quay về Tầng trước đó tương ứng"
+    },
+    {
+      "id": 838007,
+      "name": "Nhưng ta không thể nào bỏ mặc Cha và Gia Đình của mình",
+      "desc": "Kết Thúc Lượt: Nếu bị Hoảng Loạn, phục hồi khỏi Hoảng Loạn, và tiêu thụ 100 [BloodDinner] để nhận 3 [Enhancement]\n- Nếu không thể tiêu thụ [BloodDinner], nhận 30 [Laceration], 3 [Enhancement], và 2 [AttackDmgUp]"
+    },
+    {
+      "id": 837701,
+      "name": "Roi Gai Góc",
+      "desc": "Nếu chủ thể chết, [ThornNoose] đang trói kẻ địch sẽ biến mất"
+    },
+    {
+      "id": 839401,
+      "name": "Bảo Vệ Mục Tiêu Chỉ Định",
+      "desc": "Khi Bắt Đầu Lượt, gán 2 [DefenseUp] cho đồng minh mất nhiều phần trăm HP nhất giữa Lượt này và Lượt trước"
+    },
+    {
+      "id": 840301,
+      "name": "Huyết Giáp Bị Nghiền Nát và Vỡ Tung",
+      "desc": "Khi chủ thể bị đòn tấn công của kẻ địch hoặc sát thương từ Hiệu Ứng kết liễu, tăng [BloodDinner] thêm 30, và tăng tài nguyên E.G.O của một Thuộc Tính ngẫu nhiên thêm 2. Không kích hoạt nếu chủ thể tự kết liễu bản thân."
+    },
+    {
+      "id": 840302,
+      "name": "Điên Đến Nổ Cả Người!",
+      "desc": "Nếu chủ thể vẫn còn sống đến khi Kết Thúc Lượt, sử dụng Kỹ Năng phát nổ vào lượt kế. Nếu chủ thể vẫn còn sống khi Kết Thúc lượt kế khi dùng Kỹ Năng phát nổ, lập tức chết."
+    },
+    {
+      "id": 839001,
+      "name": "Cố định HP của Lõi ở 1",
+      "desc": "HP của Lõi không giảm xuống dưới 1."
+    },
+    {
+      "id": 839002,
+      "name": "La Manchaland, Bị Bỏ Hoang và Mục Nát",
+      "desc": "Triệu hồi các Buồng Đu Quay chứa Huyết Quỷ và Túi Máu[TabExplain] theo chu kỳ cố định. Một số lượng Huyết Quỷ và Túi Máu[TabExplain] nhất định có thể xuất hiện trên chiến trường khi một Buồng Đu Quay được triệu hồi."
+    },
+    {
+      "id": 839003,
+      "name": "Vòng Lặp Bất Tận của Cối Xay Gió, Vòng Đu Quay và Chúng Ta",
+      "desc": "Không thể bị tấn công khi có một Buồng Đu Quay ở trên chiến trường.\nKhông giảm HP do sát thương Kỹ Năng gây ra. Không nhận sát thương từ [Combustion], [Laceration], [Vibration], [Burst], hoặc [Sinking]."
+    },
+    {
+      "id": 839004,
+      "name": "Nào cùng... chơi thêm vòng nữa đi.",
+      "desc": "Nếu có 0 [FerrisWheel] và không còn đơn vị nào có thể được sinh ra ở lượt kế khi Kết Thúc Lượt hoặc trong lúc giao chiến, chuyển sang giai đoạn tiếp theo."
+    },
+    {
+      "id": 839005,
+      "name": "Héo Mòn và Kiệt Quệ",
+      "desc": "Nhận [StarvingDonqui] khi bắt đầu Ải"
+    },
+    {
+      "id": 841001,
+      "name": "Cơn Khát Máu Trở Lại",
+      "desc": "- Khi có 10+ [RegainedStrength], chuyển hết thành [RegainedStrength_2nd].\n- Khi có 20+ [RegainedStrength], chuyển hết thành [RegainedStrength_3rd].\n- Nếu chủ thể tiêu thụ [RegainedStrength] và giảm xuống dưới các ngưỡng trên, quay về Tầng trước đó tương ứng"
+    },
+    {
+      "id": 841002,
+      "name": "Huyết Giáp Thuật Don Quixote",
+      "desc": "Khi Đánh Trúng, nếu mục tiêu có [Laceration], hồi phục cho Bộ Phận và Lõi của chủ thể bằng 30% sát thương gây ra.\n- Với các Xu Bất Hoại: hiệu ứng này không kích hoạt khi Đánh Trúng sau khi Thua Giao Tranh."
+    },
+    {
+      "id": 841003,
+      "name": "Yến Tiệc Xa Lạ",
+      "desc": "Nếu chủ thể hồi nhiều hơn 15% HP tối đa, hoặc rút [Laceration] trên kẻ địch, nhận 3 [Binding] ở lượt kế. (một lần mỗi lượt)\nNếu chủ thể kết liễu mục tiêu bằng Kỹ Năng, nhận 2 [AttackDown] và 1 [DefenseDown] ở lượt kế. (3 lần mỗi lượt)"
+    },
+    {
+      "id": 841004,
+      "name": "Vì Gia Đình...",
+      "desc": "Kết Thúc Lượt: Nếu bị Hoảng Loạn, phục hồi khỏi Hoảng Loạn ở lần Bắt Đầu Lượt tới và đặt SP về 0.\nKhi phục hồi khỏi Hoảng Loạn:\n- Tiêu thụ 30 [BloodDinner] để nhận 2 [Enhancement] và 1 [Agility] ở lượt kế, rồi hồi 30 SP.\n- Nếu không thể tiêu thụ [BloodDinner], nhận 40 [Laceration], ngay lập tức nhận sát thương từ [Laceration], rồi giảm 5 Tầng [Laceration].\n- Sau đó, nhận 2 [Enhancement] ở lượt kế và hồi 30 SP"
+    },
+    {
+      "id": 841101,
+      "name": "Mảnh Vỡ Tan Nát của Giấc Mơ Ngây Thơ và Vô Nghĩa",
+      "desc": "Nếu chủ thể bị tiêu diệt, tăng [BloodDinner] thêm 30\nKhi bị Tội Nhân kết liễu, triệu hồi Ký Ức về Chuyến Phiêu Lưu Mộng Mơ"
+    },
+    {
+      "id": 841102,
+      "name": "Mong Muốn Ích Kỷ Gây Hại Đến Cả Gia Đình",
+      "desc": "Khi bị Don Quixote kết liễu:\n- Don Quixote nhận 5 [RegainedStrength].\n- Tất cả Tội Nhân nhận 30 sát thương Dục Vọng và nhận 8 Lượng và Tầng [Laceration]."
+    },
+    {
+      "id": 841301,
+      "name": "Ký Ức về Hành Trình Xưa",
+      "desc": "Tất cả Tội Nhân nhận 5 SP mỗi khi Bắt Đầu Lượt.\nTội Nhân Don Quixote nhận một hiệu ứng đặc biệt"
+    },
+    {
+      "id": 841302,
+      "name": "Lời Nhắc Nhở Về Lòng Quyết Tâm",
+      "desc": "Khi bị giết bởi Don Quixote: Don Quixote nhận 3 [Reduction] lượt này và lượt kế"
+    },
+    {
+      "id": 841201,
+      "name": "Huyết Giáp - Tiêm Ngục",
+      "desc": "Khi chủ thể bị tiêu diệt, đồng minh bị chủ thể đâm xuyên sẽ mất hiệu ứng [Penetration] vào lượt kế."
+    },
+    {
+      "id": 841202,
+      "name": "Huyết Giáp Tan Vỡ, Tan Biến",
+      "desc": "Khi chủ thể bị tiêu diệt, nhận 3 tài nguyên E.G.O của loại có số lượng thấp nhất."
+    },
+    {
+      "id": 841203,
+      "name": "Tinh Thể Hóa Nội Huyết",
+      "desc": "Nếu chủ thể không bị tiêu diệt trong lượt kế khi được triệu hồi, chủ thể sẽ bị tiêu diệt khi Kết Thúc Lượt, và kích hoạt hiệu ứng sau.\nĐồng minh bị chủ thể đâm xuyên nhận sát thương cố định bằng 30% HP tối đa của họ, và nhận 10 [Laceration] và +5 Tầng [Laceration]."
+    },
+    {
+      "id": 841204,
+      "name": "Toàn Thể Huyết Tụ",
+      "desc": "Khi bị Don Quixote chính gốc kết liễu, kích hoạt hiệu ứng khi chết, và đồng minh bị chủ thể đâm xuyên sẽ chết."
+    },
+    {
+      "id": 841103,
+      "name": "Ta lẽ ra không nên có giấc mơ vô trách nhiệm thế này",
+      "desc": "Nếu chủ thể có [Precarious], Ký Ức về Hành Trình Mộng Mơ sẽ không được triệu hồi khi chết"
+    },
+    {
+      "id": 839006,
+      "name": "Sự Can Thiệp của Cành Vàng",
+      "desc": "Bắt Đầu Ải: Nhận [ConfinementOfGoldenBranch]."
+    },
+    {
+      "id": 841005,
+      "name": "Xin hãy thử lại lần nữa",
+      "desc": "Khi thay đổi hành vi, giảm một nửa Lượng [Combustion], [Laceration], [Vibration], [Burst], và [Sinking] trên các Bộ Phận của chủ thể."
+    },
+    {
+      "id": 841104,
+      "name": "Chuyến hành trình kết thúc tại đây.",
+      "desc": "Don Quixote nhận Khiên mỗi khi Bắt Đầu Lượt."
+    }
+  ]
+}

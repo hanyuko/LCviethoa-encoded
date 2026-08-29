@@ -1,0 +1,267 @@
+{
+  "dataList": [
+    {
+      "id": 9427,
+      "name": "Lao Móc Bảo Vệ Làng Chài",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 6]\n\nKết thúc lượt: Khi HP < 30%, nhận 1 [Enhancement] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9427,
+          "simpleDesc": "Nhận 1 [Enhancement] lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 19427,
+      "name": "Lao Móc Bảo Vệ Làng Chài+",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 6]\nKết thúc lượt: Khi HP < 40%, nhận 1 [Enhancement] lượt kế\n\nKết thúc lượt: Nếu có đồng minh bị Choáng, nhận +6 [Aggro] vào lượt kế và nhận 4 [DefenseUp] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 19427,
+          "simpleDesc": "Nhận 1 [Enhancement] lượt kế"
+        },
+        {
+          "abilityID": 194271,
+          "simpleDesc": "Nhận +6 [Aggro] và 4 [DefenseUp] lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 29427,
+      "name": "Lao Móc Bảo Vệ Làng Chài++",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 6]\nKết thúc lượt: Khi HP < 50%, nhận 1 [Enhancement] lượt kế\n\nKết thúc lượt: Nếu có đồng minh bị Choáng, nhận +6 [Aggro] vào lượt kế và nhận 4 [DefenseUp] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 29427,
+          "simpleDesc": "Nhận 1 [Enhancement] lượt kế"
+        },
+        {
+          "abilityID": 294271,
+          "simpleDesc": "Nhận +6 [Aggro] và 4 [DefenseUp] lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 9428,
+      "name": "Tim Cá Voi",
+      "desc": "Đánh Trúng kẻ địch có [Laceration] hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng' bằng Kỹ Năng Tấn Công: Nhận 1 [Breath] (3 lần mỗi lượt mỗi Danh Tính)\n\nTrí Mạng: có 50% tỷ lệ nhận 1 [PenetrateResultUp] vào lượt kế (2 lần mỗi lượt mỗi Danh Tính; tính cả Kỹ Năng E.G.O và Phản Đòn)\n\nTrí Mạng - Xu Ngửa bằng Kỹ Năng Cơ Bản: Gây thêm +1 hiệu ứng xấu với Xu đó (một lần mỗi lượt mỗi Danh Tính; tính cả Kỹ Năng E.G.O và Phản Đòn)",
+      "simpleDesc": [
+        {
+          "abilityID": 9428,
+          "simpleDesc": "Nhận 1 [Breath]"
+        },
+        {
+          "abilityID": 94281,
+          "simpleDesc": "Cơ hội nhận [PenetrateResultUp] vào lượt kế"
+        },
+        {
+          "abilityID": 94282,
+          "simpleDesc": "Gây thêm 1 hiệu ứng bất lợi"
+        }
+      ]
+    },
+    {
+      "id": 9431,
+      "name": "Cây Vĩ Cầm Vỡ Nát",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 5, Số 6]\n\nNếu HP ≤ 45%, nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] khi Thắng Giao Tranh (2 lần mỗi lượt mỗi nhân vật)\n\nNếu HP ≤ 20%, đổi thành nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] khi Dùng Kỹ Năng (2 lần mỗi lượt mỗi nhân vật)",
+      "simpleDesc": [
+        {
+          "abilityID": 9431,
+          "simpleDesc": "Nhận 1 [AttackUp] & 1 [TakeHpHealIncrease]"
+        },
+        {
+          "abilityID": 94311,
+          "simpleDesc": "Nhận 1 [AttackUp] & 1 [TakeHpHealIncrease]"
+        }
+      ]
+    },
+    {
+      "id": 19431,
+      "name": "Cây Vĩ Cầm Vỡ Nát+",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 5, Số 6]\n\nNếu HP ≤ <style=\"upgradeHighlight\">65%-</style>, nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] khi Thắng Giao Tranh (2 lần mỗi lượt mỗi nhân vật)\n\nNếu HP ≤ <style=\"upgradeHighlight\">40%-</style>, nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] khi Dùng Kỹ Năng (2 lần mỗi lượt mỗi nhân vật)\n\n<style=\"upgradeHighlight\">Khi thắng Giao tranh sau 5+ lần Giao Tranh, Kỹ năng thắng Giao Tranh +(Số lần Giao Tranh x 2)% sát thương gây ra (tối đa 20%)</style>",
+      "simpleDesc": [
+        {
+          "abilityID": 19431,
+          "simpleDesc": "Nhận 1 [AttackUp] & 1 [TakeHpHealIncrease]"
+        },
+        {
+          "abilityID": 194311,
+          "simpleDesc": "Nhận 1 [AttackUp] & 1 [TakeHpHealIncrease]"
+        },
+        {
+          "abilityID": 194312,
+          "simpleDesc": "Gây thêm sát thương dựa vào số lần Giao Tranh"
+        }
+      ]
+    },
+    {
+      "id": 29431,
+      "name": "Cây Vĩ Cầm Vỡ Nát++",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 5, Số 6]\n\nNếu HP ≤ 65%, nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] khi Giao Tranh Thắng (2 lần mỗi lượt mỗi nhân vật)\n\nNếu HP ≤ 40%, nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] khi Dùng Kỹ Năng (2 lần mỗi lượt mỗi nhân vật)\n\nKhi thắng Giao tranh sau 5+ lần Giao Tranh, Kỹ Năng thắng Giao Tranh <style=\"upgradeHighlight\">+(Số lần Giao tranh x 3)% sát thương gây ra (tối đa 30%)</style>",
+      "simpleDesc": [
+        {
+          "abilityID": 29431,
+          "simpleDesc": "Nhận 1 [AttackUp] & 1 [TakeHpHealIncrease]"
+        },
+        {
+          "abilityID": 294311,
+          "simpleDesc": "Nhận 1 [AttackUp] & 1 [TakeHpHealIncrease]"
+        },
+        {
+          "abilityID": 294312,
+          "simpleDesc": "Gây thêm sát thương dựa vào số lần Giao Tranh"
+        }
+      ]
+    },
+    {
+      "id": 9432,
+      "name": "Hộp Nhạc Hình Trang Viên",
+      "desc": "Cuối Lượt: nếu Bị Choáng, hồi phục khỏi Choáng; sau đó, vào Đầu Lượt kế, gây 4 Lượng [Sinking] và 4 Tầng [Sinking] lên toàn bộ kẻ địch (mỗi lần mỗi Ải; trong Ải Chuyên Sâu, lên tất cả Bộ Phận)\n\nKhi Giết Địch, 1 kẻ địch có ít Tầng [Sinking] nhất nhận +2 Tầng [Sinking] (3 lần mỗi lượt; trong Ải Chuyên Sâu, là Bộ Phận)",
+      "simpleDesc": [
+        {
+          "abilityID": 9432,
+          "simpleDesc": "Gây 4  Lượng và Tầng [Sinking] lên tất cả Kẻ địch"
+        },
+        {
+          "abilityID": 94321,
+          "simpleDesc": "Kẻ địch có Tầng [Sinking] ít nhất nhận +2 Tầng [Sinking]"
+        }
+      ]
+    },
+    {
+      "id": 9435,
+      "name": "Kỹ Thuật Khống Chế Của Quản Gia",
+      "desc": "Đầu Lượt: gây 1 [Binding] lên kẻ địch vừa hồi phục khỏi Choáng ở lượt trước\n\nKhi đồng minh có phần trăm HP cao nhất Đánh Trúng: nếu mục tiêu Bị Choáng, +7.5% sát thương gây ra với mỗi Mức Độ Choáng.",
+      "simpleDesc": [
+        {
+          "abilityID": 9435,
+          "simpleDesc": "Gây 1 [Binding] cho kẻ địch hôi phục khỏi Choáng"
+        },
+        {
+          "abilityID": 94351,
+          "simpleDesc": "Gây thêm sát thương dựa trên Bậc Choáng của mục tiêu"
+        }
+      ]
+    },
+    {
+      "id": 19435,
+      "name": "Kỹ Thuật Khống Chế Của Quản Gia+",
+      "desc": "Đầu Lượt: Gây <style=\"upgradeHighlight\">2</style> [Binding] lên kẻ địch vừa hồi phục khỏi Choáng ở lượt trước\n\nKhi đồng minh có phần trăm HP cao nhất Đánh Trúng: nếu mục tiêu Bị Choáng, +<style=\"upgradeHighlight\">10%</style> sát thương gây ra với mỗi Mức Độ Choáng.",
+      "simpleDesc": [
+        {
+          "abilityID": 19435,
+          "simpleDesc": "Gây 2 [Binding] cho kẻ địch hôi phục khỏi Choáng"
+        },
+        {
+          "abilityID": 194351,
+          "simpleDesc": "Gây thêm sát thương dựa trên Bậc Choáng của mục tiêu"
+        }
+      ]
+    },
+    {
+      "id": 29435,
+      "name": "Kỹ Thuật Khống Chế Của Quản Gia++",
+      "desc": "Đầu Lượt: Gây <style=\"upgradeHighlight\">3</style> [Binding] lên kẻ địch vừa hồi phục khỏi Choáng ở lượt trước\n\nKhi đồng minh có phần trăm HP cao nhất Đánh Trúng: nếu mục tiêu Bị Choáng, +<style=\"upgradeHighlight\">12.5%</style> sát thương gây ra với mỗi Mức Độ Choáng.",
+      "simpleDesc": [
+        {
+          "abilityID": 29435,
+          "simpleDesc": "Gây 3 [Binding] cho kẻ địch hôi phục khỏi Choáng"
+        },
+        {
+          "abilityID": 294351,
+          "simpleDesc": "Gây thêm sát thương dựa trên Bậc Choáng của mục tiêu"
+        }
+      ]
+    },
+    {
+      "id": 9436,
+      "name": "Ống Kính Khúc Xạ",
+      "desc": "(Ải Thường) Đánh Trúng kẻ địch có 10+ (tổng Lượng và Tầng [Sinking]): \nnếu mục tiêu đạt -45 SP, gây (Lượng [Sinking] trên mục tiêu / 5) sát thương Thờ Ơ (một lần mỗi Kỹ Năng)\n\n(Ải Chuyên Sâu) Đánh Trúng kẻ địch có 10+ (tổng Lượng và Tầng [Sinking]):\ngây (Lượng [Sinking] trên mục tiêu / 10) sát thương Thờ Ơ (một lần mỗi Kỹ Năng)\n\nNếu Kỹ Năng đánh trúng kẻ địch có gây [Sinking] (tính cả Tầng [Sinking] và <noparse>Sa Lầy</noparse> Đặc Trưng), đổi thành gây (Lượng [Sinking] trên mục tiêu) \n(Mỗi lượt, hiệu ứng này chỉ gán cho Kỹ Năng đầu tiên gây <noparse>Sa Lầy</noparse> đánh trúng kẻ địch)",
+      "simpleDesc": [
+        {
+          "abilityID": 9436,
+          "simpleDesc": "Gây sát thương Thờ Ơ dựa trên [Sinking] của mục tiêu"
+        },
+        {
+          "abilityID": 94361,
+          "simpleDesc": "Gây sát thương Thờ Ơ dựa trên [Sinking] của mục tiêu"
+        }
+      ]
+    },
+    {
+      "id": 9437,
+      "name": "Vé Ngày La ManchaLand",
+      "desc": "Đánh trúng mục tiêu có 10+ (tổng [Laceration], '<noparse>Chảy Máu</noparse> Đặc Trưng', và [Burst]): nhận 1 Lượng và Tầng [Breath] (2 lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 9437,
+          "simpleDesc": "Nhận 1 Lượng và Tầng [Breath]"
+        }
+      ]
+    },
+    {
+      "id": 9438,
+      "name": "Đồng Xu Chiến Thắng",
+      "desc": "Khi Giết Địch, 1 đồng minh có SP thấp nhất hồi 3 SP.\n\nKết Đòn: Nếu một kẻ địch có 10+ (tổng [Laceration], '<noparse>Chảy Máu</noparse> Đặc Trưng', và [Burst]) bị đánh bại, 1 đồng minh nhận 2 [AttackUp] vào lượt kế (ưu tiên đồng minh đã giết kẻ địch đó)",
+      "simpleDesc": [
+        {
+          "abilityID": 9438,
+          "simpleDesc": "Hồi 3 SP"
+        },
+        {
+          "abilityID": 9438,
+          "simpleDesc": "Một đồng minh ngẫu nhiên nhận 2 [AttackUp] lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 9439,
+      "name": "Khối Nuốt Chửng",
+      "desc": "Khi một đồng minh chết, nhận 1 tài nguyên E.G.O có Nguyên Tội tương ứng với Kỹ Năng 1 và 2 của đồng minh đó.\n\nKết Đòn: Nếu có kẻ địch bị giết, nhận 1 tài nguyên E.G.O ngẫu nhiên (một lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 9439,
+          "simpleDesc": "Nhận 1 tài nguyên E.G.O ngẫu nhiên"
+        }
+      ]
+    },
+    {
+      "id": 9440,
+      "name": "Mặt Nạ Diễu Hành",
+      "desc": "Kỹ Năng Cơ Bản của toàn bộ đồng minh Huyết Quỷ nhận Sức Mạnh Xu +1\n\nTrong Ải xuất hiện kẻ địch dự bị: Khi kẻ địch mới vào sân, gây 3 [Laceration] và +3 Tầng [Laceration] lên chúng.\n\nNếu có một <Huyết Quỷ> trong số đồng minh: Khi kẻ địch mới vào sân, kích hoạt [Laceration] trên toàn bộ kẻ địch và giảm 1 Tầng [Laceration] của chúng",
+      "simpleDesc": [
+        {
+          "abilityID": 94402,
+          "simpleDesc": "Kỹ Năng Xu Cơ Bản +1"
+        },
+        {
+          "abilityID": 9440,
+          "simpleDesc": "Gây 3 [Bleeding] và +2 Tầng [Bleeding] cho Kẻ địch dự bị tham gia trận chiến"
+        },
+        {
+          "abilityID": 94401,
+          "simpleDesc": "Kích hoạt [Bleeding] một lần lên tất cả Kẻ địch (giảm 1 Tầng [Bleeding] )"
+        }
+      ]
+    },
+    {
+      "id": 19440,
+      "name": "Mặt Nạ Diễu Hành+",
+      "desc": "Kỹ Năng Cơ Bản của toàn bộ đồng minh Huyết Quỷ nhận Sức Mạnh Xu +1\nTrong Ải xuất hiện kẻ địch dự bị: Khi kẻ địch mới vào sân, gây <style=\"upgradeHighlight\">5</style> [Laceration] và +<style=\"upgradeHighlight\">3</style> Tầng [Laceration] lên chúng.\n\nNếu có một <Huyết Quỷ> trong số đồng minh: Khi kẻ địch mới vào sân, kích hoạt [Laceration] trên toàn bộ kẻ địch và giảm 1 Tầng [Laceration] của chúng",
+      "simpleDesc": [
+        {
+          "abilityID": 94402,
+          "simpleDesc": "Kỹ Năng Xu Cơ Bản +1"
+        },
+        {
+          "abilityID": 194405,
+          "simpleDesc": "Gây 5 [Bleeding] và +3 Tầng [Bleeding] cho Kẻ địch dự bị tham gia trận chiến"
+        },
+        {
+          "abilityID": 1944051,
+          "simpleDesc": "Kích hoạt [Bleeding] một lần lên tất cả Kẻ địch (giảm 1 Tầng [Bleeding] )"
+        }
+      ]
+    }
+  ]
+}

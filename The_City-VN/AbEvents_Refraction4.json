@@ -1,0 +1,43 @@
+{
+  "dataList": [
+    {
+      "id": 860801,
+      "title": "Dreaming Electric Sheep",
+      "prevDesc": "",
+      "eventDesc": "Ở đầu còn lại của mỗi sợi dây cáp đang nằm bừa bãi trên mặt đất là một phích cắm.\n\nCó lẽ con cừu biết chúng nghĩa là gì.\n\nNó kêu lên một tiếng đầy thảm thương.\n\nCác Tội Nhân càng xúm lại gần con cừu thì nó lại càng kêu gào thảm thiết hơn.\n\nCon cừu bắt đầu cựa quậy vô cùng hoang dại.\n\nNó sẽ càng phản kháng mãnh liệt hơn.",
+      "behaveDesc": "Ai sẽ cố kìm hãm con cừu lại?",
+      "successDesc": [
+        "[{0}] cầm một sợi dây cáp và cắm nó vào con cừu.\n\nNhững tia lửa tím chợt làm choáng mắt.\n\nCon cừu kêu gào thảm thiết rồi gục xuống, đôi mắt nó khép lại.\n\n[{0}] thấy con cừu đã lặng tiếng. Như trong một giấc mộng êm đềm.\n\n[{0}] trở về vị trí chiến đấu, toàn thân bị dòng điện làm cháy đi một mảng."
+      ],
+      "failureDesc": [
+        "Ngay khi [{0}] định cắm sợi dây cáp vào con cừu,\n\nThì nó dùng cặp chân dài đá bay [{0}] ra xa.\n\nSau khi văng ra tận ngoài kia, Tội Nhân đó nhìn sợi dây cáp trên tay mình...\n\nRồi một dòng điện rền vang trực tiếp phóng thẳng vào người."
+      ]
+    },
+    {
+      "id": 860501,
+      "title": "Portrait of a Certain Day",
+      "prevDesc": "",
+      "eventDesc": "''Tôi là quản gia của dinh thự này.'\n\n'Nhưng trước giờ chưa từng thấy mặt mọi người.'\n\n'Tuy vẫn phải dè chừng; có lẽ các người định nhấn chìm dinh thự này trong nỗi tuyệt vọng thống khổ.'\n\n'Còn nếu như không phải thì tôi xin mạn phép hỏi câu này. Bức chân dung nào ở đây mới là chủ nhân của tôi?'",
+      "behaveDesc": "Ai sẽ lên tiếng trả lời?",
+      "successDesc": [
+        "[{0}] tự tin tiến lên rồi chỉ tay vào một bức chân dung.\n\nCon quái vật bất động trong chốc lát, rồi dõng dạc lên tiếng.\n\n'Hóa ra mọi người quen biết chủ nhân của tôi.'\n\n'Tuy vẫn là kẻ xâm nhập nhưng có vẻ không phải kẻ mang lại tuyệt vọng cho nơi đây.'\n\nCon quái vật vẫn cầm bức chân dung có vẻ đã bớt thù địch hơn."
+      ],
+      "failureDesc": [
+        "[{0}] tự tin tiến lên rồi chỉ tay vào một bức chân dung.\n\nCon quái vật bất động trong chốc lát, rồi bỗng dưng khóc ròng lên.\n\n'Các người thậm chí còn chẳng nhận ra diện mạo của chủ nhân tôi...'\n\n'Các người chính là kẻ xâm nhập sẽ lại lần nữa mang đến tuyệt vọng cho nơi này.'\n\n'Sao các người dám cả gan dối trá như thế. Hành vi này không thể nào tha thứ được.'\n\n[{0}] bỗng cảm nhận được cái nhìn phẫn uất từ tất cả chân dung trong căn phòng này.\n\nTừng bức chân dung đều chất chứa... oán hận."
+      ]
+    },
+    {
+      "id": 862903,
+      "title": "The King in Binds",
+      "prevDesc": "",
+      "eventDesc": "Đeo chiếc mặt nạ thêm một lần nữa triệu hồi nên thứ cảm xúc mãnh liệt đang dần thấm nhuần vào trong trái tim bạn.\n\nNỗi đau thương dâng trào qua làn sương khói của trận chiến nảy lửa; áp lực nặng nề xuyên thấu tận tâm can lẫn cảm xúc bây giờ.",
+      "behaveDesc": "Liệu có thể nào kháng cự lại nỗi đau thương?",
+      "successDesc": [
+        "Nỗi đau thương dần lắng xuống.\n\nBữa tiệc long trọng này vẫn chưa hề kết thúc.\n\nCác Tội Nhân lần lượt đứng dậy và rũ bỏ cảm giác u sầu xâm lấn tâm trí mình, vì giờ đây trong trái tim họ tràn đầy quyết tâm cháy bỏng."
+      ],
+      "failureDesc": [
+        "Cơn đại hồng thủy của nỗi đau thương nhấn chìm các Tội Nhân xuống đáy đại dương sâu thẳm đen hoắm, chẳng thể nào vực dậy được nữa.\n\nThế nhưng, bữa tiệc long trọng này vẫn phải tiếp tục.\n\nCác Tội Nhân cố nén nỗi đau thương và tiếp tục chiến đấu."
+      ]
+    }
+  ]
+}

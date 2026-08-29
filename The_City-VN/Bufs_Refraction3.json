@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "MRcAfBa",
+      "name": "Bông Gòn",
+      "desc": "          <sprite name=\"MRcAfBb\"><color=#fac400>   </color>    <sprite name=\"MRcAfBa\"><color=#e30000> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>   ",
+      "summary": "Cuối Lượt: Nhận (số Lớp <sprite name=\"MRcAfBa\"><color=#e30000>Bông Gòn</color> / 2) <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color> và Tầng <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color>"
+    },
+    {
+      "id": "MRcAfBb",
+      "name": "Bông Gòn Nhuộm Đỏ",
+      "desc": "     <sprite name=\"Laceration\"><color=#e30000> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>       \n    <sprite name=\"MRcAfBa\"><color=#e30000> </color>        <sprite name=\"MRcAfBa\"><color=#e30000> </color>  ",
+      "summary": "Nhận Sức Mạnh Giao Tranh +(số Lớp <sprite name=\"MRcAfBa\"><color=#e30000>Bông Gòn</color> / 2)"
+    },
+    {
+      "id": "MRcAiBa",
+      "name": "Tàn Lửa",
+      "desc": "    \n  <sprite name=\"MRcAiBa\"><color=#fac400> </color>  {0}               \n       <sprite name=\"MRcAiBb\"><color=#e30000>   </color>    <sprite name=\"MRcAiBa\"><color=#fac400> </color>           <sprite name=\"MRcAiBa\"><color=#fac400> </color>      ",
+      "summary": ""
+    },
+    {
+      "id": "MRcAiBb",
+      "name": "Tàn Lửa Bập Bùng",
+      "desc": "    \n <sprite name=\"MRcAiBc\"><color=#e30000> </color>            <sprite name=\"MRcAiBb\"><color=#e30000>   </color>   ",
+      "summary": ""
+    },
+    {
+      "id": "MRcAiBc",
+      "name": "Tia Lửa",
+      "desc": "   <sprite name=\"Combustion\"><color=#e30000> </color>   <sprite name=\"Combustion\"><color=#e30000> </color>            \n   <sprite name=\"MRcAiBa\"><color=#fac400> </color>     <sprite name=\"MRcAiBc\"><color=#e30000> </color>\n    ",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBa",
+      "name": "Khinh Miệt",
+      "desc": "                  \n    <sprite name=\"AttackDmgDown\"><color=#e30000>  </color>   ",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBb",
+      "name": "Nắm Chặt",
+      "desc": "    \n   \n     ≤                                       \n    \n                    ",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBc",
+      "name": "Ánh Nhìn",
+      "desc": "        <sprite name=\"MRcAmBc\"><color=#9f6a3a> </color>\n     <sprite name=\"MRcAmBc\"><color=#9f6a3a> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>        <sprite name=\"MRcAmBa\"><color=#e30000> </color>",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBd",
+      "name": "Ánh Nhìn Bao Trùm Tất Thảy",
+      "desc": "      \n        <sprite name=\"MRcAmBd\"><color=#9f6a3a> </color>    {0}         {0}     ",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBbDisplay",
+      "name": "Nắm Chặt",
+      "desc": "    \n   \n     ≤                                       \n    \n                    ",
+      "summary": ""
+    }
+  ]
+}

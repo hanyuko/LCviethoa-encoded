@@ -1,0 +1,176 @@
+{
+  "dataList": [
+    {
+      "id": "clear_turn",
+      "content": "Số Lượt"
+    },
+    {
+      "id": "accumulated_turn",
+      "content": "Tổng Số Lượt"
+    },
+    {
+      "id": "final_accumulated_turn",
+      "content": "Số Lượt Cuối Cùng"
+    },
+    {
+      "id": "reward_after_clear",
+      "content": "Phần Thưởng Qua Màn"
+    },
+    {
+      "id": "lost_and_found",
+      "content": "Tìm Đồ Thất Lạc"
+    },
+    {
+      "id": "railway_line",
+      "content": "Tuyến Số {0}"
+    },
+    {
+      "id": "progressing_railway_line",
+      "content": "Hiện: {0}"
+    },
+    {
+      "id": "select_railway_line",
+      "content": "Bạn sẽ chọn Tuyến nào để đi đây?"
+    },
+    {
+      "id": "stage_info",
+      "content": "Thông Tin Trạm"
+    },
+    {
+      "id": "stage_number",
+      "content": "Khu Vực Số {0}"
+    },
+    {
+      "id": "mirror_refraction_railway",
+      "content": "<size=90%>Đoàn Tàu Khúc Xạ</size>"
+    },
+    {
+      "id": "mirror_refraction_railway_with_dungeon_name",
+      "content": "Đoàn Tàu Khúc Xạ: {0}"
+    },
+    {
+      "id": "accumulated_records",
+      "content": "Ghi Chép Hành Trình"
+    },
+    {
+      "id": "rank_with_number",
+      "content": "Hạng {0}"
+    },
+    {
+      "id": "open_railway_dungeon_records",
+      "content": "<size=90%>Ghi Chép Hành Trình</size>"
+    },
+    {
+      "id": "no_more_rewards_remains_desc",
+      "content": "Không còn thưởng để nhận."
+    },
+    {
+      "id": "use_enkephalin_module_to_acquire_rewards",
+      "content": "Tiêu hao <color=#990000>{0} Mô-Đun Enkephalin</color>để mở khóa phần thưởng?"
+    },
+    {
+      "id": "able_to_acquire_rewards_without_using_enkephalin_module",
+      "content": "※ Khi đã mở khóa, bạn có thể tùy ý nhận các phần thưởng đã kiếm được trong sự kiện mà không cần bổ sung chi phí."
+    },
+    {
+      "id": "railway_dungeon_ask_for_re_enter",
+      "content": "Hiện đang ở <color=#990000>{0} Khu Vực Số {1}</color>.\nTiếp tục cuộc hành trình?"
+    },
+    {
+      "id": "railway_dungeon_current_running",
+      "content": "Đang tiến hành {0}-{1} "
+    },
+    {
+      "id": "final_clear_accumulated_turn",
+      "content": "Tổng Lượt"
+    },
+    {
+      "id": "railway_dungeon_detailed_info",
+      "content": "Chi Tiết Vượt Ải"
+    },
+    {
+      "id": "railway_dungeon_1_banner_reward_condition_1",
+      "content": "Refraction Railway - Clear Station {0}"
+    },
+    {
+      "id": "railway_dungeon_1_banner_reward_condition_2",
+      "content": "Refraction Railway - Clear Station {0} under {1} total turns"
+    },
+    {
+      "id": "railway_dungeon_1_banner_reward_condition_3",
+      "content": "(Complete before {0})"
+    },
+    {
+      "id": "railway_dungeon_banner_reward_condition_title",
+      "content": "Banner Requisites"
+    },
+    {
+      "id": "railway_dungeon_banner_reward_unable_over",
+      "content": "(Unobtainable past {0} total turns)"
+    },
+    {
+      "id": "no_records_description",
+      "content": "Hiện đang trống các bản ghi."
+    },
+    {
+      "id": "recover_after_resting_battle",
+      "content": "Fully recovers\nafter resting\nfor this battle"
+    },
+    {
+      "id": "railway_dungeon_try_last_node",
+      "content": "Sẽ không thể quay lại sau khi tiến vào Trạm Cuối.\n\nXác nhận tiến vào?"
+    },
+    {
+      "id": "railway_dungeon_ask_stop_desc",
+      "content": "Xác nhận hủy chuyến Đoàn Tàu Khúc Xạ?"
+    },
+    {
+      "id": "railway_dungeon_finished_description",
+      "content": "※ If two records have the same Total Turns, the one with the higher death count will be overwritten.\nIf the death counts are also identical, then the older one will be overwritten."
+    },
+    {
+      "id": "railway_dungeon_open_duration",
+      "content": "Thời Gian Chiến Dịch"
+    },
+    {
+      "id": "railway_dungeon_current_station",
+      "content": "{0}"
+    },
+    {
+      "id": "railway_dungeon_route_map",
+      "content": "Sơ Đồ Tuyến Tàu"
+    },
+    {
+      "id": "railway_dungeon_resume_operation",
+      "content": "Tiếp Tục Thám Hiểm"
+    },
+    {
+      "id": "railway_dungeon_stop_operation",
+      "content": "Hủy Chuyến"
+    },
+    {
+      "id": "railway_dungeon_station_info",
+      "content": "Thông Tin Tuyến Tàu"
+    },
+    {
+      "id": "railway_dungeon_operation_closed",
+      "content": "Ngày Hủy Đoàn Tàu"
+    },
+    {
+      "id": "final_clear_accumulated_round",
+      "content": "Tổng Số Vòng Lặp"
+    },
+    {
+      "id": "railway_clear_date",
+      "content": "Ngày Ghi Nhận"
+    },
+    {
+      "id": "railway_clear_turn_count",
+      "content": "Tổng Số Lượt Qua Màn"
+    },
+    {
+      "id": "railway_clear_turn_count_by_stage",
+      "content": "Tổng Số Lượt Qua Màn Theo Từng Khu Vực"
+    }
+  ]
+}

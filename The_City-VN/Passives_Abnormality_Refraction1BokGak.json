@@ -1,0 +1,179 @@
+{
+  "dataList": [
+    {
+      "id": 950101,
+      "name": "Biến Đổi Trong Ký Ức",
+      "desc": "Đầu Lượt: Khi HP dưới 50%, hồi 20% HP"
+    },
+    {
+      "id": 950901,
+      "name": "Hora de Fiesta",
+      "desc": "Đầu Lượt: nếu HP dưới 50%, nhận 1 [Enhancement] và 1 [Endurance]"
+    },
+    {
+      "id": 951001,
+      "name": "Nhựa Xanh",
+      "desc": "Khi một Mắt bị phá hủy, kẻ địch có SP thấp nhất mất 35 SP"
+    },
+    {
+      "id": 951701,
+      "name": "Sự Hi Sinh Của Ngươi Sẽ Được Tôn Vinh",
+      "desc": "Khi một đồng minh chết, nhận 1 [Enhancement] vào lượt kế"
+    },
+    {
+      "id": 951702,
+      "name": "Niềm Vui Việc Phán Quyết",
+      "desc": "Khi Giết Địch, nhận 2 [AttackDmgUp] vào lượt kế"
+    },
+    {
+      "id": 951703,
+      "name": "Ngươi Sẽ Gõ Búa",
+      "desc": "Đầu Lượt: Nếu chủ thể có [Assemble], nhận 5 [AttackDmgUp]"
+    },
+    {
+      "id": 951801,
+      "name": "Cột Thu Lôi",
+      "desc": "When the Telephone Pole is hit, gây 2 [ElectricShock] on the attacker this turn.\nAt 5+ [DogThunder], all Parts will gây 3 [ElectricShock] on the attacker, starting vào lượt kế.\n(Lasts until [DogThunder] reaches 0.)\nWhen hit by a Sloth attack, the amount of [ElectricShock] inflicted is halved. (rounded up)"
+    },
+    {
+      "id": 951802,
+      "name": "Sấm Sét",
+      "desc": "Khi Cột Điện chưa bị phá hủy, nhận 1 [DogThunder] sau mỗi đòn tấn công\nKhi Cột Điện bị tấn công, mất 1 [DogThunder]"
+    },
+    {
+      "id": 951803,
+      "name": "Mảnh Vụn Vỡ",
+      "desc": "Khi Cột Điện Bị Choáng hoặc Phá Hủy, mất toàn bộ [DogThunder];\nTất cả Kỹ năng tấn công của Sói Gác Ngõ sẽ bị hủy trong lượt đó"
+    },
+    {
+      "id": 951901,
+      "name": "Bắt Đầu Chuyến Tham Quan Thị Trấn",
+      "desc": "Đầu Lượt: Ở mốc 10+ Tầng [Charge], nhận một hành vi chiến đấu mới"
+    },
+    {
+      "id": 952001,
+      "name": "Phát Hiện Thiệt Hại!",
+      "desc": "Khi chết, kqe-1j-23 nhận 100 sát thương, Bị Choáng vào lượt kế, và bị cấm sử dụng tất cả các Kỹ năng gây [Duress] tới hết ẢI"
+    },
+    {
+      "id": 952101,
+      "name": "Túi Máu",
+      "desc": "Nếu chủ thể có [BloodPocket]:\n- Kháng Phẫn Nộ của Phần Thân -50%\n- Kháng Thờ Ơ của Phần Thân +50%"
+    },
+    {
+      "id": 952102,
+      "name": "Túi Dịch",
+      "desc": "Nếu chủ thể có [WaterPocket], hồi phần Lõi của nó bằng (Lớp x 20)"
+    },
+    {
+      "id": 952201,
+      "name": "Cánh Tay Co Giật",
+      "desc": "Đầu Lượt: nhận [Enhancement] và [Protection] bằng số Lớp [AggressiveBokgak]"
+    },
+    {
+      "id": 952202,
+      "name": "Cánh Tay Hư Hại",
+      "desc": "Mất 1 [AggressiveBokgak] mỗi khi chủ thể nhận 1+ sát thương từ các đòn tấn công"
+    },
+    {
+      "id": 952203,
+      "name": "Lớp Vỏ Tái Tạo",
+      "desc": "Cuối Lượt: nếu chủ thể không nhận bất kỳ sát thương nào từ các đòn tấn công trong lượt đó, hồi 5% HP và nhận 1 [AggressiveBokgak]"
+    },
+    {
+      "id": 952204,
+      "name": "Ánh Nhìn Điên Cuồng",
+      "desc": "Thay đổi hành vi dựa trên số lớp [AggressiveBokgak].\nSử dụng kỹ năng mạnh ở mốc 4+ lớp [AggressiveBokgak], và vào thế phòng thủ khi có ít hơn 4 lớp"
+    },
+    {
+      "id": 952401,
+      "name": "Đạn HP",
+      "desc": "Đầu Lượt: hồi 15 HP\nKhi còn dưới 50% HP, hồi thêm 15 HP"
+    },
+    {
+      "id": 952701,
+      "name": "Đạn HP Quá Tải",
+      "desc": "Đầu Lượt: nhận 2 [AttackDmgUp] và 2 [Vulnerable]"
+    },
+    {
+      "id": 952702,
+      "name": "Tiên Huyết Thanh HP",
+      "desc": "Đầu Lượt: Nếu HP của chủ thể không ở mốc tối đa, hồi 25% HP (tối đa 3 lần; hồi phục khỏi Choáng nếu chủ thể đang trong trạng thái Choáng)"
+    },
+    {
+      "id": 952801,
+      "name": "Khuếch Đại Cuồng Nộ",
+      "desc": "Khi bị đánh trúng, nhận 1 [AggressiveBokgak]\nCuối Lượt: Ở mốc 4+ [AggressiveBokgak], tiến vào trạng thái [Enrage]"
+    },
+    {
+      "id": 952802,
+      "name": "Cuồng Loạn",
+      "desc": "Khi vào trạng thái [Enrage], chủ thể nhận 3 [Enhancement] và 3 [Vulnerable], nhận hành vi chiến đấu mới và không nhận thêm [Aggressive] khi bị đánh trúng."
+    },
+    {
+      "id": 952803,
+      "name": "Hào Quang Phẫn Nộ",
+      "desc": "Khi HP dưới 50%, tiến vào trạng thái [Enrage] mỗi lượt"
+    },
+    {
+      "id": 952901,
+      "name": "Da Thịt Thối Rữa",
+      "desc": "Đầu Lượt: Khi HP dưới 50%, nếu bị đánh trúng, gây 3 [Poison] lên kẻ tấn công"
+    },
+    {
+      "id": 952902,
+      "name": "Lột Da",
+      "desc": "Sau khi Bộ Phận này bị phá, nếu Cánh Tay còn lại vẫn chưa bị phá vào lượt kế, Bộ Phận này tái tạo với lượng HP bằng với Cánh Tay còn lại; saun đó, hồi phục cho phần Lõi bằng lượng HP đã hồi cho Cánh Tay đó\n\nKhi cả hai Tay đều bị phá, nhận một hành vi chiến đấu mới"
+    },
+    {
+      "id": 952903,
+      "name": "Quằn Quại Đau Đớn",
+      "desc": "Nhận 5 [Vulnerable] và gây 10 [Poison] lên toàn bộ kẻ địch mỗi lượt"
+    },
+    {
+      "id": 952904,
+      "name": "Bản Năng Quằn Quại",
+      "desc": "Thay đổi hành vi dựa trên số lớp [AggressiveBokgak].\nSử dụng kỹ năng mạnh ở mốc 4+ lớp [AggressiveBokgak], và vào thế phòng thủ ở mốc 0"
+    },
+    {
+      "id": 953301,
+      "name": "Khoái Cảm Dâng Trào",
+      "desc": "Từ lượt thứ 3 trở đi, trở nên [Cromer_Ecstasy] mỗi 2 lượt"
+    },
+    {
+      "id": 953302,
+      "name": "Tinh Khiết Nở Rộ",
+      "desc": "Cuối Lượt: Nếu cơ thể của Kromer bị hạ xuống dưới 50% HP, cô ấy nhận [Cromer_Madness] cho các lượt còn lại"
+    },
+    {
+      "id": 953303,
+      "name": "Xác Thịt Hoàn Hảo",
+      "desc": "Khi Cánh Tay bị phá hủy, Bộ Phận nhận 2 [Reduction]"
+    },
+    {
+      "id": 953401,
+      "name": "Thiền Định",
+      "desc": "Nếu có đồng minh còn sống, nhận 10 [Protection] vào đầu mỗi lượt"
+    },
+    {
+      "id": 953402,
+      "name": "Nghiệp Báo Luân Hồi",
+      "desc": "Toàn bộ đơn vị luân chuyển 10 [Cycle] đang có cho mục tiêu sau khi đánh trúng.\n(luân chuyển thên 5 [Cycle] mỗi lần Giao Tranh.)\n[Cycle] không luân chuyển cho Vô Ngã Nhập Định miễn là đồng minh của có còn sống."
+    },
+    {
+      "id": 953403,
+      "name": "Vô Ngã",
+      "desc": "Đầu Lượt: nếu phần Tượng bị phá hủy, gán 30 [Cycle] và 3 [Vulnerable] cho một đồng minh ngẫu nhiên, nhận một hành vi chiến đấu mới, và bước vào trạng thái Không Phân Địch Ta của Vô Ngã (Anatman)."
+    },
+    {
+      "id": 953404,
+      "name": "Hóa Thân",
+      "desc": "Mỗi khi phần Tượng hồi phục, HP tối đa của nó tăng 20%."
+    },
+    {
+      "id": 953501,
+      "name": "Dược Pháp",
+      "desc": "Đầu Lượt: hồi đầy HP"
+    }
+  ]
+}

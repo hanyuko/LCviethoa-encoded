@@ -1,0 +1,84 @@
+﻿{
+  "dataList": [
+    {
+      "id": "servererror_content",
+      "content": "Đã có lỗi máy chủ xảy ra.\nVui lòng thử lại sau."
+    },
+    {
+      "id": "serverstate_blocking_endpoint",
+      "content": "Chức năng hiện đang được bảo trì."
+    },
+    {
+      "id": "networkingerror_content",
+      "content": "Mạng không ổn định.\nVui lòng kiểm tra đường truyền kết nối."
+    },
+    {
+      "id": "serverstate_temporary_check",
+      "content": "Máy chủ hiện đang tạm thời bảo trì."
+    },
+    {
+      "id": "serverstate_regularcheck",
+      "content": "Máy chủ hiện đang bảo trì định kỳ."
+    },
+    {
+      "id": "serverstate_openpreparation",
+      "content": "Hệ thống chuẩn bị sẵn sàng!"
+    },
+    {
+      "id": "serverstate_verify_invaliduser",
+      "content": "Tài khoản không tồn tại hoặc đã đóng."
+    },
+    {
+      "id": "serverstate_verify_ban",
+      "content": "Tài khoản đã bị hạn chế."
+    },
+    {
+      "id": "serverstate_verify_invalidauth",
+      "content": "Đã có lỗi xảy ra.\nVui lòng đăng nhập lại."
+    },
+    {
+      "id": "serverstate_verify_invalidclientversion",
+      "content": "Phiên bản hiện tại của trò chơi chưa được cập nhật.\nVui lòng cập nhật phiên bản mới nhất."
+    },
+    {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "This request has already been processed.\nPlease restart the game to synchronize."
+    },
+    {
+      "id": "serverstate_error_thirdparty_api",
+      "content": "Lỗi kết nối máy chủ ngoài. Vui lòng thử lại sau."
+    },
+    {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "Giao dịch thất bại."
+    },
+    {
+      "id": "servererror_remain_restore_purchasing",
+      "content": "A transaction is still in progress.\nPlease use the [Restore Purchase] button and try again."
+    },
+    {
+      "id": "servererror_invalid_battle_version",
+      "content": "Version update available.\nPlease download new resources and try again."
+    },
+    {
+      "id": "servererror_steam_auth_error",
+      "content": "Failed to login via Steam.\nPlease check your Steam login status and try again at a later time."
+    },
+    {
+      "id": "servererror_invalid_date",
+      "content": "The device time does not match.\nPlease try again after ensuring your device's system clock is synced with the internet time."
+    },
+    {
+      "id": "servererror_lack_of_stamina",
+      "content": "Failed to sync currently owned Enkephalin.\nPlease check your device settings to verify if your time has been set automatically."
+    },
+    {
+      "id": "servererror_egogift_not_exist",
+      "content": "Failed to sync currently owned E.G.O Gift list.\nTask could not be completed."
+    },
+    {
+      "id": "servererror_already_entered_stage",
+      "content": "There is a stage already in progress.\nPlease log in again to synchronize your progress."
+    }
+  ]
+}

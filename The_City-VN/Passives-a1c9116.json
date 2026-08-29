@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": 9018301,
+      "name": "Giao Tranh Chiến Lược",
+      "desc": "Thắng Giao Tranh: Nhận 2 [Agility] vào lượt kế (một lần mỗi lượt)"
+    },
+    {
+      "id": 9019301,
+      "name": "Hạn Chế Cử Động",
+      "desc": "Thắng Giao Tranh: Gây 2 [Binding] trên mục tiêu vào lượt kế (một lần mỗi lượt)"
+    },
+    {
+      "id": 9018501,
+      "name": "Nhiệm Vụ Được Giao",
+      "desc": "Bắt Đầu Ải: Nhận [RepressedMurderousIntend]"
+    },
+    {
+      "id": 9018502,
+      "name": "Hành Bộ Giả [Mão]",
+      "desc": "Khi Đánh Trúng kẻ địch có [BurstAgility], gây +1 Tầng [Burst] trên mục tiêu (3 lần mỗi lượt)"
+    },
+    {
+      "id": 9018503,
+      "name": "Hoạt Lực [Mão]",
+      "desc": "Khi tấn công mục tiêu có Tốc Độ chậm hơn, gây +1 [Burst] or Tầng [Burst]"
+    },
+    {
+      "id": 9018504,
+      "name": "Kẻ Thống Trị [Mão]",
+      "desc": "Nếu Tốc Độ của chủ thể nhanh hơn mục tiêu từ 3 trở lên, Sức Mạnh Xu +1"
+    },
+    {
+      "id": 9102001,
+      "name": "Quyển Sách Báo Thù",
+      "desc": "Khi bị đánh trúng, gây 1 [MiddleFingerBook] lên kẻ tấn công (1 mục tiêu mỗi lượt; tối 1)\nKhi Dùng Kỹ Năng, nếu mục tiêu có [MiddleFingerBook], nhận ([MiddleFingerBook] / 4) Sức Mạnh Giao Tranh (tối đa 2)\n- Nếu mục tiêu có 8+ [MiddleFingerBook], nhận ([MiddleFingerBook] / 3) Sức Mạnh Gốc (tối đa 3)"
+    },
+    {
+      "id": 9102002,
+      "name": "Hình Xăm Phục Hận",
+      "desc": "Khi đồng minh Băng Ngón Giữa bị giết, nhận 1 [AttackUp] (tối đa 5)"
+    },
+    {
+      "id": 9102003,
+      "name": "Xiềng Xích Của Lòng Trung Thành",
+      "desc": "Khi đồng minh Băng Ngón Giữa bị giết, nhận 1 [PlusCoinValueUp] vào lượt kế. (tối đa 2)"
+    },
+    {
+      "id": 9018701,
+      "name": "Thân Thể Hóa Lỏng",
+      "desc": "-10% Sát Thương Phải Nhận"
+    },
+    {
+      "id": 9018702,
+      "name": "Dọn Xác",
+      "desc": "Cuối Lượt: nếu ai đó chết vào lượt này, bất kể địch lẫn ta, hồi 5% HP\nKhi Giết, hồi 2~5% HP"
+    },
+    {
+      "id": 9018703,
+      "name": "Vì Gia Đình",
+      "desc": "Cuối Lượt: hồi SP bằng với số Kẻ Quét Dọn còn sống"
+    },
+    {
+      "id": 9018704,
+      "name": "Màn Đêm ở Phố Sau",
+      "desc": "Sau Đợt 2, vào trận với 30 SP."
+    },
+    {
+      "id": 9102004,
+      "name": "Nắm Bắt Cơ Hội",
+      "desc": "Không thể bị Choáng nếu vẫn còn Kỹ Năng Phản Đòn có thể dùng được trong Ô Kỹ Năng."
+    }
+  ]
+}

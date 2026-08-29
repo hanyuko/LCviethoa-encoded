@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": 9104301,
+      "name": "Intense Primary Color - Rouge",
+      "desc": "Before hitting, if target does not have [Laceration], gây +3 Tầng [Laceration] (mỗi lượt một lần per enemy)"
+    },
+    {
+      "id": 9104302,
+      "name": "Le Fauvisme - Masque de Chien",
+      "desc": "Khi Đánh Trúng with a Skill, gây 1 [BearClawWound]\n\nNhận 1 [Enhancement] vào lượt kế for every 4 [BearClawWound] inflicted (2 lần mỗi lượt)",
+      "flavor": "        \n\n               "
+    },
+    {
+      "id": 9104303,
+      "name": "Welling Inspiration",
+      "desc": "When this unit or an ally is hit, nhận 1 [AttackUp] vào lượt kế (once per Skill, 3 lần mỗi lượt)"
+    },
+    {
+      "id": 9104304,
+      "name": "Final Brushstroke",
+      "desc": "When this unit is killed, gây 3 [BearClawWound] on 2 random enemies"
+    },
+    {
+      "id": 9104501,
+      "name": "Intense Primary Color - Bleu",
+      "desc": "Before hitting, if target does not have [Sinking], gây +3 Tầng [Sinking] (mỗi lượt một lần per enemy)"
+    },
+    {
+      "id": 9104502,
+      "name": "Le Fauvisme - Masque de Chèvre-Hibou",
+      "desc": "Khi Đánh Trúng with a Skill, gây 1 [EagleClawWound]\n- If this unit has [Agility], gây thêm 1 [EagleClawWound]\n\nNhận 1 [Agility] vào lượt kế for every 4 [EagleClawWound] inflicted (2 lần mỗi lượt)",
+      "flavor": "                                   \n\n                            "
+    },
+    {
+      "id": 9104503,
+      "name": "Alacritous Expression",
+      "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu, Sức Mạnh Giao Tranh +1"
+    },
+    {
+      "id": 9104504,
+      "name": "Final Brushstroke",
+      "desc": "When this unit is killed, gây 3 [EagleClawWound] on 2 random enemies"
+    },
+    {
+      "id": 9103401,
+      "name": "Prescript Delivered on Paper Slips",
+      "desc": "Đầu Lượt:\n- Nhận [IndexPrescriptEnemy_0]/[IndexPrescriptEnemy_1]/[IndexPrescriptEnemy_2]/[IndexPrescriptEnemy_3] based on Lớp [BlessingOfIndexPrescriptEnemy] trên chủ thể\n- Inflict [IndexPrescriptTargetToPersonality] to a random Sinner (in Focused Encounters, attacks prioritize the Sinner that has [IndexPrescriptTargetToPersonality])",
+      "flavor": "                            "
+    },
+    {
+      "id": 9103402,
+      "name": "Will of the Prescript",
+      "desc": "Cuối Lượt: If [IndexPrescript_Base] was executed this turn, hồi 5 SP and nhận 2 [BlessingOfIndexPrescriptEnemy] (một lần mỗi lượt)\n- If this unit has [IndexPrescriptEnemy_2], hoặc nếu mục tiêu có [IndexPrescriptTargetToPersonality] when this unit is executing [IndexPrescript_Base], hồi 10 SP and nhận 3 [BlessingOfIndexPrescriptEnemy] instead\n\nCuối Lượt: If [IndexPrescript_Base] was not executed this turn, nhận 10 [KarmaOfIndexEnemy]\n- Khi còn dưới 6 [BlessingOfIndexPrescriptEnemy], nhận 1 [BlessingOfIndexPrescriptEnemy]\n- Ở mốc 9 [BlessingOfIndexPrescriptEnemy], does not nhận [KarmaOfIndexEnemy]",
+      "flavor": "                            \n\n                          "
+    },
+    {
+      "id": 9103403,
+      "name": "Proselyte's Blade",
+      "desc": "Deal +2.5% damage against [IndexPrescriptTargetToPersonality] for every [BlessingOfIndexPrescriptEnemy] on self (tối đa 20%)\n- Ở mốc 9 [BlessingOfIndexPrescriptEnemy], +30% sát thương gây ra against all targets instead\n\nKhi Đánh Trúng against [IndexPrescriptTargetToPersonality], nhận 1 [Breath] and gây 1 [Sinking] (một lần mỗi lượt)\n- Increases the number of times this effect can trigger per turn by 1 for every 3 [BlessingOfIndexPrescriptEnemy] (tối đa 2)",
+      "flavor": "       \n                                 "
+    }
+  ]
+}

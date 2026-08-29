@@ -1,0 +1,147 @@
+{
+  "dataList": [
+    {
+      "id": 1050601,
+      "title": "Black Ledger Choice - Save the Civilians.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai là người sẽ tiến tới?",
+      "successDesc": [
+        "\"Khỉ gió...\"\n\n\"Chuyện đéo gì đây?! Tao tưởng bọn mình đuổi hết lũ này đi rồi?!\"\n\nSau một trận chiến gian nan, {0} và Aeng-du cuối cùng cũng đánh bại và đuổi được đám tay sai của Hắc Vân Hội đi.\n\n\"... Cho tôi xin gửi lời cảm ơn. Tôi mừng là chúng ta giúp được họ.\""
+      ],
+      "failureDesc": [
+        "\"Khỉ gió...\"\n\n\"Chuyện đéo gì đây?! Tao tưởng bọn mình đuổi hết lũ này đi rồi?!\"\n\nSau một trận chiến gian nan, [Tội Nhân] và Aeng-du cuối cùng cũng đánh bại và đuổi được đám tay sai của Hắc Vân Hội đi. Tuy nhiên...\n\n\"... Ặc.\"\n\nCó lẽ do chưa phục hồi hoàn toàn nên Aeng-du đã bị thương sau cuộc ẩu đả vừa rồi.\n\n[Tội Nhân] có vẻ cũng trúng vài đòn trong lúc bảo vệ Aeng-du bị thương.\n\n\"Cho tôi xin lỗi...\"\n\nAeng-du vừa nghiến răng vừa lẩm bẩm. Nghe giọng cô ấy có phần hổ thẹn."
+      ]
+    },
+    {
+      "id": 1050603,
+      "title": "Black Ledger Choice - Say that you're with the Blade Lineage.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người đứng ra nói?",
+      "successDesc": [
+        "\"Gi-Gi-Gia Tộc—\"\n\nNhững người dân đó lập tức quỳ xuống trước mặt chúng tôi và dập đầu liên tục. Họ cầu xin, giọng nói run lên.\n\n\"Chúng tôi xin lỗi, chúng tôi thực lòng xin lỗi ạ!\"\n\n\n\"Xin các ngài rủ lòng từ bi... Đừng giết chúng tôi...!\"\n\nLúng túng, {0} đành cố gắng nói với họ rằng chúng tôi không có động cơ hay ý định gì mà phải hại họ. Nhưng những người đó cứ mãi không chịu nghe.\n\n\"Th-thôi thì xin ngài hãy nhận lấy món này...\"\n\nHọ giơ tay lên với thái độ vô cùng cung kính. Trong tay họ cầm một vật trông như cuốn sách.\n\nNhìn kỹ hơn mới nhận ra, họ dâng cho chúng tôi một cuốn sổ nợ bìa đen, bên trong đã được ghi kín.\n\n\"Xin ngài tha mạng! Hiện tại chúng tôi chỉ mang theo vật này thôi...\"\n\nDù chúng tôi đã cố gắng đỡ những người đó dậy, nhưng do quá khiếp đảm, họ cứ chôn chặt chân xuống đất, thậm chí còn không dám ngẩng đầu lên.\n\n... Chúng tôi đành để mặc họ ở đó."
+      ],
+      "failureDesc": [
+        "\"... Các vị đùa ác quá đó~\"\n\nCó lẽ là do giọng của {0} nghe hơi gượng lúc họ nhận mình là người từ Gia Tộc Kiếm Sư. Lông mày của người dân đó khẽ nhướng lên trước khi anh ta bật cười thành tiếng.\n\n\"Mấy đoạn hẻm phèn này thì họ vãng lai làm gì chứ?\"\n\n\"Phải phải. Mà sao họ lại phải giúp chúng tôi? Vốn dĩ chúng tôi mới là kẻ đã làm ngơ lúc họ—\"\n\n\"Này này! Suỵt, cẩn thận mồm mép nhà cậu đấy!\"\n\n\"Á!\"\n\nSau một cuộc trao đổi mà chúng tôi không có đủ ngữ cảnh để hiểu, họ đột nhiên bừng tỉnh như thể vừa nhận ra là chúng tôi đang đứng ngay đó.\n\n\"Mà-mà thôi kệ... Vẫn xin cảm ơn các vị đã ra tay tương trợ!\"\n\n\"Nhưng lần sau đừng nói mấy câu như vậy nữa, đùa cũng đừng đùa! Ai mà biết được sẽ thành ra chuyện gì...\"\n\nNhững người dân nhắc nhở như vậy rồi nhanh chóng rời khỏi hiện trường.\n\nViệc này chả giúp ích gì, đã vậy còn làm chúng ta xuống tinh thần..."
+      ]
+    },
+    {
+      "id": 1050701,
+      "title": "Rusted Hilt - To wield a blade is to Slash with it",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ bày tỏ quan điểm của mình?",
+      "successDesc": [
+        "\"Nói hay lắm!\"\n\nNgười to mồm nhất nâng một ly đầy rượu rồi cười phá lên.\n\n\"Không phải là tao đang hạ thấp cách dùng kiếm khác đâu nhá! Tao chỉ đang chỉ ra rằng một thanh kiếm, một món vũ khí có lưỡi sắc, đã ra đời thì phải dùng để chém!\"\n\nHai người còn lại miễn cưỡng gật đầu đồng tình.\n\n\"À-À thì, nếu chỉ xét riêng thanh kiếm và phần lưỡi kiếm thì, ừ...\"\n\n\"Đúng là việc trảm đầu với bổ vỡ sọ cũng chẳng khác nhau là bao.\"\n\n\"Ha! Bạn tốt, bạn khiến tôi vui hẳn lên đấy. Đây, xin tặng bạn!\"\n\nNgười đàn ông vừa giảng về sự vượt trội của đòn Chém vỗ lưng bạn và đặt một vật gì đó vào trong lòng bàn tay bạn."
+      ],
+      "failureDesc": [
+        "\"Nói hay lắm!\"\n\nNgười to mồm nhất nâng một ly đầy rượu rồi cười phá lên.\n\n\"Ấy vậy mà...\"\n\nĐột nhiên, anh ta ngừng cười. Sau đó lườm về phía {0} với một biểu cảm dữ tợn.\n\n\"Tại sao đường đường chính chính là một người luyện võ, mà ngươi lại tự dối lòng mình và không cho ta biết quan điểm thật sự của ngươi? Ngươi không biết nhục sao?\"\n\n\"Tha cho người ta đi mày ơi! Lại tính dọa nạt người qua đường lần nữa à?\"\n\nHai ông bạn nhậu của người đàn ông đó kéo {0} qua bàn họ với vẻ mặt hớn hở.\n\n\"Chắc chắn là do sức hút của một đòn Đâm rồi, vừa uy lực lại dứt khoát, không thể cưỡng lại được! Tôi hiểu bạn mà!\"\n\n\"Còn cái cảm giác cầm một vật Cùn giáng xuống rồi đập vỡ hộp sọ địch... mê lắm đúng không?\"\n\nHai người họ động viên sau đó rót rượu mời {0} uống."
+      ]
+    },
+    {
+      "id": 1050801,
+      "title": "Fractured Blade Choice - Draw of the Sword",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người cầm kiếm?",
+      "successDesc": [
+        "{0} cầm kiếm lên.\n\n\"...!\"\n\nSau khi mất một lúc ổn định nhịp thở, {0} rút kiếm ra chỉ trong nháy mắt rồi chém về sinh vật trước mặt.\n\nThứ đó cười khúc khích trong lúc biến mất, như thể toàn bộ tình huống này chỉ là một trò vui...\n\nVà bỏ lại phía sau những mảnh vỡ của một thanh kiếm."
+      ],
+      "failureDesc": [
+        "{0} cầm kiếm lên.\n\n\"...!\"\n\nSau khi mất một lúc ổn định nhịp thở, {0} rút...\n\n... À mà thôi. Rút kiếm thất bại, lỡ tay làm rơi thanh kiếm xuống đất rồi.\n\n... Do cầm ngược kiếm nên còn lỡ cắt vào lòng bàn tay mình trong lúc rút kiếm nữa.\n\nTrong lúc chúng tôi đang bận cầm máu cho {0}, thứ đó biến mất."
+      ]
+    },
+    {
+      "id": 1050802,
+      "title": "Broken Blade Choice - Let the sword hang to the side",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người cầm kiếm?",
+      "successDesc": [
+        "{0} cầm kiếm lên.\n\n\"...!\"\n\n{0} khéo léo rút kiếm ra, ném vỏ kiếm sang một bên, rồi hạ kiếm xuống bên hông, để mũi kiếm chũi xuống mặt đất.\n\nThứ đó cười khúc khích trong lúc biến mất, như thể toàn bộ tình huống này chỉ là một trò vui...\n\nVà bỏ lại phía sau những mảnh vỡ của một thanh kiếm."
+      ],
+      "failureDesc": [
+        "{0} cầm kiếm lên.\n\n\"...!\"\n\n{0} khéo léo rút kiếm ra...\n\n... À mà thôi. Rút kiếm thất bại, lỡ tay làm rơi thanh kiếm xuống đất rồi.\n\n... Do cầm ngược kiếm nên còn lỡ cắt vào lòng bàn tay mình trong lúc rút kiếm nữa.\n\nTrong lúc chúng tôi đang bận cầm máu cho {0}, thứ đó biến mất."
+      ]
+    },
+    {
+      "id": 1050901,
+      "title": "Red Tassel Choice - Small fries",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ trả lời họ?",
+      "successDesc": [
+        "\"Há!\"\n\nNgười đàn ông mang kiếm cười khẩy.\n\n\"Quả là một câu trả lời khôn ngoan cho câu hỏi ngớ ngẩn của ta. Đúng là những suy ngẫm như vậy vốn chẳng có mấy ý nghĩa trong Thành Phố này.\"\n\nLần này tiếng cười của ông ta lại đầy khoái chí. Sau đó, ông ta gỡ một dây tua đỏ gắn trên vũ khí của mình và đưa cho chúng tôi.\n\n\"Câu trả lời rất hợp ý ta. Nếu sau này các người có xung đột gì với Gia Tộc Kiếm Sư, hãy cho họ xem dây tua này.\"\n\n\"Ta đảm bảo là nó sẽ giúp ích cho các người.\"\n\nDứt lời, họ vẫy tay chào rồi theo hướng còn lại mà đi mất."
+      ],
+      "failureDesc": [
+        "\"Quả đúng như vậy.\"\n\nHọ cùng gật đầu.\n\n\"Nhưng ta e rằng ngươi không đủ thông thái để tự mình thốt ra những lời như vậy từ tận đáy lòng.\"\n\nHai người đó cười gượng gạo, rồi quay người rời đi.\n\nBị bỏ lại một mình, {0} cúi người xuống đất với vẻ mặt đượm buồn."
+      ]
+    },
+    {
+      "id": 1051001,
+      "title": "Ragged Bamboo Hat Choice - That's not what matters",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người nói?",
+      "successDesc": [
+        "Các chữ cái màu xanh lam từ từ phai đi, sau đó một từ mới hiện lên thế chỗ chúng.\n\n'Hỉ.'\n\nTừ đó lơ lửng ở đấy một lúc trước khi biến thành hình dạng khác và rơi xuống sàn.\n\nNó biến hình thành một chiếc nón tre cũ kỹ."
+      ],
+      "failureDesc": [
+        "Các chữ cái màu xanh lam từ từ phai đi, sau đó một từ mới hiện lên thế chỗ chúng.\n\n'Nộ.'\n\nTừ đó lơ lửng ở đấy một lúc trước khi cháy rụi và biến mất.\n\n... Chắc là nó không thích câu trả lời của chúng ta chăng?"
+      ]
+    },
+    {
+      "id": 1051002,
+      "title": "Old Dopo Cloak - What's right is right",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người nói?",
+      "successDesc": [
+        "Các chữ cái màu xanh lam từ từ phai đi, sau đó một từ mới hiện lên thế chỗ chúng.\n\n'Ái.'\n\nTừ đó lơ lửng ở đấy một lúc trước khi biến thành hình dạng khác và rơi xuống sàn.\n\nNó biến hình thành một chiếc áo dopo cũ kỹ."
+      ],
+      "failureDesc": [
+        "Các chữ cái màu xanh lam từ từ phai đi, sau đó một từ mới hiện lên thế chỗ chúng.\n\n'Ố.'\n\nTừ đó lơ lửng ở đấy một lúc trước khi cháy rụi và biến mất.\n\n... Chắc là nó không thích câu trả lời của chúng ta chăng?"
+      ]
+    },
+    {
+      "id": 97104901,
+      "title": "You know your stuff",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người nói?",
+      "successDesc": [
+        "\"Nói chuẩn không cần chỉnh!\"\n\n\"Ha ha! Chuẩn, bọn tao cũng chẳng chê mấy món binh khí khác là đồ dỏm hay gì. Chỉ là kiếm nó ngầu bá cháy thôi, phải không anh em?\"\n\n\"Quả là kiếm trông rất ấn tượng. Nhỉ mấy đứa?\"\n\nCả quán rượu tràn ngập tiếng hò reo nhờ vào quyết định của {0}.\n\nNgay khi chúng tôi chuẩn bị từ biệt họ, sau khi đã bàn luận say sưa về các món binh khí có lưỡi...\n\n... người phụ nữ trông như thủ lĩnh của họ đặt vật gì đó lên bàn.\n\n\"Cảm ơn vì đã chiều theo ý chúng nó. Để đền đáp, ta xin tặng các người vật này.\""
+      ],
+      "failureDesc": [
+        "\"Vua của mọi loại binh khí á? Nghe thì ngầu thật nhưng mà... Tao nghĩ mày khen hơi quá lời rồi.\"\n\n\"Ừ... nghe nó cứ giả trân làm sao ý.\"\n\n\"Ờ, và cái câu hoan hô ở cuối có phải hơi thừa không?\"\n\nHình như {0} tâng bốc có hơi quá đà.\n\nVài người trong số họ nhìn chúng tôi với biểu cảm ái ngại.\n\n\"Thôi thì... được rồi. Ta hiểu ý ngươi mà. Kiếm đúng là nhất ha?\"\n\nSếp của họ rót rượu mời {0}.\n\nRượu đó hẳn có vị ngon lắm. {0} nhanh chóng uống cạn ly."
+      ]
+    },
+    {
+      "id": 97105001,
+      "title": "I gues so",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người nói?",
+      "successDesc": [
+        "\"Ồ...\"\n\n\"Cũng đúng. Chỉ còn cách xung đột thôi nhỉ? Coi bộ ngươi cũng máu chiến phết đấy.\"\n\n\"Quả là một kẻ thú vị. Rảnh không, ta giết thì giờ tí nhé?\"\n\nHai người họ kéo {0} vô một quán rượu, và chỉ thả họ ra sau khi đã cùng uống vài ly.\n\n{0} cầm theo một chén rượu lúc trở lại."
+      ],
+      "failureDesc": [
+        "\"Ồ...\"\n\n\"Nói thì hay đấy, nhưng cái giọng điệu đấy là sao hả?\"\n\n\"Mày nghĩ bọn tao ngu hả? Mày tưởng bọn tao ngu thật đúng không? Ra đây!\"\n\nHai người họ bắt đầu đập {0} ra bã.\n\nChúng tôi vội vàng lôi {0} ra khỏi cuộc xô xát bất ngờ ấy rồi sủi lẹ."
+      ]
+    },
+    {
+      "id": 91150201,
+      "title": "You know your stuff",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người nói?",
+      "successDesc": [
+        "\"Nói chuẩn không cần chỉnh!\"\n\n\"Ha ha! Chuẩn, bọn tao cũng chẳng chê mấy món binh khí khác là đồ dỏm hay gì. Chỉ là kiếm nó ngầu bá cháy thôi, phải không anh em?\"\n\n\"Quả là kiếm trông rất ấn tượng. Nhỉ mấy đứa?\"\n\nCả quán rượu tràn ngập tiếng hò reo nhờ vào quyết định của {0}.\n\nNgay khi chúng tôi chuẩn bị từ biệt họ, sau khi đã bàn luận say sưa về các món binh khí có lưỡi...\n\n... người phụ nữ trông như thủ lĩnh của họ đặt vật gì đó lên bàn.\n\n\"Cảm ơn vì đã chiều theo ý chúng nó. Để đền đáp, ta xin tặng các người vật này.\""
+      ],
+      "failureDesc": [
+        "\"Vua của mọi loại binh khí á? Nghe thì ngầu thật nhưng mà... Tao nghĩ mày khen hơi quá lời rồi.\"\n\n\"Ừ... nghe nó cứ giả trân làm sao ý.\"\n\n\"Ờ, và cái câu hoan hô ở cuối có phải hơi thừa không?\"\n\nHình như {0} tâng bốc có hơi quá đà.\n\nVài người trong số họ nhìn chúng tôi với biểu cảm ái ngại.\n\n\"Thôi thì... được rồi. Ta hiểu ý ngươi mà. Kiếm đúng là nhất ha?\"\n\nSếp của họ rót rượu mời {0}.\n\nRượu đó hẳn có vị ngon lắm. {0} nhanh chóng uống cạn ly."
+      ]
+    }
+  ]
+}

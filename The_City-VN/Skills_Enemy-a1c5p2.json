@@ -1,0 +1,984 @@
+{
+  "dataList": [
+    {
+      "id": 9008801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gieo Rắc Nỗi Sợ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 2 sát thương SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 2 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khắc Nỗi Kinh Hoàng",
+          "desc": "[WinDuel] Gây 10 sát thương SP lên mục tiêu; chủ thể hồi 10 HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gặt Hái Kinh Hoàng",
+          "desc": "Nếu SP của mục tiêu dưới 20, Kỹ Năng này hồi thêm 20% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 3 sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 30% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 3 sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 30% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tê Liệt Tâm Trí",
+          "desc": "Nếu SP của mục tiêu dưới -15, +50% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- ... -.-",
+          "desc": "[WinDuel] Gây 1 [AaCePbBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- .",
+          "desc": "Sức Mạnh Tổng +1 với mỗi đồng minh Bạch Biến còn sống (không tính chủ thể)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 40% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Sao chép một trong các hiệu ứng có lợi đang có trên mục tiêu. Nhận hiệu ứng đã sao vào lượt kế.\n(Chỉ áp dụng bao gồm: [Enhancement], [Agility], [AttackDmgUp], và [Protection])"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 40% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. . --",
+          "desc": "[WinDuel] Gây 1 [AaCePbBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. -",
+          "desc": "[WinDuel] Gây 1 sát thương SP lên mục tiêu với mỗi đồng minh Bạch Biến còn sống (không tính chủ thể)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 40% sát thương gây ra"
+                },
+                {
+                  "desc": "Sao chép một trong các hiệu ứng có lợi đang có trên mục tiêu. Nhận hiệu ứng đã sao chép vào lượt kế.\n(Chỉ áp dụng bao gồm: [Enhancement], [Agility], [AttackDmgUp], và [Protection])"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 40% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... .…",
+          "desc": "Nếu mục tiêu có [Sinking], Hiệu ứng hồi HP cũng áp dụng cho 1 đồng minh Bạch Biến khác có SP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 30% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 30% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--- .",
+          "desc": "Nếu mục tiêu có [Sinking], Hiệu ứng hồi HP cũng áp dụng cho 1 đồng minh Bạch Biến khác có SP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi HP bằng 50% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AaCePbBa]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-. .…",
+          "desc": "[WhenUse] Nếu mục tiêu có [AaCePbBa], toàn bộ đồng minh Bạch Biến khác hồi 30 HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Sao chép một trong các hiệu ứng có lợi đang có trên mục tiêu. Nhận hiệu ứng đã sao chép vào lượt kế.\n(Chỉ áp dụng bao gồm: [Enhancement], [Agility], [AttackDmgUp], và [Protection])"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 20 HP cho bản thân"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- . -.-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... .-",
+          "desc": "[WhenUse] Gán 1 [Protection] lên 1 đồng minh khác ngẫu nhiên vào lượt kế. Nếu đồng minh là Bạch Biến, gán thêm 1 [Protection].",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +4 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.-. ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm 2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AaCePbBa]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Burst] và +4 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .",
+          "desc": "[StartBattle] Nhận 1 [Protection] với mỗi 2 đồng minh Bạch Biến (không tính chủ thể)\nKhi bị tấn công trong khi chủ thể có Khiên, gây 1 [Vibration] lên kẻ tấn công",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .",
+          "desc": "[WhenUse] Gán 1 [AttackDmgUp] lên 1 đồng minh Bạch Biến khác vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [AaCePbBa]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .-",
+          "desc": "[WhenUse] Gán 1 [AttackDmgUp] lên 1 đồng minh Bạch Biến ngẫu nhiên vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AaCePbBa]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "--. . ...-",
+          "desc": "Nếu mục tiêu có [AaCePbBa], Gây 1 sát thương SP lên mục tiêu với mỗi đồng minh khác còn sống",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- …",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AaCePbBa]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .... -",
+          "desc": "[WinDuel] Gây 1 [AaCePbBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- -",
+          "desc": "Khi bị tấn công trong khi chủ thể có Khiên, gây 1 [AaCePbBa] lên mục tiêu\n[EndBattle] Nếu chủ thể có Khiên, nhận 3 [Breath] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. -",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDmgDown] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- .... -",
+          "desc": "[WhenUse] Nhận 1 [Protection] với mỗi đồng minh còn sống. (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Protection]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [AaCePbBa]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Protection] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 4 [Laceration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- ..",
+          "desc": "[WhenUse] Nhận 2 [Protection]\nKhi bị tấn công trong khi chủ thể có Khiên, gây 1 [AaCePbBa] lên mục tiêu\n[EndBattle] Hồi HP bằng (Khiên còn lại x 2).",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nện Thẳng vào Đản Trung",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bọn Tao Nhớ Đấy!",
+          "desc": "[DefeatDuel] Nhận 1 [AttackDmgUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm sát thương cố định bằng số lượng đồng minh The Middle đã bị giết trong đợt này"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Nát Sọ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Reduction] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuẩn Bị Ghi Sổ",
+          "desc": "[EndBattle] Nếu chủ thể có Khiên, nhận 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Báo Thù",
+          "desc": "[DefeatDuel] Nhận 1 [AttackDmgUp] vào lượt kế",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nâng Ngưỡng Choáng của mục tiêu lên thêm 8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tích Lũy Báo Thù",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 30"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 20 sát thương cố định HP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 3 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nện Thẳng vào Đản Trung",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ghi Tội Chúng Nó!",
+          "desc": "[DefeatDuel] Nhận 1 [AttackDmgUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDmgDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm sát thương cố định bằng số lượng đồng minh The Middle đã bị giết trong đợt này"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Nát Sọ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [PlusCoinValueDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [PlusCoinValueDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuẩn Bị Ghi Sổ",
+          "desc": "Nếu toàn bộ Khiên của chủ thể này bị mất, nhận 1 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Báo Thù",
+          "desc": "[DefeatDuel] Nhận 1 [AttackDmgUp] vào lượt kế",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nâng Ngưỡng Choáng của mục tiêu lên thêm 8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tích Lũy Báo Thù",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 30"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 20 sát thương cố định HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

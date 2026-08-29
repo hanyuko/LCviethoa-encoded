@@ -1,0 +1,762 @@
+{
+  "dataList": [
+    {
+      "id": 2110511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[EndSkill] Gán 1 'Tăng Sát Thương[TabExplain]' của Nguyên Tội có số lượng Cộng hưởng cao nhất cho 2 đồng minh có SP thấp nhất"
+                },
+                {
+                  "desc": "[EndSkill] Hồi 20 SP cho 2 đồng minh có SP thấp nhất"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[EndSkill] Gán 1 'Tăng Sát Thương[TabExplain]' của Nguyên Tội có số lượng Cộng hưởng cao nhất cho <style=\"highlight\">3</style> đồng minh có SP thấp nhất"
+                },
+                {
+                  "desc": "[EndSkill] Hồi 20 SP cho <style=\"highlight\">3</style> đồng minh có SP thấp nhất"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[EndSkill] Gán 1 'Tăng Sát Thương[TabExplain]' của Nguyên Tội có số lượng Cộng hưởng cao nhất cho <style=\"highlight\">4</style> đồng minh có SP thấp nhất"
+                },
+                {
+                  "desc": "[EndSkill] Hồi 20 SP cho <style=\"highlight\">4</style> đồng minh có SP thấp nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Chủ thể mất 10% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 10 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây 1 'Suy Yếu[TabExplain]' của Nguyên Tội có số lượng Cộng hưởng cao nhất"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Chủ thể mất 10% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 10 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gây <style=\"highlight\">2</style> 'Suy Yếu[TabExplain]' của Nguyên Tội có số lượng Cộng hưởng cao nhất"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillTail] Nhận 1 'Tăng Sát Thương[TabExplain]' của Nguyên Tội có số lượng Cộng hưởng cao nhất</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ngày Lễ Hội",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Chủ thể mất 10% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mục tiêu mất 10 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Gây 2 'Suy Yếu[TabExplain]' của Nguyên Tội có số lượng Cộng hưởng cao nhất"
+                },
+                {
+                  "desc": "[EndSkillTail] Nhận 1 'Tăng Sát Thương[TabExplain]' của Nguyên Tội có số lượng Cộng hưởng cao nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[BeforeAttack] Nhận (Kiêu Ngạo hoặc Lười Biếng Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[BeforeAttack] Nhận (Kiêu Ngạo hoặc Lười Biếng Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)\n<style=\"highlight\">Lượng Ngưỡng Choáng được nâng lên do [VibrationExplosion] tăng thêm 50%</style>\n[EndSkill] Trong 3 lượt, mất 9 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[BeforeAttack] Nhận (Kiêu Ngạo hoặc Lười Biếng Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)\nLượng Ngưỡng Choáng được nâng lên do [VibrationExplosion] tăng thêm <style=\"highlight\">100</style>%\n[EndSkill] Trong 3 lượt, mất <style=\"highlight\">8</style> SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Kiêu Ngạo hoặc Lười Biếng Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Kiêu Ngạo hoặc Lười Biếng Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)\n<style=\"highlight\">Lượng Ngưỡng Choáng được nâng lên do [VibrationExplosion] tăng thêm 50%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Trói Buộc",
+          "abName": "Vị Vua Trói Buộc",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Kiêu Ngạo hoặc Lười Biếng Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)\nLượng Ngưỡng Choáng được nâng lên do [VibrationExplosion] tăng thêm 50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">3</style> Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Kích hoạt [VibrationExplosion]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[BeforeAttack] Nếu Tầng [Charge] dưới 10, tiêu thụ 15% HP để nhận +10 Tầng [Charge] (sát thương này không khiến HP của chủ thể giảm về 0; làm tròn xuống)\n[BeforeAttack] Tiêu thụ tối đa 40 Tầng [Charge] và +1% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [DimensionRift] (tối đa 1)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Agility] và 1 [ChargeLoad] vào lượt kế với mỗi [Charge] (tối đa 1 mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[BeforeAttack] Ở mốc <style=\"highlight\">3</style>+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[BeforeAttack] Nếu Tầng [Charge] dưới 10, tiêu thụ 15% HP để nhận +10 Tầng [Charge] (sát thương này không khiến HP của chủ thể giảm về 0; làm tròn xuống)\n[BeforeAttack] Tiêu thụ tối đa 40 Tầng [Charge] và +1% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">20</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [DimensionRift] (tối đa <style=\"highlight\">2</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Agility] và 1 [ChargeLoad] vào lượt kế với mỗi [Charge] (tối đa <style=\"highlight\">2</style> mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[BeforeAttack] Nhận <style=\"highlight\">(Cộng Hưởng cao nhất - 2)</style> Phạm Vi Tấn Công <style=\"highlight\">(tối đa 2)</style>\n[BeforeAttack] Nếu Tầng [Charge] dưới 10, tiêu thụ <style=\"highlight\">10</style>% HP to nhận +10 Tầng [Charge] (sát thương này không khiến HP của chủ thể giảm về 0; làm tròn xuống)\n[BeforeAttack] Tiêu thụ tối đa 40 Tầng [Charge] và +1% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">30</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [DimensionRift] (tối đa 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Agility] và 1 [ChargeLoad] vào lượt kế với mỗi [Charge] (tối đa <style=\"highlight\">3</style> mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[BeforeAttack] Nếu số Tầng [Charge] thấp hơn mức tối đa, tiêu thụ (số Tầng [Charge] còn thiếu x 1.5)% HP để nhận tối đa Tầng [Charge] (Tầng [Charge] tối đa có thể nhận được từ hiệu ứng này: 30. Sát thương này không giảm HP của chủ thể xuống 0; làm tròn xuống)\n[BeforeAttack] Tiêu thụ tối đa 40 Tầng [Charge] và +2% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [DimensionRift] (tối đa 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Agility] và 1 [ChargeLoad] vào lượt kế với mỗi [Charge] (mỗi Kỹ Năng tối đa 2)"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[BeforeAttack] Nếu số Tầng [Charge] thấp hơn mức tối đa, tiêu thụ (số Tầng [Charge] còn thiếu x <style=\"highlight\">1.2</style>)% HP để nhận tối đa Tầng [Charge] (Tầng [Charge] tối đa có thể nhận được từ hiệu ứng này: 30. Sát thương này không giảm HP của chủ thể xuống 0; làm tròn xuống)\n[BeforeAttack] Tiêu thụ tối đa 40 Tầng [Charge] và +2% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">40</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [DimensionRift] (tối đa 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Agility] và 1 [ChargeLoad] vào lượt kế với mỗi [Charge] (mỗi Kỹ Năng tối đa 2)"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xé Rách Không Gian",
+          "abName": "Vị Khách Lạc Lối",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận <style=\"highlight\">(Cộng Hưởng cao nhất - 2)</style> Phạm Vi Tấn Công <style=\"highlight\">(tối đa 2)</style>\n[BeforeAttack] Nếu số Tầng [Charge] thấp hơn mức tối đa, tiêu thụ <style=\"highlight\">(số Tầng [Charge] còn thiếu)%</style> HP để nhận tối đa Tầng [Charge] (Tầng [Charge] tối đa có thể nhận được từ hiệu ứng này: 30. Sát thương này không giảm HP của chủ thể xuống 0; làm tròn xuống)\n[BeforeAttack] Tiêu thụ tối đa 40 Tầng [Charge] và +2% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây ([Charge] - 1) [DimensionRift] (tối đa <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Agility] và 1 [ChargeLoad] vào lượt kế với mỗi [Charge] (mỗi Kỹ Năng tối đa <style=\"highlight\">3</style>)"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận +2 Tầng [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ma Đạn",
+          "abName": "Der Freischütz",
+          "desc": "+1% sát thương gây ra với mỗi 3 [Combustion] trên mục tiêu (tối đa 10%)\n[BeforeAttack] Ở mốc 0 [FreischutzShotCount], nhận 1 [FreischutzShotCount].\n- Giá trị [FreischutzShotCount] quyết định loại đạn sẽ bắn.\n · [FreishutzOutisEgoBullet_1st]\n · [FreishutzOutisEgoBullet_2nd]\n · [FreishutzOutisEgoBullet_3rd]\n · [FreishutzOutisEgoBullet_4th]\n · [FreishutzOutisEgoBullet_5th]\n · [FreishutzOutisEgoBullet_6th]\n · [FreishutzOutisEgoBullet_7th]\n[EndSkill] Nhận [FreischutzShotCount] bằng với Cộng Hưởng cao nhất (tối thiểu 1, tối đa 4)\n[EndSkill] Nếu mục tiêu chính bị đánh bại, gây 2 [DarkFlame] lên toàn bộ kẻ địch có [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [DarkFlame] bằng [FreischutzShotCount] (một lần mỗi lượt với mỗi đơn vị)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ma Đạn",
+          "abName": "Der Freischütz",
+          "desc": "+<style=\"highlight\">2</style>% sát thương gây ra với mỗi 3 [Combustion] trên mục tiêu (tối đa <style=\"highlight\">20</style>%)\n[BeforeAttack] Ở mốc 0 [FreischutzShotCount], nhận 1 [FreischutzShotCount].\n- Giá trị [FreischutzShotCount] quyết định loại đạn sẽ bắn.\n · [FreishutzOutisEgoBullet_1st]\n · [FreishutzOutisEgoBullet_2nd]\n · [FreishutzOutisEgoBullet_3rd]\n · [FreishutzOutisEgoBullet_4th]\n · [FreishutzOutisEgoBullet_5th]\n · [FreishutzOutisEgoBullet_6th]\n · [FreishutzOutisEgoBullet_7th]\n[EndSkill] Nhận [FreischutzShotCount] bằng với Cộng Hưởng cao nhất (tối thiểu 1, tối đa 4)\n[EndSkill] Nếu mục tiêu chính bị đánh bại, gây <style=\"highlight\">3</style> [DarkFlame] lên toàn bộ kẻ địch có [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [DarkFlame] bằng [FreischutzShotCount] (một lần mỗi lượt với mỗi đơn vị)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ma Đạn",
+          "abName": "Der Freischütz",
+          "desc": "+<style=\"highlight\">3</style>% sát thương gây ra với mỗi 3 [Combustion] trên mục tiêu (tối đa <style=\"highlight\">30</style>%)\n[BeforeAttack] Ở mốc 0 [FreischutzShotCount], nhận 1 [FreischutzShotCount].\n- Giá trị [FreischutzShotCount] quyết định loại đạn sẽ bắn.\n · [FreishutzOutisEgoBullet_1st]\n · [FreishutzOutisEgoBullet_2nd]\n · [FreishutzOutisEgoBullet_3rd]\n · [FreishutzOutisEgoBullet_4th]\n · [FreishutzOutisEgoBullet_5th]\n · [FreishutzOutisEgoBullet_6th]\n · [FreishutzOutisEgoBullet_7th]\n[EndSkill] Nhận [FreischutzShotCount] bằng với Cộng Hưởng cao nhất (tối thiểu 1, tối đa 4)\n[EndSkill] Nếu mục tiêu chính bị đánh bại, gây <style=\"highlight\">4</style> [DarkFlame] lên toàn bộ kẻ địch có [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [DarkFlame] bằng [FreischutzShotCount] (một lần mỗi lượt với mỗi đơn vị)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ma Đạn",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n+1% sát thương gây ra với mỗi 3 [Combustion] trên mục tiêu (tối đa 10%)\n[BeforeAttack] Ở mốc 0 [FreischutzShotCount], nhận 1 [FreischutzShotCount].\n- Giá trị [FreischutzShotCount] quyết định loại đạn sẽ bắn.\n · [FreishutzOutisEgoBullet_1st]\n · [FreishutzOutisEgoBullet_2nd]\n · [FreishutzOutisEgoBullet_3rd]\n · [FreishutzOutisEgoBullet_4th]\n · [FreishutzOutisEgoBullet_5th]\n · [FreishutzOutisEgoBullet_6th]\n · [FreishutzOutisEgoBullet_7th]\n[EndSkill] Nhận [FreischutzShotCount] bằng với Cộng Hưởng cao nhất (tối thiểu 1, tối đa 4)\n[EndSkill] Nếu mục tiêu chính bị đánh bại, gây 3 [DarkFlame] lên toàn bộ kẻ địch có [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [DarkFlame] bằng [FreischutzShotCount] (một lần mỗi lượt với mỗi đơn vị)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ma Đạn",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n+<style=\"highlight\">2</style>% sát thương gây ra với mỗi 3 [Combustion] trên mục tiêu (tối đa <style=\"highlight\">20</style>%)\n[BeforeAttack] Ở mốc 0 [FreischutzShotCount], nhận 1 [FreischutzShotCount].\n- Giá trị [FreischutzShotCount] quyết định loại đạn sẽ bắn.\n · [FreishutzOutisEgoBullet_1st]\n · [FreishutzOutisEgoBullet_2nd]\n · [FreishutzOutisEgoBullet_3rd]\n · [FreishutzOutisEgoBullet_4th]\n · [FreishutzOutisEgoBullet_5th]\n · [FreishutzOutisEgoBullet_6th]\n · [FreishutzOutisEgoBullet_7th]\n[EndSkill] Nhận [FreischutzShotCount] bằng với Cộng Hưởng cao nhất (tối thiểu 1, tối đa 4)\n[EndSkill] Nếu mục tiêu chính bị đánh bại, gây <style=\"highlight\">5</style> [DarkFlame] lên toàn bộ kẻ địch có [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +([FreischutzShotCount] / 3) Tầng [Combustion] (làm tròn xuống)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [DarkFlame] bằng [FreischutzShotCount] (một lần mỗi lượt với mỗi đơn vị)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ma Đạn",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n+<style=\"highlight\">3</style>% sát thương gây ra với mỗi 3 [Combustion] trên mục tiêu (tối đa <style=\"highlight\">30</style>%)\n[BeforeAttack] Ở mốc 0 [FreischutzShotCount], nhận 1 [FreischutzShotCount].\n- Giá trị [FreischutzShotCount] quyết định loại đạn sẽ bắn.\n · [FreishutzOutisEgoBullet_1st]\n · [FreishutzOutisEgoBullet_2nd]\n · [FreishutzOutisEgoBullet_3rd]\n · [FreishutzOutisEgoBullet_4th]\n · [FreishutzOutisEgoBullet_5th]\n · [FreishutzOutisEgoBullet_6th]\n · [FreishutzOutisEgoBullet_7th]\n[EndSkill] Nhận [FreischutzShotCount] bằng với Cộng Hưởng cao nhất (tối thiểu 1, tối đa 4)\n[EndSkill] Nếu mục tiêu chính bị đánh bại, gây <style=\"highlight\">7</style> [DarkFlame] lên toàn bộ kẻ địch có [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +([FreischutzShotCount] / <style=\"highlight\">2</style>) Tầng [Combustion] (làm tròn xuống)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [DarkFlame] bằng [FreischutzShotCount] (một lần mỗi lượt với mỗi đơn vị)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[OnDirectAttack]\n- Hiêu ứng [UnBrokenCoinOnSucceedAttack] của Kỹ Năng này sẽ không kích hoạt\n[WinDuel] Tiêu thụ tài nguyên E.G.O Đố Kỵ bằng với Đố Kỵ Cộng Hưởng, và với mỗi tài nguyên E.G.O Đố Kỵ đã tiêu thụ, nhận 1 tài nguyên E.G.O với mỗi Nguyên Tội ít nhất (tối đa tài nguyên Đố Kỵ có thể tiêu thụ: 4)\n[DefeatDuel] Sức Mạnh Tổng -4 và nhận Khiên bằng với (Đố Kỵ Cộng Hưởng x 5) (tối đa 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hồi 6% HP Tối Đa cho 2 đồng minh có phần trăm HP thấp nhất (một lần mỗi Kỹ Năng)\n- Bỏ qua đồng minh không có Kỹ năng Tấn công Cơ bản Đố Kỵ khi chọn mục tiêu hồi phục (không tính chủ thể)",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Hồi HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NiddleEGO]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[OnDirectAttack]\n- Hiêu ứng [UnBrokenCoinOnSucceedAttack] của Kỹ Năng này sẽ không kích hoạt\n[WinDuel] Tiêu thụ tài nguyên E.G.O Đố Kỵ bằng với Đố Kỵ Cộng Hưởng, và với mỗi tài nguyên E.G.O Đố Kỵ đã tiêu thụ, nhận 1 tài nguyên E.G.O với mỗi Nguyên Tội ít nhất (tối đa tài nguyên Đố Kỵ có thể tiêu thụ: 5)\n[DefeatDuel] Sức Mạnh Tổng -4 và nhận Khiên bằng với (Đố Kỵ Cộng Hưởng x 5) (tối đa 25)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hồi <style=\"highlight\">8</style>% HP Tối Đa cho 2 đồng minh có phần trăm HP thấp nhất (một lần mỗi Kỹ Năng)\n- Bỏ qua đồng minh không có Kỹ năng Tấn công Cơ bản Đố Kỵ khi chọn mục tiêu hồi phục (không tính chủ thể)",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Hồi HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NiddleEGO]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Curse]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[OnDirectAttack]\n- Hiêu ứng [UnBrokenCoinOnSucceedAttack] của Kỹ Năng này sẽ không kích hoạt\n[WinDuel] Tiêu thụ tài nguyên E.G.O Đố Kỵ bằng với Đố Kỵ Cộng Hưởng, và với mỗi tài nguyên E.G.O Đố Kỵ đã tiêu thụ, nhận 1 tài nguyên E.G.O với mỗi Nguyên Tội ít nhất (tối đa tài nguyên Đố Kỵ có thể tiêu thụ: 6)\n[DefeatDuel] Sức Mạnh Tổng -4 và nhận Khiên bằng với (Đố Kỵ Cộng Hưởng x 5) (tối đa 30)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hồi <style=\"highlight\">10</style>% HP Tối Đa cho 2 đồng minh có phần trăm HP thấp nhất (một lần mỗi Kỹ Năng)\n- Bỏ qua đồng minh không có Kỹ năng Tấn công Cơ bản Đố Kỵ khi chọn mục tiêu hồi phục (không tính chủ thể)",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Hồi HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NiddleEGO]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nKhi có 2+ Đố Kỵ Cộng Hưởng, Sức Mạnh Tổng +1\n[WinDuel] Phạm Vi Tấn Công +1 với mỗi 2 Đố Kỵ Cộng Hưởng (tối đa 2)\n[DefeatDuel] Nhận Khiên bằng với (Đố Kỵ Cộng Hưởng x 5) (tối đa 20)\n[DefeatDuel] Kỹ Năng này gây +1 [NiddleEGO] và [NailPersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [NiddleEGO]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Sức Mạnh Tổng +1 với mỗi 2 Đố Kỵ Cộng Hưởng (tối đa 2)</style>\n[WinDuel] Phạm Vi Tấn Công +1 với mỗi 2 Đố Kỵ Cộng Hưởng (tối đa 2)\n[DefeatDuel] Nhận Khiên bằng với (Đố Kỵ Cộng Hưởng x 5) (tối đa <style=\"highlight\">25</style>)\n[DefeatDuel] Kỹ Năng này gây +1 [NiddleEGO], <style=\"highlight\">[Curse]</style>, and [NailPersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [NiddleEGO]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [Curse]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ta Ra Kéo Nhé. Ngươi Thì Sao Nè?",
+          "abName": "Cùng Chơi Nhé?",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Tổng +1 với mỗi 2 Đố Kỵ Cộng Hưởng (tối đa <style=\"highlight\">3</style>)\n[WinDuel] Phạm Vi Tấn Công +1 với mỗi 2 Đố Kỵ Cộng Hưởng (tối đa 2)\n[DefeatDuel] Nhận Khiên bằng với (Đố Kỵ Cộng Hưởng x 5) (tối đa <style=\"highlight\">30</style>)\n[DefeatDuel] Kỹ Năng này gây +1 [NiddleEGO], [Curse], and [NailPersonality]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [NiddleEGO]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Curse]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

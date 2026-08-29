@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 136601,
+      "name": "Thử Thách Lang Thang",
+      "desc": "Khi vào sân, nhận 1~3 [RunHallway]\nĐầu Lượt: Ở mốc 0 [RunHallway], dùng 'Bầy Đàn Di Cư'\n(Nếu chủ thể Bị Choáng, hồi phục khỏi Choáng khi hiệu ứng này kích hoạt)\n\nNếu 'BunBun' ở trên chiến trường, nội tại này không hoạt động",
+      "flavor": "                           "
+    },
+    {
+      "id": 136602,
+      "name": "Gia Giảm Hợp Khẩu Vị",
+      "desc": "Khi Đánh Trúng mục tiêu bằng loại sát thương mà mục tiêu đó có Kháng \"Yếu\" hoặc \"Chí Tử\" (Kháng > 1), gây 1 [Binding] vào lượt kế (một lần mỗi Kỹ Năng)",
+      "flavor": "          "
+    },
+    {
+      "id": 136603,
+      "name": "Bí Quyết Hương Vị",
+      "desc": "Gán 1 [PumpkinJelly] cho mục tiêu đã giết chủ thể"
+    },
+    {
+      "id": 136901,
+      "name": "Thử Thách Lang Thang",
+      "desc": "Vào Đầu Ải: Nhận 3 [RunHallway]\nĐầu Lượt: Ở mốc 0 [RunHallway], dùng 'Bầy Đàn Di Cư'\n(Nếu chủ thể Bị Choáng, hồi phục khỏi Choáng khi hiệu ứng này kích hoạt)\n\nNếu không còn BongBong nào trên chiến trường trừ \"BongBong được chủ thể triệu hồi\", hiệu ứng Kỹ Năng 'Bầy Đàn Di Cư' không kích hoạt, và chủ thể nhận 3 [RunHallway] vào lượt kế",
+      "flavor": "                  "
+    },
+    {
+      "id": 136902,
+      "name": "Thử Thách Kéo Dài",
+      "desc": "Một khi đã trôi qua 4 lượt kể từ lúc chủ thể Rút Lui, chủ thể và toàn bộ \"BongBong được chủ thể triệu hồi\" khả dụng Trở Lại chiến trường. Sau đó, nhận 3 [RunHallway]\n\nNếu toàn bộ vị trí tham chiến khả dụng đã kín, cho một đơn vị BongBong ngẫu nhiên Rút Lui và chủ thể Trở Lại chiến trường."
+    },
+    {
+      "id": 136903,
+      "name": "Bong Bóng Vị Cam Mong Manh",
+      "desc": "Khi bị Đòn Một Chiều đánh trúng, +100% sát thương phải nhận\nKhi giao tranh với <color=#ff6000><mark color=#ff000040><b><u>Kỹ Năng tiêu Đạn</color></mark></b></u>, Clash Power -3 và chuyển toàn bộ Xu của Kỹ Năng Tấn Công này thành Xu Thường.",
+      "flavor": "                                                "
+    },
+    {
+      "id": 136904,
+      "name": "Sản Xuất Thức Ăn",
+      "desc": "Khi Giết Địch, triệu hồi 1 BongBong\nCuối Lượt: Ở mốc 0 Lớp [RunHallway], triệu hồi nhiều BongBong nhất có thể vào lượt kế",
+      "flavor": "           "
+    }
+  ]
+}

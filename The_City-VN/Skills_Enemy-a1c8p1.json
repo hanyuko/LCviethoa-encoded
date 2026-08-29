@@ -1,0 +1,1416 @@
+{
+  "dataList": [
+    {
+      "id": 9020301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressure Point Penetration",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressure Point Crush",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ [Laceration], Sức Mạnh Giao Tranh +1\n[WhenUse] Nếu mục tiêu có 4+ [Vibration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Palanquin Crush",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ [Laceration], Sức Mạnh Giao Tranh +1\n[WhenUse] Nếu mục tiêu có 4+ [Vibration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[WhenUse] Nhận 3 Khiên với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 10)"
+        }
+      ]
+    },
+    {
+      "id": 9020401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressure Point Stab",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressure Point Strike",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ [Laceration], Sức Mạnh Giao Tranh +1\n[WhenUse] Nếu mục tiêu có 4+ [Vibration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Palanquin Buster",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ Tầng [Laceration], Sức Mạnh Giao Tranh +1\n[WhenUse] Nếu mục tiêu có 4+ Tầng [Vibration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[WhenUse] Nhận 3 Khiên với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 10)"
+        }
+      ]
+    },
+    {
+      "id": 9020101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pinpoint Strike",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AttackDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Circular Roundhouse Point-Strike",
+          "desc": "Nhận Sức Mạnh Giao Tranh +1 với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Circular Roundhouse Strike",
+          "desc": "Nhận Sức Mạnh Giao Tranh +1 với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "Nhận Sức Mạnh Xu +1 với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Center Strike",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [DefenseDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Semicircular Roundhouse Point-Strike",
+          "desc": "Nhận Sức Mạnh Giao Tranh +1 với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Semicircular Roundhouse Strike",
+          "desc": "Nhận Sức Mạnh Giao Tranh +1 với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "Nhận Sức Mạnh Xu +1 với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clawing",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wild Clawing",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tear Off",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 20% HP đã mất trên chủ thể (tối đa 4)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] (tối đa 2)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst] và +3 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leaping Cracked Jar",
+          "desc": "[EndSkill] Ngẫu nhiên gây 2 trong số các hiệu ứng sau vào lượt kế. Chết sau khi gây 10 sát thương\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Claw Scratch",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wild Scratching",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Latching On",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 20% HP đã mất trên chủ thể (tối đa 4)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] (tối đa 2)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leaping Cracked Jar",
+          "desc": "[EndSkill] Ngẫu nhiên gây 2 trong số các hiệu ứng sau vào lượt kế. Chết sau khi gây 10 sát thương\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wound Digging",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wild Digging",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flesh Digging",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 20% HP đã mất trên chủ thể (tối đa 4)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] (tối đa 2)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +4 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leaping Cracked Jar",
+          "desc": "[EndSkill] Ngẫu nhiên gây 2 trong số các hiệu ứng sau vào lượt kế. Chết sau khi gây 10 sát thương\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wound Clawing",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flesh Tearing",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Writhing in Loneliness",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 10% HP đã mất trên chủ thể (tối đa 5)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 3)\n\n[WhenUse] Nếu mục tiêu có 10+ ([Burst] + Tầng [Burst]), Gây Tầng [Burst] bằng Tầng [Burst] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 15+ ([Burst] + Tầng [Burst]), Gây (Lượng [Burst] x Tầng [Burst]) sát thương Phàm Ăn. (tối đa 40)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +5 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 5+ [Burst], tái sử dụng Kỹ Năng này (tối đa 2 lần)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leaping Cracked Jar",
+          "desc": "[EndSkill] Ngẫu nhiên gây 3 trong số các hiệu ứng sau vào lượt kế. Chết sau khi gây 30 sát thương\n- 4 [AttackDown]\n- 4 [DefenseDown]\n- 2 [Paralysis]\n- 2 [Binding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slash",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressuring",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ruptured Image Execution",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+1% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sweep Away",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cornering",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Execution of the Ruptured Image",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+1% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AttackDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Parrying Slash",
+          "desc": "[WhenUse] Nếu mục tiêu có 8+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressuring Slash",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waveslash",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+1% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 20%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Becalming of a Bewildered Steed",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+2% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AttackDown] và [DefenseDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frontal Swirl",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Gốc +1\n[WhenUse] Nhận 1 [SipOfAlcohol]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Way of the Open-throat Chugging",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận 1 [SipOfAlcohol]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waterfall",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1\n\n[DefeatDuel] Mất 3 [SipOfAlcohol]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunklaim",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Ở mốc 3+ [SipOfAlcohol], chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+1% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có 3+ [SipOfAlcohol], tái sử dụng Kỹ Năng này một lần (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunken Returning Strike",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [AttackDown] và [DefenseDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "True Decapitation Deathblow",
+          "desc": "[StartBattle] HP không thể hạ dưới 1 trước khi Kỹ năng này kết thúc.\n[WhenUse] Nhận 10 [AttackUp]\n[WhenUse] Nhận 5 [Enhancement]\n[WhenUse] Nhận 10 [AttackDmgUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+1% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [SipOfAlcohol]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Intoxicated Leaning",
+          "desc": "[WhenUse] Nhận 5 Khiên với mỗi [SipOfAlcohol] trên chủ thể (tối đa 25)\n[WhenUse] Nhận [SipOfAlcohol] bằng số lượng Kỹ Năng nhắm vào chủ thể (tối đa 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "dataList": [
+    {
+      "id": 9701,
+      "name": "Đùi Gà Cay Béo Ngậy",
+      "desc": "Khi gây [Combustion] bằng Kỹ Năng lên kẻ địch, gây +3 Tầng [Combustion] (3 lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9701,
+          "simpleDesc": "When inflicting [Combustion] with a Skill, gây +3 Tầng [Combustion]"
+        }
+      ]
+    },
+    {
+      "id": 9702,
+      "name": "Ức Gà Khô Quắt",
+      "desc": "Khi gây [Burst] bằng Kỹ Năng lên kẻ địch, gây +3 Tầng [Burst] (3 lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9702,
+          "simpleDesc": "When inflicting [Burst] with a Skill, gây +3 Tầng [Burst]"
+        }
+      ]
+    },
+    {
+      "id": 9703,
+      "name": "Nước Xốt Tango",
+      "desc": "Nếu Tốc Độ của đồng minh cao hơn mục tiêu, nhận (Tốc độ / 3) Sức Mạnh Giao Tranh. (tối đa 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9703,
+          "simpleDesc": "Gain +(Speed/3) Clash Power."
+        }
+      ]
+    },
+    {
+      "id": 9704,
+      "name": "Cuộn Chỉ Nhiễm Trùng",
+      "desc": "Hiệu ứng sau gán cho Kỹ Năng đầu tiên gây sát thương lên kẻ đich.\n\nGây (sát thương đã gây ra / 3) Lượng [Laceration].",
+      "simpleDesc": [
+        {
+          "abilityID": 9704,
+          "simpleDesc": "Inflict (damage dealt/3) Lượng [Laceration]"
+        }
+      ]
+    },
+    {
+      "id": 9705,
+      "name": "Cuộn Chỉ Sắc Nhọn",
+      "desc": "Mỗi lượt, Kỹ Năng đầu tiên gây sát thương lên kẻ địch gây thêm sát thương cố định bằng một nửa lượng sát thương đã gây ra.",
+      "simpleDesc": [
+        {
+          "abilityID": 9705,
+          "simpleDesc": "Deal (damage dealt/2) bonus fixed damage"
+        }
+      ]
+    },
+    {
+      "id": 9706,
+      "name": "Cờ Lê Dính Dầu",
+      "desc": "Kỹ Năng Đập +10% sát thương gây ra\n\nXu cuối của Kỹ Năng Đập gây 2 Lượng [Vibration] khi Đánh Trúng. (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9706,
+          "simpleDesc": "Blunt Skills +10% sát thương gây ra"
+        },
+        {
+          "abilityID": 97061,
+          "simpleDesc": "Gây 2 Lượng [Vibration] against the enemy."
+        }
+      ]
+    },
+    {
+      "id": 9707,
+      "name": "Phế Liệu Lấp Lánh",
+      "desc": "Khi một đồng minh có Khiên bị một kẻ địch đánh trúng, phản lại 3 sát thương cố định. (không phản sát thương nếu đồng minh không nhận sát thương lên Khiên)",
+      "simpleDesc": [
+        {
+          "abilityID": 9707,
+          "simpleDesc": "Reflect 3 fixed damage"
+        }
+      ]
+    },
+    {
+      "id": 9708,
+      "name": "Rượu Chưng Cất Não Cua Rác Thải",
+      "desc": "Khi đồng minh tấn công kẻ địch có [Burst] bằng Kỹ Năng gây Lượng hoặc Tầng [Burst], +(Tầng [Burst] x 1.25)% sát thương gây ra. (tối đa 50%)\n\nKhi một đồng minh hồi phục khỏi Choáng, hồi 20% HP tối đa. (2 lần mỗi Ải)",
+      "simpleDesc": [
+        {
+          "abilityID": 9708,
+          "simpleDesc": "+(Tầng [Burst] x 1.25)% sát thương gây ra (tối đa 50%)"
+        },
+        {
+          "abilityID": 97081,
+          "simpleDesc": "Heal 20% of Max HP"
+        }
+      ]
+    },
+    {
+      "id": 9709,
+      "name": "Mũ Đỏ Giáng Sinh",
+      "desc": "Cuối Lượt: nhận 1 Lượng [Breath] vào lượt kế với từng Kỹ Năng Tấn Công đã gây sát thương trước Cuối Lượt.\n\nTrong Ải Chuyên Sâu: nhận 3 Lượng [Breath] cho từng Kỹ Năng đã gây sát thương trước Cuối Lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 9709,
+          "simpleDesc": "Nhận 1 Lượng [Breath]"
+        },
+        {
+          "abilityID": 97091,
+          "simpleDesc": "Nhận 3 Lượng [Breath]"
+        }
+      ]
+    },
+    {
+      "id": 9710,
+      "name": "Túi Quà Khổng Lồ",
+      "desc": "Đầu Lượt: gán 2 Lượng [Breath], 2 Tầng [Breath], và 2 [Protection] cho đồng minh có HP thấp nhất.",
+      "simpleDesc": [
+        {
+          "abilityID": 9710,
+          "simpleDesc": "Gán 2 [Breath], 2 Tầng [Breath], và 2 [Protection]"
+        }
+      ]
+    },
+    {
+      "id": 9711,
+      "name": "Thú Nhồi Bông Buồn Bã",
+      "desc": "+(giá trị tuyệt đối của SP / 1.5)% sát thương gây ra. (tối thiểu 0%)\n\nKhi có đồng minh sử dụng Kỹ Năng Xu Dương hồi phục khỏi trạng thái Choáng, hồi tối đa SP. (không kích hoạt nếu bị Ăn Mòn)\n\nVới đồng minh có toàn bộ Kỹ Năng là Xu Úp: nhận 3 [Paralysis] vào Đầu Lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 9711,
+          "simpleDesc": "+(absolute value of SP/1.5)% sát thương gây ra. (tối thiểu 0%)"
+        },
+        {
+          "abilityID": 97111,
+          "simpleDesc": "When recovering from Stagger, fully hồi SP"
+        },
+        {
+          "abilityID": 97112,
+          "simpleDesc": "Khi Đầu Lượt Nhận 3 [Paralysis]"
+        }
+      ]
+    },
+    {
+      "id": 9712,
+      "name": "Cuốn Sổ Đen",
+      "desc": "Vào Đầu Ải: nhận ngẫu nhiên tài nguyên E.G.O bằng với số kẻ địch trên sân.\n\nNếu Số Danh Tính thuộc Gia Tộc Kiếm Sư hoặc Hắc Vân Hội trong Ải ≥ 4 (chỉ tính đồng minh trên sân vào Đầu Ải), đổi thành nhận tài nguyên E.G.O cho Nguyên Tội đang sở hữu ít nhất.",
+      "simpleDesc": [
+        {
+          "abilityID": 9712,
+          "simpleDesc": "Gain random E.G.O resources"
+        },
+        {
+          "abilityID": 97121,
+          "simpleDesc": "Gain the least-owned E.G.O resources"
+        }
+      ]
+    },
+    {
+      "id": 9713,
+      "name": "Chuôi Kiếm Rỉ Sét",
+      "desc": "Đầu Lượt: toàn bộ đồng minh nhận 1 [SlashDamageUp].\n\nDanh Tính thuộc Gia Tộc Kiếm Sư hoặc Hắc Vân</noparse> Hội nhận 2 [SlashDamageUp].",
+      "simpleDesc": [
+        {
+          "abilityID": 9713,
+          "simpleDesc": "Gain 1 Slash Power Up"
+        },
+        {
+          "abilityID": 97131,
+          "simpleDesc": "Gain 2 Slash Power Up"
+        }
+      ]
+    },
+    {
+      "id": 9714,
+      "name": "Lưỡi Kiếm Bị Nứt",
+      "desc": "Trong Ải: khi gây Lượng [Laceration] hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng' lần đầu tiên lên kẻ địch bằng hiệu ứng Kỹ Năng Tấn Công, gây +2 Tầng [Laceration]. (Một lần mỗi Ải)\n\nVới Danh Tính thuộc Hắc Vân</noparse> Hội,\nkhi gây sát thương lên kẻ địch lần đầu tiên, gây thêm 4 Lượng [Laceration] và +4 Tầng [Laceration].",
+      "simpleDesc": [
+        {
+          "abilityID": 9714,
+          "simpleDesc": "Inflict additional 2 Tầng [Laceration]"
+        },
+        {
+          "abilityID": 97141,
+          "simpleDesc": "Inflict additional 4 Lượng [Laceration] và +4 Tầng [Laceration]"
+        }
+      ]
+    },
+    {
+      "id": 9715,
+      "name": "Lưỡi Kiếm Đã Gãy",
+      "desc": "Khi một đồng minh Đánh Trí Mạng lên một kẻ địch, gây thêm +(Lượng [Breath] / 3) sát thương Kiêu Ngạo.\n\nVới danh tính Gia Tộc Kiếm Sư, khi Đánh Trí Mạng lên một kẻ địch, gây thêm +(Lượng [Breath] / 2) sát thương Kiêu Ngạo.",
+      "simpleDesc": [
+        {
+          "abilityID": 9715,
+          "simpleDesc": "Deal an additional (Lượng [Breath]/3) Pride damage."
+        },
+        {
+          "abilityID": 97151,
+          "simpleDesc": "Deal an additional (Lượng [Breath]/2) Pride damage."
+        }
+      ]
+    },
+    {
+      "id": 9716,
+      "name": "Tua Đỏ",
+      "desc": "Nếu Kháng Chém của mục tiêu ≤ 1.5, Kháng Chém +0.3.",
+      "simpleDesc": [
+        {
+          "abilityID": 9716,
+          "simpleDesc": "Slash Resistance +0.3"
+        }
+      ]
+    },
+    {
+      "id": 9717,
+      "name": "Tráng Quan",
+      "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Hắc Vân</noparse> Hội ≥ 3 (chỉ tính đồng minh trên sân).\n\nĐầu Lượt: toàn bộ đồng minh nhận 2 [SlashDamageUp], và +35% sát thương Chém gây ra.\n\nĐầu Lượt: khi một Danh Tính thuộc Hắc Vân</noparse> Hội gây sát thương lần đầu tiên, gây thêm 4 Lượng [Laceration] và +4 Tầng [Laceration].\n(Một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9717,
+          "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+        },
+        {
+          "abilityID": 97171,
+          "simpleDesc": "Inflict additional 4 Lượng [Laceration] và +4 Tầng [Laceration]"
+        }
+      ]
+    },
+    {
+      "id": 9718,
+      "name": "Kiên Định",
+      "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Gia Tộc Kiếm Sư ≥ 3 (chỉ tính đồng minh trên sân).\n\nĐầu Lượt: toàn bộ đồng minh nhận 2 [SlashDamageUp], và +35% sát thương Chém gây ra.\n\nĐầu Lượt: khi một Danh Tính thuộc Gia Tộc Kiếm Sư gây trí mạng, gây thêm sát thương Kiêu Ngạo bằng với Lượng [Breath] đang có.",
+      "simpleDesc": [
+        {
+          "abilityID": 9718,
+          "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+        },
+        {
+          "abilityID": 97181,
+          "simpleDesc": "Deal additional Pride damage equal to Lượng [Breath] on self"
+        }
+      ]
+    },
+    {
+      "id": 9719,
+      "name": "Mũ Tre Rách Rưới",
+      "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Gia Tộc Kiếm Sư ≥ 3 (chỉ tính đồng minh trên sân).\n\nToàn bộ đồng minh +50% sát thương Chém gây ra\n\nDanh Tính thuộc Gia Tộc Kiếm Sư: nếu đồng minh đó có [Breath], cố định tỷ lệ Trí Mạng thành 100%.\n\nDanh Tính thuộc Gia Tộc Kiếm Sư: gây x1.5 sát thương khi Trí Mạng.",
+      "simpleDesc": [
+        {
+          "abilityID": 9719,
+          "simpleDesc": "Deal +50% Slash Damage"
+        },
+        {
+          "abilityID": 97191,
+          "simpleDesc": "Fix Critical rate to 100%"
+        },
+        {
+          "abilityID": 97192,
+          "simpleDesc": "Deal 1.5 times more damage on Crit"
+        }
+      ]
+    },
+    {
+      "id": 9720,
+      "name": "Áo Dopo Cũ Kỹ",
+      "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Gia Tộc Kiếm Sư ≥ 3 (chỉ tính đồng minh trên sân)\n\nToàn bộ đồng minh +50% sát thương Chém gây ra\n\nDanh Tính thuộc Gia Tộc Kiếm Sư: Kỹ Năng 1 nhận Sức Mạnh Xu +1; Kỹ Năng 1 Xu Đơn nhận Sức Mạnh Xu +3\n\n[Chỉ dành cho Sư Phụ Gia Tộc Kiếm Sư Meursault] Không thể Bị Choáng trong lượt trang bị Kỹ Năng \"Hiến Thịt Ta\". Sức Mạnh Giao Tranh Cuối của Kỹ năng \"Hiến Thịt Ta\" -36, Kỹ Năng \"Đoạt Cốt Chúng\" +50% sát thương gây ra",
+      "simpleDesc": [
+        {
+          "abilityID": 9720,
+          "simpleDesc": "Deal +50% Slash Damage"
+        },
+        {
+          "abilityID": 97201,
+          "simpleDesc": "Skill 1 Coin Power Up"
+        },
+        {
+          "abilityID": 97202,
+          "simpleDesc": "'Yield My Flesh' Skill Final Clash Power -24; 'To Claim Your Bones' deals +50% damage"
+        }
+      ]
+    },
+    {
+      "id": 9721,
+      "name": "Vỏ Đồng Hồ Bằng Bạc",
+      "desc": "Khi gây sát thương lên kẻ địch bằng Kỹ Năng Tấn Công (không tính Kỹ Năng E.G.O) gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng', +10% sát thương gây ra.\n\nNếu Kỹ Năng kích hoạt [VibrationExplosion] lên kẻ địch lần đầu tiên trong lượt này, gây +2 Tầng [Vibration] vào lượt kế (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9721,
+          "simpleDesc": "+10% sát thương gây ra"
+        },
+        {
+          "abilityID": 97211,
+          "simpleDesc": "Gây +2 Tầng [Vibration] vào lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 9722,
+      "name": "Vỏ Đồng Hồ Phai Màu",
+      "desc": "Khi Giao Tranh với kẻ địch nhanh hơn, Sức Mạnh Giao Tranh +1.\n\nKhi gây sát thương lên kẻ địch nhanh hơn, gây 3 Lượng [Vibration] và +2 Tầng [Vibration] vào lượt kế. (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9722,
+          "simpleDesc": "Sức Mạnh Giao Tranh +1"
+        },
+        {
+          "abilityID": 97221,
+          "simpleDesc": "Gây 3 Lượng [Vibration] và +2 Tầng [Vibration] vào lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 9723,
+      "name": "Giấy Phạt Cảnh Cáo",
+      "desc": "Cuối Lượt: Gây 1 [Binding] lên kẻ địch nhanh nhất vào lượt kế. (với Dị Thể, lên một Bộ Phận)\n\nNếu mục tiêu có [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng', đổi thành gây 2 [Binding].\n\nKhi một đồng minh tấn công kẻ địch có [Binding], +(5 + (2.5 x giá trị [Binding])) sát thương gây ra. (tối đa 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9723,
+          "simpleDesc": "Gán 1 [Binding] vào lượt kế"
+        },
+        {
+          "abilityID": 97231,
+          "simpleDesc": "Deal +(5 + (2.5 x [Binding] value)) more damage"
+        }
+      ]
+    },
+    {
+      "id": 9724,
+      "name": "Kim Đồng Hồ Chạm Khắc",
+      "desc": "Vào Đầu đợt mới: gây (9 - Tốc Độ hiện tại) Lượng [Vibration] lên 3 kẻ địch có Tốc Độ thấp nhất. (tối thiểu 3)\n\n+10% sát thương gây lên mục tiêu có 12+ [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' vào Đầu Lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 9724,
+          "simpleDesc": "Inflict (9 - current Speed) Lượng [Vibration]"
+        },
+        {
+          "abilityID": 97241,
+          "simpleDesc": "+10% sát thương gây ra"
+        }
+      ]
+    },
+    {
+      "id": 9725,
+      "name": "Kim Đồng Hồ Rỉ Sét",
+      "desc": "Vào Đầu đợt mới: gây (9 - Tốc Độ hiện tại) Lượng [Vibration] (tối thiểu 3) và (9 - Tốc Độ hiện tại) / 2 Tầng [Vibration] lên 1 kẻ địch có Tốc Độ cao nhất. (làm tròn lên; với Dị Thể, lên một Bộ Phận)\n\n-10% sát thương phải nhận từ mục tiêu có 12+ [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' vào Đầu Lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 9725,
+          "simpleDesc": "Inflict (9 - current Speed) Lượng [Vibration] (min. 3) and (9 - current Speed)/2 Tầng [Vibration]"
+        },
+        {
+          "abilityID": 97251,
+          "simpleDesc": "Damage Taken -10%."
+        }
+      ]
+    },
+    {
+      "id": 9726,
+      "name": "Tháp Rượu Tràn Ly",
+      "desc": "Khi một đồng minh có Kỹ Năng Tấn Công (không tính E.G.O) gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' thắng Giao Tranh, gây 2 Lượng [Vibration] và +2 Tầng [Vibration]. (2 lần mỗi lượt)\n\nVới Danh Tính thuộc Yurodivy: gây 3 Lượng [Vibration] và +3 Tầng [Vibration] (3 lần mỗi lượt)\n\nNếu Danh Tính hưởng hiệu ứng Giao Tranh với kẻ địch có Cấp Công Kích cao hơn, nhận Sức Mạnh Giao Tranh +2; +20% sát thương gây ra sau khi thắng Giao Tranh.",
+      "simpleDesc": [
+        {
+          "abilityID": 9726,
+          "simpleDesc": "Gây 2 Lượng [Vibration] và +2 Tầng [Vibration]"
+        },
+        {
+          "abilityID": 97261,
+          "simpleDesc": "Gây 3 Lượng [Vibration] và +3 Tầng [Vibration]"
+        },
+        {
+          "abilityID": 97262,
+          "simpleDesc": "Sức Mạnh Giao Tranh +2, +20% sát thương gây ra"
+        }
+      ]
+    },
+    {
+      "id": 9727,
+      "name": "Hóa Đơn Cho Thời Gian Đặt Trước",
+      "desc": "+(5 + (2.5 x chênh lệch Tốc Độ))% sát thương gây lên kẻ địch nhanh hơn với chênh lệch Tốc Độ ≥ 2. (tối đa 15%)\n\nCuối Lượt: Nếu một đồng minh gây sát thương bằng Kỹ Năng Tấn Công (không tính Kỹ Năng E.G.O) vào lượt này lên kẻ địch nhanh hơn với chênh lệch Tốc Độ ≥ 2, gây 2 [Binding] và 1 [ResultReduction] lên kẻ địch đó vào lượt kế. (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9727,
+          "simpleDesc": "Deal +(5 + (2.5 x Speed difference))% damage"
+        },
+        {
+          "abilityID": 97271,
+          "simpleDesc": "Gây 2 [Binding] và 1 [ResultReduction] to the enemy next turn"
+        }
+      ]
+    },
+    {
+      "id": 9728,
+      "name": "Đồng Hồ Bỏ Túi : Mẫu L",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nVới Kỹ Năng 3 của đồng minh có gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng': Sức Mạnh Xu +2 và +25% sát thương gây ra.\n- Kỹ Năng Xu Âm: Thay vì nhận Sức Mạnh Xu Dương, nhận Sức Mạnh Gốc +(8 / Số Xu) (tối thiểu 1; làm tròn xuống)\n\nKhi một đồng minh gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' kích hoạt [Switch_Vibration] hoặc [FusionVibration] lên kẻ địch bằng Kỹ Năng Tấn Công (tính cả Kỹ Năng E.G.O): nhân Lượng và Tầng [Vibration] lên 1.5 (chỉ khi Chuyển Hoá thành loại '<noparse>Chấn Động</noparse>' khác) và gây 5 [DefenseDown] vào lượt kế. (một lần mỗi lượt)\n\nĐầu Lượt: gây (12 - Tốc Độ hiện tại) Lượng [Vibration] (tối thiểu 6) lên 3 kẻ địch có Tốc Độ thấp nhất. (một lần mỗi đợt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9728,
+          "simpleDesc": "Skill 3 gains Coin/Base Power and deals +25% damage"
+        },
+        {
+          "abilityID": 97281,
+          "simpleDesc": "Multiply Lượng [Vibration] and Count by 1.5 when triggering Amplitude Conversion"
+        },
+        {
+          "abilityID": 97282,
+          "simpleDesc": "Inflict (12 - current Speed) Lượng [Vibration]"
+        }
+      ]
+    },
+    {
+      "id": 9729,
+      "name": "Đồng Hồ Bỏ Túi : Mẫu E",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nVới Kỹ Năng 3 của đồng minh có gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng': Sức Mạnh Xu +2 và +25% sát thương gây ra.\n- Kỹ Năng Xu Âm: Thay vì nhận Sức Mạnh Xu Dương, nhận Sức Mạnh Gốc +(8 / Số Xu) (tối thiểu 1; làm tròn xuống)\n\nKhi một đồng minh có thể gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' gây sát thương lên kẻ địch chậm hơn với chênh lệch Tốc Độ ≥ 2: +(Lượng [Vibration] trên kẻ địch, tối đa 25)% sát thương gây ra và gây 2 [DefenseDown] mỗi khi đồng minh gây sát thương. (tối đa 6)\n\nĐầu Lượt: gây (12 - Tốc Độ hiện tại) Lượng [Vibration] (tối thiểu 6) và (12 - Tốc Độ hiện tại) / 2 Tầng [Vibration] lên kẻ địch có Tốc Độ cao nhất. (Với Dị Thể, lên một Bộ Phận; một lần mỗi đợt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9729,
+          "simpleDesc": "Skill 3 gains Coin/Base Power and deals +25% damage"
+        },
+        {
+          "abilityID": 97291,
+          "simpleDesc": "+(Lượng [Vibration] trên mục tiêu)% sát thương gây ra; gây 2 [DefenseDown] every time the ally deals damage"
+        },
+        {
+          "abilityID": 97292,
+          "simpleDesc": "Inflict (12 - current Speed) Lượng [Vibration] (min. 3) and (9 - current Speed)/2 Tầng [Vibration]"
+        }
+      ]
+    },
+    {
+      "id": 9730,
+      "name": "Đồng Hồ Bỏ Túi : Mẫu Y",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nVới Kỹ Năng 3 của đồng minh có gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng': Sức Mạnh Xu +2 và +25% sát thương gây ra.\n- Kỹ Năng Xu Âm: Thay vì nhận Sức Mạnh Xu Dương, nhận Sức Mạnh Gốc +(8 / Số Xu) (tối thiểu 1; làm tròn xuống)\n\nDanh Tính thuộc Yurodivy: Kỹ Năng 3 nhận Sức Mạnh Xu +2 và +(25 + (tổng Lượng và Tầng [Vibration] trên mục tiêu))% sát thương gây ra. (tối đa 100%)\n\nDanh Tính thuộc Yurodivy: nhận +3 Tầng [Vibration] vào Đầu Lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 9730,
+          "simpleDesc": "Skill 3 gains Coin/Base Power and deals +25% damage"
+        },
+        {
+          "abilityID": 97301,
+          "simpleDesc": "Skill 3 gains Sức Mạnh Xu +2 and deal +(25 + (sum of Lượng [Vibration] and Count on target))% damage."
+        },
+        {
+          "abilityID": 97302,
+          "simpleDesc": "Nhận +3 Tầng [Vibration]"
+        }
+      ]
+    },
+    {
+      "id": 9731,
+      "name": "Đồng Hồ Bỏ Túi : Mẫu P",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nVới Kỹ Năng 3 của đồng minh có gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng': Sức Mạnh Xu +2 và +25% sát thương gây ra.\n- Kỹ Năng Xu Âm: Thay vì nhận Sức Mạnh Xu Dương, nhận Sức Mạnh Gốc +(8 / Số Xu) (tối thiểu 1; làm tròn xuống)\n\nKhi một đồng minh có thể gây Lượng, Tầng [Vibration] hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' Giao Tranh với kẻ địch nhanh hơn với chênh lệch Tốc Độ ≥ 2: Sức Mạnh Giao Tranh +2 và +(Lượng [Vibration] trên mục tiêu)% sát thương gây ra. (tối đa 50%)\n\nĐầu Lượt: từ chậm nhất tới nhanh nhất, 3 đồng minh chậm nhất lần lượt nhận 5 [AttackUp], 3 [AttackUp], và 2 [AttackUp]",
+      "simpleDesc": [
+        {
+          "abilityID": 9731,
+          "simpleDesc": "Skill 3 gains Coin/Base Power and deals +25% damage"
+        },
+        {
+          "abilityID": 97311,
+          "simpleDesc": "Sức Mạnh Giao Tranh +2 and +(Lượng [Vibration] trên mục tiêu)% sát thương gây ra"
+        },
+        {
+          "abilityID": 97312,
+          "simpleDesc": "Nhận [AttackUp]"
+        }
+      ]
+    }
+  ]
+}

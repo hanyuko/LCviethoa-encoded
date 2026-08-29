@@ -1,0 +1,528 @@
+{
+  "dataList": [
+    {
+      "id": 827701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mi Có Sợ Không?",
+          "desc": "Khi ở trạng thái [TimeAcceleration], Sức Mạnh Giao Tranh +1\n[DefeatDuel] Ở mốc 75%- HP, tiêu thụ 50 [LimitedTime] và nhận 1 [Protection] (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hình Phạt cho Kẻ Giết Thời Gian",
+          "desc": "Khi ở trạng thái [TimeAcceleration], Sức Mạnh Giao Tranh +2\n[WhenUse] Ở mốc 500+ [LimitedTime], gây +1 Tầng [Laceration]\n[WhenUse] Ở mốc 300+ [LimitedTime], tiêu thụ 25 [LimitedTime] và gây +1 Lượng [Laceration] và Tầng với Kỹ năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thu Thập",
+          "desc": "Khi ở trạng thái [TimeAcceleration], Sức Mạnh Xu +1\n[WhenUse] Ở mốc 75%- HP, tiêu thụ 50 [LimitedTime] và nhận Sức Mạnh Giao Tranh +2 (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cát Xẻo",
+          "desc": "[WhenUse] Ở mốc 75%- HP, tiêu thụ 75 [LimitedTime] và nhận Sức Mạnh Giao Tranh +2\n[BeforeAttack] Khi ở trạng thái [TimeAcceleration], nhận +1 Phạm Vi Tấn Công",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tới Giờ được Giải Cứu rồi",
+          "desc": "[CantDuel]\nGây [TimeKillerWatch] lên mục tiêu đã sử dụng Kỹ Năng Tấn Công lên đơn vị này\n[StartBattle] Tiêu thụ 200 [LimitedTime] và nhận [TimeAcceleration] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 100 [LimitedTime] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mi Có Sợ Không?",
+          "desc": "Khi ở trạng thái [TimeAcceleration], Sức Mạnh Giao Tranh +1\n[DefeatDuel] Ở mốc 75%- HP, tiêu thụ 50 [OwnTime] và nhận 1 [Protection] (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hình Phạt cho Kẻ Giết Thời Gian",
+          "desc": "Khi ở trạng thái [TimeAcceleration], Sức Mạnh Giao Tranh +2\n[WhenUse] Ở mốc 500+ (tổng [OwnTime] trên tất cả Bộ Phận), gây +1 Tầng [Laceration]\n[WhenUse] Ở mốc 300+ (tổng [OwnTime] trên tất cả Bộ Phận), tiêu thụ 25 [OwnTime] và gây +1 Lượng [Laceration] và Tầng với Kỹ năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thu Thập",
+          "desc": "Khi ở trạng thái [TimeAcceleration], Sức Mạnh Xu +1\n[WhenUse] Ở mốc 75%- HP, tiêu thụ 50 [OwnTime] và nhận Sức Mạnh Giao Tranh +2 (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tàn Sát",
+          "desc": "[WhenUse] Ở mốc 75%- HP, tiêu thụ 75 [OwnTime] và nhận Sức Mạnh Giao Tranh +2\n[BeforeAttack] Khi ở trạng thái [TimeAcceleration], nhận +1 Phạm Vi Tấn Công\n[BeforeAttack] Ở mốc 60%- HP, tiêu thụ 10 [OwnTime] và nhận +1 Phạm Vi Tấn Công",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tới Giờ được Giải Cứu rồi",
+          "desc": "[CantDuel]\nGây [TimeKillerWatch] lên mục tiêu đã sử dụng Kỹ Năng Tấn Công lên đơn vị này\n[StartBattle] Tiêu thụ 200 [OwnTime] và nhận [TimeAcceleration] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 100 tổng [OwnTime] trên tất cả các Bộ Phận (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thì Giờ Giết Thời Gian",
+          "desc": "[CantDuel]\nTốc độ của đơn vị này được cố định ở mức 24.\nKhông thể bị Choáng trong lượt này.\n[WhenUse] Lấy tổng 400 [OwnTime] từ toàn bộ đơn vị, sau đó tiêu thụ nó.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Xóa thời gian của mục tiêu. Khi đơn vị này xóa thời gian của mục tiêu, tất cả Bộ Phận hồi [OwnTime] về giá trị tối đa nhận 10 [Agility] và 10 [Enhancement] vào lượt kế."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tíc",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tắc",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tíc Tíc - Tóc",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tóc",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ôi Giời...",
+          "desc": "[DefeatDuel] Nhận 1 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sắp Hết Thời Gian",
+          "desc": "[DefeatDuel] Nhận 1 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chúng Ta Cần Thêm Thời Gian!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

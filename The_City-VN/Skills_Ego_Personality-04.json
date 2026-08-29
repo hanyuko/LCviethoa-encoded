@@ -1,0 +1,783 @@
+{
+  "dataList": [
+    {
+      "id": 2040511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận 3 tài nguyên E.G.O của Nguyên Tội ngẫu nhiên hiện tại đang sở hữu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Sinking]"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận 3 tài nguyên E.G.O của Nguyên Tội ngẫu nhiên hiện tại đang sở hữu; <style=\"highlight\">Toàn bộ đồng minh hồi 3 SP</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Sinking]"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận 3 tài nguyên E.G.O của Nguyên Tội ngẫu nhiên hiện tại đang sở hữu; Toàn bộ đồng minh hồi 3 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Toàn bộ đồng minh nhận +1 [GainSinStockAdder]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Toàn bộ đồng minh nhận +1 [GainSinStockAdder]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">6</style> [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Toàn bộ đồng minh nhận +1 [GainSinStockAdder]; <style=\"highlight\">Gán 1 [Agility] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[BeforeAttack] Nhận 4 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[BeforeAttack] Nhận 4 [Breath]\n<style=\"highlight\">[EndSkill] Nhận 2 [Breath] với mỗi kẻ địch bị Kỹ Năng này đánh bại</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[BeforeAttack] Nhận 4 [Breath]\n[EndSkill] Nhận 2 [Breath] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 4 [Breath]. Tiêu thụ 2 Tầng [Charge] để nhận 1 [Breath] (Tối Đa 10)\n[EndSkill] Nhận +4 Tầng [Charge] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 4 [Breath]. Tiêu thụ 2 Tầng [Charge] để nhận 1 [Breath] (Tối Đa 10)\n[EndSkill] Nhận +4 Tầng [Charge] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ám Ảnh Mù Quáng",
+          "abName": "Phù Sa Nuốt Mộng",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 4 [Breath]. Tiêu thụ 2 Tầng [Charge] để nhận 1 [Breath] (Tối Đa 10)\n[EndSkill] Nhận +4 Tầng [Charge] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Ở mốc 10+ [Breath], nhận +30% Sát Thương Trí Mạng</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khinh, Lẫm",
+          "abName": "Vòng Xoáy Khinh Miệt",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) Phạm Vi Tấn Công (tối đa 2)\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 1) [GazePersonality] (tối đa 7)\n[EndSkill] Trong 2 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Chia đều 10 [Laceration] cho toàn bộ mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Khinh, Lẫm",
+          "abName": "Vòng Xoáy Khinh Miệt",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) Phạm Vi Tấn Công (tối đa <style=\"highlight\">4</style>)\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 1) [GazePersonality] (tối đa 7)\n[EndSkill] Trong 2 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Chia đều <style=\"highlight\">15</style> [Laceration] cho toàn bộ mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Khinh, Lẫm",
+          "abName": "Vòng Xoáy Khinh Miệt",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) Phạm Vi Tấn Công (tối đa <style=\"highlight\">6</style>)\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất + 1) [GazePersonality] <style=\"highlight\">trong lượt này và lượt kế</style> (tối đa 7)\n<style=\"highlight\">[EndSkill] Nếu Kỹ Năng này là một phần của Dục Vọng Cộng Hưởng, nhận 1 tài nguyên E.G.O thuộc các Nguyên Tội tương ứng với từng Kỹ năng Tấn công của chủ thể</style>\n[EndSkill] Trong 2 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Chia đều 15 [Laceration] cho toàn bộ mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khinh, Lẫm",
+          "abName": "Vòng Xoáy Khinh Miệt",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], +([Laceration] trên mục tiêu + Tầng [Laceration] trên mục tiêu)% sát thương gây ra (tối đa 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây (1 + (Cộng Hưởng cao nhất x 1.5)) [Laceration] (tối đa 10, làm tròn xuống)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Khinh, Lẫm",
+          "abName": "Vòng Xoáy Khinh Miệt",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], +([Laceration] trên mục tiêu + Tầng [Laceration] trên mục tiêu)% sát thương gây ra (tối đa <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">(3 + (Cộng Hưởng cao nhất x 2))</style> [Laceration] (tối đa <style=\"highlight\">15</style>, làm tròn xuống)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">3</style> Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Khinh, Lẫm",
+          "abName": "Vòng Xoáy Khinh Miệt",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] Nếu Kỹ Năng này là một phần của Dục Vọng Cộng Hưởng, nhận 1 tài nguyên E.G.O thuộc các Nguyên Tội tương ứng với từng Kỹ năng Tấn công của chủ thể</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], +([Laceration] trên mục tiêu + Tầng [Laceration] trên mục tiêu)% sát thương gây ra (tối đa <style=\"highlight\">60%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">(10 + (Cộng Hưởng cao nhất x 2.5))</style> [Laceration] (tối đa <style=\"highlight\">25</style>, làm tròn xuống)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">5</style> Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) [Breath] (tối đa 4)\n- Ở mốc 15+ [Breath], đổi thành nhận Sức Mạnh Tổng +(Cộng Hưởng cao nhất) (tối đa 4)\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Tầng [Breath] (tối đa 2)\n- Ở mốc 5+ Tầng [Breath], đổi thành nhận Sức Mạnh Xu +(Cộng Hưởng cao nhất / 2) (tối đa 2)\n[TargetKill] Nhận 1 [HoldingBreath] vào lượt kế (2 lần mỗi lượt)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [HoldingBreath] (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) [Breath] (tối đa <style=\"highlight\">6</style>)\n- Ở mốc 15+ [Breath], đổi thành nhận Sức Mạnh Tổng +(Cộng Hưởng cao nhất) (tối đa <style=\"highlight\">6</style>)\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Tầng [Breath] (tối đa 2)\n- Ở mốc 5+ Tầng [Breath], đổi thành nhận Sức Mạnh Xu +(Cộng Hưởng cao nhất / 2) (tối đa 2)\n[TargetKill] Nhận <style=\"highlight\">2</style> [HoldingBreath] vào lượt kế (<style=\"highlight\">4</style> lần mỗi lượt)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+(Lượng [Breath] + Tầng)% sát thương gây ra khi Trí Mạng (tối đa 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [HoldingBreath] (một lần mỗi lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) [Breath] (tối đa 6)\n- Ở mốc 15+ [Breath], đổi thành nhận Sức Mạnh Tổng +(Cộng Hưởng cao nhất) (tối đa 6)\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Tầng [Breath] (tối đa <style=\"highlight\">3</style>)\n- Ở mốc 5+ Tầng [Breath], đổi thành nhận Sức Mạnh Xu +(Cộng Hưởng cao nhất / 2) (tối đa <style=\"highlight\">3</style>)\n[TargetKill] Nhận 2 [HoldingBreath] vào lượt kế (<style=\"highlight\">6</style> lần mỗi lượt)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+(Lượng [Breath] + Tầng)% sát thương gây ra khi Trí Mạng (tối đa <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận <style=\"highlight\">4</style> [HoldingBreath] (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có HP thấp nhất (ưu tiên đồng minh)\nNếu có đồng minh là một trong những mục tiêu của kỹ năng này, +30% sát thương gây ra\n\n[BeforeAttack] Khi [Breath] dưới 15, tiêu thụ 10% HP để nhận 5 [Breath] và +5 Tầng [Breath]\n- Không thể Bị Choáng hoặc đánh bại do hiệu ứng này\n\n[EndSkill] Nếu mục tiêu bị đánh bại, nhận 2 [HoldingBreath] vào lượt kế. (một lần mỗi lượt) Nếu mục tiêu đó là đồng minh, đồng thời kích hoạt những hiệu ứng dưới đây:\n- Các đồng minh được tham chiến hoặc được Thay Vào Ải này do đồng minh bị đánh bại nhận 2 [Breath] và +2 Tầng [Breath]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [HoldingBreath] (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có HP thấp nhất (ưu tiên đồng minh)\nNếu có đồng minh là một trong những mục tiêu của kỹ năng này, +30% sát thương gây ra\n\n[BeforeAttack] Khi [Breath] dưới 15, tiêu thụ 10% HP để nhận 5 [Breath] và +5 Tầng [Breath]\n- Không thể Bị Choáng hoặc đánh bại do hiệu ứng này\n<style=\"highlight\">- Nhận 1 [Breath] với mỗi đồng minh là mục tiêu của Kỹ Năng này (tối đa 2)</style>\n\n[EndSkill] Nếu mục tiêu bị đánh bại, nhận 2 [HoldingBreath] vào lượt kế. (một lần mỗi lượt) Nếu mục tiêu đó là đồng minh, đồng thời kích hoạt những hiệu ứng dưới đây:\n- Các đồng minh được tham chiến hoặc được Thay Vào Ải này do đồng minh bị đánh bại nhận <style=\"highlight\">4</style> [Breath] và +2 Tầng [Breath]\n<style=\"highlight\">- Hồi lại một nửa SP Kỹ Năng này đã tiêu thụ</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+(Lượng [Breath] + Tầng)% sát thương gây ra khi Trí Mạng (tối đa 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [HoldingBreath] (một lần mỗi lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đau Thành Ngực",
+          "abName": "Túi Ngủ Ngày Định Mệnh",
+          "desc": "[CantIdentify]\nƯu tiên mục tiêu có HP thấp nhất (ưu tiên đồng minh)\nNếu có đồng minh là một trong những mục tiêu của kỹ năng này, +30% sát thương gây ra\n\n[BeforeAttack] Khi [Breath] dưới 15, tiêu thụ 10% HP để nhận 5 [Breath] và +5 Tầng [Breath]\n- Không thể Bị Choáng hoặc đánh bại do hiệu ứng này\n- Nhận <style=\"highlight\">2</style> [Breath] với mỗi đồng minh là mục tiêu của Kỹ Năng này (tối đa <style=\"highlight\">4</style>)\n\n[EndSkill] Nếu mục tiêu bị đánh bại, nhận <style=\"highlight\">3</style> [HoldingBreath] vào lượt kế. (một lần mỗi lượt) Nếu đồng minh cũng bị Kỹ Năng này giết, đồng thời kích hoạt những hiệu quả bên dưới:\n- Các đồng minh được tham chiến hoặc được Thay Vào Ải này do đồng minh bị đánh bại nhận 4 [Breath] và +<style=\"highlight\">4</style> Tầng [Breath]\n<style=\"highlight\">- Hồi lại SP Kỹ Năng này đã tiêu thụ và nhận lại 1 tài nguyên E.G.O của mỗi nguyên tội đã tiêu thụ</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+(Lượng [Breath] + Tầng)% sát thương gây ra khi Trí Mạng (tối đa <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận <style=\"highlight\">7</style> [HoldingBreath] (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) [Breath] (tối đa 7)\n\n[EndSkill] Nhận 1 [RyoshuEGOPF]\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+30% Sát Thương khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ toàn bộ [RyoshuEGOPF] trên chủ thể và +1% sát thương gây ra với mỗi 5 [RyoshuEGOPF] đã tiêu thụ (tối đa 100%)",
+                  "summary": "[OnStartCoin] Gây thêm sát thương dựa trên [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) [Breath] (tối đa 7)\n<style=\"highlight\">[BeforeAttack] Nhận +2 Tầng [Breath]</style>\n\n[EndSkill] Nhận 1 [RyoshuEGOPF]\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Binding] vào lượt kế</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Sức Mạnh Xu +3 cho Xu cuối (một lần mỗi Kỹ Năng)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Sát Thương khi Trí Mạng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] +1% sát thương gây ra với mỗi 10 (Lượng [Combustion] + Lượng [Laceration]) trên toàn bộ mục tiêu (tối đa 30%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Sức Mạnh Xu +1 với mỗi 10 (Tầng [Combustion] + Tầng [Laceration]) trên toàn bộ mục tiêu (tối đa 3)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ toàn bộ [RyoshuEGOPF] trên chủ thể và +1% sát thương gây ra với mỗi 5 [RyoshuEGOPF] đã tiêu thụ (tối đa 100%)\n- Khi chỉ tấn công một mục tiêu duy nhất, hiệu ứng điều chỉnh sát thương ở trên được áp dụng với giá trị gấp 1.5 lần (trong Ải Chuyên Sâu, một Lõi và các Bộ Phận của nó được tính là một mục tiêu duy nhất)",
+                  "summary": "<style=\"highlight\">[OnStartCoin] Gây thêm sát thương dựa trên [RyoshuEGOPF]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[BeforeAttack] Nhận (Cộng Hưởng cao nhất) [Breath] (tối đa 7)\n[BeforeAttack] Nhận <style=\"highlight\">+3</style> Tầng [Breath]\n\n[EndSkill] Nhận 1 [RyoshuEGOPF]\n[EndSkill] Trong 3 lượt, mất 10 SP vào Cuối Lượt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Sức Mạnh Xu <style=\"highlight\">+5</style> cho Xu cuối (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Sát Thương khi Trí Mạng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] +1% sát thương gây ra với mỗi 10 (Lượng [Combustion] + Lượng [Laceration]) trên toàn bộ mục tiêu <style=\"highlight\">(tối đa 50%)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Sức Mạnh Xu +1 với mỗi 10 (Tầng [Combustion] + Tầng [Laceration]) trên toàn bộ mục tiêu <style=\"highlight\">(tối đa 5)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ toàn bộ [RyoshuEGOPF] trên chủ thể và +1% sát thương gây ra với mỗi 5 [RyoshuEGOPF] đã tiêu thụ <style=\"highlight\">(tối đa 198%)</style>\n- Khi chỉ tấn công một mục tiêu duy nhất, hiệu ứng điều chỉnh sát thương ở trên được áp dụng với giá trị gấp <style=\"highlight\">2</style> lần (trong Ải Chuyên Sâu, một Lõi và các Bộ Phận của nó được tính là một mục tiêu duy nhất)",
+                  "summary": "[OnStartCoin] Gây thêm sát thương dựa trên [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Tiêu thụ tối đa 20 [Breath] vượt ngưỡng 20 [Breath] trên chủ thể, và với mỗi [Breath] đã tiêu thụ, hồi 1% HP Tối Đa (tối thiểu 1 HP) và +1% sát thương gây ra cho Kỹ Năng này\n[BeforeAttack] Nhận +3 Tầng [Breath]\n[BeforeAttack] Ở mốc 999 [RyoshuEGOPF], Sức Mạnh Gốc +1\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n\n[EndSkill] Nhận 10 [RyoshuEGOPF]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+30% Sát Thương khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ toàn bộ [RyoshuEGOPF] trên chủ thể và +1% sát thương gây ra với mỗi 5 [RyoshuEGOPF] đã tiêu thụ (tối đa 100%)",
+                  "summary": "[OnStartCoin] Gây thêm sát thương dựa trên [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Tiêu thụ tối đa 20 [Breath] vượt ngưỡng 20 [Breath] trên chủ thể, và với mỗi [Breath] đã tiêu thụ, hồi 1% HP Tối Đa (tối thiểu 1 HP) và +1% sát thương gây ra cho Kỹ Năng này\n[BeforeAttack] Nhận +3 Tầng [Breath]\n[BeforeAttack] Ở mốc 999 [RyoshuEGOPF], Sức Mạnh Gốc <style=\"highlight\">+2</style>\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n\n[EndSkill] Nhận <style=\"highlight\">20</style> [RyoshuEGOPF]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Binding] vào lượt kế</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] +30% sát thương gây ra cho Xu cuối (một lần mỗi Kỹ Năng)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Sát Thương khi Trí Mạng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] +1% sát thương gây ra với mỗi 10 (Lượng [Combustion] + Lượng [Laceration]) trên toàn bộ mục tiêu (tối đa 30%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Sức Mạnh Tổng +1 với mỗi 10 (Tầng [Combustion] + Tầng [Laceration]) trên toàn bộ mục tiêu (tối đa 3)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ toàn bộ [RyoshuEGOPF] trên chủ thể và +1% sát thương gây ra với mỗi 5 [RyoshuEGOPF] đã tiêu thụ (tối đa 100%)\n<style=\"highlight\">- Khi chỉ tấn công một mục tiêu duy nhất, hiệu ứng điều chỉnh sát thương ở trên được áp dụng với giá trị gấp 1.5 lần (trong Ải Chuyên Sâu, một Lõi và các Bộ Phận của nó được tính là một mục tiêu duy nhất)</style>",
+                  "summary": "[OnStartCoin] Gây thêm sát thương dựa trên [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tam Thiên Đại Thế Giới [三千大世界]",
+          "abName": "La Sinh Điệp [羅生蝶]",
+          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Tiêu thụ tối đa 20 [Breath] vượt ngưỡng 20 [Breath] trên chủ thể, và với mỗi [Breath] đã tiêu thụ, hồi 1% HP Tối Đa (tối thiểu 1 HP) và +1% sát thương gây ra cho Kỹ Năng này\n[BeforeAttack] Nhận <style=\"highlight\">+5</style> Tầng [Breath]\n[BeforeAttack] Ở mốc 999 [RyoshuEGOPF], Sức Mạnh Gốc <style=\"highlight\">+3</style>\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n\n[EndSkill] Nhận <style=\"highlight\">33</style> [RyoshuEGOPF]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] <style=\"highlight\">+50%</style> sát thương gây ra cho Xu cuối (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Sát Thương khi Trí Mạng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] +1% sát thương gây ra với mỗi 10 (Lượng [Combustion] + Lượng [Laceration]) trên toàn bộ mục tiêu <style=\"highlight\">(tối đa 50%)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Sức Mạnh Tổng +1 với mỗi 10 (Tầng [Combustion] + Tầng [Laceration]) trên toàn bộ mục tiêu <style=\"highlight\">(tối đa 5)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ toàn bộ [RyoshuEGOPF] trên chủ thể và <style=\"highlight\">+1.25%</style> sát thương gây ra với mỗi 5 [RyoshuEGOPF] đã tiêu thụ <style=\"highlight\">(tối đa 248%)</style>\n- Khi chỉ tấn công một mục tiêu duy nhất, hiệu ứng điều chỉnh sát thương ở trên được áp dụng với giá trị gấp <style=\"highlight\">2</style> lần (trong trường hợp Ải Chuyên Sâu, một Lõi và các Bộ Phận của nó được tính là một mục tiêu duy nhất)",
+                  "summary": "[OnStartCoin] Gây thêm sát thương dựa trên [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

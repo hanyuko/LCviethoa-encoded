@@ -1,0 +1,67 @@
+{
+  "dataList": [
+    {
+      "id": 40000501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crimson Cleave",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Plastered Sleep, Unrestrained Ripples",
+          "desc": "Can draw any attack to this unit regardless of Speed\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 [Breath] (tối đa 3)\n[WhenUse] Sức Mạnh Gốc +3 với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 9)\n[WhenUse] Nhận 5 [Agility] vào lượt kế (một lần mỗi lượt)\n[WhenUse] Nhận 10 [Breath] và +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 7 [Laceration] và +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] +300% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "dataList": [
+    {
+      "id": 113101,
+      "name": "Phục Kích Bất Thành",
+      "desc": "Cuối Lượt: Nếu chủ thể thua Giao Tranh trong lượt này, nhận 2 [Binding] vào lượt kế"
+    },
+    {
+      "id": 113102,
+      "name": "Bài Kiểm Tra của Giả Khâu",
+      "desc": "Khi Vào Lượt 1: nhận [RepressedMurderousIntendTwo]\nKết Ải khi Hồng Lộ chết"
+    },
+    {
+      "id": 113701,
+      "name": "E.G.O Nở Rộ::Nhi Lập",
+      "desc": "Khi Vào Lượt 1: hồi 30 SP and nhận [ExaminationOfQiu]"
+    },
+    {
+      "id": 113702,
+      "name": "Tước Biếm (削貶)",
+      "desc": "Nếu mục tiêu có 4+ hiệu ứng bất lợi, Sức Mạnh Giao Tranh +1"
+    },
+    {
+      "id": 113703,
+      "name": "Tử Chú [Vật Động (勿動)]",
+      "desc": "+10% sát thương gây ra lên kẻ địch có [BurstStop]"
+    },
+    {
+      "id": 113704,
+      "name": "Tử Chú [Trì Tuệ (掣肘)]",
+      "desc": "-20% sát thương phải nhận từ kẻ địch có [BurstSuppress]"
+    },
+    {
+      "id": 113706,
+      "name": "Heed me, Zilu",
+      "desc": "Khi HP xuống 85%, hình thành hành vi chiến đấu mới\nTiến vào giai đoạn mới khi HP xuống 60%"
+    },
+    {
+      "id": 113707,
+      "name": "Đạo Ngươi Kết Thúc Tại Đây",
+      "desc": "Kết thúc ải nếu Hồng Lộ chết"
+    },
+    {
+      "id": 113708,
+      "name": "Overwhelm",
+      "desc": "When an Identity's HP drops to 1 or below, retreat them from the Encounter"
+    },
+    {
+      "id": 113301,
+      "name": "Estimation",
+      "desc": "Cuối Lượt: for every Clash this unit lost, nhận 1 Binding vào lượt kế (tối đa 6)"
+    },
+    {
+      "id": 113302,
+      "name": "Shin (心) Radiance",
+      "desc": "Khi Vào Lượt 1: hồi 30 SP\nGains a new pattern at 85% HP\nNhận 500 Shield at Turn Start, at 60% HP\n- After this effect activates, this unit does not drop below 1 HP"
+    },
+    {
+      "id": 114101,
+      "name": "E.G.O Nở Rộ::Nhi Lập",
+      "desc": "Khi Vào Lượt 1: nhận [ExaminationOfQiu]"
+    },
+    {
+      "id": 114102,
+      "name": "Diminish (貶)",
+      "desc": "Nếu mục tiêu có 3+ types of Deathrites, Sức Mạnh Xu +1"
+    },
+    {
+      "id": 114104,
+      "name": "I will ask again",
+      "desc": "Ends the Encounter at 50% HP "
+    },
+    {
+      "id": 114105,
+      "name": "Focus",
+      "desc": "When using 'Bring Forth a Real Answer', summon the Heishou"
+    },
+    {
+      "id": 114106,
+      "name": "Focus",
+      "desc": "Begins the Encounter with half the Potency and Count for the following effects this unit had at the start of this phase: [Burst], [Combustion], [Sinking], [Vibration], [Laceration]"
+    },
+    {
+      "id": 113709,
+      "name": "Infinite Song of Erudition",
+      "desc": "Attack End: hồi 5 SP for every Deathrite on the target\nKhi Đánh Trúng, when the target's Deathrite is triggered, hồi 3 SP for every Deathrite triggered"
+    },
+    {
+      "id": 114107,
+      "name": "I still await your answer.",
+      "desc": "Every Đầu Lượt: Core and Part  nhận 900 Khiên.\n- When Hồng Lộ has [Teaching], lose 300 Shield per Stack on Hồng Lộ\n- When Hồng Lộ has 3+ [Teaching], this unit does not nhận Shield for the rest of the Encounter"
+    },
+    {
+      "id": 115701,
+      "name": "Hate",
+      "desc": "Sức Mạnh Tổng +2 in Clashes against Hồng Lộ"
+    },
+    {
+      "id": 115702,
+      "name": "Unleashed Curse",
+      "desc": "Đầu Lượt: nhận [AttackUp] equal to the number of Jars defeated in this Encounter (tối đa 5)"
+    },
+    {
+      "id": 115703,
+      "name": "Returning the Pain",
+      "desc": "+1% sát thương gây ra for every 1% HP bị mất trên chủ thể (tối đa 50%)"
+    },
+    {
+      "id": 115801,
+      "name": "Bolus of... Immortality?",
+      "desc": "Khi Đánh Trúng with a Skill: hồi 10% of the damage dealt (rounded down)\nNếu mục tiêu có [MadFeather], hồi additional ([MadFeather] Stack on target)% HP"
+    },
+    {
+      "id": 115802,
+      "name": "I'VE NEVER FELT BETTER!",
+      "desc": "Khi Đánh Trúng, hồi 3 SP on self"
+    },
+    {
+      "id": 115803,
+      "name": "MY REVENGEANCE HAS JUST BEGUN!",
+      "desc": "Nhận 1 [AttackUp] vào lượt kế every time this unit loses a Clash (tối đa 3)"
+    },
+    {
+      "id": 115804,
+      "name": "Rupture by Feathers",
+      "desc": "Whenever this unit hits the same target three times in the same turn, gây 1 [Vulnerable] vào lượt kế"
+    },
+    {
+      "id": 115805,
+      "name": "Rampage",
+      "desc": "Cấp Công Kích +1 and Defense Level -1 for every 15% HP this unit cumulatively lost in this Encounter (tối đa 6)"
+    },
+    {
+      "id": 115901,
+      "name": "Wounded",
+      "desc": "Bắt Đầu Ải: enters the battle with 80% HP"
+    },
+    {
+      "id": 115902,
+      "name": "Master of the Deathrite Monks",
+      "desc": "Cuối Lượt: at 20 or less SP, this unit siphons 10 SP from 3 random allies with the highest SP to hồi its own SP\n\nĐầu Lượt: Gán 2 [AttackDmgUp] to all other allies with -20 or less SP"
+    },
+    {
+      "id": 115903,
+      "name": "Wicked Energy",
+      "desc": "When inflicting [OminousTalisman] on an enemy, if the target already has [OminousTalisman], consume up to 3 [OminousTalisman] trên mục tiêu and inflict the same value as [DefenseDown] Stacks to the target this turn and vào lượt kế"
+    },
+    {
+      "id": 115904,
+      "name": "Dammit... Take them out!",
+      "desc": "In this Encounter, if this unit takes damage that brings this unit's HP down to half or less, nullify that damage and end the turn. Then, move to the rearmost position of the Substitution order (when Staggered, recover immediately)\n\nIf there are no more enemies to Substitute in, or if there aren't enough of them left, (as in, if there are more dead enemies this turn than there are waiting to Substitute into the Encounter) this effect does not activate"
+    },
+    {
+      "id": 115905,
+      "name": "The Battle's End",
+      "desc": "When Wang Qingshan loses all HP in this Encounter, the Encounter ends"
+    },
+    {
+      "id": 116701,
+      "name": "Ugh... these damn engravings...!",
+      "desc": "Cuối Lượt: at 7+ [Charge], nhận 4 [DefenseDown] và 3 [AttackDmgUp] vào lượt kế"
+    },
+    {
+      "id": 116702,
+      "name": "Your shabby weapons are incomparable to mine",
+      "desc": "If this unit inflicted 4 or more [Burst] during this turn, nhận +3 Tầng [Charge] at Turn End (một lần mỗi lượt)"
+    },
+    {
+      "id": 116703,
+      "name": "Is that all you've got?",
+      "desc": "Đầu Lượt: nhận 1 [AttackDmgUp] for every [Charge] on self"
+    },
+    {
+      "id": 116704,
+      "name": "The Battle's End",
+      "desc": "When Shi Hua... something? loses all HP in this Encounter, the Encounter ends"
+    },
+    {
+      "id": 116705,
+      "name": "Deploy Lightning Shield",
+      "desc": "Đầu Lượt: if this unit has [Charge], nhận (100 - (([Charge] - 1) x 10)) Shield. Ở mốc 7+ [Charge], this unit no longer gains Shield with this Passive."
+    },
+    {
+      "id": 116001,
+      "name": "That's how you use your human resources",
+      "desc": "Đầu Lượt: if this unit has 50% or less HP, sacrifice a random Shi Family Mercenary to hồi (10% of this unit's HP + 50% of the sacrificed unit's HP) HP, hồi 25 SP, and recover from Stagger (một lần mỗi lượt)"
+    },
+    {
+      "id": 116002,
+      "name": "Jin Gang, Unbreakable Diamond",
+      "desc": "Đầu Lượt: nhận 5 [Protection]\n- Nhận fewer Stacks depending on this unit's [Charge]\n- Ở mốc 5+ [Charge], this unit no longer gains [Protection] with this Passive"
+    },
+    {
+      "id": 116003,
+      "name": "The Battle's End",
+      "desc": "When Shi Sijing loses all HP in this Encounter, the Encounter ends"
+    },
+    {
+      "id": 115704,
+      "name": "The Battle's End",
+      "desc": "When Xue Pan loses all HP in this Encounter, the Encounter ends"
+    },
+    {
+      "id": 115806,
+      "name": "The Battle's End",
+      "desc": "When Shi Yihua loses all HP in this Encounter, the Encounter ends"
+    },
+    {
+      "id": 114401,
+      "name": "My Lord",
+      "desc": "Đầu Lượt: hồi 30 SP\nĐầu Lượt: nhận up to 500 Shield\n- This unit does not drop below 1 HP"
+    }
+  ]
+}

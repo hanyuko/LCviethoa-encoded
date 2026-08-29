@@ -1,0 +1,442 @@
+{
+  "dataList": [
+    {
+      "id": 9021301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mở Banh Vết Thương",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Rách Vết Thương",
+          "desc": "[WhenUse] Nếu mục tiêu có 2+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xác Thịt Tan Chảy",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Agility] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tán Cây Phủ Bóng",
+          "desc": "[WhenUse] Gây 1 [Paralysis]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Toạc Vết Thương",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vết Thương Ngoài Da",
+          "desc": "[WhenUse] Nếu mục tiêu có 2+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Rách Da Thịt",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ [Laceration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Agility] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tán Cây Phủ Bóng",
+          "desc": "[WhenUse] Gây 1 [Paralysis]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhát Đâm Chấn Động",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 7 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhát Đâm Thiêu Đốt",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 7 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vét Chém Đẩy Mạnh",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 7 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[DefeatDuel] -75% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu thụ 1 [BudgetBulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu thụ 1 [BudgetBulletPropellant]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nạp Đạn Thuốc Phóng",
+          "desc": "[StartBattle] [FullReload] (một lần mỗi lượt)\n[WhenUse] Nếu mục tiêu có 6+ ([Combustion] + [Vibration]), Sức Mạnh Xu +3\n[WhenUse] Nhận 1 [AttackDmgUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đâm Xuyên Chấn Động",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 7 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đâm Xuyên Thiêu Đốt",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 7 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhát Chém Đẩy Mạnh",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 7 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[DefeatDuel] -75% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu thụ 1 [BudgetBulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration] và +2 Tầng [Vibration],"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion] và +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu thụ 1 [BudgetBulletPropellant]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nạp Đạn Thuốc Phóng",
+          "desc": "[StartBattle] [FullReload] (một lần mỗi lượt)\n[WhenUse] Nếu mục tiêu có 6+ ([Combustion] + [Vibration]), Sức Mạnh Xu +3\n[WhenUse] Nhận 1 [AttackDmgUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "dataList": [
+    {
+      "id": 97108101,
+      "title": "There is a useful piece of gear on a W Corp. Cleanup Agent who was turned into a Bloodbag.",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "{0} cố gắng gỡ bỏ phần máu thịt ra khỏi trang bị.\n\n\"Ồ...\"\n\nNhưng vẫn có thứ gì đó khiến chiếc găng tay không hoạt động."
+      ],
+      "failureDesc": [
+        "{0} cố gắng gỡ bỏ phần máu thịt ra khỏi trang bị nhưng cuối cùng lại chịu một vết thương ở tay.\n\n\"... Chúng ta có thể khiến nó hoạt động nếu tìm thấy mạch 7B.\"\n\nMột Tội Nhân đưa ra ý kiến. Tuy nhiên, vết thương ở tay của {0} có thể trở lên nghiêm trọng hơn.\n\nNỗ lực này liệu có xứng đáng?"
+      ]
+    },
+    {
+      "id": 97108201,
+      "title": "There is a useful piece of gear on a W Corp. Cleanup Agent who was turned into a Bloodbag.",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ sửa đây?",
+      "successDesc": [
+        "{0} đã tìm ra mạch điện bị lỗi và sửa chữa nó thành công."
+      ],
+      "failureDesc": [
+        "\"Gần xong rồi...\"\n\nKhi mọi thứ chuẩn bị đi tới hồi kết...\n\n\"...! Quản Lý Điều Hành, có kẻ địch tấn công!\"\n\nChúng tôi đã đốt quá nhiều thời gian và giờ đám Túi Máu đang tiếp cận."
+      ]
+    },
+    {
+      "id": 97108402,
+      "title": "A W Corp. Cleanup Agent is battling a group of Bloodbags.",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ được cử đi?",
+      "successDesc": [
+        "{0} được cử đi hỗ trợ ngay khi đám Túi Máu để lộ sơ hở trong đội hình.\n\n... Thật may mắn, chúng ta hoàn thành công việc Dọn Dẹp mà không có vấn đề gì phát sinh.\n\n\"Cảm ơn mọi người đã giúp đỡ! Chỉ cách một giây nữa thôi là tôi sẽ trở thành một trong số đám quái vậ—\"\n\nDo quá kinh hãi trước ý nghĩ này, người Đặc Vụ đột nhiên ngắt lời và cố gắng quên đi những gì mình vừa nói.\n\n\"Tôi rút lui đây. Nhận lấy thứ này đi—Tuy không phải thứ gì đó đáng giá nhưng tôi hi vọng nó giúp được mọi người.\""
+      ],
+      "failureDesc": [
+        "{0} được cử đi hỗ trợ ngay khi đám Túi Máu để lộ sơ hở trong đội hình.\n\n\"Một người thì có vẻ hơi quá sức rồi...\"\n\nKể cả khi chúng tôi đã diệt hết đám Túi Máu bên phía này, {0} và Đặc Vụ bên đó vẫn bị mắc kẹt trong trận chiến...\n\nMay mắn thay, chúng tôi vẫn kịp thời hỗ trợ {0} và giải cứu người Đặc Vụ.\n\n\"Tôi rút lui đây. Nhận lấy thứ này đi—Tuy không phải thứ gì đó đáng giá nhưng tôi hi vọng nó giúp được mọi người.\""
+      ]
+    }
+  ]
+}

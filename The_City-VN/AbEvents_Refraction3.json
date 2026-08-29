@@ -1,0 +1,164 @@
+{
+  "dataList": [
+    {
+      "id": 857701,
+      "title": "Ardor Blossom Moth",
+      "prevDesc": "             ",
+      "eventDesc": "Ngay chính giữa của con bướm lửa này vưởng vất một chùm bóng đen.\n\nHình dáng của thứ đó vô cùng mơ hồ và mờ ảo... nhưng lạ thay, bạn lại biết rõ rằng đó chính là phần lõi của nó.\n\nNếu như có thể tách rời phần bóng đen ấy khỏi ngọn lửa, thì nguồn lửa có thể nguôi ngoai đi phần nào.",
+      "behaveDesc": "Ai sẽ với tay chạm vào bóng đen?",
+      "successDesc": [
+        "{0} vươn tay chạm tới ngọn lửa, mặc cho lửa cứ thế thiêu rụi da thịt.\n\nĐầu ngón tay bắt đầu bỏng rát, nhưng nào ngờ được rằng nhiệt huyết của {0} lại còn cháy bỏng hơn cả chính ngọn lửa áy nữa.\n\nCon bướm chưa kịp làm gì thì {0} đã nắm chặt lấy cái bóng đen rồi quăng quật nó ra khỏi ngọn lửa.\n\nNgọn lửa và tàn lửa trên người con bướm lẫn các Tội Nhân lập tức dập tắt.\n\nNhư thể chưa từng biết cháy là gì."
+      ],
+      "failureDesc": [
+        "{0} vươn tay chạm tới ngọn lửa, mặc cho lửa cứ thế thiêu rụi da thịt.\n\nNhưng cơn bỏng rát khiến {0} không thể chịu nổi và lập tức thu tay về mà còn chưa chạm được cái bóng đen.\n\nCái giá khi để thời cơ vụt qua trước mắt là rất lớn.\n\nCon bướm lửa vỗ cánh nhanh hơn và dữ dội hơn, khiến ngọn lửa cũng theo đó mà dâng cao lên.\n\nKhông cần nói thì toàn bộ chỗ lửa đó cũng sớm ập xuống đầu các Tội Nhân."
+      ]
+    },
+    {
+      "id": 857801,
+      "title": "Drenched Gossypium",
+      "prevDesc": "                  ",
+      "eventDesc": "Trận đấu càng kéo dài thì những dây leo của Bông Gòn đâm xuyên thân thể các Tội Nhân.\n\nMớ dây leo ấy tiếp tục rút máu bọn họ và phần mảng đỏ trên các mảng trắng của Bông Gòn tiếp tục tăng trưởng.\n\nLàm thế nào mới tách rời được mớ dây leo khỏi các Tội Nhân đây?",
+      "behaveDesc": "Ai sẽ là người thực hiện nhiệm vụ này?",
+      "successDesc": [
+        "Không thể xé toạc lẫn cắt đứt những cái dây leo này./n/nDẫu sẽ vô cùng đau đớn nhưng giải pháp duy nhất là ra lệnh cho một người nào đó bứt hết mớ dây leo này khỏi tất cả Tội Nhân./n/nTrong lúc Bông Gòn đang bận chiến đấu với những Tội Nhân khác, thì [Tội Nhân] vội vã lao đi giật hét tất cả mấy cái dây leo ra./n/nHành động này đương nhiên sẽ khiến da thịt và thân xác Tội Nhân ấy chảy máu rất nhiều.../n/n... nhưng ít nhất thì dòng máu ấy sẽ không chảy vào nuôi dưỡng Bông Gòn nữa."
+      ],
+      "failureDesc": [
+        "Không thể xé toạc lẫn cắt đứt những cái dây leo này.\n\nDẫu sẽ vô cùng đau đớn nhưng giải pháp duy nhất là ra lệnh cho một người nào đó bứt hết mớ dây leo này khỏi tất cả Tội Nhân.\n\nTrong lúc Bông Gòn đang bận chiến đấu với những Tội Nhân khác, thì [Tội Nhân] vội vã lao đi giật hét tất cả mấy cái dây leo ra.\n\n... nhưng có lẽ con Bông Gòn biết chính xác điều Tội Nhân ấy định làm. Mớ dây leo quấn chặt vào tay [Tội Nhân] rồi cắm rễ sâu trong da thịt.\n\nNếu mà sớm biết kết quả thì lẽ ra không nên làm gì rồi."
+      ]
+    },
+    {
+      "id": 858501,
+      "prevDesc": "                     "
+    },
+    {
+      "id": 85850101,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn chia cắt tất cả thậm chí cũng chia cắt cả Vòng Xoáy Khinh Miệt",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt?",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy, nhưng rồi chỉ nhận lại được sự khinh miệt của nó."
+      ]
+    },
+    {
+      "id": 85850102,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn xuyên thấu tất cả thậm chí cũng xuyên thấu cả Vòng Xoáy Khinh Miệt.",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt?",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy, nhưng rồi chỉ nhận lại được sự khinh miệt của nó."
+      ]
+    },
+    {
+      "id": 85850103,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn nghiền nát tất cả thậm chí cũng nghiền nát cả Vòng Xoáy Khinh Miệt.",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt?",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy, nhưng rồi chỉ nhận lại được sự khinh miệt của nó."
+      ]
+    },
+    {
+      "id": 85850201,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn thiêu đốt vạn vật, kể cả Vòng Xoáy Khinh Miệt.",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt??",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy, nhưng rồi chỉ nhận lại được sự khinh miệt của nó."
+      ]
+    },
+    {
+      "id": 85850202,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn tổn hại vạn vật, kể cả Vòng Xoáy Khinh Miệt.",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt?",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng ánh nhìn mà bản thân đã từng cảm nhận được, nhưng nó cũng khinh miệt cái ánh nhìn đó luôn."
+      ]
+    },
+    {
+      "id": 85850203,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn ôm trọn vạn vật, kể cả Vòng Xoáy Khinh Miệt.",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt?",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy, nhưng rồi chỉ nhận lại được sự khinh miệt của nó."
+      ]
+    },
+    {
+      "id": 85850204,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn nuốt chửng mọi thứ, kể cả Vòng Xoáy Khinh Miệt.",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt?",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy, nhưng rồi chỉ nhận lại được sự khinh miệt của nó."
+      ]
+    },
+    {
+      "id": 85850205,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn ơ hờ vạn vật, kể cả Vòng Xoáy Khinh Miệt.",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt?",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy, nhưng rồi chỉ nhận lại được sự khinh miệt của nó."
+      ]
+    },
+    {
+      "id": 85850206,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn khinh thường vạn vật, kể cả Vòng Xoáy Khinh Miệt.",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt?",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy, nhưng rồi chỉ nhận lại được sự khinh miệt của nó."
+      ]
+    },
+    {
+      "id": 85850207,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "Ánh nhìn đố kỵ vạn vật, kể cả Vòng Xoáy Khinh Miệt.",
+      "behaveDesc": "Ai sẽ dùng ánh nhìn này đáp trả Vòng Xoáy Khinh Miệt?",
+      "successDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy."
+      ],
+      "failureDesc": [
+        "[{0}] đáp trả lại Vòng Xoáy Khinh Miệt bằng chính thứ ánh mắt đã từng khiến họ run rẩy, nhưng rồi chỉ nhận lại được sự khinh miệt của nó."
+      ]
+    }
+  ]
+}

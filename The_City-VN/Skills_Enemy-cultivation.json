@@ -1,0 +1,324 @@
+{
+  "dataList": [
+    {
+      "id": 9021501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elongating Palm",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 10 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 2)\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [BurstPoison], gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Puncturing Serpent Arm",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 8 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [BurstPoison], gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serpent's Concealed Puncture",
+          "desc": "Nếu chủ thể có [SnakeStance] và mục tiêu có [BurstPoison], Kỹ Năng này trở thành Kỹ Năng không thể Giao Tranh\nSức Mạnh Xu +1 với mỗi 4 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 10)\n[WinDuel] Gây +2 Tầng [Burst] và nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+25% sát thương gây ra với mỗi [SnakeStance] trên chủ thể (tối đa 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 3 [BurstPoison] với mỗi [SnakeStance] trên chủ thể (tối đa 5 mỗi lượt)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstPoison] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eyeing for a Chance",
+          "desc": "[CanDuelGuard]\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận 3 [SnakeStance] (một lần mỗi Kỹ Năng)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elongating Arm",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 10 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 2)\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [BurstPoison], gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gnawing Serpent Arm",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 8 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [BurstPoison], gây +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serpent's Shadowed Puncture",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 8 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 4)\n[WinDuel] Gây +2 Tầng [Burst]\n[WinDuel] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstPoison] vào lượt kế (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có [SnakeStance], Tái sử dụng Xu này (một lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "- Tái sử dụng Xu -70% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Observe for a Chance",
+          "desc": "[CanDuelGuard]\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận 3 [SnakeStance] (một lần mỗi Kỹ Năng)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mutated Elongating Arm",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 10 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 2)\n[WinDuel] Nhận +3 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [BurstPoison], gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nếu chủ thể có 10+ [Breath], nhận 1 [SnakeStance] và tái sử dụng Xu một lần (một lần mỗi Kỹ Năng; có thể nhận lên tới 2 [SnakeStance] mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elongating Serpent Arm",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 8 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 3)\n[BeforeAttack] Nếu chủ thể có [SnakeStance], nhận +2 Phạm Vi Tấn Công\n- Trở thành Kỹ Năng [WideAreaRampage]\n- Khi tấn công cùng một mục tiêu, nếu mục tiêu có từ 2 Tầng [Burst] trở xuống, gây +1 Tầng [Burst] và tiêu thụ 1 [BurstPoison]\n[WinDuel] Gây +1 Tầng [Burst] lên toàn bộ mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [BurstPoison], gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [BurstPoison], gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [BurstPoison], gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serpent's Keenlance",
+          "desc": "Nếu chủ thể có [SnakeStance] và mục tiêu có [BurstPoison], Kỹ Năng này trở thành Kỹ Năng không thể Giao Tranh\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 ([Breath] trên chủ thể + [Burst] trên mục tiêu) (tối đa 10)\n[WinDuel] Gây +2 Tầng [Burst] và nhận +3 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu chủ thể có [SnakeStance], +100% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 5 [BurstPoison] với mỗi [SnakeStance] trên chủ thể (một lần mỗi lượt)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstPoison] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wait for a Chance",
+          "desc": "[CanDuelGuard]\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 3)\n[WhenUse] Nhận 3 [SnakeStance] (một lần mỗi Kỹ Năng)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

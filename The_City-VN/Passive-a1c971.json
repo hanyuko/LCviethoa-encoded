@@ -1,0 +1,149 @@
+{
+  "dataList": [
+    {
+      "id": 108001,
+      "name": "Đề Kháng Tội Lỗi",
+      "desc": "Trừ khi chủ thể Bị Choáng hoặc Bộ Phận Bị Phá Hủy, -50% sát thương phải nhận"
+    },
+    {
+      "id": 108002,
+      "name": "Cộng Hưởng Trấn Động",
+      "desc": "Khi bị đánh, gây +2 [Vibration] lên Kẻ Tấn Công\nNếu mục tiêu có [Vibration], gây 2 [Vibration] lên tất cả kẻ địch khi Đánh Trúng.\nKết Đòn: Nếu mục tiêu bị hạ gục, gây +4 [Vibration] lên tất cả kẻ địch"
+    },
+    {
+      "id": 108101,
+      "name": "Đề Kháng Tội Lỗi",
+      "desc": "Trừ khi chủ thể Bị Choáng hoặc Bộ Phận Bị Phá Hủy, -80% sát thương phải nhận từ [Sinking]"
+    },
+    {
+      "id": 108102,
+      "name": "Lây Nhiễm U Sầu",
+      "desc": "Đầu Lượt: Gây 5 [Sinking] lên tất cả kẻ địch, trừ kẻ dịch có nhiều SP nhất\nKết Đòn: Nếu mục tiêu bị hạ gục, giảm 10 SP của tất cả kẻ địch; sau đó, gây 3 [Sinking] và +2 Tầng [Sinking] lên tất cả kẻ địch"
+    },
+    {
+      "id": 9018101,
+      "name": "Răng",
+      "desc": "Khi Đánh Trúng, hồi 5 HP. Có 50% tỷ lệ gây 1 [Laceration]"
+    },
+    {
+      "id": 9018102,
+      "name": "Huỳnh Đăng",
+      "desc": "Khởi Chiến: nếu chủ thể bị 2+ đơn vị chọn làm mục tiêu, nhận 1 [Protection], 1 [ParryingResultUp], và 1 [PlusCoinValueUp]"
+    },
+    {
+      "id": 9018103,
+      "name": "Dũng Cảm Ẩn Danh",
+      "desc": "Kết Đòn: Nếu mục tiêu bị Choáng hoặc bị hạ gục, nâng 20% HP tối đa của chủ thể bằng với HP tối đa khi Bắt Đầu Ải (tối đa +100%)"
+    },
+    {
+      "id": 9018104,
+      "name": "Chính Nghĩa Ẩn Danh",
+      "desc": "Cuối Lượt: Nếu mục tiêu bị Choáng hoặc bị hạ gục, nâng 1 Tốc Độ Tối Thiểu & Tốc Độ Tối Đa và nhận 3 [AttackDmgUp] vào lượt kế"
+    },
+    {
+      "id": 9018105,
+      "name": "Oddly Uncanny Lantern",
+      "desc": "Combat Start: Nhận 1 [Vulnerable] for every Identity that targeted this unit (tối đa 5)\nCombat Start: If all enemies attack this unit, Phạm Vi Tấn Công +1\n- Gain Offense Level equal to the number of enemies; when this unit heals, hồi 5 additional HP"
+    },
+    {
+      "id": 9018106,
+      "name": "BLACK Type Weapon",
+      "desc": "Khi Đánh Trúng, inflict both HP and SP damage"
+    },
+    {
+      "id": 9018201,
+      "name": "Censored Wisdom",
+      "desc": "Đầu Lượt: at less than 0 SP, hồi 5~20 SP"
+    },
+    {
+      "id": 9018202,
+      "name": "Censored Temperance",
+      "desc": "When hit, nhận 1 [ParryingResultUp] và 1 [Agility] vào lượt kế (tối đa 2)"
+    },
+    {
+      "id": 107901,
+      "name": "My Siblings Call to Me",
+      "desc": "Cuối Lượt: For every 3% HP bị mất trên chủ thể, nhận 1 [AttackUp]. (tối đa 5)\nCuối Lượt: Gain +1 Min & Max Speed next turn for every 300 [BloodDinner]\nThis unit's HP cannot be reduced below 60%."
+    },
+    {
+      "id": 107902,
+      "name": "Hardblood",
+      "desc": "Combat Start: Nhận 1 [BloodArmor]\n- [BloodArmor] cannot drop below 1\n- Ở mốc 10+ [BloodArmor], convert them to [BloodArmor_2nd].\n- Ở mốc 20+ [BloodArmor_2nd], convert them to [BloodArmor_3rd].\nGain Min & Max Speed based on the Stage of this effect (tối đa 2)\nIf this unit consumes [BloodArmor] and drops below the above thresholds, revert to previous Stages accordingly"
+    },
+    {
+      "id": 107903,
+      "name": "They Crave Blood",
+      "desc": "Cuối Lượt: If Panicked, recover from Panic, and consume 50 [BloodDinner] to nhận 3 [Enhancement]\n- If this unit failed to consume [BloodDinner], nhận 30 [Laceration], 3 [Enhancement], và 2 [AttackDmgUp]"
+    },
+    {
+      "id": 107904,
+      "name": "Yearning for Blood",
+      "desc": "Bắt Đầu Ải: nhận [Bloodthirst]"
+    },
+    {
+      "id": 107905,
+      "name": "More Bloodfeast",
+      "desc": "If the target is defeated at the end of this unit's Attack Skill, increase [BloodDinner] by the target's max HP"
+    },
+    {
+      "id": 108201,
+      "name": "Observation",
+      "desc": "Bắt Đầu Ải: Gán 1 [ObservedPerson] on all enemies; then, gain Lượng [Breath] and Count equal to the number of units with [ObservedPerson]\n\nĐầu Lượt: Gán 1 [ObservedPerson] against targets without [ObservedPerson]\n\nFor every 10 [ObservedPerson] trên mục tiêu, gây +1 Lượng [Vibration] and Count with this unit's Skills (tối đa 3)"
+    },
+    {
+      "id": 108202,
+      "name": "Adaptation",
+      "desc": "Nhận 1 Lượng [Breath] every time this unit inflicts damage with Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] with every hit\n\nGain +1 Tầng [Breath] every time this unit takes damage from enemies' Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], nhận thêm 1 Tầng [Breath] with every hit taken"
+    },
+    {
+      "id": 108203,
+      "name": "Defense Mechanism",
+      "desc": "Đầu Lượt: Gain Shield equal to 30% of missing HP (Shield HP cannot exceed 15% of the max HP)\n- If this unit has [Combustion], lose (Tầng [Combustion] x 1.5)% Shield HP\n- Shield takes +100% damage from [Burst] effects\n\nCuối Lượt: If the Shield gained due to this effect is destroyed, for the rest of this Encounter, nhận 1 [DefenseDown] for every instance the Shield has been destroyed (tối đa 5)"
+    },
+    {
+      "id": 108204,
+      "name": "Confirmation Bias",
+      "desc": "Cuối Lượt: Siphon 10 SP from targets with higher SP than this unit (max 3 targets in descending order of SP; does not apply cumulatively on the same target)\n(Does not activate if Hohenheim is Panicked)"
+    },
+    {
+      "id": 108205,
+      "name": "Establish Hypothesis",
+      "desc": "On Turn 3: Gains a new pattern and prepares to use a powerful Skill.\nAfter Turn 3 is over: The above effect activates when this unit has 30+ Tầng [Breath] at Turn End\n\nIf this unit did not take any HP damage during the preparation period before using the powerful Skill, greatly enhance the Skill (does not count damages taken by Shield HP)"
+    },
+    {
+      "id": 108206,
+      "name": "Maladaptation",
+      "desc": "When weakened due to a Choice Event, this Passive replaces 「Adaptation」\n\nGain 1 Lượng [Breath] every time this unit inflicts damage with Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] with every hit; however, reduce the target's [ObservedPerson] by 3\n\nGain +1 Tầng [Breath] every time this unit takes damage from enemies' Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], nhận thêm 1 Tầng [Breath] with every hit taken; however, reduce the target's [ObservedPerson] by 3\n\nCritical Hit damage does not increase or decrease"
+    },
+    {
+      "id": 108207,
+      "name": "Inadequate Defense Mechanism",
+      "desc": "When weakened due to a Choice Event, this Passive replaces 「Defense Mechanism」\n\nĐầu Lượt: Gain Shield equal to 15% of missing HP (Shield HP cannot exceed 5% of the max HP)\n- If this unit has [Combustion], lose (Tầng [Combustion] x 2)% Shield HP\n- Shield takes +150% damage from [Burst] effects\n\nCuối Lượt: If the Shield gained due to this effect is destroyed, for the rest of this Encounter, Vào Đầu Lượt nhận 2 [DefenseDown] for every instance the Shield has been destroyed (tối đa 10)"
+    },
+    {
+      "id": 108208,
+      "name": "Self-doubt",
+      "desc": "When weakened due to a Choice Event, this Passive replaces 「Confirmation Bias」\n\nĐầu Lượt: Mất 15 SP\nCuối Lượt: Siphon 5 SP from targets with higher SP than this unit (max 3 targets; in descending order of SP; cannot stack on the same target)\n(Does not activate if Hohenheim is Panicked)"
+    },
+    {
+      "id": 108209,
+      "name": "Adaptation",
+      "desc": "Nhận 1 Lượng [Breath] every time this unit inflicts damage with Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] with every hit\n\nGain +1 Tầng [Breath] every time this unit takes damage from enemies' Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], nhận thêm 1 Tầng [Breath] with every hit taken"
+    },
+    {
+      "id": 108210,
+      "name": "Defense Mechanism",
+      "desc": "Đầu Lượt: Gain Shield equal to 30% of missing HP (Shield HP cannot exceed 15% of the max HP)\n- If this unit has [Combustion], lose (Tầng [Combustion] x 1.5)% Shield HP\n- Shield takes +100% damage from [Burst] effects\n\nCuối Lượt: If the Shield gained due to this effect is destroyed, for the rest of this Encounter, Vào Đầu Lượt nhận 1 [DefenseDown] for every instance the Shield has been destroyed (tối đa 5)"
+    },
+    {
+      "id": 108211,
+      "name": "Maladaptation",
+      "desc": "When weakened due to a Choice Event, this Passive replaces 「Adaptation」\n\nGain 1 Lượng [Breath] every time this unit inflicts damage with Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] with every hit; however, reduce the target's [ObservedPerson] by 3\n\nGain +1 Tầng [Breath] every time this unit takes damage from enemies' Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], nhận thêm 1 Tầng [Breath] with every hit taken; however, reduce the target's [ObservedPerson] by 3\n\nCritical Hit damage does not increase or decrease"
+    },
+    {
+      "id": 138904,
+      "name": "Yearning for Blood",
+      "desc": "Bắt Đầu Ải: Nhận [BloodthirstHard]\n\n<color=#ff6000><mark=#ff000040><b><u>Bắt Đầu Ải: Gây 3 [Laceration] và +3 Tầng [Laceration] on all Sinners\n- For Sinners who Substitute in, this effect triggers in the turn said Sinners enter the battlefield\nĐầu Lượt: Gây +3 Tầng [Laceration] on Sinners without [Laceration]</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>Combat Start:\n- Ở mốc 0+ SP, this unit inflicts an additional 2 Lượng và Tầng [Laceration]\n- Khi còn dưới 0 SP, converts Coins of all Skills into [SuperCoin] và +50% sát thương gây ra</u></b></mark></color>"
+    }
+  ]
+}

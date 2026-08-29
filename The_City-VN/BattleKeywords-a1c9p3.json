@@ -1,0 +1,1015 @@
+{
+  "dataList": [
+    {
+      "id": "MosesWhiteBreathMental",
+      "name": "Làn Khói Trắng - Bảo Hộ Tâm Trí",
+      "desc": "                \n                \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesRedBreathBody",
+      "name": "Làn Khói Đỏ - Cường Hóa Cơ Thể",
+      "desc": "              \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesRedBreathShield",
+      "name": "Làn Khói Đỏ - Bảo Vệ",
+      "desc": "        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesPurpleBreathBind",
+      "name": "Làn Khói Tím - Cuồng Loạn",
+      "desc": "     \n         \n          \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>  <sprite name=\"Binding\"><color=#e30000> </color>   <sprite name=\"PlusCoinValueDown\"><color=#e30000>  </color>   \n          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesRedBreathCharge",
+      "name": "Thở Sâu - Đỏ",
+      "desc": "     \n <color=#ff6000><mark color=#ff000040><b>            </color></mark></b>\n          \n           \n              \n            ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Với mỗi hơi thở, tâm trí ta khơi gợi nên thứ hình ảnh đỏ thẫm còn thân thể chìm sâu xuống đại dương."
+    },
+    {
+      "id": "MosesRedBreathAttack",
+      "name": "Làn Khói Đỏ - Đẩy Cơ Thể Đến Giới Hạn",
+      "desc": "     \n          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesSin",
+      "name": "Tâm (心) - Moses",
+      "desc": "         \n               <sprite name=\"Protection\"><color=#fac400> </color>         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesWarPTSD",
+      "name": "Ký Ức Về Ngày Ấy",
+      "desc": "     \n     \n     <sprite name=\"Agility\"><color=#fac400> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesMiddle_LowMorale",
+      "name": "Thân Thể (Lẫn Tâm Trí) Này Vô Phương Cứu Chữa",
+      "desc": "  \n     <sprite name=\"Vulnerable\"><color=#e30000> </color>    <sprite name=\"Endurance\"><color=#fac400>    </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesMiddle_Panic",
+      "name": "Thân Thể (Lẫn Tâm Trí) Này Vô Phương Cứu Chữa",
+      "desc": "  \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EzraMiddle_LowMorale",
+      "name": "Mặt Nạ Tự Ti",
+      "desc": "  \n      \n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EzraMiddle_Panic",
+      "name": "Mặt Nạ Tự Ti",
+      "desc": "  \n      \n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DimensionalBagEzraA",
+      "name": "Túi Không Gian - Xưởng Chế Allas",
+      "desc": "           \n           \n          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Tất cả mọi thứ từ Xưởng Chế này sở hữu khả năng tăng tốc khiến đòn đánh trông rất bùng nổ! Cực kỳ mãn nhãn luôn!\""
+    },
+    {
+      "id": "DimensionalBagEzraB",
+      "name": "Túi Không Gian - Xưởng Chế Nester",
+      "desc": "           \n          \n             ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Rồi nè... Nhấn cái nút này <i>ngay khi</i> đánh trúng kẻ địch và bùm! Dao động lên đỉnh điểm và khiến vùng bị ảnh hưởng lan rộng ra. Khi đã thuần thục thì sẽ còn vui nữa cơ!\""
+    },
+    {
+      "id": "DimensionalBagEzraC",
+      "name": "Túi Không Gian - Xưởng Chế Kỹ Nghệ Screw",
+      "desc": "           \n             \n           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Nghiêm túc nha, xài mấy bé cưng của Xưởng Chế này thì hãy cẩn thận đi. Sai một li là tự chích điện vào người đấy!\""
+    },
+    {
+      "id": "DimensionalBagEzraD",
+      "name": "Túi Không Gian - Xưởng Chế Namir",
+      "desc": "           \n           \n           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Còn cái này thì có lắp Dị Điểm Tập Đoàn G bên trong — Khối Cầu! Cách hoạt động như sau: Bay lên cao, ấn nút giữa không trung, rồi đập thật mạnh xuống bằng tác động của trọng lực. Trúng một đòn thôi... là cũng muốn nát rồi.\""
+    },
+    {
+      "id": "DimensionalBagEzraE",
+      "name": "Túi Không Gian - Kỹ Nghệ YuRia",
+      "desc": "                    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Hả, YuRia ấy à? Ừm, cô ấy đơn thân độc mã rồi, và cả Xưởng Chế của cô ấy thì... ôi bận rộn lắm luôn á.\"\n\n\"Mà vẫn còn nhớ cái cảnh cô ấy từ con gấu bông biến lại thành dạng người... Haha, pha đấy thực sự bùng nổ lắm.\""
+    },
+    {
+      "id": "MiddleFingerEzraSin",
+      "name": "Tâm (心) - Ezra",
+      "desc": "    \n           \n                          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VengeanceBookSpider",
+      "name": "Quyển Sách Báo Thù",
+      "desc": "                                    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Lũ chó chết... Sẵn sàng đối mặt với hình phạt hủy diệt và quét sạch toàn bộ đi.\""
+    },
+    {
+      "id": "ResentmentSpider",
+      "name": "Băng Ngón Giữa - Tư Thù",
+      "desc": "     \n         \n                     \n          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Ngón Giữa không bao giờ quên."
+    },
+    {
+      "id": "ResentmentSpiderDaughter",
+      "name": "Băng Ngón Giữa - Tư Thù",
+      "desc": "     \n         \n                     \n          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GotACompliment",
+      "name": "Tui Được Khen Nè!",
+      "desc": "     \n           \n        \n             ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DaughterEducationSpider",
+      "name": "Xem Này, Nhóc!",
+      "desc": "     \n           \n        \n             ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ReinforcedTattooSpider",
+      "name": "Băng Ngón Giữa - Hình Xăm Báo Thù [<s>Anh<space=8>Đại</s>]",
+      "desc": "     \n      \n        ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Một Anh Đại với uy thế vun đắp từ lòng trung thành; nhưng kẻ ngu xuẩn đó lại phản bội tất cả chỉ vì một thanh kiếm."
+    },
+    {
+      "id": "ReinforcedTattooSpiderDaughter",
+      "name": "Hình Xăm Cường Hóa Kiểu Băng Ngón Giữa",
+      "desc": "     \n      \n        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireOnSpider",
+      "name": "Song Đao Nhiệt BẬT",
+      "desc": "                 <sprite name=\"Combustion\"><color=#e30000> </color>      <sprite name=\"Laceration\"><color=#e30000> </color>  ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Tuy không ngon bằng hàng của papa, nhưng con này có thể vừa cắt thịt vừa nướng chín tại chỗ nhá!\nVà cũng chả cháy liên tục như papa được, mà phải tắt để nó nguội dần đi...."
+    },
+    {
+      "id": "HeatingWireOffSpider",
+      "name": "Song Đao Nhiệt TẮT",
+      "desc": "           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Nhiệt lượng tỏa ra từ con hàng này đã biến mất."
+    },
+    {
+      "id": "MiddleFatherGuts",
+      "name": "Sức Bền Lố Bịch",
+      "desc": "               \n               \n                  <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Tao đéo cần cái thứ ngoại lai chết tiệt như \"Tâm (心)\" hay cái lồn gì hết. Chỉ cần nghiến chặt bộ hàm lại rồi gồng hết sức từ chỗ hình xăm này thì mấy cái trò mèo của mày đều sẽ bị tao vả cho tan tành.\""
+    },
+    {
+      "id": "MiddleFingerDaddy_LowMorale",
+      "name": "Tàn Phá Điên Cuồng",
+      "desc": "  \n    <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Disarming\"><color=#e20000>    </color>   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>              ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerDaddy_Panic",
+      "name": "Tàn Phá Điên Cuồng",
+      "desc": "  \n    <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Disarming\"><color=#e20000>    </color>   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>              ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerDaughter_LowMorale",
+      "name": "Hưng Phấn",
+      "desc": "  \n    <sprite name=\"Disarming\"><color=#e20000>    </color>   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>              ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerDaughter_Panic",
+      "name": "Hưng Phấn",
+      "desc": "  \n    <sprite name=\"AttackPowerUp\"><color=#fac400>    </color>   <sprite name=\"Disarming\"><color=#e20000>    </color>   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>              ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HumanBoneTheRings",
+      "name": "Chất Liệu Xác Thịt (Xương)",
+      "desc": "     \n       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HumanBloodTheRings",
+      "name": "Chất Liệu Xác Thịt (Máu)",
+      "desc": "     \n       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LivingSpecimenTheRings",
+      "name": "Thể Xác Quan Diễn",
+      "desc": "                                  ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MineTheRings",
+      "name": "Kiệt Tác: Tibia",
+      "desc": "     <sprite name=\"ResultEnhancement\"><color=#fac400>  </color>   <sprite name=\"SlashResultUp\"><color=#fac400>   </color>\n   <sprite name=\"Laceration\"><color=#e30000> </color>          <sprite name=\"Laceration\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ObservationTheRings",
+      "name": "Chiêm Ngưỡng Hoạt Cảnh",
+      "desc": "    \n    \n                     \n     <sprite name=\"Protection\"><color=#fac400> </color>          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Việc thưởng lãm tác phẩm trong phòng tranh đòi hỏi một sự chiêm nghiệm từ tốn. Xin hãy nhớ rằng—sự nóng vội sẽ làm lu mờ đi khả năng cảm thụ nghệ thuật.\""
+    },
+    {
+      "id": "RedemptionTheRings",
+      "name": "Vết Thương Rỉ Chất Liệu",
+      "desc": "  <sprite name=\"AttackDown\"><color=#e20000>   </color>            ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SpecimenTheRings",
+      "name": "Buổi Triển Lãm Đã Hoàn Tất!",
+      "desc": "                 <sprite name=\"LivingSpecimenTheRings\"><color=#e20000>   </color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Chính là vị trí tinh xảo và chuẩn xác ấy, nơi từng thớ thịt cùng gân cơ được sắp đặt đến độ mỹ lệ tuyệt đối."
+    },
+    {
+      "id": "KAmpouleA1C94TH",
+      "name": "Huyết Thanh Khẩn Cấp Của Tập Đoàn K",
+      "desc": "                               \n       \n   \n       <sprite name=\"KAmpouleA1C94TH\"><color=#9f6a3a>       </color>\n                         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LanternHohenheimBigBird",
+      "name": "Đèn Lồng",
+      "desc": "     \n   <sprite name=\"Binding\"><color=#e20000> </color>          \n           <sprite name=\"Aggro\"><color=#9f6a3a> </color>           ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionHohenheimBigBird",
+      "name": "Chói Mắt",
+      "desc": "                                   \n              ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LvUpHohenheimBigBird",
+      "name": "Tăng Cường E.G.O Hòa Hợp",
+      "desc": "    \n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LvUpHohenheimBigBird_Over",
+      "name": "Quá Tải E.G.O Hòa Hợp",
+      "desc": "    \n    \n      <sprite name=\"LanternHohenheimBigBird\"><color=#9f6a3a> </color>                          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sử dụng sức mạnh của E.G.O Trích Xuất vượt quá hạn mức cho phép."
+    },
+    {
+      "id": "HohenheimBigBird_LowMorale",
+      "name": "Làn Sóng Mê Ngủ",
+      "desc": "  \n     <sprite name=\"LanternHohenheimBigBird\"><color=#9f6a3a> </color>   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HohenheimBigBird_Panic",
+      "name": "Làn Sóng Mê Ngủ",
+      "desc": "  \n       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LvUpFireFly",
+      "name": "Tăng Cường E.G.O Hòa Hợp",
+      "desc": "    \n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LvUpFireFly_Over",
+      "name": "Quá Tải E.G.O Hòa Hợp",
+      "desc": "    \n    \n     <sprite name=\"Combustion\"><color=#e30000> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sử dụng sức mạnh của E.G.O Trích Xuất vượt quá hạn mức cho phép."
+    },
+    {
+      "id": "LCEFireFly_LowMorale",
+      "name": "Ăn Mòn Hạ Cấp",
+      "desc": "  \n     <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LCEFireFly_Panic",
+      "name": "Ăn Mòn Hạ Cấp",
+      "desc": "  \n     <sprite name=\"Vulnerable\"><color=#e30000> </color>   <sprite name=\"Combustion\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Cubism_LowMorale",
+      "name": "Nghệ Thuật Hết Thời",
+      "desc": "  \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Cubism_Panic",
+      "name": "Nghệ Thuật Hết Thời",
+      "desc": "  \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FutureEyeOn",
+      "name": "Con Mắt Tiên Liệu",
+      "desc": "     \n     \n     \n       ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Cái con mắt này không sở hữu cái gì đặc biệt cả. Nó như cái máy chỉ biết phân tích mọi thứ trong tầm mắt rồi đưa ra viễn cảnh chắc chắn sẽ xảy ra thôi.\""
+    },
+    {
+      "id": "FutureEyeOff",
+      "name": "Con Mắt Tiên Liệu - Quá Nhiệt",
+      "desc": "     \n         \n          <sprite name=\"AccelBullet\"><color=#9f6a3a>  </color>  <sprite name=\"SuperCoin\"><color=#9f6a3a>  </color>\n     \n       <sprite name=\"FutureEyeOn\"><color=#9f6a3a>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LookingFuture",
+      "name": "Thúc Tiến Tương Lai",
+      "desc": "     \n        \n        \n        ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Càng kéo dài giao tranh thì Trường Phái Parlemo sẽ càng đẩy nhanh hơn."
+    },
+    {
+      "id": "ObsessionAndGreed",
+      "name": "Tâm (心) - Valencina",
+      "desc": "                \n        <sprite name=\"Breath\"><color=#fac400> </color=#fac400>      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AccelBullet",
+      "name": "Đạn Gia Tốc",
+      "desc": "   \n   \n         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TeachersPrey",
+      "name": "Đối Tượng Săn Bắn",
+      "desc": "                          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Một khi Famiglia Bognatelli nhắm vào con mồi của mình, thì nó sẽ không bao giờ có thể trốn chạy được."
+    },
+    {
+      "id": "AaCfPcBiv2",
+      "iconId": "AaCfPcBi",
+      "name": "Sinh Nhiệt Cực Hạn",
+      "desc": "                  ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VergiliusSin",
+      "name": "Tâm (心) - Xích Mục",
+      "desc": "     ",
+      "summary": "Gây thêm sát thương",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodBranch",
+      "name": "Manh Huyết [盲血]",
+      "desc": "  <sprite name=\"Binding\"><color=#e30000> </color>      \n      <sprite name=\"Laceration\"><color=#e30000> </color>   \n    <sprite name=\"Laceration\"><color=#e30000> </color>        ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Nếu ta có thể truyền máu vào mắt mình, thì ta có thể tích tụ và tập trung nó lại một điểm để ánh nhìn này có thể xuyên thủng tất cả. Ngoài đâm chọc ra, thì nó cũng có thể làm người khác mù lòa nữa đấy.\""
+    },
+    {
+      "id": "Gebura_Reinforcement",
+      "name": "Thanh Gươm Của Gebura",
+      "desc": "         <sprite name=\"SuperCoin\"><color=#9f6a3a>  </color>\n    \n                  \n                \n        \n             \n                                     \n      ",
+      "summary": "Kích hoạt Thanh Gươm Của Gebura",
+      "undefined": "-"
+    },
+    {
+      "id": "ThreeMirrorpartYiSang",
+      "name": "Phá Toái Thế Giới",
+      "desc": "     \n      \n      <sprite name=\"Combustion\"><color=#e30000> </color>         \n                   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuEGOPF",
+      "name": "La Sinh [羅生]",
+      "desc": "    \n             ōū  \n                 ",
+      "summary": " ",
+      "undefined": "-",
+      "flavor": "'Chiếc kén được dệt từ bao vướng mắc chồng chất, đan xen lẫn nhau. Là Sợi Tơ. Là Nhân Sinh. Là Thế Giới.'"
+    },
+    {
+      "id": "OffenseBug",
+      "name": "Côn Trùng Công Kích [Gián]",
+      "desc": "     \n       \n          \n                            ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Trong tất cả những loài côn trùng bị căm ghét nhất thì không gì sánh ngang được với sinh vật này.\""
+    },
+    {
+      "id": "DefenseBug",
+      "name": "Côn Trùng Bảo Hộ [Gián]",
+      "desc": "     \n          <sprite name=\"Combustion\"><color=#e30000> </color> <sprite name=\"Laceration\"><color=#e30000> </color> <sprite name=\"Vibration\"><color=#e30000> </color> <sprite name=\"Burst\"><color=#e30000> </color> <sprite name=\"Sinking\"><color=#e30000> </color>                     \n      ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Chúng ghê tởm, gây hại và cực kỳ kiên cường.\""
+    },
+    {
+      "id": "LvDownLittleFingerBossTwo",
+      "name": "Thiên Sát Tinh Thương [天殺星傷]",
+      "desc": "     \n     ",
+      "summary": "- Mất Cấp Công Kích Gốc và Cấp Phòng Thủ Gốc",
+      "undefined": "-",
+      "flavor": "Một vết chém từ Thiên Sát Tinh Đao - Arayashiki sẽ in hằn vết thương như lửa đốt chẳng bao giờ nguôi ngoai.\nVết chém bỏng rát này không bao giờ phai nhòa, vì kẻ sử dụng thanh đao đã đánh đổi sự tồn tại của chính bản thân để trảm đoạn sự tồn tại của kẻ thù."
+    },
+    {
+      "id": "SojiAbiAgePast",
+      "name": "Ngược Dòng - Cay Đắng",
+      "desc": "     \n         ",
+      "summary": "Gây và nhận thêm sát thương",
+      "undefined": "-",
+      "flavor": "'Những ký ức bị bà ruồng bỏ và lãng quên... mãi như sợi chỉ quấn quanh người cứ rối tung lên.'"
+    },
+    {
+      "id": "SojiAbiAgeFuture",
+      "name": "Xuôi Dòng - Từ Bi",
+      "desc": "     \n         ",
+      "summary": "Gây và nhận ít sát thương hơn",
+      "undefined": "-",
+      "flavor": "'Có lẽ thuận theo dòng chảy của thời gian mà tôi dần trưởng thành hơn để thấy rằng tôi cuối cùng cũng thấu hiểu được bà và muốn ôm bà vào lòng mình.'"
+    },
+    {
+      "id": "TimeEntangleUnstable",
+      "name": "Cực Phát - Chồng Chập Dư Ảnh",
+      "desc": "     \n             \n  ·                 \n  ·    <sprite name=\"Combustion\"><color=#e30000> </color>\n  ·    <sprite name=\"Laceration\"><color=#e30000> </color>\n  ·    <sprite name=\"Binding\"><color=#e30000> </color>  \n  ·    <sprite name=\"Poison\"><color=#e30000> </color>",
+      "summary": "Gây thêm hiệu ứng bổ sung dựa trên số Lớp",
+      "undefined": "-"
+    },
+    {
+      "id": "WillAwakenSinclair",
+      "name": "Tâm (心) - Một Sinclair Nào Đó",
+      "desc": "        \n         \n     <sprite name=\"Breath\"><color=#fac400> </color>    <sprite name=\"Breath\"><color=#fac400> </color>   \n              \n     <sprite name=\"Agility\"><color=#fac400> </color>          \n     <sprite name=\"ResultEnhancement\"><color=#fac400>  </color>          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SignAwakenSinclair",
+      "name": "Dấu Ấn - Triệu Hoán Tương Lai",
+      "desc": "                \n            ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Abraxas"
+    },
+    {
+      "id": "LimitedAwakenSinclair",
+      "name": "Giải Trừ Cấm Chế Umbra",
+      "desc": "           \n     <sprite name=\"PlusCoinValueUp\"><color=#fac400>  </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Veteran_LowMorale",
+      "name": "Về Chiến Tranh Khói Thứ Hai",
+      "desc": "  \n     <sprite name=\"Vulnerable\"><color=#e30000> </color>\n <sprite name=\"MentalSystemResultIncrease_Typo\"><color=#9f6a3a>   </color> ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Veteran_Panic",
+      "name": "Về Chiến Tranh Khói Thứ Hai",
+      "desc": "  \n     <sprite name=\"Vulnerable\"><color=#e30000> </color>   <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFatherSwordOne",
+      "name": "Kiếm Bị Phong Ấn",
+      "desc": "               ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Bộ ba anh chị em tình nghĩa khăng khít cùng đồng hành xuống đáy sâu của Tàn Tích."
+    },
+    {
+      "id": "MiddleFatherSwordTwo",
+      "name": "Giải Trừ Phong Ấn - Lớp Thứ Nhất",
+      "desc": "               ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Tại đó, họ phát hiện một hang động cùng dòng dung nham nóng chảy đang cuốn trôi đi những tòa nhà đổ nát.\nLần ngược về thượng lưu, dẫn đến một thanh kiếm...có lẽ không thể gọi đó là kiếm được. Mà là một khối kim loại tỏa ra nhiệt lượng."
+    },
+    {
+      "id": "MiddleFatherSwordThree",
+      "name": "Giải Trừ Phong Ấn - Lớp Thứ Hai",
+      "desc": "               ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Là người anh cả, thanh kiếm này sẽ là của anh.\"\nLời tuyên bố đanh thép của người anh cả khiến ngọn lửa của sự đố kỵ và khát khao thèm muốn của người em út bùng cháy lên.\n\nThế là tao đã xuống tay giết chết anh chị mình, và cuỗm thanh kiếm làm của riêng. Tao cũng phi tang tất cả chứng cứ.\nThế nhưng ánh mắt hoài nghi vẫn săm soi tao. Kể cả khi chúng nó trục xuất tao xuống cái địa ngục chó má này thì tao cũng không hề kháng cự.\nNụ cười trên gương mặt tao không bao giờ biến mất.\nVì thanh kiếm trong truyền thuyết này đã thuộc về tao."
+    },
+    {
+      "id": "MiddleFatherSwordFour",
+      "name": "Lævateinn",
+      "desc": "               \n    <sprite name=\"Combustion\"><color=#e30000> </color>    <sprite name=\"Combustion\"><color=#e30000> </color>     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Nhưng đáng tiếc làm sao, Matthias lại không thể kiểm soát được thanh kiếm này.\nVì món Di Vật này quá đỗi phức tạp để bất kỳ ai có thể cầm nắm nó.\nThành thực mà nói, hắn không hề có năng lực để thành thạo cái món vũ khí này, nên giờ đây hắn chỉ biết cầm nắm rồi vung nó tứ tung.\nNhưng hắn không hề quan tâm chuyện cỏn con đó.\nThứ hắn chỉ cần biết cái thanh kiếm trong truyền thuyết mà bản thân từng ao ước khi còn trẻ thơ giờ đã nằm gọn trong tay hắn."
+    },
+    {
+      "id": "SojiAbiBuffOne",
+      "name": "Kê Minh (雞鳴)",
+      "desc": "         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SojiAbiBuffTwo",
+      "name": "Nhật Nhập (日入)",
+      "desc": "         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SojiAbiBuffThree",
+      "name": "Hoàng Hôn (黃昏)",
+      "desc": "         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuParrySojiTwo",
+      "name": "Ký Ức Bất Đoạn",
+      "desc": "                                    \n                       <sprite name=\"Enhancement\"><color=#fac400>    </color>   \n    ",
+      "summary": "Hiệu Ứng Độc Quyền của Ryōshū",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuParrySojiThree",
+      "name": "Thời Gian Bất Đoạn",
+      "desc": "                                    \n                       <sprite name=\"Enhancement\"><color=#fac400>    </color>   \n                                      \n    ",
+      "summary": "Hiệu Ứng Độc Quyền của Ryōshū",
+      "undefined": "-"
+    },
+    {
+      "id": "HeavenlyKillerStar",
+      "name": "Thiên Sát Tinh Đao - Arayashiki [天殺星刀阿賴耶識]",
+      "desc": "        \n    \n     <sprite name=\"Laceration\"><color=#e30000> </color>   \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>            ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Ngay cả cõi trời cũng không được buông tha—từ thiên, địa, nhân cho đến chính bản thân mình. Ngôi sao này chỉ xuất hiện vì kẻ nào nhìn thấu vạn hữu và thời gian như một thể thống nhất, để rồi cắt đứt tất cả.'"
+    },
+    {
+      "id": "CutoffRyoshu",
+      "name": "Thiết Ty [切絲]",
+      "desc": "  \n·   <sprite name=\"Laceration\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>\n·        \n            \n      \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Hãy để mọi thứ bị đoạn tuyệt—ta, ngươi, tất cả những gì đã từng và sẽ xảy đến.'\n\n'Cho tới khi mọi thứ đã được hoàn tất... ta sẽ mang Araya trở về.'"
+    },
+    {
+      "id": "CutbondRyoshu",
+      "name": "Vô Ngã [無我]",
+      "desc": "     <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseUp\"><color=#fac400>   </color>    \n      \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'So I must hold back on using the blade. And once I'm ready, I will return to that House.'"
+    },
+    {
+      "id": "EsteemNeeds",
+      "name": "Khao Khát Được Thừa Nhận",
+      "desc": "         ōū      ōū   \n          ōū          \n           \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Khi về được nhà, Ng-Ngài Rien nhất định sẽ dành lời khen tán thưởng mình...'"
+    },
+    {
+      "id": "Fugacious",
+      "name": "Kiếm Đạo",
+      "desc": "  \n·   <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>    \n·   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>    \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Dẫu giấc mơ này có phù du chăng nữa cũng chẳng còn quan trọng.\nDù kiếp này không thể kế thừa danh hiệu của một Ngôi Sao, tiến bước trên Kiếm Đạo sẽ tôi rèn và mài giũa thanh đao của kẻ hèn mọn này."
+    },
+    {
+      "id": "ObsessedTeacher_LowMorale",
+      "name": "Nỗi Ô Nhục Của Gia Tộc",
+      "desc": "     <sprite name=\"SlashDamageUp\"><color=#fac400>   </color>  <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>\n         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ObsessedTeacher_Panic",
+      "name": "Nỗi Ô Nhục Của Gia Tộc",
+      "desc": "     <sprite name=\"SlashDamageUp\"><color=#fac400>   </color>  <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>\n         ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AgainstMyWill_LowMorale",
+      "name": "\"G-giết... giết tôi đi...\"",
+      "desc": "    <sprite name=\"ParryingResultDown\"><color=#e30000>    </color>   <sprite name=\"ResultReduction\"><color=#e30000>  </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AgainstMyWill_Panic",
+      "name": "\"G-giết... giết tôi đi...\"",
+      "desc": "    <sprite name=\"ParryingResultDown\"><color=#e30000>    </color>   <sprite name=\"ResultReduction\"><color=#e30000>  </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptRien_0",
+      "name": "Sắc Lệnh: [Máy Nhắn] I",
+      "desc": "     <sprite name=\"IndexPrescriptTargetToPersonality\"><color=#9f6a3a>        </color>      \n\n             <sprite name=\"UnlockBuff_Base\"><color=#fac400> </color>\n   <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>    <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptRien_1",
+      "name": "Sắc Lệnh: [Máy Nhắn] II",
+      "desc": "     <sprite name=\"IndexPrescriptTargetToPersonality\"><color=#9f6a3a>        </color>                         \n\n          <sprite name=\"UnlockBuffAlly_1\"><color=#fac400>   </color>\n   <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>    <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptRien_2",
+      "name": "Sắc Lệnh: [Máy Nhắn] III",
+      "desc": "            \n\n          <sprite name=\"UnlockBuffAlly_2\"><color=#fac400>   </color>\n   <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>    <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptRien_3",
+      "name": "Sắc Lệnh: [Máy Nhắn] IV",
+      "desc": "        <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>     \n\n          <sprite name=\"UnlockBuffAlly_3\"><color=#fac400>   </color> ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescript_RienSecondPhase",
+      "name": "Sắc Lệnh: [Máy Nhắn] - Cảnh Cáo",
+      "desc": "    <sprite name=\"IndexPrescriptTargetToPersonality\"><color=#9f6a3a>        </color>\n\n           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Tiếng bíp của Máy Nhắn tăng tốc theo từng giây mỗi khi ta không thực thi Sắc Lệnh.'\n\n'Và từng giây trôi qua, nhịp tim trong lồng ngực ta cũng vậy.'"
+    },
+    {
+      "id": "UnlockBuff_Rien1",
+      "name": "Khai Mở - I",
+      "desc": "    \n    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_Rien2",
+      "name": "Khai Mở - II",
+      "desc": "    \n    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_Rien3",
+      "name": "Khai Mở - III",
+      "desc": "    \n    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "KarmaOfIndexRien",
+      "name": "Nghiệp Báo",
+      "desc": "  \n·   <sprite name=\"DefenseDown\"><color=#e20000>   </color>    \n·   <sprite name=\"Vulnerable\"><color=#e30000> </color>    \n·   <sprite name=\"ParryingResultDown\"><color=#e20000>    </color>    \n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "_comment": "Fortuna => Định Mệnh / Vận Mệnh / Số Phận",
+      "id": "KarmaOfIndexRien_2Phase",
+      "name": "Nghiệp Báo [Fortuna]",
+      "desc": "  \n·   <sprite name=\"DefenseDown\"><color=#e20000>   </color>    \n·   <sprite name=\"Vulnerable\"><color=#e30000> </color>    \n·   <sprite name=\"ParryingResultDown\"><color=#e20000>    </color>    \n    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "O Fortúna velut luna status variabilis (Hỡi Vận Mệnh, tựa như ánh trăng, luôn đổi thay khôn lường.)"
+    },
+    {
+      "id": "BurningWoundRien_Mask",
+      "name": "Mặt Nạ Của Rien",
+      "desc": "    \n    \n              <sprite name=\"Combustion\"><color=#e30000> </color>  <sprite name=\"Laceration\"><color=#e30000> </color>          \n·      <sprite name=\"Combustion\"><color=#e30000> </color>  <sprite name=\"Laceration\"><color=#e30000> </color>          \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Ta che nó đi bởi lẽ càng nhìn vào cũng chỉ khiến ta thấy nhói đau thêm mà thôi.\""
+    },
+    {
+      "id": "BurningWoundRien",
+      "name": "Vết Thương Sôi Sục",
+      "desc": "    \n    \n        <sprite name=\"Combustion\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>\n              <sprite name=\"Combustion\"><color=#e30000> </color>  <sprite name=\"Laceration\"><color=#e30000> </color>          \n·      <sprite name=\"Combustion\"><color=#e30000> </color>  <sprite name=\"Laceration\"><color=#e30000> </color>          \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Khi ở gần thanh kiếm, vết thương sẽ toác miệng trở lại, và da thịt vốn đã nguội lạnh sẽ bùng cháy thêm lần nữa."
+    },
+    {
+      "id": "Shin_Rien",
+      "name": "Tâm (心) - Rien",
+      "desc": "           \n·   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>        \n·   <sprite name=\"Enhancement\"><color=#fac400>    </color>         \n       <sprite name=\"Breath\"><color=#fac400> </color>      \n                       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackRienSpecialSkill",
+      "name": "Quyền Hành [Hermes]",
+      "desc": "                         \n             \n           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Tuân theo thánh ý của chúa con.\""
+    },
+    {
+      "id": "RienWeapon01Hatchet",
+      "name": "Khi bổ toạc lồng ngực bằng một chiếc rìu...",
+      "desc": "    \n        <sprite name=\"Breath\"><color=#fac400> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon01Hatchet2phase",
+      "name": "Khi bổ toạc lồng ngực bằng một chiếc rìu...",
+      "desc": "    \n        <sprite name=\"Breath\"><color=#fac400> </color>    <sprite name=\"Breath\"><color=#fac400> </color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Thứ này còn chẳng đáng gọi là vũ khí, nhưng vẫn tốt hơn cái nĩa.\""
+    },
+    {
+      "id": "RienWeapon02Stiletto",
+      "name": "Khi đâm xuyên buồng phổi bằng một cây stiletto...",
+      "desc": "    \n        <sprite name=\"Sinking\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon02Stiletto2phase",
+      "name": "Khi đâm xuyên buồng phổi bằng một cây stiletto...",
+      "desc": "    \n        <sprite name=\"Sinking\"><color=#e30000> </color>    <sprite name=\"Sinking\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Ta không kìm được cảm giác ớn lạnh chạy dọc sống lưng mỗi khi được giao cho thứ vũ khí này trong tình huống đòi hỏi một cú chém ngang. Ta thấy thật khó để làm việc với nó.\""
+    },
+    {
+      "id": "RienWeapon03Greatsword",
+      "name": "Khi chém phăng qua vai và sọ bằng một thanh kiếm lai...",
+      "desc": "    \n       \n        <sprite name=\"AttackUp\"><color=#fac400>   </color>      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon03Greatsword2phase",
+      "name": "Khi chém phăng qua vai và sọ bằng một thanh kiếm lai...",
+      "desc": "    \n       \n        <sprite name=\"AttackUp\"><color=#fac400>   </color>        ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Thanh kiếm này... vẫn dùng được, nhưng chất lượng thì còn thiếu sót nhiều lắm. Dù sao thì, nó vẫn có thể là một vũ khí đáng tin cậy miễn là kỹ năng cơ bản của ngươi đủ vững.\""
+    },
+    {
+      "id": "RienWeapon04Rapier",
+      "name": "Khi đục 10 lỗ hoặc nhiều hơn trên thân bằng một cây rapier...",
+      "desc": "    \n       \n        <sprite name=\"DefenseDown\"><color=#e20000>   </color>      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon04Rapier2phase",
+      "name": "Khi đục 10 lỗ hoặc nhiều hơn trên thân bằng một cây rapier...",
+      "desc": "    \n       \n        <sprite name=\"DefenseDown\"><color=#e20000>   </color>        ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Một vũ khí dài hơn và sắc bén hơn stiletto. Ta cũng khá thích rapier, vì nó rất phù hợp với những kỹ thuật đòi hỏi sự khéo léo.\""
+    },
+    {
+      "id": "RienWeapon05Sledgehammer",
+      "name": "Khi đập lún phía sau hộp sọ bằng một chiếc búa...",
+      "desc": "    \n       \n             ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon05Sledgehammer2phase",
+      "name": "Khi đập lún phía sau hộp sọ bằng một chiếc búa...",
+      "desc": "    \n       \n             ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Đơn giản mà hiệu quả. Nó không phải là biện pháp nửa vời như rìu—nó <i>sẽ</i> nghiền nát bất cứ thứ gì nó chạm vào.\""
+    },
+    {
+      "id": "RienWeapon06Ultragreatsword",
+      "name": "Khi chẻ đôi cơ thể bằng một thanh đại kiếm...",
+      "desc": "    \n       \n        <sprite name=\"SlashTakeDamageUp\"><color=#e20000>  </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon06Ultragreatsword2phase",
+      "name": "Khi chẻ đôi cơ thể bằng một thanh đại kiếm...",
+      "desc": "    \n       \n        <sprite name=\"SlashTakeDamageUp\"><color=#e20000>  </color>        ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Khi sử dụng những thanh kiếm có kích thước và trọng lượng nặng nề như thứ này, điều quan trọng là phải tìm được trọng tâm của mình.\"\n\"Và tất nhiên, đừng quên tận dụng khối lượng khổng lồ của nó.\"\n\"Ta từng nhảy từ sân thượng của một tòa nhà năm tầng với thứ vũ khí này và đáp xuống đầu một Fixer Cấp 1, giết hắn ngay tại chỗ.\""
+    },
+    {
+      "id": "RienWeapon07Lance",
+      "name": "Khi khoét một cái lỗ 20-inch bằng một ngọn thương...",
+      "desc": "    \n       \n        <sprite name=\"PenetrateTakeDamageUp\"><color=#e20000>  </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon07Lance2phase",
+      "name": "Khi khoét một cái lỗ 20-inch bằng một ngọn thương...",
+      "desc": "     \n       \n        <sprite name=\"PenetrateTakeDamageUp\"><color=#e20000>  </color>        ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Ta coi thứ vũ khí này như việc trúng độc đắc. Ngọn thương này sở hữu cơ chế tự đẩy, cho phép nó xuyên thủng mục tiêu—và bất kỳ thứ gì chắn đường nó, dù đó là một bức tường hay một con người.\""
+    },
+    {
+      "id": "RienWeapon08Chain",
+      "name": "Khi quất nát da thịt thành mười ngàn mảnh vụn bằng một sợi roi...",
+      "desc": "    \n       \n        <sprite name=\"HitTakeDamageUp\"><color=#e20000>  </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon08Chain2phase",
+      "name": "Khi quất nát da thịt thành mười ngàn mảnh vụn bằng một sợi roi...",
+      "desc": "    \n       \n        <sprite name=\"HitTakeDamageUp\"><color=#e20000>  </color>        ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Dù vài kẻ có thể đánh đồng thứ vũ khí này với việc thua xổ số... nhưng ta lại khá thích nó.\"\n\"Khi chiếc roi này quất lên, nó không chỉ khiến chúng đổ máu; nó xé toạc một mảng thịt của mục tiêu, và cùng với đó là cả nhuệ khí lẫn sinh lực của chúng.\"\n\"Ta trân trọng việc nó cho phép ta quan sát toàn bộ quy trình của một kẻ ngày càng suy tàn đi. Ồ, và nó cũng có thể dùng để siết cổ trong lúc nguy cấp nữa.\""
+    },
+    {
+      "id": "RienWeapon09Scythe",
+      "name": "Khi xé rách chính không gian bằng một chiếc lưỡi hái, giống như một người nào đó...",
+      "desc": "    \n       \n           ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon09Scythe2phase",
+      "name": "Khi xé rách chính không gian bằng một chiếc lưỡi hái, giống như một người nào đó...",
+      "desc": "    \n       \n           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Lưỡi hái... Ta đã từng không tài nào hiểu nổi cách sử dụng thứ vũ khí này cho đến khi ta nhìn thấy Lam Vọng múa thanh lưỡi hái của hắn.\"\n\"Thậm chí sau khi quan sát những động tác của hắn, Sắc Lệnh vẫn tiếp tục không đưa cho ta vũ khí nào khác ngoài lưỡi hái trong một thời gian dài. Cuối cùng, nó lại trở thành thứ vũ khí yêu thích nhất, thuần thục nhất và sắc bén nhất của ta.\"\n\"Thứ vũ khí này cũng là thứ cắt ngọt nhất trong tất cả. Dù có rất nhiều kỹ thuật để cắt xuyên không gian— Hừm. Có lẽ nên để dành câu chuyện này cho dịp khác vậy.\""
+    },
+    {
+      "id": "Ryoshu_RienBattle_1Phase",
+      "name": "Ketsuen [けつえん]",
+      "desc": "  ōū                      \n            \n                  \n                        <sprite name=\"Enhancement\"><color=#fac400>    </color>          \n    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Bao kiếm duy nhất và độc nhất của Ryōshū, được tạo nên để phong ấn thanh Thiên Sát Tinh Đao - Arayashiki. Đây chính là E.G.O của Araya, được tôi luyện từ ngọn lửa vĩnh cửu."
+    },
+    {
+      "id": "Ryoshu_RienBattle_2Phase",
+      "name": "Renketsuen [れんけつえん]",
+      "desc": "  ōū                      \n             \n    <sprite name=\"BurningWoundRien\"><color=#e30000>   </color>   \n·        \n·                                  \n                  \n                        <sprite name=\"Enhancement\"><color=#fac400>    </color>          \n    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sự tồn tại của E.G.O này là một nghịch lý, chỉ còn sót lại một chút của cái tôi trong đó.\nDù vậy không nên đánh đồng một thứ tưởng chừng như xuất phát từ sự tận tâm tuyệt đối với kẻ khác với lòng vị tha tuyệt đối.\nBởi kẻ đấy phải có chủ nghĩa vị kỷ tuyệt đối mới có thể đặt tầm quan trọng của cuộc sống người khác lên trên cuộc sống của chính mình.\n\n\"Con sẽ hạnh phúc nếu mẹ không quên con, nhưng nghĩ đến việc mất mẹ như thế này còn tệ hơn nhiều.\"\n\"Vậy nên hãy tạm quên con đi, và trân trọng bản thân mình nhiều hơn, mẹ nhé.\""
+    },
+    {
+      "id": "PainfulScar_Panic",
+      "name": "Mô Phỏng Một Người Cha",
+      "desc": "  \n     <sprite name=\"Combustion\"><color=#e30000> </color>   <sprite name=\"Combustion\"><color=#e30000> </color>  <sprite name=\"Laceration\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>\n        ōū",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PainfulScar_LowMorale",
+      "name": "Mô Phỏng Một Người Cha",
+      "desc": "  \n     <sprite name=\"Combustion\"><color=#e30000> </color>   <sprite name=\"Laceration\"><color=#e30000> </color>\n        ōū",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlackNightmare",
+      "name": "Đắm Chìm Trong Sắc Lệnh",
+      "desc": "       <sprite name=\"Sinking\"><color=#e30000> </color>\n                     <sprite name=\"KarmaOfIndexRien\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Bề ngoài, hắn điềm nhiên chấp nhận các Sắc Lệnh và thực thi tất cả theo chỉ dẫn; tuy nhưng, ẩn khuất sau chiếc mặt nạ giả tạo ấy, thoáng in hằn nỗi căm hận phẫn uất dành cho chúng.\nDẫu vậy, vì hắn có thể đắm chìm trong mọi khổ đau và khoái lạc của thế gian đằng sau tấm mặt nạ mang tên \"Sắc Lệnh\", nên nỗi khao khát tiềm ẩn thực sự của hắn cuối cùng lại kết thúc bằng lòng biết ơn."
+    },
+    {
+      "id": "RyoshuParrySojiWe",
+      "name": "Sợi Chỉ Đỏ",
+      "desc": "    \n          \n                                      \n    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Nếu sợi chỉ mỏng manh này là thứ duy nhất gắn kết giữa ta và con. Thì ta sẵn sàng bám víu lấy nó bằng tất cả sức bình sinh của mình.'"
+    },
+    {
+      "id": "RyoshuParrySojiThey",
+      "name": "Sợi Chỉ Đỏ",
+      "desc": "        <sprite name=\"SuperCoin\"><color=#9f6a3a>  </color>\n    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Dù có trốn chạy đến đâu, sợi chỉ đỏ này sẽ mãi đưa tôi và bà đến với nhau. Không thể nào cắt đứt được sợi chỉ này...'"
+    },
+    {
+      "id": "CriticalDamageUp",
+      "name": "Tăng Sát Thương Trí Mạng",
+      "desc": "             ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "KAA1C9ActivateEffect",
+      "name": "Huyết Thanh Tập Đoàn K Đã Dùng",
+      "desc": "      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuParryIndexFingerWe",
+      "name": "Sợi Chỉ Đỏ",
+      "desc": "",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "RyoshuParryIndexFingerThey",
+      "name": "Sợi Chỉ Đỏ",
+      "desc": "",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    }
+  ]
+}
