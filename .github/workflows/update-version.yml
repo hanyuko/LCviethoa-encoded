@@ -1,0 +1,27 @@
+name: Auto Update Version JSON
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-version:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update version.json
+        run: |
+          echo "{\"commitSha\": \"${{ github.sha }}\"}" > version.json
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add version.json
+          git diff-index --quiet HEAD || git commit -m "chore: auto-update version.json [skip ci]"
+          git push
