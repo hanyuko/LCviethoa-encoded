@@ -1,1 +1,116 @@
-hold on tight
+{
+  "dataList": [
+    {
+      "id": 1,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "Ishmael",
+      "dialog": "Tôi làm được việc này không hả? Dĩ nhiên rồi. Hỏi vô nghĩa thật.",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 2,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "Ishmael",
+      "dialog": "Cũng hợp lý. Miễn kế hoạch cho vụ này không đổ hết xuống biến.",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 3,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "Ishmael",
+      "dialog": "Chà… Nếu không ai dám làm, thì tôi sẽ tự nguyện.",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 4,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "Ishmael",
+      "dialog": "Tôi sẽ làm theo, nhưng thực sự cái kế hoạch này nghe tệ thật.",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 5,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "Ishmael",
+      "dialog": "Thật luôn? Đầu lỏng vít à? Tôi thất vọng về ngài. Đừng nói gì với tôi cả.",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 6,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "Ishmael",
+      "dialog": "Sau tất cả… Tôi vẫn tự mình xoay sở được.",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 7,
+      "personalityid": 10801,
+      "voiceFile": 0,
+      "teller": "Ishmael",
+      "dialog": "Ngài nên nhờ người khác lo liệu việc này. Đừng đổ tội cho tôi.",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    },
+    {
+      "id": 8,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "R Corp. Ishmael",
+      "dialog": "",
+      "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
+    },
+    {
+      "id": 9,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "R Corp. Ishmael",
+      "dialog": "",
+      "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
+    },
+    {
+      "id": 10,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "R Corp. Ishmael",
+      "dialog": "",
+      "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
+    },
+    {
+      "id": 11,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "R Corp. Ishmael",
+      "dialog": "",
+      "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
+    },
+    {
+      "id": 12,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "R Corp. Ishmael",
+      "dialog": "",
+      "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
+    },
+    {
+      "id": 13,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "R Corp. Ishmael",
+      "dialog": "",
+      "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
+    },
+    {
+      "id": 14,
+      "personalityid": 10802,
+      "voiceFile": 0,
+      "teller": "R Corp. Ishmael",
+      "dialog": "",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
+    }
+  ]
+}
