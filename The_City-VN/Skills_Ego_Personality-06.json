@@ -329,7 +329,7 @@
           "level": 1,
           "name": "Kêu Khóc Đáy Hang",
           "abName": "Cóc Khóc Lóc",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu mục tiêu có [Vibration], +(([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa 25%)\n- Ở mốc 4+ Cộng Hưởng cao nhất, nâng giới hạn trên lên (tối đa 35%)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu mục tiêu có [Vibration], +(([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa 25%)\n- Ở mốc 4+ Cộng Hưởng cao nhất, nâng giới hạn trên lên (tối đa 35%)",
           "coinlist": [
             {
               "coindescs": [
@@ -347,7 +347,7 @@
           "level": 3,
           "name": "Kêu Khóc Đáy Hang",
           "abName": "Cóc Khóc Lóc",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu mục tiêu có [Vibration], +(([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa <style=\"highlight\">30%</style>)\n- Ở mốc 4+ Cộng Hưởng cao nhất, <style=\"highlight\">đổi thành +(5 + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa 40%)</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu mục tiêu có [Vibration], +(([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa <style=\"highlight\">30%</style>)\n- Ở mốc 4+ Cộng Hưởng cao nhất, <style=\"highlight\">đổi thành +(5 + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa 40%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -371,7 +371,7 @@
           "level": 4,
           "name": "Kêu Khóc Đáy Hang",
           "abName": "Cóc Khóc Lóc",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu mục tiêu có [Vibration], +(<style=\"highlight\">5</style> + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa <style=\"highlight\">40%</style>)\n- Ở mốc 4+ Cộng Hưởng cao nhất, đổi thành +(<style=\"highlight\">7.5</style> + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / <style=\"highlight\">1.5</style>)% sát thương gây ra (tối đa <style=\"highlight\">50%</style>)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu mục tiêu có [Vibration], +(<style=\"highlight\">5</style> + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / 2)% sát thương gây ra (tối đa <style=\"highlight\">40%</style>)\n- Ở mốc 4+ Cộng Hưởng cao nhất, đổi thành +(<style=\"highlight\">7.5</style> + ([Vibration] trên mục tiêu + Tầng [Vibration] trên mục tiêu) / <style=\"highlight\">1.5</style>)% sát thương gây ra (tối đa <style=\"highlight\">50%</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -525,7 +525,7 @@
           "level": 1,
           "name": "Thòng Lọng Gai",
           "abName": "Thợ Săn Hoa Hồng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -560,7 +560,7 @@
           "level": 3,
           "name": "Thòng Lọng Gai",
           "abName": "Thợ Săn Hoa Hồng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1</style>\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n<style=\"highlight\">[BeforeAttack] Nhận 2 [Agility] vào lượt kế</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1</style>\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n<style=\"highlight\">[BeforeAttack] Nhận 2 [Agility] vào lượt kế</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -595,7 +595,7 @@
           "level": 4,
           "name": "Thòng Lọng Gai",
           "abName": "Thợ Săn Hoa Hồng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nhận 2 [Agility] vào lượt kế\n<style=\"highlight\">[BeforeAttack] Ở mốc 4+ Phàm Ăn Cộng Hưởng hoặc Dục Vọng, +1 Phạm Vi Tấn Công</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nhận 2 [Agility] vào lượt kế\n<style=\"highlight\">[BeforeAttack] Ở mốc 4+ Phàm Ăn Cộng Hưởng hoặc Dục Vọng, +1 Phạm Vi Tấn Công</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -801,7 +801,7 @@
           "level": 1,
           "name": "Ô Huyết Khấp Lệ - Thủy [始]",
           "abName": "Ứng Long",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, +1 Phạm Vi Tấn Công\n[BeforeAttack] -2 Sức Mạnh Gốc với mỗi Xu Nứt (tối đa -8)\n[EndSkill] Nhận [DragonLance]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, +1 Phạm Vi Tấn Công\n[BeforeAttack] -2 Sức Mạnh Gốc với mỗi Xu Nứt (tối đa -8)\n[EndSkill] Nhận [DragonLance]",
           "coinlist": [
             {
               "coindescs": [
@@ -840,7 +840,7 @@
           "level": 3,
           "name": "Ô Huyết Khấp Lệ - Thủy [始]",
           "abName": "Ứng Long",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, +1 Phạm Vi Tấn Công\n[BeforeAttack] -2 Sức Mạnh Gốc với mỗi Xu Nứt (tối đa -8)\n[EndSkill] Nhận [DragonLance]<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, +1 Phạm Vi Tấn Công\n[BeforeAttack] -2 Sức Mạnh Gốc với mỗi Xu Nứt (tối đa -8)\n[EndSkill] Nhận [DragonLance]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -888,7 +888,7 @@
           "level": 4,
           "name": "Ô Huyết Khấp Lệ - Thủy [始]",
           "abName": "Ứng Long",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, +1 Phạm Vi Tấn Công\n<style=\"highlight\">- Ở mốc 6+ Cộng Hưởng cao nhất, đổi thành Phạm Vi Tấn Công +2</style>\n[BeforeAttack] -2 Sức Mạnh Gốc với mỗi Xu Nứt (tối đa -8)\n[EndSkill] Nhận [DragonLance]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, +1 Phạm Vi Tấn Công\n<style=\"highlight\">- Ở mốc 6+ Cộng Hưởng cao nhất, đổi thành Phạm Vi Tấn Công +2</style>\n[BeforeAttack] -2 Sức Mạnh Gốc với mỗi Xu Nứt (tối đa -8)\n[EndSkill] Nhận [DragonLance]",
           "coinlist": [
             {
               "coindescs": [
@@ -1059,7 +1059,7 @@
           "level": 3,
           "name": "Ninh Tác Ngô [宁作吾]",
           "abName": "Ling",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Nhận <style=\"highlight\">3</style> [Breath] và +<style=\"highlight\">3</style> Tầng [Breath]\n[BeforeAttack] Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], <style=\"highlight\">nhận +1 Phạm Vi Tấn Công, Sức Mạnh Gốc +1</style>, và Sức Mạnh Xu +1\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[WhenUse] Nhận <style=\"highlight\">3</style> [Breath] và +<style=\"highlight\">3</style> Tầng [Breath]\n[BeforeAttack] Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], <style=\"highlight\">nhận +1 Phạm Vi Tấn Công, Sức Mạnh Gốc +1</style>, và Sức Mạnh Xu +1\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
           "coinlist": [
             {
               "coindescs": [
@@ -1106,7 +1106,7 @@
           "level": 4,
           "name": "Ninh Tác Ngô [宁作吾]",
           "abName": "Ling",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Nhận <style=\"highlight\">4</style> [Breath] và +<style=\"highlight\">4</style> Tầng [Breath]\n[BeforeAttack] Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], nhận +<style=\"highlight\">2</style> Phạm Vi Tấn Công, Sức Mạnh Gốc +<style=\"highlight\">2</style>, và Sức Mạnh Xu +<style=\"highlight\">2</style>\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[WhenUse] Nhận <style=\"highlight\">4</style> [Breath] và +<style=\"highlight\">4</style> Tầng [Breath]\n[BeforeAttack] Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], nhận +<style=\"highlight\">2</style> Phạm Vi Tấn Công, Sức Mạnh Gốc +<style=\"highlight\">2</style>, và Sức Mạnh Xu +<style=\"highlight\">2</style>\n[EndSkill] Nhận 5 [Cianjing]\n- Nếu chủ thể có [Cianjing] hoặc [SeniorCianjing], tiêu thụ toàn bộ và nhận 5 [SeniorCianjing]",
           "coinlist": [
             {
               "coindescs": [

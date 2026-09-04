@@ -72,7 +72,7 @@
           "level": 1,
           "name": "Ăn Mòn Sục Sôi",
           "abName": "Trai Ung Dung",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên",
           "coinlist": [
             {
               "coindescs": [
@@ -90,7 +90,7 @@
           "level": 3,
           "name": "Ăn Mòn Sục Sôi",
           "abName": "Trai Ung Dung",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Nếu HP của mục tiêu chính ≥ 50%, Phạm Vi Tấn Công +1</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Nếu HP của mục tiêu chính ≥ 50%, Phạm Vi Tấn Công +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -111,7 +111,7 @@
           "level": 4,
           "name": "Ăn Mòn Sục Sôi",
           "abName": "Trai Ung Dung",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu HP của mục tiêu chính ≥ 50%, Phạm Vi Tấn Công +1;\n<style=\"highlight\">Nếu HP của mục tiêu chính ≥ 75%, Phạm Vi Tấn Công +1</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nếu HP của mục tiêu chính ≥ 50%, Phạm Vi Tấn Công +1;\n<style=\"highlight\">Nếu HP của mục tiêu chính ≥ 75%, Phạm Vi Tấn Công +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -202,7 +202,7 @@
           "level": 1,
           "name": "Chấp Hành",
           "abName": "Thư Ký Của Phán Đao Thiên Đường",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên",
           "coinlist": [
             {
               "coindescs": [
@@ -220,7 +220,7 @@
           "level": 3,
           "name": "Chấp Hành",
           "abName": "Thư Ký Của Phán Đao Thiên Đường",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +1</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -241,7 +241,7 @@
           "level": 4,
           "name": "Chấp Hành",
           "abName": "Thư Ký Của Phán Đao Thiên Đường",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +<style=\"highlight\">2</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nếu HP ≤ 50%, Phạm Vi Tấn Công +<style=\"highlight\">2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -332,7 +332,7 @@
           "level": 1,
           "name": "Khát Vọng Đẫm Máu",
           "abName": "Đôi Giày Đỏ",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -348,7 +348,7 @@
           "level": 3,
           "name": "Khát Vọng Đẫm Máu",
           "abName": "Đôi Giày Đỏ",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -367,7 +367,7 @@
           "level": 4,
           "name": "Khát Vọng Đẫm Máu",
           "abName": "Đôi Giày Đỏ",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận (Số Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -471,7 +471,7 @@
           "level": 1,
           "name": "Đinh Nguyền Rủa",
           "abName": "Gấu Teddy Đau Đớn",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Hồi 3 đồng minh khác có phần trăm HP thấp nhất bằng 15% HP Tối Đa của chủ thể",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[EndSkill] Hồi 3 đồng minh khác có phần trăm HP thấp nhất bằng 15% HP Tối Đa của chủ thể",
           "coinlist": [
             {
               "coindescs": [
@@ -499,7 +499,7 @@
           "level": 3,
           "name": "Đinh Nguyền Rủa",
           "abName": "Gấu Teddy Đau Đớn",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Hồi 3 đồng minh khác có phần trăm HP thấp nhất bằng 15% HP Tối Đa của chủ thể\n<style=\"highlight\">- Cứ mỗi đơn vị được hồi nhận 1 [AttackUp] cho đến lượt kế với mỗi 2 hiệu ứng bất lợi trên đơn vị đó (tối đa 2)</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[EndSkill] Hồi 3 đồng minh khác có phần trăm HP thấp nhất bằng 15% HP Tối Đa của chủ thể\n<style=\"highlight\">- Cứ mỗi đơn vị được hồi nhận 1 [AttackUp] cho đến lượt kế với mỗi 2 hiệu ứng bất lợi trên đơn vị đó (tối đa 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -527,7 +527,7 @@
           "level": 4,
           "name": "Đinh Nguyền Rủa",
           "abName": "Gấu Teddy Đau Đớn",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[EndSkill] Hồi 3 đồng minh khác có phần trăm HP thấp nhất bằng <style=\"highlight\">20%</style> HP Tối Đa của chủ thể\n- Cứ mỗi đơn vị được hồi nhận 1 [AttackUp] cho đến lượt kế với <style=\"highlight\">mỗi</style> hiệu ứng bất lợi trên đơn vị đó (tối đa <style=\"highlight\">3</style>)\n<style=\"highlight\">- Ở mốc 4+ Đố Kỵ Cộng Hưởng bao gồm cả Kỹ năng này, hồi thêm 1 đồng minh</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[EndSkill] Hồi 3 đồng minh khác có phần trăm HP thấp nhất bằng <style=\"highlight\">20%</style> HP Tối Đa của chủ thể\n- Cứ mỗi đơn vị được hồi nhận 1 [AttackUp] cho đến lượt kế với <style=\"highlight\">mỗi</style> hiệu ứng bất lợi trên đơn vị đó (tối đa <style=\"highlight\">3</style>)\n<style=\"highlight\">- Ở mốc 4+ Đố Kỵ Cộng Hưởng bao gồm cả Kỹ năng này, hồi thêm 1 đồng minh</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -622,7 +622,7 @@
           "level": 1,
           "name": "Tòa Án Phán Xét",
           "abName": "Nữ Công Tước Rực Cháy",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)",
           "coinlist": [
             {
               "coindescs": [
@@ -656,7 +656,7 @@
           "level": 3,
           "name": "Tòa Án Phán Xét",
           "abName": "Nữ Công Tước Rực Cháy",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)",
           "coinlist": [
             {
               "coindescs": [
@@ -690,7 +690,7 @@
           "level": 4,
           "name": "Tòa Án Phán Xét",
           "abName": "Nữ Công Tước Rực Cháy",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất / 2) Phạm Vi Tấn Công (tối đa 3; làm tròn xuống)",
           "coinlist": [
             {
               "coindescs": [
@@ -794,7 +794,7 @@
           "level": 1,
           "name": "Hướng Về Hoàng Hôn",
           "abName": "Nhà Lữ Hành Hoàng Hôn",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] +5% sát thương gây ra với mỗi 4 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -6 với mỗi Xu Nứt (tối đa -12)\n[EndSkill] Gán 1 [ScarletMothRodion] cho đồng minh ngẫu nhiên 3 lần",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] +5% sát thương gây ra với mỗi 4 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -6 với mỗi Xu Nứt (tối đa -12)\n[EndSkill] Gán 1 [ScarletMothRodion] cho đồng minh ngẫu nhiên 3 lần",
           "coinlist": [
             {
               "coindescs": [
@@ -834,7 +834,7 @@
           "level": 3,
           "name": "Hướng Về Hoàng Hôn",
           "abName": "Nhà Lữ Hành Hoàng Hôn",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] +5% sát thương gây ra với mỗi 4 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 15%)\n<style=\"highlight\">- Nếu có Phẫn Nộ hoặc Dục Vọng Cộng Hưởng Tuyệt Đối, +10% sát thương gây ra</style>\n[BeforeAttack] Sức Mạnh Gốc -6 với mỗi Xu Nứt (tối đa -12)\n[EndSkill] Gán 1 [ScarletMothRodion] cho các đồng minh ngẫu nhiên, lặp lại <style=\"highlight\">4</style> lần",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] +5% sát thương gây ra với mỗi 4 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 15%)\n<style=\"highlight\">- Nếu có Phẫn Nộ hoặc Dục Vọng Cộng Hưởng Tuyệt Đối, +10% sát thương gây ra</style>\n[BeforeAttack] Sức Mạnh Gốc -6 với mỗi Xu Nứt (tối đa -12)\n[EndSkill] Gán 1 [ScarletMothRodion] cho các đồng minh ngẫu nhiên, lặp lại <style=\"highlight\">4</style> lần",
           "coinlist": [
             {
               "coindescs": [
@@ -874,7 +874,7 @@
           "level": 4,
           "name": "Hướng Về Hoàng Hôn",
           "abName": "Nhà Lữ Hành Hoàng Hôn",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] +10% sát thương gây ra với mỗi 4 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 30%)</style>\n- Nếu có Phẫn Nộ hoặc Dục Vọng Cộng Hưởng Tuyệt Đối, <style=\"highlight\">+20%</style> sát thương gây ra\n<style=\"highlight\">[BeforeAttack] Sức Mạnh Gốc -5 với mỗi Xu Nứt (tối đa -10)</style>\n[EndSkill] Gán 1 [ScarletMothRodion] cho các đồng minh ngẫu nhiên, lặp lại <style=\"highlight\">5</style> lần",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] +10% sát thương gây ra với mỗi 4 ([Combustion] + [Laceration]) trên toàn bộ mục tiêu (tối đa 30%)</style>\n- Nếu có Phẫn Nộ hoặc Dục Vọng Cộng Hưởng Tuyệt Đối, <style=\"highlight\">+20%</style> sát thương gây ra\n<style=\"highlight\">[BeforeAttack] Sức Mạnh Gốc -5 với mỗi Xu Nứt (tối đa -10)</style>\n[EndSkill] Gán 1 [ScarletMothRodion] cho các đồng minh ngẫu nhiên, lặp lại <style=\"highlight\">5</style> lần",
           "coinlist": [
             {
               "coindescs": [

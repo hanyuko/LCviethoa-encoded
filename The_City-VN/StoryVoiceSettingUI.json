@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "select_all",
+      "content": "Chọn Tất Cả"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Hủy Chọn Tất Cả"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Quản Lý Giọng Nói Cốt Truyện"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "Chọn Giọng Nói bạn muốn giữ lại cho thiết bị của mình."
+    },
+    {
+      "id": "story_voice_process_confirm_title",
+      "content": "Quản Lý Giọng Nói Cốt Truyện"
+    },
+    {
+      "id": "story_voice_process_confirm_main_title",
+      "content": "Áp dụng các thay đổi lên tệp của bạn.\nBạn có muốn tiếp tục không?"
+    },
+    {
+      "id": "story_voice_process_confirm_line",
+      "content": "[{0}] {1} - {2}"
+    },
+    {
+      "id": "story_voice_process_delete_label",
+      "content": "Xóa"
+    },
+    {
+      "id": "story_voice_process_download_label",
+      "content": "Tải"
+    },
+    {
+      "id": "story_voice_process_progress_title",
+      "content": "Quản Lý Giọng Nói Cốt Truyện"
+    },
+    {
+      "id": "story_voice_process_progress_desc",
+      "content": "Xử lý lưu trữ tệp giọng nói..."
+    },
+    {
+      "id": "story_voice_process_applying_label",
+      "content": "Tiến Hành Áp Dụng..."
+    },
+    {
+      "id": "story_voice_process_complete_title",
+      "content": "Quản Lý Giọng Nói Cốt Truyện"
+    },
+    {
+      "id": "story_voice_process_complete_desc",
+      "content": "Thay đổi thành công tệp giọng nói của Chương được chọn."
+    },
+    {
+      "id": "story_voice_process_progress_count",
+      "content": "{0}/{1}"
+    }
+  ]
+}

@@ -1459,13 +1459,13 @@
       "id": 1110921,
       "name": "Phác Thảo Sơ Bộ",
       "desc": "1 đồng minh có SP thấp nhất hồi 4 SP khi đánh bại kẻ địch có [Laceration].\nHồi thêm 1 SP với mỗi loại hiệu ứng bất lợi trên mục tiêu. (tối đa 4. Một lần mỗi lượt)",
-      "summary": "Hồi SP cho chủ thể Khi Giết mục tiêu có [Laceration]"
+      "summary": "Hồi SP cho chủ thể Khi Kết Liễu mục tiêu có [Laceration]"
     },
     {
       "id": 1110931,
       "name": "Phác Thảo Sơ Bộ",
       "desc": "1 đồng minh có SP thấp nhất hồi 4 SP khi đánh bại kẻ địch có [Laceration].\nHồi thêm 1 SP với mỗi loại hiệu ứng bất lợi trên mục tiêu. (tối đa 4. 3 lần mỗi lượt)",
-      "summary": "Hồi SP cho chủ thể Khi Giết mục tiêu có [Laceration]"
+      "summary": "Hồi SP cho chủ thể Khi Kết Liễu mục tiêu có [Laceration]"
     },
     {
       "id": 1010902,
@@ -1540,14 +1540,14 @@
     {
       "id": 1021001,
       "name": "Phân Giải Điện Lưu",
-      "desc": "Nhận 1 [Charge] mỗi khi chủ thể tiêu thụ tổng cộng 10 Tầng [Charge] trong Ải này\nỞ mốc 2+ [Charge], +([Charge] x 3)% sát thương gây ra (tối đa 15%)\n\nKhi Giết Địch, chủ thể và 1 đồng minh có Tầng [Charge] thấp nhất nhận Tầng [Charge] bằng với [Charge] (tối đa 3, ưu tiên đồng minh có tiêu thụ hoặc nhận [Charge])",
-      "summary": "Nhận [Charge] với mỗi 10 Tầng [Charge] được tiêu thụ\nỞ mốc 2+ [Charge], gây thêm sát thương\nKhi Giết Địch, chủ thể và 1 đồng minh nhận Tầng [Charge]"
+      "desc": "Nhận 1 [Charge] mỗi khi chủ thể tiêu thụ tổng cộng 10 Tầng [Charge] trong Ải này\nỞ mốc 2+ [Charge], +([Charge] x 3)% sát thương gây ra (tối đa 15%)\n\nKhi Kết Liễu, chủ thể và 1 đồng minh có Tầng [Charge] thấp nhất nhận Tầng [Charge] bằng với [Charge] (tối đa 3, ưu tiên đồng minh có tiêu thụ hoặc nhận [Charge])",
+      "summary": "Nhận [Charge] với mỗi 10 Tầng [Charge] được tiêu thụ\nỞ mốc 2+ [Charge], gây thêm sát thương\nKhi Kết Liễu, chủ thể và 1 đồng minh nhận Tầng [Charge]"
     },
     {
       "id": 1021011,
       "name": "Phân Giải Điện Lưu",
-      "desc": "Nhận 1 [Charge] mỗi khi chủ thể tiêu thụ tổng cộng 10 Tầng [Charge] trong Ải này\nỞ mốc 2+ [Charge], +([Charge] x 3)% sát thương gây ra (tối đa 15%)\n<style=\"highlight\">- Nếu Hp của mục tiêu < 50%, +([Charge] x 5)% sát thương gây ra (tối đa 25%)</style>\n\nKhi Giết Địch, chủ thể và <style=\"highlight\">2 đồng minh</style> có Tầng [Charge] thấp nhất nhận Tầng [Charge] bằng với <style=\"highlight\">([Charge] + 2)</style> (tối đa <style=\"highlight\">5</style>, ưu tiên đồng minh có tiêu thụ hoặc nhận [Charge])",
-      "summary": "Nhận [Charge] với mỗi 10 Tầng [Charge] được tiêu thụ\nỞ mốc 2+ [Charge], gây thêm sát thương\nKhi Giết Địch, chủ thể và 2 đồng minh nhận Tầng [Charge]"
+      "desc": "Nhận 1 [Charge] mỗi khi chủ thể tiêu thụ tổng cộng 10 Tầng [Charge] trong Ải này\nỞ mốc 2+ [Charge], +([Charge] x 3)% sát thương gây ra (tối đa 15%)\n<style=\"highlight\">- Nếu Hp của mục tiêu < 50%, +([Charge] x 5)% sát thương gây ra (tối đa 25%)</style>\n\nKhi Kết Liễu, chủ thể và <style=\"highlight\">2 đồng minh</style> có Tầng [Charge] thấp nhất nhận Tầng [Charge] bằng với <style=\"highlight\">([Charge] + 2)</style> (tối đa <style=\"highlight\">5</style>, ưu tiên đồng minh có tiêu thụ hoặc nhận [Charge])",
+      "summary": "Nhận [Charge] với mỗi 10 Tầng [Charge] được tiêu thụ\nỞ mốc 2+ [Charge], gây thêm sát thương\nKhi Kết Liễu, chủ thể và 2 đồng minh nhận Tầng [Charge]"
     },
     {
       "id": 1021021,
@@ -1645,7 +1645,7 @@
       "id": 1011011,
       "name": "Bắn.TôiSẽBắn.",
       "desc": "Kết Đòn: nếu chủ thể giết mục tiêu bằng Kỹ Năng, [ReloadLament]\nKhi chủ thể nhận [BulletLament], nhận 2 [Agility] vào lượt kế (một lần mỗi lượt)",
-      "summary": "Khi chủ thể nhận [BulletLament], nhận [Agility] vào lượt kế. Nạp đạn Khi Giết mục tiêu."
+      "summary": "Khi chủ thể nhận [BulletLament], nhận [Agility] vào lượt kế. Nạp đạn Khi Kết Liễu mục tiêu."
     },
     {
       "id": 1011021,
@@ -1712,7 +1712,7 @@
       "id": 1051111,
       "name": "Phát Trực Tiếp Cuộc Đấu Tay Đôi",
       "desc": "Nhận 1 [Agility] vào lượt kế với mỗi 3 Lượng [Breath] trên chủ thể vào Cuối Lượt (tối đa 2)\nĐánh Trúng bằng Kỹ Năng Cơ Bản: Gây [ConcentratedAttackMeursault] vào lượt kế (một lần mỗi Kỹ Năng)\n<style=\"highlight\">Nếu chủ thể tấn công vào Ô có [ConcentratedAttackMeursault] và đánh bại chủ sở hữu hoặc phá hủy Bộ Phận, hồi 7 SP</style>",
-      "summary": "Cuối Lượt: Nhận [Agility] dựa trên Tầng [Breath] trên chủ thể. Khi Đánh Trúng bằng Kỹ Năng Cơ Bản, gây [ConcentratedAttackMeursault] vào lượt kế. Hồi SP Khi Giết Địch"
+      "summary": "Cuối Lượt: Nhận [Agility] dựa trên Tầng [Breath] trên chủ thể. Khi Đánh Trúng bằng Kỹ Năng Cơ Bản, gây [ConcentratedAttackMeursault] vào lượt kế. Hồi SP Khi Kết Liễu"
     },
     {
       "id": 1051121,
@@ -2494,7 +2494,7 @@
     {
       "id": 1121321,
       "name": "Nhắm Vào Khoảng Hở",
-      "desc": "1 đồng minh có Tốc Độ cao nhất: Khi dùng một Kỹ Năng Tấn Công Cơ Bản, if this unit's Speed is faster than the main target's, gây [Disarming] lên mục tiêu với mỗi 3 Tốc Độ chênh lệch (tối đa 2 mỗi lượt)",
+      "desc": "1 đồng minh có Tốc Độ cao nhất: Khi dùng một Kỹ Năng Tấn Công Cơ Bản, nếu Tốc Độ của chủ thể cao hơn mục tiêu chính, gây [Disarming] lên mục tiêu với mỗi 3 Tốc Độ chênh lệch (tối đa 2 mỗi lượt)",
       "summary": "Gây [Disarming]",
       "undefined": "-"
     },
@@ -2507,7 +2507,7 @@
     {
       "id": 1071401,
       "name": "Huyết Phong Đao Vũ",
-      "desc": "Khởi Chiến: Nhận 1 [AttackUp] và 1 [DefenseUp] với mỗi 20% HP chủ thể đã mất (tối đa 3)\n\nNhận [ChickenFightlust] khi đạt một trong những điều kiện dưới đây: (10 mỗi lượt)\n- Nhận 3 khi Bắt Đầu Giao Tranh\n- Nhận 1 khi chủ thể đánh trúng bằng Kỹ Năng Tấn Công Cơ Bản hoặc nhận sát thương [Combustion]\nNếu thấp hơn 50% HP, nhận thêm 1 [ChickenFightlust]\n- Nhận 5 Khi Giết Địch",
+      "desc": "Khởi Chiến: Nhận 1 [AttackUp] và 1 [DefenseUp] với mỗi 20% HP chủ thể đã mất (tối đa 3)\n\nNhận [ChickenFightlust] khi đạt một trong những điều kiện dưới đây: (10 mỗi lượt)\n- Nhận 3 khi Bắt Đầu Giao Tranh\n- Nhận 1 khi chủ thể đánh trúng bằng Kỹ Năng Tấn Công Cơ Bản hoặc nhận sát thương [Combustion]\nNếu thấp hơn 50% HP, nhận thêm 1 [ChickenFightlust]\n- Nhận 5 Khi Kết Liễu",
       "summary": "Nhận [ChickenFightlust]"
     },
     {
@@ -2768,12 +2768,12 @@
     {
       "id": 1051401,
       "name": "Khuếch Tán Bào Tử",
-      "desc": "Khi Giết mục tiêu có [MeursaultBeeSpore], gây gấp đôi [MeursaultBeeSpore] vào lượt kế"
+      "desc": "Khi Kết Liễu mục tiêu có [MeursaultBeeSpore], gây gấp đôi [MeursaultBeeSpore] vào lượt kế"
     },
     {
       "id": 1051411,
       "name": "Khuếch Tán Bào Tử",
-      "desc": "Khi Giết mục tiêu có [MeursaultBeeSpore], nhận các hiệu ứng dưới đây:\n- Gây gấp đôi [MeursaultBeeSpore] vào lượt kế\n<style=\"highlight\">- Khi Giết Địch bằng Kỹ Năng Tấn Công Cơ Bản, nhận (số <noparse>Đạn</noparse> <noparse>Bào Tử</noparse> Kỹ Năng đó đã tiêu / 2) <noparse>Đạn</noparse> <noparse>Bào Tử</noparse> (làm tròn lên; một lần mỗi Kỹ Năng)</style>"
+      "desc": "Khi Kết Liễu mục tiêu có [MeursaultBeeSpore], nhận các hiệu ứng dưới đây:\n- Gây gấp đôi [MeursaultBeeSpore] vào lượt kế\n<style=\"highlight\">- Khi Kết Liễu bằng Kỹ Năng Tấn Công Cơ Bản, nhận (số <noparse>Đạn</noparse> <noparse>Bào Tử</noparse> Kỹ Năng đó đã tiêu / 2) <noparse>Đạn</noparse> <noparse>Bào Tử</noparse> (làm tròn lên; một lần mỗi Kỹ Năng)</style>"
     },
     {
       "id": 1051402,

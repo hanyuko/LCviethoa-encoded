@@ -110,11 +110,11 @@
     },
     {
       "id": "EnemyKill",
-      "name": "[Khi Giết Địch]"
+      "name": "[Kết Liễu]"
     },
     {
       "id": "EnemyKillFail",
-      "name": "[Khi Giết Địch Thất Bại]"
+      "name": "[Kết Liễu Thất Bại]"
     },
     {
       "id": "ReUse",
@@ -186,11 +186,11 @@
     },
     {
       "id": "TargetKill",
-      "name": "[Khi Giết]"
+      "name": "[Kết Liễu Mục Tiêu]"
     },
     {
       "id": "CriticalTargetKill",
-      "name": "[Khi Giết - Trí Mạng]"
+      "name": "[Kết Liễu - Trí Mạng]"
     },
     {
       "id": "BeforeUse",
@@ -218,11 +218,11 @@
     },
     {
       "id": "CriticalEnemyTargetKillFail",
-      "name": "[Khi Giết Địch - Trí Mạng Thất Bại]"
+      "name": "[Kết Liễu - Trí Mạng Thất Bại]"
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[Khi Giết Địch - Trí Mạng]"
+      "name": "[Kết Liễu - Trí Mạng]"
     },
     {
       "id": "DefeatDuelAttack",
@@ -230,15 +230,15 @@
     },
     {
       "id": "TargetKillFail",
-      "name": "[Khi Giết Thất Bại]"
+      "name": "[Kết Liễu Mục Tiêu Thất Bại]"
     },
     {
       "id": "AllyKill",
-      "name": "[Khi Giết Đồng Minh]"
+      "name": "[Kết Liễu Đồng Minh]"
     },
     {
       "id": "AllyKillFail",
-      "name": "[Khi Giết Đồng Minh Thất Bại]"
+      "name": "[Kết Liễu Đồng Minh Thất Bại]"
     },
     {
       "id": "TabExplain",
@@ -291,6 +291,10 @@
     {
       "id": "AlwaysUseEGOPassive2010911",
       "name": "[Luôn Kích Hoạt - Hiệu Ứng <noparse>Độc</noparse> Quyền Của E.G.O Lobotomy::Âm Vang Tiễn Biệt Yi Sang]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive",
+      "name": "[Luôn Kích Hoạt]"
     }
   ]
 }

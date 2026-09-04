@@ -116,7 +116,7 @@
     {
       "id": 9432,
       "name": "Hộp Nhạc Hình Trang Viên",
-      "desc": "Cuối Lượt: nếu Bị Choáng, hồi phục khỏi Choáng; sau đó, vào Đầu Lượt kế, gây 4 Lượng [Sinking] và 4 Tầng [Sinking] lên toàn bộ kẻ địch (mỗi lần mỗi Ải; trong Ải Chuyên Sâu, lên tất cả Bộ Phận)\n\nKhi Giết Địch, 1 kẻ địch có ít Tầng [Sinking] nhất nhận +2 Tầng [Sinking] (3 lần mỗi lượt; trong Ải Chuyên Sâu, là Bộ Phận)",
+      "desc": "Cuối Lượt: nếu Bị Choáng, hồi phục khỏi Choáng; sau đó, vào Đầu Lượt kế, gây 4 Lượng [Sinking] và 4 Tầng [Sinking] lên toàn bộ kẻ địch (mỗi lần mỗi Ải; trong Ải Chuyên Sâu, lên tất cả Bộ Phận)\n\nKhi Kết Liễu, 1 kẻ địch có ít Tầng [Sinking] nhất nhận +2 Tầng [Sinking] (3 lần mỗi lượt; trong Ải Chuyên Sâu, là Bộ Phận)",
       "simpleDesc": [
         {
           "abilityID": 9432,
@@ -202,7 +202,7 @@
     {
       "id": 9438,
       "name": "Đồng Xu Chiến Thắng",
-      "desc": "Khi Giết Địch, 1 đồng minh có SP thấp nhất hồi 3 SP.\n\nKết Đòn: Nếu một kẻ địch có 10+ (tổng [Laceration], '<noparse>Chảy Máu</noparse> Đặc Trưng', và [Burst]) bị đánh bại, 1 đồng minh nhận 2 [AttackUp] vào lượt kế (ưu tiên đồng minh đã giết kẻ địch đó)",
+      "desc": "Khi Kết Liễu, 1 đồng minh có SP thấp nhất hồi 3 SP.\n\nKết Đòn: Nếu một kẻ địch có 10+ (tổng [Laceration], '<noparse>Chảy Máu</noparse> Đặc Trưng', và [Burst]) bị đánh bại, 1 đồng minh nhận 2 [AttackUp] vào lượt kế (ưu tiên đồng minh đã giết kẻ địch đó)",
       "simpleDesc": [
         {
           "abilityID": 9438,

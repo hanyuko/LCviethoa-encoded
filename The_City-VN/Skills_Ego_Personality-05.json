@@ -66,7 +66,7 @@
           "level": 1,
           "name": "Hối Hận",
           "abName": "Sát Nhân Bị Vứt Bỏ",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu chủ thể có hiệu ứng bất lợi, Phạm Vi Tấn Công +1",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nếu chủ thể có hiệu ứng bất lợi, Phạm Vi Tấn Công +1",
           "coinlist": [
             {
               "coindescs": [
@@ -84,7 +84,7 @@
           "level": 3,
           "name": "Hối Hận",
           "abName": "Sát Nhân Bị Vứt Bỏ",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu chủ thể có hiệu ứng bất lợi, Phạm Vi Tấn Công +1",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nếu chủ thể có hiệu ứng bất lợi, Phạm Vi Tấn Công +1",
           "coinlist": [
             {
               "coindescs": [
@@ -102,7 +102,7 @@
           "level": 4,
           "name": "Hối Hận",
           "abName": "Sát Nhân Bị Vứt Bỏ",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nếu chủ thể có hiệu ứng bất lợi, Phạm Vi Tấn Công +<style=\"highlight\">2</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nếu chủ thể có hiệu ứng bất lợi, Phạm Vi Tấn Công +<style=\"highlight\">2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -175,7 +175,7 @@
           "level": 1,
           "name": "Sấm Sét Oán Than",
           "abName": "Cừu Điện Mộng Mơ",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa 2)\n[BeforeAttack] Nếu chủ thể có 10+ Tầng [Charge], tiêu thụ tối đa 20 Tầng [Charge]; +2% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 40%)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa 2)\n[BeforeAttack] Nếu chủ thể có 10+ Tầng [Charge], tiêu thụ tối đa 20 Tầng [Charge]; +2% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 40%)",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
           "level": 3,
           "name": "Sấm Sét Oán Than",
           "abName": "Cừu Điện Mộng Mơ",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] Nếu chủ thể có 10+ Tầng [Charge], tiêu thụ tối đa 20 Tầng [Charge]; +<style=\"highlight\">2.5</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">50</style>%)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] Nếu chủ thể có 10+ Tầng [Charge], tiêu thụ tối đa 20 Tầng [Charge]; +<style=\"highlight\">2.5</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">50</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 4,
           "name": "Sấm Sét Oán Than",
           "abName": "Cừu Điện Mộng Mơ",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa 3)\n<style=\"highlight\">[BeforeAttack] Ở mốc 10+ Tầng [Charge], Các hiệu ứng 'Đánh Trúng' được gây hai lần</style>\n[BeforeAttack] Nếu chủ thể có 10+ Tầng [Charge], tiêu thụ tối đa 20 Tầng [Charge]; +<style=\"highlight\">3</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận Phạm Vi Tấn Công bằng (Đố Kỵ Cộng Hưởng cao nhất - 2) (tối đa 3)\n<style=\"highlight\">[BeforeAttack] Ở mốc 10+ Tầng [Charge], Các hiệu ứng 'Đánh Trúng' được gây hai lần</style>\n[BeforeAttack] Nếu chủ thể có 10+ Tầng [Charge], tiêu thụ tối đa 20 Tầng [Charge]; +<style=\"highlight\">3</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -389,7 +389,7 @@
           "level": 1,
           "name": "Mircalla - Khao Khát",
           "abName": "Bốn Trăm Đóa Hồng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Tiêu thụ tối đa 10% HP Tối Đa của chủ thể và gây sát thương bằng (HP đã tiêu thụ / 2) lên toàn bộ kẻ địch và đồng minh\n- Khi HP của chủ thể dưới 50%, đổi thành gây và kích hoạt 5 [Laceration] lên toàn bộ đồng minh một lần (mất 1 Tầng [Laceration]). Hồi HP bằng lượng sát thương [Laceration] đã gây lên đồng minh",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[WhenUse] Tiêu thụ tối đa 10% HP Tối Đa của chủ thể và gây sát thương bằng (HP đã tiêu thụ / 2) lên toàn bộ kẻ địch và đồng minh\n- Khi HP của chủ thể dưới 50%, đổi thành gây và kích hoạt 5 [Laceration] lên toàn bộ đồng minh một lần (mất 1 Tầng [Laceration]). Hồi HP bằng lượng sát thương [Laceration] đã gây lên đồng minh",
           "coinlist": [
             {
               "coindescs": [
@@ -437,7 +437,7 @@
           "level": 3,
           "name": "Mircalla - Khao Khát",
           "abName": "Bốn Trăm Đóa Hồng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Ở mốc 6+ ([Laceration] trên chủ thể + [Laceration] trên mục tiêu), Sức Mạnh Xu +1</style>\n[WhenUse] Tiêu thụ tối đa 10% HP Tối Đa của chủ thể và gây sát thương bằng (HP đã tiêu thụ / 2) lên toàn bộ kẻ địch và đồng minh\n- Khi HP của chủ thể dưới 50%, đổi thành gây và kích hoạt 5 [Laceration] lên toàn bộ đồng minh một lần (mất 1 Tầng [Laceration]). Hồi HP bằng lượng sát thương [Laceration] đã gây lên đồng minh",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">Ở mốc 6+ ([Laceration] trên chủ thể + [Laceration] trên mục tiêu), Sức Mạnh Xu +1</style>\n[WhenUse] Tiêu thụ tối đa 10% HP Tối Đa của chủ thể và gây sát thương bằng (HP đã tiêu thụ / 2) lên toàn bộ kẻ địch và đồng minh\n- Khi HP của chủ thể dưới 50%, đổi thành gây và kích hoạt 5 [Laceration] lên toàn bộ đồng minh một lần (mất 1 Tầng [Laceration]). Hồi HP bằng lượng sát thương [Laceration] đã gây lên đồng minh",
           "coinlist": [
             {
               "coindescs": [
@@ -485,7 +485,7 @@
           "level": 4,
           "name": "Mircalla - Khao Khát",
           "abName": "Bốn Trăm Đóa Hồng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nSức Mạnh Xu +1 với mỗi 6 ([Laceration] trên chủ thể + [Laceration] trên mục tiêu) <style=\"highlight\">(tối đa 3)</style>\n[WhenUse] Tiêu thụ tối đa 10% HP Tối Đa của chủ thể và gây sát thương bằng (HP đã tiêu thụ / 2) lên toàn bộ kẻ địch và đồng minh\n- Khi HP của chủ thể dưới 50%, đổi thành gây và kích hoạt 5 [Laceration] lên toàn bộ đồng minh (mất 1 Tầng [Laceration]). Hồi HP bằng lượng sát thương [Laceration] đã gây lên đồng minh",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nSức Mạnh Xu +1 với mỗi 6 ([Laceration] trên chủ thể + [Laceration] trên mục tiêu) <style=\"highlight\">(tối đa 3)</style>\n[WhenUse] Tiêu thụ tối đa 10% HP Tối Đa của chủ thể và gây sát thương bằng (HP đã tiêu thụ / 2) lên toàn bộ kẻ địch và đồng minh\n- Khi HP của chủ thể dưới 50%, đổi thành gây và kích hoạt 5 [Laceration] lên toàn bộ đồng minh (mất 1 Tầng [Laceration]). Hồi HP bằng lượng sát thương [Laceration] đã gây lên đồng minh",
           "coinlist": [
             {
               "coindescs": [
@@ -699,7 +699,7 @@
           "level": 1,
           "name": "Quá Khứ Bị Nghiền Nát",
           "abName": "Máy Vận Chuyển Hơi Nước",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n+10% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n- Nếu đó là Lười Biếng Cộng Hưởng, đổi thành +20% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n[BeforeAttack] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt chẵn, +12% sát thương gây ra",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n+10% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n- Nếu đó là Lười Biếng Cộng Hưởng, đổi thành +20% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n[BeforeAttack] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt chẵn, +12% sát thương gây ra",
           "coinlist": [
             {
               "coindescs": [
@@ -729,7 +729,7 @@
           "level": 3,
           "name": "Quá Khứ Bị Nghiền Nát",
           "abName": "Máy Vận Chuyển Hơi Nước",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n+10% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n- Nếu đó là Lười Biếng Cộng Hưởng, đổi thành +20% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n<style=\"highlight\">[BeforeAttack] Nếu mục tiêu chính có 30+ ([Vibration] + Tầng [Vibration]), nhận +2 Phạm Vi Tấn Công</style>\n[BeforeAttack] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt chẵn, +12% sát thương gây ra",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n+10% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n- Nếu đó là Lười Biếng Cộng Hưởng, đổi thành +20% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n<style=\"highlight\">[BeforeAttack] Nếu mục tiêu chính có 30+ ([Vibration] + Tầng [Vibration]), nhận +2 Phạm Vi Tấn Công</style>\n[BeforeAttack] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt chẵn, +12% sát thương gây ra",
           "coinlist": [
             {
               "coindescs": [
@@ -759,7 +759,7 @@
           "level": 4,
           "name": "Quá Khứ Bị Nghiền Nát",
           "abName": "Máy Vận Chuyển Hơi Nước",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n+10% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n- Nếu đó là Lười Biếng Cộng Hưởng, đổi thành +20% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n[BeforeAttack] Nếu mục tiêu chính có 30+ ([Vibration] + Tầng [Vibration]), nhận +2 Phạm Vi Tấn Công\n[BeforeAttack] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt chẵn, +12% sát thương gây ra\n<style=\"highlight\">[EndSkill] hồi ([AccumulatedPastSinner] x 3)% HP</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n+10% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n- Nếu đó là Lười Biếng Cộng Hưởng, đổi thành +20% sát thương gây ra với mỗi Cộng Hưởng cao nhất (tối đa 100%)\n[BeforeAttack] Nếu mục tiêu chính có 30+ ([Vibration] + Tầng [Vibration]), nhận +2 Phạm Vi Tấn Công\n[BeforeAttack] Khi kích hoạt (Lười Biếng Cộng Hưởng) là số chẵn trong lượt lẻ, hoặc khi kích hoạt (Lười Biếng Cộng Hưởng) là số lẻ trong lượt chẵn, +12% sát thương gây ra\n<style=\"highlight\">[EndSkill] hồi ([AccumulatedPastSinner] x 3)% HP</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -865,7 +865,7 @@
           "level": 1,
           "name": "Ảnh Y Kiếm Vũ [着影揮刀]",
           "abName": "Geseundae",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n\nSức Mạnh Giao Tranh +2 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là 8 và 12%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +60% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +120% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -8)\n[BeforeAttack] Toàn bộ kẻ địch và đồng minh nhận +4 Tầng [Breath], 1 [SlashDamageUp] và 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n\nSức Mạnh Giao Tranh +2 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là 8 và 12%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +60% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +120% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -8)\n[BeforeAttack] Toàn bộ kẻ địch và đồng minh nhận +4 Tầng [Breath], 1 [SlashDamageUp] và 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
           "coinlist": [
             {
               "coindescs": [
@@ -922,7 +922,7 @@
           "level": 3,
           "name": "Ảnh Y Kiếm Vũ [着影揮刀]",
           "abName": "Geseundae",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n\nSức Mạnh Giao Tranh +2 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là <style=\"highlight\">12</style> và <style=\"highlight\">24</style>%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +<style=\"highlight\">80</style>% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +<style=\"highlight\">160</style>% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -8)\n[BeforeAttack] Toàn bộ kẻ địch và đồng minh nhận +4 Tầng [Breath], 1 [SlashDamageUp] và 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n\nSức Mạnh Giao Tranh +2 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là <style=\"highlight\">12</style> và <style=\"highlight\">24</style>%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +<style=\"highlight\">80</style>% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +<style=\"highlight\">160</style>% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -8)\n[BeforeAttack] Toàn bộ kẻ địch và đồng minh nhận +4 Tầng [Breath], 1 [SlashDamageUp] và 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
           "coinlist": [
             {
               "coindescs": [
@@ -979,7 +979,7 @@
           "level": 4,
           "name": "Ảnh Y Kiếm Vũ [着影揮刀]",
           "abName": "Geseundae",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n\nSức Mạnh Giao Tranh +2 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là <style=\"highlight\">16</style> và <style=\"highlight\">30</style>%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +<style=\"highlight\">100</style>% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +<style=\"highlight\">200</style>% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -8)\n[BeforeAttack] Toàn bộ kẻ địch và đồng minh nhận +4 Tầng [Breath], 1 [SlashDamageUp] và 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n\nSức Mạnh Giao Tranh +2 và +6% sát thương gây ra với mỗi 4 [Breath] trên chủ thể (tối đa lần lượt là <style=\"highlight\">16</style> và <style=\"highlight\">30</style>%)\n\nNếu chủ thể đã nhận [AlcoholKimPersonal] trong Ải này, +<style=\"highlight\">100</style>% sát thương gây lên mục tiêu chính\n- Sư Phụ Gia Tộc Kiếm Sư Meursault thì đổi thành +<style=\"highlight\">200</style>% sát thương gây lên mục tiêu chính\n\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -8)\n[BeforeAttack] Toàn bộ kẻ địch và đồng minh nhận +4 Tầng [Breath], 1 [SlashDamageUp] và 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Danh Tính đồng minh khác thuộc Gia Tộc Kiếm Sư có SP thấp nhất hồi 10 SP\n[EndSkill] Nhận 4 [AlcoholKimPersonal] vào lượt kế",
           "coinlist": [
             {
               "coindescs": [

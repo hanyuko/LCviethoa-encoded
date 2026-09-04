@@ -56,6 +56,27 @@
               ]
             }
           ]
+        },
+        {
+          "level": 5,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "<style=\"highlight\">Nếu HP của mục tiêu dưới 25%, +40% sát thương gây ra\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n\n[EndSkill] Gán 1 [GainSinStockAdder] cho (2 + Cộng Hưởng cao nhất) đồng minh ngẫu nhiên vào lượt kế, tính cả chủ thể (tối đa 7)\n[EndSkill] Nếu có đơn vị bị Choáng hoặc Hoảng Loạn trong số mục tiêu, nhận 1 tài nguyên E.G.O của Nguyên Tội đang sở hữu ít nhất; hồi 3 SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 4 [Vibration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận 3 tài nguyên E.G.O của Nguyên Tội ngẫu nhiên hiện tại đang sở hữu; Toàn bộ đồng minh hồi 3 SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -66,7 +87,7 @@
           "level": 1,
           "name": "Nước Có Ga",
           "abName": "Wellcheers",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên",
           "coinlist": [
             {
               "coindescs": [
@@ -84,7 +105,7 @@
           "level": 3,
           "name": "Nước Có Ga",
           "abName": "Wellcheers",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên",
           "coinlist": [
             {
               "coindescs": [
@@ -102,7 +123,7 @@
           "level": 4,
           "name": "Nước Có Ga",
           "abName": "Wellcheers",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên",
           "coinlist": [
             {
               "coindescs": [
@@ -111,6 +132,33 @@
                 },
                 {
                   "desc": "[EndSkill] Toàn bộ đồng minh nhận +1 [GainSinStockAdder]; <style=\"highlight\">Gán 1 [Agility] vào lượt kế</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Nước Có Ga",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n\n<style=\"highlight\">Nếu HP của mục tiêu dưới 25%, +40% sát thương gây ra\n[DefeatDuel] Sức Mạnh Gốc -12\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[EndSkill] Nếu có đơn vị bị Choáng hoặc Hoảng Loạn trong số mục tiêu, nhận 1 tài nguyên E.G.O của Nguyên Tội đang sở hữu ít nhất; hồi 3 SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 4 [Vibration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Toàn bộ đồng minh nhận 1 [GainSinStockAdder], gán 1 [Agility] vào lượt kế<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillTail] Toàn bộ đồng minh nhận 1 [GainSinStockAdder] vào lượt kế (một lần mỗi lượt)</style>"
                 }
               ]
             }
@@ -184,7 +232,7 @@
           "level": 1,
           "name": "Ám Ảnh Mù Quáng",
           "abName": "Phù Sa Nuốt Mộng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 4 [Breath]. Tiêu thụ 2 Tầng [Charge] để nhận 1 [Breath] (Tối Đa 10)\n[EndSkill] Nhận +4 Tầng [Charge] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận 4 [Breath]. Tiêu thụ 2 Tầng [Charge] để nhận 1 [Breath] (Tối Đa 10)\n[EndSkill] Nhận +4 Tầng [Charge] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
           "coinlist": [
             {
               "coindescs": [
@@ -199,7 +247,7 @@
           "level": 3,
           "name": "Ám Ảnh Mù Quáng",
           "abName": "Phù Sa Nuốt Mộng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 4 [Breath]. Tiêu thụ 2 Tầng [Charge] để nhận 1 [Breath] (Tối Đa 10)\n[EndSkill] Nhận +4 Tầng [Charge] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận 4 [Breath]. Tiêu thụ 2 Tầng [Charge] để nhận 1 [Breath] (Tối Đa 10)\n[EndSkill] Nhận +4 Tầng [Charge] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
           "coinlist": [
             {
               "coindescs": [
@@ -214,7 +262,7 @@
           "level": 4,
           "name": "Ám Ảnh Mù Quáng",
           "abName": "Phù Sa Nuốt Mộng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 4 [Breath]. Tiêu thụ 2 Tầng [Charge] để nhận 1 [Breath] (Tối Đa 10)\n[EndSkill] Nhận +4 Tầng [Charge] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận 4 [Breath]. Tiêu thụ 2 Tầng [Charge] để nhận 1 [Breath] (Tối Đa 10)\n[EndSkill] Nhận +4 Tầng [Charge] với mỗi kẻ địch bị Kỹ Năng này đánh bại",
           "coinlist": [
             {
               "coindescs": [
@@ -290,7 +338,7 @@
           "level": 1,
           "name": "Khinh, Lẫm",
           "abName": "Vòng Xoáy Khinh Miệt",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 7 [GazePersonality]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận 7 [GazePersonality]",
           "coinlist": [
             {
               "coindescs": [
@@ -311,7 +359,7 @@
           "level": 3,
           "name": "Khinh, Lẫm",
           "abName": "Vòng Xoáy Khinh Miệt",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 7 [GazePersonality]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận 7 [GazePersonality]",
           "coinlist": [
             {
               "coindescs": [
@@ -332,7 +380,7 @@
           "level": 4,
           "name": "Khinh, Lẫm",
           "abName": "Vòng Xoáy Khinh Miệt",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] Nếu Kỹ Năng này là một phần của Dục Vọng Cộng Hưởng, nhận 1 tài nguyên E.G.O thuộc các Nguyên Tội tương ứng với từng Kỹ năng Tấn công của chủ thể</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] Nếu Kỹ Năng này là một phần của Dục Vọng Cộng Hưởng, nhận 1 tài nguyên E.G.O thuộc các Nguyên Tội tương ứng với từng Kỹ năng Tấn công của chủ thể</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -631,7 +679,7 @@
           "level": 1,
           "name": "Tam Thiên Đại Thế Giới [三千大世界]",
           "abName": "La Sinh Điệp [羅生蝶]",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Tiêu thụ tối đa 20 [Breath] vượt ngưỡng 20 [Breath] trên chủ thể, và với mỗi [Breath] đã tiêu thụ, hồi 1% HP Tối Đa (tối thiểu 1 HP) và +1% sát thương gây ra cho Kỹ Năng này\n[BeforeAttack] Nhận +3 Tầng [Breath]\n[BeforeAttack] Ở mốc 999 [RyoshuEGOPF], Sức Mạnh Gốc +1\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n\n[EndSkill] Nhận 10 [RyoshuEGOPF]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Tiêu thụ tối đa 20 [Breath] vượt ngưỡng 20 [Breath] trên chủ thể, và với mỗi [Breath] đã tiêu thụ, hồi 1% HP Tối Đa (tối thiểu 1 HP) và +1% sát thương gây ra cho Kỹ Năng này\n[BeforeAttack] Nhận +3 Tầng [Breath]\n[BeforeAttack] Ở mốc 999 [RyoshuEGOPF], Sức Mạnh Gốc +1\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n\n[EndSkill] Nhận 10 [RyoshuEGOPF]",
           "coinlist": [
             {
               "coindescs": [
@@ -673,7 +721,7 @@
           "level": 3,
           "name": "Tam Thiên Đại Thế Giới [三千大世界]",
           "abName": "La Sinh Điệp [羅生蝶]",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Tiêu thụ tối đa 20 [Breath] vượt ngưỡng 20 [Breath] trên chủ thể, và với mỗi [Breath] đã tiêu thụ, hồi 1% HP Tối Đa (tối thiểu 1 HP) và +1% sát thương gây ra cho Kỹ Năng này\n[BeforeAttack] Nhận +3 Tầng [Breath]\n[BeforeAttack] Ở mốc 999 [RyoshuEGOPF], Sức Mạnh Gốc <style=\"highlight\">+2</style>\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n\n[EndSkill] Nhận <style=\"highlight\">20</style> [RyoshuEGOPF]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Tiêu thụ tối đa 20 [Breath] vượt ngưỡng 20 [Breath] trên chủ thể, và với mỗi [Breath] đã tiêu thụ, hồi 1% HP Tối Đa (tối thiểu 1 HP) và +1% sát thương gây ra cho Kỹ Năng này\n[BeforeAttack] Nhận +3 Tầng [Breath]\n[BeforeAttack] Ở mốc 999 [RyoshuEGOPF], Sức Mạnh Gốc <style=\"highlight\">+2</style>\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n\n[EndSkill] Nhận <style=\"highlight\">20</style> [RyoshuEGOPF]",
           "coinlist": [
             {
               "coindescs": [
@@ -727,7 +775,7 @@
           "level": 4,
           "name": "Tam Thiên Đại Thế Giới [三千大世界]",
           "abName": "La Sinh Điệp [羅生蝶]",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Tiêu thụ tối đa 20 [Breath] vượt ngưỡng 20 [Breath] trên chủ thể, và với mỗi [Breath] đã tiêu thụ, hồi 1% HP Tối Đa (tối thiểu 1 HP) và +1% sát thương gây ra cho Kỹ Năng này\n[BeforeAttack] Nhận <style=\"highlight\">+5</style> Tầng [Breath]\n[BeforeAttack] Ở mốc 999 [RyoshuEGOPF], Sức Mạnh Gốc <style=\"highlight\">+3</style>\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n\n[EndSkill] Nhận <style=\"highlight\">33</style> [RyoshuEGOPF]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Tiêu thụ tối đa 20 [Breath] vượt ngưỡng 20 [Breath] trên chủ thể, và với mỗi [Breath] đã tiêu thụ, hồi 1% HP Tối Đa (tối thiểu 1 HP) và +1% sát thương gây ra cho Kỹ Năng này\n[BeforeAttack] Nhận <style=\"highlight\">+5</style> Tầng [Breath]\n[BeforeAttack] Ở mốc 999 [RyoshuEGOPF], Sức Mạnh Gốc <style=\"highlight\">+3</style>\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n\n[EndSkill] Nhận <style=\"highlight\">33</style> [RyoshuEGOPF]",
           "coinlist": [
             {
               "coindescs": [

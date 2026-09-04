@@ -89,7 +89,7 @@
     {
       "id": 2070211,
       "name": "Gầm",
-      "desc": "Khi Giết Địch, nhận +(Đố Kỵ Cộng Hưởng Tuyệt Đối của lượt đó / 2) Tầng [Charge]"
+      "desc": "Khi Kết Liễu, nhận +(Đố Kỵ Cộng Hưởng Tuyệt Đối của lượt đó / 2) Tầng [Charge]"
     },
     {
       "id": 2080111,
@@ -240,7 +240,12 @@
     {
       "id": 2040511,
       "name": "Lon Đã Mở",
-      "desc": "Đánh Trúng, nếu mục tiêu có 5+ [Sinking], gây 1 [Disarming]. (5 lần mỗi lượt)"
+      "desc": "Đánh Trúng, nếu mục tiêu có 5+ [Sinking], gây 1 [Disarming] (5 lần mỗi lượt)"
+    },
+    {
+      "id": 2040512,
+      "name": "Lon Đã Mở",
+      "desc": "Đánh Trúng, nếu mục tiêu có 5+ [Sinking], gây 1 [Disarming] (5 lần mỗi lượt)\n\n<style=\"highlight\">Đánh Trúng kẻ địch đang trong trạng thái Choáng hoặc Hoảng Loạn, nhận 1 [AttackUp] vào lượt kế (3 lần mỗi lượt; trong Ải Chuyên Sâu, chỉ tính phần Lõi)</style>"
     },
     {
       "id": 2060411,
@@ -268,6 +273,11 @@
       "desc": "Đánh Trúng - Xu Ngửa bằng Kỹ Năng nguyên tội Dục Vọng, gây 1 [Combustion] lên kẻ địch (6 lần mỗi lượt)"
     },
     {
+      "id": 2020512,
+      "name": "Hỏa Ấn",
+      "desc": "Đánh Trúng - Xu Ngửa bằng Kỹ Năng <style=\"highlight\">Phẫn Nộ hoặc</style> Dục Vọng, gây 1 [Combustion] (6 lần mỗi lượt)\n<style=\"highlight\">- Nếu mục tiêu đã đạt tối đa Lượng [Combustion], đổi thành gây 1 [DefenseDown]\n\nKhi Dùng Kỹ Năng Cơ Bản Phàm Ăn, nhận 1 tài nguyên E.G.O Phàm Ăn (một lần mỗi lượt)</style>"
+    },
+    {
       "id": 2060511,
       "name": "Chất Nhầy Xanh",
       "desc": "Nếu bị đánh trúng khi HP dưới 50%, gây 1 [Burst] lên kẻ tấn công. (Kích hoạt (Phàm Ăn Cộng Hưởng Tuyệt Đối Cao Nhất) lần mỗi lượt)"
@@ -290,7 +300,7 @@
     {
       "id": 2100511,
       "name": "Điềm Báo Tận Diệt",
-      "desc": "Khi Kỹ Năng nguyên tội Dục Vọng Đánh Trúng - Xu Ngửa, giảm 4 SP của chủ thể và mục tiêu.\n(Không hoạt động với mục tiêu không có SP)\nNhận 5 tài nguyên E.G.O Dục Vọng Khi Giết Địch bằng Kỹ Năng nguyên tội Dục Vọng"
+      "desc": "Khi Kỹ Năng nguyên tội Dục Vọng Đánh Trúng - Xu Ngửa, giảm 4 SP của chủ thể và mục tiêu.\n(Không hoạt động với mục tiêu không có SP)\nNhận 5 tài nguyên E.G.O Dục Vọng Khi Kết Liễu bằng Kỹ Năng nguyên tội Dục Vọng"
     },
     {
       "id": 2090511,
@@ -555,7 +565,7 @@
     {
       "id": 2100911,
       "name": "Đó... Quả Thật là một Giai Điệu đấy",
-      "desc": "Đầu Lượt: Nhận 2 [ThatIsRhythm]\n\nKhi Giết: Chủ thể hồi 5% HP và 5 SP (một lần mỗi lượt)\n- Nếu mục tiêu bị Kỹ Năng E.G.O - Hòa Âm giết, gấp đôi lượng hồi của hiệu ứng này\n\nCuối Lượt: Nếu chủ thể đã mất SP trong lượt này, hồi (4 + tổng [Combustion] và [Laceration] trên toàn bộ kẻ địch / 10) SP (tối đa 10; làm tròn xuống)"
+      "desc": "Đầu Lượt: Nhận 2 [ThatIsRhythm]\n\nKhi Kết Liễu: Chủ thể hồi 5% HP và 5 SP (một lần mỗi lượt)\n- Nếu mục tiêu bị Kỹ Năng E.G.O - Hòa Âm giết, gấp đôi lượng hồi của hiệu ứng này\n\nCuối Lượt: Nếu chủ thể đã mất SP trong lượt này, hồi (4 + tổng [Combustion] và [Laceration] trên toàn bộ kẻ địch / 10) SP (tối đa 10; làm tròn xuống)"
     },
     {
       "id": 2021011,
@@ -600,6 +610,11 @@
       "name": "Ném Canh Hầm",
       "desc": "Đánh Trúng - Xu Úp, gây 1 [Combustion] nếu mục tiêu là kẻ địch\n\n<style=\"highlight\">Khi dùng Kỹ Năng Tấn Công Cơ Bản gây Lượng hoặc Tầng [Combustion] lên kẻ địch,\n\n- Với Kỹ Năng Xu Dương:\n· Nếu SP dưới 40, hồi 4 SP\n· Nếu SP ≥ 40, +10% sát thương gây ra\n\n- Với Kỹ Năng Xu Âm:\n· Nếu SP cao hơn -25, mất 4 SP (hiệu ứng này không thể giảm SP của chủ thể xuống dưới -40)\n· Nếu SP ≤ -25, +10% sát thương gây ra</style>",
       "summary": "Đánh Trúng - Xu Úp, gây [Combustion] lên mục tiêu. Chủ thể hồi hoặc mất SP; hoặc gây thêm sát thương"
+    },
+    {
+      "id": 2121011,
+      "name": "Quy Trình Chuyển Đổi Nhập Cảnh",
+      "desc": "Ở mốc 3+ Cộng Hưởng cao nhất: Khi Đánh Trúng bằng Kỹ Năng, gây 1 [Binding] lên mục tiêu chính vào lượt kế (1 lần mỗi lượt)\n\nỞ mốc 3+ Lượng [Charge], các Kỹ Năng Cơ Bản dưới đây +10% sát thương gây ra:\n- Kỹ Năng Cơ Bản có tiêu hoặc nhận Tầng [Charge]\n- Kỹ Năng Cơ Bản gây Lượng hoặc Tầng [Combustion] lên kẻ địch"
     }
   ]
 }

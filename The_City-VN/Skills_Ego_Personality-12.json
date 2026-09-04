@@ -57,7 +57,7 @@
           "level": 1,
           "name": "Vườn Hồng Gai",
           "abName": "Vườn Hồng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, Phạm Vi Tấn Công +1",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, Phạm Vi Tấn Công +1",
           "coinlist": [
             {
               "coindescs": [
@@ -75,7 +75,7 @@
           "level": 3,
           "name": "Vườn Hồng Gai",
           "abName": "Vườn Hồng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] <style=\"highlight\">Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] <style=\"highlight\">Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -93,7 +93,7 @@
           "level": 4,
           "name": "Vườn Hồng Gai",
           "abName": "Vườn Hồng",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 3)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nhận (Cộng Hưởng cao nhất - 2) Phạm Vi Tấn Công (tối đa 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -160,7 +160,7 @@
           "level": 1,
           "name": "Tháng Ngày Đã Qua",
           "abName": "Chân Dung Ngày Định Mệnh",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên",
           "coinlist": [
             {
               "coindescs": [
@@ -181,7 +181,7 @@
           "level": 3,
           "name": "Tháng Ngày Đã Qua",
           "abName": "Chân Dung Ngày Định Mệnh",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên",
           "coinlist": [
             {
               "coindescs": [
@@ -202,7 +202,7 @@
           "level": 4,
           "name": "Tháng Ngày Đã Qua",
           "abName": "Chân Dung Ngày Định Mệnh",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Nếu mục tiêu có [Curse], +50% sát thương gây ra</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">Nếu mục tiêu có [Curse], +50% sát thương gây ra</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -338,7 +338,7 @@
           "level": 1,
           "name": "Âm Vang Tiễn Biệt",
           "abName": "Lễ Tang Tử Điệp",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, SP càng thấp thì sát thương gây ra càng cao (+1% với mỗi SP dưới 0, tối đa 45%)\nĐối với mục tiêu không có SP: +1% sát thương gây ra với mỗi 2 [Sinking] trên mục tiêu (tối đa 45%)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, SP càng thấp thì sát thương gây ra càng cao (+1% với mỗi SP dưới 0, tối đa 45%)\nĐối với mục tiêu không có SP: +1% sát thương gây ra với mỗi 2 [Sinking] trên mục tiêu (tối đa 45%)",
           "coinlist": [
             {
               "coindescs": [
@@ -356,7 +356,7 @@
           "level": 3,
           "name": "Âm Vang Tiễn Biệt",
           "abName": "Lễ Tang Tử Điệp",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, SP càng thấp thì sát thương gây ra càng cao (+1% với mỗi SP dưới 0, tối đa 45%)\nĐối với mục tiêu không có SP: +1% sát thương gây ra với mỗi 2 [Sinking] trên mục tiêu (tối đa 45%)\n<style=\"highlight\">[EnemyKill] Hồi 5 SP</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, SP càng thấp thì sát thương gây ra càng cao (+1% với mỗi SP dưới 0, tối đa 45%)\nĐối với mục tiêu không có SP: +1% sát thương gây ra với mỗi 2 [Sinking] trên mục tiêu (tối đa 45%)\n<style=\"highlight\">[EnemyKill] Hồi 5 SP</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -377,7 +377,7 @@
           "level": 4,
           "name": "Âm Vang Tiễn Biệt",
           "abName": "Lễ Tang Tử Điệp",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, SP càng thấp thì sát thương gây ra càng cao (+1% với mỗi SP dưới 0, tối đa 45%)\nĐối với mục tiêu không có SP: +1% sát thương gây ra với mỗi 2 [Sinking] trên mục tiêu (tối đa 45%)\n[EnemyKill] Hồi 5 SP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, SP càng thấp thì sát thương gây ra càng cao (+1% với mỗi SP dưới 0, tối đa 45%)\nĐối với mục tiêu không có SP: +1% sát thương gây ra với mỗi 2 [Sinking] trên mục tiêu (tối đa 45%)\n[EnemyKill] Hồi 5 SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -501,7 +501,7 @@
           "level": 1,
           "name": "Ác Mộng Đêm Giáng Sinh",
           "abName": "Giường Ngủ Ấm Êm",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[BeforeAttack] Hồi 10 HP cho bản thân\n[EndSkill] Khi HP đạt mức tối đa, hồi 10 SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Hồi 10 HP cho bản thân\n[EndSkill] Khi HP đạt mức tối đa, hồi 10 SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
           "coinlist": [
             {
               "coindescs": [
@@ -529,7 +529,7 @@
           "level": 3,
           "name": "Ác Mộng Đêm Giáng Sinh",
           "abName": "Giường Ngủ Ấm Êm",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Nếu SP của mục tiêu thấp hơn 0, +1% sát thương gây ra với mỗi SP dưới 0 (tối đa 45%)</style>\n[BeforeAttack] Hồi 10 HP cho bản thân\n[EndSkill] Khi HP đạt mức tối đa, hồi <style=\"highlight\">15</style> SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">Nếu SP của mục tiêu thấp hơn 0, +1% sát thương gây ra với mỗi SP dưới 0 (tối đa 45%)</style>\n[BeforeAttack] Hồi 10 HP cho bản thân\n[EndSkill] Khi HP đạt mức tối đa, hồi <style=\"highlight\">15</style> SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
           "coinlist": [
             {
               "coindescs": [
@@ -560,7 +560,7 @@
           "level": 4,
           "name": "Ác Mộng Đêm Giáng Sinh",
           "abName": "Giường Ngủ Ấm Êm",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, +1% sát thương gây ra với mỗi SP dưới 0 (tối đa 45%)\n[BeforeAttack] Hồi 10 HP cho bản thân\n[EndSkill] Khi HP đạt mức tối đa, hồi <style=\"highlight\">20</style> SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu SP của mục tiêu thấp hơn 0, +1% sát thương gây ra với mỗi SP dưới 0 (tối đa 45%)\n[BeforeAttack] Hồi 10 HP cho bản thân\n[EndSkill] Khi HP đạt mức tối đa, hồi <style=\"highlight\">20</style> SP vào Cuối Lượt và nhận 1 [Enhancement] vào lượt kế",
           "coinlist": [
             {
               "coindescs": [
@@ -747,7 +747,7 @@
           "level": 1,
           "name": "Vinh Quang Phai Mờ - Bất Diệt",
           "abName": "Młynar",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n[WhenUse] Ở mốc 40 [MlynarWaiting], Sức Mạnh Gốc +1\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Nhận (Số Lớp đã tiêu thụ / 10) [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu Cuối +110% sát thương gây ra và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +3% sát thương gây ra với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -16)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu 40 Lớp [MlynarWaiting] đã được tiêu thụ do Kỹ Năng này, Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +8 [Aggro] vào lượt kế (một lần mỗi lượt)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[WhenUse] Ở mốc 40 [MlynarWaiting], Sức Mạnh Gốc +1\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Nhận (Số Lớp đã tiêu thụ / 10) [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu Cuối +110% sát thương gây ra và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +3% sát thương gây ra với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -16)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu 40 Lớp [MlynarWaiting] đã được tiêu thụ do Kỹ Năng này, Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +8 [Aggro] vào lượt kế (một lần mỗi lượt)",
           "coinlist": [
             {
               "coindescs": [
@@ -792,7 +792,7 @@
           "level": 3,
           "name": "Vinh Quang Phai Mờ - Bất Diệt",
           "abName": "Młynar",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\n<style=\"highlight\">Khi tấn công 3+ mục tiêu: Nếu Xu 1~3 đánh trúng mà không bị Nứt, Xu Cuối +25% sát thương gây ra (một lần mỗi Xu; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)</style>\n[WhenUse] Ở mốc 40 [MlynarWaiting], Sức Mạnh Gốc +1\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Nhận (Số Lớp đã tiêu thụ / 10) [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu Cuối +<style=\"highlight\">130</style>% sát thương gây ra và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +3% sát thương gây ra với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -16)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu 40 Lớp [MlynarWaiting] đã được tiêu thụ do Kỹ Năng này, Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +8 [Aggro] vào lượt kế (một lần mỗi lượt)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">Khi tấn công 3+ mục tiêu: Nếu Xu 1~3 đánh trúng mà không bị Nứt, Xu Cuối +25% sát thương gây ra (một lần mỗi Xu; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)</style>\n[WhenUse] Ở mốc 40 [MlynarWaiting], Sức Mạnh Gốc +1\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Nhận (Số Lớp đã tiêu thụ / 10) [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu Cuối +<style=\"highlight\">130</style>% sát thương gây ra và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +3% sát thương gây ra với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -16)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu 40 Lớp [MlynarWaiting] đã được tiêu thụ do Kỹ Năng này, Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +8 [Aggro] vào lượt kế (một lần mỗi lượt)",
           "coinlist": [
             {
               "coindescs": [
@@ -837,7 +837,7 @@
           "level": 4,
           "name": "Vinh Quang Phai Mờ - Bất Diệt",
           "abName": "Młynar",
-          "desc": "[CantIdentify]\nCông Kích Ngẫu Nhiên\nKhi tấn công 3+ mục tiêu: Nếu Xu 1~3 đánh trúng mà không bị Nứt, Xu Cuối gây +<style=\"highlight\">30</style>% sát thương (một lần mỗi Xu; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)\n[WhenUse] Ở mốc 40 [MlynarWaiting], Sức Mạnh Gốc +1\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Nhận (Số Lớp đã tiêu thụ / 10) [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu Cuối +<style=\"highlight\">160</style>% sát thương gây ra và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +3% sát thương gây ra với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -16)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu 40 Lớp [MlynarWaiting] đã được tiêu thụ do Kỹ Năng này, Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +8 [Aggro] vào lượt kế (một lần mỗi lượt)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nKhi tấn công 3+ mục tiêu: Nếu Xu 1~3 đánh trúng mà không bị Nứt, Xu Cuối gây +<style=\"highlight\">30</style>% sát thương (một lần mỗi Xu; trong Ải Chuyên Sâu, mỗi Bộ Phận được tính là 1 mục tiêu)\n[WhenUse] Ở mốc 40 [MlynarWaiting], Sức Mạnh Gốc +1\n\n[BeforeAttack] Tiêu thụ toàn bộ [MlynarWaiting] và nhận các hiệu ứng sau (toàn bộ đều làm tròn xuống):\n- Nhận (Số Lớp đã tiêu thụ / 10) [DefenseUp] (một lần mỗi lượt)\n- Nếu tiêu thụ 40 Lớp, Xu Cuối +<style=\"highlight\">160</style>% sát thương gây ra và chủ thể nhận 2 [Protection] (một lần mỗi lượt)\n\n[BeforeAttack] +3% sát thương gây ra với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 15%)\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -16)\n[EndSkill] Nhận 1 [MlynarWaiting]\n[EndBattle] Nếu 40 Lớp [MlynarWaiting] đã được tiêu thụ do Kỹ Năng này, Ô Kỹ Năng bên trái nhất trên Bảng Điều Khiển nhận +8 [Aggro] vào lượt kế (một lần mỗi lượt)",
           "coinlist": [
             {
               "coindescs": [
@@ -873,6 +873,196 @@
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Nếu mục tiêu có 15+ Lượng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2121011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "Nhận Sức Mạnh Xu dựa theo các điều kiện sau (tối đa 3):\n- Sức Mạnh Xu +1 với mỗi 6 Lượng [Combustion] trên mục tiêu chính\n- Nhận Sức Mạnh Xu bằng (Lượng [Charge] trên chủ thể - 1)\n[BeforeAttack] Kỹ Năng này gây thêm +(Lượng [Charge] trên chủ thể - 1) Lượng [Combustion] (tối đa 2)\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 1) Tầng [Charge] (tối đa 7)\n[BeforeAttack] Tiêu thụ tối đa 15 Tầng [Charge] và +1% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [IDMicroChip] hoặc [Binding], gây +2 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "Nhận Sức Mạnh Xu dựa theo các điều kiện sau (tối đa 3):\n- Sức Mạnh Xu +1 với mỗi 6 Lượng [Combustion] trên mục tiêu chính\n- Nhận Sức Mạnh Xu bằng (Lượng [Charge] trên chủ thể - 1)\n[BeforeAttack] Kỹ Năng này gây thêm +(Lượng [Charge] trên chủ thể - 1) Lượng [Combustion] (tối đa 2)\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 1) Tầng [Charge] (tối đa 7)\n<style=\"highlight\">- Ở mốc 3 Tầng [Charge] hoặc thấp hơn, nhận thêm 3 Tầng [Charge]</style>\n[BeforeAttack] Tiêu thụ tối đa 15 Tầng [Charge] và +<style=\"highlight\">2</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">30</style>%)\n<style=\"highlight\">[EndSkill] Nếu hiệu ứng Trước Tấn Công đã tiêu thụ 15 Tầng [Charge], nhận +5 Tầng [Charge]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [IDMicroChip] hoặc [Binding], gây +2 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nhận +2 Tầng [Charge]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [IDMicroChip]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "Nhận Sức Mạnh Xu dựa theo các điều kiện sau (tối đa 3):\n- Sức Mạnh Xu +1 với mỗi 6 Lượng [Combustion] trên mục tiêu chính\n- Nhận Sức Mạnh Xu bằng (Lượng [Charge] trên chủ thể - 1)\n[BeforeAttack] Kỹ Năng này gây thêm +(Lượng [Charge] trên chủ thể - 1) Lượng [Combustion] (tối đa 2)\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 1) Tầng [Charge] (tối đa 7)\n- Ở mốc 3 Tầng [Charge] hoặc thấp hơn, nhận thêm 3 Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa 15 Tầng [Charge] và +<style=\"highlight\">3</style>% sát thương gây ra với mỗi Tầng [Charge] đã tiêu thụ (tối đa <style=\"highlight\">45</style>%)\n[EndSkill] Nếu hiệu ứng Trước Tấn Công đã tiêu thụ 15 Tầng [Charge], nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [IDMicroChip] hoặc [Binding], gây +2 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2121021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNhận Sức Mạnh Xu dựa theo các điều kiện sau (tối đa 3):\n- Sức Mạnh Xu +1 với mỗi 6 Lượng [Combustion] trên mục tiêu chính\n- Nhận Sức Mạnh Xu bằng (Lượng [Charge] trên chủ thể - 1)\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 3) Tầng [Charge] (tối đa 10)\n[BeforeAttack] +(Lượng + Tầng [Charge] - 1)% sát thương gây ra (tối đa 20%)\n[EnemyKill] Nhận +4 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNhận Sức Mạnh Xu dựa theo các điều kiện sau (tối đa 3):\n- Sức Mạnh Xu +1 với mỗi 6 Lượng [Combustion] trên mục tiêu chính\n- Nhận Sức Mạnh Xu bằng (Lượng [Charge] trên chủ thể - 1)\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 3) Tầng [Charge] (tối đa 10)\n[BeforeAttack] +((Lượng + Tầng [Charge] - 1) x <style=\"highlight\">2</style>)% sát thương gây ra (tối đa <style=\"highlight\">40</style>%)\n[EnemyKill]\n- Nhận +4 Tầng [Charge]\n<style=\"highlight\">- Nhận 1 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Tiêu thụ tối đa 8 Tầng [Charge]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu Xu này đã tiêu thụ Tầng [Charge], gây sát thương Đố Kỵ bằng (Tầng [Charge] đã tiêu thụ x 5)% tổng sát thương của Xu này (tối thiểu 5%, tối đa 40%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thông Báo Nhập Cảnh",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNhận Sức Mạnh Xu dựa theo các điều kiện sau (tối đa 3):\n- Sức Mạnh Xu +1 với mỗi 6 Lượng [Combustion] trên mục tiêu chính\n- Nhận Sức Mạnh Xu bằng (Lượng [Charge] trên chủ thể - 1)\n[BeforeAttack] Nhận +(Cộng Hưởng cao nhất + 3) Tầng [Charge] (tối đa 10)\n[BeforeAttack] +((Lượng + Tầng [Charge] - 1) x <style=\"highlight\">3</style>)% sát thương gây ra (tối đa <style=\"highlight\">60</style>%)\n[EnemyKill]\n- Nhận +4 Tầng [Charge]\n- Nhận 1 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+3</style> Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ tối đa 8 Tầng [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu Xu này đã tiêu thụ Tầng [Charge], gây sát thương Đố Kỵ bằng (Tầng [Charge] đã tiêu thụ x 5)% tổng sát thương của Xu này (tối thiểu 5%, tối đa 40%)<style=\"highlight\"></style>"
                 }
               ]
             }

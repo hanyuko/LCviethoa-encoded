@@ -53,6 +53,27 @@
               ]
             }
           ]
+        },
+        {
+          "level": 5,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "<style=\"highlight\">Giảm 1 tài nguyên E.G.O Phàm Ăn cần thiết để dùng Kỹ Năng này</style>\n[BeforeAttack] Ở mốc 4+ (<style=\"highlight\">Cộng Hưởng cao nhất</style>), Phạm Vi Tấn Công +1\nỞ mốc 6+ (<style=\"highlight\">Cộng Hưởng cao nhất</style>), thêm +1 Phạm Vi Tấn Công\n\n<style=\"highlight\">[BeforeAttack] +5% sát thương gây ra với mỗi ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 100%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 5 [DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Chuyển 2 [Combustion] trên mục tiêu thành 1 [DefenseDown] (<style=\"highlight\">tối đa 5; hiệu ứng này không thể làm giảm Lượng [Combustion] của mục tiêu xuống dưới 1)\n- Nếu mục tiêu có ít hơn 10 Lượng [Combustion], chủ thể có thể sử dụng Lượng [Combustion] vượt quá 30 trên bản thân cho hiệu ứng trên</style>"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -63,7 +84,7 @@
           "level": 1,
           "name": "9:2",
           "abName": "Thánh Kinh Xác Thịt",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên",
           "coinlist": [
             {
               "coindescs": [
@@ -81,7 +102,7 @@
           "level": 3,
           "name": "9:2",
           "abName": "Thánh Kinh Xác Thịt",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), Phạm Vi Tấn Công +1</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), Phạm Vi Tấn Công +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -102,7 +123,7 @@
           "level": 4,
           "name": "9:2",
           "abName": "Thánh Kinh Xác Thịt",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), Phạm Vi Tấn Công +1\n<style=\"highlight\">Ở mốc 6+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), tăng thêm +1 Phạm Vi Tấn Công</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), Phạm Vi Tấn Công +1\n<style=\"highlight\">Ở mốc 6+ (Dục Vọng Cộng Hưởng Tuyệt Đối cao nhất), tăng thêm +1 Phạm Vi Tấn Công</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -114,6 +135,33 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Chuyển 2 [Combustion] trên mục tiêu thành 1 [DefenseDown] (tối đa 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "9:2",
+          "abName": "Thánh Kinh Xác Thịt",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">Giảm 1 tài nguyên E.G.O Phàm Ăn cần thiết để dùng Kỹ Năng này</style>\n[BeforeAttack] Ở mốc 4+ (<style=\"highlight\">Cộng Hưởng cao nhất</style>), Phạm Vi Tấn Công +1\nỞ mốc 6+ (<style=\"highlight\">Cộng Hưởng cao nhất</style>), thêm +1 Phạm Vi Tấn Công\n\n<style=\"highlight\">[BeforeAttack] +6% sát thương gây ra với mỗi ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 120%)\n[DefeatDuel] Sức Mạnh Gốc -10</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 5 [DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Chuyển 2 [Combustion] trên mục tiêu thành 1 [DefenseDown] (<style=\"highlight\">tối đa 5; hiệu ứng này không thể làm giảm Lượng [Combustion] của mục tiêu xuống dưới 1)\n- Nếu mục tiêu có ít hơn 10 Lượng [Combustion], chủ thể có thể sử dụng Lượng [Combustion] vượt quá 30 trên bản thân cho hiệu ứng trên</style>"
                 }
               ]
             }
@@ -262,7 +310,7 @@
           "level": 1,
           "name": "Vĩnh Hằng",
           "abName": "Vịt Thời Gian",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nNếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(1.5 x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa 12%)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây 3 Lượng [Vibration]",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(1.5 x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa 12%)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây 3 Lượng [Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -289,7 +337,7 @@
           "level": 3,
           "name": "Vĩnh Hằng",
           "abName": "Vịt Thời Gian",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nNếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(<style=\"highlight\">2</style> x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa <style=\"highlight\">16%</style>)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây Lượng [Vibration] bằng Cộng Hưởng cao nhất (tối đa 4)\n<style=\"highlight\">- [BeforeAttack] Nếu Cộng Hưởng cao nhất là Lười Biếng Cộng Hưởng Tuyệt Đối, gây +2 Tầng [Vibration]</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(<style=\"highlight\">2</style> x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa <style=\"highlight\">16%</style>)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây Lượng [Vibration] bằng Cộng Hưởng cao nhất (tối đa 4)\n<style=\"highlight\">- [BeforeAttack] Nếu Cộng Hưởng cao nhất là Lười Biếng Cộng Hưởng Tuyệt Đối, gây +2 Tầng [Vibration]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -316,7 +364,7 @@
           "level": 4,
           "name": "Vĩnh Hằng",
           "abName": "Vịt Thời Gian",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nNếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(<style=\"highlight\">2.5</style> x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa <style=\"highlight\">20%</style>)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây Lượng [Vibration] bằng Cộng Hưởng cao nhất (tối đa <style=\"highlight\">5</style>)\n- [BeforeAttack] Nếu cộng hưởng cao nhất là Lười Biếng Cộng Hưởng Tuyệt Đối, <style=\"highlight\">gây Tầng [Vibration] bằng Lượng [Vibration] đã gây (tối đa 5)</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu Tốc Độ của mục tiêu thấp hơn chủ thể, +(<style=\"highlight\">2.5</style> x (chênh lệch Tốc Độ))% sát thương gây ra (tối đa <style=\"highlight\">20%</style>)\n[BeforeAttack] Ở mốc 3+ Cộng Hưởng cao nhất, gây Lượng [Vibration] bằng Cộng Hưởng cao nhất (tối đa <style=\"highlight\">5</style>)\n- [BeforeAttack] Nếu cộng hưởng cao nhất là Lười Biếng Cộng Hưởng Tuyệt Đối, <style=\"highlight\">gây Tầng [Vibration] bằng Lượng [Vibration] đã gây (tối đa 5)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -443,7 +491,7 @@
           "level": 1,
           "name": "Thòng Lọng Gai",
           "abName": "Thợ Săn Hoa Hồng",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -472,7 +520,7 @@
           "level": 3,
           "name": "Thòng Lọng Gai",
           "abName": "Thợ Săn Hoa Hồng",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1</style>\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n<style=\"highlight\">[BeforeAttack] Nhận 2 [Agility] vào lượt kế</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">Nếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1</style>\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n<style=\"highlight\">[BeforeAttack] Nhận 2 [Agility] vào lượt kế</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -504,7 +552,7 @@
           "level": 4,
           "name": "Thòng Lọng Gai",
           "abName": "Thợ Săn Hoa Hồng",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\nNếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nhận 2 [Agility] vào lượt kế\n<style=\"highlight\">[EndSkill] Nếu mục tiêu Bị Choáng hoặc bị đánh bại, nhận 1 [ShamrockResultUp] vào lượt kế</style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nNếu tổng Tốc Độ của chủ thể và mục tiêu từ 6 trở lên, Sức Mạnh Xu +1\nSức Mạnh Xu +1 với mỗi 7 [Burst] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nhận 2 [Agility] vào lượt kế\n<style=\"highlight\">[EndSkill] Nếu mục tiêu Bị Choáng hoặc bị đánh bại, nhận 1 [ShamrockResultUp] vào lượt kế</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -612,7 +660,7 @@
           "level": 1,
           "name": "Đau Thành Ngực",
           "abName": "Túi Ngủ Ngày Định Mệnh",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nếu Lượng [Breath] dưới 20, nhận lên tới 20 Lượng [Breath] và tiêu thụ (Lượng [Breath] nhận được x 2)% HP trên chủ thể\n- Không thể Bị Choáng hoặc bị đánh bại do hiệu ứng này\n[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa 4)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, đồng thời gán thêm 1 [ReleaseBreath] và 1 [IndigoDamageUp] vào lượt kế",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nếu Lượng [Breath] dưới 20, nhận lên tới 20 Lượng [Breath] và tiêu thụ (Lượng [Breath] nhận được x 2)% HP trên chủ thể\n- Không thể Bị Choáng hoặc bị đánh bại do hiệu ứng này\n[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa 4)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, đồng thời gán thêm 1 [ReleaseBreath] và 1 [IndigoDamageUp] vào lượt kế",
           "coinlist": [
             {
               "coindescs": [
@@ -634,7 +682,7 @@
           "level": 3,
           "name": "Đau Thành Ngực",
           "abName": "Túi Ngủ Ngày Định Mệnh",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nếu Lượng [Breath] dưới 20, nhận lên tới 20 Lượng [Breath] và tiêu thụ (Lượng [Breath] nhận được x 2)% HP trên chủ thể\n- Không thể Bị Choáng hoặc bị đánh bại do hiệu ứng này\n[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa <style=\"highlight\">6</style>)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, đồng thời gán thêm 1 [ReleaseBreath] và 1 [IndigoDamageUp] vào lượt kế",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nếu Lượng [Breath] dưới 20, nhận lên tới 20 Lượng [Breath] và tiêu thụ (Lượng [Breath] nhận được x 2)% HP trên chủ thể\n- Không thể Bị Choáng hoặc bị đánh bại do hiệu ứng này\n[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa <style=\"highlight\">6</style>)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, đồng thời gán thêm 1 [ReleaseBreath] và 1 [IndigoDamageUp] vào lượt kế",
           "coinlist": [
             {
               "coindescs": [
@@ -656,7 +704,7 @@
           "level": 4,
           "name": "Đau Thành Ngực",
           "abName": "Túi Ngủ Ngày Định Mệnh",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Nếu Lượng [Breath] dưới 20, nhận lên tới 20 Lượng [Breath] và tiêu thụ (Lượng [Breath] nhận được x 2)% HP trên chủ thể\n- Không thể Bị Choáng hoặc bị đánh bại do hiệu ứng này\n[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa 6)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, đồng thời gán thêm 1 [ReleaseBreath] và 1 [IndigoDamageUp] vào lượt kế<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Nếu Lượng [Breath] dưới 20, nhận lên tới 20 Lượng [Breath] và tiêu thụ (Lượng [Breath] nhận được x 2)% HP trên chủ thể\n- Không thể Bị Choáng hoặc bị đánh bại do hiệu ứng này\n[BeforeAttack] Gán (Cộng Hưởng cao nhất) Lượng [Breath] cho toàn bộ đồng minh (tối đa 6)\n- Ở mốc 3+ Kiêu Ngạo Cộng Hưởng, gán +1 Tầng [Breath] cho các đơn vị đã hưởng hiệu ứng, đồng thời gán thêm 1 [ReleaseBreath] và 1 [IndigoDamageUp] vào lượt kế<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -742,7 +790,7 @@
           "level": 1,
           "name": "Mệnh Lệnh: Hủy Diệt",
           "abName": "Kal'tsit",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[EndSkill] Nhận 4 [CuredFilm]\n[EndSkill] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, nhận sát thương HP bằng 20% HP Tối Đa của chủ thể, và nhận Khiên bằng lượng sát thương HP đã nhận do hiệu ứng này\n- Sát thương này không giết chủ thể. Nâng số Lớp [CuredFilm] lên tối đa vào Cuối Lượt và nhận 2 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Ở mốc 4+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[EndSkill] Nhận 4 [CuredFilm]\n[EndSkill] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, nhận sát thương HP bằng 20% HP Tối Đa của chủ thể, và nhận Khiên bằng lượng sát thương HP đã nhận do hiệu ứng này\n- Sát thương này không giết chủ thể. Nâng số Lớp [CuredFilm] lên tối đa vào Cuối Lượt và nhận 2 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
           "coinlist": [
             {
               "coindescs": [
@@ -775,7 +823,7 @@
           "level": 3,
           "name": "Mệnh Lệnh: Hủy Diệt",
           "abName": "Kal'tsit",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">Nếu mục tiêu chính có 6+ (Lượng [Burst] + Tầng [Burst]), Sức Mạnh Gốc +1</style>\n[BeforeAttack] Ở mốc <style=\"highlight\">3</style>+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[EndSkill] Nhận <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, nhận sát thương HP bằng 20% HP Tối Đa của chủ thể, và nhận Khiên bằng lượng sát thương HP đã nhận do hiệu ứng này\n- Sát thương này không giết chủ thể. Nâng số Lớp [CuredFilm] lên tối đa vào Cuối Lượt và nhận 2 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">Nếu mục tiêu chính có 6+ (Lượng [Burst] + Tầng [Burst]), Sức Mạnh Gốc +1</style>\n[BeforeAttack] Ở mốc <style=\"highlight\">3</style>+ Cộng Hưởng cao nhất, nhận +1 Phạm Vi Tấn Công\n[EndSkill] Nhận <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, nhận sát thương HP bằng 20% HP Tối Đa của chủ thể, và nhận Khiên bằng lượng sát thương HP đã nhận do hiệu ứng này\n- Sát thương này không giết chủ thể. Nâng số Lớp [CuredFilm] lên tối đa vào Cuối Lượt và nhận 2 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
           "coinlist": [
             {
               "coindescs": [
@@ -811,7 +859,7 @@
           "level": 4,
           "name": "Mệnh Lệnh: Hủy Diệt",
           "abName": "Kal'tsit",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n<style=\"highlight\">Sức Mạnh Gốc +1 với mỗi 6 (Lượng [Burst] + Tầng [Burst]) trên mục tiêu chính (tối đa 2)</style>\n<style=\"highlight\">[BeforeAttack] Nhận +1 Phạm Vi Tấn Công với mỗi 3 Cộng Hưởng cao nhất (tối đa 2)</style>\n[EndSkill] Nhận <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, nhận sát thương HP bằng 20% HP Tối Đa của chủ thể, và nhận Khiên bằng <style=\"highlight\">(lượng sát thương HP đã nhận do hiệu ứng này x 2)</style>\n- Sát thương này không giết chủ thể. Nâng số Lớp [CuredFilm] lên tối đa vào Cuối Lượt và nhận 2 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n<style=\"highlight\">Sức Mạnh Gốc +1 với mỗi 6 (Lượng [Burst] + Tầng [Burst]) trên mục tiêu chính (tối đa 2)</style>\n<style=\"highlight\">[BeforeAttack] Nhận +1 Phạm Vi Tấn Công với mỗi 3 Cộng Hưởng cao nhất (tối đa 2)</style>\n[EndSkill] Nhận <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Nếu sát thương từ Kỹ Năng này không Làm Choáng hoặc giết bất kỳ mục tiêu nào, nhận sát thương HP bằng 20% HP Tối Đa của chủ thể, và nhận Khiên bằng <style=\"highlight\">(lượng sát thương HP đã nhận do hiệu ứng này x 2)</style>\n- Sát thương này không giết chủ thể. Nâng số Lớp [CuredFilm] lên tối đa vào Cuối Lượt và nhận 2 [AttackDmgUp] vào lượt kế (một lần mỗi lượt)",
           "coinlist": [
             {
               "coindescs": [
@@ -941,7 +989,7 @@
           "level": 1,
           "name": "Hồng Diễm Tinh",
           "abName": "Hồng Diễm Nga",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 25+ [Combustion] trên chủ thể, nhận 2 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)\n[EndSkill] Nếu HP chủ thể đã mất ≥ 50%, hồi 5 SP với mỗi 10 [Combustion] trên chủ thể (tối đa 10)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 25+ [Combustion] trên chủ thể, nhận 2 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)\n[EndSkill] Nếu HP chủ thể đã mất ≥ 50%, hồi 5 SP với mỗi 10 [Combustion] trên chủ thể (tối đa 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -970,7 +1018,7 @@
           "level": 3,
           "name": "Hồng Diễm Tinh",
           "abName": "Hồng Diễm Nga",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 25+ [Combustion] trên chủ thể, nhận 2 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)\n[EndSkill] Nếu HP chủ thể đã mất ≥ 50%, hồi 5 SP với mỗi 10 [Combustion] trên chủ thể (tối đa 10)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 25+ [Combustion] trên chủ thể, nhận 2 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)\n[EndSkill] Nếu HP chủ thể đã mất ≥ 50%, hồi 5 SP với mỗi 10 [Combustion] trên chủ thể (tối đa 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -1002,7 +1050,7 @@
           "level": 4,
           "name": "Hồng Diễm Tinh",
           "abName": "Hồng Diễm Nga",
-          "desc": "[CantIdentify]\nNhắm mục tiêu ngẫu nhiên\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 25+ [Combustion] trên chủ thể, nhận 2 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)\n[EndSkill] Nếu HP chủ thể đã mất ≥ 50%, hồi 5 SP với mỗi 10 [Combustion] trên chủ thể (<style=\"highlight\">tối đa 15</style>)",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n[BeforeAttack] Sức Mạnh Tổng +1 với mỗi 10 ([Combustion] trên toàn bộ mục tiêu + [Combustion] trên chủ thể) (tối đa 2)\n[EndSkill] Nhận 10 [Combustion] và +1 Tầng [Combustion]\n[EndSkill] Ở mốc 25+ [Combustion] trên chủ thể, nhận 2 [CrimsonDamageUp] vào lượt kế (một lần mỗi lượt)\n[EndSkill] Nếu HP chủ thể đã mất ≥ 50%, hồi 5 SP với mỗi 10 [Combustion] trên chủ thể (<style=\"highlight\">tối đa 15</style>)",
           "coinlist": [
             {
               "coindescs": [
