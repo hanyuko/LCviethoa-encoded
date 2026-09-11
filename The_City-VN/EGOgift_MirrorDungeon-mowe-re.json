@@ -57,7 +57,7 @@
     {
       "id": 9842,
       "name": "Huyết Tinh, Phàm Huyết",
-      "desc": "Hiệu ứng của Quà Tặng E.G.O này được cường hóa dựa trên Số Danh Tính trong Đội Hình có Kỹ Năng Tấn Công tiêu thụ [BloodDinner] (Số Danh Tính đạt điều kiện được biểu thị bằng \"N\" ở dưới, không tính Kỹ Năng E.G.O; tính toàn bộ đồng minh có trong Đội)\n\nVào Đầu đợt mới: tăng (N x 20) [BloodDinner]; rồi gán 3 Lượng và +3 Tầng [Laceration] lên toàn bộ mục tiêu (Hiệu ứng này chỉ có thể tăng tối đa 100 [BloodDinner] mỗi lần kích hoạt)\n\nToàn bộ đồng minh -(N x 10%) sát thương [Laceration] phải nhận (tối tiểu 1 sát thương [Laceration]; tối đa 40%)\n- Sát thương bị giảm không ảnh hưởng đến lượng [BloodDinner] được tăng\n\nToàn bộ kẻ địch nhận +(N x 5)% sát thương [Laceration] (tối đa 20%)",
+      "desc": "Hiệu ứng của Quà Tặng E.G.O này được cường hóa dựa trên Số Danh Tính trong Đội Hình có Kỹ Năng Tấn Công tiêu thụ [BloodDinner] (Số Danh Tính đạt điều kiện được biểu thị bằng \"N\" ở dưới, không tính Kỹ Năng E.G.O; tính toàn bộ đồng minh có trong Đội)\n\nVào Đầu đợt mới: tăng (N x 20) [BloodDinner]; rồi gán 3 Lượng và +3 Tầng [Laceration] lên toàn bộ mục tiêu (Hiệu ứng này chỉ có thể tăng tối đa 100 [BloodDinner] mỗi lần kích hoạt)\n\nToàn bộ đồng minh -(N x 10%) sát thương [Laceration] phải nhận (tối thiểu 1 sát thương [Laceration]; tối đa 40%)\n- Sát thương bị giảm không ảnh hưởng đến lượng [BloodDinner] được tăng\n\nToàn bộ kẻ địch nhận +(N x 5)% sát thương [Laceration] (tối đa 20%)",
       "simpleDesc": [
         {
           "abilityID": 9842,

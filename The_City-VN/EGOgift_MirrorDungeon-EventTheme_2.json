@@ -328,7 +328,7 @@
     {
       "id": 9765,
       "name": "Thú Nhồi Bông Vui Vẻ",
-      "desc": "Nhận 2 Lượng [Breath] vào lượt kế dựa trên số Kỹ Năng Tấn Công của đồng minh đã gây sát thương vào Cuối Lượt\n- Trong Ải Chuyên Sâu, nhận 4 Lượng [Breath].\n\nĐầu Lượt: gán 2 [Breath], +2 Tầng [Breath], và 2 [Protection cho đồng minh có HP thấp nhất.\n\n+(giá trị tuyệt đối của SP)% sát thương gây ra. (tối thiểu 0%)\n\nKhi một đồng minh có Kỹ Năng Xu Dương hồi phục khỏi Choáng, hồi đầy SP. (không thể kích hoạt khi bị Ăn Mòn)\n\nVới đồng minh có toàn bộ Kỹ Năng là Xu Âm: nhận 5 [Paralysis] vào Đầu Lượt.",
+      "desc": "Nhận 2 Lượng [Breath] vào lượt kế dựa trên số Kỹ Năng Tấn Công của đồng minh đã gây sát thương vào Cuối Lượt\n- Trong Ải Chuyên Sâu, nhận 4 Lượng [Breath].\n\nĐầu Lượt: gán 2 [Breath], +2 Tầng [Breath], và 2 [Protection] cho đồng minh có HP thấp nhất.\n\n+(giá trị tuyệt đối của SP)% sát thương gây ra. (tối thiểu 0%)\n\nKhi một đồng minh có Kỹ Năng Xu Dương hồi phục khỏi Choáng, hồi đầy SP. (không thể kích hoạt khi bị Ăn Mòn)\n\nVới đồng minh có toàn bộ Kỹ Năng là Xu Âm: nhận 5 [Paralysis] vào Đầu Lượt.",
       "simpleDesc": [
         {
           "abilityID": 9765,
@@ -638,7 +638,7 @@
     {
       "id": 9783,
       "name": "Tuyệt Cảnh",
-      "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Hắc Vân</noparse> Hội ≥ 3. (chỉ tính đồng minh trên sân)\n\nToàn bộ đồng minh nhận 2 [ScarletResultUp] và 1 [SlashResultUp vào Đầu Lượt.\n\nKỹ Năng Tấn Công Cơ Bản của Danh Tính thuộc Hắc Vân</noparse> Hội: nhận Sức Mạnh Xu +(4 / Số Xu; tối thiểu 1), gây thêm 1 [Laceration], +1 Tầng [Laceration], và +(80 / Số Xu)% sát thương gây ra\n\nXóa Ngưỡng Choáng đầu tiên của Danh Tính thuộc Hắc Vân</noparse> Hội; khi thấp hơn 50% HP, nhận 2 [Protection] vào Đầu Lượt. Danh Tính nhận sát thương từ kẻ địch trong lượt này nhận 2 [Agility] vào lượt kế.",
+      "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Hắc Vân</noparse> Hội ≥ 3. (chỉ tính đồng minh trên sân)\n\nToàn bộ đồng minh nhận 2 [ScarletResultUp] và 1 [SlashResultUp] vào Đầu Lượt.\n\nKỹ Năng Tấn Công Cơ Bản của Danh Tính thuộc Hắc Vân</noparse> Hội: nhận Sức Mạnh Xu +(4 / Số Xu; tối thiểu 1), gây thêm 1 [Laceration], +1 Tầng [Laceration], và +(80 / Số Xu)% sát thương gây ra\n\nXóa Ngưỡng Choáng đầu tiên của Danh Tính thuộc Hắc Vân</noparse> Hội; khi thấp hơn 50% HP, nhận 2 [Protection] vào Đầu Lượt. Danh Tính nhận sát thương từ kẻ địch trong lượt này nhận 2 [Agility] vào lượt kế.",
       "simpleDesc": [
         {
           "abilityID": 9783,
@@ -845,7 +845,7 @@
     {
       "id": 2081,
       "name": "Tuyệt Cảnh",
-      "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Hắc Vân</noparse> Hội ≥ 3. (chỉ tính đồng minh trên sân)\n\nToàn bộ đồng minh nhận 2 [ScarletResultUp] và 1 [SlashResultUp vào Đầu Lượt.\n\nKỹ Năng Tấn Công Cơ Bản của Danh Tính thuộc Hắc Vân</noparse> Hội: nhận Sức Mạnh Xu +(4 / Số Xu; tối thiểu 1), gây thêm 1 [Laceration], +1 Tầng [Laceration], và +(80 / Số Xu)% sát thương gây ra\n\nXóa Ngưỡng Choáng đầu tiên của Danh Tính thuộc Hắc Vân</noparse> Hội; khi thấp hơn 50% HP, nhận 2 [Protection] vào Đầu Lượt. Danh Tính nhận sát thương từ kẻ địch trong lượt này nhận 2 [Agility] vào lượt kế.",
+      "desc": "Đầu Lượt: kích hoạt khi Số Danh Tính thuộc Hắc Vân</noparse> Hội ≥ 3. (chỉ tính đồng minh trên sân)\n\nToàn bộ đồng minh nhận 2 [ScarletResultUp] và 1 [SlashResultUp] vào Đầu Lượt.\n\nKỹ Năng Tấn Công Cơ Bản của Danh Tính thuộc Hắc Vân</noparse> Hội: nhận Sức Mạnh Xu +(4 / Số Xu; tối thiểu 1), gây thêm 1 [Laceration], +1 Tầng [Laceration], và +(80 / Số Xu)% sát thương gây ra\n\nXóa Ngưỡng Choáng đầu tiên của Danh Tính thuộc Hắc Vân</noparse> Hội; khi thấp hơn 50% HP, nhận 2 [Protection] vào Đầu Lượt. Danh Tính nhận sát thương từ kẻ địch trong lượt này nhận 2 [Agility] vào lượt kế.",
       "simpleDesc": [
         {
           "abilityID": 2081,

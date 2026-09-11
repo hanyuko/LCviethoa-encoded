@@ -2989,7 +2989,7 @@
         {
           "level": 2,
           "name": "Tam Liên [三連]",
-          "desc": "<style=\"highlight\">[WhenUse] Ở mốc6+ [Breath], Sức Mạnh Xu +1</style>\n[WhenUse] Nhận +<style=\"highlight\">3</style> Tầng [Breath]",
+          "desc": "<style=\"highlight\">[WhenUse] Ở mốc 6+ [Breath], Sức Mạnh Xu +1</style>\n[WhenUse] Nhận +<style=\"highlight\">3</style> Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3212,7 +3212,7 @@
           "level": 3,
           "name": "Không Gian Trảm [空間斬]",
           "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Breath] trên chủ thể (tối đa 5)\n[WhenUse] +5% sát thương gây ra với mỗi [SojiRyoshuEchoPast] trên chủ thể\n[WhenUse] Nhận 5 [Breath]\n[WhenUse]Nhận +1 Phạm Vi Tấn Công với mỗi 2 [SojiRyoshuEchoPast] trên chủ thể (tối đa 2)\n[WhenUse] +15% sát thương gây ra với mỗi Phạm Vi Tấn Công vượt quá Số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Bộ Phận)\n[EndSkill] Gây ngẫu nhiên ([SojiRyoshuEchoPast] trên chủ thể + 10) [PhantomIncisionID] lên những mục tiêu bị Kỹ Năng này đánh trúng",
-          "flavor": "                                                             ",
+          "flavor": "                                              ",
           "coinlist": [
             {
               "coindescs": [
@@ -3242,7 +3242,7 @@
           "level": 4,
           "name": "Không Gian Trảm [空間斬]",
           "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Breath] trên chủ thể (tối đa 5)\n<style=\"highlight\">[WhenUse] Sức Mạnh Gốc +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu chính (tối đa 5)</style>\n[WhenUse] +5% sát thương gây ra với mỗi [SojiRyoshuEchoPast] trên chủ thể\n[WhenUse] Nhận 5 [Breath]\n[WhenUse] Nhận +1 Phạm Vi Tấn Công với mỗi 2 [SojiRyoshuEchoPast] trên chủ thể (tối đa 2)\n[WhenUse] <style=\"highlight\">+30%</style> sát thương gây ra với mỗi Phạm Vi Tấn Công vượt quá Số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Bộ Phận)\n[EndSkill] Gây ngẫu nhiên ([SojiRyoshuEchoPast] trên chủ thể + 10) [PhantomIncisionID] lên những mục tiêu bị Kỹ Năng này đánh trúng",
-          "flavor": "                                                             ",
+          "flavor": "                                              ",
           "coinlist": [
             {
               "coindescs": [
@@ -3277,7 +3277,7 @@
           "level": 1,
           "name": "Tàn Tượng Bộ [殘像步]",
           "desc": "[StartBattle] Chọn một mục tiêu là đồng minh thuộc Tổ Nhện có Thứ Tự Triển Khai trễ nhất (2 lần mỗi lượt)\n- Ở mốc 1+ [SojiRyoshuEntangle], chọn thêm một đồng minh nữa\n- Khi toàn bộ Kỹ Năng được mục tiêu trang bị trên ô Kỹ Năng Kết Thúc, hay nếu mục tiêu đấy bị Choáng, hoặc nếu mục tiêu không còn Kỹ Năng nào để thực hiện, sử dụng \"Thiên Sát\" lên mục tiêu dưới dạng Đòn Một Chiều (một lần mỗi Danh Tính)\n- Tổ Nhện: Ngón Nhẫn Tập Sự Sinclair được ưu tiên chọn cuối cùng\n[StartBattle] Nhận +3 Tầng [Breath] (một lần mỗi lượt)",
-          "flavor": "     ",
+          "flavor": "            ",
           "coinlist": [
             {}
           ]
@@ -3286,7 +3286,7 @@
           "level": 4,
           "name": "Tàn Tượng Bộ [殘像步]",
           "desc": "[StartBattle] Chọn một mục tiêu là đồng minh thuộc Tổ Nhện có Thứ Tự Triển Khai trễ nhất (2 lần mỗi lượt)\n- Ở mốc 1+ [SojiRyoshuEntangle], chọn thêm một đồng minh nữa\n- Khi toàn bộ Kỹ Năng được mục tiêu trang bị trên ô Kỹ Năng Kết Thúc, hay nếu mục tiêu đấy bị Choáng, hoặc nếu mục tiêu không còn Kỹ Năng nào để thực hiện, sử dụng \"Thiên Sát\" lên mục tiêu dưới dạng Đòn Một Chiều (một lần mỗi Danh Tính)\n- Tổ Nhện: Ngón Nhẫn Tập Sự Sinclair được ưu tiên chọn cuối cùng\n[StartBattle] Nhận +3 Tầng [Breath] (một lần mỗi lượt)\n<style=\"highlight\">[OnSucceedEvade] Nhận 1 [Breath] (3 lần mỗi lượt)</style>",
-          "flavor": "     ",
+          "flavor": "            ",
           "coinlist": [
             {}
           ]
@@ -3300,7 +3300,7 @@
           "level": 1,
           "name": "Thiên Sát [天殺]",
           "desc": "[CantDuel]\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu, và không thể Tái Sử Dụng dưới bất kỳ hình thức nào\nVô hiệu hóa \"Các Tác nhân giảm SP mặc định\" của toàn bộ đồng minh khi Kỹ Năng này được sử dụng\n[WhenUse] Trong phần còn lại của Ải, giảm 1 Cấp Công Kích và nhận Sức Mạnh Gốc +1 cho mọi đòn Tấn Công (4 lần mỗi Ải)\n[TargetKill] Hồi 20 SP\n[TargetKill] Nhận [RyoshuEGOPF] bằng với lượng sát thương Kỹ Năng này gây ra",
-          "flavor": "                  ",
+          "flavor": "                            ",
           "coinlist": [
             {
               "coindescs": [
@@ -3323,7 +3323,7 @@
           "level": 1,
           "name": "Tất Nhiên Sát [必然殺]",
           "desc": "[CantDuel]\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu, và không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n[WhenUse] Nhận +1 Tầng [Breath]\n[BeforeAttack] Nếu kỹ năng này được kích hoạt thông qua Kỹ Năng 3,\n- Điều chỉnh Phạm Vi Tấn Công của Kỹ Năng này bằng với số kẻ địch có [SojiRyoshuEchoFuture] (tối thiểu 1)\n- Ưu tiên mục tiêu có [SojiRyoshuEchoFuture]\n[EndSkill] Giải trừ [SojiRyoshuEchoFuture] trên mục tiêu",
-          "flavor": "                                         ",
+          "flavor": "                                                       ",
           "coinlist": [
             {
               "coindescs": [
@@ -3355,7 +3355,7 @@
           "level": 3,
           "name": "Không Gian Trảm - Tàn [空間斬 - 殘] ",
           "desc": "[WhenUse] Với mỗi [SojiRyoshuEntangle] trên chủ thể, Kỹ Năng này giảm 1 Sức Mạnh Gốc, và nhận thêm Xu 1 trước khi sử dụng Xu 2\n[WhenUse] Xu cuối của kỹ năng nhận Sức Mạnh Xu +1 với mỗi [SojiRyoshuEchoPast] trên chủ thể\n[WhenUse] +50% sát thương gây ra với mỗiPhạm Vi Tấn Công vượt quá Số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Bộ Phận)\n[EndSkill] Nâng giới hạn số Lớp Tối Thiểu & Tối Đa của [SojiRyoshuEchoPast] lên thêm 1 rồi đặt lại số Lớp [SojiRyoshuEchoPast] trên chủ thể về mức tối thiểu mới (tối đa 2 lần mỗi Ải)\n[EndSkill] Tiêu thụ 50 [PhantomIncisionTotalID]",
-          "flavor": "           \n                                                                       \n                                                 ",
+          "flavor": "                   \n                                                                         \n                                                                        ",
           "coinlist": [
             {
               "coindescs": [
@@ -3400,7 +3400,7 @@
           "level": 3,
           "name": "Không Gian Trảm - Duyên [空間斬 - 緣]",
           "desc": "[CantDuel]\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu\n[WhenUse] Nhận 5 [Breath]\n[WhenUse] Nhận [SojiRyoshuShin]\n[EndSkill] Xóa Ngưỡng Choáng đầu tiên của chủ thể (một lần mỗi Ải)",
-          "flavor": "               \n                                              \n       \n                                \n                          ",
+          "flavor": "                  \n                                                \n          \n                                             \n                           ",
           "coinlist": [
             {
               "coindescs": [

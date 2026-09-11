@@ -6,24 +6,24 @@
       "desc": "Chúng tôi đang ở điểm bắt đầu của Hầm Ngục của Góc Khuất Bản Ngã.\n\nChúng tôi tìm thấy một xưởng chế trang bị E.G.O.\n\n'Nếu bạn đạt được dưới 100% [độ đồng hoá] trong bài kiểm tra mức độ tương thích, lấy duy nhất một E.G.O ở đây.'\n\nPhía trước chúng tôi là một biển cảnh báo đáng sợ, những chiếc loa phát thanh cũng lặp lại những cảnh báo ấy vô tận.\n\nTất cả các Tội Nhân đều đến đó xem, bị cám dỗ bởi các trang bị E.G.O ở đây mà cái biển đó nhắc đến... nhưng chúng tôi chỉ tìm thấy Quà Tặng E.G.O mà thôi.\n\n\"Wha? These ain't E.G.O gears. These are... them gifts or something, right?\"\n\n\"It appears that E.G.O are manifest here in the shape of E.G.O Gifts.\"\n\n\"Hm. Can't we just take them all?\"\n\n\"This is a Dungeon of the Fathoms. As it differs from the usual Mirror Dungeons, it is highly advisable that its rules are followed.\n\nWhat should we do?",
       "options": [
         {
-          "message": "Take the flaming gauntlet.",
-          "messageDesc": "Select to gain a Burn E.G.O Gift",
+          "message": "Lấy đôi găng rực lửa.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Thiêu Đốt",
           "result": [
-            "This one seems best suited for the situation we're in.\n\nWe take the 'Combustion Gloves' E.G.O Gift."
+            "Cái này phù hợp nhất cho tình cảnh hiện tại.\n\nChúng tôi lấy Quà Tặng E.G.O 'Găng Tay Gây Cháy'."
           ]
         },
         {
-          "message": "Take the combat boots with spiky bits on them.",
-          "messageDesc": "Select to gain a Rupture E.G.O Gift",
+          "message": "Lấy đôi bốt có mảnh gai.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Vỡ Vụn",
           "result": [
-            "This one seems best suited for the situation we're in.\n\nWe take the 'Spiked Combat Boots' E.G.O Gift."
+            "Cái này phù hợp nhất cho tình cảnh hiện tại.\n\nChúng tôi lấy Quà Tặng E.G.O 'Ủng Quân Dụng Quấn Gai'."
           ]
         },
         {
-          "message": "Take the cleaning solution spray.",
+          "message": "Lấy bình xịt dung dịch tẩy rửa.",
           "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
           "result": [
-            "This one seems best suited for the situation we're in.\n\nWe take the 'Illusory Hunt' E.G.O Gift."
+            "Cái này phù hợp nhất cho tình cảnh hiện tại.\n\nChúng tôi lấy Quà Tặng E.G.O 'Cuộc Săn Huyễn Tưởng'."
           ]
         }
       ]
@@ -31,18 +31,18 @@
     {
       "id": 971043,
       "name": "",
-      "desc": "We came across a group of researchers passionately poring over various documents.\n\nThey're having a debate about two subjects: emotions and flame.\n\n\"Regular flames don't seem to hurt the Abnormalities very much. So why does this work, I wonder...?\"\n\n\"Perhaps a greater degree of wrathful emotions opens up the room for the fire's heat to touch Abnormalities and Distortions, both entities of the unknown.\"\n\nThey must've noticed us listening in to their conversation intently—one of them approaches us with a glint in their eyes.\n\n\"Are you the 'sample' who's agreed to this experiment?\"\n\n\"If so, try this on.\"\n\nIn the researcher's hands was what looked like an ignition plug... or a testing machine of sorts.",
+      "desc": "Chúng tôi bắt gặp mấy nghiên cứu viên đang hăng say kiểm tra một số tài liệu.\n\nHọ đang tranh luận về hai chủ đề: cảm xúc và ngọn lửa.\n\n\"Chỉ là lửa bình thường thì không khiến lũ Dị Thể tổn hại mấy. Thế sao cái này lại hiệu nghiệm ta...?\"\n\n\"Chắc cảm xúc thịnh nộ mãnh liệt hơn mới khiến ngọn lửa thiêu đốt đám Dị Thể và Biến Dị được. Tuy vẫn còn là ẩn số chưa thể giải đáp.\"\n\nHọ hẳn đã nhận ra chúng tôi đang chăm chú nghe cuộc trò chuyện này—một người bỗng sáng mắt lên rồi tiếp cận chúng tôi.\n\n\"Mấy người là 'chuột bạch' đúng không?\"\n\n\"Nếu chuẩn rồi thì đeo cái này vào đi.\"\n\nTrong tay của nghiên cứu viên này là một cái bugi... hoặc là một cái máy thử nghiệm nào đó.",
       "options": [
         {
-          "message": "You have the wrong person.",
+          "message": "Nhận nhầm người rồi.",
           "messageDesc": "",
           "result": [
-            "\"Wha? You're not the sample?\"\n\n\"Then what the hell are you doing in here? Get out, now!\"\n\nWe were kicked out."
+            "\"Hở? Mấy người không phải chuột bạch à?\"\n\n\"Thế thì ở đây làm quái gì? Biến mau!\"\n\nBọn tôi bị đá ra ngoài."
           ]
         },
         {
-          "message": "We're the 'samples'.",
-          "messageDesc": "Run a Wrath & Lust Advantage check to gain a Burn E.G.O Gift.",
+          "message": "Nhận đúng 'chuột bạch' rồi đấy.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Dục Vọng để nhận một Quà Tặng E.G.O Thiêu Đốt.",
           "result": [
             ""
           ]
@@ -52,20 +52,20 @@
     {
       "id": 971044,
       "name": "",
-      "desc": "Several researchers are moving about busily in a hectic-looking laboratory.\n\nDid something escape, or something?\n\nAs we stood there gawking at the mess, someone walked up to the Sinners.\n\n\"Get outta my way!\"\n\n\"A-actually, you know what? Perfect timing.\"\n\n\"Eat this. C'mon, we don't have much time 'till the clinical trial report deadline!\"",
+      "desc": "Vô số nghiên cứu viên chạy đôn chạy đáo khắp phòng thí nghiệm.\n\nCó cái gì vừa xổng chuồng đấy à?\n\nChúng tôi đờ người trước cảnh tượng hỗn loạn thì bỗng có người tiến tới chỗ các Tội Nhân.\n\n\"Tránh đường!\"\n\n\"Ủa mà thật ra canh giờ chuẩn đấy chứ.\"\n\n\"Ăn cái này đi. Xin đấy, không chúng tôi trễ hạn nộp báo cáo thử nghiệm lâm sàng mất!\"",
       "options": [
         {
-          "message": "Eat it.",
-          "messageDesc": "Run a Gluttony & Gloom Advantage check to gain a Rupture E.G.O Gift.",
+          "message": "Ăn thử.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phàm Ăn & Thờ Ơ để nhận một Quà Tặng E.G.O Vỡ Vụn.",
           "result": [
             ""
           ]
         },
         {
-          "message": "We're not eating that. We don't even know what that is.",
+          "message": "Không biết nó là gì thì không thử đâu.",
           "messageDesc": "",
           "result": [
-            "\"Well, then get the hell outta my way!\"\n\nThe researcher pushed us aside."
+            "\"Thế thì tránh đường coi!\"\n\nNghiên cứu viên đó đẩy tất cả chúng tôi ra."
           ]
         }
       ]
@@ -73,20 +73,20 @@
     {
       "id": 971045,
       "name": "",
-      "desc": "We see the Ardor Blossom Moth within the containment unit.\n\nSmall, crimson particles of flame surround it like an aura.\n\nThe flaming wings die out one moment, only to roar vigorously in the next.\n\nAn incessant attempt to set fire to everything around it.\n\n\"What a beautiful specimen, this Ardor Blossom Moth. Have you finished your observations?\"\n\n\"We've been learning a lot about the Abnormality recently.\"\n\n\"There's still a lot of unknowns, but still.\"\n\n\"Speaking of which, here's a pop quiz. What E.G.O Gift can you get from the Ardor Blossom Moth?\"",
+      "desc": "Chúng tôi thấy Hồng Diễm Nga trong buồng quản thúc.\n\nNhững đám lửa đỏ mập mờ bao quanh lấy nó như một vầng hào quang.\n\nĐôi cánh rực lửa bỗng tắt đi, và rồi bùng lên dữ dội ngay sau đó.\n\nMột nỗ lực để không ngừng nghỉ đốt cháy mọi thứ xung quanh nó.\n\n\"Hồng Diễm Nga quả thực là một mẫu vật đẹp mắt. Mọi người đã quan sát xong hết chưa?\"\n\n\"Dạo gần đây chúng tôi đã nghiên cứu kha khá về Dị Thể này.\"\n\n\"Vẫn còn rất nhiều điều chưa được khai phá, nhưng không vấn đề gì.\"\n\n\"Sẵn tiện thì câu hỏi đố vui đây. Có thể nhận được Quà Tặng E.G.O gì từ Hồng Diễm Nga?\"",
       "options": [
         {
-          "message": "Subaquatic Blossom",
-          "messageDesc": "Select the right answer to gain a Burn E.G.O Gift",
+          "message": "Hoa Thủy Sinh",
+          "messageDesc": "Trả lời đúng sẽ nhận một Quà Tặng E.G.O Thiêu Đốt.",
           "result": [
-            "\"…….\"\n\n\"Pay more attention next time.\"\n\nThe researcher brushed past us."
+            "\"…….\"\n\n\"Lần sau nhớ chú ý kỹ vào.\"\n\nNgười nghiên cứu viên bước ngang qua chúng tôi."
           ]
         },
         {
-          "message": "Hellterfly’s Dream",
-          "messageDesc": "Select the right answer to gain a Burn E.G.O Gift",
+          "message": "Mộng Hỏa Điệp",
+          "messageDesc": "Trả lời đúng sẽ nhận một Quà Tặng E.G.O Thiêu Đốt.",
           "result": [
-            "\"Right on the money. You know your Ardor Blossom Moth.\"\n\n\"But that's not all. Recently, it's been giving out these things, too.\"\n\n\"Take this with you. I'm just glad to have run into a kindred soul.\"\n\nYou receive a burning, flickering flame. It seems to have come directly from the Ardor Blossom Moth itself."
+            "\"Chuẩn không cần chỉnh. Biết rõ chi tiết nhỉ.\"\n\n\"Nhưng không chỉ có thế thôi đâu. Gần đây thì nó cũng cho ra mấy thứ này nữa.\"\n\n\"Mang cái này theo đi. Gặp được người chung niềm đam mê cũng vui đấy.\"\n\nChúng tôi nhận được một đám lửa cháy mập mờ. Trông như được trích xuất thẳng từ chính Hồng Diễm Nga vậy."
           ]
         }
       ]
@@ -94,20 +94,20 @@
     {
       "id": 971046,
       "name": "",
-      "desc": "We see the Faelantern within the containment unit.\n\nA cyan-hued fairy flutters toward the wiry, ancient branches of the tree and softly lands on one of them.\n\nThe branch seating the fairy sways, as though to entice us to get closer to them...\n\nBright, countless yellow eyes glimmer from the shadows beneath its roots.\n\n\"What a beautiful specimen, this Faelantern. Have you finished your observations?\"\n\n\"We've been learning a lot about the Abnormality recently.\"\n\n\"There's still a lot of unknowns, but still.\"\n\n\"Speaking of which, here's a pop quiz. What E.G.O Gift can you get from the Faelantern?\"",
+      "desc": "Chúng tôi trông thấy Lồng Đèn Gốc Tiên bên trong buồng quản thúc.\n\nNàng tiên màu xanh lam nhạt bay lượn quanh những nhánh cây già cũ quắn quéo và từ tốn yên vị trên một nhánh cây.\n\nNhánh cây ấy khẽ đung đưa, như thể ra hiệu cho chúng tôi tiến lại gần...\n\nVô số con mắt màu vàng sáng ngời hiện ra từ bên dưới hốc rễ.\n\n\"Con Lồng Đèn Gốc Tiên này quả là một mẫu vật tuyệt đẹp biết bao. Mọi người đã quan sát xong hết chưa?\"\n\n\"Dạo gần đây chúng tôi đã nghiên cứu kha khá về Dị Thể này.\"\n\n\"Vẫn còn rất nhiều điều chưa được khai phá, nhưng không vấn đề gì.\"\n\n\"Sẵn tiện thì câu hỏi đố vui đây. Có thể nhận được Quà Tặng E.G.O gì từ Lồng Đèn Gốc Tiên?\"",
       "options": [
         {
-          "message": "Midwinter Nightmare",
-          "messageDesc": "Select the right answer to gain a Rupture E.G.O Gift",
+          "message": "Ác Mộng Đêm Đông",
+          "messageDesc": "Trả lời đúng sẽ nhận một Quà Tặng E.G.O Vỡ Vụn.",
           "result": [
-            "\"Right on the money. You know your Faelantern.\"\n\n\"But that's not all. Recently, it's been giving out these things, too.\"\n\n\"Take this with you. I'm just glad to have run into a kindred soul.\"\n\nYou receive a bony twig. It seems to have come directly from the Faelantern itself."
+            "\"Chuẩn không cần chỉnh. Biết rõ chi tiết nhỉ.\"\n\n\"Nhưng không chỉ có thế thôi đâu. Gần đây thì nó cũng cho ra mấy thứ này nữa.\"\n\n\"Mang cái này theo đi. Gặp được người chung niềm đam mê cũng vui đấy.\"\n\nChúng tôi nhận được một cành cây đơn sơ. Trông như được trích xuất thẳng từ chính Lồng Đèn Gốc Tiên vậy."
           ]
         },
         {
           "message": "Concavity",
-          "messageDesc": "Select the right answer to gain a Rupture E.G.O Gift",
+          "messageDesc": "Trả lời đúng sẽ nhận một Quà Tặng E.G.O Vỡ Vụn.",
           "result": [
-            "\"…….\"\n\n\"Pay more attention next time.\"\n\nThe researcher brushed past us."
+            "\"…….\"\n\n\"Lần sau nhớ chú ý kỹ vào.\"\n\nNgười nghiên cứu viên bước ngang qua chúng tôi."
           ]
         }
       ]
@@ -115,20 +115,20 @@
     {
       "id": 971047,
       "name": "",
-      "desc": "At the end of this hallway, a group of researchers is having a discussion in front of an unnaturally dark place.\n\nNoticing our presence, their faces brighten up as they approach us.\n\n\"Please, will you investigate this area ahead for us?\"\n\n\"We will help with the best of our abilities should you accept.\"",
+      "desc": "Có một nhóm nghiên cứu viên đang bàn luận trước một chỗ tối đen đến lạ kỳ ở phía cuối hành lang.\n\nNhận thấy chúng tôi, biểu cảm của họ sáng hẳn lên rồi tiếp lại gần. \n\n\"Có thể thăm dò chỗ này giúp chúng tôi được không?\"\n\n\"Nếu mọi người đồng ý, chúng tôi sẽ hỗ trợ hết sức mình.\"",
       "options": [
         {
-          "message": "Accept and investigate.",
-          "messageDesc": "Heal all allies\nRun a Pride & Envy Advantage check to gain a Keywordless E.G.O Gift.",
+          "message": "Chấp nhận đi thăm dò.",
+          "messageDesc": "Hồi máu cho toàn đội\nTiến hành kiểm định Lợi Thế Kiêu Ngạo & Đố Kỵ để nhận một Quà Tặng E.G.O Không Phân Loại.",
           "result": [
             ""
           ]
         },
         {
-          "message": "Refuse.",
+          "message": "Từ chối.",
           "messageDesc": "",
           "result": [
-            "\"Fine, walk away.\"\n\n\"We're not the ones losing out on a good deal.\"\n\nThe researchers all turned around without a moment's hesitation."
+            "\"Vậy thì biến đi.\"\n\n\"Chúng tôi cũng chả phải người mất mát gì cả.\"\n\nCác nghiên cứu viên lập tức rời đi."
           ]
         }
       ]
@@ -136,18 +136,18 @@
     {
       "id": 971048,
       "name": "",
-      "desc": "Several messy, frantic letters are carved into the wall with knives.\n\nI can practically feel the sheer horror and desperation of their writers from the wild letters.\n\nUpon close inspection, the deep marks tell a tale written in terror.\n\n'They're swarming us the monsters I hear them their breathing they're going to kill us all'\n\n'Save me please someone anyone save me I dont want to die please'\n\n'Fear is what drives men to madness. The monsters are near, I can feel the rumble of their feet. They are coming…'\n\nThere are unfinished sentences written on the wall.\n\nDeath has carved deep marks between them.",
+      "desc": "Những ký tự nguệch ngoạc được khắc vội bằng dao trên bức tường.\n\nTôi có thể cảm nhận được nỗi kinh hoàng tột độ lẫn sự tuyệt vọng tận cùng của người khắc nên những chữ này.\n\nKhi xem xét kỹ càng hơn, chúng kể lại câu chuyện đầy khủng khiếp.\n\n'Chúng bao vây chúng tôi lũ quái vật tôi nghe thấy tiếng chúng thở chúng sẽ giết tất cả chúng tôi mất'\n\n'Cứu tôi với ai đó làm ơn cứu tôi với tôi không muốn chết đâu'\n\n'Nỗi sợ là thứ khiến con người trở nên điên loạn. Lũ quái vật đang cận kề vì tôi có thể cảm nhận được rung động do chân chúng phát ra. Chúng đang tới…'\n\nNhững câu từ chưa hoàn thiện...\n\nVì cái chết đã khắc án tử lên kẻ viết chúng.",
       "options": [
         {
-          "message": "Ignore them and move on.",
+          "message": "Mặc kệ rồi tiếp tục lên đường.",
           "messageDesc": "",
           "result": [
-            "Nothing good can possibly come out of poking around in here. This won't be good for the Sinners.\n\nWe decided to quickly walk away from that place."
+            "Chẳng có gì tốt lành nếu chỏ mũi vào cả. Cũng không có lợi gì cho các Tội Nhân.\n\nChúng tôi nhanh chóng rời khỏi chỗ đó."
           ]
         },
         {
-          "message": "Look around some more.",
-          "messageDesc": "Run a Wrath & Gloom Advantage check to gain a Keywordless E.G.O Gift.",
+          "message": "Tìm kiếm xung quanh.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Thờ Ơ để nhận một Quà Tặng E.G.O Không Phân Loại.",
           "result": [
             ""
           ]
