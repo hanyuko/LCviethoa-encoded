@@ -1,0 +1,72 @@
+{
+  "dataList": [
+    {
+      "id": 132001,
+      "title": "Ardor Blossom Moth",
+      "prevDesc": "           ",
+      "eventDesc": "A dark shadow lingers at the center of the flaming moth.\n\nIts form was vague and mercurial, yet... somehow, you can tell that the shadow is the very core of the moth.\n\nIf that shadow could be separated from the flames, perhaps its heat may momentarily subside.",
+      "behaveDesc": "Who will reach out for the shadow?",
+      "successDesc": [
+        "[{0}] reaches out toward the flames, enduring through the burning fire.\n\nTheir fingertips begin to blister and bubble, but perhaps [{0}]'s passion burned hotter than the flames itself.\n\nBefore the moth could do anything, [{0}] wrested the dark thing from the flames and hurled it away from the fire.\n\nThe fire and the embers on both the moth and the Sinners immediately subsided.\n\nAs though the flames had never burned."
+      ],
+      "failureDesc": [
+        "[{0}] reaches out toward the flames, enduring through the burning fire.\n\nBut the pain of their very skin blistering and bubbling from the heat was far too much for them to bear. [{0}] pulled away from the flames before they reached the shadow.\n\nThe price of letting this opportunity fall through their fingers was devastating.\n\nThe moth begins to beat its wings faster and with unforeseen vigor; and the flames began rising higher and higher in return.\n\nIt need not be said that a world of fire soon descended upon the Sinners."
+      ]
+    },
+    {
+      "id": 876301,
+      "title": "Rose Hunter",
+      "prevDesc": "            ",
+      "eventDesc": "Sợi dây thòng lọng ấy nhắm tới chúng tôi...\n\nNhờ vào chuyển động của thợ săn, vòng thòng lọng vung thẳng về hướng chúng tôi.",
+      "behaveDesc": "Ai sẽ bước ra?",
+      "successDesc": [
+        "{0} phản ứng nhanh như chớp nhoáng, đánh bật sợi thòng lọng gai sang bên.\n\nSợi dây thòng lọng gai văng qua hướng khác.\n\nThợ Săn Hoa Hồng bị chuyển biến bất ngờ ấy làm cho sững sờ."
+      ],
+      "failureDesc": [
+        "Sợi thòng lọng gai quật thật mạnh lên người {0}.\n\nTrông thấy một Tội Nhân quằn quại vì đau đớn, Thợ Săn Hoa Hồng hình như đã sung sức hơn."
+      ]
+    },
+    {
+      "id": 876501,
+      "title": "Faelantern",
+      "prevDesc": "          ",
+      "eventDesc": "Attacking that fairy again will reveal its true form.\n\nThis isn’t your first time facing this entity. It won’t be as hard as the first time.\n\nThe Sinners seem to agree.\n\nThe fairy simply sat there in near complete stillness, only interrupted by its intermittently vibrating wings. It was as though the fairy knew you were coming.",
+      "behaveDesc": "Who will answer the bait?",
+      "successDesc": [
+        "[{0}] charged toward the fairy.\n\nAfter a light leap into the air, the Sinner swung the weapon toward the fairy.\n\n”!!!”\n\nThe fairy appeared to scream, but no sound came from its mouth.\n\nMaybe it wasn’t screaming at all. Perhaps it was just the swaying of branches.\n\n”The eyes are coming out…”\n\n”Get outta there! Here we go again.”\n\nNumerous eyes open one by one, gleaming from the shadows.\n\nThey oscillate as though they’ll jump out at us at any minute.\n\nSo… What now?"
+      ],
+      "failureDesc": [
+        "[{0}] charged toward the fairy.\n\nAfter lightly leaping into the air, the Sinner swung the weapon toward the fairy.\n\nBut…\n\n”That thing can dodge…?!”\n\nOf course, it wasn’t going to be that easy. Assuming that a bait would remain stationary is a complacent thought.\n\nThe fairy had also lightly flown up into the air and glared at the Sinner, who dared to attack it.\n\n”G-get out of there! It’s starting to move again!”\n\n[{0}] tried to get away, but its main body had already tightened around the Sinner's legs.\n\nSo… What now?"
+      ]
+    },
+    {
+      "id": 876701,
+      "title": "Wayward Passenger",
+      "prevDesc": "          ",
+      "eventDesc": "Nếu giống những lần trước thì nó sẽ sớm chui ra từ một trong mấy cái vết nứt không gian ở đây.\n\nVà nếu ta phán đoán được vị trí nó sẽ xuất hiện, thì có thể gây một đòn giáng trời trước khi nó hoàn toàn chui ra khỏi vết nứt không gian đó.",
+      "behaveDesc": "Ai có thể phán đoán đươc vị trí nó sẽ xuất hiện?",
+      "successDesc": [
+        "Thực thể đó cũng chịu ló cái đầu của nó ra khỏi vết nứt không gian mà [{0}] đã chọn.\n\n\"!\"\n\nDù đã cảm nhận được sự hiện diện của Tội Nhân ở phía bên kia vết nứt,\n\nNhưng nó không có đủ thời gian để phản ứng lại đòn tấn công trời giáng của [{0}].\n\nThực thể chui vào lại vết nứt để bảm đảm an toàn rồi vội vã đóng vết nứt lại. Chỉ nhiêu đó thôi cũng đủ khiến khoảng không gian bên trong vết nứt trở nên bất ổn rồi.\n\nThời cơ đã đến."
+      ],
+      "failureDesc": [
+        "Thực thể đó cũng chịu ló cái đầu của nó ra khỏi vết nứt không gian.\n\n… Nhưng mà là từ cái vết nứt đối nghịch với cái mà [{0}] đã chọn.\n\n[{0}] nhanh chóng xoay người vùng vũ khí... nhưng thực thể đó lại nhanh hơn nhiều.\n\nNó tung một đòn chém mạnh bạo đáp trả Tội Nhân đó."
+      ]
+    },
+    {
+      "id": 877401,
+      "prevDesc": "                      "
+    },
+    {
+      "id": 877402,
+      "title": "",
+      "eventDesc": "",
+      "behaveDesc": "Làm gì đây?",
+      "successDesc": [
+        "{0} ôm con gấu bông vào lòng.\n\nDù da thịt của {0} bị đinh nhọn đâm vào...\n\n... nhưng hình như con gấu bông vui sướng nhảy nhót đã xoa dịu cảm xúc của Tội Nhân ấy."
+      ],
+      "failureDesc": [
+        "{0} ôm con gấu bông vào lòng.\n\nMột cây đinh cùn đâm sâu vào da thịt của {0}...\n\n... nhưng hình như con gấu bông vui sướng nhảy nhót đã xoa dịu cảm xúc của Tội Nhân ấy."
+      ]
+    }
+  ]
+}

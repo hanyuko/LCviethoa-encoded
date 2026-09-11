@@ -1,0 +1,76 @@
+{
+  "dataList": [
+    {
+      "id": 1071,
+      "panicName": "Ăn Mòn Hạ Cấp",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 1 [Vulnerable]",
+      "panicDescription": "Đầu Lượt: Nhận 1 [Vulnerable] và 5 [Combustion]"
+    },
+    {
+      "id": 1073,
+      "panicName": "Làn Sóng Mê Ngủ",
+      "lowMoraleDescription": "Nhận ít hơn 1 [LanternHohenheimBigBird] từ Kỹ Năng",
+      "panicDescription": "Không thể hành động trong lượt này"
+    },
+    {
+      "id": 1078,
+      "panicName": "Nỗi Ô Nhục Của Gia Tộc",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 1 [SlashDamageUp], 1 [ParryingResultUp], và 1 [Vulnerable]\nKhông thể nhận Vọng khi sử dụng Kỹ Năng",
+      "panicDescription": "Đầu Lượt: Nhận 2 [SlashDamageUp], 2 [ParryingResultUp], và 2 [Vulnerable]\nKhông thể nhận Vọng khi sử dụng Kỹ Năng"
+    },
+    {
+      "id": 1079,
+      "panicName": "\"G-giết... giết tôi đi...\"",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 8 [ParryingResultDown] và 5 [ResultReduction]",
+      "panicDescription": "Đầu Lượt: Nhận 10 [ParryingResultDown] và 5 [ResultReduction]"
+    },
+    {
+      "id": 1077,
+      "panicName": "Nghệ Thuật Hết Thời",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 1 [AttackUp]",
+      "panicDescription": "Đầu Lượt: Nhận 2 [AttackUp]"
+    },
+    {
+      "id": 1075,
+      "panicName": "Tàn Phá Điên Cuồng",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 2 [Enhancement] và 4 [DefenseDown]; nhận 1 [AttackDmgUp] với mỗi 30 sát thương HP đã nhận ở lượt trước (tối đa 5)",
+      "panicDescription": "Đầu Lượt: Nhận 3 [Enhancement] và 5 [DefenseDown]; nhận 1 [AttackDmgUp] với mỗi 25 sát thương HP đã nhận ở lượt trước (tối đa 5)"
+    },
+    {
+      "id": 1076,
+      "panicName": "Hưng Phấn",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 2 [DefenseDown]; nhận 1 [AttackDmgUp] với mỗi 30 sát thương HP đã nhận ở lượt trước (tối đa 5)",
+      "panicDescription": "Đầu Lượt: Nhận 1 [Enhancement] và 3 [DefenseDown]; nhận 1 [AttackDmgUp] với mỗi 25 sát thương HP đã nhận ở lượt trước (tối đa 5)"
+    },
+    {
+      "id": 1081,
+      "panicName": "Thân Thể (Lẫn Tâm Trí) Này Vô Phương Cứu Chữa",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 1 [Vulnerable] và gán 2 [Endurance] cho Ezra và Vespa",
+      "panicDescription": "Nhận 1 [Vulnerable] và sử dụng 'Ổn Định Hơi Thở'"
+    },
+    {
+      "id": 1082,
+      "panicName": "Mặt Nạ Tự Ti",
+      "lowMoraleDescription": "Sức Mạnh Tấn Công Gốc -1, Cấp Phòng Thủ +2",
+      "panicDescription": "Sức Mạnh Tấn Công Gốc -1, Cấp Phòng Thủ +3"
+    },
+    {
+      "id": 1083,
+      "panicName": "Alaya",
+      "lowMoraleDescription": "-",
+      "panicDescription": "-"
+    },
+    {
+      "id": 1080,
+      "panicName": "Về Chiến Tranh Khói Thứ Hai",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 1 [Vulnerable]\n[MentalSystemResultIncrease_Typo] +2",
+      "panicDescription": "Đầu Lượt: Nhận 2 [Vulnerable] và 2 [ParryingResultUp]"
+    },
+    {
+      "id": 1084,
+      "panicName": "Mô Phỏng Một Người Cha",
+      "lowMoraleDescription": "- Đầu Lượt: Nhận 5 [Combustion] và 5 [Laceration]\n- Nhận +10% sát thương từ Tội Nhân Ryōshū",
+      "panicDescription": "- Đầu Lượt: Nhận 5 [Combustion], +3 Tầng [Combustion], 5 [Laceration], và +3 Tầng [Laceration]\n- Nhận +20% sát thương từ Tội Nhân Ryōshū"
+    }
+  ]
+}

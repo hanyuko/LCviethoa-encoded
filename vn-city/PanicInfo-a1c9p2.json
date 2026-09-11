@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1070,
+      "panicName": "Tình Thương Và Oán Hận",
+      "lowMoraleDescription": "+10% sát thương gây lên Ryōshū và +10% sát thương phải nhận từ Ryōshū",
+      "panicDescription": "+20% sát thương gây lên Ryōshū và +10% sát thương phải nhận từ Ryōshū"
+    },
+    {
+      "id": 1074,
+      "panicName": "Bực Tức",
+      "lowMoraleDescription": "Nhận 1 [PenetrateResultUp] và 1 [MentalIncreaseDown]",
+      "panicDescription": "Nhận 2 [PenetrateResultUp], 1 [PenetrateDamageUp], và 2 [MentalIncreaseDown]"
+    },
+    {
+      "id": 1072,
+      "panicName": "Rủi Ro Từ Việc Kháng Sắc Lệnh",
+      "lowMoraleDescription": "+20% sát thương gây lên [IndexPrescriptTargetToPersonality]\n+10% sát thương phải nhận từ kẻ địch không phải [IndexPrescriptTargetToPersonality]",
+      "panicDescription": "+30% sát thương gây lên [IndexPrescriptTargetToPersonality]\n+20% sát thương phải nhận từ kẻ địch không phải [IndexPrescriptTargetToPersonality]"
+    }
+  ]
+}

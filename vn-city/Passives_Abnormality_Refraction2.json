@@ -1,0 +1,494 @@
+{
+  "dataList": [
+    {
+      "id": 853901,
+      "name": "Tàn Tán",
+      "desc": "Khi Phần Thân bị phá, Phần Thân nhận 1 [AttackDmgDown] mỗi lượt."
+    },
+    {
+      "id": 853902,
+      "name": "Rách Tán",
+      "desc": "Khi Phần Đầu bị phá, nhận 1 [AttackDmgDown] mỗi lượt"
+    },
+    {
+      "id": 853903,
+      "name": "Nỗ Lực Cuối Cùng",
+      "desc": "Ở mốc 15% HP, chủ thể nhận 10 [Binding] và 1 [Reduction] mỗi lượt\n Ô Cũ mới được triệu hồi có thêm 30% HP. Dùng 'Tiếng Khóc Tìm Kiếm Gì Đó' mỗi lượt."
+    },
+    {
+      "id": 853904,
+      "name": "Trái Tim Rỗng Tuếch",
+      "desc": "Nhận 2 [WaveFoxUmbrella] khi Bắt Đầu Ải. (Tối Đa 6)\nNhận thêm [WaveFoxUmbrella] bằng \"Số Vòng Lặp\".\nNhận [Protection] bằng số Tầng [WaveFoxUmbrella] trên chủ thể.\nNếu Kỹ Năng \"Mong Mỏi\" đã ở trên Ô, triệu hồi Ô Cũ bằng với số [WaveFoxUmbrella] đang có"
+    },
+    {
+      "id": 853905,
+      "name": "Vỡ Vụn và Sa Lầy Khúc Xạ",
+      "desc": "Lượng [Burst] và [Sinking] Tối Đa là 30.\nTầng [Burst] và [Sinking] Tối Đa là 5."
+    },
+    {
+      "id": 853906,
+      "name": "Nhận Chảy Máu Khúc Xạ",
+      "desc": "Khi nhận [Laceration], nhận thêm 1 Lượng và Tầng"
+    },
+    {
+      "id": 854001,
+      "name": "Cũ Kỹ và Bị Bỏ Xó",
+      "desc": "Khi chủ thể bị đánh bại, người đánh bại nó sẽ nhận 2 [Agility] vào lượt kế.\nTất cả các Bộ Phận của Cáo Lang Thang đều bị gây 2 [Binding].\nGán 1 [ShardOfUmbrella] lên Cáo Lang Thang."
+    },
+    {
+      "id": 854101,
+      "name": "Ý Chí Suy Kiệt",
+      "desc": "Nếu lượng Khiên HP không còn sau khi dùng một Kỹ Năng Phòng Thủ, nhận 3 [AttackDown] và 3 [Vulnerable] vào lượt kế."
+    },
+    {
+      "id": 854102,
+      "name": "Ngoại Cốt Cứng Cáp",
+      "desc": "Nếu Phần Đầu chưa bị phá,\nPhần Đầu nhận 3 [Protection] mỗi lượt."
+    },
+    {
+      "id": 854104,
+      "name": "Năng Lượng Khúc Xạ",
+      "desc": "Nếu mục tiêu có [Charge], giảm 1 Tầng [Charge] khi trúng đòn và nhận 1 [SelfCharge]. (3 lần mỗi lượt)"
+    },
+    {
+      "id": 854103,
+      "name": "Chảy Máu và Chấn Động Khúc Xạ",
+      "desc": "Lượng [Laceration] và [Vibration] Tối Đa là 30.\nTầng [Laceration] và [Vibration] Tối Đa là 5."
+    },
+    {
+      "id": 854105,
+      "name": "Tự Sạc",
+      "desc": "Nhận 3 [SelfCharge] vào Đầu Ải.\nNhận thêm 1 [SelfCharge] với mỗi \"Vòng Lặp\". (Tối Đa 8)"
+    },
+    {
+      "id": 854201,
+      "name": "Nguyên Phân",
+      "desc": "Khi Bộ Phận Tay bị phá, tất cả bộ phận nhận 1 [Reduction] mỗi lượt."
+    },
+    {
+      "id": 854202,
+      "name": "Enticing Rượu Tiên",
+      "desc": "Khi Rượu Tiên có trên sân, tất cả bộ phận nhận 5 [Binding]."
+    },
+    {
+      "id": 854203,
+      "name": "Chảy Máu và Chấn Động Khúc Xạ",
+      "desc": "Lượng [Laceration] và [Vibration] Tối Đa là 30.\nTầng [Laceration] và [Vibration] Tối Đa là 5."
+    },
+    {
+      "id": 854204,
+      "name": "Nhận Vỡ Vụn Khúc Xạ",
+      "desc": "Khi nhận [Burst], nhận thêm 1 Lượng và Tầng"
+    },
+    {
+      "id": 854301,
+      "name": "Rượu Tiên",
+      "desc": "Khi bị Danh Tính đánh bại, toàn bộ Danh Tính nhận 5 [Tipsiness] vào lượt kế.\nNếu không bị đánh bại, Tiên Lịch Lãm hồi 10% HP và nhận 2 [Enhancement], 2 [Agility], và 2 [Protection].\nHết hiệu vào cuối lượt"
+    },
+    {
+      "id": 854401,
+      "name": "Phương Thức Vỡ Vụn",
+      "desc": "Khi Phần Tay bị phá, Phần Tay nhận 1 [Reduction] mỗi lượt."
+    },
+    {
+      "id": 854402,
+      "name": "Nhận Sa Lầy Khúc Xạ",
+      "desc": "Khi nhận [Sinking], nhận thêm 1 Lượng và Tầng (không áp dụng lên các hiệu ứng liên quan đến Vòng Lặp)"
+    },
+    {
+      "id": 854501,
+      "name": "Mất Đi Ý Nghĩa",
+      "desc": "Khi Phần Tay bị phá, chủ thể nhận 1 [Reduction] mỗi lượt."
+    },
+    {
+      "id": 854502,
+      "name": "Tán Cây Bị Hư",
+      "desc": "Khi Phần Đầu bị phá, chủ thể nhận 2 [DefenseDown] mỗi lượt."
+    },
+    {
+      "id": 854503,
+      "name": "Chảy Máu và Chấn Động Khúc Xạ",
+      "desc": "Lượng [Laceration] và [Vibration] Tối Đa là 30.\nTầng [Laceration] và [Vibration] Tối Đa là 5."
+    },
+    {
+      "id": 854504,
+      "name": "Nhận Vỡ Vụn Khúc Xạ",
+      "desc": "Khi nhận [Burst], nhận thêm 1 Lượng và Tầng"
+    },
+    {
+      "id": 854601,
+      "name": "Chiếc Lá Ô Nhiễm",
+      "desc": "Vào Đầu mỗi lượt, Tiên Chân Dài và Tiên Lịch Lãm nhận 3 [TakeHpHealIncrease] và 1 [Enhancement].\nNếu Cỏ Bốn Lá đã tồn tại từ 4 lượt trở lên, nhận thêm 1 [Enhancement] và 2 [AttackDmgUp]."
+    },
+    {
+      "id": 854701,
+      "name": "Nguyên Phân",
+      "desc": "Khi Phần Tay bị phá, chủ thể nhận 1 [Reduction] mỗi lượt."
+    },
+    {
+      "id": 854702,
+      "name": "Rượu Tiên Mê Hoặc",
+      "desc": "Khi Rượu Tiên có trên sân, tất cả bộ phận nhận 5 [Binding]."
+    },
+    {
+      "id": 854703,
+      "name": "Chảy Máu và Chấn Động Khúc Xạ",
+      "desc": "Lượng [Laceration] và [Vibration] Tối Đa là 30.\nTầng [Laceration] và [Vibration] Tối Đa là 5."
+    },
+    {
+      "id": 854704,
+      "name": "Nhận Vỡ Vụn Khúc Xạ",
+      "desc": "Khi nhận [Burst], nhận thêm 1 Lượng và Tầng (không áp dụng lên các hiệu ứng liên quan đến Vòng Lặp)"
+    },
+    {
+      "id": 854801,
+      "name": "Rượu Tiên",
+      "desc": "Khi bị Danh Tính đánh bại, toàn bộ Danh Tính nhận 5 [Tipsiness] vào lượt kế.\nNếu không bị đánh bại, Tiên Lịch Lãm hồi 10% HP và nhận 2 [Enhancement], 2 [Agility], và 2 [Protection].\nHết hiệu vào cuối lượt"
+    },
+    {
+      "id": 854901,
+      "name": "Mê Hoặc",
+      "desc": "Gây [FairyCharm] lên kẻ địch có Tốc Độ thấp nhất.\nSố lượng mục tiêu tăng theo \"Số Vòng Lặp\".\nSố lượng mục tiêu tăng khi Tiên được hồi phục."
+    },
+    {
+      "id": 854902,
+      "name": "Vực Thẳm Hiện Hữu",
+      "desc": "Phần Thân sẽ nhô lên khi Tiên bị phá.\nToàn bộ Hiệu Ứng có và bất lợi sẽ hết hiệu lực khi Phần Thân ẩn đi."
+    },
+    {
+      "id": 854903,
+      "name": "Mồi Câu Dẫn Dụ",
+      "desc": "Phần Lõi không nhận sát thương khi đánh vào Tiên\nSố ô bị chọn làm mục tiêu bằng với số kẻ địch bị [FairyCharm]"
+    },
+    {
+      "id": 854904,
+      "name": "Gốc Cây Đổ Gãy",
+      "desc": "Khi Phần Thân bị phá, Tiên sẽ có 60% HP Tối Đa khi được hồi phục trở lại.\nKhi Phần Thân bị phá, Lõi hồi +20 HP từ các hiệu ứng Kỹ Năng"
+    },
+    {
+      "id": 854905,
+      "name": "Mồi Câu Tiến Hóa",
+      "desc": "Tiên được tăng 20% HP Tối Đa khi được hồi phục trở lại."
+    },
+    {
+      "id": 854906,
+      "name": "Vỡ Vụn và Sa Lầy Khúc Xạ",
+      "desc": "Lượng [Burst] và [Sinking] Tối Đa là 30.\nTầng [Burst] và [Sinking] Tối Đa là 5."
+    },
+    {
+      "id": 854907,
+      "name": "Bụi Tiên",
+      "desc": "Khi Tiên bị giết, toàn bộ Danh Tính nhận 5 [Breath] và 2 Tầng [Breath] vào lượt kế"
+    },
+    {
+      "id": 855001,
+      "name": "Tẩu Thoát Không Gian",
+      "desc": "Bắt đầu từ lượt 2, trốn thoát vào 'Khe Nứt Không Gian' sau vài lượt.\nKhi tất cả bộ phận đều bị Choáng, trốn thoát vào 'Khe Nứt Không Gian' vào lượt kế.\nKhông thể bị Choáng khi đang ở bên trong 'Khe Nứt Không Gian'.\nKhi Lõi ở mức 30% HP hoặc thấp hơn, sẽ không trốn thoát vào 'Khe Nứt Không Gian'."
+    },
+    {
+      "id": 855002,
+      "name": "Tẩu Thoát Không Gian Vào Ngõ Cụt",
+      "desc": "Khi toàn bộ 'Khe Nứt Không Gian' được tạo ra bị phá hủy trong cùng một lượt, tự thoát ra khỏi 'Khe Nứt Không Gian' vào lượt kế.\nSau đó, mất 5 Tầng [Charge] và nâng Ngưỡng Choáng của tất cả bộ phận lên thêm 30."
+    },
+    {
+      "id": 855003,
+      "name": "Tái Tạo Lưỡi Kiếm Không Gian Khúc Xạ",
+      "desc": "Khi Lưỡi Kiếm Không Gian bị phá, mất 5 Tầng [Charge],\nvào Cuối Lượt kế, tiêu 2 Tầng [Charge] để tái tạo Lưỡi Kiếm Không Gian\n\nKhi Lưỡi Kiếm Không Gian bị phá hủy, nhận 2 [AttackDown] vào Đầu mỗi Lượt."
+    },
+    {
+      "id": 855004,
+      "name": "Thiêu Đốt và Vỡ Vụn Khúc Xạ",
+      "desc": "[Combustion] và [Burst] Lượng Tối Đa là 30.\n[Combustion] và [Burst] Tầng Tối Đa là 5."
+    },
+    {
+      "id": 855005,
+      "name": "Nhận Chấn Động Khúc Xạ",
+      "desc": "Khi nhận [Vibration], nhận thêm 1 Lượng và Tầng (không áp dụng lên các hiệu ứng liên quan đến Vòng Lặp)"
+    },
+    {
+      "id": 856001,
+      "name": "Không Gian Xuất Huyết",
+      "desc": "+10% sát thương gây ra sau khi đi qua Không Gian Xuất Huyết[TabExplain]"
+    },
+    {
+      "id": 856101,
+      "name": "Không Gian Độc Hại",
+      "desc": "Lõi nhận thêm 20% HP sau khi đi qua Không Gian Độc Hại[TabExplain]"
+    },
+    {
+      "id": 856201,
+      "name": "Không Gian Chấn Động",
+      "desc": "Tốc Độ +1 khi đi qua Không Gian Chấn Động[TabExplain]"
+    },
+    {
+      "id": 856301,
+      "name": "Không Gian Điện Khí Hóa",
+      "desc": "Sức Mạnh Xu +1 khi đi qua Không Gian Điện Khí Hóa[TabExplain]"
+    },
+    {
+      "id": 855101,
+      "name": "Thời Khắc Hoàng Kim",
+      "desc": "Vào cuối lượt, nếu HP ở giữa 6% và 24%, phần Lõi lập tức hồi lên đến 80% HP Tối Đa, và hồi phục khỏi choáng. (Một lần duy nhất)"
+    },
+    {
+      "id": 855102,
+      "name": "Thời Gian Quay Ngược Hồi Tố",
+      "desc": "Sau khi kích hoạt Thời Khắc Hoàng Kim, nhận 2 [Vulnerable] vào Đầu Lượt"
+    },
+    {
+      "id": 855103,
+      "name": "Quá Tải",
+      "desc": "Nếu có 5+ Tầng [Charge] vào cuối lượt, nhận 3 [AttackDmgUp] vào lượt kế"
+    },
+    {
+      "id": 855104,
+      "name": "Vỡ Vụn và Sa Lầy Khúc Xạ",
+      "desc": "Lượng [Burst] và [Sinking] Tối Đa là 30.\nTầng [Burst] và [Sinking] Tối Đa là 5."
+    },
+    {
+      "id": 855105,
+      "name": "Nhận Thiêu Đốt Khúc Xạ",
+      "desc": "Khi nhận [Combustion], nhận thêm 1 Lượng và Tầng. (không áp dụng lên các hiệu ứng liên quan đến Vòng Lặp)"
+    },
+    {
+      "id": 855501,
+      "name": "Quá Khứ Lặp Lại",
+      "desc": "Ở 50+ [AccumulatedPast], và nếu HP của Lõi ≤ 80%, tiêu thụ 50 [AccumulatedPast] để hồi 200 HP cho Lõi vào Cuối Lượt"
+    },
+    {
+      "id": 855502,
+      "name": "Quá Khứ Sai Chỗ",
+      "desc": "Khi Phần Thân bị phá, tiêu thụ toàn bộ [AccumulatedPast].\nKhi Phần Thân bị phá, toàn bộ Kháng Loại Tấn Công và Nguyên Tội của cơ thể trở thành vô hiệu(0.5) bắt đầu từ lượt kế cho đến hết Ải"
+    },
+    {
+      "id": 855503,
+      "name": "Cổng Xả Bị Hỏng",
+      "desc": "Khi phần Pháo Hơi Nước bị phá hủy, mất toàn bộ [Breath] ở tất cả Bộ Phận\nKhi phần Pháo Hơi Nước bị phá hủy, mỗi khi nhận [Breath], nhận [Vulnerable] tương ứng với số lượng [Breath] nhận được\nMột khi phần Pháo Hơi Nước bị phá hủy, các Kỹ Năng Tấn Công mất 1 [Breath] Khi Dùng"
+    },
+    {
+      "id": 855504,
+      "name": "Thiêu Đốt và Chảy Máu Khúc Xạ",
+      "desc": "[Combustion] and Lượng [Laceration] maxes out at 30.\n[Combustion] and Tầng [Laceration] maxes out at 5."
+    },
+    {
+      "id": 855505,
+      "name": "Nhận Sa Lầy Khúc Xạ",
+      "desc": "Khi nhận [Sinking], nhận thêm 1 Lượng và Tầng (không áp dụng lên các hiệu ứng liên quan đến Vòng Lặp)"
+    },
+    {
+      "id": 855506,
+      "name": "Hơi Nước Rò Rỉ",
+      "desc": "Khi phần Pháo Hơi Nước nhận đòn, mất 1 [Breath] và 1 Tầng [Breath]"
+    },
+    {
+      "id": 855507,
+      "name": "Quá Khứ Chồng Lấp",
+      "desc": "Nhận 1 [Enhancement] với mỗi 80 [AccumulatedPast] mỗi lượt \nỞ 80+ [AccumulatedPast], nhận 1 Ô Kỹ Năng"
+    },
+    {
+      "id": 855508,
+      "name": "Máy Đếm Nhịp",
+      "desc": "Nếu [AccumulatedPast] đang là số lẻ, nhận 3 [Vulnerable] và [AttackDmgUp]\nNếu là số chẵn, nhận 3 [Protection] và 3 [AttackDmgDown]"
+    },
+    {
+      "id": 855601,
+      "name": "Gông Xiềng Vĩnh Cửu",
+      "desc": "HP Tối Đa tăng (Số Vòng Lặp X 5)%\n-(Số Vòng Lặp X 5)% sát thương gây ra"
+    },
+    {
+      "id": 855602,
+      "name": "Biển Báo Bể Nát",
+      "desc": "Khi phần Biển Báo bị phá hủy, Hoa Hồng mất 20% HP Tối Đa"
+    },
+    {
+      "id": 855603,
+      "name": "Huyết Nhục Vương Vãi",
+      "desc": "Khi phần Thịt bị phá hủy, phần Lõi mất 20% HP Tối Đa"
+    },
+    {
+      "id": 855604,
+      "name": "Dây Leo Đơn Độc",
+      "desc": "Khi một Hoa Hồng bị đánh bại, phần Lõi và Thịt mất 30 HP\n- Nhận 0.1 Kháng với Nguyên Tội tương ứng trong suốt Ải này (Cộng Dồn)"
+    },
+    {
+      "id": 856401,
+      "name": "Thù Hận",
+      "desc": "Khi bị đánh trúng, nhận 1 [AttackUp] và [DefenseUp] vào lượt kế"
+    },
+    {
+      "id": 856402,
+      "name": "Tàn Lửa",
+      "desc": "Khi bị một đòn tấn công đánh bại, gây sát thương tương ứng lên kẻ tấn công và gây 5 [Combustion]"
+    },
+    {
+      "id": 856403,
+      "name": "Tội Lỗi Nở Rộ",
+      "desc": "Khi có 4 [BloomingRose], tiến vào Trạng Thái Cường Hóa tới hết Ải này"
+    },
+    {
+      "id": 856404,
+      "name": "Phẫn Nộ Sục Sôi",
+      "desc": "Trong Trạng Thái Cường Hóa, gây thêm +1 [Combustion] bằng hiệu ứng Kỹ Năng \nNếu bị giết trong Trạng Thái Cường Hóa, gây 4 Tầng [Combustion] lên toàn bộ đồng minh"
+    },
+    {
+      "id": 856405,
+      "name": "Hoa Hồng Quấn Dây",
+      "desc": "Chủ thể chết khi Vườn Hồng bị kết liễu"
+    },
+    {
+      "id": 856501,
+      "name": "Khát Vọng Một Phía",
+      "desc": "Trong giao tranh, Sức Mạnh Tổng -2; Khi tấn công một chiều, Sức Mạnh Tổng +2"
+    },
+    {
+      "id": 856502,
+      "name": "Tội Lỗi Nở Rộ",
+      "desc": "Khi có 4 [BloomingRose], tiến vào Trạng Thái Cường Hóa tới hết Ải này"
+    },
+    {
+      "id": 856503,
+      "name": "Dục Vọng Rực Rỡ",
+      "desc": "Trong Trạng Thái Cường Hóa, gây thêm +1 [Laceration] bằng hiệu ứng Kỹ Năng \nNếu bị giết trong Trạng Thái Cường Hóa, gây 4 Tầng [Laceration] lên toàn bộ đồng minh"
+    },
+    {
+      "id": 856504,
+      "name": "Hoa Hồng Quấn Dây",
+      "desc": "Chủ thể chết khi Vườn Hồng bị kết liễu"
+    },
+    {
+      "id": 856601,
+      "name": "Vô Lực",
+      "desc": "Khi bị đánh trúng, nhận 5 [Protection] vào lượt kế, trừ khi bị Choáng"
+    },
+    {
+      "id": 856602,
+      "name": "Hoa Hồng Vàng 2",
+      "desc": "Khi có 4 [BloomingRose], tiến vào Trạng Thái Cường Hóa tới hết Ải này"
+    },
+    {
+      "id": 856603,
+      "name": "Lười Biếng Đè Nặng",
+      "desc": "Trong Trạng Thái Cường Hóa, gây thêm +1 [Vibration] bằng hiệu ứng Kỹ Năng \nNếu bị giết trong Trạng Thái Cường Hóa, gây 4 Tầng [Vibration] lên toàn bộ đồng minh"
+    },
+    {
+      "id": 856604,
+      "name": "Hoa Hồng Vàng 4",
+      "desc": "Chủ thể chết khi Vườn Hồng bị kết liễu"
+    },
+    {
+      "id": 856701,
+      "name": "Đói Khát",
+      "desc": "Cuối Lượt: Nếu chủ thể không thể gây sát thương trong lượt này, nhận 2 [BurstVulnerable]"
+    },
+    {
+      "id": 856702,
+      "name": "Hoa Hồng Xanh Lục 2",
+      "desc": "Khi có 4 [BloomingRose], tiến vào Trạng Thái Cường Hóa tới hết Ải này"
+    },
+    {
+      "id": 856703,
+      "name": "Phàm Ăn Bành Trướng",
+      "desc": "Trong Trạng Thái Cường Hóa, gây thêm +1 [Burst] bằng hiệu ứng Kỹ Năng \nNếu bị giết trong Trạng Thái Cường Hóa, gây 4 Tầng [Burst] lên toàn bộ đồng minh"
+    },
+    {
+      "id": 856704,
+      "name": "Hoa Hồng Xanh Lục 4",
+      "desc": "Chủ thể chết khi Vườn Hồng bị kết liễu"
+    },
+    {
+      "id": 856801,
+      "name": "Bất An",
+      "desc": "Trong giao tranh, Sức Mạnh Tổng +2; Khi tấn công một chiều, Sức Mạnh Tổng -2"
+    },
+    {
+      "id": 856802,
+      "name": "Tự Hủy",
+      "desc": "Khi bị đánh trúng, đổi Kháng Thờ Ơ thành Yếu (1.5) và nhận 5 [Protection] vào lượt kế"
+    },
+    {
+      "id": 856803,
+      "name": "Hoa Hồng Xanh Dương 3",
+      "desc": "Khi có 4 [BloomingRose], tiến vào Trạng Thái Cường Hóa tới hết Ải này"
+    },
+    {
+      "id": 856804,
+      "name": "Thờ Ơ Lập Lòe",
+      "desc": "Trong Trạng Thái Cường Hóa, gây thêm +1 [Sinking] bằng hiệu ứng Kỹ Năng \nNếu bị giết trong Trạng Thái Cường Hóa, gây 4 Tầng [Sinking] lên toàn bộ đồng minh"
+    },
+    {
+      "id": 856805,
+      "name": "Hoa Hồng Xanh Dương 5",
+      "desc": "Chủ thể chết khi Vườn Hồng bị kết liễu"
+    },
+    {
+      "id": 856901,
+      "name": "Trách Móc",
+      "desc": "Vào đầu mỗi lượt, gán 1 [Breath] và 1 Tầng [Breath] cho toàn bộ đồng minh"
+    },
+    {
+      "id": 856902,
+      "name": "Tự Cao",
+      "desc": "Nếu chủ thể còn sống, mỗi đồng minh nhận +5% Sát Thương Trí Mạng với mỗi [Breath] họ đang có"
+    },
+    {
+      "id": 856903,
+      "name": "Hoa Hồng Xanh Lam 3",
+      "desc": "Khi có 4 [BloomingRose], tiến vào Trạng Thái Cường Hóa tới hết Ải này"
+    },
+    {
+      "id": 856904,
+      "name": "Kiêu Ngạo Quá Độ",
+      "desc": "Vào đầu lượt mà đang trong Trạng Thái Cường Hóa, nhận thêm +1 [Breath] bằng hiệu ứng Kỹ Năng\nNếu bị giết trong Trạng Thái Cường Hóa, gán 4 Tầng [Breath] cho toàn bộ kẻ địch"
+    },
+    {
+      "id": 856905,
+      "name": "Hoa Hồng Xanh Lam 5",
+      "desc": "Chủ thể chết khi Vườn Hồng bị kết liễu"
+    },
+    {
+      "id": 857001,
+      "name": "Ghen Tị",
+      "desc": "Vào đầu lượt, gán 1 Tầng [Charge] to 2 đồng minh ngẫu nhiên"
+    },
+    {
+      "id": 857002,
+      "name": "Phức Cảm Tự Ti",
+      "desc": "Nếu chủ thể còn sống, mỗi đồng minh nhận +5% Sát Thương Trí Mạng với mỗi Tầng [Charge] họ đang có"
+    },
+    {
+      "id": 857003,
+      "name": "Hoa Hồng Tím 3",
+      "desc": "Khi có 4 [BloomingRose], tiến vào Trạng Thái Cường Hóa tới hết Ải này"
+    },
+    {
+      "id": 857004,
+      "name": "Phô Bày Đố Kỵ",
+      "desc": "Trong Trạng Thái Cường Hóa, gây thêm +1 Tầng [Charge] bằng hiệu ứng Kỹ Năng\nNếu bị giết trong Trạng Thái Cường Hóa, gán 4 Tầng [Charge] cho toàn bộ kẻ địch"
+    },
+    {
+      "id": 857005,
+      "name": "Hoa Hồng Tím 5",
+      "desc": "Chủ thể chết khi Vườn Hồng bị kết liễu"
+    },
+    {
+      "id": 855605,
+      "name": "Tội Lỗi Nở Rộ",
+      "desc": "Khi có 4 [BloomingRose], tiến vào Trạng Thái Cường Hóa tới hết Ải này"
+    },
+    {
+      "id": 855606,
+      "name": "Hoa Hồng Quấn Dây",
+      "desc": "Chủ thể chết khi Vườn Hồng bị kết liễu"
+    },
+    {
+      "id": 854403,
+      "name": "Phát Tán Tàn Lửa",
+      "desc": "Vào cuối lượt, nếu chủ thể có [Combustion], gây lượng [Combustion] tương ứng lên toàn bộ đơn vị có [WrappedCurseTagRe] vào lượt kế"
+    },
+    {
+      "id": 855607,
+      "name": "Bụi Gai Nhuốm Màu Tội Lỗi",
+      "desc": "Mỗi lượt, tất cả Bộ Phận nhận [Protection] bằng số Tội Nhân có hiệu ứng [PrepareSinRose]"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "dataList": [
+    {
+      "id": 130601,
+      "name": "Duello",
+      "desc": "Sau khi Giao Tranh, Gây 1 [DuelEdge] lên mục tiêu đã Giao Tranh với chủ thể này\nTrong một Giao Tranh với mục tiêu có [DuelEdge], hồi 3 SP với mỗi Lớp [DuelEdge] trên mục tiêu (tối đa 15)"
+    },
+    {
+      "id": 130602,
+      "name": "Trường Phái Palermo",
+      "desc": "Nhận các hiệu ứng sau dựa vào số Lớp [DuelEdge] trên mục tiêu\n- Với mỗi Lớp, +5% sát thương gây ra và -5% sát thương phải nhận với mục tiêu có [DuelEdge]\n- Khi có +1 Lớp, trong một Giao Tranh với mục tiêu có [DuelEdge], nhận Sức Mạnh Giao Tranh +1\n- Khi có 2+ Lớp, trong một Giao Tranh với mục tiêu có [DuelEdge], nhận Sức Mạnh Gốc +1\n- Khi có 3+ Lớp, trong một Giao Tranh với mục tiêu có [DuelEdge], nhận Sức Mạnh Xu +1 và Gây 3 [SeveredTendon] Khi Đánh Trúng\n- Khi Có 4+ Lớp, trong một Giao Tranh với mục tiêu có [DuelEdge], nhận Sức Mạnh Tổng +1"
+    },
+    {
+      "id": 130603,
+      "name": "Kiếm Mảnh Cạnh Sắc Phái Palermo / Lưỡi Kiếm Trảm Đoạt ",
+      "desc": "Nếu hiệu ứng Kỹ Năng của đơn vị này kích hoạt [VibrationExplosion], nhận 2 [AttackUp] vào lượt kế (3 lần mỗi lượt)"
+    },
+    {
+      "id": 130604,
+      "name": "Dấu Ấn Của Thợ Săn",
+      "desc": "Mỗi 3 lượt, chọn ngẫu nhiên một kẻ địch (ngoại trừ Ryōshū), giảm Tốc Độ của mục tiêu xuống 1, và toàn bộ Kỹ Năng của chủ thể này nhắm vào mục tiêu đó\n(Nếu hiệu ứng này không thể kích hoạt do Bị Choáng, kích hoạt vào lượt kế)"
+    },
+    {
+      "id": 130605,
+      "name": "Cuốn Sách Giáo Khoa mang một Mục Đích Duy Nhất",
+      "desc": "Đầu Ải: nhận [TeachersCommand]\nTrong một Giao Tranh với Ryōshū, Sức Mạnh Giao Tranh -3 và chuyển Xu của các Kỹ Năng Tấn Công Cơ Bản của chủ thể này thành [SuperCoin]\nĐồng thời, khi Thua Giao Tranh, -80% sát thương gây ra và các hiệu ứng \"Đánh Trúng\" sẽ không kích hoạt"
+    },
+    {
+      "id": 130701,
+      "name": "Cánh Tay Kiếm Tìm - Giải Trừ Một Phần Hạn Chế",
+      "desc": "Nếu Bộ Phận Cánh Tay bị phá hủy, chuyển Xu của Kỹ Năng Phần Tay còn lại thành [SuperCoin], và mỗi Xu nhận +1 Phạm Vi Tấn Công\n- Khi sử dụng Kỹ Năng bị ảnh hưởng từ hiệu ứng này, nhận 1 [RapidGrowthApple]"
+    },
+    {
+      "id": 130702,
+      "name": "Hắc Hậu - Giải Trừ Một Phần Hạn Chế",
+      "desc": "Nếu chủ thể còn Bộ Phận Rễ, nhận 1 [HowDareYouApple] khi Phần Quả bị đánh\n\nKhi có 4 [HowDareYouApple], sử dụng Kỹ Năng mạnh mẽ gây hiệu ứng bất lợi mạnh không kém\n\nNếu chủ thể không còn Bộ Phận Rễ, không thể nhận thêm hay mất đi [HowDareYouApple]\nKhi Bộ Phận Quả bị phá hủy, mất [HowDareYouApple]"
+    },
+    {
+      "id": 130703,
+      "name": "Rễ Cây Quấn Siết",
+      "desc": "Đầu Lượt: gây 2 [Binding] lên toàn bộ kẻ địch\nHiệu ứng này có hiệu lực cho tới khi Bộ Phận Rễ bị phá hủy"
+    },
+    {
+      "id": 130704,
+      "name": "Rễ Cây Cô Độc",
+      "desc": "Phần Rễ nhận 3 [Enhancement] với mỗi bộ phận Tay bị phá hủy\nKhông nhận hiệu ứng này nesu phần Rễ bị phá hủy"
+    },
+    {
+      "id": 131901,
+      "name": "Giáp Sắt Bảo Hộ Và Kìm Hãm",
+      "desc": "Đầu Lượt: nếu chủ thể không bị Choáng, nhận 2 [Protection], 10 [DefenseUp], và HP Khiên bằng 10% HP hiện tại của chủ thể\n\nMỗi lần chủ thể dùng Kỹ Năng \"Kìm Hãm Cơ Thể\" trong Ải này, nhận ít hơn 1 [Protection], ít hơn 5 [DefenseUp], và giảm 5% của lượng Khiên HP đã đề cập ở trên"
+    },
+    {
+      "id": 131902,
+      "name": "Trinh Nữ Sắt - Gai Nhọn",
+      "desc": "Nếu chủ thể không bị Choáng, khi bị đánh bằng Xu cuối của kẻ tấn công, kích hoạt các hiệu ứng sau:\n- Gây sát thương Đâm bằng 20% sát thương của Xu vừa tung và gây 2 [Laceration] (sát thương tối đa mỗi Kỹ Năng: 100)\n- Sát thương từ hiệu ứng này không thể làm Choáng mục tiêu"
+    },
+    {
+      "id": 131903,
+      "name": "Trinh Nữ Sắt - Khử Rung Tim",
+      "desc": "Khi lên sân, chủ thể hồi 30 SP\n\nKhi còn 60% HP, hồi phục khỏi Choáng và kết thúc lượt (một lần mỗi Ải)"
+    },
+    {
+      "id": 131904,
+      "name": "Lấy Thể Xác Tiêu Hao Làm Chất Liệu",
+      "desc": "-30% sát thương HP, SP phải nhận từ [Combustion], [Burst], [Sinking], -30% hiệu lực Ngưỡng Choáng từ [Vibration]\n-50% sát thương phải nhận từ [Laceration]"
+    },
+    {
+      "id": 131905,
+      "name": "Fascia, Tác Phẩm Quý Giá Của Tôi",
+      "desc": "Cuối Lượt: khi có 2 [HumanFleshTheRings], [HumanFleshTheRings] mất hiệu lực vào lượt kế; sau đó, nhận [BoneBladeTheRings]\n\nĐầu Lượt: nếu chủ thể có [BoneBladeTheRings], dùng một đòn đánh mạnh mẽ vào lượt này\n\nNếu chủ thể bị đánh bằng một Kỹ Năng Tấn Công trước khi sử dụng đòn đánh mạnh mẽ, nhận 1 [UnsteadyTheRings]"
+    },
+    {
+      "id": 131801,
+      "name": "Rèn Luyện để Kế Thừa Danh Xưng một Vì Sao",
+      "desc": "Kỹ Năng Tấn Công Kết Đòn: Gây (Số Xu Chém đã Trí Mạng x 10) sát thương Chém lên từng mục tiêu (sát thương này không thể làm Choáng mục tiêu)"
+    },
+    {
+      "id": 131802,
+      "name": "Tinh Thần Nhất Đáo",
+      "desc": "[Breath] của chủ thể bị giới hạn ở 25\nBất kỳ Lượng [Breath] nào vượt quá 25 sẽ bị chuyển thành [DicipleLittleFinger]"
+    },
+    {
+      "id": 131803,
+      "name": "Chỉnh Kiếm [整劍]",
+      "desc": "Đầu Ải: nhận 50 [DicipleLittleFinger]"
+    },
+    {
+      "id": 131804,
+      "name": "Tĩnh Niệm [靜念]",
+      "desc": "Nếu chủ thể có [DicipleLittleFinger], nhận các hiệu ứng sau:\n- SP không thể giảm xuống 0; Nếu SP giảm xuống 0, hồi lại về 0\n- Chuyển sát thương SP nhận được thành sát thương Thờ Ơ (ngoại trừ thay đổi SP do \"Tác nhân làm tăng/giảm Tinh Thần\"))"
+    },
+    {
+      "id": 131805,
+      "name": "Ân Sủng",
+      "desc": "Khi Giao Tranh với mục tiêu không phải Ryōshū, Sức Mạnh Giao Tranh -2\n-20% sát thương phải nhận từ các mục tiêu không phải Ryōshū"
+    },
+    {
+      "id": 130801,
+      "name": "Mê Hoặc",
+      "desc": "Đầu Lượt: dựa trên số kẻ địch trong ải, gây [FairyCharm] lên các tội nhân với tốc độ chậm nhất\nSố lượng kẻ địch bị [FairyCharm] tăng lên với mỗi lần bộ phận Tiên bị phá hủy"
+    },
+    {
+      "id": 130802,
+      "name": "Vực Thẳm Hiện Hữu",
+      "desc": "Để lộ phần Thân Thể khi Tiên bị phá hủy\nToàn bộ hiệu ứng có lợi và bất lợi mất hiệu lực khi phần Thân Thể trốn lần nữa"
+    },
+    {
+      "id": 130803,
+      "name": "Mồi Câu Dẫn Dụ",
+      "desc": "Không thể gây sát thương vào phần lõi thông qua việc gây sát thương lên bộ phận Tiên\nMột số kỹ năng nhất định sẽ nhận Phạm Vi Tấn Công dựa trên số kẻ địch bị [FairyCharm]"
+    },
+    {
+      "id": 130804,
+      "name": "Gốc Cây Đổ Gãy",
+      "desc": "Khi phần Thân Thể bị phá hủy:\n- Tiên sẽ có 60% HP tối đa sau khi hồi phục\n- Phần Lõi hồi thêm 20 HP từ hiệu ứng Kỹ Năng"
+    },
+    {
+      "id": 130805,
+      "name": "Mồi Câu Tiến Hóa",
+      "desc": "Tiên nhận thêm 30% HP tối đa mỗi lần hồi phục"
+    },
+    {
+      "id": 130806,
+      "name": "Bụi Tiên",
+      "desc": "Khi Tiên bị đánh bại, tất cả Danh Tính nhận 5 [Breath] và 2 Tầng [Breath] vào lượt kế"
+    },
+    {
+      "id": 130807,
+      "name": "Cường Hóa Hung Hãn - Giải Trừ Một Phần Hạn Chế",
+      "desc": "Sử dụng những kỹ năng mạnh hơn sau khi bộ phận Tiên bị phá hủy 2 lần"
+    },
+    {
+      "id": 130901,
+      "name": "Tẩu Thoát Không Gian",
+      "desc": "Kể từ Lượt 2, chủ thể triệu hồi 4 Không Gian ngẫu nhiên và trốn đi\n- Khi tất cả Bộ Phận đều bị Choáng, kích hoạt hiệu ứng này vào lượt kế\n- Không thể bị Choáng khi trốn trong một 'Khe Nứt Không Gian'."
+    },
+    {
+      "id": 130902,
+      "name": "Tẩu Thoát Không Gian Vào Ngõ Cụt",
+      "desc": "Khi tất cả 'Khe Nứt Không Gian' bị phá hủy, chủ thể sẽ tự xuất hiện từ 'Khe Nứt Không Gian' vào lượt kế\nSau đó, chủ thể mất 5 Tầng [Charge] và nâng 30 Ngưỡng Choáng của tất cả Bộ Phận"
+    },
+    {
+      "id": 130903,
+      "name": "Tái Tạo Lưỡi Kiếm Không Gian Khúc Xạ",
+      "desc": "Khi Bộ Phận Lưỡi Kiếm bị phá hủy, mất 5 Tầng [Charge]\nVào cuối lượt tiếp theo, tiêu thụ 2 Tầng [Charge] để tái tạo Lưỡi Kiếm đã bị phá hủy.\n\nKhi bộ phận Lưỡi Kiếm bị phá hủy, nhận 2 [AttackDown] vào mỗi Đầu Lượt."
+    },
+    {
+      "id": 130904,
+      "name": " Cưỡng Chế Xé Rách Không Gian - Giải Trừ Một Phần Hạn Chế",
+      "desc": "Khi phần Lõi còn 60% HP hoặc thấp hơn, kết lượt và hình thành hành vi chiến đấu mới \n- Vô hiệu hóa Nội tại \"Tẩu Thoát Không Gian\" \n- Vô hiệu hóa nội tại \"Tẩu Thoát Không Gian Vào Ngõ Cụt\" \n- Nếu một trong hai phần tay bị phá hủy, dùng một Kỹ Năng mạnh mẽ vào một vài lượt"
+    },
+    {
+      "id": 131001,
+      "name": "Không Gian Chảy Máu",
+      "desc": "'+10% sát thương gây ra sau khi đi qua Không Gian Chảy Máu"
+    },
+    {
+      "id": 131101,
+      "name": "Không Gian Độc Tố",
+      "desc": "Lõi nhận thêm 20% HP sau khi đi qua Không Gian Độc Tố"
+    },
+    {
+      "id": 131201,
+      "name": "Không Gian Chấn Động",
+      "desc": "Tốc Độ Tối Đa & Tối Thiểu +1 khi đi qua Không Gian Chấn Động"
+    },
+    {
+      "id": 131301,
+      "name": "Không Gian Sốc Điện",
+      "desc": "Sức Mạnh Xu +1 khi đi qua Không Gian Sốc Điện"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "dataList": [
+    {
+      "id": "ObjectOfExploration",
+      "name": "Trân Phẩm",
+      "desc": "              <sprite name=\"PaintingMaterial\"><color=#e20000>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Inspire",
+      "name": "Cảm Hứng Bất Chợt",
+      "desc": "        <sprite name=\"PaintingMaterial\"><color=#e20000>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PaintingMaterial",
+      "name": "Chất Liệu Hội Họa",
+      "desc": "    <sprite name=\"Laceration\"><color=#e20000> </color>                    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GreatAesthetics",
+      "name": "Mỹ Cảm Tuyệt Phẩm",
+      "desc": "                     \n       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GiftCannon",
+      "name": "Hỏa Lực",
+      "desc": "     \n       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GiftGlass",
+      "name": "Mỏng Manh",
+      "desc": "     \n       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlandishmentShinEnemyDelete",
+      "name": "Tâm (心) - ???",
+      "desc": "        \n        \n       <sprite name=\"Breath\"><color=#fac400> </color>   \n             ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EnhanceRoseSign",
+      "name": "Dây Gai Trói Buộc",
+      "desc": "                  \n                ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LookingFutureMirror",
+      "name": "Một Thoáng Tiên Liệu",
+      "desc": "     \n\n        \n    \n           \n           \n        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFatherGutsMirror",
+      "name": "Sức Bền Lố Bịch",
+      "desc": "                \n\n               \n\n                  <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Tao đéo cần cái thứ ngoại lai chết tiệt như \"Tâm (心)\" hay cái lồn gì hết. Chỉ cần nghiến chặt bộ hàm lại rồi gồng hết sức từ chỗ hình xăm này thì mấy cái trò mèo của mày đều bị tao vả cho tan tành hết.\""
+    },
+    {
+      "id": "FutureEyeOnMirror",
+      "name": "Con Mắt Tiên Liệu",
+      "desc": "     \n     \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Cái con mắt này không sở hữu cái gì đặc biệt cả. Nó như cái máy chỉ biết phân tích mọi thứ trong tầm mắt rồi đưa ra viễn cảnh chắc chắn sẽ xảy ra thôi.\""
+    },
+    {
+      "id": "FutureEyeOffMirror",
+      "name": "Con Mắt Tiên Liệu - Quá Nhiệt",
+      "desc": "     \n         \n          <sprite name=\"AccelerationRound\"><color=#fac400>  </color>  <sprite name=\"SuperCoin\"><color=#9f6a3a>  </color>\n     \n       <sprite name=\"FutureEyeOnMirror\"><color=#fac400>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TeachersPreyMirror",
+      "name": "Đối Tượng Săn Bắn",
+      "desc": "                            ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Một khi Famiglia Bognatelli nhắm vào con mồi của mình, thì nó sẽ không bao giờ có thể trốn chạy được."
+    },
+    {
+      "id": "ObservationTheRingsHidden",
+      "name": "Chiêm Ngưỡng Hoạt Cảnh",
+      "desc": "     \n     \n                           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Việc thưởng lãm tác phẩm trong phòng tranh đòi hỏi một sự chiêm nghiệm từ tốn. Xin hãy nhớ rằng—sự nóng vội sẽ làm lu mờ đi khả năng cảm thụ nghệ thuật.\""
+    },
+    {
+      "id": "MD7Limit101",
+      "name": "Phân Bổ Lực Lượng",
+      "desc": "        <sprite name=\"AttackUp\"><color=#fac400>   </color>                         "
+    },
+    {
+      "id": "MD7Limit111",
+      "name": "Tinh Thần Hưng Phấn",
+      "desc": "         \n            "
+    },
+    {
+      "id": "MD7Limit121",
+      "name": "Tạo Lá Chắn",
+      "desc": "       \n                     "
+    },
+    {
+      "id": "MD7Limit131",
+      "name": "Nhân Rộng Tổn Thương",
+      "desc": "        <sprite name=\"Combustion\"><color=#e30000> </color> <sprite name=\"Laceration\"><color=#e30000> </color> <sprite name=\"Vibration\"><color=#e30000> </color> <sprite name=\"Burst\"><color=#e30000> </color>  <sprite name=\"Sinking\"><color=#e30000> </color>"
+    },
+    {
+      "id": "MD7Limit141",
+      "name": "Áp Đặt Trạng Thái",
+      "desc": "           <sprite name=\"Combustion\"><color=#e30000> </color> <sprite name=\"Laceration\"><color=#e30000> </color> <sprite name=\"Vibration\"><color=#e30000> </color> <sprite name=\"Burst\"><color=#e30000> </color>  <sprite name=\"Sinking\"><color=#e30000> </color>            "
+    },
+    {
+      "id": "RingFingerPhysical",
+      "name": "Mỹ Cảm Thể Xác",
+      "desc": "      <sprite name=\"Laceration\"><color=#e30000> </color>                   <sprite name=\"Laceration\"><color=#e30000> </color>               \n                    \n        "
+    },
+    {
+      "id": "RingFingerFauvism",
+      "name": "Mị Lực Dã Thú",
+      "desc": "      <sprite name=\"Laceration\"><color=#e30000> </color>                   <sprite name=\"Laceration\"><color=#e30000> </color>               \n           ≤     <sprite name=\"Sinking\"><color=#e30000> </color>   <sprite name=\"HitResultUp\"><color=#fac400>   </color>       \n        "
+    },
+    {
+      "id": "KAmpouleMirror",
+      "name": "Huyết Thanh Khẩn Cấp Của Tập Đoàn K",
+      "desc": "                  \n       \n   \n                        \n       "
+    },
+    {
+      "id": "PlayingWithWaterTogetherMirror",
+      "name": "Tóe Nước",
+      "desc": "     \n                  \n  ·    <sprite name=\"Sinking\"><color=#e30000> </color>    \n  ·      \n                 "
+    },
+    {
+      "id": "RedButterfly",
+      "name": "Bướm Phá Kén",
+      "desc": "         \n                             "
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "dataList": [
+    {
+      "id": 863201,
+      "name": "",
+      "subDesc": "",
+      "desc": "Cái đầu lâu khổng lồ thu đầu về sau, tạo ra một âm thanh ghê rợn vang vọng khắp không gian.\n\nẨn sau sự tĩnh lặng ấy mà một rung chấn đang thai nghén; cái đầu lâu đó đang chuẩn bị tung ra một đòn hùng mạnh.\n\nTuy nhiên nó có vẻ như đã gồng quá sức;\n\ncơ thể nó rạn nứt, để lộ ra một điểm yếu chí mạng.\n\nĐây có lẽ là thời cơ để tấn công cái điểm yếu trên cơ thể nó thay vì đợi chờ nó tấn công chúng ta.\n\nNên làm gì đây?",
+      "options": [
+        {
+          "message": "Tấn công cơ thể.",
+          "messageDesc": "Chọn để giảm Kháng của Dị Thể nhưng sẽ tăng Sát Thương Trí Mạng mà nó gây ra.",
+          "result": [
+            "Các Tội Nhân trên tiền tuyến nhanh chóng bứt tốc và lao vào công kích điểm yếu trên người Dị Thể.\n\nVết nứt đó dần rộng ra thành một cái rãnh lớn.\n\nNgay cái khoảnh khắc đó, tôi cảm nhận được một cặp mắt đang ghim thẳng vào tôi từ bên trong cái bóng tối ẩn mình sau bộ xương ấy."
+          ]
+        },
+        {
+          "message": "Tiếp tục đợi chờ.",
+          "messageDesc": "Chọn để gán Bảo Hộ lên toàn bộ đồng minh.",
+          "result": [
+            "Thay vì vội vàng tấn công vô ích, tôi nhận thấy một cặp mắt của thực thể đứng trong bóng tối xuyên qua từng đợt hơi thở dày đặc của Dị Thể.\n\nCó lẽ mối nguy hiểm thật sự không phải là bộ xương kia, mà chính là thực thể ẩn trong bóng tối đó.\n\nTrực giác lập tức mách bảo tôi rằng đừng làm gì cả. Dục tốc bất đạt. Hãy cứ phòng thủ rồi xem nó sẽ làm gì."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863301,
+      "name": "",
+      "subDesc": "",
+      "prevDesc": "뭔가 넣어봄",
+      "desc": "Bông hồng uống trọn dòng máu tươi đỏ thẳm.\n\nNhưng kể cả dòng máu vô độ này cũng chẳng hề đủ cho nó.\n\nNhững con mắt cứ xen kẽ các cánh hoa cứ liên tục lườm các Tội Nhân.",
+      "options": [
+        {
+          "message": "Ngó lơ nó đi.",
+          "messageDesc": "Chọn để giảm sức phòng thủ của Dị Thể nhưng sẽ tăng sức công kích của nó.",
+          "result": [
+            "Chúng tôi nhất quyết sẽ không cung cấp máu cho nó.\n\nNó tỏ ra bất mãn và khó chịu.\n\nBông hồng vươn các gai nhọn và phóng thẳng về phía các Tội Nhân."
+          ]
+        },
+        {
+          "message": "Mỗi Tội Nhân sẽ hiến cho nó một ít máu.",
+          "messageDesc": "Chọn tiêu hao HP của toàn bộ đồng minh để giảm sức công kích của Dị Thể nhưng sẽ tăng sức phòng thủ của nó.",
+          "result": [
+            "Bông hồng có vẻ hài lòng sau khi uống máu của Tội Nhân.\n\nNó thu những ánh mắt căm phẫn lại, và các cánh hoa cũng dần bé đi."
+          ]
+        },
+        {
+          "message": "Mỗi Tội Nhân sẽ hiến cho nó một lượng máu vừa phải.",
+          "messageDesc": "Chọn để tiêu hao HP của toàn bộ đồng minh để giảm sức công kích của Dị Thể nhưng sẽ tăng sức phòng thủ của nó.",
+          "result": [
+            "Bông hồng có vẻ hài lòng sau khi uống máu của Tội Nhân.\n\nNó thu những ánh mắt căm phẫn lại, và các cánh hoa cũng dần bé đi."
+          ]
+        },
+        {
+          "message": "Yêu cầu các Tội Nhân dọn sạch chỗ máu.",
+          "messageDesc": "Chọn tiêu hủy một phần Huyết Yến để giảm sức phòng thủ của Dị Thể nhưng sẽ tăng sức công kích của nó.",
+          "result": [
+            "Các Tội Nhân tất bật dọn chỗ máu loang lổ khỏi chiến trường.\n\nĐối mặt với sự khan hiếm nguồn máu...\n\n... các cánh hoa liên tục rung lên còn những gai nhọn bắt đầu trồi ra."
+          ]
+        }
+      ]
+    }
+  ]
+}

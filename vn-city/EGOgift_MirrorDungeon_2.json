@@ -1,0 +1,364 @@
+{
+  "dataList": [
+    {
+      "id": 9156,
+      "name": "Lò Sưởi Gỗ Thiên Kỷ",
+      "desc": "Cuối Lượt: kẻ địch có 3+ Tầng [Combustion] kích hoạt [Combustion] thêm một lần nữa (giảm 1 Tầng [Combustion])",
+      "simpleDesc": [
+        {
+          "abilityID": 9156,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9158,
+      "name": "Ngọn Lửa Thuần Túy",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Combustion], hoặc '<noparse>Thiêu Đốt</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nĐánh Trúng bằng Kỹ Năng (tính cả Kỹ Năng E.G.O): nếu mục tiêu có 3+ Tầng [Combustion], kích hoạt [Combustion] một lần lên kẻ địch. (mục tiêu sẽ mất 1 Tầng [Combustion]; kích hoạt một lần mỗi Kỹ Năng)\n\nCuối Lượt: mục tiêu có 3+ Tầng [Combustion] kích hoạt [Combustion] thêm 1 lần nữa (mục tiêu mất 1 Tầng [Combustion])\n\nNếu mục tiêu có [Combustion] bị đánh bại (với Dị Thể, nếu phần Lõi bị đánh bại), gây Lượng [Combustion] còn lại của chúng lên một kẻ địch có Lượng [Combustion] ít nhất vào Đầu Lượt kế.\n\nĐầu Lượt: trong lượt này, gây 4 [AttackDown] lên kẻ địch có [Combustion]\n\nNếu mục tiêu có [Combustion] bị đánh bại, vào Đầu Lượt kế, (Lượng [Combustion] của kẻ địch bị đánh bại / 15) đồng minh có Kỹ Năng gây [Combustion] nhận 2 [AttackDmgUp]. (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9158,
+          "simpleDesc": "Activate [Combustion] once"
+        },
+        {
+          "abilityID": 91581,
+          "simpleDesc": "Activate [Combustion] 1 more time"
+        },
+        {
+          "abilityID": 91582,
+          "simpleDesc": "Inflict Lượng [Combustion] equal to (remaining [Combustion] Stack on defeated enemy)"
+        },
+        {
+          "abilityID": 91583,
+          "simpleDesc": "Gây 4 [AttackDown]"
+        },
+        {
+          "abilityID": 91583,
+          "simpleDesc": "Nhận 2 [AttackDmgUp]"
+        }
+      ]
+    },
+    {
+      "id": 9160,
+      "name": "Túi Máu Thủng",
+      "desc": "Khi đồng minh Thắng Giao Tranh: kích hoạt [Laceration] trên kẻ địch một lần nữa và giảm 1 Tầng [Laceration] (3 lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9160,
+          "simpleDesc": "Activate Bleed once (reduce Bleed Count by 1)"
+        }
+      ]
+    },
+    {
+      "id": 9162,
+      "name": "Sốc Xuất Huyết",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Laceration], hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nKhi đồng minh Thắng Giao Tranh: kích hoạt [Laceration] lên kẻ địch thêm lần nữa. (một lần mỗi lượt với mỗi đồng minh)\n\nSát Thương [Laceration] có thể Làm Choáng kẻ địch; nếu kẻ địch Bị Choáng do sát thương từ [Laceration] giữa Giao Tranh, kích hoạt [Laceration] (Số Xu còn lại của kẻ địch) lần và giảm (Số lần kích hoạt [Laceration]) Tầng [Laceration]\n\nNếu toàn bộ kẻ địch có [Laceration], chúng sẽ mất 2 Cấp Phòng Thủ. Cuối Lượt, gây (Số lần kích hoạt [Laceration] x 2) [DefenseDown] (tối đa 20)\n\nKhi gây Lượng [Laceration] hoặc ‘<noparse>Chảy Máu</noparse> Đặc Trưng’ bằng hiệu ứng Kỹ Năng, gây thêm 3 Lượng [Laceration] và +1 Tầng [Laceration] lên mục tiêu",
+      "simpleDesc": [
+        {
+          "abilityID": 9162,
+          "simpleDesc": "On Clash Win, activate Bleed on the target once (reduce Bleed Count by 1)"
+        },
+        {
+          "abilityID": 91621,
+          "simpleDesc": "After Clashing, activate the enemy's [Laceration] (# of remaining Coins on self) times and reduce Tầng [Laceration] by (# of [Laceration] activations)"
+        },
+        {
+          "abilityID": 91622,
+          "simpleDesc": "Inflict (# of [Laceration] activations x 2) [DefenseDown] (tối đa 20)"
+        },
+        {
+          "abilityID": 91623,
+          "simpleDesc": "Inflict 3 Bleed Potency và +1 Bleed Count"
+        }
+      ]
+    },
+    {
+      "id": 9163,
+      "name": "Dao Động Tinh Thể Khoáng",
+      "desc": "Khi thắng Giao Tranh bằng Kỹ Năng có tiêu thụ Tầng [Vibration]: nếu mục tiêu không có [Vibration], gây +2 Tầng [Vibration]\n\nỞ 3+ Lười Biếng Cộng Hưởng có bao gồm Kỹ Năng kể trên, đổi thành gây +3 Tầng [Vibration]",
+      "simpleDesc": [
+        {
+          "abilityID": 9163,
+          "simpleDesc": "When winning a Clash with a Skill that consumed Tầng [Vibration], gây +2 Tầng [Vibration]"
+        },
+        {
+          "abilityID": 91631,
+          "simpleDesc": "When winning a Clash with a Skill that consumed Tầng [Vibration] and is a part of a 3+ Sloth Reson.Gây +3 Tầng [Vibration]"
+        }
+      ]
+    },
+    {
+      "id": 9164,
+      "name": "Thùng Rỗng Lắc Lư",
+      "desc": "Đầu Lượt: ở 8+ Tầng [Vibration], Sức Mạnh Giao Tranh +1\n\nKhi đánh bại hoặc Làm Choáng kẻ địch bằng Kỹ Năng có tiêu thụ Tầng [Vibration] trên chủ thể: nhận (Tầng [Vibration] đã tiêu thụ / 4) Tầng [Vibration] (một lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 9164,
+          "simpleDesc": "Ở mốc 8+ Tremor Count, Sức Mạnh Giao Tranh +1"
+        },
+        {
+          "abilityID": 91641,
+          "simpleDesc": "When winning a Clash with a Skill that consumes Tầng [Vibration]: gain Tầng [Vibration]"
+        }
+      ]
+    },
+    {
+      "id": 9166,
+      "name": "Tâm Chấn",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị) \n(Không áp dụng cho Danh Tính chỉ có Kỹ Năng Tấn Công tự nhận Tầng [Vibration])\n\nKhi thắng Giao Tranh bằng Kỹ Năng có tiêu thụ Tầng [Vibration] trên chủ thể: nếu mục tiêu không có [Vibration], gây +3 Tầng [Vibration]\n\nĐầu Lượt: nhận Sức Mạnh Giao Tranh +(Tầng [Vibration] trên chủ thể / 5) (tối đa 3)\n\nKhi dùng Kỹ Năng tiêu thụ Tầng [Vibration] trên chủ thể: nếu mục tiêu bị đánh bại hoặc Choáng, nhận +(Tầng [Vibration] đã tiêu thụ / 2) Tầng [Vibration] (một lần mỗi Kỹ Năng)",
+      "simpleDesc": [
+        {
+          "abilityID": 9166,
+          "simpleDesc": "When winning a Clash with a Skill that consumed Tầng [Vibration] on self: if the target does not have [Vibration], gây +3 Tầng [Vibration]"
+        },
+        {
+          "abilityID": 91661,
+          "simpleDesc": "Đầu Lượt: gain (Tầng [Vibration] on self / 5) Clash Power"
+        },
+        {
+          "abilityID": 91662,
+          "simpleDesc": "When winning a Clash with a Skill that consumes Tầng [Vibration]: gain Tầng [Vibration]"
+        }
+      ]
+    },
+    {
+      "id": 9167,
+      "name": "Chuông Vang Tứ Phương Bát Hướng",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Vibration], hoặc '<noparse>Chấn Động</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị) \n(Không áp dụng cho Danh Tính chỉ có Kỹ Năng Tấn Công tự nhận Tầng [Vibration])\n\nKhi thắng Giao Tranh bằng Kỹ Năng có gây Lượng hoặc Tầng [Vibration], hoặc tiêu thụ Tầng [Vibration] trên chủ thể: gây (Số Xu còn lại) Lượng [Vibration] lên mục tiêu và nhận (Số Xu còn lại) Tầng [Vibration] (nhận tối đa +3 Tầng <noparse>Chấn Động</noparse> mỗi Kỹ Năng). Nếu mục tiêu không có [Vibration], gây +3 Tầng [Vibration]\n\nĐầu Lượt: nhận (1 + (Tầng [Vibration] trên chủ thể / 5)) [ParryingResultUp]. (tối đa 3)\n\nKhi sử dụng Kỹ Năng có tiêu thụ Tầng [Vibration] trên chủ thể: khi đánh bại hoặc Làm Choáng kẻ địch, nhận (Tầng [Vibration] đã tiêu thụ / 2) Tầng [Vibration] (một lần mỗi Kỹ Năng)\n\nKỹ Năng +(Tầng [Vibration] của chủ thể đã tiêu thụ + Lượng [Vibration] trên kẻ địch + 5)% sát thương gây ra (không tính Kỹ Năng E.G.O; tối đa 50%)\nNếu mục tiêu có [VibrationNesting], khi kích hoạt [Switch_Vibration] hoặc [FusionVibration] lên kẻ địch bằng một loại [Vibration] mà [VibrationNesting] trên chúng không có, kéo dài [VibrationNesting] trên mục tiêu vào Cuối Lượt cho tới lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9167,
+          "simpleDesc": "On Clash Win, inflict Tremor equal to the # of remaining Coins. If the target does not have [Vibration], inflict Tremor Count"
+        },
+        {
+          "abilityID": 91671,
+          "simpleDesc": "Turm Start: nhận Sức Mạnh Giao Tranh Up based on Tremor Count on self"
+        },
+        {
+          "abilityID": 91672,
+          "simpleDesc": "When winning a Clash with a Skill that consumes Tầng [Vibration]: gain Tầng [Vibration]"
+        },
+        {
+          "abilityID": 91673,
+          "simpleDesc": "Skills that consume Tầng [Tremor] deal more damage"
+        },
+        {
+          "abilityID": 91674,
+          "simpleDesc": "Extends the Tremor - Superposition on target at Turn End until next turn"
+        }
+      ]
+    },
+    {
+      "id": 9168,
+      "name": "Mảnh Vỡ Ngày Tận Thế",
+      "desc": "Nếu mục tiêu có ít hơn 15 Lượng [Burst], gây thêm 1 Lượng khi gây Lượng [Burst]",
+      "simpleDesc": [
+        {
+          "abilityID": 9168,
+          "simpleDesc": "Inflict 1 additional Lượng [Burst]"
+        }
+      ]
+    },
+    {
+      "id": 9170,
+      "name": "Tượng Kỳ Quái",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Burst], hoặc '<noparse>Vỡ Vụn</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nHiệu ứng [Burst] +100% sát thương gây lên kẻ địch có Khiên\nNếu mục tiêu có ít hơn 15 Lượng [Burst], gây thêm 2 Lượng khi gây Lượng [Burst]\n\nNếu không thể gây [Burst] bằng hiệu ứng Kỹ Năng, nhận Sức Mạnh Xu Dương +1\n- Kỹ Năng Xu Âm: Thay vì nhận Sức Mạnh Xu Dương, nhận Sức Mạnh Gốc +(4 / Số Xu) (tối thiểu 1; làm tròn xuống)",
+      "simpleDesc": [
+        {
+          "abilityID": 9170,
+          "simpleDesc": "Rupture effects +100% sát thương gây ra against Shields"
+        },
+        {
+          "abilityID": 91701,
+          "simpleDesc": "Inflict 2 additional Lượng [Burst]"
+        },
+        {
+          "abilityID": 91702,
+          "simpleDesc": "If [Burst] cannot be applied due to Skill effects, gain Coin/Base Power instead"
+        }
+      ]
+    },
+    {
+      "id": 9171,
+      "name": "Đổ Nát",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Burst], hoặc '<noparse>Vỡ Vụn</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nHiệu ứng [Burst] +150% sát thương gây lên kẻ địch có Khiên\n\nĐầu Lượt: kẻ địch hoặc Bộ Phận có Vỡ Vụn mất (3 + (Lượng Vỡ Vụn / 2)) Cấp Công Kích và Cấp Phòng Thủ. (tối đa 6)\n\nKhi gây Lượng hoặc Tầng [Burst] bằng hiệu ứng Kỹ Năng, gây thêm 2 Lượng [Burst] và +1 Tầng [Burst] lên mục tiêu. Nếu mục tiêu có ít hơn 15 Lượng [Burst], gây thêm 2 Lượng [Burst].\n\nSức Mạnh Xu +1 cho Kỹ Năng Xu Dương có gây Lượng, Tầng [Burst], hoặc '<noparse>Vỡ Vụn</noparse> Đặc Trưng'\nSức Mạnh Gốc +(4 / Số Xu) (tối thiểu 1; làm tròn xuống) cho Kỹ Năng Xu Âm có gây Lượng, Tầng [Burst], hoặc '<noparse>Vỡ Vụn</noparse> Đặc Trưng'",
+      "simpleDesc": [
+        {
+          "abilityID": 9171,
+          "simpleDesc": "[Burst] effects +150% sát thương gây ra against Shields"
+        },
+        {
+          "abilityID": 91711,
+          "simpleDesc": "Enemies with [Burst] lose Offense and Defense Levels"
+        },
+        {
+          "abilityID": 91712,
+          "simpleDesc": "When inflicting Lượng [Burst] with Skill effects, Gây 2 Lượng [Burst] và +1 Tầng [Burst] on target"
+        },
+        {
+          "abilityID": 91713,
+          "simpleDesc": "Gain Coin Power"
+        }
+      ]
+    },
+    {
+      "id": 9172,
+      "name": "Khúc Thăng Trầm",
+      "desc": "Khi sử dụng Kỹ Năng Tấn Công Cơ Bản, nếu mục tiêu có 5+ Lượng [Sinking], chủ thể hồi (Lượng [Sinking] trên mục tiêu / 10) SP (tối đa 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9172,
+          "simpleDesc": "Heal SP based on Sinking on the target"
+        }
+      ]
+    },
+    {
+      "id": 9173,
+      "name": "Áo Khoác Phai Màu",
+      "desc": "Cuối Lượt: nếu có 3+ kẻ địch với -45 SP, toàn bộ đồng minh nhận 2 [AttackUp] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9173,
+          "simpleDesc": "All allies nhận 2 [AttackUp]"
+        }
+      ]
+    },
+    {
+      "id": 9175,
+      "name": "Quả Cầu Sóng Thần",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nKhi dùng Kỹ Năng Tấn Công cơ bản, nếu kẻ địch có 5+ Lượng [Sinking], chủ thể hồi (Lượng [Sinking] trên mục tiêu / 10) SP (tối đa 5)\n\nCuối Lượt: vào lượt kế, toàn bộ đồng minh nhận [AttackUp] bằng với số kẻ địch có -45 SP (tối đa 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9175,
+          "simpleDesc": "Heal SP based on Sinking on the target"
+        },
+        {
+          "abilityID": 91751,
+          "simpleDesc": "All allies nhận [AttackUp] equal to the number of enemies with -45 SP (tối đa 3)"
+        }
+      ]
+    },
+    {
+      "id": 9176,
+      "name": "Sóng Cả Ập Tới",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nĐầu Lượt: gây 1 [WaveSinking] lên một kẻ địch ngẫu nhiên\n\nKhi một kẻ địch có [WaveSinking] bị giết, vào Đầu Lượt kế, gây số Lớp [WaveSinking] của kẻ địch đó lên một kẻ địch có số Lớp [WaveSinking] cao nhất nhưng chưa chạm mốc tối đa\n\nKhi đánh trúng và gây sát thương HP lên kẻ địch bằng Kỹ Năng gây Lượng, Tầng [Sinking], hoặc 'Sa Lầy Đặc Trưng', gây 4 Lượng [Sinking] và +3 Tầng [Sinking] vào Cuối Lượt (một lần mỗi lượt lên mỗi kẻ địch)\nKhởi Chiến: khi kích hoạt Thờ Ơ Cộng Hưởng Tuyệt Đối hoặc Dục Vọng Tuyệt Đối, gây 3 Lượng [Sinking] và +3 Tầng [Sinking] lên toàn bộ kẻ địch (với Dị Thể, lên một Bộ Phận ngẫu nhiên)\n\nSau khi sử dụng Kỹ Năng Tấn Công cơ bản, nếu mục tiêu có 10+ Lượng [Sinking], chủ thể hồi (Lượng [Sinking] trên mục tiêu / 10) SP (tối dda 5) và gây lượng [DefenseDown] tương đương lên mục tiêu (tối đa 5; một lần mỗi lượt lên mỗi kẻ địch)\n\nCuối Lượt: toàn bộ đồng minh nhận [AttackUp] bằng với số kẻ địch đang ở mốc -45 SP hoặc là Đơn Vị Không SP (tối đa 6)\n\nSức Mạnh Xu +1 cho Kỹ Năng Xu Dương có gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng'\nSức Mạnh Gốc +(4 / Số Xu) (tối thiểu 1; làm tròn xuống) cho Kỹ Năng Xu Âm có gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng'\n\nKhi kích hoạt hiệu ứng [Sinking] (tính cả '<noparse>Sa Lầy</noparse> Đặc Trưng') trên mục tiêu nhờ hiệu ứng Đánh Trúng bằng Kỹ Năng Tấn Công Cơ Bản có gây Lượng, Tầng [Sinking], hoặc '<noparse>Sa Lầy</noparse> Đặc Trưng', hồi 5 SP vào Cuối Lượt (2 lần mỗi lượt mỗi Danh Tính)\nNếu chủ thể ở mốc 45 SP vào Đầu Lượt, hiệu ứng trên đổi thành: khi đánh trúng và kích hoạt hiệu ứng [Sinking] (tính cả '<noparse>Sa Lầy</noparse> Đặc Trưng') trên mục tiêu bằng Kỹ Năng Tấn Công cơ bản, gây +3 Tầng [Sinking] lên mục tiêu đó (2 lần mỗi lượt mỗi Danh Tính)",
+      "simpleDesc": [
+        {
+          "abilityID": 9176,
+          "simpleDesc": "Inflict Sinking"
+        },
+        {
+          "abilityID": 91761,
+          "simpleDesc": "Inflict Defense Level Down"
+        },
+        {
+          "abilityID": 91762,
+          "simpleDesc": "Apply Offense Level Up"
+        },
+        {
+          "abilityID": 91763,
+          "simpleDesc": "Heal SP"
+        },
+        {
+          "abilityID": 91764,
+          "simpleDesc": "Inflict Sinking"
+        },
+        {
+          "abilityID": 91765,
+          "simpleDesc": "Gain Coin Power"
+        },
+        {
+          "abilityID": 91766,
+          "simpleDesc": "Gain Base Power"
+        },
+        {
+          "abilityID": 91767,
+          "simpleDesc": "Inflict Reflux"
+        },
+        {
+          "abilityID": 91768,
+          "simpleDesc": "Inflict Reflux"
+        }
+      ]
+    },
+    {
+      "id": 9178,
+      "name": "Cắt Phần Thiên Sứ",
+      "desc": "Cuối Lượt: khi một đồng minh có nhiều hơn 20 Lượng [Breath], đồng minh đó tiêu thụ 1 Lượng [Breath] để nhận +1 Tầng [Breath]",
+      "simpleDesc": [
+        {
+          "abilityID": 9178,
+          "simpleDesc": "Consume 1 Poise Potency to gain 1 Poise Count"
+        }
+      ]
+    },
+    {
+      "id": 9180,
+      "name": "Thùng Rượu",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gán hay nhận Lượng, Tầng [Breath], hoặc '<noparse>Sắc Bén</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nCuối Lượt: Nếu một đồng minh có nhiều hơn 20 Lượng [Breath], đồng minh đó tiêu thụ 1 Lượng [Breath] để nhận +1 Tầng [Breath]\n\nCuối Lượt: 1 đồng minh có Lượng [Breath] cao nhất và 1 đồng minh có Tầng [Breath] cao nhất nhận 2 [Agility] và 1 [AttackUp] vào lượt kế (có thể kích hoạt lên cùng một Danh Tính)\n\nKhi nhận Lượng [Breath] từ hiệu ứng Kỹ Năng, nhận thêm 2 Lượng [Breath] và +2 Tầng [Breath]. Nếu tổng Lượng và Tầng [Breath] của chủ thể ít hơn 20, đổi thành nhận 3 Lượng [Breath] và +3 Tầng [Breath].\n\nKết Chiến: khi Lượng [Breath] > 40, tiêu thụ 15 Lượng [Breath] để [Discard] 1 Kỹ Năng có bậc thấp nhất trên tất cả Ô Kỹ Năng của chủ thể (một lần mỗi lượt với mỗi nhân vật)",
+      "simpleDesc": [
+        {
+          "abilityID": 9180,
+          "simpleDesc": "Gain Poise Count"
+        },
+        {
+          "abilityID": 91801,
+          "simpleDesc": "Gán 2 Haste và 1 Offense Level Up"
+        },
+        {
+          "abilityID": 91802,
+          "simpleDesc": "When gaining Lượng [Breath] with Skill effects, gain additional Potency and Count"
+        },
+        {
+          "abilityID": 91803,
+          "simpleDesc": "Discard a Skill of the lowest rank in this unit's Skill Slot"
+        }
+      ]
+    },
+    {
+      "id": 9181,
+      "name": "Cột Điện Thu Nhỏ",
+      "desc": "Kết Đòn bằng Kỹ Năng Tấn Công tiêu thụ 7+ Tầng [Charge] trên chủ thể: nếu mục tiêu bị đánh bại, nhận (Tầng [Charge] mà Kỹ Năng đã tiêu thụ / 4) Tầng [Charge] (tính cả 'Năng Lượng Đặc Trưng')",
+      "simpleDesc": [
+        {
+          "abilityID": 9181,
+          "simpleDesc": "Nhận Tầng [Charge] based on Tầng [Charge] consumed"
+        }
+      ]
+    },
+    {
+      "id": 9183,
+      "name": "Chất Cách Điện",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công nhận Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nKết Đòn bằng Kỹ Năng Tấn Công tiêu thụ 7+ Tầng [Charge] trên chủ thể: nếu mục tiêu bị đánh bại, nhận (Tầng [Charge] mà Kỹ Năng đã tiêu thụ / 3) Tầng [Charge] \n\nĐầu Lượt: Nếu Tầng [Charge] < 3, nhận +3 Tầng [Charge]\nĐầu Lượt: Ở 3+ Tầng [Charge], nhận 1 [AttackDmgUp]",
+      "simpleDesc": [
+        {
+          "abilityID": 9183,
+          "simpleDesc": "Nhận Tầng [Charge] based on Tầng [Charge] consumed"
+        },
+        {
+          "abilityID": 91831,
+          "simpleDesc": "Nhận 1 [AttackDmgUp] or Tầng [Charge] based on Tầng [Charge]"
+        }
+      ]
+    },
+    {
+      "id": 9184,
+      "name": "Bộ Máy Động Cơ Vĩnh Cửu T-5",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công nhận Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nĐầu Lượt: Nếu Tầng [Charge] < 3, nhận +5 Tầng [Charge]\nĐầu Lượt: Ở 5+ Tầng [Charge], nhận +2 Tốc Độ tối thiểu/tối đa, 1 [Enhancement], và 2 [AttackDmgUp]. (tính cả '<noparse>Năng Lượng</noparse> Đặc Trưng')\n\nToàn bộ đồng minh trên sân nhận [ShareCharge] vào Đầu Lượt.\n\nKết Đòn bằng Kỹ Năng 3 có tiêu thụ hoặc nhận Tầng [Charge] trên chủ thể: nếu mục tiêu bị đánh bại, hoặc nếu đồng minh dùng Kỹ Năng đang có 3+ [Charge], họ thêm 1 Kỹ Năng 3 vào danh sách Kỹ Năng cho lượt kế tiếp. (một lần mỗi lượt với mỗi đồng minh; tính cả '<noparse>Năng Lượng</noparse> Đặc Trưng')",
+      "simpleDesc": [
+        {
+          "abilityID": 9184,
+          "simpleDesc": "Nhận 1 [AttackDmgUp] or Tầng [Charge] based on Tầng [Charge]"
+        },
+        {
+          "abilityID": 91841,
+          "simpleDesc": "Nhận Tầng [Charge] based on Tầng [Charge] consumed. Next turn, nhận [PlusCoinValueUp]"
+        },
+        {
+          "abilityID": 91842,
+          "simpleDesc": "Attack End with a Skill 3 that consumed Tầng [Charge]: Add 1 Skill 3 to the Skill list"
+        }
+      ]
+    }
+  ]
+}

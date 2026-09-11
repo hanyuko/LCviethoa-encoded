@@ -1,0 +1,82 @@
+{
+  "dataList": [
+    {
+      "id": 97103801,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ tiếp cận hắn?",
+      "successDesc": [
+        "'Hừm. Không tin ta à? Quả là thú vị.'\n'Thôi được rồi. Thế thì để ta sửa lại giao kèo. Ta sẽ cho ngươi bắn thử một viên đạn mà không bắt phải trả phí.'"
+      ],
+      "failureDesc": [
+        "Hắn ta im lặng một lúc, như thể hắn thấy mình bị sỉ nhục, trước khi nhắm nòng súng thẳng về phía {0}.\n\nRồi bóp cò.\n\n{0} nhanh chóng tìm chỗ núp, nhưng viên đạn vẫn bay xuyên qua người họ.\n\n'Mới thế đã quên rồi à?'\n\n'Viên ma đạn này một khi bắn ra sẽ không bao giờ trượt mục tiêu.'"
+      ]
+    },
+    {
+      "id": 97103802,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ sử dụng nó?",
+      "successDesc": [
+        "'Ngươi biết viên đạn cuối cùng sẽ gây ra chuyện gì, vậy mà vẫn muốn tự mình khai hỏa khẩu súng này á?'\n\n'Thái độ đáng khâm phục đấy, thế nhưng e rằng hiện ngươi vẫn còn... hơi non.'\n\n'Để ta cho ngươi mượn vật này.'"
+      ],
+      "failureDesc": [
+        "'Ngươi biết viên đạn cuối cùng sẽ gây ra chuyện gì, vậy mà vẫn muốn tự mình khai hỏa khẩu súng này á?'\n\n'Quả thật, có khi ngươi sẽ là kẻ kế thừa ta.'\n\n'Nếu ngươi thật sự muốn nắm giữ khẩu súng trường này thì... tốt nhất là nên loại bỏ cái đám phiền phức bám theo mình đi.'\n\nHắn ta lập tức bóp cò, viên đạn xuyên qua mọi Tội Nhân khác chỉ chừa mỗi {0}."
+      ]
+    },
+    {
+      "id": 97103901,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ là người ngồi?",
+      "successDesc": [
+        "{0} nhận thấy có một chiếc bánh răng được lắp trên chiếc ghế vẫn còn đang xoay.\n\n{0} vươn tay ra và tháo chiếc bánh răng kia ra, chiếc ghế đột nhiên bắt đầu rung lên.\n\nChiếc ghế nhanh chóng vỡ vụn thành từng mảnh, mất đi hình dáng ban đầu của nó."
+      ],
+      "failureDesc": [
+        "{0} nhận thấy có một chiếc bánh răng được lắp trên chiếc ghế vẫn còn đang xoay.\n\n{0} ngồi xuống ghế, bất chấp sự hoài nghi của họ…\n\nVà rồi bánh răng ngay lập tức bắt đầu nghiền nát não họ thành từng mảnh.\n\nNhững Tội Nhân khác nhanh chóng kéo {0} ra khỏi ghế, nhưng đã quá muộn."
+      ]
+    },
+    {
+      "id": 97104001,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "Vẫn còn sót vài món trên đó.",
+      "behaveDesc": "Ai sẽ là người quan sát?",
+      "successDesc": [
+        "{0} tiến lại thứ trông như một món vũ trang đặt trên bàn.\n\nCó vẻ như bọn họ không cần đến khẩu súng này để phòng thân, nên có lẽ chúng tôi sẽ sử dụng nó thay cho họ."
+      ],
+      "failureDesc": [
+        "Không có thứ gì hữu dụng trên bàn cả.\n\n{0} đưa những món mà họ thấy cho chúng tôi xem xét, nhưng tất cả đều trông vô cùng phức tạp và không biết phải dùng như thế nào."
+      ]
+    },
+    {
+      "id": 97104101,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ là người học nền tảng Kỹ Thuật Cận Chiến?",
+      "successDesc": [
+        "{0} chăm chú lắng nghe bài giảng.\n\nTuy chúng tôi biết hầu hết các kiến thức được đề cập rồi, nhưng vẫn còn vài kỹ thuật chưa từng biết đến.\n\nCó lẽ họ thấy quyết tâm của {0} rất đáng ngưỡng mộ.\n\nAi đó trông giống như huấn luyện viên quân sự bước đến trước mặt {0} và trao cho cuốn sổ tay hướng dẫn."
+      ],
+      "failureDesc": [
+        "Kiến thức được giảng dạy có lẽ khó nhằn hơn tưởng tượng rất nhiều.\n\nChỉ mới giảng được nửa đường mà {0} đã chợp mắt được một giấc ngon lành cành đào rồi."
+      ]
+    },
+    {
+      "id": 97104102,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ học binh pháp tôn tử?",
+      "successDesc": [
+        "Nội dung giảng dạy khá cơ bản.\n\n{0} cũng đồng tình vì gần như bản thân cũng chẳng thèm chú ý đến bài giảng gì cả."
+      ],
+      "failureDesc": [
+        "Nội dung giảng dạy khá cơ bản.\n\nTuy nhiên {0} lại thấy quá nhàm chán.\n\nAi đó trông giống như huấn luyện viên quân sự bước đến trước mặt {0} sau khi nhìn thấy người ấy không tập trung.\n\nHuấn luyện viên quân sự trao một thiết bị giao tiếp cho {0}, đề nghị người ấy giảng lại toàn bộ kiến thức sơ bộ."
+      ]
+    }
+  ]
+}

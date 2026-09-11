@@ -1,0 +1,168 @@
+{
+  "dataList": [
+    {
+      "id": 10511,
+      "name": "Factory Laborer",
+      "subDesc": "",
+      "desc": "Chỉ là một nhà máy đồng hồ bận rộn khác.\n\n\"!@#$!#$#!$@#$!$#@$.\"\n\nCó một người đàn ông trông như chủ nhà máy, mang đôi giày da bóng lưỡng và mặc một bộ vest chỉn chu. Ông ta lớn tiếng quát tháo vào mặt những công nhân đang mặc những bộ quần áo lao động cũ kỹ, lấm lem dầu mỡ.\n\nDường như ông ta vừa để ý thấy điều gì đó. Ánh mắt lập tức tối sầm lại, ông quay sang nhìn một người công nhân rồi gân cổ quát thẳng vào mặt người ấy.\n\nNgười công nhân đang bận rộn làm việc bỗng hoảng loạn, rồi cố nói điều gì đó. Nhưng phải mất một thời gian lâu, anh ta mới mở được miệng.\n\nChủ nhà máy bực dọc lấy ra một thiết bị ghi âm, cố giao tiếp với người công nhân, nhưng cũng chả khá hơn là bao.\n\n\"Tôi vừa kiểm tra camera an ninh. Anh ngủ gật đến tận hai tiếng! Tôi cần một lời giải thích.\"\n\n\"N… … … h… … …\"\n\n\"… … à… … … m…\"\n\n\"Cái anh này nói nhanh lên không được à?!\"\n\nCó lẽ có gì đó quanh đây giúp giải quyết tình huống này?",
+      "options": [
+        {
+          "message": "Nhìn xung quanh nhà máy.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phàm Ăn & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Chấn Động."
+        },
+        {
+          "message": "Nhìn kỹ chủ nhà máy và công nhân.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Thờ Ơ & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Chấn Động."
+        }
+      ]
+    },
+    {
+      "id": 10512,
+      "name": "T Corp. Tax Collection",
+      "subDesc": "",
+      "desc": "Bạn đang đứng tại một con hẻm ở Tập Đoàn T. Một Nhân Viên Thu Thuế đang thu thập thuế từ một người dân.\n\n\"Anh trả thuế bằng thời gian hay bằng tiền đây?\"\n\n\"Thì nãy tôi nói đấy, bọn tôi đã trả đủ Thuế Thời Gian rồi! Vả lại, gì mà ba trăm triệu Ahn? Vớ va vớ vẩn...!\"\n\n\"Theo những hồ sơ gần đây, do thuế quà tặng áp dụng cho những khoản quyên góp, anh đã phát sinh thêm Thuế Thời Gian.\"\n\n\"Làm gì có chuyện đấy. Chả nhẽ lại do tôi cho đám trẻ ở Phố Sau thời gian của mình?\"\n\n\"Tôi chỉ đưa bọn nó có ba trăm tiếng thôi, làm sao mà lại vọt lên đến tận ba trăm triệu Ahn tiền thuế?! Đúng là vô lý hết sức!\"\n\n\"Tại Tập Đoàn T, mọi khoản thuế đều được tính toán chính xác tuyệt đối.\"\n\nNhân Viên Thu Thuế tiến lên, áp sát người dân đó để trấn áp.",
+      "options": [
+        {
+          "message": "Nói chuyện với họ.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Thờ Ơ & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại."
+        },
+        {
+          "message": "Rời đi.",
+          "result": [
+            "Có vẻ như anh ta sẽ phải tự bào chữa trước Văn Phòng Thu Thuế.\n\nCan thiệp vào cũng sẽ chẳng thay đổi kết cục gì đâu.\n\n... Bạn bỗng nhận ra rằng, những tình huống thế này là thứ đã biến Tập Đoàn T thành một nơi như vậy. Bạn cố quay lại để can thiệp...\n\n... Thế nhưng Nhân Viên Thu Thuế đã trích xuất thời gian ra khỏi người dân kia, khiến anh ta trở nên chậm chạp."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10513,
+      "name": "Streets of T Corp.",
+      "subDesc": "",
+      "desc": "Biết bao con người sống những mảnh đời khác nhau, số giờ trong ngày khác nhau, đang đi lại, trò chuyện với tốc độ khác nhau.\n\nTất thảy chênh lệch, bất công ấy đã bao trùm những thanh âm phi lý khắp cả con phố.\n\nGiữa đám đông hỗn loạn, các bạn chú ý tới hai con người.\n\nMột người thanh niên nom chừng giàu có. Quỹ thời gian của anh ta khá dư dả, nhưng người đó vẫn hớt hải rảo bước trên đường...\n\n... Và một ông lão nghèo túng. Một ông cụ thiếu thốn thời gian, nhưng lại chậm rãi từng bước chân tiến vào một con hẻm, vẻ mặt thư thái.\n\nNên đi theo ai đây?",
+      "options": [
+        {
+          "message": "Đi theo cậu thanh niên.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Kiêu Ngạo & Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Chấn Động."
+        },
+        {
+          "message": "Đi theo ông già.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O Chấn Động."
+        },
+        {
+          "message": "Không đi theo ai hết.",
+          "result": [
+            "Hai người đó chỉ đang lo việc của mình thôi. Họ thấy dùng thời gian thế nào là hợp lý thì đấy là việc của họ.\n\nĐi theo làm gì? Chúng ta cũng phải dùng thời gian của chính mình sao cho hợp lý chứ.\n\nCác bạn tiếp tục bước trên phố, tâm trí quẩn quanh mãi về vấn đề bất công thời gian."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10514,
+      "name": "Yurodiviye Hideout",
+      "subDesc": "",
+      "desc": "Ở căn cứ bí mật của hội Yurodiviye. Một Yurodivy đang hăng hái thuật lại những lời họ được Thánh Nhân ban cho.\n\n\"Chúng ta giờ chỉ còn là những bánh răng trong một cỗ máy tồn tại chỉ để phục vụ cho lợi ích của giới chủ công nghiệp, giai cấp tư sản, và chính quyền Cánh.\"\n\n\"Nhân dân chỉ còn lòng tham tư lợi cá nhân, chỉ còn mối quan hệ hợp tác tiền bạc lạnh lẽo, chứ liệu còn phần người nào sót lại nữa hay không?\"\n\n\"Chính do lẽ ấy, chúng ta phải gạt bỏ thứ xu tiền lạnh lẽo đi, thay vào bằng tinh thần cứu khổ cứu nạn ấm áp, lá lành đùm lá rách!\"\n\n\"Tổ đang dùng luật lệ để bảo vệ, che chắn cho giai cấp tư sản, cho những kẻ có tiền có quyền. Nhưng chúng lại dùng chính luật lệ ấy để cùm kẹp, để xiềng xích vô sản chúng ta!\"\n\n\"Chúng ta phải chống lại luật lệ của Tổ! Chúng ta phải cho chúng tận mắt chứng kiến ngọn lửa căm phẫn của tầng lớp vô sản!\"\n\n\"Trong cuộc đấu tranh ấy, Yurodiviye sẽ chẳng mất gì hết, ngoài những xiềng xích trói buộc chúng ta. Chúng ta sẽ giành được một thế giới không còn đói khổ!\"\n\nCác Yurodivy đột nhiên chỉ về phía chúng tôi.\n\nCó vẻ chúng tôi sẽ phải nói gì đó.",
+      "options": [
+        {
+          "message": "Y-Yurodiviye Toàn Thành Phố, Đoàn Kết Lại!",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Đố Kỵ & Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Chấn Động."
+        },
+        {
+          "message": "Ý tưởng nghe thì hay đấy, nhưng lúc làm thì không thành công nổi đâu.",
+          "result": [
+            "Ngay khi Tội Nhân nói xong, cả căn phòng lập tức im bặt.\n\nNgười Yurodivy có vẻ đứng đầu chỉ vào cửa và ra hiệu mời bạn rời đi.\n\nBạn rời khỏi đó trước khi có biến."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10515,
+      "name": "The Timekilling Scene",
+      "subDesc": "",
+      "desc": "Các bạn bắt gặp một nạn nhân của tên Đồ Tể Thời Gian.\n\nDo ảnh hưởng của hiện tượng chập chồng dịch chuyển không - thời gian, bạn thậm chí còn không chạm được vào họ.\n\nLiệu bạn có cách nào để giúp họ không?",
+      "options": [
+        {
+          "message": "Cố giúp họ.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Phàm Ăn & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại."
+        },
+        {
+          "message": "Mặc kệ họ rồi đi tiếp.",
+          "result": [
+            "Bạn phải đuổi theo tên Đồ Tể Thời Gian.\n\nKhông thể phí thời gian ở đây được."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 910901,
+      "name": "Timekilling Time Dungeon Renewal Starting Point",
+      "subDesc": "",
+      "desc": "Chúng tôi tiến vào Góc Khuất của Bản Ngã. Nơi này trông giống như những con phố Tập Đoàn T.\n\nPhía sau đám đông người qua đường là một chiếc máy bán hàng tự động.\n\nGiữa những con phố đã không còn màu sắc...\n\n... thì ánh đèn của máy bán hàng tự động lại rực rỡ hơn trông thấy.\n\nHình như những người qua đường xung quanh chẳng hề để ý có gì bất thường.\n\nChúng tôi thấy những dải nút bấm trên máy.\n\nNên làm gì đây?",
+      "options": [
+        {
+          "message": "Nhấn một nút hàng trên.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Chấn Động",
+          "result": [
+            "Bụp một phát, một Quà Tặng E.G.O rơi ra từ máy bán hàng, và chúng tôi nhặt nó lên.\n\nChúng ta <i>sắp</i> phá được Vụ Án Thì Giờ Giết Thời Gian rồi.\n\nKhông biết vụ án này sẽ kết thúc ra sao...\n\n... nhưng chúng tôi quyết định đi tiếp, đi về phía ánh sáng dẫn đường."
+          ]
+        },
+        {
+          "message": "Nhấn một nút hàng giữa.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Chấn Động",
+          "result": [
+            "Bụp một phát, một Quà Tặng E.G.O rơi ra từ máy bán hàng, và chúng tôi nhặt nó lên.\n\nChúng ta <i>sắp</i> phá được Vụ Án Thì Giờ Giết Thời Gian rồi.\n\nKhông biết vụ án này sẽ kết thúc ra sao...\n\n... nhưng chúng tôi quyết định đi tiếp, đi về phía ánh sáng dẫn đường."
+          ]
+        },
+        {
+          "message": "Nhấn một nút hàng dưới.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Bụp một phát, một Quà Tặng E.G.O rơi ra từ máy bán hàng, và chúng tôi nhặt nó lên.\n\nChúng ta <i>sắp</i> phá được Vụ Án Thì Giờ Giết Thời Gian rồi.\n\nKhông biết vụ án này sẽ kết thúc ra sao...\n\n... nhưng chúng tôi quyết định đi tiếp, đi về phía ánh sáng dẫn đường."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 910902,
+      "name": "Timekilling Time Dungeon Renewal Fusion",
+      "subDesc": "",
+      "desc": "Chúng tôi đi tới một trạm dừng chân quen thuộc.\n\nCánh cửa kính đã đóng lại, trên đó có dán một tờ thông báo.\n\n'Vì lý do cá nhân nên hôm nay cửa hàng tạm đóng cửa. Chúng tôi xin lỗi vì sự bất tiện này.'\n\n'Tuy nhiên, thiết bị dung hợp của chúng tôi thì vẫn sẵn sàng phục vụ. Các quý khách có nhu cầu thực hiện dịch vụ dung hợp xin vui lòng sử dụng thiết bị cạnh lối vào.'\n\nChúng ta nên làm gì đây?",
+      "options": [
+        {
+          "message": "Thử đặt Vỏ Đồng Hồ Bằng Bạc và Kim Đồng Hồ Chạm Khắc vào trong đó.",
+          "messageDesc": "",
+          "result": [
+            "Sau khi kêu lạch cạch một lúc lâu, thiết bị nhả ra một Quà Tặng E.G.O."
+          ]
+        },
+        {
+          "message": "Thử đặt Vỏ Đồng Hồ Bằng Bạc và Kim Đồng Hồ Rỉ Sét vào trong đó.",
+          "messageDesc": "",
+          "result": [
+            "Sau khi kêu lạch cạch một lúc lâu, thiết bị nhả ra một Quà Tặng E.G.O."
+          ]
+        },
+        {
+          "message": "Thử đặt Vỏ Đồng Hồ Phai Màu và Kim Đồng Hồ Chạm Khắc vào trong đó.",
+          "messageDesc": "",
+          "result": [
+            "Sau khi kêu lạch cạch một lúc lâu, thiết bị nhả ra một Quà Tặng E.G.O."
+          ]
+        },
+        {
+          "message": "Thử đặt Vỏ Đồng Hồ Phai Màu và Kim Đồng Hồ Rỉ Sét vào trong đó.",
+          "messageDesc": "",
+          "result": [
+            "Sau khi kêu lạch cạch một lúc lâu, thiết bị nhả ra một Quà Tặng E.G.O."
+          ]
+        },
+        {
+          "message": "Không có vật gì để đặt vào trong thiết bị cả.",
+          "messageDesc": "",
+          "result": [
+            "Chúng tôi không có vật gì phù hợp để đặt vào thiết bị cả.\n\nThôi đành đi tiếp vậy."
+          ]
+        }
+      ]
+    }
+  ]
+}

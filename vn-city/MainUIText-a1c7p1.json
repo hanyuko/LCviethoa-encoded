@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "stage_recommend_level_popup_battle_participant_desc",
+      "content": "Cấp độ trung bình hiện tại của các Danh Tính được Triển Khai đang <color=#990000>thấp</color> so với cấp độ khuyến nghị cho ải này.\nTiếp tục giao chiến?"
+    },
+    {
+      "id": "stage_recommend_level_popup_formation_desc",
+      "content": "Cấp độ trung bình hiện tại của đội hình đang <color=#990000>thấp hơn</color> so với cấp độ khuyến nghị cho ải này, và có thể khiến trận đánh trở nên khó nhằn hơn.\nTiếp tục giao chiến?"
+    },
+    {
+      "id": "stage_recommend_level_popup_dungeon_entrance_desc",
+      "content": "Cấp độ trung bình hiện tại của các Danh Tính được Triển Khai đang <color=#990000>thấp hơn</color> so với cấp độ khuyến nghị cho ải này.\nTiếp tục tiến vào Hầm Ngục?"
+    },
+    {
+      "id": "current_average_level_and_recommend_level_format",
+      "content": "Cấp độ trung bình hiện tại: {0}\n<color=#f8c200>Cấp độ khuyến nghị: {1}</color>"
+    },
+    {
+      "id": "current_average_level_with_additional_val_and_recommend_level_format",
+      "content": "Cấp độ trung bình hiện tại: {0} ({1})\n<color=#f8c200>Cấp độ khuyến nghị: {2}</color>"
+    },
+    {
+      "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
+      "content": "<color=#f8c200>Khuyến nghị sử dụng Danh Tính và E.G.O có Cấp Đồng Bộ/Cấp Thêu Dệt <color=#990000>{0}</color> </color>"
+    }
+  ]
+}

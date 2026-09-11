@@ -1,0 +1,220 @@
+{
+  "dataList": [
+    {
+      "id": "ScratchesHurt",
+      "name": "Liệt Thương",
+      "desc": "     \n     <sprite name=\"Laceration\"><color=#e30000> </color>   \n•         <sprite name=\"Laceration\"><color=#e30000> </color>\n    <sprite name=\"Binding\"><color=#e30000> </color>       \n•         <sprite name=\"Reduction\"><color=#e20000>    </color>   \n                   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TiedRope",
+      "name": "Trói",
+      "desc": "    \n         \n               \n     \n    <sprite name=\"TiedWithRope\"><color=#e30000>     </color>    <sprite name=\"TiedRope\"><color=#e30000></color>           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Hãy nhìn cách những kẻ hèn mọn dưới đáy săn lùng lẫn nhau chỉ để dâng nộp cho những thế lực cầm quyền."
+    },
+    {
+      "id": "TiedWithRope",
+      "name": "Quy Trình Áp Giải Tù Nhân",
+      "desc": "    \n         \n    <sprite name=\"TiedWithRope\"><color=#9f6a3a>     </color>                        \n       <sprite name=\"TiedRope\"><color=#e30000></color>          <sprite name=\"TiedWithRope\"><color=#9f6a3a>     </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegretSCorp",
+      "name": "Ký Ức Khiến Đầu Đau Như Búa Bổ",
+      "desc": "     \n     <sprite name=\"Binding\"><color=#e30000> </color>   \n          <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>      \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TakePicture",
+      "name": "Thu Thập Thông Tin Tình Báo",
+      "desc": "                 \n           \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LensmanNail",
+      "name": "Đinh Ghim",
+      "desc": "     \n     <sprite name=\"AttackDown\"><color=#e30000>   </color>    <sprite name=\"Binding\"><color=#e30000> </color>   \n    <sprite name=\"Laceration\"><color=#e30000> </color>    \n  <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>   <sprite name=\"Laceration\"><color=#e30000> </color>        \n    <sprite name=\"Binding\"><color=#e30000> </color>               ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhotoTransition",
+      "name": "Luân Chuyển Ký Ức",
+      "desc": "    \n                             \n      \n\n          <sprite name=\"PhotoTransition\"><color=#fac400>   </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AengduNewArm",
+      "name": "Yêu Quỷ Thủ",
+      "desc": "     \n     \n    \n       <sprite name=\"Agility\"><color=#fac400>        \n      <sprite name=\"Breath\"><color=#fac400> </color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"... Yêu Quỷ Thủ? Có phải là Yêu Quỷ thường xuất hiện trong mấy câu chuyện cổ tích xưa không? Hừm...\"\n\"Tôi vẫn khó lòng tin được, nhưng sau tất cả những gì tôi từng chứng kiến trong lúc được Công Ty Limbus tiếp đón, có khi sự tồn tại của Yêu Quỷ trong truyền thuyết dân gian cũng không còn là điều gì mới lạ.\"\n\"Mà ngẫm lại thì... Tôi nhớ mình từng nghe thấy cái tên \"Đơn Vị Yêu Quỷ\" ở đâu đó rồi...\""
+    },
+    {
+      "id": "WindBlade",
+      "name": "Xưởng Chế Mook - Duệ [鋭] Mẫu II: Bạt Đao / Thôi Lực: Yêu Quỷ Hỏa",
+      "desc": "     \n           \n                 \n     <sprite name=\"Agility\"><color=#fac400> </color>          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Hừm hứm? Thích mẫu đó sao? Ồoo, lính mới có con mắt nhìn đồ đó nha! Xin thứ lỗi ~! Để đằng này cùng thử hàng hộ cho? Nhéeeee? ~ Thả lỏng đi chớ! Nghe câu này chưa?—'Ai làm nấy chịu.' Cảm ơn nha! Hehe... Thấy không? Đây là dân chuyên mà lại~ Ô kê, vậy là kiếm và bao đi cùng một bộ, thế nên cô phải cầm cả hai mới biết nó có nặng hay không. Sao hả? Nhìn vậy mà đâu có nặng ha?\"\n\"Ồ...\"\n\"Có vài mảnh vụn này? Bột thuốc súng? Mấy thứ trong vỏ kiếm này được nhào nặn bởi bàn tay của mấy tay thợ Xưởng Mook đỉnh của đỉnh á! Này nhé, mỗi lần cô rút kiếm hay tra vào vỏ, chỉ trong một khắc, lưỡi kiếm sẽ trở nên bén và nhẹ hơn hẳn! Hơn thế nữa, mẫu mà lính mới đang cầm còn tập trung hoàn toàn vào độ sắc bén! Vậy nên khi xài nó sẽ kiểu, *Ding!* rồi tèn ten, vũ khí của bạn đã được cường hóa! Như chơi game ấy nhỉ?\"\n\"Tôi nghĩ bé cưng này nằm trong sê-ri loại Duệ [銳]—dòng kinh điển của Xưởng Chế Mook luôn nha. Để ngắm nghía nốt xem nào, đây là... Vãi chưởng luôn?! Xem này, đây là loại Duệ [銳] \"Mẫu II\", một mẫu đã ngừng sản xuất! Loại này hiếm có khó tìm lắm đấy! Lính mới vớ kim cương rồi—Cho xin tí may mắn cái coi!\n\"Thưa cô Ezra, nếu nó hiếm như vậy, có lẽ cô nên sử dụng nó thay vì tôi...\"\n\"Hừm hứm... Không, ổn cả mà... Nhìn nó đi, tôi thấy nó sinh ra như để dành cho cô vậy á! Như hổ mọc thêm cánh, thứ này kết hợp với đống phụ trợ trên cánh tay giả mới của cô là hết nước chấm luôn đấy. Có thể nó sẽ hơi mất thời gian để làm quen nhưng chắc chắn cô sẽ là một kiếm sĩ đỉnh của chóp nếu thành thạo đấy! Dù sao thì, cứ coi đây là món quà từ chính t—Mà giờ cô chính thức về một đội với chúng tôi rồi. Gái mới của đội luôn! Không cần thẻ ID tạm thời nữa nha.\n\"Vậy... tôi xin chân thành cảm tạ.\"\n\"Nhân tiện...  Nhớ phần 'đội hình kinh điển' của nhóm chứ? Kinh điển nhưng cực kì vững chắc đấy nhé, nhưng cũng có những khoảng hở mỏng manh mà lính mới nên cẩn thận, đừng phá vỡ—Ô kê, biết gì không? Cứ để nó bị phá vỡ như vậy nếu thực sự có tình huống tồi tệ xảy ra. Chỉ...\"\n\"Chỉ cần cô đừng dễ dàng buông bỏ mạng sống của mình là được.\"\n\"... Tôi sẽ mãi khắc ghi lời này trong tim.\""
+    },
+    {
+      "id": "Collage_LowMorale",
+      "name": "Ký Ức Hỗn Độn",
+      "desc": "     <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#fac400>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Collage_Panic",
+      "name": "Ký Ức Hỗn Độn",
+      "desc": "     <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#fac400>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Lensman_LowMorale",
+      "name": "Ám Ảnh Về Tình Báo",
+      "desc": "        <sprite name=\"TakePicture\"><color=#e30000>     </color>          \n     <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Lensman_Panic",
+      "name": "Ám Ảnh Về Tình Báo",
+      "desc": "        <sprite name=\"TakePicture\"><color=#e30000>     </color>          \n     <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Aengdu_Lowmorale",
+      "name": "Oán Hận",
+      "desc": "     <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Disarming\"><color=#e30000>    </color>\n     <sprite name=\"Agility\"><color=#fac400> </color>   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Aengdu_Panic",
+      "name": "Oán Hận",
+      "desc": "     <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Disarming\"><color=#e30000>    </color>\n     <sprite name=\"Agility\"><color=#fac400> </color>   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BrandedKimSatgat",
+      "name": "Đóng Ấn - Nô [奴]",
+      "desc": "     \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DimensionalBagEzraETwo",
+      "name": "Túi Không Gian - Kỹ Nghệ YuRia",
+      "desc": "           \n          \n           ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RestingKimSatgat_LowMorale",
+      "name": "Hối Hận Thâm Căn",
+      "desc": "  \n     <sprite name=\"AttackDmgDown\"><color=#e30000>  </color></sprite>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RestingKimSatgat_Panic",
+      "name": "Hối Hận Thâm Căn",
+      "desc": "  \n     <sprite name=\"AttackDmgDown\"><color=#e30000>  </color></sprite>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSwordsmanship",
+      "name": "Bản Quốc Kiếm Thuật [Nhục]",
+      "desc": "          \n                      <color=#ff6000><mark color=#ff000040><b>  </color></mark></b>\n <color=#ff6000><mark color=#ff000040><b>               </color></mark></b>\n·            \n·            \n·      \n·            \n·           ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSwordsmanshipOne",
+      "name": "Bản Quốc Thái Thế - Săn Gấu",
+      "desc": "         <color=#ff6000><mark color=#ff000040><b> </color></mark></b>\n\n         <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color></sprite> <color=#ff6000><mark color=#ff000040><b> </color></mark></b>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Những ngọn núi của Quận 19 - Tập Đoàn S là quê nhà của đủ loại thú dữ.\nTrong số chúng, loài gấu đặc biệt sở hữu sức mạnh và uy lực mạnh mẽ tựa như đá tảng rơi từ các vách cao trong những vụ lở đất. Không nên nhượng bộ, để loài này có không gian để tấn công—vậy nên người ta thường nhắm tới việc hạ gục nó trong nhát chém đầu tiên."
+    },
+    {
+      "id": "ChoiSwordsmanshipMany",
+      "name": "Bản Quốc Thái Thế - Săn Hổ",
+      "desc": "         <color=#ff6000><mark color=#ff000040><b>  </color></mark></b>\n\n         <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color></sprite> <color=#ff6000><mark color=#ff000040><b> </color></mark></b>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Khác với gấu, hổ là sinh vật rất xảo quyệt và hung dữ.\nKhông ai mong chờ vào việc hạ gục nó chỉ với một nhát chém.\nĐể hạ nó, chỉ có những nhát chém liên tiếp không ngơi nghỉ mới có thể áp đảo được sinh vật này cho tới khi nó gục ngã.\nNếu không làm được, hổ sẽ thoát chết—hoặc giết hại đối thủ để rồi một ngày nào đó trưởng thành thứ sinh vật gọi là Sangun, Chúa Tể của Núi.\nKhông ai biết trước sinh vật này sẽ đem lại phước lành hay tai họa."
+    },
+    {
+      "id": "ChoiSwordsmanshipShield",
+      "name": "Giáp Đinh [Nhục]",
+      "desc": "     \n                                     \n     <sprite name=\"DefenseDown\"><color=#e30000>   </color>       \n       \n <color=#ff6000><mark color=#ff000040><b>              </color></mark></b>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhotoTransitionChoi",
+      "name": "Luân Chuyển Ký Ức",
+      "desc": "    \n     \n <color=#ff6000><mark color=#ff000040><b>              </color></mark></b>\n                         <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color></sprite>\n·   <sprite name=\"ChoiSwordsmanshipOne\"><color=#9f6a3a>      </color>  \n·   <sprite name=\"ChoiSwordsmanshipMany\"><color=#9f6a3a>      </color>  ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhotoTransitionChoiCamera",
+      "name": "Luân Chuyển Ký Ức",
+      "desc": "    \n     \n <color=#ff6000><mark color=#ff000040><b>                </color></mark></b>\n                                <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color></sprite>\n·   <sprite name=\"ChoiSwordsmanshipOne\"><color=#9f6a3a>      </color>  \n·   <sprite name=\"ChoiSwordsmanshipMany\"><color=#9f6a3a>      </color>  ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSword_LowMorale",
+      "name": "Ký Ức Đã Được Tráng Rửa",
+      "desc": "  \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>              ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSword_Panic",
+      "name": "Ký Ức Đã Được Tráng Rửa",
+      "desc": "  \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>                          [Nhục]     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DimensionalBagEzraDTwo",
+      "name": "Túi Không Gian - Xưởng Chế Namir",
+      "desc": "           \n           \n          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Còn cái này thì có lắp Dị Điểm Tập Đoàn G bên trong — Khối Cầu! Cách hoạt động như sau: Bay lên cao, ấn nút giữa không trung, rồi đập thật mạnh xuống bằng tác động của trọng lực. Trúng một đòn thôi... là cũng muốn nát rồi.\""
+    },
+    {
+      "id": "SlaveHunersPower",
+      "name": "Lệnh Áp Giải Tù Nhân",
+      "desc": "     \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LensmanPower",
+      "name": "Lệnh Điều Tra",
+      "desc": "     \n     ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

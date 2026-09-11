@@ -1,0 +1,905 @@
+{
+  "dataList": [
+    {
+      "id": 9018301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đòn Đánh Vô Liêm Sỉ",
+          "desc": "[WhenUse] Nhận 1 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xẻo Gân",
+          "desc": "[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu, Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 3+ [Laceration], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đánh Loạn Xạ",
+          "desc": "[WhenUse] Ở mốc 7+ Tốc Độ, Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1\n[WinDuel] Gây thêm sát thương dựa trên số lần Giao Tranh (+5% mỗi lần Giao Tranh, tối đa 50%)\n[WinDuel] Gây +3 Tầng [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[WhenUse] Nhận 3 Khiên với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xẻo Cơ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vết Thương Chân",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wild Swipe",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[BeforeHit] Nhận 2 Khiên với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có Khiên, gây 1 [Paralysis] trên mục tiêu vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trích Xuất Nhiên Liệu",
+          "desc": "Nếu mục tiêu có 2+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi 2 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dọn Dẹp Phố Sau",
+          "desc": "Nếu mục tiêu có 2+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dọn Rác",
+          "desc": "Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "Khi Đánh Trúng bằng Xu này, hồi HP bằng với 30% gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Tái sử dụng Xu này (3 lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "333..1973",
+          "desc": "[StartBattle] Nhận 4 [Persistent]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm 5 Ngưỡng Choáng của bản thân"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vì Gia Đình",
+          "desc": "[StartBattle] Gán 1 [Protection] lên 2 đồng minh ngẫu nhiên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Màn Đêm ở Phố Sau",
+          "desc": "Nếu mục tiêu có 2+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hồi 8 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi 8 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm 8 Ngưỡng Choáng của bản thân"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu một lần (giảm 1 Tầng [Laceration])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đòn Đánh Chớp Nhoáng",
+          "desc": "[WhenUse] Nhận 1 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xẻo Cơ",
+          "desc": "[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu, Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 3+ [Laceration], Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Loạn Kích",
+          "desc": "[WhenUse] Ở mốc 7+ Tốc Độ, Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1\n[WinDuel] Gây thêm sát thương dựa trên số lần Giao Tranh (+5% mỗi lần Giao Tranh, tối đa 50%)\n[WinDuel] Gây 5 [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[WhenUse] Nhận 3 Khiên với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cắt Xé",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vết Thương Cơ",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đánh Nhanh Gọn",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[BeforeHit] Nhận 2 Khiên với mỗi hiệu ứng bất lợi trên chủ thể (tối đa 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có Khiên, gây 1 [Paralysis] trên mục tiêu vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngạc Kích",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ [Burst], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kìm Hãm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Tái sử dụng Xu này (Tốc Độ của chủ thể / 4) lần (tối đa 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vũ Kích",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu nhận Sức Mạnh Xu dựa trên Tốc Độ chênh lệch (Sức Mạnh Xu +1 với mỗi 2 Tốc Độ chênh lệch; tối đa 3)\n[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây +3 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Nếu mục tiêu có [BurstAgility], +50% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [LegStrength]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lấy Đà",
+          "desc": "[DuelCounter] \n[WinDuel] Nhận 3 [Agility] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Truy Đuổi",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ [Burst], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Áp Đảo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Tái sử dụng Xu này (Tốc Độ của chủ thể / 4) lần (tối đa 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ám Kích",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu nhận Sức Mạnh Xu dựa trên Tốc Độ chênh lệch (Sức Mạnh Xu +1 với mỗi 2 Tốc Độ chênh lệch; tối đa 3)\n[WhenUse] Nếu mục tiêu có 4+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây +3 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Nếu mục tiêu có [BurstAgility], +50% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [LegStrength]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lấy Đà",
+          "desc": "[DuelCounter] \n[WinDuel] Nhận 3 [Agility] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhắm Thẳng Đản Trung",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đấm Thẳng Vào Đầu",
+          "desc": "[WhenUse] Nếu mục tiêu có [MiddleFingerBook], Kỹ Năng này gây thêm 2 [DefenseDown]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Giã Nát Bụng",
+          "desc": "[WhenUse] Nếu mục tiêu có [MiddleFingerBook], gây thêm 1 [AttackDown] với Kỹ Năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [AttackDown] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [MiddleFingerBook], nhận 1 [PlusCoinValueUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [AttackDown] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [MiddleFingerBook], nhận 1 [PlusCoinValueUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phục thù cả lũ chúng mày!",
+          "desc": "+10% sát thương gây ra với mỗi 2 [MiddleFingerBook] trên mục tiêu (tối đa 50%)\n[BeforeAttack] Khi có 40% HP hoặc thấp hơn, nhận Phạm Vi Tấn Công +1\n[WhenUse] Nếu mục tiêu chính có [MiddleFingerBook], chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]\n[WhenUse] Sức Mạnh Xu +1 với mỗi 3 kẻ địch có [MiddleFingerBook] (tối đa 2)\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 2 [MiddleFingerBook] trên mục tiêu chính (tối đa 5)\n[EndSkill] Nếu chủ thể giết mục tiêu có [MiddleFingerBook], nhận 1 [PlusCoinValueUp] vào lượt kế (2 lần mỗi lượt)\n[EndSkill] Gỡ [MiddleFingerBook] trên toàn bộ mục tiêu bị đánh trúng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Reduction] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nắm Bắt Cơ Hội",
+          "desc": "[BeforeHit] Nhận 5 Khiên với mỗi [MiddleFingerBook] trên mục tiêu (một lần mỗi lượt; tối đa 50)\n[WhenUse] Nếu mục tiêu có 5+ [MiddleFingerBook], Sức Mạnh Gốc +3; gây 4 [DefenseDown]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 20"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 15 sát thương cố định"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 20"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 15 sát thương cố định"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

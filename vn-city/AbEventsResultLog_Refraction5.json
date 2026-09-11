@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "8630_BUFF",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>nhận</color> %{2} {1}/%"
+    },
+    {
+      "id": "8630_SHIELD",
+      "content": "<color=#ebcaa2>{0} nhận {1} Khiên</color>"
+    },
+    {
+      "id": "863201_1_1",
+      "content": "<color=#ebcaa2>Kháng vật lý của {0} đã bị suy yếu\n- Kháng Chém, Đâm, Đập +0.3</color>"
+    },
+    {
+      "id": "863201_1_2",
+      "content": "<color=#ebcaa2>Trong lượt này, {0} +100% sát thương gây ra khi Trí Mạng</color>"
+    },
+    {
+      "id": "863201_2_1",
+      "content": "Trong lượt này, <color=#ebcaa2>toàn bộ đồng minh</color> nhận %{1} {0}/%"
+    },
+    {
+      "id": "863301_1_1",
+      "content": "Trong 3 lượt, <color=#ebcaa2>{0}</color> <color=#ebcaa2>nhận</color> %{2} {1}, và {4} {3}/%"
+    },
+    {
+      "id": "863301_2_1",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> <color=#fe4b48>mất 10% HP.</color>"
+    },
+    {
+      "id": "863301_2_2",
+      "content": "Trong 3 lượt, <color=#ebcaa2>{0}</color> <color=#ebcaa2>nhận</color> %{2} {1}, và {4} {3}/%"
+    },
+    {
+      "id": "863301_3_1",
+      "content": "<color=#ebcaa2>Toàn bộ Tội Nhân</color> <color=#fe4b48>mất 15% HP.</color>"
+    },
+    {
+      "id": "863301_3_2",
+      "content": "Trong 3 lượt, <color=#ebcaa2>{0}</color> <color=#ebcaa2>nhận</color> %{2} {1}, và {4} {3}/%"
+    },
+    {
+      "id": "863301_4_1",
+      "content": "<color=#fe4b48>Giảm một nửa lượng Huyết Yến hiện tại</color> <color=#ebcaa2>trong Ải này</color>"
+    },
+    {
+      "id": "863301_4_2",
+      "content": "Trong 3 lượt, <color=#ebcaa2>{0}</color> <color=#ebcaa2>nhận</color> %{2} {1}, và {4} {3}/%"
+    }
+  ]
+}

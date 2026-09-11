@@ -1,0 +1,354 @@
+{
+  "dataList": [
+    {
+      "id": 9010101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Con Người Kìa-nôm!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Túm Chúng Vào-nôm",
+          "desc": "[WinDuel] Hồi 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "+40% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ộm-mẹ, Ộm-mẹ mày!!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thịt Tươi Kia Kìa-nôm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath] và +2 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cả Lũ Chuẩn Bị Coi-nôm",
+          "desc": "[WinDuel] Hồi 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath] và +2 Tầng [Breath]"
+                },
+                {
+                  "desc": "+40% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vô Dụng Thôi-nôm!",
+          "desc": "[EndBattle] Nếu chủ thể có Khiên, nhận 1 [Enhancement] vào lượt kế.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đóng Mi Thành Hòm-nôm!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +3 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lẹ Lẹ Cái Chân Lên Coi-nôm",
+          "desc": "[WinDuel] Hồi 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "+40% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nôm-mẹ Nôm-mẹ~",
+          "desc": "[OnSucceedEvade] Nhận 5 [Breath] và +2 Tầng [Breath].\n[OnDefeatEvade] Nâng Ngưỡng Choáng của mục tiêu lên thêm 10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tao Sẽ Bắt Mày Trả Giá-nôm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nổ Hũ Luôn-nôm!",
+          "desc": "[WinDuel] Hồi 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath] và +3 Tầng [Breath]"
+                },
+                {
+                  "desc": "+50% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath] và +1 Tầng [Breath]"
+                },
+                {
+                  "desc": "+50% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hàng Tươi Đắt Giá-nôm",
+          "desc": "[WinDuel] Nhận 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối, +20% sát thương"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Xu cuối, +20% sát thương"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Không giảm Tầng [Breath]. Gây thêm sát thương Đập bằng Lượng [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9010404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vô Dụng Thôi-nôm!",
+          "desc": "[EndBattle] Nếu chủ thể có Khiên, nhận 2 [Enhancement] vào lượt kế.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

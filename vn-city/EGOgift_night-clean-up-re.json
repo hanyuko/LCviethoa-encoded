@@ -1,0 +1,96 @@
+{
+  "dataList": [
+    {
+      "id": 9269,
+      "name": "Máy Phát Nhạc cho Màn Ra Sân Ấn Tượng",
+      "desc": "Đánh trúng bằng Kỹ năng Đập: Hồi HP bằng 5% lượng sát thương đã gây ra\n\nĐánh trúng bằng Kỹ năng Phản đòn: Hồi 5 SP (2 lần mỗi lượt mỗi Danh tính)",
+      "simpleDesc": [
+        {
+          "abilityID": 9269,
+          "simpleDesc": "Heal HP proportional to damage dealt"
+        },
+        {
+          "abilityID": 92691,
+          "simpleDesc": "Heal SP"
+        }
+      ]
+    },
+    {
+      "id": 9270,
+      "name": "VÀO SÂN: A.L",
+      "desc": "Khi có đồng minh bị đánh trúng, gán 3 [AttackUp] lên đồng minh đó và gây +4 Tầng [Laceration] lên kẻ tấn công (một lần mỗi Kỹ Năng)\n\nKỹ Năng Cơ Bản của Danh Tính thuộc Băng Ngón Giữa nhận Sức Mạnh Gốc +1 và +(30 / Số Xu)% sát thương gây ra\n- Đầu Lượt: Nếu có 3+ Danh Tính thuộc Băng Ngón Giữa trên sân thì nhận Sức Mạnh Gốc +1 và +(60 / Số Xu)% sát thương gây ra\n- Nếu có 5+ Danh Tính thuộc Băng Ngón Giữa trên sân thì nhận Sức Mạnh Gốc +2 và +(90 / Số Xu)% sát thương gây ra\n\nĐánh trúng bằng Kỹ năng Đập: Hồi HP bằng 10% lượng sát thương đã gây ra\n\nĐánh trúng bằng Kỹ năng Phản đòn: Hồi 5 SP (2 lần mỗi lượt mỗi Danh Tính)\n\nCuối Lượt: Nếu có đồng minh trang bị Kỹ năng Phản Đòn lúc Khởi Chiến mà không sử dụng Kỹ năng Phản đòn trong lượt này, đồng minh đó nhận 1 [PlusCoinValueUp] và 1 [MinusCoinValueDown] vào lượt kế",
+      "simpleDesc": [
+        {
+          "abilityID": 9270,
+          "simpleDesc": "Attacker gains Tầng [Laceration], attacked ally gains [AttackUp]"
+        },
+        {
+          "abilityID": 92701,
+          "simpleDesc": "Gain Base Power and deal more damage"
+        },
+        {
+          "abilityID": 92702,
+          "simpleDesc": "Heal HP proportional to damage dealt"
+        },
+        {
+          "abilityID": 92703,
+          "simpleDesc": "Heal SP"
+        },
+        {
+          "abilityID": 92704,
+          "simpleDesc": "Nhận [PlusCoinValueUp] and [MinusCoinValueDown] vào lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 9271,
+      "name": "Hắc Thú Hoàn - Mão",
+      "desc": "Khi Danh Tính thuộc Hắc Thú Quân - Nhánh Mão lần đầu vào Ải, đặt Tốc Độ tối thiểu thành 10 trong một lượt (hiệu ứng này không kích hoạt nếu Tốc Độ tối thiểu ≥ 10)\n\nNếu một đồng minh có [LegStrength], Kỹ năng Cơ bản của đồng minh đó nhận Sức Mạnh Giao Tranh +1 và +10% sát thương gây ra",
+      "simpleDesc": [
+        {
+          "abilityID": 9271,
+          "simpleDesc": "Cap minimum Speed value"
+        },
+        {
+          "abilityID": 92711,
+          "simpleDesc": "Gain Clash Power and deal more damage"
+        }
+      ]
+    },
+    {
+      "id": 9272,
+      "name": "Ám Dược",
+      "desc": "Khi Danh Tính thuộc Hắc Thú Quân - Nhánh Mão lần đầu vào Ải, đặt Tốc Độ tối thiểu thành 10 trong 3 lượt (hiệu ứng này không kích hoạt nếu Tốc Độ tối thiểu ≥ 10)\n\nKỹ năng Cơ bản nhận Sức Mạnh Giao Tranh +1 và +10% sát thương gây ra với mỗi Lớp [LegStrength]\n\nKhi gây [BurstAgility], đồng thời gây lên 2 kẻ địch không có [BurstAgility] (một lần mỗi lượt; trong Ải Chuyên Sâu, lên Bộ Phận)\n\nNếu Tốc Độ của một đồng minh cao hơn mục tiêu, Kỹ Năng của đồng minh đó gây thêm (chênh lệch Tốc Độ / 3) [Burst] hoặc Tầng [Burst] (tối đa 3)\n\nCuối Lượt: đồng minh thuộc Hắc Thú Quân - Nhánh Mão nhận 2 [Agility] vào lượt kế\nNếu Tốc Độ của một đồng minh cao hơn mục tiêu, hoặc khi một đồng minh dùng Đòn Một Chiều, đồng minh đó +10% sát thương Chém gây ra với mỗi (chênh lệch Tốc Độ / 3) (tối đa 30%)\nNếu Tốc Độ của một đồng minh cao hơn mục tiêu, -10% sát thương phải nhận với mỗi (chênh lệch Tốc Độ / 3) (tối đa 30%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9272,
+          "simpleDesc": "Cap minimum Speed value"
+        },
+        {
+          "abilityID": 92721,
+          "simpleDesc": "Gain Clash Power and deal more damage"
+        },
+        {
+          "abilityID": 92722,
+          "simpleDesc": "Inflict additional [BurstAgility]"
+        },
+        {
+          "abilityID": 92723,
+          "simpleDesc": "Skills gây +1 [Burst] or Tầng [Burst]"
+        },
+        {
+          "abilityID": 92724,
+          "simpleDesc": "Cuối Lượt: Nhận [Agility] vào lượt kế"
+        },
+        {
+          "abilityID": 92725,
+          "simpleDesc": "Deal more Slash damage"
+        },
+        {
+          "abilityID": 92726,
+          "simpleDesc": "Take less damage"
+        }
+      ]
+    }
+  ]
+}

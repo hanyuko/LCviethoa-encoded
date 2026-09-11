@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "id": 899901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gimme Candy.",
+          "desc": "Ưu tiên mục tiêu có [CandyForCharon]\n[EndSkill] Nếu mục tiêu không có [CandyForCharon], gây [CandyForCharon]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [CandyForCharon], Choáng mục tiêu vào lượt kế."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No Candy.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... Kkomi's angry.",
+          "desc": "[BeforeAttack] Nhận Phạm Vi Tấn Công bằng số lượng kẻ địch có [CandyForCharon]\n[WhenUse] Nhận Sức Mạnh Giao Tranh bằng số lượng kẻ địch có [CandyForCharon]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vroom-Vroom",
+          "desc": "[WhenUse] Nhận Sức Mạnh Giao Tranh bằng số [CandyForCharon] Danh Tính đang có\n+10% sát thương gây ra với mỗi Danh Tính có [CandyForCharon] (tối đa 100%)",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You hit Kkomi.",
+          "desc": "[WhenUse] Nhận 2 [ParryingResultUp] và 2 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

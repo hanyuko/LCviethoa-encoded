@@ -1,0 +1,148 @@
+{
+  "dataList": [
+    {
+      "id": "NetherseaBrand",
+      "name": "Nethersea Brand",
+      "desc": "         \n      \n      \n      \n       ",
+      "summary": "The Nethersea Brand expands with each turn"
+    },
+    {
+      "id": "NetherseaBrandUnit",
+      "name": "Nethersea Brand",
+      "desc": "                     \n                \n           \n·      \n·       \n·       \n·      ",
+      "summary": "Allies on top of Nethersea Brand takes fixed damage and gain Nervous Impairment.\nGreatly increase the amount of Nervous Impairment inflicted against allies by enemies on top of Nethersea Brand"
+    },
+    {
+      "id": "SeaTerrorCell",
+      "name": "Sea Terror Assimilation",
+      "desc": "    \n      \n   <sprite name=\"AttackDown\"><color=#e20000>   </color>       \n               \n                    ",
+      "summary": "Gains <sprite name=\"AttackDown\"><color=#e20000>Giảm Cấp Tấn Công</color> and Defense Level Down based on the Stack"
+    },
+    {
+      "id": "NervousImpairment",
+      "name": "Nervous Impairment",
+      "desc": "    \n                     ",
+      "summary": "Become Staggered and take significant HP damage"
+    },
+    {
+      "id": "WaitingforCommandMod",
+      "name": "Standby State",
+      "desc": "               ",
+      "summary": "When in Standby State, this unit does not use Attack Skills until it takes damage"
+    },
+    {
+      "id": "ParticipationMod",
+      "name": "Combat-Ready State",
+      "desc": "            \n      \n·       \n·     \n·   <sprite name=\"AttackUp\"><color=#fac400>   </color>        \n             ",
+      "summary": "After taking damage, this unit begins to use its Attack Skills"
+    },
+    {
+      "id": "AbyssalVitality",
+      "name": "Abyssal Vitality",
+      "desc": "    \n     \n              ",
+      "summary": "Consumed when using certain Skills\n- Every time this effect is consumed, Heal SP"
+    },
+    {
+      "id": "IndelibleGoodwill",
+      "name": "Indelible Compassion",
+      "desc": "                \n              <sprite name=\"Vulnerable\"><color=#e30000> </color>   \n              \n          \n                        \n                ",
+      "summary": "Does not lose Shield at Turn End\nWhen the Shield breaks, become very fragile"
+    },
+    {
+      "id": "ColdAirDOQ",
+      "name": "Cold",
+      "desc": "     \n       \n                          \n        \n            ",
+      "summary": ""
+    },
+    {
+      "id": "FreezingDOQ",
+      "name": "Frozen",
+      "desc": "  \n     \n        ",
+      "summary": ""
+    },
+    {
+      "id": "BloodborneDOQ",
+      "name": "The Knight's Corpus",
+      "desc": "  ",
+      "summary": ""
+    },
+    {
+      "id": "WeakenDOQ",
+      "name": "Misery and Calamity",
+      "desc": "   \n   ",
+      "summary": ""
+    },
+    {
+      "id": "DOQ_LowMorale",
+      "name": "Hive Mind",
+      "desc": "    ",
+      "summary": "All Resistances change to 'Normal'"
+    },
+    {
+      "id": "DOQ_Panic",
+      "name": "Hive Mind",
+      "desc": "    \n    <sprite name=\"Combustion\"><color=#e30000> </color> <sprite name=\"Laceration\"><color=#e30000> </color> <sprite name=\"Vibration\"><color=#e30000> </color>  <sprite name=\"Burst\"><color=#e30000> </color>      ",
+      "summary": "All Resistances change to 'Normal'\nDouble the amount of <sprite name=\"Combustion\"><color=#e30000>Thiêu Đốt</color>, <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color>, <sprite name=\"Vibration\"><color=#e30000>Chấn Động</color>, and <sprite name=\"Burst\"><color=#e30000>Vỡ Vụn</color> Potency gained due to Skill effects"
+    },
+    {
+      "id": "CallOfSea_LowMorale",
+      "name": "Call of the Bloodkin",
+      "desc": "             <sprite name=\"Vulnerable\"><color=#e30000> </color>          ",
+      "summary": "Consume HP to apply Attack Power Up and <sprite name=\"Vulnerable\"><color=#e30000>Suy Yếu</color> to allies"
+    },
+    {
+      "id": "CallOfSea_Panic",
+      "name": "Call of the Bloodkin",
+      "desc": "        <sprite name=\"Vulnerable\"><color=#e30000> </color>                   ",
+      "summary": "Consume HP to apply Attack Power Up and <sprite name=\"Vulnerable\"><color=#e30000>Suy Yếu</color> to allies"
+    },
+    {
+      "id": "BitOfEmotion",
+      "name": "Emotional Connection",
+      "desc": "                      \n                \n                        \n·     \n·    \n·   \n·   ",
+      "summary": "Khi Đánh Trúng, or on enemyt death, gain E.G.O Resources\nWhen using certain E.G.O Skills, gain E.G.O Resources"
+    },
+    {
+      "id": "WildernessSurvivalModule",
+      "name": "Little Handy - Wilderness Survival Module",
+      "desc": "             ",
+      "summary": "Gain max HP and hồi more"
+    },
+    {
+      "id": "HousekeepingAssistantModule",
+      "name": "Little Handy - Housekeeping Assistant Module",
+      "desc": "             \n    <sprite name=\"AttackUp\"><color=#fac400>   </color>  <sprite name=\"DefenseUp\"><color=#fac400>   </color>                       ",
+      "summary": "When activating the Hand of the Saint, it activates again once next turn\nĐầu Lượt: gain <sprite name=\"AttackUp\"><color=#fac400>Tăng Cấp Công Kích</color> and <sprite name=\"DefenseUp\"><color=#fac400>Tăng Cấp Phòng Thủ</color> equal to the number of times Nethersea Brand was removed"
+    },
+    {
+      "id": "IncrementalMotionFirmware",
+      "name": "Little Handy - Incremental Motion Firmware",
+      "desc": "         \n              ",
+      "summary": "Remove one Stagger Threshold\nWhen Staggered, immediately recover next turn"
+    },
+    {
+      "id": "MiniDecontaminationKit",
+      "name": "Little Handy - Mini Decontamination Kit",
+      "desc": "            ",
+      "summary": "Nethersea Brand no longer inflicts Nervous Impairment or deals damage to allies"
+    },
+    {
+      "id": "ExternalUpgradeModule",
+      "name": "Little Handy - External Upgrade Module",
+      "desc": "              <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>                ",
+      "summary": "For 3 turns after gaining this effect: gain Power Up and <sprite name=\"AttackDmgUp\"><color=#fac400>Tăng Sát Thương</color>"
+    },
+    {
+      "id": "DesireToSave_LowMorale",
+      "name": "Heart of Compassion",
+      "desc": "           \n     <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "Deal more damage based on Nervous Impairment on target"
+    },
+    {
+      "id": "DesireToSave_Panic",
+      "name": "Heart of Compassion",
+      "desc": "         \n     <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": "Deal more damage based on Nervous Impairment on target"
+    }
+  ]
+}

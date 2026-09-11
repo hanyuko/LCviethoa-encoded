@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": 97102702,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai đại diện đây?",
+      "successDesc": [
+        "\"Hừm... Tốt thôi. Tui từng nghe mấy lời đồn thổi không hay về ghế hạng nhất, nhưng... đằng đó đáng tin à nhen.\"\n\n\"Mồ tổ nó chớ, dù sao thì chuyến công tác đợt ni tui kiếm được cũng khấm khá. Tui sẽ xúc lun cái vé hạng nhất.\"\n\nNhờ lời khuyên nhiệt tình của {0}, vị khách này đã đưa ra quyết định cuối cùng.\n\n\"Cảm ơn đằng đó nghen.\"\n\nVừa dứt lời, vị khách lấy từ trong túi và đặt vào tay {0} một tờ phiếu giảm giá.\n\n\"Tui lấy cái ni ở trong một cuốn tạp chí thường niên mà tui đang theo dõi. Giờ tui tặng cho đằng đó nghen.\""
+      ],
+      "failureDesc": [
+        "\"Đằng đó có thiệt là nhân viên của Tập Đoàn W. không đó…?\"\n\n\"Tui hổng biết nữa, nghe cứ như đằng đó đang cố quá mức để dụ tui theo cái ý ni vậy.\"\n\n\"Để tui suy nghĩ đã.\"\n\nMặc kệ những gì vị khách vừa nói, nhìn cái kiểu của họ thì biết ngay là họ đã chọn vé hạng phổ thông rồi."
+      ]
+    },
+    {
+      "id": 97102901,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "Có vài trang bị dùng được ở ngay dưới chân mấy Đặc Vụ Dọn Dẹp.\n\nNếu chúng được thiết kế bởi công nghệ Tập Đoàn W... chúng có thể trở nên hữu ích ở các trận chiến sau này.\n\n{0} lén bò qua chỗ đó.\n\nĐám Túi Máu vẫn chưa phát hiện ra {0}."
+      ],
+      "failureDesc": [
+        "Có vài trang bị dùng được ở ngay dưới chân mấy Đặc Vụ Dọn Dẹp.\n\nNếu chúng được thiết kế bởi công nghệ Tập Đoàn W... chúng có thể trở nên hữu ích ở các trận chiến sau này.\n\n{0} lén bò qua chỗ đó.\n\nĐám Túi Máu vẫn chưa phát hiện ra {0}.\n\nRẹt.\n\nQuần áo của {0} bị vướng vào thứ gì đó... Âm thanh vải bị kéo căng vang vọng khắp toa tàu, phá tan bầu không khí im lặng ban đầu của nó.\n\nTrong chớp mắt, một tên Túi Máu đã để ý tới {0} và vung vũ khí về phía Tội Nhân xấu số."
+      ]
+    },
+    {
+      "id": 97103001,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "Những sợi cáp sinh học được làm từ cơ thể một hành khách vươn tới {0}\n\n{0} cố gắng chịu đứng cái cảm giác ghê tởm, ngột ngạt và đứng im trong suốt quá trình xác thực.\n\nVài phút sau, một giọng nói xác nhận tiến trình đã hoàn tất. Sợi cáp trở về vị trí ban đầu.\n\nCó thứ gì đó dưới chân của {0}"
+      ],
+      "failureDesc": [
+        "Những sợi cáp sinh học được làm từ cơ thể một hành khách vươn tới {0}\n\nViệc phải chịu đựng mấy thứ đang ngọ nguậy đó là quá sức với {0}; Tội nhân này ngay lập tức cố gắng cắt bỏ những sợi cáp.\n\nVô số mạch máu, vụn xương và nội tạng vương vãi hỗn loại lên sàn tựa như bọt khí trào lên khi nước sôi.\n\nRồi một sợi cáp dày lao thẳng về phía {0}...\n\n... nhưng chúng tôi đã kịp xoay sở để di chuyển sang toa kế tiếp.\n\nCó thứ gì đó được đặt trên tim của {0}."
+      ]
+    },
+    {
+      "id": 97103101,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ quan sát?",
+      "successDesc": [
+        "Chúng tôi không thể giúp được gì nhiều.\n\n{0} chỉ vào một bộ phận máy khi chúng tôi đang kiểm tra phần cơ thể nhân tạo.\n\nDù chủ nhân của nó không thể di chuyển nữa, phần bộ phận máy này vẫn hoạt động trơn tru.\n\nTrong một khoảnh khắc, tôi tự hỏi rằng các bộ phận nhân tạo bị hỏng có thể được khôi phục khi tàu tới bến hay không.\n\nNgay cả quần áo của hành khách cũng được khôi phục lại thì gần như chắc chắn những bộ phận nhân tạo này cũng sẽ chung kết quả.\n\nThế thì mượn tạm vài bộ phận máy chắc không có vấn đề gì đâu ha?\n\nTôi nhờ {0} tháo dỡ các bộ phận nhân tạo."
+      ],
+      "failureDesc": [
+        "Chúng tôi không thể giúp được gì cả.\n\nChỉ mong rằng quá trình tái cấu trúc sẽ diễn ra suôn sẻ khi tàu về bến."
+      ]
+    }
+  ]
+}

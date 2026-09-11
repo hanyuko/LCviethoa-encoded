@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 863001,
+      "name": "Cận Chiến",
+      "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu, +10% sát thương gây ra với mỗi Tốc Độ chênh lệch (tối đa 30%)\nNếu Tốc Độ của chủ thể thấp hơn mục tiêu, -10% sát thương gây ra với mỗi Tốc Độ chênh lệch (tối đa 30%)"
+    },
+    {
+      "id": 863002,
+      "name": "Xung Trận",
+      "desc": "Nâng Tốc Độ Tối Thiểu & Tối Đa lên thêm 1 với mỗi 5 [Breath] trên chủ thể (tối đa 4)"
+    },
+    {
+      "id": 863003,
+      "name": "Triệu Hồi Mục Tiêu",
+      "desc": "Nếu HP ≤ 75%, nhận hành vi chiến đấu mới\nKhi thay đổi hành vi chiến đấu, triệu hồi Trưởng Quản Lý Tập Đoàn G và Cựu Binh Rầu Rĩ; sau đó, gây [FellBulletMark] lên mục tiêu có HP hiện tại thấp nhất\n- Chỉnh Tốc Độ Tối Thiểu & Tối Đa của chủ thể thành 1.\n- Nhận 300 HP Khiên."
+    },
+    {
+      "id": 863004,
+      "name": "Chỉ Định Mục Tiêu",
+      "desc": "Khi dùng Chỉ Định Mục Tiêu - Khai Hỏa hoặc Hiệu Chỉnh Mục Tiêu - Khai Hỏa: trong số các mục tiêu có Tốc Độ thấp nhất, gây [FellBulletMark] lên mục tiêu có HP hiện tại thấp nhất"
+    },
+    {
+      "id": 863201,
+      "name": "Cung Cấp Oxy",
+      "desc": "Vào Đầu Lượt mà Túi Ngủ Ngày Định Mệnh xuất hiện, nó nhận 10 Lượng [Breath] và +10 Tầng [Breath]\n\nCuối Lượt: nếu Lượng [Breath] hoặc Tầng [Breath] dưới 10, tiêu thụ HP từ Phần Đầu bằng 2% HP tối đa của Lõi để nhận 5 [Breath] và +5 Tầng [Breath] (hiệu ứng này không thể phá hủy hoặc đánh bại Bộ Phận)"
+    },
+    {
+      "id": 863202,
+      "name": "Thở Sâu",
+      "desc": "Nhân 1.5 lần Tỷ Lệ Trí Mạng từ hiệu ứng [Breath]\n\nTrí Mạng:\n- Ở mốc 15+ Lượng [Breath], tiêu thụ tối đa (Lượng [Breath] trên chủ thể / 5) Lượng [Breath] để +(Lượng [Breath] đã tiêu thụ x 4)% sát thương gây ra khi Trí Mạng\n- Ở mốc 15+ Tầng [Breath], tiêu thụ tối đa (Tầng [Breath] trên chủ thể / 5) Tầng [Breath] để +(Tầng [Breath] consumed x 8)% sát thương gây ra khi Trí Mạng"
+    },
+    {
+      "id": 863203,
+      "name": "Bão Hòa Oxy",
+      "desc": "Vào lượt chủ thể dùng 'Cái đó... LÀ CỦA TÔI!', cố định Tốc Độ thành 1. Vào Đầu Lượt, gán 6 Lượng [Breath] và +6 Tầng [Breath] cho toàn bộ đơn vị có mặt trên sân.\n\nVào cuối lượt đó, tiêu thụ bất kỳ Lượng [Breath] và Tầng [Breath] nào vượt quá 5 Lượng và 5 Tầng; sau đó, vào Đầu Lượt kế, gán giá trị Lượng [Breath] và Tầng [Breath] đã tiêu thụ cho Phần Đầu"
+    },
+    {
+      "id": 863204,
+      "name": "Lồng Ngực Vỡ Vụn",
+      "desc": "Khi Phần Thân bị phá hủy, xóa bỏ Phần Thân vào lượt kế và thay bằng Phần Người"
+    },
+    {
+      "id": 863205,
+      "name": "Tái Tạo Lồng Ngực",
+      "desc": "Khi Ngừng Chiến, giảm một nửa Lượng [Breath] và Tầng [Breath] trên Phần Người\nVào Lượt kế, Phần Người biến mất và được thay thế bằng Phần Thân"
+    },
+    {
+      "id": 863206,
+      "name": "Nỗi Thống Khổ Cùng Cực",
+      "desc": "Mỗi khi chủ thể thua Giao Tranh và bị đánh trúng, mất 1 Lượng [Breath]\n\nMỗi khi chủ thể bị Đòn Một Chiều đánh trúng, mất 1 Tầng [Breath]\n\nDù là gây Trí Mạng hay kích hoạt Nội Tại, Lượng [Breath] và Tầng [Breath] của chủ thể sẽ không giảm xuống dưới 5"
+    },
+    {
+      "id": 863207,
+      "name": "Tiếng Thét Ai Oán",
+      "desc": "Nếu HP của Lỗi ở mốc 40% hoặc thấp hơn, dùng 'Chia Sẻ Cơn Đau' vào lượt kế"
+    },
+    {
+      "id": 863208,
+      "name": "Tác Dụng Phụ",
+      "desc": "Khi phần Người chết, cả Phần Thân và Phần Đầu đều nhận +0.2 Kháng Chém, Đâm, và Đập cho tới lượt kế (một lần mỗi Ải)"
+    },
+    {
+      "id": 863301,
+      "name": "Cánh Hoa Nuông Chiều",
+      "desc": "Cuối Lượt: ở mốc 20+ [BloodDinner], tiêu thụ lên tới 50 [BloodDinner] và hồi cho Phần Lõi và Đầu bằng lượng [BloodDinner] đã tiêu thụ\n- Không kích hoạt nếu Phần Đầu Bị Choáng hoặc bị Phá Hủy"
+    },
+    {
+      "id": 863302,
+      "name": "Một Giọt Dinh Dưỡng",
+      "desc": "Kết Đòn: Hồi cho Lõi và Bộ Phận bằng lượng sát thương mà Kỹ Năng Tấn Công của chủ thể đã gây ra\n- Không kích hoạt nếu Phần Đầu Bị Choáng hoặc bị Phá Hủy"
+    },
+    {
+      "id": 863303,
+      "name": "Khao Khát",
+      "desc": "Cuối Lượt: nếu chủ thể đã hồi HP, nhận 1 [AttackUp] và 1 [DefenseDown] vào lượt kế với mỗi 10 HP đã hồi (tối đa 10)"
+    },
+    {
+      "id": 863304,
+      "name": "Hương Máu Nồng",
+      "desc": "Ở mốc 100+ [BloodDinner], dùng một Kỹ Năng đặc biệt\nCuối Lượt: ở mốc 500+ [BloodDinner_Accumulation] trên chủ thể, hoặc nếu HP của chủ thể dưới 60%, nhận một hành vi chiến đấu mới"
+    },
+    {
+      "id": 863305,
+      "name": "Tội Lỗi Khúc Xạ",
+      "desc": "Lượng [Combustion], [Laceration], [Vibration], [Burst], và [Sinking] chỉ cộng dồn tối đa 50 (tính cả các biến thể Đặc Trưng)"
+    },
+    {
+      "id": 863306,
+      "name": "Gai Sắc Bén",
+      "desc": "Nếu Phần Thân của chủ thể nhận sát thương từ Kỹ Năng của kẻ địch, gây +1 Tầng [Laceration] lên kẻ tấn công (một lần mỗi lượt mỗi Danh Tính)"
+    },
+    {
+      "id": 863307,
+      "name": "Cơn Khát Triền Miên",
+      "desc": "Đầu Lượt: nhận 1 [DefenseDown] với mỗi 100 [BloodDinner_Accumulation] trên chủ thể (tối đa 10)\nĐầu Lượt: nhận 1 [TakeHpHealIncrease] với mỗi 200 [BloodDinner_Accumulation] trên chủ thể (tối đa 5)"
+    },
+    {
+      "id": 863308,
+      "name": "Khao Khát Bất Tận",
+      "desc": "Kích hoạt một Sự Kiện Lựa Chọn mỗi 'bội của 3' lượt."
+    },
+    {
+      "id": 863309,
+      "name": "Tăng Tốc Độ Khúc Xạ",
+      "desc": "Nếu đã qua 9 lượt kể từ khi chủ thể xuất hiện trên chiến trường, bắt đầu từ lượt kế, nhận 1 [AttackUp] mỗi lượt vượt quá lượt thứ 10 (tối đa 10)"
+    },
+    {
+      "id": 863101,
+      "name": "Chỉ Định Hành Quyết",
+      "desc": "Khi bị Der Fluchschütze giết, gán 1 [Agility], 1 [Enhancement], và 2 [AttackDmgUp] vào lượt kế cho Der Fluchschütze"
+    },
+    {
+      "id": 863102,
+      "name": "Tiên Hạ Thủ Vi Cường",
+      "desc": "Khi bị một Tội Nhân giết, cấp 3 tài nguyên E.G.O của Nguyên Tội trùng với Kỹ Năng đã giết chủ thể"
+    },
+    {
+      "id": 863103,
+      "name": "Không Phải Tôi Nhé",
+      "desc": "Nếu chủ thể không bị [FellBulletMark] khi Khởi Chiến, nhận 300 Khiên."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "dataList": [
+        {
+            "id": 107804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quấn Quà Thôi Nào",
+                    "desc": "Nếu chủ thể có [AaCeSeBa], thêm 'Gây 1 [Paralysis] vào lượt kế' vào hiệu ứng Xu\nNhắm vào đơn vị có Tốc Độ thấp nhất\n[EndBattle] Tiêu thụ toàn bộ Tầng [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận 3 [Breath]."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gây thêm sát thương bằng số [Breath] trên chủ thể"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận 1 [Breath] và +3 Tầng [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gây hoặc gán 3 từ một hiệu ứng ngẫu nhiên ([Protection], [Enhancement], [Vulnerable], [Paralysis])."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Mục tiêu mất SP bằng số Tầng [Charge] của đơn vị này"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Tất cả kẻ địch mất 10 Sp."
+                                },
+                                {
+                                    "desc": "[EnemyKillFail] Nhận 2 [Paralysis] vào lượt kế."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

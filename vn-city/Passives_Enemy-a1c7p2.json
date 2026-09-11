@@ -1,0 +1,69 @@
+{
+  "dataList": [
+    {
+      "id": 9015801,
+      "name": "Hút Máu Thô Vụng",
+      "desc": "Khi Đánh Trúng, nếu mục tiêu có [Laceration], hồi HP bằng với 5~10% sát thương gây ra"
+    },
+    {
+      "id": 9017501,
+      "name": "Âm Vang Lễ Hội",
+      "desc": "Nhận 1 [FestivalFever] mỗi khi chủ thể nhận hiệu ứng có lợi bằng Kỹ Năng (một lần mỗi loại hiệu ứng)\n\nĐầu Lượt: nhận [FestivalFever] bằng với số đồng minh trên sân (tối đa 3)\nCuối Lượt: mất [FestivalFever] bằng với số đồng minh bị giết trong lượt này\nCuối Lượt: hồi SP bằng với số [FestivalFever] (không kích hoạt khi đang có -45 SP)\n\nCuối Lượt: khi có 8+ [FestivalFever], ùng một Kỹ Năng mạnh mẽ vào lượt kế"
+    },
+    {
+      "id": 9017502,
+      "name": "Hút Máu",
+      "desc": "Khi Đánh Trúng, nếu mục tiêu có [Laceration], hồi HP bằng với 20% sát thương gây ra"
+    },
+    {
+      "id": 9017503,
+      "name": "Máu Đông",
+      "desc": "Kết Đòn: Nếu mục tiêu có 5+ [Laceration], nhận 1 [HardenedBlood]"
+    },
+    {
+      "id": 9017504,
+      "name": "Cơn Khát Máu",
+      "desc": "- Ưu tiên mục tiêu có [Laceration]\nCuối Lượt: nếu nhân vật này không thể gây sát thương trong lượt này, nhận 2 [Vulnerable] và 2 [AttackUp] vào lượt kế\n- Cuối Lượt: nếu nhân vật này gây sát thương, hồi 5 SP"
+    },
+    {
+      "id": 9017505,
+      "name": "Huyết Yến",
+      "desc": "Nếu chủ thể đang tham chiến hoặc có thể tham chiến, tăng giá trị [BloodDinner] dựa theo tổng sát thương [Laceration] tất cả đơn vị trong trận đã nhận.\nKhi chủ thể tham chiến, huyết mạch ngủ say sẽ trỗi dậy, nhuộm đẫm huyết sắc trên chiến trường."
+    },
+    {
+      "id": 9017506,
+      "name": "Héo Mòn và Kiệt Quệ̣",
+      "desc": "Nhận [StarvingDolcineaServant] khi bắt đầu Ải"
+    },
+    {
+      "id": 9017301,
+      "name": "Không Khí Lễ Hội",
+      "desc": "Nhận 1 [FestivalFever] mỗi khi chủ thể nhận hiệu ứng có lợi bằng Kỹ Năng (một lần mỗi loại hiệu ứng)\n\nĐầu Lượt: nhận [FestivalFever] bằng với số đồng minh trên sân (tối đa 3)\nCuối Lượt: mất [FestivalFever] bằng với số đồng minh bị giết trong lượt này\n\nCuối Lượt: khi có 8+ [FestivalFever], dùng một Kỹ Năng mạnh mẽ vào lượt kế"
+    },
+    {
+      "id": 9017302,
+      "name": "Hút Máu",
+      "desc": "Khi Đánh Trúng, nếu mục tiêu có [Laceration], hồi HP bằng với 20% sát thương gây ra"
+    },
+    {
+      "id": 9017303,
+      "name": "Máu Đông",
+      "desc": "Kết Đòn: Nếu mục tiêu có 5+ [Laceration], nhận 1 [HardenedBlood]"
+    },
+    {
+      "id": 9017304,
+      "name": "Cơn Khát Máu",
+      "desc": "Ưu tiên mục tiêu có [Laceration]\nCuối Lượt: nếu nhân vật này không thể gây sát thương trong lượt này, nhận 2 [Vulnerable] và 2 [AttackUp] vào lượt kế"
+    },
+    {
+      "id": 9017305,
+      "name": "Túi Máu",
+      "desc": "Khi bị đánh, nhận +1 Tầng [Laceration].\nNhận 1 [HardenedBlood] và 2 [BloomingThorns] với mỗi 20% HP mà chủ thể mất.\nKhi có Huyết Quỷ trên sân, dù là địch hay ta, nâng giá trị [BloodDinner] lên 30 khi chết"
+    },
+    {
+      "id": 9017101,
+      "name": "Héo Mòn và Kiệt Quệ",
+      "desc": "Nhận [StarvingPriestOne] khi bắt đầu Ải"
+    }
+  ]
+}

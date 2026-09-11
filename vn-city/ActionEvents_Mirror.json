@@ -1,0 +1,1765 @@
+{
+  "dataList": [
+    {
+      "id": 900011,
+      "name": "",
+      "subDesc": "",
+      "desc": "In an empty space,\nyou find a lone vending machine.\n\nWhere does it get its power…?\n\nBesides that, what’s with this sound of crashing waves?\n\nRegardless, this vacant lot looks to be a good place\nfor your Sinners to take a break.\n\nStanding in front of the vending machine, you see rows of buttons.",
+      "options": [
+        {
+          "message": "Press one.",
+          "result": [
+            "With just a single press,\nthe machine ejected one can after another.\n\nAll the cans are purple.\n\nYou can’t fathom the meaning of the ships and grapes doodled on them,\nbut they somehow feel familiar, and well… cheery.\n\nThey should be okay to drink.\n\nYou passed the cans out to the Sinners."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 900012,
+      "name": "",
+      "subDesc": "",
+      "desc": "In an empty space,\nyou find a lone vending machine.\n\nWhere does it get its power…?\n\nBesides that, what’s with this sound of crashing waves?\n\nRegardless, this vacant lot looks to be a good place\nfor your Sinners to take a break.\n\nStanding in front of the vending machine, you see rows of buttons.",
+      "options": [
+        {
+          "message": "Press one.",
+          "result": [
+            "With just a single press,\nthe machine ejected one can after another.\n\nAll the cans are purple.\n\nYou can’t fathom the meaning of the ships and grapes doodled on them,\nbut they somehow feel familiar, and well… cheery.\n\nThey should be okay to drink.\n\nYou passed the cans out to the Sinners."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 900013,
+      "name": "",
+      "subDesc": "",
+      "desc": "In an empty space,\nyou find a lone vending machine.\n\nWhere does it get its power…?\n\nBesides that, what’s with this sound of crashing waves?\n\nRegardless, this vacant lot looks to be a good place\nfor your Sinners to take a break.\n\nStanding in front of the vending machine, you see rows of buttons.",
+      "options": [
+        {
+          "message": "Press one.",
+          "result": [
+            "With just a single press,\nthe machine ejected one can after another.\n\nAll the cans are purple.\n\nYou can’t fathom the meaning of the ships and grapes doodled on them,\nbut they somehow feel familiar, and well… cheery.\n\nThey should be okay to drink.\n\nYou passed the cans out to the Sinners."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 900021,
+      "name": "",
+      "subDesc": "",
+      "desc": "Up ahead, you see some sort of ray of light.\n\nLooking closely, there are numerous tall mirrors.\nThey all face each other.\n\nWhile examining them,\nyou feel the need to stand before the mirrors.\n\nThe room, wall-to-wall with reflections, is quiet and chilly.",
+      "options": [
+        {
+          "message": "Stand in front of one.",
+          "result": [
+            "You seem to have lost consciousness.\n\nWhen you came to your senses,\nyou found yourself in a dreamscape of infinite selves.\n\nThere, you encountered those placed between limitless possibilities beyond the mirrors."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 900031,
+      "name": "",
+      "subDesc": "",
+      "desc": "The machine seemed to be well-maintained.\nNot a single speck of dirt rested on its surface.\n\n[Please select an ampule and go atop the table.]\n\nThose were the instructions on the display next to it.\n\nBehind that display, you see ampules containing\nliquids of various colors, like red, green, and white.\n\nYou carefully get on the cold operating table.",
+      "options": [
+        {
+          "message": "Choose an ampule.",
+          "result": [
+            "[Confirmed choice of ampule.]\n\nA foreboding mechanical arm suddenly began to move,\ntaking out your selection and plugging it into another machine.\n\n[The pain is temporary.]\n\nThe arm swung wildly,\njabbing a large needle into the Sinner.\n\n[Noise over 90 dB detected.\nMore than 30 minutes of exposure\nmay permanently damage eardrums.]\n\nThe display plainly warned,\nbut that obviously didn’t help palliate the scream."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901001,
+      "name": "",
+      "subDesc": "",
+      "desc": "Những vòng tròn màu cam lơ lửng trong không trung trước mắt chúng tôi.\nÁnh sáng lung linh và phấp phới trong không khí, tạo nên một lớp sương mờ.\n\nCó thứ gì đó đang cháy rực bên trong.\nNếu để ngọn lửa ấy chạm vào người, liệu bản thân có bị thiêu đốt hay không?",
+      "options": [
+        {
+          "message": "Chìa tay ra.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Thiêu Đốt",
+          "result": [
+            "Bị lớp sương mù mê hoặc, chúng tôi giơ một ngón tay ra,\nđợi chờ thứ ánh sáng ấy đáp xuống.\n\nMột quả cầu lấp lánh nhẹ nhàng đậu trên đầu ngón tay.\nSau đó, ngọn lửa bao trùm nó.\n\nMột ánh sáng khác dính vào cơ thể, rồi bốn, rồi tám.\nChúng nhân lên cho đến khi toàn thân hoàn toàn bị thứ ánh sáng ấy phủ kín người."
+          ]
+        },
+        {
+          "message": "Quay đi.",
+          "result": [
+            "Cố chống lại cám dỗ để vươn tay ra,\nbản thân quyết định rằng tốt nhất là nên tránh xa thứ ấm áp đáng ngờ đó.\n\nBỗng chúng tôi cảm thấy lạnh sống lưng, nhưng có lẽ đó là lựa chọn đúng đắn.\n\nNgay cả trẻ con cũng biết rằng không nên chơi đùa với lửa."
+          ]
+        },
+        {
+          "message": "Tiến vào làn sương.",
+          "messageDesc": "Thắng trận sẽ nhận 2 Quà Tặng E.G.O Thiêu Đốt.",
+          "result": [
+            "Có thứ gì đó lôi kéo chúng tôi tiến vào bên trong làn sương.\n\nVô vàn đóa hoa tựa như cánh bướm uốn lượn hóa thành một cánh đồng đầy sao.\n\nMột luồng nhiệt nóng khủng khiếp phà vào chúng tôi từ trong làn sương khi đang cố gắng hái một bông hoa."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901002,
+      "name": "",
+      "subDesc": "",
+      "desc": "Máu đổ xuống từ phía trên; vùng đất vàng nằm ở phía bên kia.\nCái xoáy phía trước kêu lên một cách ầm ĩ.\n\nChắc chắn nó đã đạt đến độ sâu này sau khi đào bới không ngừng.\nDù không có mắt, nó vẫn kêu lên khi đối diện với chúng tôi.",
+      "options": [
+        {
+          "message": "Nhìn chằm chằm vào nó.",
+          "result": [
+            "Chúng tôi tiếp tục nhìn chằm chằm vào những chuyển động kỳ lạ của nó với ánh mắt khao khát.\nCảm giác như những cái đinh xoáy sâu vào đầu mình vậy.\n\nNhững cảm xúc thù hận và khinh miệt trong bộ não đầy rẫy khoảng trống của chúng tôi bỗng phun trào.\nCảm giác như những cảm xúc đó đã hiện hữu bên trong bản thân từ lâu rồi."
+          ]
+        },
+        {
+          "message": "Đảo mắt đi.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Bắt lấy vòng xoáy.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Không Phân Loại và một Quà Tặng E.G.O Chảy Máu",
+          "result": [
+            "Một Tội Nhân nắm lấy vòng xoáy đang kêu cót két.\nÂm thanh kim loại khó chịu xoáy tròn, và ánh mắt khinh bỉ của nó tỏa ra khắp mọi hướng.\n\nVòng xoáy tấn công vào trái tim của Tội Nhân."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901003,
+      "name": "",
+      "desc": "Tiếng than khóc vang lên trong vùng hoang dã mênh mông đầy tro tàn.\nTừ đằng xa, một bức tường sương mù nhấp nhô nổi lên.\n\nHình dạng của nó giống như một con người.\nTuy nhiên, nó có thể là một linh hồn hoặc một bóng ma hiện hình.\n\nMiệng nó mở rộng như thể đang khóc trong tuyệt vọng, hoàn toàn tối tăm.",
+      "options": [
+        {
+          "message": "Bước vào làn sương.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O Thiêu Đốt.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Nhìn trực diện vào làn sương.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901004,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nó cung cấp máu cho những ai cần.\nThứ máu duy nhất mà nó có thể cho là máu của chính nó.\n\nNgay cả những người không cần truyền máu\ncũng bị cắt đến khô kiệt, buộc phải chấp nhận.\n\nVì vậy, con đường của nó tràn ngập những người cần nhận máu.",
+      "options": [
+        {
+          "message": "Chấp nhận máu.",
+          "result": [
+            "Nó lấy một túi máu và đưa cho chúng tôi.\n\nKhi thấy chúng tôi chấp nhận,\nnó nhanh chóng treo một túi trống trên giá đỡ.\n\nTúi máu đầy lên với tốc độ kỳ lạ.\n\nSau khi hoàn thành nhiệm vụ của mình, nó đi ngang qua chúng tôi."
+          ],
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại"
+        },
+        {
+          "message": "Hiến máu.",
+          "result": [
+            "Chứng kiến nó liên tục hiến máu\nthì thật thương xót biết bao.\n\nChúng tôi quyết định chia sẻ một phần máu của chính mình.\n\nGIGIGIH.\nKhi chúng tôi bày tỏ tấm lòng tự nguyện hiến máu,\nnó kêu lên như thể để báo hiệu sự bất mãn.\n\nRồi, nó nâng cây kéo lên,\ncắt đứt cánh tay của người tình nguyện hiến máu.\n\nGIGIGIH.\nSau đó, nó rút một trong những ống nối với cơ thể mình,\ncắm vào chỗ vết thương vừa cắt đi.\n\nMột cánh tay mới nhanh chóng mọc lại.\nCòn vết máu đã đổ vẫn vương vãi trên sàn."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901005,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một tiếng than khóc vang vọng trong rừng.\nKhông biết liệu nó đang đau buồn vì gì ta.\n\nCó một chiếc quan tài ở giữa khu rừng.\nNó đã được buộc bằng nhiều đoạn dây và dây thừng,\ntrong nỗ lực đầy tuyệt vọng nhằm giữ cho thứ bên trong không thoát ra.\n\nTuy nhiên, chiếc quan tài vẫn tiếp tục rung lắc và kêu cót két.",
+      "options": [
+        {
+          "message": "Mở quan tài.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Chảy Máu.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Để yên.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901006,
+      "name": "",
+      "subDesc": "",
+      "desc": "“Đằng ấy là ai, và tới đây có chuyện gì vậy?”\n\nMột tờ giấy phát ra tiếng sột soạt.\n\n“Cơ mà đằng ấy đến đúng lúc đấy,\ntôi có việc cần xử lý gấp.\nĐằng ấy nhận việc này dùm tôi được không?”\n\nNó đưa ra một mảnh giấy khác viết toàn những từ ngữ nguệch ngoạc.\nTiếc thay, bạn chả hiểu nổi mấy dòng kẻ với dấu chấm này có nghĩa là gì.\n\n“Thấy sao? Muốn nhận việc chứ?”",
+      "options": [
+        {
+          "message": "Gật đầu.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Lắc đầu.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901007,
+      "name": "",
+      "subDesc": "",
+      "desc": "“Trông đàn bướm đẹp chưa kìa!”\n\n“Chiêm ngưỡng cả hoàng hôn nữa!\nNhìn mà chỉ muốn đi dạo một vòng nhỉ?”\n\n“Hay là các bạn lại đây nghỉ ngơi chút đi?”\n\nMột sinh vật màu vàng ngoắc tay thân thiện với bạn.",
+      "options": [
+        {
+          "message": "Ở lại nghỉ ngơi.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "“Lặn lội đường xa tới đây hẳn là mệt lắm đúng không?”\n\n“Nói nghe này, hãy chiêm ngưỡng đàn bướm đằng kia.\nChúng sẽ làm con tim ấm êm và dịu lòng.”\n\nBạn làm theo lời chỉ dẫn của cái thứ ấy.\nQuả thực trái tim bạn bỗng trở nên ấm ấp đến nhường nào.\n\n“Ồ, coi bộ vài bé rất muốn đồng hành cùng nè!”\n\nMột đàn bướm rạng ngời bắt đầu quấn quít theo sau,\ndù bạn đã sớm rời khỏi cánh rừng thơ mộng ấy."
+          ]
+        },
+        {
+          "message": "Mặc kệ rồi rời đi.",
+          "result": [
+            "“Các bạn ắt hẳn phải bận bịu và vội vã nhỉ!”\n\nSinh vật ấy vẫn ngoắc tay hệt như lúc chào đón chúng tôi.\nCó lẽ cử chỉ ấy hóa ra lại là đang vẫy chào tạm biệt.\n\n“Thôi đành hẹn dịp khác nhé!”"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901008,
+      "name": "",
+      "subDesc": "",
+      "desc": "Chú gấu bông này tả tơi vì những chiếc đinh ghim vào người.\n\nNhững vết máu loang lổ trên người nó\nlà dấu hiệu rõ ràng cho thấy nó đã phải chịu đựng sự đau đớn này suốt thời gian dài.\n\nHai cái hốc nơi đáng lẽ ra phải là mắt của nó giờ trống rỗng.\nChỉ còn lại những vệt đỏ khô bên trong.\n\nMặc dù vậy, nó vẫn đứng với hai tay dang rộng,\ncố gắng hoàn thành nhiệm vụ của mình là trao đi những cái ôm.",
+      "options": [
+        {
+          "message": "Tháo mớ đinh ra.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Chảy Máu.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Băng bó các vết thương của nó.",
+          "result": [
+            "Bạn đã băng bó\nnhững vết thương trên ngực nó.\n\nMáu rỉ ra và thấm đẫm qua những vết thương ấy.\nVết thương vẫn còn đau nhói.\n\nBạn đã băng bó thêm,\nđảm bảo nó sẽ cầm cự được thêm một thời gian dài."
+          ]
+        },
+        {
+          "message": "Ôm lấy những Tội Nhân.",
+          "messageDesc": "Thắng trận để nhận 2 Quà Tặng E.G.O Chảy Máu.",
+          "result": [
+            "Việc ôm con gấu bông đó sẽ rất khó khăn, đặc biệt là khi có những chiếc đinh nhọn hoắt kia nhô ra từ người nó.\n\nThay vào đó, tôi quyết định ôm từng Tội nhân một để xem phản ứng của nó sẽ như thế nào.\n\nHầu hết các Tội nhân đều đẩy tôi ra, ngạc nhiên trước sự khó xử đột ngột...\n\n... nhưng con gấu bông lại dậm chân một cách thiếu kiên nhẫn, rõ ràng là nó đang ghen tị.\n\nCó lẽ thứ nó khao khát bấy lâu nay là tình cảm chăng?\n\nCon gấu bông lao về phía chúng tôi, như thể nó đang cầu mong rằng chúng tôi cũng ôm lấy nó."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901009,
+      "name": "",
+      "subDesc": "",
+      "desc": "Những ngọn nến lặng lẽ bùng cháy.\nTiếng bút viết nguệch ngoạc lên những trang giấy vang vọng khắp nơi.\n\nBa con mắt thay phiên nhau nhìn chằm chằm\nvào một cuốn sách lớn, được bìa bằng da.\n\nKhông thể biết nó đang tham khảo điều gì,\nhay khi viết có cân nhắc kỹ lưỡng gì không;\nnhững bàn tay vẫn luôn di chuyển không ngừng nghỉ.\n\nKhao khát sự hủy diệt và diệt vong,\nnó cứ thế viết, viết tiếp, và viết mãi không dứt.\n\nChúng tôi cảm thấy những đoạn văn mà nó đang viết có thể là những lời tiên tri cho một nơi chốn và thời điểm nào đó.",
+      "options": [
+        {
+          "message": "Thổi tắt nến đi.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Thiêu Đốt",
+          "result": [
+            "Chúng tôi lần lượt dập tắt những ngọn nến.\n\nKhông gian trở nên tối tăm hơn,\nnhưng những bàn tay của nó không ngừng lại.\n\nThứ ánh sáng duy nhất còn hiện hữu\nphát ra từ chiếc bút mà nó cầm trên tay.\n\nNgay cả thứ ánh sáng đó cũng bị chúng tôi thổi tắt đi.\n\nSau đó, toàn bộ nơi này chìm vào bóng tối.\n\nTất cả những gì còn lại\nlà cây bút trong tay nó."
+          ]
+        },
+        {
+          "message": "Ngó trộm vào cuốn sách.",
+          "result": [
+            "!@)(!@&)&*%(%@!@#*(#)*(%&!@#$\n\n@$*@)$ ?\n@#$!!@#* !\n@*()!%&$(^!!!!@&(@)"
+          ]
+        },
+        {
+          "message": "Gom những ngọn nến lại với nhau.",
+          "messageDesc": "Thắng trận để nhận 2 Quà Tặng E.G.O Thiêu Đốt",
+          "result": [
+            "Chúng tôi gom những ngọn nến rải rác lại vào cùng một chỗ.\nNgọn lửa bỗng nhiên bốc cao lên khi một cơn gió thổi vụt qua những ngọn nến đã được gom lại.\n@#$!!@#*!\nNgay khi cột lửa chạm vào cuốn sách, ba con mắt lập tức quay lại nhìn chằm chằm vào các Tội Nhân."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901010,
+      "name": "",
+      "subDesc": "",
+      "desc": "Chiếc chuông thỉnh thoảng vang lên trong căn phòng đỏ.\nThứ âm thanh não nề triền miên.\n\nBức tượng đang niệm điều gì đó.\nChúng tôi không thể nhận ra những lời ấy.\n\nNhưng có là gì đi chăng nữa,\nđấy cũng chẳng phải điều vui vẻ gì.\n\nCó một chiếc nhẫn đồng trên ngón tay của bức tượng.",
+      "options": [
+        {
+          "message": "Lắng nghe thật kỹ.",
+          "result": [
+            "Chúng tôi nhắm mắt lại và tập trung lắng nghe.\nNó đang nói cái gì vậy?\n\nThứ này đang phát ra những suy nghĩ.\n\nTrút bỏ mọi thứ bằng cách diễn đạt những suy nghĩ của mình.\nĐẩy ra tất cả bên trong để không còn gì sót lại.\n\nĐó là cách mà bức tượng quên đi chính mình.\n\nChúng tôi cảm thấy bản thân mình cũng dần tan biến theo.",
+            "Chúng tôi nhắm mắt lại và tập trung lắng nghe.\nDần dần hiểu được những gì nó đang nói.\n\nNó đang phát ra những suy nghĩ của mình dưới dạng một câu thần chú.\n\nNó đang trút bỏ chính mình bằng cách diễn đạt những suy nghĩ đó.\n\nTrong trường hợp này, chúng tôi sẽ hấp thụ những bài giảng của nó.\n\nHãy lấp đầy bản thân với bài giảng mà nó đã khắc sâu.\n\nKhi nó đã quên đi chính mình, chúng tôi dần hiểu rõ chính con người mình ra sao."
+          ]
+        },
+        {
+          "message": "Lấy chiếc nhẫn đồng.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Đặt một đồng xu.",
+          "messageDesc": "Chiến thắng trận đấu để nhận một Quà Tặng E.G.O Không Phân Loại và một Quà Tặng E.G.O Sa Lầy",
+          "result": [
+            "Chúng tôi đặt một đồng xu trước bức tượng Phật Mūrti.\nKhi tiếng tụng kinh không ngừng nghỉ đã ngắt, chỉ còn lại tiếng vang trống rỗng của chiếc chuông văng vẳng khắp các bức tường trong căn phòng.\nCó lẽ cảm giác thế tục trước một hình thức trống rỗng đã khơi dậy điều gì đó.\nNhững linh hồn từng bị bức tượng Phật bắt giữ giờ đây bắt đầu lấp đầy khoảng trống nơi mà tiếng tụng kinh đã để lại."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901011,
+      "name": "",
+      "subDesc": "",
+      "desc": "Trong một con ngõ rác,\ncơn mưa ẩm ướt khiến không khí thêm phần ngột ngạt và khó chịu.\n\nMột đống ô cũ nát và rách rưới nằm ở một góc.\n\nChúng rung rinh nhẹ nhàng.\nNhìn kỹ hơn, có một con cáo to lớn đang ẩn náu.\n\nNhững lưỡi thép rỉ sét của các chiếc ô đã cắm sâu vào lưng nó.",
+      "options": [
+        {
+          "message": "Rút ô ra.",
+          "result": [
+            "Những chiếc ô dường như đang khiến nó đau đớn.\n\nKhi dùng lực kéo chúng, những miếng thịt cũng theo đó mà đứt ra.\n\nCon cáo kêu lên một tiếng chói tai và nhìn chúng tôi bằng ánh mắt đầy giận dữ.\n\nRồi, nó dùng chiếc ô ngậm trong miệng đập chúng tôi.\n\nNó dường như đang trách móc chúng tôi vì đã vội vàng tìm kiếm giải pháp, không nghĩ đến những hậu quả có thể xảy ra."
+          ]
+        },
+        {
+          "message": "Vuốt ve con cáo.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Lười Biếng & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": []
+        },
+        {
+          "message": "Nhặt đống ô trong góc lên.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Không Phân Loại và một Quà Tặng E.G.O Vỡ Vụn",
+          "result": [
+            "Có một đống ô đã cũ nát và rách rưới. Chúng không còn khả năng ngăn cản cơn mưa rơi.\n\nKhông ai biết tại sao con cáo lại chôn mình dưới những chiếc ô đó, nhưng có lẽ việc gỡ bỏ chúng sẽ khiến nó di chuyển đến một chỗ khác.\n\nCon cáo nhẹ nhàng giữ chiếc ô cũ trong miệng và kêu lên với chúng tôi, như thể nó không muốn chúng tôi lấy nó đi.\n\nSau khi cân nhắc một hồi, chúng tôi quyết định mang trở lại một chiếc ô đã hư hỏng hy vọng rằng nó sẽ cắn vào đó."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901013,
+      "name": "",
+      "subDesc": "",
+      "desc": "Chúng tôi nghe thấy tiếng lửa bập bùng trên những cây nến.\nTrong căn phòng chật chội này, xuất hiện một con búp bê gỗ lẳng lặng trong góc phòng.\n\nCó phải những bùa chú lấp đầy căn phòng này là để thực hiện một điều ước?\n\nLiệu con búp bê gỗ này ao ước điều gì sao?",
+      "options": [
+        {
+          "message": "Gỡ bùa trên người nó.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Vỡ Vụn",
+          "result": [
+            "Sau khi gỡ bỏ chúng, con búp bê quỳ xuống.\n\nLiệu nó đang cầu xin chúng tôi đừng mang chúng đi,\nhay chỉ đơn thuần là một cử chỉ biết ơn?\n\nChẳng thể biết được."
+          ]
+        },
+        {
+          "message": "Gỡ bùa trên tường.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Phẫn Nộ. Sau đó, có thể nhận một Quà Tặng E.G.O Sắc Bén dựa vào kết quả của lựa chọn tiếp theo"
+        },
+        {
+          "message": "Gỡ toàn bộ bùa.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Vỡ Vụn và một Quà Tặng E.G.O Sắc Bén",
+          "result": [
+            "Chúng tôi bắt đầu gỡ từng bùa chú trong phòng.\n\nCon búp bê gỗ đi qua đi lại, tỏ ra lo lắng và khó chịu.\n\nChúng tôi phớt lờ nó và tiếp tục gỡ những tấm bùa.\n\nKhi gỡ gần hết bùa chú, nó đứng trước những Tội Nhân như thể nói với họ rằng đã quá đủ rồi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90101302,
+      "name": "",
+      "subDesc": "",
+      "desc": "",
+      "options": [
+        {
+          "message": "Tiếp tục.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Sắc Bén",
+          "result": [
+            "Cảm giác thôi thúc khiến chúng tôi\ngỡ bỏ từng bùa chú trong phòng.\n\nCứ một bùa chú gỡ ra thì một ngọn nến lại bùng cháy…\n\nĐến khi căn phòng ngập tràn ánh sáng mờ nhạt.\n\nCon búp bê gỗ ở giữa phòng\nnhư được giải phóng khỏi thứ sức mạnh ràng buộc nào đó.\n\nNó di chuyển tới chỗ chúng tôi,\nrồi đưa cho một món đồ."
+          ]
+        },
+        {
+          "message": "Dừng lại.",
+          "result": [
+            "Không có gì xảy ra.\nCon búp bê vẫn đứng đó, phát ra tiếng ồn khe khẽ.\n\nNhững lá bùa trong tay đã biến thành dòng máu nhớp nháp,\nchảy qua giữa các ngón tay."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901014,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một tiếng rên rỉ đau đớn vang vọng giữa cái nóng.\nRất khó để xác định âm thanh ấy là do một con quái vật hay một con người phát ra.\n\nÂm thanh xì xèo lan tỏa trong không khí,\nkèm theo đó là mùi thịt cháy.\n\n“Làm ơn! Tôi cần nước!\nCó ai cho tôi nước uống không?”",
+      "options": [
+        {
+          "message": "Cho nó uống nước.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Chúng tôi đổ một ít nước vào miệng nó,\nnhưng ngay lập tức bốc thành hơi.\n\nCơ thể đang cháy của nó không cho phép một giọt nước nào đi vào.\n\nCó thể từ những vết bỏng dữ dội,\nhoặc sự thất vọng vì không được giải khát,\ncon bò trở lên điên loạn, liên tục đâm vào tường.\n\nChúng tôi không thoát khỏi cơn thịnh nộ của nó."
+          ]
+        },
+        {
+          "message": "Đừng cho nó uống nước.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Không thể nâng nổi cơ thể,\ncon bò rống lên một tiếng.\n\nTiếng rên rỉ đầy u sầu khiến chúng tôi phải rơi lệ.\n\nMột tiếng khóc sầu lắng, thảm thiết vang vọng khắp không gian một hồi lâu."
+          ]
+        },
+        {
+          "message": "Uống nước.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Không Phân Loại và một Quà Tặng E.G.O Thiêu Đốt",
+          "result": [
+            "Đổ nước vào nó có hơi vô nghĩa.\nTôi quyết định đưa nước cho những Tội Nhân đang đổ mồ hôi đầm đìa và chịu đựng cái nóng oi ả này.\nCon bò rống lên trong tuyệt vọng… \n... Nhưng ít nhất thì những Tội Nhân cũng đều được uống một ngụm nước thanh mát.\nCòn chưa kịp mãn nguyện, con bò bắt đầu lao về phía chúng tôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901016,
+      "name": "",
+      "subDesc": "",
+      "desc": "Cái hang đầy mùi hương, vừa dễ chịu vừa khó chịu.\n\n“Đã lâu rồi ta không có khách! Ta nên đãi ngươi một bữa ngon.”\n\n“Có vẻ như không còn đồ ăn nào, ta đã ăn hết sạch rồi”\n\n“Như ngươi thấy, ly rượu tiên này là thứ duy nhất ta còn.”\n\n“Ngươi có muốn một ly không?”\n\nMột bàn tay dày và nhớp nháp mời gọi.",
+      "options": [
+        {
+          "message": "Gật đầu.",
+          "result": [
+            "Ly rượu tỏa ra mùi hôi thối.\nMùi giống như một đôi giày mốc meo\nđược xịt bằng nước hoa tinh khiết.\n\nCác chi của lũ tiên nổi lềnh bềnh trong chất lỏng.\n“Cứ tự nhiên mà thưởng thức!”"
+          ]
+        },
+        {
+          "message": "Lắc đầu.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Chấn Động",
+          "result": [
+            "Chúng tôi từ chối lời mời có vẻ thân thiện.\n\n“Thật sao? Không cần phải ngại đâu.”\n\nThứ nhớp nháp màu xanh lập tức uống hết tất cả trong một ngụm,\nkhông cần hỏi lại lần thứ hai.\n\n“Chà, không thể để khách ra về với tay không được.\nThế nên ít nhất các cậu hãy nhận lấy chiếc ly này nhé?”\n\nNhìn vào chiếc ly,\nbên trong vẫn còn vương lại chút chất lỏng màu xanh.\n\nKhông có cách nào để biết thứ đó đã uống cái gì."
+          ]
+        },
+        {
+          "message": "Hất bàn tay đó đi.",
+          "messageDesc": "Thắng trận để nhận 2 Quà Tặng E.G.O Chấn Động",
+          "result": [
+            "Chiếc ly trong cái tay dày của nó rơi xuống sàn,\nnhững mảnh thịt tiên và chất lỏng xanh văng tung tóe khắp nơi.\n‘Chẳng ra dáng một vị khách gì cả! Thật vô lễ!’\nCái miệng trên bụng thứ nhớp nháp đó mở ra và phun chất lỏng chua chát vào chúng tôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90101601,
+      "name": "",
+      "subDesc": "",
+      "desc": "",
+      "options": [
+        {
+          "message": "Chia sẻ với mọi người.",
+          "result": [
+            "Chiếc ly khá lớn so với một người.\n\nQuyết định là sẽ chia sẻ với mọi người,\nvà từ từ nhấp một ngụm của phần mình.\n\nMột cảm giác khó chịu lan tỏa trong cổ họng,\nnhưng lạ thay nó lại ngon đến bất ngờ."
+          ]
+        },
+        {
+          "message": "Để một người uống hết.",
+          "result": [
+            "Chúng tôi đưa cho người khát nhất uống hết.\n\nCó vẻ như hương vị khá ngon,\nnhưng họ liên tục nôn mửa.\n\nMột cảm giác kỳ lạ, khó chịu vương vấn trong cổ họng họ.\nHọ cũng phàn nàn rằng những miếng thịt tiên có vị đắng.\n\nDù cơn khát đã được giải quyết,\nnhưng có một vấn đề khác xuất hiện."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901017,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nó ghi chép những điều phải trái đúng sai.\nCông việc chỉ đơn thuần là ghi chép lại phán quyết của kẻ bề trên.\n\nNó không đánh giá hay xem xét lại những gì đã viết.\nThực thi phán quyết không phải vai trò của một thư ký.\n\nThực thể đảm nhận nhiệm vụ tốc ký chỉ lặng lẽ trình ra một phiến đá màu lục bảo.",
+      "options": [
+        {
+          "message": "Đọc tấm bảng.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phàm Ăn & Kiêu Ngạo để nhận một Quà Tặng E.G.O Không Phân Loại."
+        },
+        {
+          "message": "Cạo chữ ra.",
+          "result": [
+            "Chúng tôi sử dụng một vật nhọn để cạo những ký tự ấy ra.\nThực thể vẫn bất động, không hề phản ứng gì.\n\nNó xem phán quyết của chúng tôi là hợp lệ.\n\nPhiến đá dần xuất hiện dấu hiệu nứt gãy,\nrồi cũng hóa thành đá vụn."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901018,
+      "name": "",
+      "subDesc": "",
+      "desc": "Cái biển hiệu này nói gì vậy?\nNó treo trên một cái cây, cố gắng làm cho nội dung của nó được biết đến.\n\nSự tuyệt vọng của nó gần như đáng thương.",
+      "options": [
+        {
+          "message": "Ngắt một bông hồng.",
+          "messageDesc": "Tiến hành kiểm định hàm Ăn & Đố Kỵ. Thành công sẽ nhận một Quà Tặng E.G.O Vỡ Vụn."
+        },
+        {
+          "message": "Gỡ rối cho bụi hoa.",
+          "result": [
+            "Khi cố gắng gỡ rối từng cành hoa,\nlàm từng cụm thịt màu vàng rơi lả tả.\n\nNhững mớ dây gai mà bản thân tưởng là nguồn cơn của đau đớn,\ntrớ trêu thay, lại đang níu giữ cả cơ thể của nó được nguyên vẹn.\n\nXác thịt rách tươm, cơ thể cũng quằn quại vì đau đớn.\nTừng đóa hoa vương vãi đầy trên nền đất, tựa như tiếng gào thét của nó."
+          ]
+        },
+        {
+          "message": "Đập đổ tấm biển.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Vỡ Vụn và một Quà Tặng E.G.O Chảy Máu.",
+          "result": [
+            "Sao mà biết được nó đang cố gắng trong tuyệt vọng để chia sẻ điều gì chứ.\nNhưng nó cũng chẳng chỉ hướng đến cái gì đáng giá cả.\nBạn ra lệnh cho một Tội Nhân đập đổ tấm biển, kẻo sau này nó làm bạn bị lạc.\n... Những bụi hoa bất chợt tụ lại, nâng tấm biển lên. Vô vàn bông hồng bắt đầu nở rộ theo mọi hướng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901019,
+      "name": "",
+      "subDesc": "",
+      "desc": "Bãi bùn cằn cỗi nặng mùi muối và thối rữa.\nDường như chẳng có gì bên trong\nthứ nước biển màu ngọc bích ít ỏi còn sót lại cả.\n\nMột con ngao khổng lồ thong dong bước đi trước mặt tất cả.\nCứ mỗi bước tiến về trước thì nó lại phun ra thứ bùn xanh hôi thối.\n\nLiệu con ngao có phải là nguồn gốc của sự ô nhiễm,\nhay nó đang cố gắng chứa đựng những thứ bẩn thỉu?",
+      "options": [
+        {
+          "message": "Lấy mẫu chất dịch xanh.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phàm Ăn & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Đâm."
+        },
+        {
+          "message": "Tiếp cận nó.",
+          "result": [
+            "Từng bước lặn lội qua đống chất nhầy nhụa.\n\nMỗi lần tiến lên, lớp bùn thối\nkhiến đôi chân ngày càng đau đớn hơn.\n\nKhông thể tiến lên nữa.\n\nNgoài việc vật lộn để lội qua,\nthì bản thân càng lo lắng rằng chân mình có thể rụng rời nếu đi xa hơn.\n\nTrong lúc đang do dự,\ncon ngao đã đi xa khuất khỏi tầm nhìn."
+          ]
+        },
+        {
+          "message": "Ném chất dịch xanh vào nó.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Đâm và một Quà Tặng E.G.O Chấn Động.",
+          "result": [
+            "Chúng tôi gom chất dịch xanh vào một cái lọ thủy tinh...\n... rồi ném nó thẳng vào mồm con ngao khổng lồ\nCó lẽ ném nguyên một cái lọ thủy tinh ngập đầy chất dịch bẩn thỉu vào mồm đã khiến nó bất ngờ.\nCon ngao phun cái lọ ra và bắt đầu lao qua đống bùn về phía chúng tôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901020,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một cánh đồng hoa trắng, nhưng phía trước lại xuất hiện vô số đóa hoa tối màu.\nBầu trời đỏ rực, khí trời lạnh buốt và ảm đạm.\n\nMột bông hoa khổng lồ đung đưa giữa đồng.\n\nTừ đằng xa trông nó giống hệt như một con người đang vẫy tay mời gọi vậy.",
+      "options": [
+        {
+          "message": "Tiếp cận nó.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phàm Ăn & Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O Chảy Máu."
+        },
+        {
+          "message": "Vẫy tay đáp lễ.",
+          "messageDesc": "Thắng trận để nhận 2 Quà Tặng E.G.O Chảy Máu.",
+          "result": [
+            "Chúng tôi vẫy tay đáp lễ vì cảm thấy hoài niệm làm sao.\n\nTrong chốc lát, tất cả các bông hoa tràn ngập màu đỏ, cùng lúc quay về phía chúng tôi.\n\nSau khi nhìn chăm chú vào chúng tôi một lúc,\nnhững tán hoa đỏ bắt đầu bay về phía chúng tôi.\n\nGiống như một hình phạt vì đã thực hiện một cử chỉ nửa vời."
+          ]
+        },
+        {
+          "message": "Ngó lơ nó luôn.",
+          "result": [
+            "Chúng tôi quay đi và tiếp tục hành trình của mình.\nBông hoa khổng lồ bắt đầu rung lắc dữ dội, như đang cố gắng thu hút sự chú ý.\nNó trông có phần không tự nhiên và hơi đáng lo ngại.\nTôi tập hợp những Tội Nhân đang nhìn chằm chằm vào nó và rời khỏi cánh đồng hoa."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901021,
+      "name": "",
+      "subDesc": "",
+      "desc": "Chúng tôi thấy một hành khách khổ sở, bị mắc kẹt giữa các chiều không gian.\nHầu hết mọi người sẽ không bao giờ nhận ra rằng người này đã biến mất.\n\nThể nào công ty vận chuyển cũng biết thôi,\nnhưng họ sẽ chỉ giả vờ rằng hành khách đó chưa bao giờ tồn tại.\n\nLạc lõng, bị bỏ rơi, bị quăng đi như rác,\nkhông còn thuộc về nơi nào trong Thành Phố nữa.",
+      "options": [
+        {
+          "message": "Chỉ hướng nó nên đi.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Thờ Ơ & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại."
+        },
+        {
+          "message": "Đứng yên.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Không Phân Loại và một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            "Nó lặng lẽ nhìn về phía chúng tôi.\n\nSau đó, nhận ra điều gì, nó bắt đầu lê bước về phía chúng tôi.\n\nKhi nó lại gần hơn, chúng tôi có thể xác định rằng\nthực thể này là một nhân viên của công ty, chứ không phải hành khách.\n\nThẻ ID trên ngực nó là minh chứng rõ nhất.\n\nNhân viên bị mắc kẹt này đang tiến lại gần chúng tôi,\nchuẩn bị thực hiện những quy trình quan trọng đã thuộc nằm lòng."
+          ]
+        },
+        {
+          "message": "Tự mình dẫn đường cho nó.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Thờ Ơ & Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901022,
+      "name": "",
+      "subDesc": "",
+      "desc": "Đôi khi tâm trí cũng thường lạc lối.\n\nNhưng khi ấy tâm trí sẽ trôi dạt về nơi đâu?\n\nGiá như nơi ấy thật sự có tồn tại,\nthì ắt hẳn nó sẽ trông như thế này.\n\nNơi tâm trí muốn yên vị\nsẽ là một bức tượng đá hình người trống rỗng.\n\nVà giờ đây, nó vươn những chiếc tay thật dài ra như đang cố bám víu lấy mọi thứ.",
+      "options": [
+        {
+          "message": "Với lấy tay của thực thể.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Chúng tôi cố nắm lấy tay nó,\nnhưng không thể chạm vào được.\n\nCứ như một ảo ảnh—một thứ gì đó lẽ ra không nên tồn tại—lại hiện ra trước mắt.\n\nNó thu tay lại,\nnhư đã thấu hiểu gì đó…\n\nRồi thân thể vỡ vụn đi,\ntạo thành một bức tượng nhỏ hơn."
+          ]
+        },
+        {
+          "message": "Từ chối.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Thờ Ơ & Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Chấn Động."
+        }
+      ]
+    },
+    {
+      "id": 901023,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một cái cây mang đầy oán hận mọc sừng sững giữa cánh đồng hoang vu.\n\nMột bầu không khí u ám bao trùm nơi đây.\nNhìn vào bầu trời gợi cho người ta cảm giác lệch lạc.\n\nBạn để ý thấy có cành cây nhô ra trông như một cánh tay.\n\nMặc dù cái cây đó đang bất động, có vẻ như nó muốn gì đó.",
+      "options": [
+        {
+          "message": "Tưới nước.",
+          "messageDesc": "Chọn để có cơ hội nhận một Quà Tặng E.G.O Vỡ Vụn",
+          "result": [
+            "Bạn tưới nước quanh cây.\n\nNước nhanh chóng bốc hơi như thể vừa bị đổ lên một chiếc chảo gang vậy.\n\nBạn không thấy cái cây có khác biệt gì.\n\nCó khi cành cây kia trông sống động hơn trước chăng?\nDù bạn có cố xem xét tới đâu thì cũng không đưa ra được kết luận rõ ràng."
+          ]
+        },
+        {
+          "message": "Bẻ cành cây.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Vỡ Vụn",
+          "result": [
+            "Bạn bẻ luôn cái cành cây trông giống cánh tay khiến bạn ngứa mắt nãy giờ.\n\nMột tràng tiếng gào thét thất thanh tra tấn lỗ tai bạn.\n\nBạn nhận thấy chúng phát ra từ cành cây kia.\n\nDù thấy rợn hết cả người, bạn có linh cảm rằng nếu mình ném thứ này đi thì sẽ phải chịu hậu quả khôn lường."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90102301,
+      "name": "",
+      "subDesc": "",
+      "desc": "",
+      "options": [
+        {
+          "message": "Tưới thêm nước.",
+          "messageDesc": "Chọn để có cơ hội nhận một Quà Tặng E.G.O Vỡ Vụn",
+          "result": [
+            "Sau khi tưới thêm lần nữa,\ncái cây trông sống động hơn hẳn lúc ban đầu.\n\nBầu không khí u ám kia cũng đã biến mất từ lúc nào.\n\nPhải chăng bạn đã làm dịu được cơn khát dai dẳng của nó?\nCành cây khẽ sột soạt rồi tiến về phía bạn.\n\nNó tặng bạn vài món quà để trả ơn.",
+            "Bạn cố tưới thêm nước,\nnhưng chúng cứ bốc hơi ngay tức khắc.\n\nCó khi nó đang hút được ít nước hơn chăng?\nNhìn kỹ lại thì vẫn chẳng thấy thay đổi gì cả."
+          ]
+        },
+        {
+          "message": "Bẻ cành cây.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Vỡ Vụn",
+          "result": [
+            "Bạn bẻ luôn cái cành cây trông giống cánh tay khiến bạn ngứa mắt nãy giờ.\n\nMột tràng tiếng gào thét thất thanh tra tấn lỗ tai bạn.\n\nBạn nhận thấy chúng phát ra từ cành cây kia.\n\nDù thấy rợn hết cả người, bạn có linh cảm rằng nếu mình ném thứ này đi thì sẽ phải chịu hậu quả khôn lường."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901024,
+      "name": "",
+      "subDesc": "",
+      "desc": "“Kéc kéc, hu hu, kéc kéc, hu hu.”\nTrong hang có một con cóc rất to.\n\nTừng cụm nhựa màu xanh sẫm bao phủ cả cái hang.\n\nChất nhựa nhầy nhụa như cơn u uất.\nLà thứ nhựa của nỗi u uất, không giống nước mắt, cũng không giống nỗi buồn.\n\nCon cóc giữ lấy thứ nhựa ấy.",
+      "options": [
+        {
+          "message": "Nhại tiếng khóc của nó.",
+          "result": [
+            "“Kéc hức, kéc hu.”\nTiếng khóc của con cóc thật trầm, thật nặng nề.\n\nHình như nó không hiểu âm thanh đấy lắm.\n\nCứ khóc như vậy một hồi,\nnó nhảy đi.\n\nChỉ để lại thứ nhựa nhầy màu xanh lam.",
+            "“Kéc hú, kéc hụ.”\nCon cóc như thể muốn đáp lại, bèn phát ra một âm thành khác.\n\nNghe giống như một lời khẳng định.\n\nNó duỗi dài cái lưỡi màu xanh,\nrồi thình lình chộp lấy một người trong đoàn.\n\nMột hồi sau, người đó bước ra khỏi miệng con cóc.\n\nNgười đó ướt nhẹp...\ntoàn là dịch nhầy, toàn là u uất."
+          ]
+        },
+        {
+          "message": "Ngồi đợi nó.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Chấn Động",
+          "result": [
+            "Chẳng biết trôi qua bao lâu.\n\nChúng tôi chờ con cóc khóc xong.\nChợt nó nhìn sang đằng này, chậm rãi nhắm mắt, rồi lại chậm rãi mở mắt.\n\nMột âm thanh dính dớp thoáng vang lên,\nmột cái lưỡi dài màu xanh\nduỗi về phía chúng tôi.\n\nTrên chiếc lưỡi\nlà một nhãn cầu của con cóc.\n\nChúng tôi nhặt nhãn cầu ấy lên.\nCon cóc chớp con mắt còn lại nhìn chúng tôi\nrồi bỏ đi.\n\nLẽ nào nó muốn cảm ơn chúng tôi vì đã lắng nghe chăng?"
+          ]
+        },
+        {
+          "message": "Bịt tai lại.",
+          "messageDesc": "Thắng trận để nhận 2 Quà Tặng E.G.O Chấn Động",
+          "result": [
+            "\"Quản Lý Điều Hành, ngài... có ổn không?!\"\n\n<... Ờ thì, vẫn còn ổn ấy?>\n\n\"Nguyên cái đầu bằng đồng hồ như thế thì tất nhiên là ổn rồi!\"\n\nBịt tai lại cũng vô ích, không chặn được tiếng khóc của con cóc. Các Tội Nhân bắt đầu quằn quại vì đau đớn.\n\nRồi đột nhiên, có người không muốn chịu đựng thêm nữa, bèn vung vũ khí về phía nó."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901025,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một cá thể đứng im giữa quảng trường.\n\nThứ đó nhìn về đằng này và vẫy tay.\n\nLỗ hổng trên đầu rất giống như một con mắt,\nhoặc một lỗ đạn.\n\nVà nếu đúng là thế, thì ắt hẳn là\ndo khẩu lục trên tay mà ra.\n\nRồi bỗng dưng cá thể đó chĩa súng vào bạn.",
+      "options": [
+        {
+          "message": "Tiến lại gần.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Bạn không sợ hãi khẩu súng đang nhắm thẳng vào người.\n\nCho dù cá thể đó có bóp cò đi chăng nữa...\n\nVà dù búa kích nổ có đập mạnh bao nhiêu lần đi nữa.\n\nViên đạn sẽ luôn bắn thẳng vào đầu của nó.\n\nTrong tức khắc,\nkhẩu súng nhắm thẳng vào chính thái dương của nó,\nrồi khai hỏa.\n\nCá thể đã biến mất,\nmặt đất chỉ còn lại chiếc áo khoác dính đầy tro tàn."
+          ]
+        },
+        {
+          "message": "Mau chóng né tránh.",
+          "result": [
+            "Vận may sẽ tới nếu tránh được viên đạn.\n\nVận rủi cứ ngỡ sẽ tránh được sẽ đeo bám trở lại.\n\nDù súng chĩa thẳng vào đầu của cá thể,\nnhưng viên đạn bắn ra lại bay đến bạn."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901026,
+      "name": "",
+      "subDesc": "",
+      "desc": "Những con mắt kết tụ lại đang nhìn thẳng vào hướng này.\nThực thể đứng ngay chính giữa mang dáng hình của một cành cây, nhưng thực chất lại là một con người.\n\nThiên đàng thỉnh thoảng kiếm tìm;\nvà có những lúc sẽ lại ký sinh sâu bên trong tâm trí lẫn con tim.\n\nMột khi đã bén rễ, thiên đàng ấy\nsẽ chỉ có thể được nhìn thấy qua đôi mắt của những kẻ trần tục mà thôi.",
+      "options": [
+        {
+          "message": "Nhắm mắt lại.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Kể cả có khép kín đôi mắt để thấu hiểu trần gian, thiên đàng vẫn hiện hữu tại đó.\n\nChừng nào thiên đàng còn ký sinh,\nbạn sẽ chẳng thể nào đảo mắt\nkhỏi những thứ bản thân không muốn chứng kiến nữa.\n\nĐồng nghĩa, thứ duy nhất được phép chứng kiến\nchính là thứ mà nó muốn bạn phải chứng kiến.\n\nDù đôi mắt đã nhắm thật chặt,\nnhưng đôi mắt vẫn có thể trông thấy mọi thứ.\n\nKể từ thời khắc này, hãy nói lời vĩnh biệt đến khả năng nhắm của mình vĩnh viễn đi."
+          ]
+        },
+        {
+          "message": "Đáp trả lại ánh nhìn.",
+          "result": [
+            "Bạn táo bạo trừng thẳng vào những con mắt đó.\n\nCòn chúng thì cũng chẳng hề chớp mắt lấy một lần nào.\n\nNhững con mắt ấy không quan tâm rằng chủ thể có đang quằn quại trong đớn đau hay thống khổ.\n\nBạn không phải là thứ mà chúng đang nhìn vào.\n\nMà là về phía thiên đàng đâu đó đằng sau bóng lưng bạn."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901027,
+      "name": "",
+      "subDesc": "",
+      "desc": "A, sắc xanh rạng ngời này.\n\nKhông một thứ gì có thể tiến gần\nđến thứ sắc màu xanh thẳm thuần khiết.\n\nKhi cố tiến lại gần, cơ thể bị đẩy ngược về sau.\nThế nhưng, nó vẫn quá là xanh.\n\nƯớc gì có thể hóa thành chính thứ màu xanh ấy.\n\nThứ cám dỗ thôi thúc không cưỡng lại được này\nđang dần hủy hoại thân thể kẻ thèm khát bấy giờ.",
+      "options": [
+        {
+          "message": "Tiến bước.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Đập.",
+          "result": [
+            "Xanh.\n\nNó xanh.\n\nChúng ta đều xanh.\n\nTôi cũng xanh.\n\nĐẬMSÂUNHƯNGMỜNHẠTUSẦUNHƯNGTƯƠITẮNLẠNHLẼONHƯNGẤMÁPSẮCSẢONHƯNGHIỀNHẬUTHOÁNGMÁTNHƯNGNGỘTNGẠT"
+          ]
+        },
+        {
+          "message": "Lùi bước.",
+          "result": [
+            "Than ôi, chúng tôi chỉ là thứ tạp chất ô uế.\n\nĐể thật sự hóa xanh,\nhòa làm một với sắc màu chân chính,\nthì phải thấm nhuần và chỉ nghĩ về duy nhất thứ màu xanh ấy thôi.\n\nVà thế là chúng tôi đã bị chối bỏ.\n\nMột luồng sáng xanh lạ lẫm nhưng truyền đến hy vọng bủa vây chúng tôi."
+          ]
+        },
+        {
+          "message": "Rời đi.",
+          "result": [
+            "Bừng tỉnh khỏi cơn cám dỗ mụ mị này, chúng tôi ngoảnh mặt rời đi.\n\nKhông thể để thứ đó lôi kéo được.\n\nChúng tôi quyết sẽ không nhìn vào thứ đó nữa,\nvà sẽ chôn vùi ký ức đã từng nhìn thấy một thứ như thế."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901028,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một tổ nhện được tạo nên bằng những dây gai cùng với muôn vàn đóa hoa dùng để ăn mừng một dịp gì đó.\n\nMáu của ai đó đổ đầy vào những nụ hoa.\nCòn cô dâu và chú rể thì bò qua chúng.\n\nKhi cả hai cùng nhau di chuyển,\nmáu chảy ra từ cả tay lẫn chân.\n\nCó vẻ như cả hai luân chuyển qua lại\ntrước khi người bên dưới mất quá nhiều máu.",
+      "options": [
+        {
+          "message": "Hái một bông hoa.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Khi bạn ngắt một bông hoa nhuốm máu, nó liền tỏ ra rất vui.\n\nNhững bông hoa chúc mừng ấy\ngiờ giống như một lời nguyền,\nngăn cả hai mãi không thể rời khỏi cái tổ ấm này.\n\nNhững bông hoa ấy không phải do cặp đôi ấy trồng hay nuôi dưỡng.\n\nMà chúng đang được nuôi dưỡng bằng chính sự khờ khạo của kẻ nào đó."
+          ]
+        },
+        {
+          "message": "Loại bỏ những dây gai.",
+          "result": [
+            "Khi bạn giật một sợi dây gai, nó liền thét lên.\n\nDù chúng có khiến cả hai chịu nhiều đớn đau, nhưng đấy vẫn là tổ ấm của cặp đôi.\n\nNhững kẻ phá hủy tổ ấm đều là bọn đáng khinh.\n\nThật không khôn ngoan khi đã bồng bột động đến nỗi đau ấy.",
+            "Khi thử giật một sợi dây gai,\nmới nhận ra nó còn cứng cáp hơn tưởng tượng.\n\nSau vài lần giật mạnh,\nlòng bàn tay bạn toàn là vết xước.\n\nCặp đôi ấy chỉ lặng lẽ quan sát sự việc.\n\nCả hai hình như trông khá bực bội,\nhoặc đang hoảng sợ thì phải."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901031,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nó mang theo những vật nặng mà không nói một lời.\n\nKhi nó làm việc,\ncon số trên màn hình điện tử dường như được cập nhật.\n\nMáy móc tồn tại vì một mục đích.\nCảm giác như bản thân nên ra lệnh cho nó.",
+      "options": [
+        {
+          "message": "Ra lệnh cho nó kéo hành lý.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Đố Kỵ & Phàm Ăn & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Chấn Động."
+        },
+        {
+          "message": "Ra lệnh cho nó không làm gì cả.",
+          "result": [
+            "Một cỗ máy không mục đích chắc chắn sẽ mất đi\ný nghĩa tồn tại của nó, cho dù nó có hoạt động hay không.\n\nMột cỗ máy có mục đích là không làm gì\nthì sẽ làm bất cứ điều gì cần thiết để thực hiện chỉ thị của nó.\n\nCơ thể cỗ máy phát ra một tiếng ồn sôi sục lớn,\nrồi bắt đầu nóng lên, thải ra hơi nước nóng.\n\nThấy nó phát ra ánh sáng trông rất nguy hiểm,\nchúng tôi nhanh chóng thoát khỏi căn phòng."
+          ]
+        },
+        {
+          "message": "Ra lệnh cho nó kéo hành lý nhanh hơn.",
+          "messageDesc": "Thắng trận để nhận 2 Quà Tặng E.G.O Chấn Động",
+          "result": [
+            "Cỗ máy bắt đầu mang hành lý nhanh hơn, nhanh hơn nữa.\nCác số trên ống chân không bắt đầu tăng vọt, và hơi nước bốc lên từ cơ thể nó cũng ngày càng nhiều.\nChỉ trong thoáng chốc, cỗ máy đã vận chuyển tất cả hành lý.\nNó phát hiện ra rằng không còn gì để mang nữa, bèn từ từ quay về phía chúng tôi.\nMột Tội Nhân hét lên, 'Chờ đã, chúng tôi không phải là hành lý!' nhưng nó không nghe."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901032,
+      "name": "",
+      "subDesc": "",
+      "desc": "Trước mắt hiện ra khung cảnh đô thị tối tăm,\nnhưng các tòa nhà thì sáng rực.\n\nCó vẻ như đám mây khổng lồ kêu lên ầm ầm ngay chính giữa\nchính là nơi cấp năng lượng để vận hành mọi thứ tại đây.\n\nĐám mây ấy sở hữu một cái đầu và hai cặp chân.\nTrông giống hệt một con cừu.\n\n“Con cừu điện” dường như đang rất đau đớn.\nCó phải do nguồn điện của nó đang bị rút cạn chăng?",
+      "options": [
+        {
+          "message": "Cắt dây cáp.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Chém",
+          "result": [
+            "Các tòa nhà san sát nhau ngay tức khắc tối sầm lại.\n\nCon cừu điện đã cao chạy xa bay cùng với tiếng kêu vang trời.\n\nTại nơi đô thị thiếu vắng nguồn sáng,\ntiếng than khóc của những thứ không có ánh sáng vang vọng khắp chốn này.\n\nMột vật nhỏ bé yên vị tại nơi mà con cừu điện từng đứng."
+          ]
+        },
+        {
+          "message": "Cắm thêm dây cáp vào con cừu điện.",
+          "result": [
+            "Con cừu điện gào thét và kêu be be liên tục.\n\nKhi tiếng thét đớn đau của nó làm rung chuyển đất trời,\nnhững tia sáng chói lóa ập vào tầm mắt.\n\nCác tòa nhà bừng sáng hơn bao giờ hết.\n\nChẳng mấy chốc, ánh sáng từ đám mây của sinh vật này dần mờ nhạt đi.\n\nLiệu nó đang mơ chăng?\n\nKhi không còn sức lực để gào thét nữa, con cừu đã khép kín đôi mắt của nó lại."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901033,
+      "name": "",
+      "subDesc": "",
+      "desc": "“Con rết này có khả năng phóng ra điện áp cao.”\n\nĐó là nội dung của biển báo gắn trên bể chứa.\n\nĐây là một bể cá hay một phòng thí nghiệm?\n\nCác đoạn thân của sinh vật này phát ra tia lửa mỗi khi nó di chuyển,\ncho thấy rằng các khớp nối đang gặp sự cố.\n\nCó hai nút bấm trên bể.\n\nMột nút hình sấm chớp, trong khi cái còn lại hình giọt nước.",
+      "options": [
+        {
+          "message": "Bấm nút hình sấm chớp.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Vỡ Vụn",
+          "result": [
+            "“Gây kích thích và đau đớn lên con rết để tăng cường cường độ phóng điện.”\n\nĐó là nội dung phía trên cái nút.\n\nDường như đây là mục đích của thiết bị này.\n\nKhi nhấn nút, một âm thanh cơ khí vang lên trong chốc lát.\n\nMột vật trông giống như vỏ pin rơi xuống qua ống dẫn bên dưới.\n\nCon rết không cử động nữa."
+          ]
+        },
+        {
+          "message": "Bấm nút hình giọt nước.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Đố Kỵ & Phẫn Nộ. Thành công sẽ nhận một Quà Tặng E.G.O Năng Lượng."
+        },
+        {
+          "message": "Bấm liên tục cả hai nút.",
+          "messageDesc": "Thắng trận này để nhận Quà Tặng E.G.O Vỡ Vụn và Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "“Gây kích thích và đau đớn lên con rết để tăng cường độ phóng điện.”\n\nChúng tôi phớt lờ cảnh báo và liên tục ấn nhấn hai nút nhanh nhất có thể.\n\nMáy móc bắt đầu đẩy những vỏ pin ra khỏi cơ thể nó.\n\nNước tràn đầy bể, và con rết bắt đầu quằn quại.\n\nBề mặt kính của bể nứt ra trong chốc lát, rồi nước nhiễm điện chảy ra ngoài cùng với con rết."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901034,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nơi tối tăm này có vẻ như là một nhà máy.\n\nTiếng máy móc chói tai văng vẳng khắp nơi.\nNhững ánh mắt phát sáng đang theo dõi.\n\nMột người máy chậm rãi tiến lại gần.\n\nNó có vẻ chưa được hoàn thiện, dựa theo những sợi dây điện nhô ra theo từng chuyển động.\n\nLiệu đó chính là máu hay chỉ đơn thuần là chất chống đông bị rò rỉ thôi?\n\nTrong khi vẫn còn băn khoăn, màn hình trên ngực nó sáng lên.\n\nHình như có thể viết được chữ gì đó lên đây.",
+      "options": [
+        {
+          "message": "Viết [Xin chào].",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Thiêu Đốt",
+          "result": [
+            "Người máy nâng hai tay lên dù có chút khó khăn.\n\nMàn hình in ra dòng chữ:\n\n<Chào mừng, Quý Khách. Bạn có thích chuyến tham quan thị trấn không? \nChúng tôi muốn tặng bạn một món quà lưu niệm. :-)>\n\nTrên màn hình hiển thị một nụ cười,\nnhưng qua cử chỉ của người máy, cảm giác như người máy đang cố cầu cứu vậy."
+          ]
+        },
+        {
+          "message": "Viết [Tạm biệt].",
+          "result": [
+            "Ánh sáng trên màn hình chuyển sang màu đỏ, và những cảnh báo bắt đầu vang lên.\n\nNgười máy rung chuyển dữ dội như thể đang chịu đựng nỗi đau.\n\n<Tạm biệt. Tạm biệt,\nTạmbiệtTạmbiệtTạmbiệtTạmbiệtTạmbiệtTạmbiệtTạmbiệtTạmbiệtTạmbiệt>\n\nMột từ duy nhất lấp đầy cả màn hình ngay trước khi người máy nổ tung thành những mảnh kim loại và máu thịt trước mắt chúng tôi."
+          ]
+        },
+        {
+          "message": "Viết [Đồ ngu].",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Thiêu Đốt và một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            "Người máy bắt đầu run rẩy không kiểm soát.\nKhông phải vì sợ hãi, mà là vì giận dữ.\n\nCó lẽ nó biết ý nghĩa của từ được viết trên màn hình?\n\n<Phát hiện thực thể thù địch. Phát hiện thực thể thù địch.>\n\n<Bắt đầu đuổi đi theo quy tắc D63ICRQ1!>\n\nNgười máy bắt đầu vung tay một cách điên cuồng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90103401,
+      "name": "",
+      "subDesc": "",
+      "desc": "",
+      "options": [
+        {
+          "message": "Hỏi về “thị trấn”.",
+          "result": [
+            "<Không thể phân tích câu hỏi.>\n\nNgười máy nghiêng đầu.\n\nMặc dù không thể nâng hay nghiêng đầu theo hướng khác,\nnó hiển thị một câu hỏi trên màn hình.\n\n<Thưa Quý Khách, bạn chưa tham quan thị trấn này à?>\n\nCó vẻ như nó đang chờ một câu trả lời."
+          ]
+        },
+        {
+          "message": "Lấy quà lưu niệm rồi rời đi."
+        }
+      ]
+    },
+    {
+      "id": 90103402,
+      "name": "",
+      "subDesc": "",
+      "desc": "",
+      "options": [
+        {
+          "message": "Nói sự thật.",
+          "result": [
+            "<Thế thì bạn không được nhận quà lưu niệm!>\n\nMàn hình bỗng nhiên mở lên,\nvà một cánh tay cơ khí bật ra, cố gắng tóm lấy thứ gì đó từ chúng tôi.\n\n<Xin hãy hợp tác với việc tịch thu! Nói dối là hành vi xấu.>\n\nKhi cúi đầu và xoay người để né tránh cánh tay,\nnó dần trở lên nhanh hơn.\n\n<Xin hãy hợp tác,\nnếu không bạn sẽ bị trừng phạt theo Quy Tắc #A62GBFE1!>\n\nChúng tôi vội vã tìm đường thoát,\nchạy trốn khỏi con người máy không ngừng phát điên."
+          ]
+        },
+        {
+          "message": "Nói rằng bạn đã đi tham quan.",
+          "result": [
+            "<Chắc hẳn đã có sự cố với chương trình tham quan.>\n\nSau khi in ra những từ đó,\nngười máy đứng im một hồi lâu.\n\nKhi đang tự hỏi liệu nó có bị hỏng không,\nmàn hình bỗng sáng lên.\n\n<Không có phản hồi sau nhiều yêu cầu tới Quản Trị Viên.>\n\n<Lỗi hệ thống. Lỗi hệ thống.>\n\n<Khởi động lại…>\n\nSau đó, nó liên tục hiển thị những từ ngữ phức tạp\ntrên một màn hình màu xanh."
+          ]
+        },
+        {
+          "message": "Rời đi mà không trả lời."
+        }
+      ]
+    },
+    {
+      "id": 901035,
+      "name": "",
+      "subDesc": "",
+      "desc": "“Đây là lãnh địa của bé.”\n\n“Mọi người tới đây thì phải chơi theo luật của bé, không thì đừng có trách bé!”\n\nCó vẻ hậu quả sẽ nghiêm trọng.\n\n“Cùng chơi búa, kéo, bao nào!”\n\n“Bé ra kéo nhé. Bạn thì sao nè?”",
+      "options": [
+        {
+          "message": "Ra búa.",
+          "result": [
+            "Sao lại để thua ở đây được chứ.\n\nDị thể đó nhìn vào nắm đấm đang siết chặt lại của bạn và mỉm cười.\n\n“Bạn thua rùi.”\n\nDứt lời, một tay của nó biến thành một cặp kéo khổng lồ để cắt lìa tay bạn."
+          ]
+        },
+        {
+          "message": "Ra bao.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Tốt thôi. Thử hùa cùng và thua thử xem sao.\n\nNó nhìn chằm chằm vào bàn tay đang xòe rộng của bạn và tỏ vẻ hờn dỗi.\n\n“Bạn thắng rùi. Không có vải thì kéo cũng vô dụng thui.”\n\nDứt lời, nó thưởng tận tay bạn một con rối nhỏ.\n\n“Đây, thưởng cho bạn một búp bê nhỏ bằng kéo và vải nè.”"
+          ]
+        },
+        {
+          "message": "Ra kéo.",
+          "result": [
+            "Hình như thắng hay thua thì kết cũng chẳng đẹp gì đâu.\n\nNhìn vào hai bàn tay đang đưa ra kết quả giống hết nhau, nó bắt đầu tỏ vẻ khó chịu.\n\n“Hòa. Bạn nghĩ bé không ra kéo sao?”\n\n“Hứ! Bé không chơi với mấy đứa bạn tồi không tin tưởng bé.”\nMấy lời đó vang vọng trong tai của bạn. Trước khi bạn vừa thấm được mấy lời đó, mọi thứ xung quanh bạn đã hoàn toàn thay đổi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901012,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một thứ gì đó đội da thịt con người đang nhảy múa tại chỗ,\nliên tục phát ra những tiếng cót két lách cách.\nNó liền nhận thấy tôi.\nNhững cái chân chuyển động giống nhện đến phía tôi rồi cất tiếng.\n\n\"Tôi đã trưng ra vẻ mặt này vào ngày hôm qua.\"\n\nPhập-phập. Tạch-tập.\n\"Tôi nên trưng ra vẻ mặt nào vào ngày mai?\"\n\nPhập. Tập-tạch.\n\"Chúng tôi nên trưng ra vẻ mặt nào?\"",
+      "options": [
+        {
+          "message": "Tôi nghĩ là gương mặt cười.",
+          "result": [
+            "\"Cười? Cười? Cười!\"\n\nMột tiếng cười ghê rợn cất lên nghe không khác gì tạp âm.\n\n\"Tôi cười! Tôi sẽ cười!\"\n\nKi ki ki, phập. Tập-tạch.\n\nThứ âm thanh của những mảng da khô cứng đang bị kéo căng ra rồi những gương mặt nhanh chóng biến đổi.\n\nChỉ khi âm thanh ấy kết thúc, tôi mới nhận ra da thị mình đã bị lột mất."
+          ]
+        },
+        {
+          "message": "Đừng làm biểu cảm gì cả.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Đập.",
+          "result": [
+            "\"Không làm gì ư?\"\n\n\"Phải làm như thế nào vậy?\"\n\n\"Như nào? Như nào?\"\n\nKi ki ki, phập. Tập-tạch.\n\nNhững tràng âm thanh hoảng loạn và bối rối cùng tiếng thân thể xoay vòng vòng liên tục...\n\n\".......\"\n\nVà rồi, chỉ còn duy nhất một chiếc mặt nạ bằng da thuộc vương vấn lại trên nơi từng gọi là khuôn mặt."
+          ]
+        },
+        {
+          "message": "Than khóc đến khi chìm sâu vào u sầu.",
+          "result": [
+            "\"Oeeeeeeee!\"\n\nTiếng khóc inh tai bùng nổ khắp cả căn phòng.\n\n\"Oaa! Oaa!\"\n\nKhi tiếng khóc nhức nhối ấy đã ngớt,\n\nThực thể ấy đã biến mất từ lúc nào, chỉ sót lại chúng tôi chẳng hay biết chuyện gì vừa xảy ra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901015,
+      "name": "",
+      "subDesc": "",
+      "desc": "Hơi nước ẩm ướt tỏa ra khắp nơi.\n\nNó không chỉ là nước có ga, mà màu sắc của thứ này có màu nâu sẫm.\n\nẨn sau màn sương khí đó bỗng vang lên một giọng nói.\n\n\"Ôi! Tu thẳng nguyên chai như này đúng là thỏa mãn!\"\n\n\"Ngày nay mấy chai xuất xứ từ phương tây quá ngon.\"\n\n\"Mấy đứa bây! Thích đồ cồn không?\"",
+      "options": [
+        {
+          "message": "Có.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Không.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Chấn Động",
+          "result": [
+            "\"Phì! Bây chỉ ghét bỏ nó vì bản thân chưa hề đụng vào đồ ngon thôi~ Đây này!\"\n\nĐáp lại lời mời của nó là một câu từ chối đầy kiên quyết.\n\n\"Nghiêm túc à...? Bây không uống con hàng hảo hạng này luôn?\"\n\nVẫn nghiêm nghị từ chối.\n\n\"Chậc... Ta mất hết hứng thú rồi.\"\n\nNó đặt chai rượu xuống, rồi tan biến vào trong màn sương."
+          ]
+        },
+        {
+          "message": "Làm sao mà sống thiếu bia rượu được.",
+          "messageDesc": "Tiến hành kiểm định Lười Biếng & Phàm Ăn để nhận một Quà Tặng E.G.O.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901030,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một hang động tối tăm hiện ra.\n\nCó tiếng vật nặng va vào nhau liên tục không đồng đều.\n\nÂm thanh phát ra từ phía ba cái đầu lâu khổng lồ. Chúng tiếp cận chúng tôi, cứ kêu lập cập lạch cạch.\n\nKhông có cơ thể nên chúng đành lăn tới. Và dù có lăn thì cũng vẫn cất lên thứ âm thanh không ngớt ấy.\n\nKhi đã lăn tới chân của chúng tôi, thì mới thấy chúng đều có những gương mặt khác nhau.\n\nChúng tôi nên chọn cái đầu nào?",
+      "options": [
+        {
+          "message": "Chọn cái đầu lâu cười."
+        },
+        {
+          "message": "Chọn cái đầu lâu giận dữ.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Đố Kỵ. Thành công sẽ nhận một Quà Tặng E.G.O Vỡ Vụn."
+        },
+        {
+          "message": "Chọn cái đầu lâu mất kiểm soát.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Đâm."
+        }
+      ]
+    },
+    {
+      "id": 901036,
+      "name": "",
+      "subDesc": "",
+      "desc": "Bông hoa này có lẽ đã từng một đóa hồng nhỏ bé và tươi đẹp.\n\nNhưng giờ đây, dòng máu mà nó lưu giữ lại tỏa ra một mùi tanh hôi.\n\nNó hút dòng máu tràn ra từ một con suối và cứ thế lớn dần lên đến khi quá cỡ.\n\nKhông có điểm dừng.\n\nNó tham lam hút cạn dòng máu chảy bằng những rễ nhánh của mình.",
+      "options": [
+        {
+          "message": "Chặn con suối để không cho nó hút nữa.",
+          "result": [
+            "Con suối đã bị bịt lại để nó không thể hút dòng máu tràn ra.\n\nTuy nhiên, đó là một hành động không công bằng đối với bông hồng.\n\nBông hồng không phải là nguyên nhân khiến cho dòng suối ấy trào ra.\n\nNó chỉ đơn giản là bén rễ ở đây vì nó thích máu.\n\nGiờ đây, khi nguồn cung cấp của thứ mà nó yêu thích đã biến mất, nó sẽ cố gắng lấy máu của chúng ta đề bù đắp cho những gì đã tổn thất."
+          ]
+        },
+        {
+          "message": "Phá hủy đường suối chảy để khiến máu trào nhiều hơn.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Khi nơi bắt nguồn của dòng suối bị phá vỡ, dòng máu vốn thuộc về ai đó trong quá khứ chảy ra như thác nước và nhấm chìm bông hồng.\n\nBông hồng vung rễ của nó và nằm gọn trong vũng máu như thể vô cùng vui mừng khôn xiết.\n\nBông hồng cứ thế rũ xuống và chìm ngập trong dòng máu.\n\nNgay chính giữa, một bông hoa bé nhỏ nở rộ.\n\nLiệu đây có phải là phần thưởng của nó? Chúng tôi cẩn thận nhặt nó lên."
+          ]
+        },
+        {
+          "message": "Cho nó hấp thụ máu của Tội Nhân",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Chảy Máu",
+          "result": [
+            "Dòng máu tràn ngập con suối kia mang bản chất gì? Nó đến từ ai—hay từ thứ gì?\n\nThay vì cho nó uống dòng máu bí ẩn đó, tôi quyết định nuôi dưỡng nó bằng máu của các Tội Nhân.\n\nBông hồng nhuốm máu hé mở những cánh hoa, khao khát dòng máu của chúng tôi hơn bao giờ hết.\n\nNó hút lấy máu của các Tội Nhân, và một bông hoa nhỏ hơn bất chợt nở rộ bên cạnh gốc thân của nó.\n\nCó lẽ, đây là món quà mà nó trao lại để đáp đền sự cho hiến tế của chúng tôi. Tôi cẩn thận nhặt lấy bông hoa ấy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901037,
+      "name": "",
+      "subDesc": "",
+      "desc": "Hiện ra trước chúng tôi là một thứ gì đó cứ kêu ken két kẽo kẹt và lắc lư liên tục.\n\nBên trong nó chứa đựng một chất lỏng màu hồng.\n\nNó cứ nhấp nhô khi cái bình chứa chất lỏng lắc lư.\n\nHoặc có thể là do chuyển động của chất lỏng đã khiến cho nguyên khối thủy tinh di chuyển theo sau.\n\nThứ chất lỏng ấy có vẻ như đang chứa đựng rất nhiều thứ lẫn các thực thể khác bên trong.\n\nMỗi giọt nước đều có một khuôn mặt riêng.\n\nCó một giọt với gương mặt buồn bã bị những gương mặt xấu tính khác xua đuổi.\n\nKhối thủy tinh khổng lồ rung lên, và bắn ra một giọt nước màu hồng.\n\nGiọt nước ấy khóc toáng lên.",
+      "options": [
+        {
+          "message": "An ủi giọt nước hồng.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Đưa giọt nước trở về cơ thể màu hồng.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901038,
+      "name": "",
+      "subDesc": "",
+      "desc": "\"Tôi sẽ dọn sạch sẽ mọi thứ.\"\n\n\"Dọn dẹp rất là vui.\"\n\n\"Tôi thích được như đồng trang lứa.\"\n\n\"…….\"\n\n\"Nhưng thật ra tôi lại rất lo.\"\n\n\"Mẫu mã kế bên tôi phô trương rằng nó sở hữu vô số bộ phận mà những thứ khác không có.\"\n\n\"Đó là điều khiến nó đặc biệt ư?\"\n\n\"Vậy thì tôi có đặc biệt theo cách của riêng mình không?\"",
+      "options": [
+        {
+          "message": "Rất đặc biệt.",
+          "result": [
+            "\"Không. Tôi không hề đặc biệt.\"\n\nNó trả lời vô cùng dứt khoát và mặc kệ lời lẽ vừa được thốt lên.\n\n\"Tôi sẽ mãi sống một phần đời tầm thường, hệt như lúc này đây và vừa mới được phân bổ cho tôi.\"\n\nVà rồi nó xoay vút với vận tốc đáng kể vào trong bóng tối."
+          ]
+        },
+        {
+          "message": "Mày không hề đặc biệt.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "\"Tôi không đặc biệt, không có đặc biệt, không hề đặc biệt ư?\"\n\nSau khi đưa ra một câu trả lời có phần chập mạch, nó bắt đầu giật hết toàn bộ dụng cụ dọn dẹp khỏi cơ thể rồi đâm sầm vào tường.\n\nNó chà mạnh vào những món đồ khác như đang cố gắng gắn chúng vào cơ thể nó trong khi tia lửa cứ liên tục bắn ra không ngừng.\n\nSau một lúc nó mới chịu dừng lại.\n\n\"Có lẽ là tôi muốn trở nên thật đặc biệt.\"\n\nKhi giọng nói vô hồn ấy chạm đến đôi tai chúng tôi thì nó đã mất hút từ đời nào rồi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901039,
+      "name": "",
+      "subDesc": "",
+      "desc": "Trần nhà của căn phòng này quá cao nhưng không gian xung quanh lại vô cùng chật hẹp.\n\nCó thứ gì đó mang dáng hình của một cụ già đang an tọa trên một chiếc ghế và nhìm chăm chăm vào bức tranh trên tường. Cũng chẳng hề cử động.\n\nMột làn khói đen, dày đặc và nhớp nháp tỏa ra sau lưng nó.\n\nCó lẽ đó chính là hình dáng của sự cô đơn.\n\n\"Những người trẻ tuổi như các cậu làm gì trong căn phòng này vậy.\"\n\nThứ đó cất lời nhưng mắt vẫn dán chặt vào bức tranh. Nó đã biết chúng tôi ở đây từ lúc nào vậy?\n\n\"Các cậu có muốn nghe lắng nghe câu truyện của ta không?\"",
+      "options": [
+        {
+          "message": "Nói rằng rất sẵn lòng nghe kể truyện.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại dựa trên kết quả của lựa chọn tiếp theo.",
+          "result": [
+            "\"Câu truyện ta sẽ kể dài lắm đấy, đám trẻ các cậu mà nghe thì có khi sẽ hóa già giống ta luôn đấy.\"\n\n\"Mấy câu truyện dài đằng đẵng này... Chúng đều có chung một kết cục: Rằng ta muốn được về nhà, nhưng chẳng thể nào làm được.\"\n\nNó thở dài ngao ngán, như thể mong muốn từ bỏ được điều gì đó.\n\n\"Mau tháo bức tranh này xuống rồi cầm theo đi. Như thế sẽ tốt hơn cho cả ta và các cậu.\""
+          ]
+        },
+        {
+          "message": "Rời đi mà không nghe gì cả.",
+          "result": [
+            "\".......\"\n\nChúng tôi rời khỏi căn phòng rồi đóng cửa lại mà không thèm phản hồi.\n\nNgay tức khắc, làn khói đen đặc ấy dâng trào và len lỏi qua khe cửa chật hẹp vẫn còn hé mở.\n\nTôi nhanh chóng đóng chặt cánh cửa lại... nhưng vẫn không thể ngăn một đám khói nhỏ thoát ra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90103901,
+      "name": "",
+      "subDesc": "",
+      "desc": "Làm gì bây giờ?",
+      "options": [
+        {
+          "message": "Lấy bức tranh.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Khi gỡ bức tranh ra khỏi tường, có một cảm giác kì dị chạy dọc qua sống lưng khiến chúng tôi dựng hết cả tóc gáy.\n\nChúng tôi quay lại và thấy làn khói đen nhớp nháp đó đang liên tục lan rộng, bao trùm lấy khắp căn phòng.\n\n\"Đó từng là ngôi nhà duy nhất của ta...\"\n\nCái cách mà nó ghìm giọng khiến cho những lời lẩm bẩm đó không khác gì một tiếng khóc ai oán.\n\nKhi chúng tôi cố đặt bức tranh lại về vị trí cũ...\n\n\"Dừng! Đừng làm vậy... Cứ mang nó đi. Ta đã quyết định rồi.\" - Nó hét lên.\n\n\"Làm ơn hãy mang nó và rời khỏi đây ngay, trước khi ta lấy đi ngôi nhà của các ngươi.\"\n\n...Chúng tôi làm theo lời khẩn cầu của nó và vội vàng rời khỏi nơi này."
+          ]
+        },
+        {
+          "message": "Kệ bức tranh ở đó.",
+          "result": [
+            "Nó chẳng hề nhìn vào bức tranh để chiêm ngưỡng tác phẩm.\n\nMà ánh nhìn ấy chuyển hóa thành nỗi ám ảnh, hoặc là cảm giác gắn kết theo một khía cạnh nào đó.\n\nChúng tôi quyết định không lấy bức tranh đi.\n\n\"Tại sao... để nó lại làm gì...\"\n\nDẫu giọng nói cất lên có phần run run, nhưng ẩn sau đó là chút cảm giác yên lòng.\n\n\"Chính là như thế... Đây là ngôi nhà ta không thể về được. Càng nhìn lòng ta lại thêm đượm buồn... và nếu chẳng thể thương tiếc, thì tâm trí ta sẽ không thể có được bình yên.\"\n\n\"Dù lòng ta nhói đau khi các cậu chọn không lấy đi bức tranh... Nhưng ta vô cùng cảm kích. Vì thế hãy nhận lấy thứ này để trang trải cuộc hành trình.\"\n\nNó trao cho chúng tôi một vật lấp lánh rạng ngời, rồi tiếp tục nhìn chăm chăm vào bức tranh."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901040,
+      "name": "",
+      "subDesc": "",
+      "desc": "Những ngôi sao ánh lên sắc xanh huyền bí giữa không gian đen tối.\n\nNhưng khi nhìn kĩ hơn, tôi đã lầm tưởng chúng là những ngôi sao.\n\nCác viên bi màu xanh khẽ vung vẩy trên những bàn tay của một Dị Thể dạng người.\n\n\"Chúng là những ngôi sao.\"\n\nKẻ đó khẳng định thứ mà hắn cầm là những ngôi sao.\n\nCứ như thể hắn đang đọc tâm trí của tôi vậy.",
+      "options": [
+        {
+          "message": "Bảo với hắn rằng đó chỉ là những viên bi.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Đồng ý rằng chúng là những ngôi sao.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901041,
+      "name": "",
+      "subDesc": "",
+      "desc": "Thứ sinh vật trông giống một con rết đó đang khoác trên mình một tấm vải cũ nát.\n\nMùi thối rữa ám khắp nơi trên tấm vải như thể 'bộ y phục' này đã được sử dụng để quấn một cái xác vậy.\n\nCó vài cuộn giấy nhỏ đang treo quanh người nó.\n\nNhìn kĩ hơn một chút, chúng là những tờ sớ đỏ.\n\nRốt cuộc thứ đó tin vào điều gì và đang nguyện cầu thứ gì?",
+      "options": [
+        {
+          "message": "Hỏi đức tin của nó.",
+          "result": [
+            "Ngay khi chúng tôi vừa dứt lời, nó cúi gằm mặt xuống đất.\n\nNhìn theo hướng nó chỉ, tôi đã nghĩ đáp án cho câu hỏi vừa rồi nằm ở dưới đất. Tuy nhiên, cơ thể thứ sinh vật dị hợm đó bắt đầu run rẩy cùng với tiếng chân rết rung động khắp căn phòng.\n\n\"Nó... đang khó chịu.\"\n\nĐột nhiên, cái cơ thể dị hợm đó bật mình, lao về phía tôi.\n\nĐức tin định nghĩa đơn giản là một niềm tin vững bền.\n\nHỏi như vậy chẳng khác gì nghi ngờ nó... chúng ta chọc nhầm tổ kiến lửa rồi."
+          ]
+        },
+        {
+          "message": "Lấy luôn một tờ sớ trên người nó.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Sa Lầy.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901042,
+      "name": "",
+      "subDesc": "",
+      "desc": "Thứ kia hẳn là một loại rắn hay bọ nào đấy, hoặc có khi là hiện thân của sự thanh thản.\n\nNếu nhìn kỹ hơn thì có thể thấy hàng rào kẽm gai cuốn đầy xác chết kia đang di chuyển từ từ.\n\nNhững khối thịt quấn chặt với nhau trong tư thế đau đớn kia hẳn là xác của những người đã ngã xuống trong một cuộc chiến năm xưa.\n\nGiờ đây nó di chuyển như một sinh vật sống, cứ lang thang ở nơi có lẽ từng là chiến trường hồi Chiến Tranh Khói.\n\nHàng rào kẽm gai cuộn từng là lằn ranh ngăn cách giữa chúng ta.\n\nGiờ đây chính những sợi dây thép hoen gỉ uốn máu ấy lại là thứ trói buộc chúng ta, nó siết chặt khiến cho da thịt và mắt của chúng ta dí sát vào nhau.",
+      "options": [
+        {
+          "message": "Lẻn tới gỡ một phần của hàng rào.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Chảy Máu.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Cắt đầu ngón tay để nhỏ máu lên trên hàng rào.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901043,
+      "name": "",
+      "subDesc": "",
+      "desc": "Tang- Tang- Tang\n\nÂm thanh của tiếng nhựa vỡ cùng với tiếng chất lỏng đang rỉ ra. \n\nCó vẻ thứ sinh vật đó từng là cựu nhân viên của một công ty.\n\nChúng tôi xác định danh tính của nó qua chiếc áo đồng phục sờn rách và tấm thẻ nhân viên.\n\nChiếc thẻ đã hư hại và bẩn tới mức thoạt nhìn thì khó có thể nhận ra được.\n\nỤp trên đầu một chiếc hộp được đổ đầy Enkephalin, người nhân viên này cắm đầu húc vào thứ trông giống một chiếc cửa trong buồng quản thúc.\n\nMột chiếc vòng cao su đeo quanh cổ hắn. Mục đích của thứ này là ngăn Enkephalin trào ra ngoài chăng?",
+      "options": [
+        {
+          "message": "Cắt cái vòng.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Thờ Ơ & Đố Kỵ để nhận một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Kệ cái vòng. Không cắt.",
+          "result": [
+            "Tang- Tang- Tang- Tiếng đập cửa và nước rỉ lại tiếp tục vang vọng khắp căn phòng.\n\nTôi xem và lắng nghe.\n\nNếu để ý một chút, tôi nhận ra thứ âm thanh này có một nhịp điệu khá vui tai. Có lẽ hành động kì quặc của Dị Thể này ẩn chứa một niềm vui bí mật gì đó chăng?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901047,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nơi đây là một khu rừng tối tăm, đầy sương mù và dây leo.\n\nCó một quả táo, dù bị thối rữa nhưng vẫn còn di chuyển được, vội vã chạy về phía tôi.\n\n\"Làm ơn xin hãy giúp tôi, tôi cần phải trốn.\"\n\n\"Tôi chỉ là một quả táo nhỏ bé tội nghiệp... Bị nguyền rủa và bị vứt bỏ.\"\n\nTrước khi tôi kịp trả lời, quả táo ấy đã giấu thân hình nhỏ bé của nó sau chân tôi.\n\n\".......\"\n\nGiữa màn sương mù của khu rừng dây leo, tiếng vó ngựa vang lên.\n\nĐó là một con ngựa khổng lồ được làm từ dây leo.\n\nCưỡi trên lưng nó là một thực thể có đầu hoa hồng.\n\nCon ngựa dây leo kia đứng trước mặt tôi và phì phò những hơi thở nặng nhọc, nồng nặc mùi cỏ xanh.\n\n\"Ta đang săn lùng một người. Việc này cần được giải quyết khẩn cấp.\"\n\n\"Ta đang tìm kiếm quả táo sẽ một ngày trở thành công chúa, nhưng chẳng hay việc mình xứng với địa vị đó\"\n\n\"Hẳn nó đã đi qua đây. Ngươi có biết nó đã đi hướng nào không?\"",
+      "options": [
+        {
+          "message": "Nói thật.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Đố Kỵ. Thành công sẽ nhận một Quà Tặng E.G.O Vỡ Vụn.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Bảo là bạn không biết.",
+          "messageDesc": "Thắng trận để nhận 2 Quà Tặng E.G.O Vỡ Vụn.",
+          "result": [
+            "\"Ngươi không biết sao? Ta hiểu rồi. Nếu đó là hướng đi đã được định sẵn của câu chuyện này, thì phải tuân theo thôi vậy.\"\n\n\"Nhưng... ngươi định giải thích thế nào về thứ đang được giấu sau chân ngươi?\"\n\nThực thể hỏi chúng ta với vẻ thù địch. Chắc hẳn nó đã nhận thấy quả táo đang run rẩy sau chân tôi.\n\nSau một hồi cân nhắc nhanh với những Tội nhân, tôi quyết định thử nói dối với thực thể kia.\n\n\"... Ngươi bảo đó là quả lựu chứ không phải quả táo ấy hả? Bộ ngươi nghĩ ta là một tên ngốc chắc?\"\n\n\"Đủ rồi. Cút ra, bằng không sẽ phải chịu cơn thịnh nộ của ta!\"\n\nThực thể lao về phía chúng tôi với sợi dây thừng vung vẩy dữ dội trên đầu nó."
+          ]
+        },
+        {
+          "message": "Chỉ nó sai hướng.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Kiêu Ngạo & Đố Kỵ. Thành công sẽ nhận một Quà Tặng E.G.O Vỡ Vụn.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901049,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một sinh vật khổng lồ giống như thằn lằn với lớp da màu bạc của máy móc lạnh cóng chắn đường chúng tôi.\n\nCái đuôi dài hình tay người uốn cong theo khắp hướng rồi chỉ thẳng vào tôi.\n\n\"Ta phục vụ Thiên Tư Lệnh.\"\n\n\"Nghĩa vụ của kẻ hầu cận tư lệnh là luôn tuân theo mọi chỉ đạo.\"\n\n\"Hãy ra lệnh cho ta.\"",
+      "options": [
+        {
+          "message": "Ta ra lệnh chết.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ta ra lệnh sống.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Không ra lệnh.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Thờ Ơ & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Sa Lầy.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901051,
+      "name": "",
+      "subDesc": "",
+      "desc": "Cạch cạch-\n\nCạch cạch-\n\nMột làn sương trắng mờ ảo bao trùm những ngọn núi làm bằng từng viên đá lởm chởm.\n\nTiếng đá va đập vào nhau cứ vang vọng khắp nơi.\n\nMột thực thể với các chi dài thướt tha cùng lớp da hóa đá đang tạo nên một tòa tháp.\n\nCó lẽ nào tòa tháp bằng đá đó là một điều ước nguyện chăng?\n\nHay chỉ là mộ đá để an táng người vẫn đang sống?",
+      "options": [
+        {
+          "message": "Đặt một viên đá lên tòa tháp.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Sắc Bén.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Đạp đổ mộ đá.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901056,
+      "name": "",
+      "subDesc": "",
+      "desc": "Đây là cánh rừng lục bảo, luôn ẩm ướt và trơn trượt.\n\nMột cơn mưa xanh đang trút xuống, có vẻ như khá nhớp nháp.\n\nMột ai đó đang cầm một lá cỏ lớn tựa chiếc ô đứng bên cạnh chúng tôi.\n\n'Ôi trời, đừng để cơn mưa này làm ướt người nhé.'\n\n'Tất cả mau lại đây, hãy đứng dưới chiếc ô này đi.'\n\n'Nếu còn đứng yên như thế dưới trời mưa, thì phần đầu của mọi người sẽ tan chảy hết đấy.'",
+      "options": [
+        {
+          "message": "Đứng dưới chiếc ô và chờ mưa tạnh.",
+          "messageDesc": "Thắng trận để nhận 2 Quà Tặng E.G.O Sắc Bén",
+          "result": [
+            "'Thấy sao nào, ở dưới chiếc ô này thật ấm cúng phải không?'\n\n'Cơn mưa chết tiệt này lần nào cũng cướp đi thức ăn của tôi.'\n\n'Tôi mừng vì ít nhất mọi người vẫn còn ngon.'\n\n'Ôi, lo lắng vì cơn mưa sẽ làm tan chảy mọi thứ sao? Hahaha, tất nhiên là không rồi. Cơn mưa thay vì gây thương tích thì sẽ chữa lành cho mọi người đấy.'\n\n'Vậy thì tại sao tôi lại nói như vậy ư?'\n\n'Ý là, nếu mọi người còn đứng dưới cơn mưa đó… Tôi sẽ phải tốn thêm thời gian để lột đi lớp da mịn màng ấy.'\n\n'Nhưng may mắn làm sao… Điều này giúp tôi đỡ tốn công sức hơn.'\n\nVừa nói xong, nó nở một nụ cười rộng đến mang tai vì đây chính là dịp vui nhất của nó.\n\nCơn mưa đã tạnh."
+          ]
+        },
+        {
+          "message": "Dầm mưa và rời khỏi nơi này.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phàm Ăn & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Sắc Bén.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901057,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nó chỉ là một căn phòng xi măng trống rỗng.\n\nThế mà tôi vẫn không thể xua đi cảm giác khó chịu rằng có thứ gì đó đang ở đây.\n\nNhững Tội Nhân khác chế giễu tôi.\n\nCó một công tắc trong phòng.",
+      "options": [
+        {
+          "message": "Bật công tắc.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Năng Lượng dựa trên kết quả của lựa chọn tiếp theo",
+          "result": [
+            "Sau khi ấn công tắc, đèn bỗng vụt tắt.\n\nTrong bóng tối, một bóng người giật nhiễu hiện ra.\n\nThứ này chỉ di chuyển lẫn chỉ được nhìn thấy khi không có ánh sáng.\n\nNhưng cũng đồng nghĩa là nó chẳng thể thấy được ánh sáng.\n\nMà là được chiếu thẳng vào trong tâm trí.\n\nGiờ tôi mới nhận ra là nó không thể và lẽ ra không nên được giam hãm trong dải quang phổ ánh sáng.\n\nThực thể này trú ngụ trong một chiều không gian khác, nên chỉ có thể cảm nhận và nhìn xuyên qua nó.\n\nTiếp theo phải làm gì đây? "
+          ]
+        },
+        {
+          "message": "Không ấn công tắc. Rời đi luôn.",
+          "result": [
+            "Mặc kệ thực thể tồn tại trong đấy, chúng tôi bỏ căn phòng này mà đi tiếp.\n\n\"Đấy, đã bảo không có gì rồi mà!\"\n\nAi đó gào lên, nhưng tôi chẳng biết phản bác thế nào nên đành im lặng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90105701,
+      "name": "",
+      "subDesc": "",
+      "desc": "Phải làm gì đây?",
+      "options": [
+        {
+          "message": "Vươn tay chạm vào nó.",
+          "result": [
+            "Bàn tay của người Tội Nhân chìa ra—hay đúng hơn là dâng hiến lên—bỗng tan chảy nhưng cũng chẳng chảy đi.\n\nBàn tay hiện tại của người đó đã biến mất, nhưng một bàn tay từ chiều không gian kia đã lập tức thế chỗ."
+          ]
+        },
+        {
+          "message": "Rời khỏi căn phòng.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "Lúc rời đi thì chẳng có gì khác xảy ra cả, nhưng lạ thay trên cổ tôi xuất hiện thứ gì đó.\n\nMột cái kính nhìn đêm.\n\nSẽ khá tiện lợi khi bước vào mấy khu vực tối đen như mực."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901059,
+      "name": "",
+      "subDesc": "",
+      "desc": "Giữa một khu rừng tĩnh lặng, tọa lạc một cành cây mảnh mai.\n\nMột nàng tiên nhỏ với ánh sáng xanh lá ngồi trên đó.\n\nKhông nói một lời nào, nàng tiên vẫy tay mời gọi chúng tôi lại gần và nghỉ ngơi.\n\nNàng như đang mỉm cười và nhảy múa nô đùa.",
+      "options": [
+        {
+          "message": "Nghỉ một lúc.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Sa Lầy dựa trên kết quả của lựa chọn tiếp theo",
+          "result": [
+            "Nàng tiên vẫy tay muốn chúng tôi lại gần hơn.\n\nCó vẻ như nó đang dẫn dắt chúng tôi đến một nơi thoải mái hơn. Hoặc có thể đó là điều nó muốn chúng tôi tin vào.\n\nChân chúng tôi đau nhức sau chuyến hành trình dài."
+          ]
+        },
+        {
+          "message": "Tiếp tục hành trình mà không nghỉ ngơi.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Sa Lầy",
+          "result": [
+            "Chúng tôi không thể lơ là và dừng chân ở đây.\n\nNhững cành cây phóng đến cố gắng chặn đường thoát, nhưng chúng tôi đã kịp thời tránh né.\n\nChúng tôi đã hiểu được ẩn ý thông qua cử chỉ của nàng tiên.\n\nCó ai lẩm bẩm: \"Không có thứ gì trên đời là miễn phí cả.\""
+          ]
+        },
+        {
+          "message": "Nghỉ ngơi tại chỗ.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Sa Lầy",
+          "result": [
+            "Chúng tôi quyết định mặc kệ nàng tiên đang vẫy gọi và nghỉ ngơi một lát ngay tại chỗ.\n\nKhi đã phục hồi sức lực để tiếp tục hành trình, chúng tôi nhận ra một số cành cây đã mọc lên xung quanh và giăng thành bẫy.\n\nMay thay, chúng tôi đã kịp bẻ một cành của cái bẫy rồi chặt chém mọi thứ để tìm đường ra khỏi bức tường cây này, nhưng...\n\n... bây giờ cảm giác cả người còn mệt mỏi hơn trước nữa. Khoảng thời gian nghỉ ngơi trước đó đã hoàn toàn bị lãng phí."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90105901,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nên làm gì tiếp theo?",
+      "options": [
+        {
+          "message": "Lại gần hơn.",
+          "messageDesc": "Thắng trận để nhận 2 Quà Tặng E.G.O Sa Lầy.",
+          "result": [
+            "Nàng tiên nở một nụ cười rộng đến mang tai trông vô cùng đáng sợ.\n\nTất cả mọi người cũng đều cảm thấy như thế, nên chẳng ai đoái hoài gì mà lên tiếng chỉ ra sự kỳ lạ ấy.\n\nDẫu biết rằng không nên đánh giá thứ gì đó chỉ vì vẻ bề ngoài thôi, nhưng mà chúng tôi vẫn bị lừa và mắc bẫy.\n\nVà giờ chúng tôi phải trả giá cho sai lầm chết người đó."
+          ]
+        },
+        {
+          "message": "Rời đi.",
+          "result": [
+            "Cảm nhận được chúng tôi chần chừ, cái thứ muốn chúng tôi tin nó là một nàng tiên lập tức phóng thẳng đến chúng tôi.\n\nChúng tôi may mắn tránh được thương tích chí tử, nhưng vẫn cảm thấy như bị phản bội."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901062,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một con hẻm tối đen lấp ló chút ánh sáng.\n\nNgọn đèn đường duy nhất trong con hẻm thắp sáng một mảng của khung cảnh đen ngóm ấy khiến nó thêm phần mờ ảo.\n\nAi đó đang đứng bên dưới ánh đèn.\n\nBíp bíp bíp bíp-\n\nThông báo phát ra từ thiết bị trên tay của Dị Thể.\n\n'Đã có kết quả phỏng vấn cho cái công ty lớn mà tôi vừa ứng tuyển vào tháng trước rồi.'\n\n'Tất cả mọi người khắp con phố này đều chuẩn bị thi tuyển và đi phỏng vấn việc làm.'\n\n'Bọn họ đợi chờ ngày công bố kết quả, đánh cược tất cả mọi thứ vào cơ hội đổi đời này, và một khi nghe rằng bản thân đã trượt, thì họ sẽ đi đến một nơi xa thật là xa rồi biến mất.'\n\n'Nên tôi ngoảnh mặt đi; nếu như bản thân cũng như bao người kia thì tôi cũng muốn biến đi biệt tích.'\n\n'Vì vậy mọi người có thể nào nói cho tôi biết kết quả được không?'\n\nMàn hình hiển thị tin nhắn đã trượt phỏng vấn.\n\n'Kết quả là gì? Tôi có trúng tuyển không?'",
+      "options": [
+        {
+          "message": "Nói ra sự thật.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "'Vậy là tôi trượt rồi.'\n\nChiếc áo khoác cầm trên tay rơi bẵng xuống mặt đất.\n\nChiếc túi nhựa bên tay còn lại cũng rục rịch theo.\n\n'Thật ra cũng khá may mắn ấy, vì tôi biết dù gì mình cũng thất bại mà.'\n\n'Giờ tôi tự hỏi không biết khi chết đi thì người ta sẽ đi về đâu đây?'\n\n'Liệu đích đến ấy sẽ có một bông hoa nở rộ đang đợi chờ ta không?'\n\nVừa dứt lời, con bướm trên đầu bay vút lên trên trời, để mặc lại thân xác vô hồn đổ gục xuống nền đất lạnh lẽo.\n\nRồi một cái đầu thuộc về thân xác ấy lăn ra từ trong chiếc túi nhựa thấm đẫm máu.\n\nCon nhộng ấy quả là đã để lại một lớp vỏ xác thật nặng nề."
+          ]
+        },
+        {
+          "message": "Nói rằng nó đã trúng tuyển.",
+          "result": [
+            "'Cảm ơn nhé, nhưng tôi sẽ đi ngay đây vì buổi định hướng sắp bắt đầu rồi.'\n\nNó vừa nói vừa mặc chiếc áo khoác đang cầm trên tay.\n\n'Tôi không cần đến thứ này nữa.'\n\nVà con bướm ấy rời đi để lan tỏa phấn hoa.\n\nChúng tôi chỉ mong rằng sẽ có một tia nắng ấm áp soi sáng con đường của nó."
+          ]
+        },
+        {
+          "message": "Cố an ủi thực thể.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Thờ Ơ & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Sa Lầy.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901063,
+      "name": "",
+      "subDesc": "",
+      "desc": "'Đây là chiến trường.'\n\n'Và khẩu hoa cải của ta phải thổi tung kẻ nào đó.'\n\nDị Thể đó nói một cách dứt khoát, sau đó lên đạn cho khẩu shotgun.\n\n'Một ngày nọ, ác quỷ tiếp cận ta giữa chiến trường đẫm máu để đưa ra một thỏa thuận.'\n\n'Nó hứa sẽ cho ta một khẩu súng với khả năng thổi tung bất cứ thứ gì, nhưng cái giá phải trả là viên đạn cuối cùng ta bắn ra sẽ trúng vào đầu người mà ta yêu thương.'\n\n'Ta cười lớn rồi nhận lấy chỗ súng đạn đó.'\n\n'Người mà ta yêu thương...'\n\n'Liệu ta đã từng trân quý ai chưa nhỉ? Ta chẳng nhớ nổi nữa.'\n\n'Nhưng ít ra thì ta vẫn nhớ rằng mình tham gia cuộc chiến này vì một người mà ta yêu quý.'\n\nTôi để ý thấy một mặt dây chuyền trên cổ tên thiện xạ.\n\n'Nhờ thế mà ta có thể chĩa nòng súng về phía bất cứ kẻ nào. Dù ta có khai hỏa từ nơi đâu, khẩu shotgun này cũng sẽ bắn nát mục tiêu thành từng mảnh như thể nó khai hỏa từ vị trí ngay trước mặt chúng vậy, tuyệt vời lắm phải không?'\n\n'Ta dám cá là tên đó cũng có người mà hắn trân quý.'\n\n'Ừ, ta đang nói tới kẻ ta vừa thổi tung đầu đấy.'\n\n'Có lẽ chúng nhớ những điều mà ta đã quên. Điều đó khiến ta hưng phấn quá đỗi.'\n\n'Ta đang nói tới việc giết những kẻ còn nhớ tới người chúng yêu quý ấy.'\n\nTên thiện xạ vừa nói vừa tiếp tục khai hỏa.\n\nKhẩu shotgun nhẹ nhàng nhả từng loạt đạn trong lúc tên thiện xạ cất tiếng cười.\n\n'Nhân tiện thì, ngươi thuộc phe nào ấy nhỉ?''",
+      "options": [
+        {
+          "message": "Bảo tên thiện xạ nhìn vào mặt dây chuyền trên cổ mình.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Sắc Bén",
+          "result": [
+            "Tên thiện xạ hét lên khi mở mặt dây chuyền ra.\n\n'Ngươi... Ngươi khiến ta nhớ tới người mà ta yêu thương rồi. Ngươi có hiểu vậy nghĩa là sao không?'\n\nTrong cơn phẫn nộ, tên thiện xạ chĩa súng về phía tôi rồi bóp cò.\n\nTuy nhiên, loạt đạn ấy bỗng biến mất, tên thiện xạ quỳ gục xuống sàn rồi bắt đầu khóc.\n\n'Ta... không muốn nhớ tới những người mà ta yêu thương nữa...'\n\nTiếng cười khoái chí vang lên từ đâu đó."
+          ]
+        },
+        {
+          "message": "Bảo tên thiện xạ rằng chúng ta là người cùng phe.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Kiêu Ngạo & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Đâm.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Bảo tên thiện xạ rằng chúng ta không phải người cùng phe.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Sắc Bén và một Quà Tặng E.G.O Đâm",
+          "result": [
+            "\"À, ra ngươi chỉ là đám bia tập bắn lảng vảng quanh đây.\"\n\n\"Thôi thì, ta đành phải bắn tung sọ ngươi giống như chúng vậy.\"\n\nTên thiện xạ cười phá lên rồi chĩa khẩu shotgun về phía chúng tôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901067,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một căn phòng ngập tràn tài liệu bày ra trước mắt.\n\nCăn phòng có lẽ từng rất rộng rãi, nhưng giờ đây những chồng giấy chất thành đống đã khiến nó trở nên ngột ngạt và chật hẹp.\n\nThứ gì đó trườn bò về hướng này xuyên qua đống giấy vụn lẫn tài liệu.\n\nCon mãng xà bằng giấy trồi lên để trò chuyện với tôi.\n\n'Đây chính là địa ngục.'\n\n'Địa ngục của tất cả con người đã quên mất bản thân phải hoàn thành bài tập lẫn công việc được giao phó.'\n\n'Con người nghĩ rằng nếu không hoàn thành công việc đã được giao phó thì sẽ chẳng tổn hại đến ai cả... Nhưng chúng đâu có biết được là.\n\n'Những công việc lẫn giấy tờ ấy chỉ muốn được hoàn thành và nộp đúng thời hạn!'\n\n'Và nơi đây chính là chỗ tất cả công việc lẫn giấy tờ quá hạn và bị quên lãng tích tụ.'\n\n'Rồi chúng sẽ chìm sâu dưới cái địa ngục và bị đày dọa vĩnh viễn, mãi bị trì trệ và không bao giờ được hoàn thiện như mục đích ban đầu.'\n\n'Đám học sinh thật tàn nhẫn làm sao! Các ngươi có lẽ đã từng xem bọn ta chỉ là những công việc phiền hà nhỏ nhặt rồi cứ thế mà vứt đi thích chừng nào làm thì làm, thế nhưng bọn ta cũng có mong ước riêng và chỉ khát khao duy nhất một điều đó là được giao nộp theo đúng mục đích mà thôi!'\n\n'Vậy giờ hãy trả lời ta... Ngươi đã bao giờ trễ hạn công việc chưa? Dù có là trường hợp bất khả kháng cũng không thể chấp nhận được, mau nói cho ta biết ngươi có từng vứt bỏ đi bất kỳ công việc đáng thương dang dở nào không!'",
+      "options": [
+        {
+          "message": "Nói bản thân chưa từng trễ hạn.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "'Tốt, rất tốt. Cứ thế mà phát huy!'\n\n'Hãy luôn đảm bảo không một công việc nào bị bỏ sót lại.'\n\nTôi cảm nhận được sự tin tưởng vô cùng mãnh liệt.\n\nNếu như được giao cho một công việc cần phải xử lý, tôi nhất định sẽ nộp chúng trước cả thời hạn quy định."
+          ]
+        },
+        {
+          "message": "Nói bản thân đã từng trễ hạn.",
+          "result": [
+            "'Bảo sao khi ngươi vừa đặt chân vào chốn này...'\n\n'Chồng giấy này đã liên tục rục rịch đầy phẫn nộ vào ngươi.\nNgươi có nghe thấy tiếng lòng của chúng không?'\n\n'Đây có phải là tên của ngươi được viết in hằn trên đó không?'\n\nBạn nghe thấy tiếng giấy phành phạch thoáng qua, chẳng rõ liệu chúng đang vui mừng hay giận dữ khi thấy bản mặt của bạn nữa.\n\nĐành phải chấp nhận đối mặt với những sai phạm trong quá khứ thôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901076,
+      "name": "",
+      "subDesc": "",
+      "desc": "Đây là một bệnh viện.\n\nNó tối tăm và ảm đạm, hệt như hành lang của một bệnh viện thường thấy.\n\nTừ cuối hành lang nơi ánh đèn lập lòe, một sinh vật khổng lồ tiến đến.\n\nNó trượt xuống với tốc độ đều đều, tạo ra tiếng bánh xe gỉ sét.\n\nMột người bị trói chặt vào chiếc giường bệnh bụi bặm; liệu họ có từng là bệnh nhân ở đây không?\n\nKhi họ nhận ra rằng không còn lí do gì để cố gắng tìm hiểu xem mình đã nằm trên đó bao lâu,\n\nCuối cùng nó bắt đầu di chuyển, hòa làm một với chiếc giường.\n\nSau khi giành được tự do chỉ để được chạy nhảy sau một thời gian chờ đợi quá dài,\n\nNó lao về phía chúng tôi một cách dữ dội, kéo lê bánh xe của mình trên đường đi.",
+      "options": [
+        {
+          "message": "Rút ống truyền dịch trên cơ thể nó.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Bỏ chạy.",
+          "result": [
+            "Mãi cho đến khi chúng tôi không còn nghe thấy tiếng bánh xe nữa, chúng tôi mới dừng lại và quay đầu.\n\nNó đứng im giữa hành lang, dường như đã từ bỏ việc đuổi theo chúng tôi.\n\nMột ngày nào đó, khi chiếc giường kia sụp đổ và bánh xe của nó không thể quay được nữa, cuối cùng nó sẽ có thể rời khỏi bệnh viện.\n\nChỉ còn vài bước nữa là chúng tôi có thể rời khỏi nơi này."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901077,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nơi này trông giống như phòng phẫu thuật của một bệnh viện bỏ hoang nào đó.\n\nNhững tiếng leng keng và lạch cạch vang lên, rồi thứ ánh sáng trắng chói lóa chiếu thẳng vào tầm mắt.\n\nNhưng nhanh chóng bị một thực thể với vô số cái đầu chắn lại.\n\nNhững cái đầu đó đều đeo khẩu trang và mũ trùm y tế, tất cả chúng đều nhìn thẳng vào tôi.\n\n'A, một bệnh nhân.'\n\n'Đúng vậy, có một bệnh nhân ở đây.'\n\n'Bệnh nhân này cần được chữa trị.'\n\n'Vùng nào?'\n\n'Bụng?'\n\n'Chân?'\n\n\"Không, cái đầu. Ở thùy trán.'\n\nMỗi cái đầu có có ý kiến riêng khi đang chuẩn bị phẫu thuật.",
+      "options": [
+        {
+          "message": "Chấp nhận phẫu thuật.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Đập vỡ đèn rồi chạy trốn.",
+          "result": [
+            "Căn phòng tối om đi sau một tiếng kính vỡ.\n\nVì đã quá lệ thuộc vào thứ ánh sáng trắng chói lá ấy, nên khi bóng tối bao trùm khắp nơi đã khiến nó chẳng thể làm gì được."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901078,
+      "name": "",
+      "subDesc": "",
+      "desc": "Sinh vật cổ dài này có một cái búa trên đầu.\n\nNó trông giống như một món đồ chơi, nhưng chắc chắn đây là một Dị Thể.\n\nNhìn cái tư thế đứng chênh vênh của nó, trông nó như có thể ngã bất cứ lúc nào,\n\nVà y như rằng, đầu nó đập mạnh xuống sàn, do không chịu nổi sức nặng của cái búa thép.\n\nCó lẽ phải đổ đầy bình trên lưng nó thì mới có thể nhấc cái búa này lên được.",
+      "options": [
+        {
+          "message": "Hãy đổ đầy nó bằng máu của Tội Nhân.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Lười Biếng & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Để những Tội Nhân dùng sức túm lấy phần đầu và chiếc bình rồi nhấc nó lên.",
+          "result": [
+            "Ngay sau khi được nhấc lên, đầu nó lắc lư một lúc rồi lại rơi xuống.\n\n*rầm*\n\nCổ nó không còn chút sức lực nào, nghiêng xuống một cách vô định.\n\nChúng tôi tiếp tục đi, để lại tiếng vang vọng rỗng tuếch của sàn nhà và cái cổ gãy phía sau."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901079,
+      "name": "",
+      "subDesc": "",
+      "desc": "Năm cái bộ phận nhô ra khỏi cái hũ là một bàn tay sao?\n\nHay là một cá nhân trần như nhộng nhét đầu mình vào trong cái hũ vàng?\n\nNgười này đã chứng kiến thứ gì trong cái hũ ấy mà khiến bản thân phải hành động như vậy?\n\nVà nếu như thế là chưa đủ thì cả cơ thể đã biến thành một bàn tay khổng lồ đang cố gắng nắm lấy tất cả mọi thứ trong phạm vi.\n\nNếu như nó đã chiếm được tất cả mọi thứ hằng mong muốn trên cõi đời này, thì liệu lực bám của nó có nới lỏng chút nào hay chưa?",
+      "options": [
+        {
+          "message": "Kéo cái đầu khỏi hũ.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ôm rồi lắc cơ thể khổng lồ.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phàm Ăn & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901080,
+      "name": "",
+      "subDesc": "",
+      "desc": "Phía trước là một con đường dài và rộng.\n\nBạn thấy một người đang cầm biển ở ngay lối vào.\n\n'Đây là đường một chiều. Cấm quay đầu.'\n\n'Nếu đi đường này, ngươi sẽ mất rất lâu mới quay lại được.'\n\nĐúng như người đó nói, con đường dường như trải dài xa xăm đến vô tận.",
+      "options": [
+        {
+          "message": "Quay lại theo lối đi ban đầu thay vì đi đường chính.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "'Con đường dù có vẻ vắng vẻ lúc này, nhưng cứ đi một đoạn rồi bạn sẽ thấy. Con đường này tắc nghẽn xe cộ, và bạn sẽ bị kẹt cứng.'\n\n'Quay đầu cũng không phải là lựa chọn. Sẽ có một chiếc xe tới ngay sau ngươi khi ngươi quyết định quay lại.'\n\n'Ngươi đã chọn đúng rồi.'\n\nNó khẽ mỉm cười.\n\nTấm biển vẫn được giơ cao cho bất cứ kẻ nào có thể đi vào con đường cao tốc này trong tương lai."
+          ]
+        },
+        {
+          "message": "Rẽ sang đường phụ thay vì đi đường chính.",
+          "result": [
+            "'Không phải là lựa chọn đúng đắn.'\n\n'Mọi người đều tuân thủ cùng một quy tắc khi đi trên con đường này. Dù gì, đường cao tốc này là dành cho tất cả mọi người.'\n\n'Ta đảm bảo với ngươi rằng, vị thần giao thông sẽ không dễ dàng tha thứ cho những kẻ thích đi đường tắt đâu.'\n\nKhi chúng tôi đi đường vòng, tôi phải chịu đựng ánh nhìn chằm chằm sau lưng mình một lúc lâu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 902003,
+      "name": "",
+      "desc": "Tiếng than khóc vang lên trong vùng hoang dã mênh mông đầy tro tàn.\nTừ đằng xa, một bức tường sương mù nhấp nhô nổi lên.\n\nHình dạng của nó giống như một con người.\nTuy nhiên, nó có thể là một linh hồn hoặc một bóng ma hiện hình.\n\nMiệng nó mở rộng như thể đang khóc trong tuyệt vọng, hoàn toàn tối tăm.",
+      "options": [
+        {
+          "message": "Bước vào làn sương.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Nhìn trực diện vào làn sương.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 902005,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một tiếng than khóc vang vọng trong rừng.\nKhông biết liệu nó đang đau buồn vì gì ta.\n\nCó một chiếc quan tài ở giữa khu rừng.\nNó đã được buộc bằng nhiều đoạn dây và dây thừng,\ntrong nỗ lực đầy tuyệt vọng nhằm giữ cho thứ bên trong không thoát ra.\n\nTuy nhiên, chiếc quan tài vẫn tiếp tục rung lắc và kêu cót két.",
+      "options": [
+        {
+          "message": "Mở quan tài.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Chảy Máu.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Để yên.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 902006,
+      "name": "",
+      "subDesc": "",
+      "desc": "“Đằng ấy là ai, và tới đây có chuyện gì vậy?”\n\nMột tờ giấy phát ra tiếng sột soạt.\n\n“Cơ mà đằng ấy đến đúng lúc đấy,\ntôi có việc cần xử lý gấp.\nĐằng ấy nhận việc này dùm tôi được không?”\n\nNó đưa ra một mảnh giấy khác viết toàn những từ ngữ nguệch ngoạc.\nTiếc thay, bạn chả hiểu nổi mấy dòng kẻ với dấu chấm này có nghĩa là gì.\n\n“Thấy sao? Muốn nhận việc chứ?”",
+      "options": [
+        {
+          "message": "Gật đầu.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Lắc đầu.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901100,
+      "name": "",
+      "subDesc": "",
+      "desc": "Những khối gạch xoay tròn, đan vào nhau, phát ra những âm thanh cọ xát ken két.\n\nThực thể biến đổi không ngừng với mỗi vật hiến tế từ những con hình nhân đất sét xung quanh.\n\nĐôi khi, những khối của nó xoay chuyển, đôi khi những mảng thịt đỏ co lại rồi giãn ra.\n\nRồi một thứ gì đó rơi xuống đất từ cơ thể luôn biến dạng của nó.\n\nMột trong những khối gạch bật khỏi vị trí, bị đẩy ra giữa vòng xoay hỗn loạn.\n\nNgay cả những con hình nhân đất sét cũng ngừng việc cúng tế, bối rối nhìn chằm chằm vào khối gạch ấy.",
+      "options": [
+        {
+          "message": "Nhặt khối gạch lên.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ và Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O Vỡ Vụn.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Đừng nhặt khối gạch lên.",
+          "result": [
+            "Không cần phải đến quá gần và đối diện trực tiếp với thứ quái dị này.\nChúng tôi để khối gạch lại trên mặt đất và rời đi, tìm một con đường khác."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901101,
+      "name": "",
+      "subDesc": "",
+      "desc": "Có tiếng gầm rú vang dội từ nơi sét đánh.\n\nỞ đó có một con chó săn với nhiều đầu cùng kha khá cột điện nhô ra từ lưng nó.\n\nTôi có thể thấy những tia chớp tím lóe lên từ tất cả cây cột, dẫu cho chúng có kích thước khác nhau.\n\nCon chó săn kia vẫn chưa cảm nhận được sự hiện diện của chúng tôi.\n\nCó lẽ sẽ thó được một trong số cây cột nếu chúng tôi cắt đứt được dây điện của nó.",
+      "options": [
+        {
+          "message": "Thó cây cột điện nhỏ.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Kiêu Ngạo & Đố Kỵ. Thành công sẽ nhận một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Nhổ hết tất cả cột điện.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "Tôi bảo mấy Tội Nhân nhổ hết mọi cột điện mà họ thấy.\n\nChắc họ đã nhổ cột điện của nó được một lúc rồi…\n\nCon chó săn hiền lành đột nhiên nhảy dựng lên và tru lên, tiếng tru của nó tựa như tiếng sấm gầm.\n\nCó vẻ như chúng ta sẽ phải chiến đấu để vượt qua thôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901102,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nơi này tràn ngập tiếng rít chói tai của kim loại và tiếng búa máy công nghiệp nện xuống thứ gì đó.\n\nLần theo những âm thanh ồn ào ấy, chúng tôi tìm thấy một thứ trông như mô hình nhà máy đồ chơi bằng nhựa.\n\nNhà máy này vẫn phun khói không ngừng và liên tục vận hành, sản xuất ra những món hàng bí ẩn.\n\nMột con ốc vít bát giác khổng lồ lăn từ trong nhà máy ra.",
+      "options": [
+        {
+          "message": "Nhặt nó lên.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "Chúng tôi nhặt con ốc vít bát giác khổng lồ lên.\n\nTừng bước rời đi, nhà máy vẫn không có phản ứng gì.\n\nNó tiếp tục vận hành, phun khói như thể muốn nói rằng nó chẳng hề cần đến con ốc vít đó."
+          ]
+        },
+        {
+          "message": "Để nó yên.",
+          "result": [
+            "Chúng tôi đứng đó một lúc, chờ xem điều gì có thể xảy ra. Con ốc vít tự lăn vào trong nhà máy.\n\nNó vốn là một phần của nhà máy, hay chính là thứ mà nhà máy sản xuất ra?\n\nDù chẳng có cách nào để xác định nhưng tôi vẫn có thể nhận ra thứ âm thanh kim loại vang lên từ nhà máy giờ nghe có vẻ nhịp nhàng hơn một chút."
+          ]
+        },
+        {
+          "message": "Ném con ốc vít vào trong nhà máy.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Năng Lượng và một Quà Tặng E.G.O Chấn Động",
+          "result": [
+            "Chúng tôi nhặt con ốc vít bát giác khổng lồ lên, nhưng chẳng thấy nó hữu dụng gì cả.\n\nTôi ném nó quay ngược về bên trong, rồi âm thanh va đạp với kim loại chói tai vang lên.\n\nSau một hồi, có thứ gì đó từ bên trong nhà máy chạy ào ra cùng một tiếng gào rú inh ỏi.\n\n\"CẢnH CáO! CảNh cÁO! CAn ThIỆp?! ĐáP tRẢ!\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901103,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một tửu quán bỏ hoang.\n\nMùi súp hầm ấm cúng thơm ngon phảng phất trong căn bếp trống vắng bóng người.\n\nTheo dấu mùi hương ngon tuyệt ấy đưa chúng tôi đến chỗ một con thằn lằn với cái đầu hệt như một cái vạc đang thu mình lại.\n\nTrong cái đầu của nó là một cái nồi nhỏ bé đang được treo phía trên một ngọn lửng nóng phừng phực.\n\nMón súp hầm cổ xưa ấy sôi sùng sục bên trong cái nồi. Nó đã sôi lâu đến mức không thể nào biết được những nguyên liệu đầu tiên được bỏ vào là gì nữa.\n\nBăn khoăn chẳng biết nên làm gì với món súp hầm này, thì bên dưới cái vạc phát ra một giọng nói.\n\n'Chẳng còn ai ở đây để thưởng thức món súp hầm này nữa.'\n'Phiền mọi người có thể tháo cái nồi này ra được không?'",
+      "options": [
+        {
+          "message": "Thử món súp hầm.",
+          "result": [
+            "Cái nồi quá nặng và quá nóng để có thể di dời, huống chi là đụng tay vào cho bỏng người.\n\nSau khi thảo luận với các Tội Nhân thì chúng tôi quyết định sẽ nếm thử món súp hầm.\n\nTheo đánh giá của các Tội Nhân thì món súp hầm này có vị như... thịt hầm và vô số loại rau củ chưa rõ nguồn gốc.\n\nTuy phần trình bày có hơi tầm thường, nhưng phải công nhận là nó thật sự rất ngon.\n\nNgọn lửa cũng lặng tiếng đi như thể tỏ vẻ hài lòng."
+          ]
+        },
+        {
+          "message": "Lấy cái nồi.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O Thiêu Đốt.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Lấy ngọn lửa.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Thiêu Đốt",
+          "result": [
+            "Cái nồi... lẫn món hầm... tất cả đều không thể sánh bằng được một ngọn lửa biết nói.\n\nSau khi thảo luận với các Tội Nhân thì tôi quyết định sẽ lấy ngọn lửa.\n\n'Hả? M-mọi người lấy tôi ư? Ơ? Tại sao?'\n'Cái quỷ gì— Tại sao mọi người lại lấy tôi ra?'\n\nNgọn lửa hoảng hốt tiếp tục tỏ ra bối rối, nhưng tôi cũng không có lời nào để trả lời cả.\nVà có vẻ như nó cũng chẳng thể hiểu được lời tôi nói vì bản thân chỉ phát ra được tiếng đồng hồ tích tắc mà thôi...\nTôi cứ thế mà rời đi, cũng chẳng trả lời lấy bất cứ một câu nào, rồi ngọn lửa cũng sớm im lặng theo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901104,
+      "name": "",
+      "subDesc": "",
+      "desc": "Có một chỗ trũng trên mặt đất, chứa đầy nước.\n\nCó thứ gì đó nằm trong đó liên tục tạo ra những gợn sóng trên mặt nước.\n\nĐến gần hơn, tôi thấy một con cá không đầu đang bơi trong vũng nước nông đó.\n\nNhững chuyển động quẫy đạp của nó rất mạnh mẽ, mặc dù rõ ràng là thiếu đầu.\n\nNó đang quằn quại vì đau đớn?\n\nHay chỉ đơn giản là nó vui mừng vì được bơi trong nước?",
+      "options": [
+        {
+          "message": "Cùng nhau nô đùa trong nước.",
+          "result": [
+            "Tôi ngã sấp mặt xuống vũng nước và nghịch nước cùng con cá kia.\n\nMột vài Tội Nhân khác cũng tham gia và nghịch nước cùng nhau.\n\nKhông hiểu sao, tất cả bọn tôi đều cảm thấy phấn chấn hơn đôi chút."
+          ]
+        },
+        {
+          "message": "Chọc thủng túi máu của nó.",
+          "messageDesc": "Thắng trận để nhận một Quà Tặng E.G.O Chảy Máu",
+          "result": [
+            "Hẳn cái túi chứa đầy máu của con cá kia đang làm nó đau đớn.\n\nCó lẽ nó có thể vùng vẫy thoải mái hơn nếu không có cái túi máu lớn nặng nề đó cản trở?\n\nTôi yêu cầu nhóm Tội Nhân chọc thủng túi máu của nó, nhưng con cá trở nên hung hãn và tiến về phía chúng tôi ngay khi nghe thấy mệnh lệnh của tôi.\n\nTất cả những hành động vẫy vùng kia rất có thể chẳng liên quan gì đến túi máu của nó."
+          ]
+        }
+      ]
+    }
+  ]
+}

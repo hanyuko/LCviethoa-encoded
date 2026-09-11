@@ -1,0 +1,154 @@
+{
+  "dataList": [
+    {
+      "id": 816101,
+      "name": "Vô Hiệu Nguyên Tội",
+      "desc": "Trừ khi chủ thể Bị Choáng hoặc Bộ Phận Bị Phá Hủy, -80% sát thương phải nhận từ [Combustion]."
+    },
+    {
+      "id": 816102,
+      "name": "Viêm Tỏa",
+      "desc": "Nếu mục tiêu có [Combustion]: Khi Đánh Trúng, gây một nửa [Combustion] lên 2 đơn vị kế bên mục tiêu chính trên Bảng Điều Khiển."
+    },
+    {
+      "id": 816601,
+      "name": "Cuộc Săn Điên Dại",
+      "desc": "Thắng Giao Tranh: Giá Trị Giao Tranh -1 cho lần Giao Tranh tiếp theo (tối đa 2)\nThua Giao Tranh: Giá Trị Giao Tranh +1 cho lần Giao Tranh tiếp theo (tối đa 2)"
+    },
+    {
+      "id": 816602,
+      "name": "Vứt Bỏ Phần Người",
+      "desc": "Đầu Lượt: nhận 2 [AttackDmgUp]."
+    },
+    {
+      "id": 816603,
+      "name": "Bao",
+      "desc": "- Nếu chủ thể vẫn còn phần Xích Trói, mọi Bộ Phận nhận 1 [Enhancement] và 2 [AttackDmgUp]\n- Nếu Phần Xích Trói bị phá, đầu lượt kế, nhận 2 [Binding] và cộng +0.7 chống chịu cho tới hết Ải này"
+    },
+    {
+      "id": 816604,
+      "name": "Nỗi Căm Hận",
+      "desc": "Khi Máu chủ thể dưới 35% hoặc ít hơn: Nếu phần trăm Máu của mục tiêu cao hơn chủ thể, Giá Trị Giao Tranh +2"
+    },
+    {
+      "id": 816605,
+      "name": "Oán Hận Chi Phối",
+      "desc": "Nếu Máu của chủ thể dưới 30% hoặc thấp hơn:\n- Kỹ Năng Đập +20% sát thương gây ra\n- Nhận 1 [Enhancement] và 2 [Vulnerable] vào mỗi lượt. (tối đa 3 lần)"
+    },
+    {
+      "id": 816606,
+      "name": "Con Chó Cuồng Loạn",
+      "desc": "Khi phần Xích Trói bị phá, gán [AaCfPcBg] lên một mục tiêu ngẫu nhiên.\nVào đầu lượt kế, ưu tiên mục tiêu có [AaCfPcBg]."
+    },
+    {
+      "id": 817101,
+      "name": "Vượt Trội",
+      "desc": "Thắng Giao Tranh: Nếu Tốc Độ của chủ thể nhanh hơn mục tiêu, hồi 3 SP"
+    },
+    {
+      "id": 817102,
+      "name": "Không Mời Mà Đến",
+      "desc": "Nếu có kẻ địch đang bị Choáng, chủ thể sẽ ưu tiên Kỹ Năng Tấn Công vào mục tiêu đó\n+20% sát thương gây ra lên mục tiêu Bị Choáng Khi Đánh Trúng"
+    },
+    {
+      "id": 817103,
+      "name": "Nghệ Thuật Tiếp Đón Hồi 9: Trói Buộc",
+      "desc": "Sau khi chủ thể hình thành hành vi chiến đấu mới và khi Kết Chiến, gây [AaCfPcBc] lên một Danh Tính bất kỳ không có [AaCfPcBc] vào lượt kế"
+    },
+    {
+      "id": 817104,
+      "name": "Thoát Khỏi Trói Buộc",
+      "desc": "Toàn bộ hiệu ứng [AaCfPcBc] có giá trị ít hơn hoặc bằng 2 sẽ hết hiệu lực khi chủ thể Bị Choáng"
+    },
+    {
+      "id": 817201,
+      "name": "Lan Toả Cảm Xúc",
+      "desc": "Khi đồng minh bị hạ gục có cùng Nguyên Tội với Cảm Xúc Bùng Nổ của chủ thể: chủ thể mất hiệu ứng Cảm Xúc Bùng Nổ, giết toàn bộ đồng minh còn lại, và nhận [AaCfPbBd] vào lượt kế.\nMọi Tội Nhân nhận hiệu ứng tương ứng với Cảm Xúc Bùng Nổ, đồng thời, tăng khả năng kháng Nguyên Tội tương ứng."
+    },
+    {
+      "id": 817202,
+      "name": "Chất Chồng Oán Hận",
+      "desc": "Nếu chủ thể sở hữu hiệu ứng Nguyên Tội Bùng Nổ, tất cả Nguyên Tội của Kỹ Năng sẽ được thay thế thành Nguyên Tội tương ứng.\nSau khi hiệu ứng Cảm Xúc Bùng Nổ hết hiệu lực, các Nguyên Tội Kỹ Năng đã thay đổi vẫn sẽ được giữ nguyên cho tới hết giai đoạn."
+    },
+    {
+      "id": 817203,
+      "name": "Thâm Thù Oán Nặng",
+      "desc": "Sử dụng hành vi chiến đấu mới ở khi HP xuống 75% và 33%.\nKhi chủ thể sử dụng hành vi chiến đấu mới, giảm một nửa Tầng và Lượng của toàn bộ hiệu ứng xấu trên chủ thể"
+    },
+    {
+      "id": 9101602,
+      "name": "Sự Đối Lập",
+      "desc": "Nếu Máu của mục tiêu lớn hơn chủ thể, Giá Trị Giao Tranh +2 và +20% sát thương gây ra"
+    },
+    {
+      "id": 9101603,
+      "name": "Đợi Chờ Khoảnh Khắc Này",
+      "desc": "Clash Win: Chủ thể hồi 5 SP\nThua Giao Tranh với Heathcliff: Giảm 5 SP và nhận [Binding] vào lượt kế (Một lần mỗi lượt)\nNếu chủ thể không đánh trúng Heathcliff trong lượt này, giảm 5 SP khi Cuối Lượt"
+    },
+    {
+      "id": 9101606,
+      "name": "Tinh Thần Ganh Đua",
+      "desc": "HP của chủ thể càng thấp, Cấp Phòng Thủ càng cao.\nCấp Phòng Thủ +1 với mỗi 10% HP chủ thể đã mất (làm tròn xuống)"
+    },
+    {
+      "id": 821601,
+      "name": "Cuộc Săn Hoang Dã đến Điêu Tàn",
+      "desc": "Không thể bị tiêu diệt khi HP xuống 0. HP không thể xuống dưới 1."
+    },
+    {
+      "id": 817401,
+      "name": "Danh Tính Xa Lạ",
+      "desc": "Cuối Lượt: Nếu Máu của cả hai Tay đều là 1, bị [Inactible]."
+    },
+    {
+      "id": 817402,
+      "name": "Cơ Thể Lạnh Lẽo",
+      "desc": "HP không thể xuống dưới 1."
+    },
+    {
+      "id": 817403,
+      "name": "Cái Tôi Bất Ổn",
+      "desc": "Cuối Lượt: Nếu Máu của hai Tay đều là 1, nhận Khiên vào lượt kế.\nKhi chủ thể không còn khiên, bị [Inactible]."
+    },
+    {
+      "id": 819201,
+      "name": "Cánh Tay Sẽ Cắt Bỏ Mọi Bi Ai Của Đôi Ta",
+      "desc": "Nếu Máu của Tay này về 1 và Máu của Tay còn lại trên 2+ vào Cuối Lượt kế, chủ thể hồi Máu bằng với 50% Máu của Tay kia. (làm tròn xuống)"
+    },
+    {
+      "id": 821401,
+      "name": "Đau Thương Tột Cùng",
+      "desc": "Bị Choáng khi Máu chủ thể về 1. HP không thể xuống dưới 1."
+    },
+    {
+      "id": 817404,
+      "name": "Tan Nát Cõi Lòng",
+      "desc": "Đầu Lượt: Nếu Máu của cả hai Tay đều trên 2+, nhận 10 [Protection], và mọi giá trị Kháng sẽ thành 0.2.\nĐầu Lượt: Nếu Máu của cả hai Tay đều là 1, [Protection] hết hiệu lực, và mọi giá trị Kháng sẽ về giá trị mặc định."
+    },
+    {
+      "id": 817405,
+      "name": "Vì Mọi Heathcliff",
+      "desc": "Khi Giao Tranh với Heathcliff, Giá Trị Giao Tranh -3 và -50% sát thương khi đánh Heathcliff\nThắng Ải này nếu Heathcliff chết"
+    },
+    {
+      "id": 816408,
+      "name": "Khoảnh Khắc Báo Thù",
+      "desc": "Thắng Giao Tranh: Hồi 5 SP\nThua Giao Tranh: Mất 5 SP and nhận 2 [Binding] vào lượt kế. (một lần mỗi lượt)\nNếu chủ thể không đánh trúng trong lượt này, giảm 5 SP khi Cuối Lượt"
+    },
+    {
+      "id": 9101607,
+      "name": "Không Thể Trốn Chạy",
+      "desc": "Xuyên suốt Ải này, các danh tính của Heathcliff sẽ không thể Rút Lui."
+    },
+    {
+      "id": 816103,
+      "name": "Phẫn Nộ Phun Trào",
+      "desc": "Khi chết, gây 12 [Combustion] và +8 Tầng [Combustion] lên toàn bộ kẻ địch"
+    },
+    {
+      "id": 816104,
+      "name": "Nỗi Ác Mộng",
+      "desc": "Trong lượt, nếu đơn vị đồng minh(bao gồm cả chủ thể) thua Giao Tranh hoặc nhận sát thương từ kẻ địch, nhận 1 [AttackUp] và hồi 1 SP (tối đa 12 lần)"
+    }
+  ]
+}

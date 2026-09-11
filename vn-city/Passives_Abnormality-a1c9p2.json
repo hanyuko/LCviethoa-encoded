@@ -1,0 +1,147 @@
+{
+  "dataList": [
+    {
+      "id": 132203,
+      "name": "Dư Ảnh Chồng Lớp",
+      "desc": "Đầu Ải: Nhận [TimeEntangleFour]\nVào đầu lượt của mỗi hành vi chiến đấu, nhận [TimeGapAb] bằng với (tầng [TimeEntangleDesc] x 400) (một lần mỗi tầng [TimeEntangleDesc])\n\nỞ tầng 3 và 4 [TimeEntangleDesc], nếu chủ thể mất toàn bộ [TimeGapAb], thay đổi hành vi chiến đấu và Bị Choáng vào lượt kế\n\n-30% sát thương HP, SP phải nhận từ [Combustion], [Laceration], [Burst], và [Sinking]; -30% hiệu lực nâng Ngưỡng Choáng từ [Vibration]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132204,
+      "name": "Âm Vang Dư Ảnh",
+      "desc": "Khi Xu của chủ thể Đánh Trúng, gây sát thương Chém bằng (tổng sát thương của Xu / 10).\n- Hiệu ứng này kích hoạt (tầng [TimeEntangleDesc]) lần; sát thương từ hiệu ứng này không thể làm Choáng mục tiêu",
+      "summary": "Gây thêm sát thương Chém",
+      "undefined": "-"
+    },
+    {
+      "id": 132205,
+      "name": "Phân Liệt Dư Ảnh Từ Muôn Vàn Khoảnh Khắc",
+      "desc": " Kỹ Năng Tấn Công Kết Đòn: Gây (Số Xu Chém đã Trí Mạng x 10) sát thương Chém lên mỗi mục tiêu (sát thương từ hiệu ứng này không thể làm Choáng mục tiêu.)\n\nKỹ Năng Tấn Công Kết Đòn: Tiêu thụ toàn bộ Lượng [Breath] vượt quá 20 của chủ thể và gây [PhantomIncision] lên mục tiêu bằng đúng Lượng [Breath] đã tiêu thụ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132208,
+      "name": "Khai Vỏ Địa Tuệ Tinh Đao",
+      "desc": "Dùng một đòn đánh mạnh mẽ mỗi 4 lượt\n- Khi có 50+ [PhantomIncisionTotal], cường hóa đòn đánh trên",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "        "
+    },
+    {
+      "id": 132216,
+      "name": "Ta Sẽ Nương Tay Một Chút",
+      "desc": "-50% tổng sát thương gây lên mục tiêu dùng Kỹ Năng Phòng Thủ\n\nCuối Lượt: Nhận 2 [Vulnerable] và 2 [AttackDmgUp] mỗi 4 lượt trong Ải này (cộng dồn; tối đa 2 lần mỗi Ải)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132101,
+      "name": "Dây Thần Kinh Sống - Giải Trừ Một Phần Hạn Chế",
+      "desc": "Khi chết, tất cả Kỹ Năng bị hủy trong lượt này\nNhận 10 [SelfCharge] khi hiệu ứng này được kích hoạt",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132102,
+      "name": "Bất Diệt Chi Tâm",
+      "desc": "Mỗi 5 lượt, nhận Khiên bằng HP của phần Đầu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132103,
+      "name": "Tuyệt Diệt Chi Tâm",
+      "desc": "Sau khi sử dụng 'Cuộn Tròn', nếu hết khiên, tiêu toàn bộ [SelfCharge]\nTất cả bộ phận bị Choáng vào lượt tiếp theo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132001,
+      "name": "Tàn Lửa Cuối Cùng",
+      "desc": "Nếu HP ≤ 30%, nhận thêm +1 [MRcAiBa]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132002,
+      "name": "Nhóm Lửa",
+      "desc": "Khi Phần Cánh bị phá hủy, gây [MRcAiBb] bằng với số Lớp [MRcAiBa] lên kẻ tấn công cuối cùng; rồi toàn bộ [MRcAiBa] trên chủ thể hết hiệu lực\n\nKhi dùng Kỹ Năng 'Hồng Diễm Tinh' ở mốc 0 [MRcAiBa], chủ thể dùng thêm 'Nhóm Lửa'",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132003,
+      "name": "Than Hồng Rực Lửa",
+      "desc": "Chuyển (số Lớp [MRcAiBa]) Kỹ Năng không thuộc Nguyên Tội Phẫn Nộ thành Kỹ Năng Nguyên Tội Phẫn Nộ.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132004,
+      "name": "Lồng Hồng Diễm",
+      "desc": "Nếu chủ thể có [MRcAiBa], chuyển (số Lớp [MRcAiBa]) Kỹ Năng không thuộc Nguyên Tội Phẫn Nộ thành Kỹ Năng Nguyên Tội Phẫn Nộ\n\nĐánh Trúng, gây [Combustion] bằng với (Số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ dùng ở lượt này)\n\nĐánh Trúng, hồi HP bằng với (Số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ dùng ở lượt này x 2)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132005,
+      "name": "Tiếp Tế Tài Nguyên",
+      "desc": "Khi phần Cánh bị phá hủy, nhận 2 Tài Nguyên E.G.O của toàn bộ Nguyên Tội và hồi 15 SP cho tất cả Tội Nhân",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132006,
+      "name": "Đôi Cánh Rực Lửa - Giải Trừ Một Phần Hạn Chế",
+      "desc": "Không nhận sát thương [Combustion]\n\nCuối Lượt: Hồi HP cho Lõi bằng ([Combustion] trên chủ thể x 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132501,
+      "name": "Sắc Lệnh Ban Hành Qua Máy Nhắn",
+      "desc": "Đầu Ải: Nhận Khiên bằng với 20% HP tối đa (tồn tại xuyên suốt Ải này)\n\nĐầu Lượt:\n- Nhận [IndexPrescript_Base_2nd] dựa vào bậc [UnlockBuff_Base] trên chủ thể\n- <color=#ff6000><mark=#ff000040><b><u>Gây [IndexPrescriptTargetToPersonality] lên một kẻ địch ngẫu nhiên và ưu tiên tấn công kẻ địch đó </u></b></mark></color> (ngoại trừ hành vi chiến đấu nhất định)\n\n+2.5% sát thương gây ra lên [IndexPrescriptTargetToPersonality] với mỗi [BlessingOfIndexPrescriptEnemy] (tối đa 20%)\n- Ở mốc 9 [BlessingOfIndexPrescriptEnemy], +30% sát thương gây ra lên toàn bộ mục tiêu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132502,
+      "name": "Ý Chí của Sắc Lệnh",
+      "desc": "Kết Thúc Lượt: <color=#ff6000><mark=#ff000040><b><u>Nếu [IndexPrescript_Base_2nd] đã được thực thi vào lượt này, hồi 15 SP và nhận [BlessingOfIndexPrescriptEnemy] bằng (bậc [UnlockBuff_Base] + 1) (một lần mỗi lượt)\n\nCuối Lượt: <color=#ff6000><mark=#ff000040><b><u>Nếu [IndexPrescript_Base_2nd] không được thực thi vào lượt này</u></b></mark></color>,  nhận 1 [PressureOfPrescript] và 5 [KarmaOfIndexStudent]\n- Nếu chủ thể không có [UnlockBuff_Base], nhận 1 [BlessingOfIndexPrescriptEnemy] vào Cuối Lượt\n- Nếu chủ thể có 9 [BlessingOfIndexPrescriptEnemy], không nhận [KarmaOfIndexStudent]\n- Nếu chủ thể trong trạng thái E.G.O Nở Rộ E.G.O::Quyền Hành[TabExplain], nhân đôi [KarmaOfIndexStudent] mà chủ thể sẽ nhận",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132503,
+      "name": "Khai Mở",
+      "desc": "Cuối Lượt: Khi có 3/6/9 [BlessingOfIndexPrescriptEnemy] hoặc khi HP ≤ 90%/75%/60%,,\n- Nhận [UnlockBuff_1]/[UnlockBuff_2]/[UnlockBuff_3]\n- Hồi lên 45 SP\n- <color=#ff6000><mark=#ff000040><b><u>- Tiêu thụ toàn bộ [PressureOfPrescript]</u></b></mark></color> và hồi phục khỏi Choáng\n- Khi nhận [UnlockBuff_Base] lần đầu, nhận 1 [BlessingOfIndexPrescriptEnemy] vào lượt kế\n\nNếu [UnlockBuff_Base] được nhận thông qua hiệu ứng HP trên,\n- Nhận [KarmaOfIndexStudent] bằng ( tổng SP đã hồi / 15)\n- Tăng [BlessingOfIndexPrescriptEnemy] lên 3/6/9 nếu chủ thể có ít hơn 3/6/9 [BlessingOfIndexPrescriptEnemy]; nhận 1 [DefenseDown] và 2 [KarmaOfIndexStudent] với mỗi [BlessingOfIndexPrescriptEnemy] đã nhận\nTốc Độ Tối Thiếu & Tối Đa +10 vào lượt mà chủ thể dùng đòn đánh mạnh mẽ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "                    "
+    },
+    {
+      "id": 132504,
+      "name": "E.G.O Nở Rộ:: Quyền Hành",
+      "desc": "Đầu Lượt: nếu chủ thể có [UnlockBuff_Base] và SP > 25, tiêu thụ 15 SP để khai mở E.G.O Nở Rộ::Quyền Hành và hồi phục khỏi Choáng\n- Nhận [Blandishment_Enemy] và một hệ số Kháng khác trong trạng thái này\n- Đầu Lượt: Khi SP ≤  0, giải trừ E.G.O Nở Rộ::Quyền Hành[TabExplain]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132505,
+      "name": "Dạng Tuyệt Diệt",
+      "desc": "Khi Vespa lên sân:\n- Nếu bậc [UnlockBuff_Base] dưới II, nhận [UnlockBuff_3], và hồi phục khỏi Choáng\n- Nhận 1 [Blandishment_Shin_Enemy] và nhận Khiên bằng với 50% HP tối đa (tồn tại đến khi hết Ải này)\n- Không tiêu hao [PressureOfPrescript] để kích hoạt Nội Tại 'Khai Mở[TabExplain]'\n- Biến [PressureOfPrescript] thành [PressureOfPrescript_2nd] và nhận tối đa Lớp của hiệu ứng\n- Đầu Lượt: Nhận 1 [PressureOfPrescript_2nd]\n- Sau đó, SP của chủ thể không thể xuống 0\n\nKhi HP ≤ 20%, nhận tối đa Lớp [PressureOfPrescript_2nd]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "           "
+    },
+    {
+      "id": 132230,
+      "name": "Bình Tâm Trở Lại",
+      "desc": "Cuối Lượt: nếu rơi vào Hoảng Loạn, đặt lại SP về 30.",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 40000201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Weakness Thrust",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ hiệu ứng bất lợi, Sức Mạnh Gốc +1\n[WhenUse] Nhận +1 Tầng [Breath]\n[OnDirectAttack] Gây +1 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dualblade Substitution Thrust",
+          "desc": "[StartBattle] Nhận 1 [Protection]\n[WhenUse] Nếu mục tiêu có 3+ hiệu ứng bất lợi, Sức Mạnh Xu +1\n[WhenUse] Nhận 3 Lượng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gia Xích Ngã Viện",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ hiệu ứng bất lợi, Sức Mạnh Xu +1\n[WhenUse] Nhận +3 Tầng [Breath]\n[WhenUse] Nhận 6 Lượng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+100% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 5 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phòng Thủ",
+          "desc": "[CanDuelGuard]\n[StartBattle] Loại bỏ 1 hiệu ứng bất lợi ngẫu nhiên có thể loại bỏ được đang có trên chủ thể\n[StartBattle] Hồi 10 SP\n[WhenUse] Nhận 2 [ProtectStance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

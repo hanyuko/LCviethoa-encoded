@@ -1,0 +1,302 @@
+{
+    "dataList": [
+        {
+            "id": 9009801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đâm",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Gây 4 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Xé Toạc Vết Thương",
+                    "desc": "[WinDuel] Hồi 5 SP.\n +5% sát thương gây ra với mỗi [Laceration] trên mục tiêu",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bảo Vệ Thị Trấn!",
+                    "desc": "[WhenUse] Nhận 5 [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Hồi 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Hồi 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Hồi 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Hồi 4 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Phóng Lao",
+                    "desc": "[WhenUse] Nhận 5 [Breath] và +2 Tầng [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Binding] và 2 [AttackDmgDown] vào lượt kế"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đỡ Đòn",
+                    "desc": "Khi bị tấn công trong khi chủ thể có Khiên, nhận 1 [AttackUp] vào lượt kế",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đâm Mau Rút Lẹ",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Gây +2 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Gây +1 Tầng [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đục Mở Vết Thương",
+                    "desc": "[WinDuel] Hồi 5 SP.\n +5% sát thương gây ra với mỗi [Laceration] trên mục tiêu",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bảo Vệ Thị Trấn!",
+                    "desc": "[WhenUse] Nhận 5 [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Hồi 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Hồi 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Hồi 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Hồi 4 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Phóng Lao",
+                    "desc": "[WhenUse] Nhận 5 [Breath] và +2 Tầng [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Binding] và 2 [Vulnerable] vào lượt kế"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Né Đòn",
+                    "desc": "[OnSucceedEvade] Nhận 1 [AttackUp] vào lượt kế (tối đa 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

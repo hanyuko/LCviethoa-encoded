@@ -1,0 +1,59 @@
+{
+  "dataList": [
+    {
+      "id": 7104701,
+      "name": "Đạn HP",
+      "desc": "Đầu Lượt: hồi 3% HP\nKhi còn dưới 50% HP, hồi 5% additional HP"
+    },
+    {
+      "id": 7105001,
+      "name": "Overloaded HP Bullet",
+      "desc": "Đầu Lượt: Nhận 2 [AttackDmgUp] và 2 [Vulnerable]."
+    },
+    {
+      "id": 7105002,
+      "name": "HP Ampule Injection",
+      "desc": "Đầu Lượt: if this unit's HP is not at full, hồi 25% HP (tối đa 3 lần)"
+    },
+    {
+      "id": 7105101,
+      "name": "Đạn HP",
+      "desc": "Đầu Lượt: hồi 3% HP\nKhi còn dưới 50% HP, hồi 5% additional HP"
+    },
+    {
+      "id": 7105102,
+      "name": "Tango Marinade",
+      "desc": "If this unit has more HP than the target, nhận Sức Mạnh Giao Tranh +(HP difference / 50) (tối đa 3)\nIf this unit gained Clash Power from the above effect, nhận 1 [Vulnerable] after Attack End"
+    },
+    {
+      "id": 7105501,
+      "name": "Đạn HP",
+      "desc": "Đầu Lượt: hồi 3% HP\nKhi còn dưới 50% HP, hồi 5% additional HP"
+    },
+    {
+      "id": 7105502,
+      "name": "Floods of Sorrow",
+      "desc": "On Tails Hit, gây 3 [Sinking]"
+    },
+    {
+      "id": 7105503,
+      "name": "Overflowing Sorrow",
+      "desc": "Cuối Lượt: Mất 5 SP"
+    },
+    {
+      "id": 7105701,
+      "name": "Healing Ampule Injection",
+      "desc": "Đầu Lượt: Hồi 5% HP."
+    },
+    {
+      "id": 7105801,
+      "name": "Overloaded HP Bullet",
+      "desc": "Đầu Lượt: Nhận 2 [AttackDmgUp] và 2 [Vulnerable]"
+    },
+    {
+      "id": 7105802,
+      "name": "Emergency Ampule Administration",
+      "desc": "Khi HP dưới 25%, hồi up to 40% of max HP (tối đa 1 lần)"
+    }
+  ]
+}

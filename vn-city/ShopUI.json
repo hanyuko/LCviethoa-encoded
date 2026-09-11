@@ -1,0 +1,324 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_shop_charge_enkephalin_tab",
+      "content": "Sạc Enkephalin"
+    },
+    {
+      "id": "mainui_shop_buy_enkephalin_box_tab",
+      "content": "Mua Hộp Enkephalin"
+    },
+    {
+      "id": "mainui_shop_buy_enkephalin_box",
+      "content": "Đã mua Hộp Enkephalin."
+    },
+    {
+      "id": "mainui_shop_scarce_madness",
+      "content": "Không đủ Lunacy."
+    },
+    {
+      "id": "mainui_shop_ask_buy_enkephalin_box",
+      "content": "Bạn có muốn mua Hộp Enkephalin không?"
+    },
+    {
+      "id": "mainui_shop_own",
+      "content": "Đã Sở Hữu"
+    },
+    {
+      "id": "mainui_shop_enkephalin_fulled",
+      "content": "Đã đầy Enkephalin."
+    },
+    {
+      "id": "mainui_shop_ask_charge_enkephalin",
+      "content": "Bạn có muốn sạc Enkephalin không?"
+    },
+    {
+      "id": "mainui_shop_charge_enkephalin",
+      "content": "Đã Sạc Enkephalin."
+    },
+    {
+      "id": "mainui_shop_enkephalin_number",
+      "content": "Enkephalin"
+    },
+    {
+      "id": "mainui_shop_madness_tab",
+      "content": "Cửa Hàng Lunacy"
+    },
+    {
+      "id": "mainui_shop_package_tab",
+      "content": "Gói"
+    },
+    {
+      "id": "mainui_shop_only_once",
+      "content": "Ưu Đãi Lần Đầu"
+    },
+    {
+      "id": "mainui_shop_additional_give",
+      "content": "Vật Phẩm Bổ Sung"
+    },
+    {
+      "id": "mainui_shop_not_free",
+      "content": "Trả Phí"
+    },
+    {
+      "id": "mainui_shop_purchase_per_today_fulled",
+      "content": "Đã đạt giới hạn số lần mua Hộp Enkephalin trong ngày."
+    },
+    {
+      "id": "mainui_shop_purchase_success",
+      "content": "Mua thành công."
+    },
+    {
+      "id": "mainui_shop_enkephalin_box_scarce",
+      "content": "Không đủ Hộp Enkephalin."
+    },
+    {
+      "id": "mainui_shop_lunacy_scarce",
+      "content": "Không đủ Lunacy."
+    },
+    {
+      "id": "mainui_shop_limit_purchase_permanent",
+      "content": "Còn {0}"
+    },
+    {
+      "id": "mainui_shop_limit_purchase_periodic",
+      "content": "Còn bán {0}"
+    },
+    {
+      "id": "mainui_shop_acquire_at_mailbox",
+      "content": "※ Nhận qua hòm thư."
+    },
+    {
+      "id": "mainui_shop_purchase_product_success",
+      "content": "Mua Thành Công\n{0}."
+    },
+    {
+      "id": "mainui_shop_remain_days_minutes",
+      "content": "Còn {0} Ngày {1} Giờ"
+    },
+    {
+      "id": "shopui_use_enkephalin_box",
+      "content": "Dùng Hộp Enkephalin"
+    },
+    {
+      "id": "shopui_use_lunacy",
+      "content": "Dùng Lunacy"
+    },
+    {
+      "id": "shopui_no_more_purchase_chance_today",
+      "content": "Đã đạt giới hạn mua hàng ngày."
+    },
+    {
+      "id": "shopui_scarce_lunacy",
+      "content": "Không đủ Lunacy."
+    },
+    {
+      "id": "shopui_scarce_enkephalin_box",
+      "content": "Không đủ Hộp Enkephalin."
+    },
+    {
+      "id": "shopui_scarce_enkephalin",
+      "content": "Không Đủ Enkephalin."
+    },
+    {
+      "id": "shopui_make_enkephalin_module",
+      "content": "Chuyển Hóa Thành Mô-Đun Enkephalin"
+    },
+    {
+      "id": "shopui_charge_enkephalin_about",
+      "content": "Nạp lại {0} Enkephalin?"
+    },
+    {
+      "id": "shopui_recover_enkephalin_after_time",
+      "content": "{1} Enkephalin sẽ phục hồi sau {0}."
+    },
+    {
+      "id": "shopui_ask_create_enkephalin_module",
+      "content": "Bạn có muốn chuyển hóa thành Mô-Đun Enkephalin không?"
+    },
+    {
+      "id": "shopui_charge_as_lunacy",
+      "content": "Dùng Lunacy"
+    },
+    {
+      "id": "shopui_charge_as_box",
+      "content": "Dùng Hộp"
+    },
+    {
+      "id": "shopui_create_module",
+      "content": "Mô-Đun"
+    },
+    {
+      "id": "remain_days",
+      "content": "Còn {0} Ngày"
+    },
+    {
+      "id": "remain_hours",
+      "content": " {0} Giờ"
+    },
+    {
+      "id": "remain_minutes",
+      "content": " {0} Phút"
+    },
+    {
+      "id": "enkephalin_charge_finished",
+      "content": "Đã Sạc Đầy Enkephalin"
+    },
+    {
+      "id": "unable_to_charge",
+      "content": "Không Thể Sạc Enkephalin"
+    },
+    {
+      "id": "lack_of_enkephalin_box",
+      "content": "Không Đủ Hộp Enkephalin"
+    },
+    {
+      "id": "enkephalin_full",
+      "content": "Đầy Enkephalin"
+    },
+    {
+      "id": "purchase_limitation_full",
+      "content": "Đã Đạt Giới Hạn Mua"
+    },
+    {
+      "id": "lack_of_lunacy",
+      "content": "Không Đủ Lunacy"
+    },
+    {
+      "id": "create_enkephalin_module_success",
+      "content": "Đã Chuyển Hóa Thành Mô-Đun"
+    },
+    {
+      "id": "unable_to_create_enkephalin_module",
+      "content": "Không Thể Chuyển Hóa Thành Mô-Đun"
+    },
+    {
+      "id": "lack_of_enkephalin",
+      "content": "Không Đủ Enkephalin"
+    },
+    {
+      "id": "remain_days_with_number",
+      "content": "Còn {0} ngày"
+    },
+    {
+      "id": "enkephalin_module",
+      "content": "Mô-Đun Enkephalin"
+    },
+    {
+      "id": "enkephalin_box",
+      "content": "Hộp Enkephalin"
+    },
+    {
+      "id": "today_purchase_count",
+      "content": "<size=80%>Số Lần Trong Ngày</size>"
+    },
+    {
+      "id": "lack_of_lunacy_ask_to_move_shop",
+      "content": "Bạn không đủ Lunacy. Có muốn ghé qua cửa hàng không?"
+    },
+    {
+      "id": "remain_hours_with_number",
+      "content": "còn {0} giờ"
+    },
+    {
+      "id": "enkephalin_module_count_max",
+      "content": "Đã Đạt Tối Đa Mô-Đun Enkephalin"
+    },
+    {
+      "id": "enkephalin_module_count_max_desc",
+      "content": "Không thể chuyển hóa thành Mô-Đun; đã có quá nhiều Mô-Đun trong kho."
+    },
+    {
+      "id": "mainui_shop_lunacy_package_tab",
+      "content": "Gói Thứ 2"
+    },
+    {
+      "id": "mainui_shop_until_season_finished",
+      "content": "Until Season 7 Update"
+    },
+    {
+      "id": "mainui_shop_purchase",
+      "content": "Mua"
+    },
+    {
+      "id": "mainui_shop_popup_title",
+      "content": "Shop"
+    },
+    {
+      "id": "paidShop_category_SPECIAL",
+      "content": "Đặc Biệt"
+    },
+    {
+      "id": "paidShop_category_PACKAGE",
+      "content": "Gói"
+    },
+    {
+      "id": "paidShop_category_LUNACY",
+      "content": "Lunacy"
+    },
+    {
+      "id": "paidShop_category_GROWTH",
+      "content": "Phát Triển"
+    },
+    {
+      "id": "returnpolicy_info_title",
+      "content": "Chính Sách Hoàn Tiền"
+    },
+    {
+      "id": "paidShop_Tab_LIMITED",
+      "content": "Giới Hạn"
+    },
+    {
+      "id": "paidShop_Tab_WEEKLY",
+      "content": "Hàng Tuần"
+    },
+    {
+      "id": "paidShop_Tab_MONTHLY",
+      "content": "Hàng Tháng"
+    },
+    {
+      "id": "paidShop_Tab_ALWAYS",
+      "content": "Luôn Có Sẵn"
+    },
+    {
+      "id": "go_to_mail_popup",
+      "content": "Về Hòm Thư"
+    },
+    {
+      "id": "membership_remain_side_title",
+      "content": "[Thông Báo Hết Hạn Gói]"
+    },
+    {
+      "id": "membership_remain_side_desc",
+      "content": "Còn {1} ngày cho {0} của bạn."
+    },
+    {
+      "id": "returnpolicy_table_battlePassPackge",
+      "content": "Gói Vé Limbus"
+    },
+    {
+      "id": "paid_runacy_lack",
+      "content": "Không đủ Lunacy trả phí."
+    },
+    {
+      "id": "membership_remain_side_desc_oneDay",
+      "content": "{0} hết hạn ngày hôm nay."
+    },
+    {
+      "id": "restore_purchase_btn",
+      "content": "Hoàn Trả Mua Hàng"
+    },
+    {
+      "id": "restore_purchase_no_product",
+      "content": "Không có vật phẩm để hoàn trả."
+    },
+    {
+      "id": "restore_purchase_succeed",
+      "content": "Vật phẩm chưa nhận đã được hoàn trả."
+    },
+    {
+      "id": "paid_already",
+      "content": "Vật phẩm này đã được thanh toán."
+    }
+  ]
+}

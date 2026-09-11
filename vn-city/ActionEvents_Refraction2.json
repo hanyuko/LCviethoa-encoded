@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": 855601,
+      "name": "Sign of Roses",
+      "subDesc": "UNUSED TEXT",
+      "desc": "\"Các ngươi khao khát điều gì?\"\n\nVườn Hồng hỏi các Tội Nhân.\n\n\"Một bông hồng chỉ nở rộ khi các ngươi thật sự khao khát điều gì đó.\"\n\n\"Tội lỗi càng nhiều, thì sắc màu của các cánh hoa sẽ càng đậm.\n\n\"Thấy chưa? Khao khát và ước nguyện đi. Dẫu biểt rằng đó sẽ là tội lỗi. Chỉ khi đó các ngươi mới có thể nở rộ ra những bông hồng rực rỡ nhất.\"\n\n\"Các ngươi phải làm những bông hồng nở rộ, Các ngươi muốn trốn thoát khỏi khu vườn này có đúng không?\"\n\n\"Hãy để chúng ta.. hãy để ta giúp các ngươi.\"\n\n\"Hãy để chúng ta.. hãy để ta giúp các ngươi.\"\n\n\"Vậy các ngươi sẽ làm gì đây?\"",
+      "options": [
+        {
+          "message": "Từ chối.",
+          "result": [
+            "\"Ngu ngốc.\"\n\n\"Tất cả mọi người đều có ước nguyện. Chối bỏ chúng là chối bỏ chính bản thân này.\"\n\n\"Ta có thể trông thấy... hạt giống của ngươi nhiệm màu ra sao. Cấm cản chúng nở rộ thành bông là vô cùng bất công.\"\n\n\"Thật... đáng tiếc.\"\n\n\"Nếu như ngươi đã không có ước nguyện lẫn khát khao, thì hãy mãi mắc kẹt lại nơi đây.\"\n\n\"Đến khi nào nhận ra rằng nếu muốn tiếp tục tiến bước thì chỉ có cách chấp nhận thôi.\"\n\n\"Hãy hòa nhập với chúng ta. Hòa làm một với ta.\""
+          ]
+        },
+        {
+          "message": "Chấp nhận.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

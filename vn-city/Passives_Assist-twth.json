@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 40003701,
+      "name": "Thermal Weapon",
+      "desc": "Begins Encounter with [HeatingWireOffSpider]\n\nĐầu Lượt: Ở mốc 2+ [ReinforcedTattooSpiderDaughterTwo], nhận [HeatingWireOnSpiderTwo] and also inflict [Combustion] with Skills that inflict [Laceration]"
+    },
+    {
+      "id": 40003702,
+      "name": "<s>The Middle</s>",
+      "desc": "If this unit hit with more than 2 Skills, nhận 1 [ReinforcedTattooSpiderDaughterTwo] for every excess Skill that hit"
+    },
+    {
+      "id": 40003703,
+      "name": "Resentment",
+      "desc": "When hit by a Skill, nhận 2 [ResentmentSpiderDaughterTwo] (một lần mỗi Kỹ Năng)\n\nWhen an ally is hit, nhận 1 [ResentmentSpiderDaughterTwo] (một lần mỗi Kỹ Năng)\n\nAt max [ResentmentSpiderDaughterTwo] Stack, use a powerful attack\n\nCuối Lượt: Khi còn dưới 80% / 60% / 40% HP, max out this unit's [ResentmentSpiderDaughterTwo] Stack"
+    }
+  ]
+}

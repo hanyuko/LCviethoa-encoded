@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": 1081401,
+      "title": "Daily Life",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ là người đi kiếm một cái gối nệm?",
+      "successDesc": [
+        "{0} quay lại với thứ gì đó trên tay.\n\nLà một cái gối bông.\n\n\"Thay vì tự mình đỡ họ thì hãy đảm bảo người ấy ngã lên cái gối này đi...\"\n\nCác Tội Nhân khác tức tốc di chuyển và loại bỏ hết các món đồ gây nguy hiểm khỏi chỗ chỉ định.\n\nRồi {0} đặt cái gối bông ngay vị trí mà người kia ngã xuống để giảm tải lực lại.\n\n... Và cứ thế, cái người đang rơi ấy chầm chậm đáp xuống cái gối bông trông rất là thư thái."
+      ],
+      "failureDesc": [
+        "{0} quay lại với thứ gì đó trên tay.\n\nLà một cái gối bông.\n\nNhưng mà...\n\n\"Ê đéo gì đây? Cái này nhỏ thế cứu mẹ gì!\"\n\nNó còn chẳng đủ để bao quát cả một thân người nữa.\n\n\"Có cái để giảm lực ngã còn đỡ hơn là chẳng có gì!\"\n\nNói là vậy nhưng chúng tôi cũng không còn nhiều thời gian mà tìm phương án khác. Các Tội Nhân quyết định lập thành vòng tròn rồi dùng thân mình đỡ người đang rơi xuống.\n\n... Và, người ấy dần đáp xuống.\n\nTất cả đều chịu một lực không biết phải diễn tả như nào, và chiếc gối nhỏ kia cũng phần nào bảo vệ được tấm lưng của người đó...\n\n... nhưng một khi đã xong chuyện, hầu hết Tội Nhân đều ngã nhào xuống vì gãy tay hoặc chấn thương xương sống."
+      ]
+    },
+    {
+      "id": 1081501,
+      "title": "T Corp. Collector",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ đi lấy giấy thông hành?",
+      "successDesc": [
+        "\"Cấp giấy thông hành ở đây ạ.\"\n\nQua hướng dẫn của nhân viên, {0} lặng lẽ điền thông tin vào giấy cấp phép.\n\n\"Vui lòng hãy điền vào ô trống, và ở đây nữa ạ.\"\n\n{0} hoàn thành công việc một cách nhanh chóng.\n\n\"Xin hãy điền rõ mục đích đến thăm, chi phí thì nằm ở mục này ạ.\"\n\n\"Ờm...\"\n\n{0} nhìn về phía chúng tôi với vẻ mặt hoang mang.\n\n\"À tôi vừa nhớ ra, người thắng Xổ Số Thời Gian đợt này có tiêu tiền thưởng để trả lộ phí cho dân. Người ta hào phóng thật ấy nhỉ.\"\n\n\"Giờ cứ đeo cái huy hiệu này này. Đừng quên trả lại cho tôi khi xong việc nhe.\"\n\nThế là chúng tôi được cấp giấy phép mà không tốn Ahn nào."
+      ],
+      "failureDesc": [
+        "Chúng tôi đi lấy giấy phép nhưng cửa văn phòng đã đóng lại.\n\n\"Thời gian thì quý hơn đồng Ahn. Lần sau vui lòng quý khách đến đúng giờ.\"\n\nChỉ có dòng chữ nguệch ngoạch viết trên tấm bảng chào đón chúng tôi ở quầy tiếp tân."
+      ]
+    },
+    {
+      "id": 1081601,
+      "title": "Yurodiviye",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ đọc địa chỉ gặp mặt?",
+      "successDesc": [
+        "Chúng tôi trốn vào một góc còn {0} làm theo chỉ dẫn trên tấm áp phích và thành công đến được địa điểm tụ tập.\n\nÍt lâu sau, {0} trao đổi chóng vánh với một kẻ lạ mặt rồi quay lại chỗ chúng tôi cùng với thứ trông như linh kiện cơ khí."
+      ],
+      "failureDesc": [
+        "Chúng tôi trốn vào một góc còn {0} làm theo chỉ dẫn trên tấm áp phích và thành công đến được địa điểm tụ tập.\n\nNhưng..\n\n... không có một ai đến gặp {0} hết.\n\nCùng lúc đó, từ sau lưng xuất hiện đám người trùm khăn choàng.\n\n\"Ta tưởng đã ghi rõ rằng bất kỳ ai có tiềm năng hoặc nuôi hy vọng đến đây một mình rồi mà... vậy đám các ngươi là ai, lũ chó săn của Tập Đoàn T à?\"\n\n... Xem bộ không tránh được cảnh đánh nhau rồi."
+      ]
+    },
+    {
+      "id": 1081701,
+      "title": "Yurodiviye",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Ai sẽ giả vờ gia nhập cùng bọn chúng?",
+      "successDesc": [
+        "{0} gật đầu ra hiệu với tôi trước khi tiến lên phía trước.\n\n\"Quyết định rất sáng suốt! Hãy để chúng ta loại bỏ não cậu để gia nhập vào hàng ngũ nào.\"\n\n\"Tuy bây giờ không có dư dả thời gian, nhưng hãy lấy cái này rồi—\"\n\n{0} chộp lấy thứ trên tay bọn chúng rồi chạy lẹ về phía chúng tôi.\n\n\"... Hả?\"\n\n\"C-cậu phải để chúng ta nói hết đã! Cậu...\"\n\n\"Chúng mày bị ngu hết rồi à?! Mẹ kiếp, bị lừa phỉnh rồi!\"\n\nChúng tôi tiếp tục hành trình và mặc kệ những âm thanh vang vọng sau lưng."
+      ],
+      "failureDesc": [
+        "{0} gật đầu ra hiệu với tôi trước khi tiến lên phía trước.\n\nMột giọng nói khác cất tiếng.\n\n\"Chờ đã, sao chúng ta tin tên này được?\"\n\n\"Bỏ qua đi! Không thể tùy tiện để bất kỳ kẻ nào muốn gia nhập được...\"\n\n\"Tui xin lỗi nhé; hãy quên mọi chuyện đi nha. Có lẽ đã hơi hấp tấp khi đưa ra đề nghị này mà không hề thảo luận đàng hoàng với tập thể.\"\n\n{0} tiếp tục cự cãi, nhưng...\n\n\"Nếu ngươi không muốn quên... vậy thì chúng ta sẽ phải tước đi thời gian của ngươi.\"\n\nBọn chúng khá kiên quyết muốn tránh xa chúng tôi và mau chóng bỏ đi."
+      ]
+    }
+  ]
+}

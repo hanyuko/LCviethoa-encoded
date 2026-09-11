@@ -1,0 +1,631 @@
+{
+  "dataList": [
+    {
+      "id": 800101,
+      "name": "Ánh Tàn Của Quả Táo",
+      "desc": "Khi Quả Táo bị phá hủy, tất cả các bộ phận đều nhận 2 [Vulnerable].\nQuả Táo sẽ được tái tạo sau 1 lượt.",
+      "summary": "Khi Quả Táo bị phá hủy, tất cả các bộ phận đều nhận 2 [Vulnerable]"
+    },
+    {
+      "id": 800102,
+      "name": "NOT FOR DISPLAY1",
+      "desc": "After the head regenerates once, bringing the head’s HP to 50% initiates a choice prompt."
+    },
+    {
+      "id": 800103,
+      "name": "NOT FOR DISPLAY2",
+      "desc": "At the start of Turn 3, a choice prompt where you can remove the Green Stem effect is initiated."
+    },
+    {
+      "id": 800104,
+      "name": "Rễ Quấn Siết",
+      "desc": "Khi bắt đầu lượt, gây 1 [Binding] lên mọi kẻ địch.\nHiệu ứng này tồn tại đến khi Rễ bị phá hủy..",
+      "summary": "Gây 1 Bind lên tất cả kẻ địch khi rễ bị phá hủy"
+    },
+    {
+      "id": 800105,
+      "name": "Rễ Độc Nhất",
+      "desc": "Rễ nhận 2 [Enhancement] cho mỗi Cánh Tay chưa bị phá."
+    },
+    {
+      "id": 800201,
+      "name": "Lễ Hội Huyết Khai",
+      "desc": "Chuyển sang giai đoạn tiếp theo sau khi tất cả Búp Bê Đất bị tiêu diệt."
+    },
+    {
+      "id": 800202,
+      "name": "DON'T LET THE KIDS READ THIS",
+      "desc": "At the start of turn 2 in phase 2, choice prompt 1 is initiated."
+    },
+    {
+      "id": 800203,
+      "name": "Lễ Hội Hỏa Khai",
+      "desc": "Nếu cả hai Cánh Tay bị phá hủy hoặc máu thân chính còn 70%, trận chiến chuyển sang giai đoạn tiếp theo."
+    },
+    {
+      "id": 800204,
+      "name": "Cuồng Loạn",
+      "desc": "Khi Vào Giai Đoạn 3\nĐầu lượt, gây 3 [Combustion] lên toàn bộ kẻ địch."
+    },
+    {
+      "id": 800205,
+      "name": "NOT FOR DISPLAY",
+      "desc": "When HP is brought to 60%, choice prompt 2 is initiated."
+    },
+    {
+      "id": 800206,
+      "name": "Lễ Hội Tinh Khai",
+      "desc": "Khi HP còn 25%, trận chiến chuyển sang giai đoạn tiếp theo."
+    },
+    {
+      "id": 800207,
+      "name": "NOT FOR DISPLAY",
+      "desc": "At the start of turn 2 in phase 4, choice prompt 3 is initiated."
+    },
+    {
+      "id": 800301,
+      "name": "Vật Tế Thần",
+      "desc": "Không chết khi HP về 0; thay vào đó vẫn hiện diện trên sân dưới dạng bất động và không thể bị chọn làm mục tiêu.\nBị áp chế khi Lịch Tận Thế bị áp chế"
+    },
+    {
+      "id": 800801,
+      "name": "Vàng Nứt",
+      "desc": "Hồi HP mỗi lượt dựa theo số [BeingGolden]"
+    },
+    {
+      "id": 800901,
+      "name": "",
+      "desc": ""
+    },
+    {
+      "id": 800902,
+      "name": "Lõi Dễ Vỡ",
+      "desc": "Khi phần Đầu bị phá hủy, tất cả bộ phận bị Bất Động vào lượt kế.\nPhần Đầu được phục hồi sau 1 lượt."
+    },
+    {
+      "id": 800903,
+      "name": "Táo Thối",
+      "desc": "Sau khi phần Thân bị phá hủy, tất cả bộ phận nhận 2 [Reduction] mỗi lượt."
+    },
+    {
+      "id": 800904,
+      "name": "NOT FOR DISPLAY",
+      "desc": "NOT FOR DISPLAY"
+    },
+    {
+      "id": 801001,
+      "name": "Trong Quá Trình Nâng Cấp Nhà Máy",
+      "desc": "Khi chủ thể bị đánh bại, nó hồi sinh vào lượt kế và nhận 1 [Operation]."
+    },
+    {
+      "id": 801002,
+      "name": "Ngươi Phải Trở Nên Mạnh Mẽ Hơn",
+      "desc": "Vào đầu lượt, nhận 1 [Protection]."
+    },
+    {
+      "id": 801201,
+      "name": "Ngươi Phải Trở Nên Mạnh Mẽ Hơn",
+      "desc": "Vào đầu lượt, nhận 2 [Protection]."
+    },
+    {
+      "id": 801301,
+      "name": "Khát Vọng Lung Lay",
+      "desc": "Khi đang trong trạng thái Khao Khát, chủ thể nhận 2 [Vulnerable] và 10 [Binding],đồng thời mở thêm 1 ô kỹ năng và thay đổi hành vi."
+    },
+    {
+      "id": 801302,
+      "name": "Khát Vọng Trói Buộc",
+      "desc": "Chủ thể tiến vào trạng thái Khao Khát mỗi khi mất 30% HP."
+    },
+    {
+      "id": 801904,
+      "name": "Kinh Hoàng Rùng Mình",
+      "desc": "Nhận 1 [Protection] với mỗi đồng minh đã chết trong đợt này (Tối đa 5)"
+    },
+    {
+      "id": 802401,
+      "name": "Cánh Tay Co Giật",
+      "desc": "Đầu lượt, nhận [Enhancement] và [Protection] theo số Tầng [Aggressive] "
+    },
+    {
+      "id": 802402,
+      "name": "Cánh Tay Hư Hại",
+      "desc": "Mất 1 [Aggressive] mỗi khi chủ thể nhận sát thương từ các đòn tấn công"
+    },
+    {
+      "id": 802403,
+      "name": "Lớp Vỏ Tái Tạo",
+      "desc": "Cuối lượt, nếu chủ thể không nhận sát thương từ các đòn tấn công, hồi 5% HP và nhận 1 [Aggressive]."
+    },
+    {
+      "id": 802404,
+      "name": "Ánh Nhìn Điên Cuồng",
+      "desc": "Thay đổi hành vi dựa theo số Tầng [Aggressive]\nTrở nên hung hãn hơn khi có 4+ Tầng [Aggressive], và bắt đầu phòng thủ hơn khi chỉ có 3 Tầng trở xuống"
+    },
+    {
+      "id": 802501,
+      "name": "Khuếch Đại Cuồng Nộ",
+      "desc": "Khi bị 1 đòn tấn công đánh trúng, nhận 1 [Aggressive]\nNếu chủ thể có 4+ [Aggressive] vào cuối lượt, chuyển sang trạng thái [Enrage]."
+    },
+    {
+      "id": 802502,
+      "name": "Cuồng Loạn",
+      "desc": "Khi vào trạng thái [Enrage], chủ thể nhận 3 [Enhancement] và 3 [Vulnerable], thay đổi hành vi và không nhận thêm [Aggressive] khi bị đánh trúng."
+    },
+    {
+      "id": 802503,
+      "name": "Hào Quang Phẫn Nộ",
+      "desc": "Khi HP ở dưới 50%, vào trạng thái [Enrage] mỗi lượt."
+    },
+    {
+      "id": 802701,
+      "name": "Khuếch Đại Cuồng Nộ",
+      "desc": "Khi bị 1 đòn tấn công đánh trúng, nhận 1 [Aggressive]\nNếu chủ thể có 4+ [Aggressive] vào cuối lượt, chuyển sang trạng thái [Enrage]."
+    },
+    {
+      "id": 802702,
+      "name": "Cuồng Nộ",
+      "desc": "Khi vào trạng thái [Enrage], chủ thể nhận 3 [Enhancement] và 3 [Vulnerable], thay đổi hành vi và không nhận thêm [Aggressive] khi bị đánh trúng."
+    },
+    {
+      "id": 802801,
+      "name": "Da Thịt Thối Rữa",
+      "desc": "Đầu lượt; khi HP đang thấp hơn 50%, gây 3 [Poison] khi bị đánh trúng"
+    },
+    {
+      "id": 802802,
+      "name": "Lột Da",
+      "desc": "Sau khi bộ phận này bị phá, nếu cánh tay còn lại vẫn chưa bị phá vào lượt tiếp theo, bộ phận này tái tạo với lượng HP bằng với nó."
+    },
+    {
+      "id": 802803,
+      "name": "Quằn Quại Đau Đớn",
+      "desc": "Khi cả hai cánh tay bị phá, chủ thể nhận 5 [Vulnerable] và gây 10 [Poison] lên mọi kẻ địch mỗi lượt"
+    },
+    {
+      "id": 802804,
+      "name": "Bản Năng Quằn Quại",
+      "desc": "Thay đổi hành vi dựa theo số Tầng [Aggressive]\nTrở nên hung hãn hơn khi có 4+ Tầng [Aggressive], và bắt đầu phòng thủ hơn khi không còn Tầng nào"
+    },
+    {
+      "id": 803302,
+      "name": "Cánh Tay Đứt Lìa",
+      "desc": "Khi phần tay bị phá, chủ thể nhận 5 [Vulnerable] mỗi lượt"
+    },
+    {
+      "id": 802901,
+      "name": "Tiếng Huýt Sáo Kinh Hoàng",
+      "desc": "Nếu bạn chỉ có ít hơn 3 [LittleCourage], Sinclair nhận 1 [Paralysis] và [Binding] mỗi lượt"
+    },
+    {
+      "id": 802902,
+      "name": "Sự Can Đảm Để Vượt Qua Nỗi Sợ",
+      "desc": "Nếu bạn đã thu thập đủ 3 [LittleCourage], Sinclair nhận 1 [Enhancement] và 1 [Protection] mỗi lượt"
+    },
+    {
+      "id": 802903,
+      "name": "Ngươi Phải Chấp Nhận Nỗi Đau!",
+      "desc": "Đầu lượt, nếu 1 bộ phận chưa bị phá có [Combustion] hoặc [Laceration], hồi 15% HP tối đa và nhận 3 [Enhancement]\nLượng máu hồi và hiệu ứng nhận sẽ giảm dựa theo số [LittleCourage] mà bạn đã thu thập được, tối đa 0."
+    },
+    {
+      "id": 802904,
+      "name": "Khoái Lạc Hành Quyết",
+      "desc": "Khi giết một kẻ địch, nhận 2 [Agility] và 5 [AttackDmgUp] vào lượt kế"
+    },
+    {
+      "id": 803001,
+      "name": "Khoái Cảm Dâng Trào",
+      "desc": "Từ lượt thứ 3 trở đi, trở nên [Cromer_Ecstasy] mỗi 2 lượt"
+    },
+    {
+      "id": 803002,
+      "name": "Tinh Khiết Nở Rộ",
+      "desc": "Nếu phần Thân chính của Kromer xuống 50% HP, nhận 1 Tinh Khiết cho đến hết trận."
+    },
+    {
+      "id": 803003,
+      "name": "Xác Thịt Hoàn Hảo",
+      "desc": "Khi Cánh Tay bị phá, bộ phận này nhận 2 [Reduction]"
+    },
+    {
+      "id": 803101,
+      "name": "Túi Máu",
+      "desc": "Tăng Kháng Phẫn Nộ.\nGiảm Kháng Thờ Ơ."
+    },
+    {
+      "id": 803102,
+      "name": "Túi Dịch",
+      "desc": "Khi [WaterPocket] còn hiệu lực, phần Thân hồi (20 * Tầng [WaterPocket]) HP."
+    },
+    {
+      "id": 803103,
+      "name": "Sôi Máu",
+      "desc": "Nếu phần thân bị phá hủy khi [BloodPocket] còn hiệu lực, tất cả kẻ địch nhận 20 sát thương."
+    },
+    {
+      "id": 803201,
+      "name": "Cột Thu Lôi",
+      "desc": "Khi Cột Thu Lôi bị đánh trúng, gây 2 Sốc Điện lên kẻ tấn công trong lượt này.\nỞ mốc 5+ [DogThunder], tất cả Bộ Phận sẽ gây 3 Sốc Điện lên kẻ tấn công, bắt đầu vào lượt kế.\n(Kéo dài tới khi Tia Chớp về 0)\nKhi bị đánh bởi một đòn đánh Lười Biếng, lượng Sốc Điện nhận phải sẽ giảm nửa (Làm tròn xuống)"
+    },
+    {
+      "id": 803202,
+      "name": "Tia Chớp",
+      "desc": "Khi bộ phận Cột Thu Lôi chưa bị phá hủy, nhận 1 [DogThunder] sau mỗi đòn đánh.\nMỗi khi cột thu lôi bị tấn công, mất 1 [DogThunder]."
+    },
+    {
+      "id": 803203,
+      "name": "Mảnh Vỡ",
+      "desc": "Khi cột thu lôi bị choáng hoặc phá hủy, mất tất cả [DogThunder].\nTất cả đòn đánh của Chó Canh Hẻm bị hủy trong lượt đó"
+    },
+    {
+      "id": 803401,
+      "name": "Bé Gà Bongy Lả Lướt",
+      "desc": "Vào cuối lượt, gây 3 sát thương SP lên kẻ địch ngẫu nhiên."
+    },
+    {
+      "id": 803701,
+      "name": "Bé Gà Bongy Chắc Thịt",
+      "desc": "Vào cuối lượt, gán 2 [AttackDmgUp] và 2 [Protection] lên tất cả đồng minh vào lượt kế."
+    },
+    {
+      "id": 803901,
+      "name": "Gia Cầm Mạnh mẽ",
+      "desc": "Vào cuối lượt, hồi 5 HP với mỗi Gà Sống đang trong trận."
+    },
+    {
+      "id": 803902,
+      "name": "Gà Ảm Đạm",
+      "desc": "Vào cuối lượt, gây 5 sát thương SP lên tất cả kẻ địch với mỗi Gà Sống đang trong trận."
+    },
+    {
+      "id": 803903,
+      "name": "Gia Cầm Yếu Ớt",
+      "desc": "Khi một bộ phận bị phá hủy, nhận 1 [Vulnerable] mỗi lượt với mỗi Gà Sống đã chết trước khi bộ phận đó bị phá hủy"
+    },
+    {
+      "id": 803904,
+      "name": "Gà Tơ Mạnh Mẽ",
+      "desc": "Nếu bộ phận này chưa bị phá hủy, nhận 1 [AttackDmgUp] với mỗi Gà Sống còn sống."
+    },
+    {
+      "id": 804101,
+      "name": "Sầu Muộn Tăng Trường",
+      "desc": "Cuối lượt, nếu đơn vị này có 3+ Sầu Muộn Vô Giải, tạo ra thêm 1 phần Đầu, thay đổi hành vi."
+    },
+    {
+      "id": 804102,
+      "name": "Sầu Muộn Không Thể Xoa Dịu",
+      "desc": "Cuối lượt, nếu đơn vị này có 3+ Sầu Muộn Vô Giải, và phần Đầu bị phá, vào trạng thái Choáng ở lượt kế"
+    },
+    {
+      "id": 804103,
+      "name": "Cặp Sừng Chiếm Hữu",
+      "desc": "Khi phần Đầu bị Choáng, tất cả các bộ phận rơi vào trạng thái Choáng ở lượt kế"
+    },
+    {
+      "id": 804104,
+      "name": "Nhấn Chìm Dưới Cặp Sừng",
+      "desc": "Sau khi phần Đầu bị phá, rơi vào trạng thái Choáng. Sau đó, nhận 3 [Reduction] cho phần còn lại của màn giao đấu"
+    },
+    {
+      "id": 804501,
+      "name": "Dây Thần Kinh Sống",
+      "desc": "Khi bị tiêu diệt, hủy toàn bộ Kỹ Năng trong lượt này.\nGấp đôi Tầng [SelfCharge] đang có trên chủ thể"
+    },
+    {
+      "id": 804502,
+      "name": "Dây Thần Kinh Chuyển Động",
+      "desc": "Sau khi chết, các đòn đánh tiêu 1 [SelfCharge].\nTấn công kẻ địch tới khi hết[SelfCharge]."
+    },
+    {
+      "id": 804503,
+      "name": "Bất Diệt Chi Tâm",
+      "desc": "Mỗi 5 lượt, nhận khiên bằng với HP hiện tại của phần đầu"
+    },
+    {
+      "id": 804504,
+      "name": "Tuyệt Diệt Chi Tâm",
+      "desc": "Sau khi sử dụng 'Cuộn Tròn', nếu toàn bộ khiên bị phá, tiêu toàn bộ [SelfCharge]\nToàn bộ bộ phận rơi vào trạng thái Choáng ở lượt kế"
+    },
+    {
+      "id": 804601,
+      "name": "Tàn Tán",
+      "desc": "Khi phần lưng bị phá, nhận 3 [Vulnerable] mỗi lượt. Gây +2 [Burst bằng kỹ năng"
+    },
+    {
+      "id": 804602,
+      "name": "Rách Tán",
+      "desc": "Nếu phần đầu ô bị phá, nhận 3 [AttackDown] mỗi lượt. Gây +2 [Sinking] bằng kỹ năng"
+    },
+    {
+      "id": 804603,
+      "name": "Nỗ Lực Cuối Cùng",
+      "desc": "Ở mức 15% HP, Tốc Độ cố định ở 1 và nhận 1 [Reduction]\nÔ Cũ được triệu hồi sau khi nội tại này được kích hoạt sẽ nhận thêm 30% HP tối đa. Dùng 'Tiếng Khóc Tìm Kiếm Gì Đó' mỗi lượt."
+    },
+    {
+      "id": 804701,
+      "name": "Mồi Lửa Lan Rộng",
+      "desc": "Cuối lượt, nếu đơn vị này có [Combustion], gây Lượng [Combustion] đấy lên tất cả mục tiêu có [WrappedCurseTag] vào lượt kế"
+    },
+    {
+      "id": 804702,
+      "name": "Phương Thức Vỡ Vụn",
+      "desc": "Khi phần tay bị phá, -20% sát thương gây ra"
+    },
+    {
+      "id": 804801,
+      "name": "Rượu vào là nấc!",
+      "desc": "Sau khi dùng đòn 'Ta Sẽ Lấy Cái Này!' lên 1 mục tiêu có 5+ [Tipsiness], rơi vào trạng thái Choáng"
+    },
+    {
+      "id": 804802,
+      "name": "Mùi kích thích lắm đúng không?",
+      "desc": "Mùi hương bí ẩn khơi dậy tinh thần\n1 Tội Nhân ngẫu nhiên nhận 5 [Excalted] ở đầu trận"
+    },
+    {
+      "id": 805201,
+      "name": "Cũ Kĩ và Bị Bỏ Xó",
+      "desc": "Tội Nhân tiêu diệt đơn vị này sẽ nhận 2 [Agility] ở lượt kế.\nToàn bộ bộ phận của Cáo Lang Thang nhận 2 [Binding] và [ShardOfUmbrella]."
+    },
+    {
+      "id": 804301,
+      "name": "Tác Ác Tâm Trí",
+      "desc": "Cuối mỗi lượt, mất 10 SP."
+    },
+    {
+      "id": 804302,
+      "name": "Bao Tàng Họa Tâm",
+      "desc": "Khi đang trong trạng thái Sụt Giảm Tinh Thần, nhận 2 [Enhancement] và 3 [Binding]"
+    },
+    {
+      "id": 804303,
+      "name": "Du Đãng Chi Tâm",
+      "desc": "Nếu Hoảng Loạn, nhân vật này Bị Choáng."
+    },
+    {
+      "id": 804304,
+      "name": "Quyết Tâm",
+      "desc": "Khi hồi phục khỏi Hoảng Loạn, nhận 2 [Enhancement] và 2 [Agility]"
+    },
+    {
+      "id": 804305,
+      "name": "Lobotomy E.G.O",
+      "desc": "Nhận 1200 Khiên HP khi bắt đầu trận."
+    },
+    {
+      "id": 805301,
+      "name": "Vi Thành Chi Tâm",
+      "desc": "Khi bị phá, Dongbaek nhận +5 Tầng [Sinking], toàn bộ Tội Nhân mất 2 Tầng [Sinking]; toàn bộ Tội Nhân nhận 2 [Enhancement] và 1 [Protection] vào lượt kế"
+    },
+    {
+      "id": 804401,
+      "name": "Bắt Đầu Nở Rộ",
+      "desc": "Khi bắt đầu Lượt 5, Triệu hồi 4 Hoa Sắp Nở với hiệu ứng [DongbaekGrow]"
+    },
+    {
+      "id": 804402,
+      "name": "Tâm Hoa Nở",
+      "desc": "Chuyển sang Giai đoạn tiếp theo khi HP chạm mức 50%. Hp không thể tụt dưới 50% khi hiệu ứng này được kích hoạt."
+    },
+    {
+      "id": 804403,
+      "name": "Song Đấu",
+      "desc": "Khi HP dưới 50%, sử dụng 1 kỹ năng đặc biệt lên 1 mục tiêu, và sẽ không thể bị Choáng hay Hoảng Loạn trong 2 lượt kế tiếp.\nNếu Yi Sang là người nhận hiệu ứng [Dueling], Dongbaek nhận 1 [Enhancement].\nNếu Yi Sang thắng Song Đấu, toàn bộ đồng minh nhận 3 [AttackDmgUp] vào lượt kế\nNếu Dongbaek thắng Song Đấu, Dongbaek hồi toàn bộ SP vào lượt kế"
+    },
+    {
+      "id": 804404,
+      "name": "Trán Phóng Đại Giới",
+      "desc": "Nếu kỹ năng 'Vĩ Lệ Cốc Phong' thua giao tranh, mất 10 SP"
+    },
+    {
+      "id": 805401,
+      "name": "Cành Hoa Đâm Chồi",
+      "desc": "Khi được triệu hồi, nhận 1 [DongbaekGrow]"
+    },
+    {
+      "id": 804901,
+      "name": "나오면 안되는 텍스트 (번역 x)",
+      "desc": "나오면 안되는 텍스트 (번역 x)"
+    },
+    {
+      "id": 804902,
+      "name": "나오면 안되는 텍스트 (번역 x)",
+      "desc": "나오면 안되는 텍스트 (번역 x)"
+    },
+    {
+      "id": 804903,
+      "name": "Tự Hủy Hoại",
+      "desc": "Tất cả kỹ năng đều chọn mục tiêu ngẫu nhiên. Khi dùng kỹ năng, mất 2% HP tối đa"
+    },
+    {
+      "id": 804904,
+      "name": "Tự Cứu Rỗi",
+      "desc": "Tăng gấp đôi lượng HP hồi phục"
+    },
+    {
+      "id": 805601,
+      "name": "Hư Vinh Chói Lòa",
+      "desc": "Khi đơn vị này còn tồn tại trên sân, Dongrang nhận 1 [Protection] và 1 [Enhancement]"
+    },
+    {
+      "id": 805602,
+      "name": "Thành Quả Chân Thật",
+      "desc": "Khi đơn vị này có [DistortedDongrangEarnestAchievement], nhận các hiệu ứng sau:\n- Chỉ có thể bị tiêu diệt bằng các đòn tấn công của Dongrang\n- Khi một Tội Nhân đưa HP của đơn vị này về 1, Tội Nhân đấy hồi HP, đơn vị này nhận [DistortedDongrangEmptyHonor]\n- - Nếu Dongrang tiêu diệt đơn vị này, Dongrang hồi HP và tăng sức mạnh vào lượt kế"
+    },
+    {
+      "id": 805603,
+      "name": "Hư Huyễn Vinh Dự",
+      "desc": "Khi đang có [DistortedDongrangEmptyHonor], nhận các hiệu ứng sau:\n- Chỉ có thể bị tiêu diệt bằng các đòn tấn công của Dongrang\n- Nếu Dongrang tiêu diệt đơn vị này, Dongrang mất HP, nhận 1 [DistortedDongrangEmptiness] và bị suy yếu vào lượt kế."
+    },
+    {
+      "id": 805701,
+      "name": "Mãn Nguyện Chịu Đựng",
+      "desc": "Đơn vị tiêu diệt đơn vị này hồi 5% HP tối đa, nhận 1 [Enhancement] và 1 [Agility] vào lượt kế"
+    },
+    {
+      "id": 805001,
+      "name": "Hướng Đến Lý Tưởng",
+      "desc": "Khi HP xuống 85% và 50%, lần lượt triệu hồi 2 Cây Khao Khát và thay đổi hành vi"
+    },
+    {
+      "id": 806001,
+      "name": "Khát Vọng Chói Lòa",
+      "desc": "Khi đơn vị này còn tồn tại trên sân, Dongrang nhận và 1 [AttackDmgUp] và 1 [Protection]"
+    },
+    {
+      "id": 805004,
+      "name": "Cái Giả Của Sự Thờ Ơ",
+      "desc": "Nếu 'Thời Khắc Thu Hoạch' thua giao tranh, mất 5 SP"
+    },
+    {
+      "id": 805005,
+      "name": "Nụ Cười Cay Đắng",
+      "desc": "Khi Hoảng Loạn, nhận 2 [Protection], SP được đưa về 0 ở đầu lượt kế"
+    },
+    {
+      "id": 805006,
+      "name": "Phán Quyết Vô Dụng",
+      "desc": "Sau khi hồi phục khỏi choáng, nhận 1 [Enhancement]."
+    },
+    {
+      "id": 805007,
+      "name": "Nỗ Lực Cạn Kiệt",
+      "desc": "Sau khi sử dụng 'Hãy Trở Thành Dưỡng Chất Của Ta' lần thứ 3, rơi vào trạng thái Choáng ở lượt kế"
+    },
+    {
+      "id": 805002,
+      "name": "Hướng Đến Lý Tưởng",
+      "desc": "Khi HP xuống 85% và 50%, lần lượt triệu hồi 2 Cây Khao Khát và thay đổi hành vi"
+    },
+    {
+      "id": 805003,
+      "name": "Hướng Đến Lý Tưởng",
+      "desc": "Khi HP xuống 50%, lần lượt triệu hồi 2 Cây Khao Khát và thay đổi hành vi"
+    },
+    {
+      "id": 805801,
+      "name": "Mồi Tiên",
+      "desc": "Khi tiên bị tấn công, chỉ bộ phận đó bị mất HP"
+    },
+    {
+      "id": 805802,
+      "name": "Lộ Diện Chân Thể",
+      "desc": "Khi bộ phận tiên bị phát hủy, phần rễ có thể bị tấn công trong lượt sau.\nTất cả bộ phận nhận 1 [Enhancement], 2 [Binding], và 3 [Vulnerable] vào lượt kế."
+    },
+    {
+      "id": 805803,
+      "name": "Mồi Dự Phòng",
+      "desc": "Tiên hồi phục vào lượt tiếp theo sau khi phần rễ bị lộ diện (Một lần duy nhất)\nSau khi phần rễ bị lộ diện 3 lần hoặc bị phát hủy, vào trạng thái cường hóa."
+    },
+    {
+      "id": 805804,
+      "name": "Tìm Ra Điểm Yếu",
+      "desc": "Nếu tiên có [Vibration], nó nhận sát thương bằng Lượng đó vào cuối lượt. (tối đa 20)"
+    },
+    {
+      "id": 805805,
+      "name": "Kết Nối Yếu Điểm",
+      "desc": "Nếu bộ phận này có [Combustion], nó nhận thêm sát thương dựa trên Lượng đó. (tối đa +15%)"
+    },
+    {
+      "id": 805901,
+      "name": "Nghỉ Ngơi Dưới Tán",
+      "desc": "Nếu cỏ 3 lá không lồ hiện hữu, chủ thể hồi 30 HP vào cuối lượt."
+    },
+    {
+      "id": 805902,
+      "name": "Mất Đi Ý Nghĩa",
+      "desc": "Khi Cánh Tay bị phá hủy, chủ thể nhận 2 [Reduction] mỗi lượt."
+    },
+    {
+      "id": 805903,
+      "name": "Tán Cây Bị Hư",
+      "desc": "Khi phần Tay Trái bị phá hủy, nhận 4 [DefenseDown] mỗi lượt."
+    },
+    {
+      "id": 806201,
+      "name": "Lá Cây Ô Nhiễm",
+      "desc": "Vào đầu lượt, áp 1 [TakeHpHealIncrease] và 1 [Enhancement] lên Tiên Chân Dài."
+    },
+    {
+      "id": 80620101,
+      "name": "Lá Cây Ô Nhiễm",
+      "desc": "Vào đầu lượt, áp 1 [TakeHpHealIncrease] và 1 [Enhancement] lên Tiên Chân Dài."
+    },
+    {
+      "id": 826301,
+      "name": "Momentary Satiation",
+      "desc": "Cuối Lượt: If the ally with [PreparedMeat] is at 1 HP, kill the ally; then, all Parts nhận 5 [Vulnerable], [Reduction], and [Disarming]."
+    },
+    {
+      "id": 826302,
+      "name": "Ravening Hunger",
+      "desc": "Đầu Lượt: If there are surviving allies at 25%- HP, kill all allies.\nHeal (# of allies killed x 5)% of max Core HP.\nTurn End: If there are no surviving allies, nhận 20 [Enhancement] vào lượt kế."
+    },
+    {
+      "id": 826303,
+      "name": "Torn Arm",
+      "desc": "When an Arm is broken, the Body nhận 5 [Laceration] at every Turn Start."
+    },
+    {
+      "id": 826304,
+      "name": "Invitation to a Meal",
+      "desc": "Cuối Lượt: Toàn bộ Tội Nhân hồi 10 SP, and nhận +1 E.G.O resource for all Affinities"
+    },
+    {
+      "id": 826501,
+      "name": "Empty Belly",
+      "desc": "Cuối Lượt: If the ally with [PreparedMeat] is Staggered, kill the ally."
+    },
+    {
+      "id": 826502,
+      "name": "Bottomless Hunger",
+      "desc": "After defeating an ally, hồi 20 Core HP; then, nhận 1 [Vulnerable] vào lượt kế."
+    },
+    {
+      "id": 826503,
+      "name": "Hunger",
+      "desc": "Cuối Lượt: If this unit failed to defeat an ally with Prepared Meat, nhận 1 [Hunger]. Ở mốc 75%- HP, nhận 2. Ở mốc 50%- HP, nhận 3.\nĐầu Lượt: If this unit defeated an ally with Prepared Meat, lose 1 [Hunger]."
+    },
+    {
+      "id": 826504,
+      "name": "Momentary Satiation",
+      "desc": "Cuối Lượt: Ở mốc 0 [Hunger], nhận (allies defeated this turn x 3) [AttackDown] and [DefenseDown]."
+    },
+    {
+      "id": 826505,
+      "name": "Ravening Hunger",
+      "desc": "Cuối Lượt: Ở mốc 4 [Hunger], nhận a stronger pattern."
+    },
+    {
+      "id": 811801,
+      "name": "Returning Past",
+      "desc": "Nếu có 50+ [AccumulatedPastMirror], and if Core's HP is less than or equal to 80%, Core gains 200 HP by spending 50 [AccumulatedPastMirror] at Turn End"
+    },
+    {
+      "id": 811802,
+      "name": "Misplaced Past",
+      "desc": "When the body is broken, spend all Accumulated Past.\nWhen the body is broken, all Attack Types and Affinities become ineffective(0.5) against the body starting vào lượt kế until the end of this encounter."
+    },
+    {
+      "id": 811808,
+      "name": "Metronome",
+      "desc": "If the [AccumulatedPastMirror] is an odd number, nhận 3 [Vulnerable] and [AttackDmgUp]\nIf it is an even number, nhận 3 [Protection] and [AttackDmgDown]"
+    },
+    {
+      "id": 826401,
+      "name": "Care",
+      "desc": "Đầu Lượt: Hồi 15% of max HP"
+    },
+    {
+      "id": 826402,
+      "name": "Keep It Fresh",
+      "desc": "HP does not drop below 1"
+    },
+    {
+      "id": 124501,
+      "name": "The Queen's Defenders",
+      "desc": "When this unit gets attacked, take -70% Skill damage, and transfer that Skill's damage to a random ally.\n(Prioritizes allies with [PreparedMeat]; does not activate if there are no allies; this damage does not kill the affected allies)"
+    }
+  ]
+}

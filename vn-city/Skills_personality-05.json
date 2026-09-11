@@ -1,0 +1,2678 @@
+{
+  "dataList": [
+    {
+      "id": 1050701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chúng Ta Ghi Thù",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Chúng Ta Ghi Thù",
+          "desc": "[DefeatDuel] Nhận 1 [VioletDamageUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chúng Ta Ghi Thù",
+          "desc": "[DefeatDuel] Nhận 1 [VioletDamageUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xiềng Xích Của Lòng Trung Thành",
+          "desc": "[StartBattle] Gán 1 [VioletResultUp] lên 2 đồng minh liền kề với chủ thể trên Bảng Điều Khiển.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Xiềng Xích Của Lòng Trung Thành",
+          "desc": "[StartBattle] Gán 1 [VioletResultUp] lên 2 đồng minh liền kề với chủ thể trên Bảng Điều Khiển.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xiềng Xích Của Lòng Trung Thành",
+          "desc": "[StartBattle] Gán 1 [VioletResultUp] lên 2 đồng minh liền kề với chủ thể trên Bảng Điều Khiển\nNếu Kỹ Năng được chọn từ các Ô đó thuộc Nguyên Tội Đố Kỵ, gán thêm 1 [VioletDamageUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ghi Thù",
+          "desc": "Ở mốc 4+ Đố Kỵ Cộng Hưởng, Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [RetaliationBook], gây 1 [PlusCoinValueDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [RetaliationBook], gây 1 [VioletTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ghi Thù",
+          "desc": "Ở mốc 4+ Đố Kỵ Cộng Hưởng, Sức Mạnh Xu +1\nỞ mốc 6+ Đố Kỵ Cộng Hưởng Tuyệt Đối, Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [RetaliationBook], gây 1 [PlusCoinValueDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [RetaliationBook], gây 2 [VioletTakeDamageUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tích Lũy Báo Thù",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tích Lũy Báo Thù",
+          "desc": "Ở mốc 4+ Đố Kỵ Cộng Hưởng, Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bạt Đao",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Bạt Đao",
+          "desc": "<style=\"highlight\">[StartBattle] Gán 1 [BladeResultUpTier1] cho (Cộng Hưởng Tuyệt Đối cao nhất) đồng minh thuộc Gia Tộc Kiếm Sư theo thứ tự Tốc Độ tăng dần (từ thấp nhất đến cao nhất, tối đa 2 lần)\n</style>[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bạt Đao",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Gán 1 [BladeResultUpTier1] cho (Cộng Hưởng Tuyệt Đối cao nhất) đồng minh thuộc Gia Tộc Kiếm Sư theo thứ tự Tốc Độ tăng dần (từ thấp nhất đến cao nhất, tối đa 2 lần)</color>\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bạt Đao",
+          "desc": "<style=\"highlight\">Ở mốc 5+ [Breath], Sức Mạnh Xu +1</style>\n[StartBattle] Gán 1 [BladeResultUpTier1] cho (Cộng Hưởng Tuyệt Đối cao nhất) đồng minh thuộc Gia Tộc Kiếm Sư theo thứ tự Tốc Độ tăng dần (từ thấp nhất đến cao nhất, tối đa 2 lần)\n<style=\"highlight\">- Nếu Số Danh Tính thuộc Gia Tộc Kiếm Sư trở lên trong Ải ≥ 6 thì gán 2 [BladeResultUpTier1]</style>\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điểm Huyệt",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]\n[WinDuel] Nhận 1 [SlashResultUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Điểm Huyệt",
+          "desc": "<style=\"highlight\">[StartBattle] Gán 1 [BladeResultUpTier2] cho (Cộng Hưởng Tuyệt Đối cao nhất) đồng minh thuộc Gia Tộc Kiếm Sư theo thứ tự Tốc Độ tăng dần (từ thấp nhất đến cao nhất, tối đa 2 lần)</style>\n[WhenUse] Nhận +2 Tầng [Breath]\n[WinDuel] Nhận 1 [SlashResultUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+40% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Điểm Huyệt",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Gán 1 [BladeResultUpTier2] cho (Cộng Hưởng Tuyệt Đối cao nhất) đồng minh thuộc Gia Tộc Kiếm Sư theo thứ tự Tốc Độ tăng dần (từ thấp nhất đến cao nhất, tối đa 2 lần)</color>\n[WhenUse] Nhận +2 Tầng [Breath]\n[WinDuel] Nhận 1 [SlashResultUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+40% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Điểm Huyệt",
+          "desc": "<style=\"highlight\">Ở mốc 7+ [Breath], Sức Mạnh Xu +1</style>\n[StartBattle] Gán 1 [BladeResultUpTier2] cho (Cộng Hưởng Tuyệt Đối cao nhất) đồng minh thuộc Gia Tộc Kiếm Sư theo thứ tự Tốc Độ tăng dần (từ thấp nhất đến cao nhất, tối đa 2 lần)\n<style=\"highlight\">- Nếu Số Danh Tính thuộc Gia Tộc Kiếm Sư trở lên trong Ải ≥ 6 thì gán 2 [BladeResultUpTier2]</style>\n[WhenUse] Nhận +3 Tầng [Breath]\n[WinDuel] Nhận 1 [SlashResultUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+60% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Nhục Trảm",
+          "desc": "[WhenUse] Nhận +3 [Aggro] cho Ô Kỹ Năng này vào lượt kế\n[WhenUse] Cho đến khi Kỹ Năng này kết thúc, chủ thể không thể Bị Choáng do nhận sát thương\n[WinDuel] Nhận 5 [Breath]\n[DefeatDuel] Sau khi nhận sát thương, sử dụng Kỹ Năng 'Cốt Đoạn'\n[CriticalActivated] +2% sát thương gây ra khi Trí Mạng với mỗi Lượng [Breath] trên chủ thể (tối đa 50%)\n+15% Sát Thương gây ra khi Trí Mạng\n+0.5% sát thương gây ra với mỗi 1% HP đã mất trên chủ thể (tối đa 25%)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nhục Trảm",
+          "desc": "[WhenUse] Nhận +3 [Aggro] cho Ô Kỹ Năng này vào lượt kế\n[WhenUse] Cho đến khi Kỹ Năng này kết thúc, chủ thể không thể Bị Choáng do nhận sát thương\n[WinDuel] Nhận 5 [Breath]\n[DefeatDuel] Sau khi nhận sát thương, sử dụng Kỹ Năng 'Cốt Đoạn'\n[CriticalActivated] +3% sát thương gây ra khi Trí Mạng với mỗi Lượng [Breath] trên chủ thể (tối đa 75%)\n+30% Sát Thương gây ra khi Trí Mạng\n+0.5% sát thương gây ra với mỗi 1% HP đã mất trên chủ thể (tối đa 25%)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lật Đổ Thế Trận",
+          "desc": "[WhenUse] Nhận 1 [SlashResultUp] vào lượt kế (tối đa 1 lần)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lật Đổ Thế Trận",
+          "desc": "[WhenUse] Nhận 1 [SlashResultUp] vào lượt kế (tối đa 1 lần)\n<style=\"highlight\">+0.5% sát thương gây ra với mỗi 1% HP đã mất trên chủ thể (tối đa 25%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cốt Đoạn",
+          "desc": "[BeforeAttack] Ở mốc 10+ [Breath], Phạm Vi Tấn Công +1\n[WhenUse] Cho đến khi Kỹ Năng này kết thúc, chủ thể không thể Bị Choáng do nhận sát thương\n[WhenUse] +2% sát thương gây ra khi Trí Mạng với mỗi Lượng [Breath] trên chủ thể (tối đa 50%)\n+20% Sát Thương gây ra khi Trí Mạng\n+0.5% sát thương gây ra với mỗi 1% HP đã mất trên chủ thể (tối đa 25%)",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cốt Đoạn",
+          "desc": "<style=\"highlight\">[BeforeAttack] Với mỗi 7 [Breath] trên chủ thể, Phạm Vi Tấn Công +1 (tối đa +2)</style>\n[WhenUse] Cho đến khi Kỹ Năng này kết thúc, chủ thể không thể Bị Choáng do nhận sát thương\n[WhenUse] +2% sát thương gây ra khi Trí Mạng với mỗi Lượng [Breath] trên chủ thể (tối đa 50%)\n+<style=\"highlight\">30</style>% Sát Thương gây ra khi Trí Mạng\n+0.5% sát thương gây ra với mỗi 1% HP đã mất trên chủ thể (tối đa 25%)\n<style=\"highlight\">Nếu chỉ có 1 mục tiêu, +100% sát thương gây ra (trong Ải Chuyên Sâu, tính theo Bộ Phận)</style>",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đập Chày",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Đập Chày",
+          "desc": "Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đập Chày",
+          "desc": "Nếu mục tiêu có 5+ [Burst], Sức Mạnh Xu +<style=\"highlight\">2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vụt Nát",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Burst], gây 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Vụt Nát",
+          "desc": "[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Burst], gây 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vụt Nát",
+          "desc": "<style=\"highlight\">[WhenUse] Nếu mục tiêu có 6+ [Burst], Sức Mạnh Xu +1</style>\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ [Burst], gây 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Không Thương Xót",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây 2 [AttackDown]",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Burst], gây 2 [AttackDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Không Thương Xót",
+          "desc": "<style=\"highlight\">[WhenUse] Nếu mục tiêu có 3+ [Burst], Sức Mạnh Giao Tranh +1</style>\n[WhenUse] Nếu mục tiêu có 6+ [Burst], Sức Mạnh Xu +1\n[WinDuel] Gây 2 [AttackDown]",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 6+ [Burst], gây 2 [AttackDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Phản Đòn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hết Mình Vì Học Tập",
+          "desc": "Nếu Kỹ Năng này bị [Discard], nhận Khiên bằng ([KnowledgeExplored] x 3% HP Tối Đa) [Discard]\n[WhenUse] [Discard] 1 Kỹ Năng có bậc thấp nhất trên toàn bộ Ô Kỹ Năng của chủ thể",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Hết Mình Vì Học Tập",
+          "desc": "Nếu Kỹ Năng này bị [Discard], nhận Khiên bằng ([KnowledgeExplored] x <style=\"highlight\">4%</style> HP Tối Đa) [Discard]\n[WhenUse] [Discard] 1 Kỹ Năng có bậc thấp nhất trên toàn bộ Ô Kỹ Năng của chủ thể\n<style=\"highlight\">[WhenUse] Ở mốc 2+ [KnowledgeExplored], Sức Mạnh Giao Tranh +1\n[WinDuel] Nhận 2 [KnowledgeTraining] (một lần mỗi lượt)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hết Mình Vì Học Tập",
+          "desc": "Nếu Kỹ Năng này bị [Discard], nhận Khiên bằng ([KnowledgeExplored] x <style=\"highlight\">5%</style> HP Tối Đa) [Discard]\n[WhenUse] [Discard] 1 Kỹ Năng có bậc thấp nhất trên toàn bộ Ô Kỹ Năng của chủ thể\n<style=\"highlight\">[WhenUse] Nhận ([KnowledgeExplored] - 1) Sức Mạnh Giao Tranh (tối đa 2)</style>\n[WinDuel] Nhận 2 [KnowledgeTraining] (một lần mỗi lượt)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thời Khắc Của Tri Thức",
+          "desc": "[StartBattle] Nhận [KnowledgeTraining] bằng với [KnowledgeExplored] trên chủ thể\n[WhenUse] [Discard] 2 Kỹ Năng có bậc thấp nhất trên toàn bộ Ô Kỹ Năng của chủ thể theo thứ tự tăng dần",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Sinking] bằng với [KnowledgeExplored]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Thời Khắc Của Tri Thức",
+          "desc": "<style=\"highlight\">+3% sát thương gây ra với mỗi [KnowledgeExplored] trên chủ thể (tối đa 9%)</style>\n[StartBattle] Gán [KnowledgeTraining] bằng với [KnowledgeExplored] trên chủ thể <style=\"highlight\"> cho 1 đồng minh ngẫu nhiên</style> và chủ thể <style=\"highlight\">(ưu tiên đồng minh có [Discard] và có ít [KnowledgeTraining] nhất)</style>\n[WhenUse] [Discard] 2 Kỹ Năng có bậc thấp nhất trên toàn bộ Ô Kỹ Năng của chủ thể theo thứ tự tăng dần\n<style=\"highlight\">[WhenUse] Nếu mục tiêu có 6+ [Sinking], Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Sinking] bằng với [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thời Khắc Của Tri Thức",
+          "desc": "<style=\"highlight\">+5%</style> sát thương gây ra với mỗi [KnowledgeExplored] trên chủ thể (tối đa <style=\"highlight\">15%</style>)\n[StartBattle] Gán [KnowledgeTraining] bằng với [KnowledgeExplored] trên chủ thể <style=\"highlight\">cho 2 đồng minh ngẫu nhiên</style> và chủ thể (ưu tiên đồng minh có [Discard] và có ít [KnowledgeTraining] nhất)\n[WhenUse] [Discard] 2 Kỹ Năng có bậc thấp nhất trên toàn bộ Ô Kỹ Năng của chủ thể theo thứ tự tăng dần\n<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Sinking] bằng với <style=\"highlight\">([KnowledgeExplored] x 2)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Tri Thức Cháy Bỏng",
+          "desc": "+3% sát thương gây ra với mỗi [KnowledgeExplored] trên chủ thể (tối đa 18%)\n[WhenUse] Nếu mục tiêu có 6+ [Sinking], Sức Mạnh Xu +1\n[BeforeAttack] Tiêu thụ toàn bộ [KnowledgeTraining] trên chủ thể và nhận thêm [KnowledgeExplored] bằng một nửa giá trị đó dưới dạng [KnowledgeExplored] (làm tròn xuống)\n[EndSkill] Ở mốc 4+ [KnowledgeExplored], đặt lại về 1 (nếu đánh bại kẻ địch bằng Kỹ Năng này, đặt lại về 3)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây Lượng / Tầng [Sinking] bằng giá trị [KnowledgeExplored] lên mục tiêu (bao nhiêu trong số đó là Lượng / Tầng [Sinking] được xác định ngẫu nhiên)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tri Thức Cháy Bỏng",
+          "desc": "<style=\"highlight\">+5%</style> sát thương gây ra với mỗi [KnowledgeExplored] (tối đa <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)</style>\n[BeforeAttack] Tiêu thụ toàn bộ [KnowledgeTraining] trên chủ thể và nhận thêm [KnowledgeExplored] bằng <style=\"highlight\">giá trị đó</style> dưới dạng [KnowledgeExplored]\n[EndSkill] Ở mốc 4+ [KnowledgeExplored], đặt lại về 1 (nếu đánh bại kẻ địch bằng Kỹ Năng này, đặt lại về 3)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây Lượng / Tầng [Sinking] bằng giá trị [KnowledgeExplored] lên mục tiêu (bao nhiêu trong số đó là Lượng / Tầng [Sinking] được xác định ngẫu nhiên)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trau Dồi Kiến Thức",
+          "desc": "[WhenUse] [Discard] 1 Kỹ Năng có bậc cao nhất trên toàn bộ Ô Kỹ Năng của chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Trau Dồi Kiến Thức",
+          "desc": "[WhenUse] [Discard] 1 Kỹ Năng có bậc cao nhất trên toàn bộ Ô Kỹ Năng của chủ thể\n<style=\"highlight\">[WhenUse] Nhận +6 [Aggro] cho Ô Kỹ Năng này vào lượt kế</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Allez",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Allez",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu từ 3 trở lên, Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 15+ [Burst] và 3+ Tầng [Burst], Kỹ Năng này không gây thêm Lượng [Burst] từ hiệu ứng của nó, nhưng không tiêu thụ Tầng [Burst] khi Đánh Trúng\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Allez",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu, nhận Sức Mạnh Xu dựa trên chênh lệch Tốc Độ (Sức Mạnh Xu +1 với mỗi 3 Tốc Độ chênh lệch; tối đa 2)\n[WhenUse] Nếu mục tiêu có 15+ [Burst] và 3+ Tầng [Burst], Kỹ Năng này không gây thêm Lượng [Burst] từ hiệu ứng của nó, nhưng không tiêu thụ Tầng [Burst] khi Đánh Trúng\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu Tốc Độ của chủ thể cao hơn mục tiêu, gây [Burst] bằng với Tốc Độ chênh lệch (tối đa 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fente",
+          "desc": "[WinDuel] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Fente",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu từ 3 trở lên, Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 15+ [Burst] và 3+ Tầng [Burst], Kỹ Năng này không gây thêm Lượng hoặc Tầng [Burst] từ hiệu ứng của nó, nhưng không tiêu thụ Tầng [Burst] khi Đánh Trúng\n[WinDuel] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây +2 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fente",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu từ 3 trở lên, Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 15+ [Burst] và 3+ Tầng [Burst], Kỹ Năng này không gây thêm Lượng hoặc Tầng [Burst] từ hiệu ứng của nó, nhưng không tiêu thụ Tầng [Burst] khi Đánh Trúng\n[WinDuel] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Nếu chủ thể không gây [Burst], +5% Sát Thương gây ra khi Trí Mạng với mỗi Lượng và Tầng [Burst] mà nó nên gây</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây +2 Tầng [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Salut",
+          "desc": "Nếu Tốc Độ của chủ thể cao hơn mục tiêu từ 2 trở lên, Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 15+ [Burst] và 3+ Tầng [Burst], Kỹ Năng này không tiêu thụ Tầng [Burst] khi Đánh Trúng\n[WinDuel] Nhận 5 [Breath]\n- Nếu mục tiêu có [ConcentratedAttackMeursault], nhận thêm 5 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Xu cuối +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Xu cuối +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+10% sát thương gây ra với mỗi 1 [ConcentratedAttackMeursault] trên Ô của mục tiêu"
+                },
+                {
+                  "desc": "+30% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Salut",
+          "desc": "<style=\"highlight\">Nếu Tốc Độ của chủ thể cao hơn mục tiêu, nhận Sức Mạnh Xu dựa trên chênh lệch Tốc Độ (Sức Mạnh Xu +1 với mỗi 2 Tốc Độ chênh lệch; tối đa 3)</style>\n[WhenUse] Nếu mục tiêu có 15+ [Burst] và 3+ Tầng [Burst], Kỹ Năng này không tiêu thụ Tầng [Burst] khi Đánh Trúng\n[WinDuel] Nhận 5 [Breath]\n- Nếu mục tiêu có [ConcentratedAttackMeursault], nhận thêm 5 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Xu cuối +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Xu cuối +10% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+20%</style> sát thương gây ra với mỗi 1 [ConcentratedAttackMeursault] trên Ô của mục tiêu"
+                },
+                {
+                  "desc": "+30% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Gây +2% Sát Thương khi Trí Mạng với mỗi [Burst] trên mục tiêu (tối đa 30%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkill] Nếu Xu này đánh bại mục tiêu hoặc phá hủy Bộ Phận, Tái Sử Dụng Kỹ Năng này 1 lần lên mục tiêu ngẫu nhiên (không kích hoạt khi Tái Sử Dụng)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Défensive",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Défensive",
+          "desc": "[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu từ 3 trở lên, Sức Mạnh Xu +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhị Liên Trảm - Bộc [爆]",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Nhị Liên Trảm - Bộc [爆]",
+          "desc": "<style=\"highlight\">Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Vibration]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nhị Liên Trảm - Bộc [爆]",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa <style=\"highlight\">3</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Liên Kích - Bộc [爆]",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Tam Liên Kích - Bộc [爆]",
+          "desc": "<style=\"highlight\">Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Vibration]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu mục tiêu có 3+ Tầng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tam Liên Kích - Bộc [爆]",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa <style=\"highlight\">4</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+2</style> Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ Tầng [Vibration], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Khoái Đao Loạn Ma [快刀亂麻]",
+          "desc": "Nếu chủ thể có [BulletPropellantSpecialAlly], kích hoạt dưới dạng 'Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm'\n- [BeforeUse] Nếu chủ thể không còn [BulletPropellantSpecialAlly], hủy kích hoạt điều kiện trên\nNếu mục tiêu chính có 8+ ([Combustion] + [Vibration]), Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]"
+                },
+                {
+                  "desc": "Nếu chủ thể đã tiêu [BulletPropellantAlly] do hiệu ứng của Xu này, +20% sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi tiêu [BulletPropellantAlly], kích hoạt hiệu ứng trên thêm một lần nữa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Khoái Đao Loạn Ma [快刀亂麻]",
+          "desc": "Nếu chủ thể có [BulletPropellantSpecialAlly], kích hoạt dưới dạng 'Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm'\n- [BeforeUse] Nếu chủ thể không còn [BulletPropellantSpecialAlly], hủy kích hoạt điều kiện trên\n<style=\"highlight\">Sức Mạnh Xu +1 với mỗi 8 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+3</style> Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+3</style> Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Nếu chủ thể đã tiêu [BulletPropellantAlly] do hiệu ứng của Xu này, <style=\"highlight\">+50%</style> sát thương gây ra"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi tiêu [BulletPropellantAlly], kích hoạt hiệu ứng trên thêm <style=\"highlight\">2</style> lần nữa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhiệt Huyết Sôi Trào.",
+          "desc": "[DuelCounter]\nNếu mục tiêu chính có 4+ ([Combustion] + [Vibration]), Sức Mạnh Tổng +1\nNếu còn 0 [BulletPropellantAlly] (hoặc [BulletPropellantSpecialAlly]), Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration] (2 lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nhiệt Huyết Sôi Trào.",
+          "desc": "[DuelCounter]\n<style=\"highlight\">Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 2)</style>\nNếu còn 0 [BulletPropellantAlly] (hoặc [BulletPropellantSpecialAlly]), Sức Mạnh Giao Tranh <style=\"highlight\">+2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Vibration] (2 lần mỗi lượt)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration] (2 lần mỗi lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051205,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm [超絕猛虎殺擊亂斬]",
+          "desc": "Nếu mục tiêu chính có 8+ ([Combustion] + [Vibration]), Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantSpecialAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantSpecialAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantSpecialAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi tiêu [BulletPropellantSpecialAlly], kích hoạt hiệu ứng trên thêm một lần nữa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm [超絕猛虎殺擊亂斬]",
+          "desc": "<style=\"highlight\">Sức Mạnh Xu +1 với mỗi 8 ([Combustion] + [Vibration]) trên mục tiêu chính (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+3</style> Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+3</style> Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu\n- Khi tiêu [BulletPropellantSpecialAlly], kích hoạt hiệu ứng trên thêm <style=\"highlight\">2</style> lần nữa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bước Đệm Cho Cuộc Diễu Hành",
+          "desc": "[WhenUse] Cho chủ thể và 1 đồng minh có HP tối đa thấp nhất: Tiêu thụ lên tới 10 [BloodDinner] và gán 1 [BloodArmorMeursault] với mỗi 5 [BloodDinner] được tiêu thụ (một lần mỗi lượt; không tính đồng minh đã đạt Lớp tối đa)\n- Ưu tiên đồng minh thuộc <La Manchaland> và <Huyết Quỷ> (Thân Quyến Thượng Cấp)\n- Nếu đồng minh được gán đến từ <La Manchaland>, gán thêm 1 [BloodArmorMeursault]\n- Nếu không tiêu thụ được [BloodDinner], nhận 10 [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Bước Đệm Cho Cuộc Diễu Hành",
+          "desc": "[WhenUse] Cho chủ thể và 1 đồng minh có HP tối đa thấp nhất: Tiêu thụ lên tới 10 [BloodDinner] và gán 1 [BloodArmorMeursault] với mỗi 5 [BloodDinner] được tiêu thụ (một lần mỗi lượt; không tính đồng minh đã đạt Lớp tối đa)\n- Ưu tiên đồng minh thuộc <La Manchaland> và <Huyết Quỷ> (Thân Quyến Thượng Cấp)\n- Nếu đồng minh được gán đến từ <La Manchaland>, gán thêm 1 [BloodArmorMeursault]\n- Nếu không tiêu thụ được [BloodDinner], nhận 10 [Laceration]\n<style=\"highlight\">[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Laceration]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bước Đệm Cho Cuộc Diễu Hành",
+          "desc": "[WhenUse] Cho chủ thể và 1 đồng minh có HP tối đa thấp nhất: Tiêu thụ lên tới 10 [BloodDinner] và gán 1 [BloodArmorMeursault] với mỗi 5 [BloodDinner] được tiêu thụ (một lần mỗi lượt; không tính đồng minh đã đạt Lớp tối đa)\n- Ưu tiên đồng minh thuộc <La Manchaland> và <Huyết Quỷ> (Thân Quyến Thượng Cấp)\n- Nếu đồng minh được gán đến từ <La Manchaland>, gán thêm 1 [BloodArmorMeursault]\n- Nếu không tiêu thụ được [BloodDinner], nhận 10 [Laceration]\n[WhenUse] Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1\n<style=\"highlight\">[WhenUse] Nếu mục tiêu có 3+ Tầng [Laceration], Sức Mạnh Tổng +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trọng Trách Gây Dựng Lại Gia Đình",
+          "desc": "[WhenUse] Cho chủ thể và 1 đồng minh có HP tối đa cao nhất: Tiêu thụ lên tới 10 [BloodDinner] và gán 1 [BloodArmorMeursault] với mỗi 5 [BloodDinner] được tiêu thụ (một lần mỗi lượt; không tính đồng minh đã đạt Lớp tối đa)\n- Ưu tiên đồng minh thuộc <La Manchaland> và <Huyết Quỷ> (Thân Quyến Thượng Cấp)\n- Nếu đồng minh được gán đến từ <La Manchaland>, gán thêm 1 [BloodArmorMeursault]\n- Nếu không tiêu thụ được [BloodDinner], nhận 10 [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Trọng Trách Gây Dựng Lại Gia Đình",
+          "desc": "[WhenUse] Cho chủ thể và 1 đồng minh có HP tối đa cao nhất: Tiêu thụ lên tới 10 [BloodDinner] và gán 1 [BloodArmorMeursault] với mỗi 5 [BloodDinner] được tiêu thụ (một lần mỗi lượt; không tính đồng minh đã đạt Lớp tối đa)\n- Ưu tiên đồng minh thuộc <La Manchaland> và <Huyết Quỷ> (Thân Quyến Thượng Cấp)\n- Nếu đồng minh được gán đến từ <La Manchaland>, gán thêm 1 [BloodArmorMeursault]\n- Nếu không tiêu thụ được [BloodDinner], nhận 10 [Laceration]\n<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Nếu mục tiêu có 3+ Tầng [Laceration], Sức Mạnh Tổng +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Trọng Trách Gây Dựng Lại Gia Đình",
+          "desc": "[WhenUse] Cho chủ thể và 1 đồng minh có HP tối đa cao nhất: Tiêu thụ lên tới 10 [BloodDinner] và gán 1 [BloodArmorMeursault] với mỗi 5 [BloodDinner] được tiêu thụ (một lần mỗi lượt; không tính đồng minh đã đạt Lớp tối đa)\n- Ưu tiên đồng minh thuộc <La Manchaland> và <Huyết Quỷ> (Thân Quyến Thượng Cấp)\n- Nếu đồng minh được gán đến từ <La Manchaland>,  gán thêm 1 [BloodArmorMeursault]\n- Nếu không tiêu thụ được [BloodDinner], nhận 10 [Laceration]\n[WhenUse] Sức Mạnh Xu +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] <style=\"highlight\">Sức Mạnh Tổng +1 với mỗi 3 Tầng [Laceration] trên mục tiêu (tối đa 2)</style>\n<style=\"highlight\">[WhenUse] +10% sát thương gây ra với mỗi [BloodArmorMeursault] trên chủ thể (tối đa 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Burst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [ScarletTakeDamageUp] vào lượt kế (2 lần mỗi lượt)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Cùng ta khoác lên chiếc tụ huyết bào.",
+          "desc": "Khi Kỹ Năng Này Đánh Trúng: Hồi HP bằng 40% sát thương đã gây ra (tối đa 50 mỗi Kỹ Năng)\n[BeforeUse] Ở mốc 5 [BloodArmorMeursault], kích hoạt dưới dạng \"Ouvertüre\"\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Gán 1 [BloodArmorMeursault] cho chủ thể và (Cộng Hưởng cao nhất) đồng minh (2 lần mỗi lượt; tối đa 4 đồng minh; ưu tiên <La Manchaland> trước, và <Huyết Quỷ> (Thân Quyến Thượng Cấp) sau; không tính đồng minh đã đạt Lớp tối đa)\n[EndSkill] Nếu mục tiêu bị đánh bại, tăng 20 [BloodDinner] (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ParadeConcentration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [ParadeConcentration] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cùng ta khoác lên chiếc tụ huyết bào.",
+          "desc": "Khi Kỹ Năng Này Đánh Trúng: Hồi HP bằng 40% sát thương đã gây ra (tối đa <style=\"highlight\">80</style> mỗi Kỹ Năng)\n[BeforeUse] Ở mốc 5 [BloodArmorMeursault], kích hoạt dưới dạng \"Ouvertüre\"\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Laceration] trên mục tiêu (tối đa 2)\n<style=\"highlight\">[WhenUse] +10% sát thương gây ra với mỗi 2 Tầng [Laceration] trên mục tiêu (tối đa 40%)</style>\n[WhenUse] Gán 1 [BloodArmorMeursault] cho chủ thể và (Cộng Hưởng cao nhất) đồng minh (2 lần mỗi lượt; tối đa 4 đồng minh; ưu tiên <La Manchaland> trước, và <Huyết Quỷ> (Thân Quyến Thượng Cấp) sau; không tính đồng minh đã đạt Lớp tối đa)\n<style=\"highlight\">- Nếu là Dục Vọng Cộng Hưởng, gán 2 [BloodArmorMeursault] cho 2 đồng minh có HP tối đa thấp nhất nữa</style>\n[EndSkill] Nếu mục tiêu bị đánh bại, tăng 20 [BloodDinner] (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 2 [Laceration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ParadeConcentration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [ParadeConcentration] vào lượt kế<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tụ Huyết",
+          "desc": "[DuelCounter]\n[WinDuel] Nhận 1 [BloodArmorMeursault] (2 lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tụ Huyết",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[WhenUse] Gán 5 [Laceration] lên 2 đồng minh bao gồm cả chủ thể và kích hoạt một lần; sau đó, giảm 1 Tầng [Laceration] (một lần mỗi lượt; ưu tiên đồng minh có nhiều [BloodArmorMeursault] nhất; không kích hoạt cho Thân Quyến Thượng Cấp; sát thương này không làm giảm HP xuống dưới 1)</style>\n[WinDuel] Nhận 1 [BloodArmorMeursault] (2 lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Laceration]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051305,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ouvertüre",
+          "desc": "Khi Kỹ Năng Này Đánh Trúng: Hồi HP bằng 50% sát thương đã gây ra (tối đa 85 mỗi Kỹ Năng)\n[WhenUse] Sức Mạnh Giao Tranh +2 với mỗi 3 [Laceration] trên mục tiêu chính (tối đa 8)\n[WhenUse] +5% sát thương gây ra với mỗi 2 Tầng [Laceration] trên mục tiêu chính (tối đa 20%)\n[WhenUse] Gán 2 [BloodArmorMeursault] cho (Cộng Hưởng cao nhất) đồng minh khác (tối đa 4 đồng minh; ưu tiên <La Manchaland> trước, và <Huyết Quỷ> (Thân Quyến Thượng Cấp) sau; không tính đồng minh đã đạt Lớp tối đa)\n[EndSkill] Tiêu thụ toàn bộ [BloodArmorMeursault] trên chủ thể\n[EndSkill] Nếu Kỹ Năng này đánh bại mục tiêu, tăng thêm 10 [BloodDinner] với mỗi mục tiêu bị đánh bại (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [ParadeConcentration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 1 [BloodArmorMeursault] vào lượt kế với mỗi mục tiêu bị sát thương từ Kỹ Năng này Làm Choáng, phá hủy Bộ Phận, hoặc đánh bại (tối đa 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ouvertüre",
+          "desc": "Khi Kỹ Năng Này Đánh Trúng: Hồi HP bằng 50% sát thương đã gây ra (tối đa <style=\"highlight\">100</style> mỗi Kỹ Năng)\n[WhenUse] Sức Mạnh Giao Tranh +2 với mỗi 3 [Laceration] trên mục tiêu chính (tối đa 8)\n[WhenUse] +<style=\"highlight\">10</style>% sát thương gây ra với mỗi 2 Tầng [Laceration] trên mục tiêu chính (tối đa <style=\"highlight\">40</style>%)\n[WhenUse] Gán 2 [BloodArmorMeursault] cho (Cộng Hưởng cao nhất) đồng minh khác (tối đa 4 đồng minh; ưu tiên <La Manchaland> trước, và <Huyết Quỷ> (Thân Quyến Thượng Cấp) sau; không tính đồng minh đã đạt Lớp tối đa)\n<style=\"highlight\">- Nếu là Dục Vọng Cộng Hưởng , gán thêm 1 [BloodArmorMeursault]</style>\n[EndSkill] Tiêu thụ toàn bộ [BloodArmorMeursault] trên chủ thể\n[EndSkill] Nếu Kỹ Năng này đánh bại mục tiêu, tăng thêm 10 [BloodDinner] với mỗi mục tiêu bị đánh bại (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [ParadeConcentration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Ở mốc 2+ [FocusOnActing], gây 2 [ParadeConcentration] lên 1 trong số các mục tiêu (một lần mỗi lượt)</style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 1 [BloodArmorMeursault] vào lượt kế với mỗi mục tiêu bị sát thương từ Kỹ Năng này Làm Choáng, phá hủy Bộ Phận, hoặc đánh bại (tối đa 3)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phát Bắn Cảnh Cáo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Phát Bắn Cảnh Cáo",
+          "desc": "<style=\"highlight\">[BeforeUse] Ở mốc tối đa [MeursaultSporeBulletLong], gây 1 [PenetrateTakeDamageUp] khi Đánh Trúng (một lần mỗi lượt)\n[WhenUse] Nếu mục tiêu có 6+ ([Combustion] + [Laceration]), Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Phát Bắn Cảnh Cáo",
+          "desc": "<style=\"highlight\">+10% sát thương gây ra với mỗi 5 [MeursaultBeeSpore] trên mục tiêu (tối đa 30%)</style>\n[BeforeUse] Ở mốc tối đa [MeursaultSporeBulletLong], gây 1 [PenetrateTakeDamageUp] khi Đánh Trúng (một lần mỗi lượt)\n[WhenUse] <style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "E.G.O Dị Biến - Đạn Ghém",
+          "desc": "-50% sát thương gây lên mục tiêu phụ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "E.G.O Dị Biến - Đạn Ghém",
+          "desc": "-50% sát thương gây lên mục tiêu phụ\n<style=\"highlight\">+7% sát thương gây ra với mỗi 5 [MeursaultBeeSpore] trên mục tiêu (tối đa 21%)\n[WhenUse] Nếu mục tiêu chính có 6+ ([Combustion] + [Laceration]), Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "E.G.O Dị Biến - Đạn Ghém",
+          "desc": "-50% sát thương gây lên mục tiêu phụ\n+<style=\"highlight\">15</style>% sát thương gây ra với mỗi 5 [MeursaultBeeSpore] trên mục tiêu (tối đa <style=\"highlight\">45</style>%)\n[WhenUse] Nếu mục tiêu chính có 6+ ([Combustion] + [Laceration]), Sức Mạnh Xu +1\n<style=\"highlight\">[WhenUse] Nếu chủ thể có [MeursaultWorkerBee], Sức Mạnh Giao Tranh +1\n[WhenUse] Chuyển Xu bằng với [MeursaultWorkerBee] thành [SuperCoin], bắt đầu từ Xu cuối\n[EndSkill] Nếu [MeursaultSporeBulletLong] ≤ 1, [MeursaultSporeBulletReloading]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Combustion]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Thử Nghiệm Thực Chiến - Bụi Lửa",
+          "desc": "+5% sát thương gây ra với mỗi 5 [MeursaultBeeSpore] trên mục tiêu (tối đa 15%)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu chính (tối đa 2)\n[EndSkill] [MeursaultSporeBulletReloading]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ đánh trúng một Mục Tiêu duy nhất (ưu tiên mục tiêu chính)"
+                },
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ đánh trúng một Mục Tiêu duy nhất (ưu tiên mục tiêu chính)"
+                },
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ đánh trúng một Mục Tiêu duy nhất (ưu tiên mục tiêu chính)"
+                },
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                },
+                {
+                  "desc": "-50% sát thương gây lên mục tiêu phụ"
+                },
+                {
+                  "desc": "\n[UnBrokenCoinOnSucceedAttack] Nếu [MeursaultBeeSpore] của mục tiêu đang ở Lớp tối đa, kích hoạt các hiệu ứng sau:\n- Gây (Lượng [Combustion] x Lớp [MeursaultBeeSpore] / 10) sát thương Phẫn Nộ (làm tròn xuống)\n  - Gây sát thương Phẫn Nộ bằng hiệu ứng này được tính là kích hoạt [Combustion]\n- Mục tiêu mất 1 Tầng [Combustion]\n- [MeursaultBeeSpore] trên mục tiêu hết hiệu lực<style=\"highlight\"></style>\n",
+                  "summary": "Gây sát thương Phẫn Nộ, giảm 1 Tầng [Combustion], [MeursaultBeeSpore] trên mục tiêu hết hiệu lực"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion] và +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thử Nghiệm Thực Chiến - Bụi Lửa",
+          "desc": "<style=\"highlight\">+50% sát thương gây ra với mỗi Phạm Vi Tấn Công vượt quá số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Bộ Phận)</style>\n+<style=\"highlight\">10</style>% sát thương gây ra với mỗi 5 [MeursaultBeeSpore] trên mục tiêu (tối đa <style=\"highlight\">30</style>%)\n<style=\"highlight\">[BeforeUse] Nếu [MeursaultSporeBulletLong] ≤ 2, tiêu thụ 6 SP để nhận 3 [MeursaultSporeBulletLong]</style>\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu chính (tối đa <style=\"highlight\">3)\n[WhenUse] Nếu chủ thể có [MeursaultWorkerBee], Sức Mạnh Giao Tranh +1\n[WhenUse] Chuyển Xu bằng với [MeursaultWorkerBee] thành [SuperCoin], bắt đầu từ Xu thứ 3\n[WhenUse] Ở mốc 3 [MeursaultWorkerBee], nhận Phạm Vi Tấn Công +1</style>\n[EndSkill] [MeursaultSporeBulletReloading]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ đánh trúng một Mục Tiêu duy nhất (ưu tiên mục tiêu chính)"
+                },
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ đánh trúng một Mục Tiêu duy nhất (ưu tiên mục tiêu chính)"
+                },
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này chỉ đánh trúng một Mục Tiêu duy nhất (ưu tiên mục tiêu chính)"
+                },
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletLong]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tiêu 1 [MeursaultSporeBulletShort]"
+                },
+                {
+                  "desc": "-50% sát thương gây lên mục tiêu phụ"
+                },
+                {
+                  "desc": "<style=\"highlight\">Xu này +5% sát thương gây ra với mỗi [MeursaultWorkerBee] trên chủ thể (tối đa 15%)</style>"
+                },
+                {
+                  "desc": "\n[UnBrokenCoinOnSucceedAttack] Nếu [MeursaultBeeSpore] của mục tiêu đang ở Lớp tối đa, kích hoạt các hiệu ứng sau:\n- Gây (Lượng [Combustion] x Lớp [MeursaultBeeSpore] / 10) sát thương Phẫn Nộ (làm tròn xuống)\n  - Gây sát thương Phẫn Nộ bằng hiệu ứng này được tính là kích hoạt [Combustion]\n- Mục tiêu mất 1 Tầng [Combustion]\n- [MeursaultBeeSpore] trên mục tiêu hết hiệu lực<style=\"highlight\"></style>\n"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Combustion] và +<style=\"highlight\">2</style> Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nảy Mầm Bào Tử",
+          "desc": "[StartBattle][MeursaultSporeBulletReloading] (một lần mỗi lượt)\n[OnSucceedEvade] Hồi 10 HP (một lần mỗi lượt)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nảy Mầm Bào Tử",
+          "desc": "[StartBattle] [MeursaultSporeBulletReloading] (một lần mỗi lượt)\n<style=\"highlight\">[WhenUseEvade] Sức Mạnh Xu +1 với mỗi 6 ([Combustion] + [Laceration]) trên kẻ tấn công (tối đa 3)</style>\n[OnSucceedEvade] Hồi 10 HP (một lần mỗi lượt)\n<style=\"highlight\">- Nếu chủ thể có [MeursaultWorkerBee], hồi thêm 5 HP với mỗi Lớp</style>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phác Thảo Thô",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Phác Thảo Thô",
+          "desc": "<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Phác Thảo Thô",
+          "desc": "<style=\"highlight\">+5% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 15%)</style>\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đường Cọ Hoang Dại",
+          "desc": "[WhenUse] Nếu mục tiêu không có [BearClawWoundAlly], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Đường Cọ Hoang Dại",
+          "desc": "[WhenUse] Nếu mục tiêu không có [BearClawWoundAlly], Sức Mạnh Giao Tranh +1\n<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đường Cọ Hoang Dại",
+          "desc": "<style=\"highlight\">+5% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 20%)</style>\n[WhenUse] Nếu mục tiêu không có [BearClawWoundAlly], Sức Mạnh Giao Tranh +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Sinking]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Fauvisme - Trình Bày Tác Phẩm",
+          "desc": "+10% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 60%)\n[WhenUse] Khi HP dưới 50%, hoặc nếu mục tiêu có 5+ Sắc Thái Mang Rợ, dùng thêm một lần Xu 3 và chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Fauvisme - Trình Bày Tác Phẩm",
+          "desc": "+10% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 60%)\n<style=\"highlight\">[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 ([Laceration] + [Sinking]) trên mục tiêu (tối đa 4)</style>\n[WhenUse] Khi HP dưới 50%, hoặc nếu mục tiêu có 5+ Sắc Thái Mang Rợ, dùng thêm một lần Xu 3 và chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]\n<style=\"highlight\">- Khi Đánh Trúng bằng Xu được thêm: Gây ngẫu nhiên (Sắc Thái Mang Rợ trên mục tiêu / 3) Lượng [Laceration] hoặc Lượng [Sinking] (tối đa 3 mỗi loại; làm tròn xuống)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [BearClawWoundAlly]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuẩn Bị Phối Màu",
+          "desc": "[DuelCounter]\nNếu chủ thể có [FaubismMaskMeursault], Sức Mạnh Gốc +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chuẩn Bị Phối Màu",
+          "desc": "[DuelCounter]\nNếu chủ thể có [FaubismMaskMeursault], Sức Mạnh Gốc +2\n<style=\"highlight\">[WhenUse] Nếu mục tiêu có 6+ ([Laceration] + [Sinking]), Sức Mạnh Xu +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

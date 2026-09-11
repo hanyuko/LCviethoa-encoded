@@ -1,0 +1,129 @@
+{
+  "dataList": [
+    {
+      "id": "FusionVibration",
+      "name": "Chồng Chập Biên Độ",
+      "desc": "       <sprite name=\"Vibration\"><color=#e30000> </color>  <sprite name=\"FusionVibration\"><color=#9f6a3a>   </color>     <sprite name=\"Vibration\"><color=#e30000> </color>          <sprite name=\"VibrationNesting\"><color=#e20000>    </color>\n            \n    <sprite name=\"Switch_Vibration\"><color=#9f6a3a>   </color>  <sprite name=\"VibrationNesting\"><color=#e20000>    </color>       <sprite name=\"FusionVibration\"><color=#9f6a3a>   </color>\n     <sprite name=\"Vibration\"><color=#e30000> </color>  ",
+      "summary": ""
+    },
+    {
+      "id": "VibrationNesting",
+      "name": "Chấn Động - Siêu Vị",
+      "desc": "     <sprite name=\"FusionVibration\"><color=#9f6a3a>   </color>\n    <sprite name=\"Switch_Vibration\"><color=#9f6a3a>   </color>     <sprite name=\"Vibration\"><color=#e30000> </color>        <sprite name=\"Vibration\"><color=#e30000> </color>      <sprite name=\"VibrationNesting\"><color=#e20000>    </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationDistribution",
+      "name": "Chấn Động - Phân Phối",
+      "desc": "       <sprite name=\"Vibration\"><color=#e30000> </color>            <sprite name=\"AttackUp\"><color=#fac400>   </color>      \n       <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>           \n     \n             <sprite name=\"Vibration\"><color=#e30000> </color>  <sprite name=\"Vibration\"><color=#e30000> </color>  ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TcorpSpecialInvestigator",
+      "name": "Huy Hiệu Điều Tra Viên Đặc Biệt Tập Đoàn T",
+      "desc": "           <sprite name=\"Vibration\"><color=#e30000> </color>      \n       <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>          \n     \n             <sprite name=\"Vibration\"><color=#e30000> </color>  <sprite name=\"Vibration\"><color=#e30000> </color>  ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationChain",
+      "name": "Chấn Động - Xiềng Xích",
+      "desc": "           <sprite name=\"Vibration\"><color=#e30000> </color>      \n     <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>      \n     \n            <sprite name=\"Vibration\"><color=#e30000> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeRentalTwo",
+      "name": "Thời Gian Vay Mượn Tập Đoàn T",
+      "desc": " \n    <sprite name=\"TimeRentalTwo\"><color=#fac400>   </color>   <sprite name=\"Agility\"><color=#fac400> </color> <sprite name=\"ParryingResultUp\"><color=#fac400>    </color>  <sprite name=\"Vulnerable\"><color=#e30000> </color>   \n            <sprite name=\"TimeRentalTwo\"><color=#fac400>   </color>   <sprite name=\"Binding\"><color=#e30000> </color>   \n       \n      <sprite name=\"Binding\"><color=#e30000> </color>  <sprite name=\"Agility\"><color=#fac400> </color>   <sprite name=\"TimeRentalTwo\"><color=#fac400>   </color>        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAccumulation",
+      "name": "Trì Hoãn Thời Gian",
+      "desc": "                        \n    \n                                \n                 ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultDown",
+      "name": "Giảm Sức Mạnh Giao Tranh",
+      "desc": "           ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultUp",
+      "name": "Tăng Sức Mạnh Giao Tranh",
+      "desc": "           ",
+      "summary": "Trong Giao Tranh, nhận Sức Mạnh Giao Tranh bằng với số Lớp",
+      "undefined": "-"
+    },
+    {
+      "id": "LimitedTime",
+      "name": "Thời Gian Đã Thó",
+      "desc": "             <sprite name=\"AttackUp\"><color=#fac400>   </color>  <sprite name=\"DefenseUp\"><color=#fac400>   </color>\n              <sprite name=\"AttackDown\"><color=#e20000>   </color>  <sprite name=\"DefenseDown\"><color=#e20000>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OwnTime",
+      "name": "Thời Gian Chia Sẻ",
+      "desc": "             <sprite name=\"AttackUp\"><color=#fac400>   </color>  <sprite name=\"DefenseUp\"><color=#fac400>   </color>\n              <sprite name=\"AttackDown\"><color=#e20000>   </color>  <sprite name=\"DefenseDown\"><color=#e20000>   </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EquitableDistribution",
+      "name": "Thời Gian Dùng Chung",
+      "desc": "  <sprite name=\"OwnTime\"><color=#9f6a3a>   </color>       ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfairDistribution",
+      "name": "Lục Đục Nội Bộ",
+      "desc": "  <sprite name=\"OwnTime\"><color=#9f6a3a>   </color>         \n       <sprite name=\"Protection\"><color=#fac400> </color>             ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAcceleration",
+      "name": "Thời Gian Gia Tốc",
+      "desc": "    \n       \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>  <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>                   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_LowMorale",
+      "name": "Bất Hòa",
+      "desc": "  \n  <sprite name=\"Vulnerable\"><color=#e30000> </color>    <sprite name=\"Vibration\"><color=#e30000> </color>        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_Panic",
+      "name": "Bất Hòa",
+      "desc": "  \n  <sprite name=\"Vulnerable\"><color=#e30000> </color>    <sprite name=\"Vibration\"><color=#e30000> </color>        ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeKillerWatch",
+      "name": "Mục Tiêu Giải Cứu Thời Gian",
+      "desc": "          <sprite name=\"TimeAcceleration\"><color=#9f6a3a>   </color>   ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UltraPrecisionTimeAcceleration",
+      "name": "Thời Gian Gia Tốc Vi Chuẩn",
+      "desc": "             \n     <sprite name=\"Vibration\"><color=#e30000> </color>    <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>                      <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>             \n    \n                 ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

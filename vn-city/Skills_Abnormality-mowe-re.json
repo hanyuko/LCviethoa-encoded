@@ -1,0 +1,331 @@
+{
+  "dataList": [
+    {
+      "id": 130501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kích Hoạt Bộ Phận Cơ Học",
+          "desc": "[WhenUse] Ở 10+ Tầng [Charge], tiêu thụ 3 Tầng [Charge] để nhận Sức Mạnh Xu +1\n[WhenUse] Ở 15+ Tầng [Charge], tiêu thụ thêm 3 Tầng [Charge] để +20% sát thương gây ra\n[WhenUse] Khi dưới 5 Tầng [Charge], mất 10% HP và nhận +9 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Hồi Lưu",
+          "desc": "[WhenUse] Ở 10+ Tầng [Charge], tiêu thụ 3 Tầng [Charge] để nhận Sức Mạnh Xu +1\n[WhenUse] Ở 15+ Tầng [Charge], tiêu thụ thêm 3 Tầng [Charge] để +20% sát thương gây ra\n[WhenUse] Khi dưới 5 Tầng [Charge], mất 10% HP và nhận +9 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nạp Chuyển Hoá Năng Lực",
+          "desc": "[WhenUse] Tiêu thụ 10% HP trên chủ thể để nhận +15 Tầng [Charge]\n[DefeatDuel] -50% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 6 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 Tầng [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Cấp Máu",
+          "desc": "[WhenUse] Ở 10+ Tầng [Charge], tiêu thụ 3 Tầng [Charge] để nhận Sức Mạnh Xu +1\n[WhenUse] Ở 15+ Tầng [Charge], tiêu thụ thêm 3 Tầng [Charge] để +20% sát thương gây ra\n[WhenUse] Khi dưới 5 Tầng [Charge], mất 10% HP và nhận +9 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tái Nạp Chuyển Hoá Năng Lượng Sinh Học",
+          "desc": "[WhenUse] Tiêu thụ 10% HP trên chủ thể để nhận +15 Tầng [Charge]\n[DefeatDuel] -50% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 6 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 123804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Parade's Prince",
+          "desc": "[StartBattle] Nhận Phạm Vi Tấn Công bằng số lượng mục tiêu có [Laceration] (tối đa 5)\n[WhenUse] Nếu mục tiêu chính có 4+ [Laceration], Sức Mạnh Gốc +1\n[WhenUse] Nếu mục tiêu chính có 3+ [Laceration], Sức Mạnh Xu +1\n[DefeatDuel] Mất 1 [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [KeptBlood]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 123807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Am... The Prince... of the Parade...!",
+          "desc": "[CantDuel]\n[WhenUse] Nhận 4 [Paralysis]\n[WhenUse] Hiệu ứng hồi phục của Hardblood[TabExplain] Glaive's gấp đôi\n[WhenUse] Đặt SP về 0\n[EndSkill] Nhận 10 [KeptBlood]\nTrong lượt này không thể bị Choáng; kết thúc lượt sau khi sử dụng Kỹ Năng này.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 123808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm... Never... Going Back...!",
+          "desc": "[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 5 [Laceration] trên mục tiêu chính (tối đa 3)\n[WhenUse] Ở 4+ Tầng [Laceration] trên mục tiêu chính, Sức Mạnh Xu +1\n[WhenUse] +5% sát thương gây ra với mỗi Tầng [Laceration] trên mục tiêu chính (tối đa 20%)\n[WinDuel] Hiệu ứng hồi phục của Hardblood[TabExplain] Glaive's gấp đôi\n[DefeatDuel] Hiệu ứng hồi phục từ Hardblood[TabExplain] Glaive's vô hiệu\n[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu\n[EndSkill] Nhận 10 [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Laceration] và +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

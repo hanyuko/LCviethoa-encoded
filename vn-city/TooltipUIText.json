@@ -1,0 +1,79 @@
+{
+  "dataList": [
+    {
+      "id": "unit_info_tooltip_status_0",
+      "content": "Máu Tối Đa"
+    },
+    {
+      "id": "unit_info_tooltip_status_1",
+      "content": "Ngưỡng Tốc"
+    },
+    {
+      "id": "unit_info_tooltip_attack_resist_0",
+      "content": "Kháng Chém"
+    },
+    {
+      "id": "unit_info_tooltip_attack_resist_1",
+      "content": "Kháng Đâm"
+    },
+    {
+      "id": "unit_info_tooltip_attack_resist_2",
+      "content": "Kháng Đập"
+    },
+    {
+      "_comment": "Wrath => Phẫn Nộ, Cơn Thịnh Nộ, v.v.  Hiện tại dùng Phẫn Nộ cho giai đoạn này.",
+      "id": "unit_info_tooltip_attribute_resist_0",
+      "content": "Kháng Phẫn Nộ"
+    },
+    {
+      "_comment": "Lust => Sắc Dục, Dục Vọng, Ham Muốn, v.v.  Hiện tại dùng Dục Vọng cho giai đoạn này.",
+      "id": "unit_info_tooltip_attribute_resist_1",
+      "content": "Kháng Dục Vọng"
+    },
+    {
+      "_comment": "Sloth => Lười Biếng, Uể Oải, Trễ nải, v.v.  Hiện tại dùng Lười Biếng cho giai đoạn này.",
+      "id": "unit_info_tooltip_attribute_resist_2",
+      "content": "Kháng Lười Biếng"
+    },
+    {
+      "_comment": "Gluttony => Tham Ăn, Vô Độ, v.v.  Hiện tại dùng Phàm Ăn cho giai đoạn này.",
+      "id": "unit_info_tooltip_attribute_resist_3",
+      "content": "Kháng Phàm Ăn"
+    },
+    {
+      "_comment": "Gloom => U Sầu, Buồn Bã, v.v.  Hiện tại dùng Thờ Ơ cho giai đoạn này.",
+      "id": "unit_info_tooltip_attribute_resist_4",
+      "content": "Kháng Thờ Ơ"
+    },
+    {
+      "_comment": "Pride => Kiêu Ngạo, Vĩ đại, v.v.  Hiện tại dùng Kiêu Ngạo cho giai đoạn này.",
+      "id": "unit_info_tooltip_attribute_resist_5",
+      "content": "Kháng Kiêu Ngạo"
+    },
+    {
+      "_comment": "Envy => Đố Kỵ, Ghen Tị, v.v.  Hiện tại dùng Đố Kỵ cho giai đoạn này.",
+      "id": "unit_info_tooltip_attribute_resist_6",
+      "content": "Kháng Đố Kỵ"
+    },
+    {
+      "id": "unit_info_tooltip_skill_count",
+      "content": "Số lượng bản sao kĩ năng trong bể kĩ năng"
+    },
+    {
+      "id": "unit_info_tooltip_targetting_count",
+      "content": "Phạm Vi Tấn Công"
+    },
+    {
+      "id": "unit_info_tooltip_targetting_count_desc",
+      "content": "Mỗi Ô của kĩ năng này có thể nhắm vào mục tiêu"
+    },
+    {
+      "id": "unit_info_tooltip_ego_resource",
+      "content": "Số lượng tài nguyên E.G.O cần thiết cho kĩ năng này"
+    },
+    {
+      "id": "tooltip_ego_resource_ui",
+      "content": "Số lượng tài nguyên E.G.O đang sở hữu"
+    }
+  ]
+}

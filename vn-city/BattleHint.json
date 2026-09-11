@@ -1,0 +1,296 @@
+{
+  "dataList": [
+    {
+      "id": "1",
+      "content": "Khi hoàn thành một lần thám hiểm Hầm Ngục Gương sẽ phải bỏ ra Mô-Đun Enkephalin để nhận thưởng."
+    },
+    {
+      "id": "2",
+      "content": "Mỗi Kỹ Năng đều có ít nhất 1 Xu."
+    },
+    {
+      "id": "3",
+      "content": "Sức Mạnh của mỗi Xu đều có thể tăng hoặc giảm tùy theo mặt mà nó rơi vào."
+    },
+    {
+      "id": "4",
+      "content": "Mặt của mỗi Xu cũng ảnh hưởng đến việc kích hoạt các hiệu ứng kỹ năng nhất định."
+    },
+    {
+      "id": "5",
+      "content": "Các đơn vị có thể bị rơi vào trạng thái Hoảng Loạn khi Tinh Thần của họ giảm xuống dưới ngưỡng nhất định."
+    },
+    {
+      "id": "6",
+      "content": "Các Tội Nhân có Tinh Thần quá thấp sẽ bị E.G.O Ăn Mòn."
+    },
+    {
+      "id": "7",
+      "content": "Các Tội Nhân bị Ăn Mòn sẽ tấn công bất kể địch ta, thế nên hãy cẩn thận."
+    },
+    {
+      "id": "8",
+      "content": "Số Lượng của các hiệu ứng trạng thái sẽ cho biết lượng sát thương mà nó sẽ gây ra."
+    },
+    {
+      "id": "9",
+      "content": "Sau khi sử dụng, các kỹ năng sẽ được chuyển đổi thành các tài nguyên E.G.O tương ứng với loại Nguyên Tội của chúng."
+    },
+    {
+      "id": "10",
+      "content": "Việc đánh bại một Dị Thể nhiều lần sẽ làm tăng Cấp Độ Quan Sát của nó, giúp bạn gây sát thương hiệu quả hơn trong các cuộc chạm trán sau này."
+    },
+    {
+      "id": "11",
+      "content": "Các kỹ năng cần tài nguyên sẽ bị hủy nếu bị thiếu số lượng cần thiết."
+    },
+    {
+      "id": "12",
+      "content": "Tốc Độ được quyết định ngẫu nhiên trong một khoảng nhất định ở mỗi lượt."
+    },
+    {
+      "id": "13",
+      "content": "Tốc Độ sẽ quyết định thứ tự hành động của các đơn vị trong mỗi lượt."
+    },
+    {
+      "id": "14",
+      "content": "Vào đầu trận, các nhân vật được Triển Khai sẽ có mức Kháng Nguyên Tội tương ứng với E.G.O có cấp độ thấp nhất mà họ đang trang bị."
+    },
+    {
+      "id": "15",
+      "content": "Sau khi một Tội Nhân sử dụng E.G.O, chỉ số Kháng Nguyên Tội của họ sẽ được thay đổi; tuy nhiên, bất kỳ giá trị nào bị giảm xuống thì sẽ vẫn giữ nguyên như cũ."
+    },
+    {
+      "id": "16",
+      "content": "Kỹ năng Phòng Thủ được tạo ra sẽ đè lên ô kỹ năng dưới cùng của Tội Nhân, thay thế kỹ năng hiện tại hoặc E.G.O."
+    },
+    {
+      "id": "17",
+      "content": "Hủy E.G.O trước khi sử dụng sẽ trả lại tài nguyên."
+    },
+    {
+      "id": "18",
+      "content": "Khi có trên 2 kỹ năng cùng loại Nguyên Tội tạo thành một chuỗi sẽ kích hoạt Nguyên Tội Cộng Hưởng, giúp tăng cường sức mạnh cho các đòn tấn công."
+    },
+    {
+      "id": "19",
+      "content": "Khi có trên 3 kỹ năng cùng loại Nguyên Tội tạo thành một chuỗi liền mạch sẽ kích hoạt Cộng Hưởng Tuyệt Đối, giúp tăng cường sức mạnh cho các đòn tấn công."
+    },
+    {
+      "id": "20",
+      "content": "Giao Tranh càng lâu thì sát thương của người thắng sẽ càng gia tăng."
+    },
+    {
+      "id": "21",
+      "content": "Khi lượng máu của một nhân vật giảm xuống dưới Ngưỡng Choáng, nhân vật đó sẽ bị suy yếu trước mọi đòn đánh và không thể hành động cho đến khi kết thúc lượt kế."
+    },
+    {
+      "id": "22",
+      "content": "Khi ở trong các Hầm Ngục, bạn có thể hồi phục và lưu tiến trình tại các Trạm Nghỉ Chân."
+    },
+    {
+      "id": "23",
+      "content": "Mỗi Danh Tính đều có một Nội Tại Giao Chiến và một Nội Tại Hỗ Trợ."
+    },
+    {
+      "id": "24",
+      "content": "Các Danh Tính tham chiến trong trận sẽ sử dụng Nội Tại Giao Chiến."
+    },
+    {
+      "id": "25",
+      "content": "Các Tội Nhân không trực tiếp tham chiến trong trận sẽ hỗ trợ thông qua các Nội Tại Hỗ Trợ của họ."
+    },
+    {
+      "id": "26",
+      "content": "Các Bộ Phận của một Dị Thể có thể có chỉ số Kháng và hành vi khác nhau."
+    },
+    {
+      "id": "27",
+      "content": "Khi đối đầu với Dị Thể trong các Ải Chuyên Sâu, sẽ có những lúc bạn phải đưa ra lựa chọn; tùy vào kết quả mà bạn có thể nhận các hiệu ứng, hoặc thậm chí là các Quà Tặng E.G.O."
+    },
+    {
+      "id": "28",
+      "content": "Vẫn có thể vượt qua kiểm định ngay cả khi không có loại Nguyên Tội cần thiết."
+    },
+    {
+      "id": "29",
+      "content": "Bạn có thể nhận được Quà Tặng E.G.O từ các lần kiểm định và các trận đấu khi thám hiểm qua các Hầm Ngục."
+    },
+    {
+      "id": "30",
+      "content": "Kẻ địch rơi vào Trạng Thái Hoảng Loạn sẽ phải chịu các hiệu ứng bất lợi."
+    },
+    {
+      "id": "31",
+      "content": "Nếu HP của nhân vật Bị Choáng thấp hơn Ngưỡng Choáng kế tiếp, họ sẽ nhận thêm sát thương."
+    },
+    {
+      "id": "32",
+      "content": "Số Tầng của các hiệu ứng trạng thái sẽ cho biết số lần còn tồn tại hoặc số lần kích hoạt khi giao chiến."
+    },
+    {
+      "id": "33",
+      "content": "Các Kỹ Năng E.G.O sẽ được đặt ở hàng dưới cùng của Tội Nhân."
+    },
+    {
+      "id": "34",
+      "content": "Giao Tranh xảy ra khi hai Kỹ Năng Tấn Công nhắm vào nhau."
+    },
+    {
+      "id": "35",
+      "content": "Các Kỹ Năng Giao Chiến và Kỹ Năng Hỗ Trợ cần có các loại Nguyên Tội nhất định được ghép nối hoặc sở hữu tài nguyên tương ứng để kích hoạt."
+    },
+    {
+      "id": "36",
+      "content": "Cảm ơn những những nhà hảo tâm đã tin tưởng và ủng hộ nhóm dịch từ những ngày đầu!!!\nKai, Oberon Vortigern, Shiz, Linus, Anian, Brokencat, Guro, Cú, Trứng, Cá, Hoa, Druang, Light Yagami"
+    },
+    {
+      "id": "37",
+      "content": "Cảm ơn những bạn đóng góp đã tin tưởng và ủng hộ nhóm dịch!!!\nJei, Dio, ComNoi, Fâu con, Bố Linus của chúng con, hieudzb, Fuze, Dinh Thanh Thuy, Hannie, Kidou, Tèo, Gaisan, thestreanger0246, Tako, Kuroyami Riyu, cirno_fumo1, visafrom36, Hanzo, ilikenanami, Trug, Trino, Vugiaminh, hanyuko, skibidicucurella56, Kanzy, phuongpham, Vittongthong, Back, .ilovefirefly, .astral00_, Back, Gaeno, Đấu, Dung, haruharu9127"
+    },
+    {
+      "id": "38",
+      "content": "Lời nhắn từ dịch giả:\nĐến tình yêu mà cũng phải sao chép thì thứ tình yêu đó thật sáo rỗng và ghê tởm."
+    },
+    {
+      "id": "38",
+      "content": "Lời nhắn từ dịch giả:\nThank u all for supporting bản dịch\n- Fuz và Cê Bắc -"
+    },
+    {
+      "id": "39",
+      "content": "Lời nhắn từ dịch giả:\nNếu bạn đọc được dòng này, thì bạn là một người tuyệt vời~ Cảm ơn bạn nhìu nhaaa~ <3"
+    },
+    {
+      "id": "40",
+      "content": "Lời nhắn từ dịch giả:\nNgự trị trên thiên đường băng giá, Hyorinmaru."
+    },
+    {
+      "id": "41",
+      "content": "Lời nhắn từ dịch giả:\nBiết địch biết ta, trăm trận trăm thắng. (hoặc không có đủ gift để winrate md-)"
+    },
+    {
+      "id": "42",
+      "content": "Lời nhắn từ dịch giả:\nGiữa đêm, anh Ricardo đói định ăn mì gói, song cách úp mì lại muôn phần rắc rối."
+    },
+    {
+      "id": "43",
+      "content": "Lời nhắn từ dịch giả:\nTôi đã tới được tận đây và chứng kiến được bản dịch ra... Quả là 1 hành trình...\n#StillGotIt #ÀỪGìGìĐóVềKýTênBôngSuisei"
+    },
+    {
+      "id": "44",
+      "content": "Lời nhắn từ dịch giả:\nSENJI, ÔNG ĐÂU RỒI, SENJIIIIIIII. Ôi, mới lúc trước tôi còn nghe tiếng ông mà..."
+    },
+    {
+      "id": "45",
+      "content": "Lời nhắn từ dịch giả:\nChờ Đợi và Hy Vọng"
+    },
+    {
+      "id": "46",
+      "content": "Lời nhắn từ dịch giả:\nTrăng dưới nước là trăng trên trời, người trước mặt là người dịch Faust đây.\nCảm ơn đã ủng hộ bản dịch.\nKIM JI HOON LÀM ƠN HỒI SINH CHÚ L VỚI BỐ LARPGOD ĐƯỢC KHÔNG??"
+    },
+    {
+      "id": "47",
+      "content": "Lời nhắn từ dịch giả:\nTiền là nhiên liệu, ôm không xài thì không có giá trị."
+    },
+    {
+      "id": "48",
+      "content": "Lời nhắn từ dịch giả:\nHãy khiêu vũ nào, Ngài Quản Lý."
+    },
+    {
+      "id": "49",
+      "content": "Lời nhắn từ dịch giả:\nBạn đã tới HamHamPangPang chưa? Nếu không thì hãy tới cửa hàng Gà Bồ Tát nổi tiếng nhất Tập đoàn K!!"
+    },
+    {
+      "id": "50",
+      "content": "Lời nhắn từ dịch giả:\nMÀY CÓ YÊU BẢN DỊCH CỦA THÀNH PHỐ KHÔNG?"
+    },
+    {
+      "id": "51",
+      "content": "Lời nhắn từ dịch giả:\nChơi Limbus quá 3 Hầm Ngục Gương một ngày sẽ có tỉ lệ bạn buồn ngủ."
+    },
+    {
+      "id": "52",
+      "content": "Lời nhắn từ dịch giả:\nBản dịch của The City bao gồm tiếng Việt, tiếng Anh và T.N.T."
+    },
+    {
+      "id": "53",
+      "content": "Lời nhắn từ dịch giả:\n#IloveAitsukiNakuru"
+    },
+    {
+      "id": "54",
+      "content": "Lời nhắn từ dịch giả:\nGIB ME MORE BEANS!"
+    },
+    {
+      "id": "55",
+      "content": "Lời nhắn từ dịch giả:\nĐây là lời nhắn của người sắp uncrush."
+    },
+    {
+      "id": "56",
+      "content": "Lời nhắn từ dịch giả:\nLiệu làn mây... có đủ ấm áp để nâng đỡ đôi cánh này?"
+    },
+    {
+      "id": "57",
+      "content": "Lời nhắn từ dịch giả:\nBất kỳ điều xấu gì có khả năng xảy ra, nó sẽ xảy ra."
+    },
+    {
+      "id": "58",
+      "content": "Lời nhắn từ dịch giả:\nHifuu Association chân thành cảm ơn và đừng bị scientia - legere exitus nữa.\nHình như hôm nay bạn quên vào Uma Musume: Pretty Derby làm Daily chạy Auto rồi nhỉ. Nhớ Login đấy nhá. Umapyoi<3."
+    },
+    {
+      "id": "59",
+      "content": "Lời nhắn từ dịch giả:\nGacha, người chơi luôn thua.\nNgười không chơi luôn không thắng.\nChỉ có Nangong Yu thắng."
+    },
+    {
+      "id": "60",
+      "content": "Lời nhắn từ dịch giả:\nTôi bị bắt ăn xi măng khi tôi còn 7 tuổi."
+    },
+    {
+      "id": "61",
+      "content": "Lời nhắn từ dịch giả:\nBắt đầu ta đi bằng tay trắng, kết thúc rồi ta đi về trắng tay. "
+    },
+    {
+      "id": "62",
+      "content": "Lời nhắn từ dịch giả:\nNếu như bạn cần bản dịch để chơi game, thì bạn sẽ là gì khi thiếu nó."
+    },
+    {
+      "id": "63",
+      "content": "Lời nhắn từ dịch giả:\nNghệ thuật không đi kèm tri thức thì chỉ là hư vô."
+    },
+    {
+      "id": "64",
+      "content": "Lời nhắn từ dịch giả:\nMặt trời của Tập Đoàn N là thứ cuối cùng t sẽ thấy trước Canto X (cụ thể là nụ cười của Meursault)"
+    },
+    {
+      "id": "65",
+      "content": "Lời nhắn từ dịch giả:\nOTP RNGNgười Chơi là canon event vì RNG sẽ 'chơi' bạn đến chết."
+    },
+    {
+      "id": "66",
+      "content": "Lời nhắn từ dịch giả:\nQuả táo và Cây thông Noen tháng 8 rực lửa."
+    },
+    {
+      "id": "67",
+      "content": "Lời nhắn số 67 từ dịch giả:\nNăm đó tại Thanh Hoá Sơn y bước ra 36 bước, đón nhận y là thất vọng và sự trào phúng, nhưng mặt y ko chút biểu cảm. Năm đó hắn đi nghịch đường tàu luyện thành Rauma Cổ, nghênh hắn chính là khiếp sợ cùng tán tụng, mà hắn vẫn giữ 1 bộ mặt vô cảm mà đi tới, hắn trước giờ vẫn như thế cho dù đoàn tàu trước mặt hắn vẫn bước tới."
+    },
+    {
+      "id": "68",
+      "content": "Lời nhắn từ dịch giả:\n47 E1 BB 93 6E 20 47 61 79"
+    },
+    {
+      "id": "69",
+      "content": "Lời nhắn số 69 từ dịch giả:\nAi cũng mong được chiêm ngưỡng ánh trăng huyền diệu đấy một lần. Mà có ai biết đến số phận của những kẻ đã có được diễm phúc ấy đâu."
+    },
+    {
+      "id": "70",
+      "content": "Lời nhắn từ dịch giả:\nBỏ 6000 Trump ủng hộ KJH, lão ấy làm model L2D luôn?"
+    },
+    {
+      "id": "71",
+      "content": "Lời nhắn từ dịch giả:\nThứ duy nhất còn sót lại mà ta biết,\nĐó chính là <i>máu đổ</i>.\nBản ngã bên trong ta đã gật đầu chấp thuận.\nVì chỉ duy nhất kẻ đứng vững,\nMới được phép vút bay trên lưng vị Thiên Long.\n<i>có lẽ câu này sẽ thay đổi tùy theo update</i>"
+    },
+    {
+      "id": "72",
+      "content": "Lời nhắn từ dịch giả:\nHeathcliff x Ishmael = Chồng Vũ phu + vợ Gia trưởng"
+    }
+  ]
+}

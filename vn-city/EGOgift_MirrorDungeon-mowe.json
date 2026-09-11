@@ -1,0 +1,200 @@
+{
+  "dataList": [
+    {
+      "id": 9732,
+      "name": "Vé Giảm Giá Hạng Phổ Thông",
+      "desc": "Cuối Lượt: trong số Danh Tính có Tốc Độ ≤ 5, Danh Tính có Tốc Độ thấp nhất nhận 1 [Agility] vào lượt kế.",
+      "simpleDesc": [
+        {
+          "abilityID": 9732,
+          "simpleDesc": "Gain 1 Haste next turn"
+        }
+      ]
+    },
+    {
+      "id": 9733,
+      "name": "Lon Kem",
+      "desc": "Khi có đồng minh mất HP do hiệu ứng Kỹ Năng Tấn Công của chính họ, hồi một nửa số HP đã mất do hiệu ứng của Kỹ Năng đó vào Đầu Lượt kế. (làm tròn xuống)\n\nKhi có đồng minh hồi HP nhờ hiệu ứng của Kỹ Năng E.G.O, hồi thêm +12.5% HP. (làm tròn xuống)",
+      "simpleDesc": [
+        {
+          "abilityID": 9733,
+          "simpleDesc": "Heal HP at the next Turn Start"
+        },
+        {
+          "abilityID": 97331,
+          "simpleDesc": "Enhance E.G.O HP Heal effects"
+        }
+      ]
+    },
+    {
+      "id": 9734,
+      "name": "Dao Găm Thứ Nguyên Loại E",
+      "desc": "Kỹ Năng 1 có nhận Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' nhận Sức Mạnh Giao Tranh +1 và +5% sát thương gây ra.\n\nNếu Kỹ Năng 1 đó là Kỹ Năng Xu Đơn, đổi thành nhận Sức Mạnh Giao Tranh +1 và +12.5% sát thương gây ra.\n\nNếu một Danh Tính thuộc Tập Đoàn W gây sát thương lên kẻ địch bằng Kỹ Năng Đố Kỵ (tính cả Kỹ Năng E.G.O), gây 2 Giảm Hồi Máu. (không thể cộng dồn)",
+      "simpleDesc": [
+        {
+          "abilityID": 9734,
+          "simpleDesc": "Skill 1 gains Clash Power and deals more damage"
+        },
+        {
+          "abilityID": 97341,
+          "simpleDesc": "Skill 1 gains Clash Power and deals more damage"
+        },
+        {
+          "abilityID": 97342,
+          "simpleDesc": "Inflict 2 HP Healing Down"
+        }
+      ]
+    },
+    {
+      "id": 9735,
+      "name": "Ắc Quy Rào Chắn Di Động",
+      "desc": "Kỹ Năng 1 có nhận Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' nhận Sức Mạnh Giao Tranh +2.\n\nKhi sử dụng Kỹ Năng 1 có nhận Tầng [Charge], nhận +2 Tầng [Charge] và 1 [ChargeForceField]. (một lần mỗi lượt)\n\nNếu một Danh Tính thuộc Tập Đoàn W nhận sát thương do bất kỳ hiệu ứng nào khác ngoài sát thương trực tiếp, nhận 5 [ChargeForceField]. (một lần mỗi lượt)",
+      "simpleDesc": [
+        {
+          "abilityID": 9735,
+          "simpleDesc": "Skill 1 gains Clash Power, Charge Count, and Charge Barrier"
+        },
+        {
+          "abilityID": 97351,
+          "simpleDesc": "Gain Charge Barrier"
+        }
+      ]
+    },
+    {
+      "id": 9736,
+      "name": "Pin Sinh Học",
+      "desc": "Đồng minh có Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' nhận 1 Cấp Công Kích với mỗi lần Giao Tranh. (tối đa 6. Đặt lại khi Kết Đòn)\n\nCuối Lượt: Danh Tính có 10+ (Tầng [Charge] + '<noparse>Năng Lượng</noparse> Đặc Trưng') nhận 1 [Agility] vào lượt kế. Ở 18+ (Tầng [Charge] + '<noparse>Năng Lượng</noparse> Đặc Trưng'), nhận thêm 3 [AttackUp].\n\n※ Với '<noparse>Năng Lượng</noparse> Đặc Trưng' có cả Lượng và Tầng, sử dụng Tầng để tính toán",
+      "simpleDesc": [
+        {
+          "abilityID": 9736,
+          "simpleDesc": "Gain Offense Level"
+        },
+        {
+          "abilityID": 97361,
+          "simpleDesc": "Gain Haste"
+        },
+        {
+          "abilityID": 97362,
+          "simpleDesc": "Gain Offense Level Up"
+        }
+      ]
+    },
+    {
+      "id": 9737,
+      "name": "Mô-đun Tim Mạch Phản Ứng",
+      "desc": "Khi một đồng minh có Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' thua Giao Tranh, nhận Khiên bằng với (Số Tầng [Charge] + '<noparse>Năng Lượng</noparse> Đặc Trưng'). (một lần mỗi lượt)\n\nNếu HP ≤ 50%, nhận ((Số Tầng [Charge] + '<noparse>Năng Lượng</noparse> Đặc Trưng') x 2) Khiên. (mỗi lần mỗi lượt)\n\nNếu Danh Tính thuộc Văn Phòng MultiCrack nhận sát thương trong Ải này: vào lượt kế, họ hồi 33% HP đã mất ở lượt trước. (làm tròn xuống)",
+      "simpleDesc": [
+        {
+          "abilityID": 9737,
+          "simpleDesc": "Gain Shield"
+        },
+        {
+          "abilityID": 97371,
+          "simpleDesc": "Heal HP based on HP lost last turn"
+        }
+      ]
+    },
+    {
+      "id": 9738,
+      "name": "Servo Khớp Máy",
+      "desc": "Vào Lượt kế: đồng minh nhận [Agility] và Tầng [Charge] bằng với số Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' nhận được từ Kỹ Năng Tấn Công cơ bản mà họ dùng trong lượt này. (tối đa 2)\n\nKhi một Danh Tính thuộc Văn Phòng MultiCrack nhận hoặc tiêu thụ Tầng [Charge] bằng Kỹ Năng Tấn Công cơ bản, họ nhận +1 Tầng [Charge]. (tối đa 2)",
+      "simpleDesc": [
+        {
+          "abilityID": 9738,
+          "simpleDesc": "Gain Haste and Charge Count"
+        },
+        {
+          "abilityID": 97381,
+          "simpleDesc": "Gain more Charge Count"
+        }
+      ]
+    },
+    {
+      "id": 9739,
+      "name": "Tinh Thể Máu",
+      "desc": "Cuối Lượt: nếu chủ thể có [Laceration], giảm 1 nửa Lượng [Laceration] đang có và hồi (Lượng [Laceration] đã giảm x số Tầng [Laceration] trên chủ thể) HP. (làm tròn xuống. Có thể hồi lên tới 10% HP tối đa trong 1 lần)",
+      "simpleDesc": [
+        {
+          "abilityID": 9739,
+          "simpleDesc": "Halve Bleed Potency on self, hồi HP"
+        }
+      ]
+    },
+    {
+      "id": 9740,
+      "name": "Khớp Tự Động",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Charge], hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nKỹ Năng Tấn Công Cơ Bản Xu Dương có tiêu thụ Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng': nhận Sức Mạnh Xu +1 và +(tổng số Tầng [Charge] và '<noparse>Năng Lượng</noparse> Đặc Trưng' Kỹ Năng đó đã tiêu thụ x 4)% sát thương gây ra (tối đa 40%)\nKỹ Năng Tấn Công Cơ Bản Xu Âm: Thay vì nhận Sức Mạnh Xu, nhận Sức Mạnh Gốc +(4 / Số Xu) (tối thiểu 1; làm tròn xuống)\n\nCuối Lượt: đồng minh có Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' nhận 1 [Agility] (tối đa là 2) và 1 [AttackDmgUp] (tối đa 3) với mỗi lần họ dùng Kỹ Năng Tấn Công Cơ Bản có tiêu thụ Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' trong Ải này.\n\nNếu một Danh Tính thuộc Văn Phòng MultiCrack có 5+ [Charge], họ nhận Sức Mạnh Xu +1 cho Kỹ Năng Tấn Công cơ bản.",
+      "simpleDesc": [
+        {
+          "abilityID": 9740,
+          "simpleDesc": "Gain Coin/Base Power and deal more damage"
+        },
+        {
+          "abilityID": 97401,
+          "simpleDesc": "Gain Haste and Damage Up next turn"
+        },
+        {
+          "abilityID": 97402,
+          "simpleDesc": "Gain Coin Power"
+        }
+      ]
+    },
+    {
+      "id": 9741,
+      "name": "Pin Quá Tải",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Charge], hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nKỹ Năng Tấn Công Cơ Bản Xu Dương có tiêu thụ Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng': nhận Sức Mạnh Xu +1 và +(tổng số Tầng [Charge] và '<noparse>Năng Lượng</noparse> Đặc Trưng' Kỹ Năng đó đã tiêu thụ x 4)% sát thương gây ra (tối đa 40%)\nKỹ Năng Tấn Công Cơ Bản Xu Âm: Thay vì nhận Sức Mạnh Xu, nhận Sức Mạnh Gốc +(4 / Số Xu) (tối thiểu 1; làm tròn xuống)\n\nKhi đồng minh có Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' vào Giao Tranh bằng Kỹ Năng Tấn Công cơ bản: Sức Mạnh Giao Tranh +2; nhận +3 Tầng [Charge] khi thắng Giao Tranh, và mất 6 Tầng [Charge] khi thua Giao Tranh.\n\nKhi thắng Giao Tranh bằng Kỹ Năng Tấn Công Cơ Bản Đố Kỵ, gây 1 [VioletTakeDamageUp]. (cộng dồn 3 lần)",
+      "simpleDesc": [
+        {
+          "abilityID": 9741,
+          "simpleDesc": "Gain Coin/Base Power and deal more damage"
+        },
+        {
+          "abilityID": 97411,
+          "simpleDesc": "Gain Clash Power; gain Charge Count upon Clash Win, lose Charge Count upon Clash Lose"
+        },
+        {
+          "abilityID": 97412,
+          "simpleDesc": "Inflict Envy Fragility"
+        }
+      ]
+    },
+    {
+      "id": 9742,
+      "name": "Servo Máy Phát Điện Vĩnh Cửu",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Charge], hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nKỹ Năng Tấn Công Cơ Bản Xu Dương có tiêu thụ Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng': nhận Sức Mạnh Xu +1 và +(tổng số Tầng [Charge] và '<noparse>Năng Lượng</noparse> Đặc Trưng' Kỹ Năng đó đã tiêu thụ x 4)% sát thương gây ra (tối đa 40%)\nKỹ Năng Tấn Công Cơ Bản Xu Âm: Thay vì nhận Sức Mạnh Xu, nhận Sức Mạnh Gốc +(4 / Số Xu) (tối thiểu 1; làm tròn xuống)\n\nKhi đồng minh có Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' vào Giao Tranh với Kỹ Năng Tấn Công Cơ Bản: Sức Mạnh Giao Tranh +1; nhận 2 [AttackUp] vào Đầu Lượt với mỗi lần Giao Tranh Thắng trong cuộc Giao Tranh đó suốt Ải này. (tối đa 6)\n\nTrong Ải này, khi một đồng minh nhận sát thương có thể giết họ, tiêu thụ toàn bộ Tầng [Charge] và '<noparse>Năng Lượng</noparse> Đặc Trưng' (Lượng cố định) họ đang có; rồi lập thức hồi (10+ tổng số Tầng [Charge] và '<noparse>Năng Lượng</noparse> Đặc Trưng' (Lượng cố định) đã tiêu thụ)% HP (một lần mỗi Ải); sau đó, nhận 3 Bảo Hộ cho đến khi đồng minh đó bị đánh bại.\n\n※ Với '<noparse>Năng Lượng</noparse> Đặc Trưng' có cả Lượng và Tầng, sử dụng Tầng để tính toán",
+      "simpleDesc": [
+        {
+          "abilityID": 9742,
+          "simpleDesc": "Gain Coin/Base Power and deal more damage"
+        },
+        {
+          "abilityID": 97421,
+          "simpleDesc": "Gain Clash Power and Offense Level Up"
+        },
+        {
+          "abilityID": 97422,
+          "simpleDesc": "Immediately before death, consume Charge Count to instantly hồi and gain Protection"
+        }
+      ]
+    },
+    {
+      "id": 9743,
+      "name": "Khối Đá Quý Trái Tim Năng Lượng",
+      "desc": "Đầu Lượt: Quà Tặng này kích hoạt tới hết Ải khi Số Danh Tính có Kỹ Năng Tấn Công gây Lượng, Tầng [Charge], hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' ≥ 5. (không tính Kỹ Năng E.G.O và Đơn Vị Dự Bị)\n\nKỹ Năng Tấn Công Cơ Bản Xu Dương có tiêu thụ Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng': nhận Sức Mạnh Xu +1 và +(tổng số Tầng [Charge] và '<noparse>Năng Lượng</noparse> Đặc Trưng' Kỹ Năng đó đã tiêu thụ x 4)% sát thương gây ra (tối đa 40%)\nKỹ Năng Tấn Công Cơ Bản Xu Âm: Thay vì nhận Sức Mạnh Xu, nhận Sức Mạnh Gốc +(4 / Số Xu) (tối thiểu 1; làm tròn xuống)\n\nNếu đồng minh có 15+ (số Tầng [Charge] + '<noparse>Năng Lượng</noparse> Đặc Trưng'): khi họ sử dụng Kỹ Năng 3 có tiêu thụ Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng', và nếu vẫn còn Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' khi Kết Đòn, tiêu thụ toàn bộ số Tầng [Charge] và '<noparse>Năng Lượng</noparse> Đặc Trưng' còn lại để gây thêm (tổng số Tầng [Charge] và '<noparse>Năng Lượng</noparse> Đặc Trưng' đã tiêu thụ x7.5)% sát thương cố định. (tối đa 75%)\n\nSố Tầng [Charge] tối đa +5.",
+      "simpleDesc": [
+        {
+          "abilityID": 9743,
+          "simpleDesc": "Gain Coin/Base Power and deal more damage"
+        },
+        {
+          "abilityID": 97431,
+          "simpleDesc": "Spend additional Charge Count to deal bonus damage"
+        },
+        {
+          "abilityID": 97432,
+          "simpleDesc": "Max Charge Count +5"
+        }
+      ]
+    }
+  ]
+}

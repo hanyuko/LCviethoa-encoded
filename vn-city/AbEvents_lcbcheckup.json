@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": 97104301,
+      "title": "We're the 'samples'.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện thí nghiệm này?",
+      "successDesc": [
+        "\"Ồ hố, phản ứng ấn tượng đấy. Mức độ đồng hóa cũng khá nữa.\"\n\nCó lẽ nghiên cứu viên hài lòng với thông số chăng?\n\nSau khi ghi chép liên tục vào vô số giấy tờ, nghiên cứu viên mới thả [Tội Nhân] ra.\n\n[Tội Nhân] tháo món đồ trên người ra trả cho nghiên cứu viên, nhưng người đó lắc đầu.\n\n\"Trang bị này vừa khít với 'chuột bạch' hơn. Cứ giữ mà xài.\""
+      ],
+      "failureDesc": [
+        "\"Hừm, cơ thể không chịu nổi phải không? Có lẽ không hợp rồi.\"\n\nNghiên cứu viên cau mày, tỏ vẻ không vui với kết quả thu thập được.\n\n{0} cũng cau có mặt mày nhưng mà là vì đau đớn.\n\n\"Thôi thì có lẽ cần thêm thời gian để thích nghi với trang bị này. Cứ giữ và cố quen với nó đi.\"\n\n\"Thử thêm vài lần mà thấy không chịu nổi nữa thì cứ mang trả lại cho tôi.\""
+      ]
+    },
+    {
+      "id": 97104401,
+      "title": "Eat it.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người thực hiện?",
+      "successDesc": [
+        "{0} tỏ ra bất ngờ ngay khi thử thứ thuốc của nghiên cứu viên.\n\nThứ thuốc này có vẻ như đã xua tua đi phần lớn căng thẳng của {0} vì giờ đây đôi mắt của người đó lấp lánh long lanh làm sao.\n\n\n\"Lần thử nghiệm lâm sàng này thành công rồi. Cảm ơn đã tình nguyện hỗ trợ nghen.\"\n\n\"Nhận lấy cái này nha. Mẫu thuốc mới nhất của chúng tôi đó.\""
+      ],
+      "failureDesc": [
+        "{0} bỗng nhăn nhó mặt mày đầy khó chịu ngay khi thử thứ thuốc của nghiên cứu viên.\n\nTrông {0} không được ổn lắm vì cái vị của thuốc càng khiến người đó muốn nôn hết ra ngoài.\n\n\"Lần thử nghiệm lâm sàng này thất bại rồi. Xin lỗi nghen...\"\n\n\"Lấy đỡ cái này đi làm quà tạ lỗi nha. Mẫu thuốc mới nhất của chúng tôi đó.\""
+      ]
+    },
+    {
+      "id": 97104701,
+      "title": "Accept and investigate.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ chấp nhận nhiệm vụ này?",
+      "successDesc": [
+        "\"Tôi thích thái độ nhiệt huyết của cậu đấy... Thiệt đó. Cầm lấy cái này đi.\"\n\n\"Nó sẽ giúp cậu trong công cuộc điều tra.\"\n\nSau khi đưa trang bị cho chúng tôi, các nghiên cứu viên bước đến chỗ Tội Nhân rồi bắt đầu xem xét kỹ càng.\n\nSau khi hoàn tất, tất cả Tội Nhân đều cảm thấy khỏe mạnh trở lại."
+      ],
+      "failureDesc": [
+        "\"Giả bộ tỏ ra nhiệt huyết chút thì có chết ai đâu chứ lị?\"\n\n\"Mà chúng tôi sẽ cố đảm bảo mọi người đã hồi phục đầy đủ. Đừng bất mãn thế chứ.\"\n\nCác nghiên cứu viên bước đến chỗ Tội Nhân rồi bắt đầu xem xét kỹ càng.\n\nSau khi hoàn tất, tất cả Tội Nhân đều cảm thấy khỏe mạnh trở lại."
+      ]
+    },
+    {
+      "id": 97104801,
+      "title": "Carefully look around.",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người đi tìm?",
+      "successDesc": [
+        "Nhận thấy thứ gì đó, {0} chỉ tay đến một chỗ trên bức tường.\n\nCó một khe nứt nhỏ giữa vô vàn ký tự chi chít nhau. Tôi chầm chập đưa tay vào trong khe nứt đó—\n\nÀ há, đầu ngón tay tôi đụng phải một tấm thẻ. Có vẻ như người nào đó đã giấu nó trong đây.\n\nCó thể sẽ hữu ích."
+      ],
+      "failureDesc": [
+        "Nhận thấy thứ gì đó, {0} chỉ tay đến một chỗ trên bức tường.\n\nCó một khe nứt nhỏ giữa vô vàn ký tự chi chít nhau. Tôi chầm chập đưa tay vào trong khe nứt đó—\n\nĐầu ngón tay tôi đụng phải một huyết thanh hồi phục, viền ngoài dính đầy máu.\n\nCó lẽ đã xảy ra đánh nhau tranh giành cái huyết thanh này.\n\nQuanh đây vẫn còn dấu hiệu của nỗi tuyệt vọng khôn nguôi lẫn không khí của cái chết cận kề.\n\nChúng tôi dùng huyết thanh rồi vội vã rời đi, tất cả mọi người đều tối sầm mặt lại."
+      ]
+    }
+  ]
+}

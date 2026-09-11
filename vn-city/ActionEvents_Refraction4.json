@@ -1,0 +1,62 @@
+{
+  "dataList": [
+    {
+      "id": 862901,
+      "name": "",
+      "subDesc": "",
+      "desc": "Một phòng tiệc trống trải rộng lớn đắm chìm trong sắc màu đỏ nâu mờ ảo.\n\nVị vua đơn độc bị trói chặt trên chiếc ngai vàng từ tốn nâng tay lên.\n\nChân bạn bỗng lạnh toát cùng với thứ giai điệu kỳ ảo vang lên khắp không gian.\n\nVị vua đơn côi nhịp nhàng chỉ tay vào một cái bục gần bên.\n\nTrên đó là những chiếc mặt nạ khắc họa từng cung bậc cảm xúc khác nhau.\n\nCó chiếc mặt nạ cười. Chiếc mặt nạ khóc. Cùng chiếc mặt nạ giận dữ.\n\nNên thể hiện gương mặt phô ra cung bậc cảm xúc nào để diện kiến vị vua đây?",
+      "options": [
+        {
+          "message": "Đeo chiếc mặt nạ cười.",
+          "messageDesc": "Chọn để nhận tăng Tốc Độ Đối Đa, hồi SP cho tất cả đồng minh, và Nhiệt Liệt Chào Mừng cho Ải này.",
+          "result": [
+            "Bạn đeo lên chiếc mặt nạ cười.\n\nBạn cảm thấy tràn đầy tự tin và chẳng có gì mà bạn không thể làm được.\n\nCác Tội Nhân tràn trề khẩu khí tiến vào vào phòng tiệc.\n\nHướng đến cái ngai vàng sẽ không bao giờ thành nơi tịnh dưỡng.\n\nHãy để trận chiến này mang đến khoảnh khắc tươi vui và hạnh phúc để gửi gắm đến vị vua sẽ mãi mãi trị vì vương quốc bất tận này.\n\nCác Tội Nhân với niềm hân hoan vô bờ bến sẽ mở màn khai cuộc cho bữa tiệc long trọng này."
+          ]
+        },
+        {
+          "message": "Đeo chiếc mặt nạ khóc.",
+          "messageDesc": "Chọn để nhận tăng Sức Mạnh Giao Tranh, hồi SP cho tất cả đồng minh, và Nhiệt Liệt Chào Mừng cho Ải này.",
+          "result": [
+            "Bạn đeo lên chiếc mặt nạ khóc.\n\nCái bầu không khí áp đảo ngột ngạt đã tan biến.\n\nCác Tội Nhân lặng lẽ từng bước tiến vào phòng tiệc.\n\nHướng đến cái ngai vàng sẽ không bao giờ thành nơi tịnh dưỡng.\n\nHãy để trận chiến này mang đến khoảnh khắc trang nghiêm và an lòng để gửi gắm đến vị vua sẽ mãi mãi trị vì vương quốc bất tận này.\n\nCác Tội Nhân với vẻ nghiêm nghị sẽ mở màn khai cuộc cho bữa tiệc long trọng này."
+          ]
+        },
+        {
+          "message": "Đeo chiếc mặt nạ giận dữ.",
+          "messageDesc": "Chọn để gây thêm sát thương, hồi SP cho tất cả đồng minh, và Nhiệt Liệt Chào Mừng cho Ải này.",
+          "result": [
+            "Bạn đeo lên chiếc mặt nạ giận dữ.\n\nCơ thể bạn nhẹ bẫng đi, nhưng đôi bàn tay lại tràn trể sức lực.\n\nCác Tội Nhân hừng hực khí thế chạy thẳng đến ngai vàng.\n\nHướng đến cái ngai vàng sẽ không bao giờ thành nơi tịnh dưỡng.\n\nHãy để trận chiến này mang đến khoảnh khắc nảy lửa và máu chiến để gửi gắm đến vị vua sẽ mãi mãi trị vì vương quốc bất tận này.\n\nCác Tội Nhân với vẻ thèm khát được chiến đấu hết mình sẽ mở màn khai cuộc cho bữa tiệc long trọng này."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862902,
+      "name": "",
+      "subDesc": "",
+      "desc": "Đam mê cháy bỏng dần trở nên quyết liệt hơn khi cả phòng tiệc dần tiến vào phút cao trào.\n\nVị Vua Trói Buộc ra hiệu ngưng trận.\n\nCho phép chúng tôi được tháo lớp mặt nạ đã nứt vỡ xuống và khoác lên mình một diện mạo mới.\n\nNên thể hiện gương mặt phô ra cung bậc cảm xúc nào để diện kiến vị vua đây?",
+      "options": [
+        {
+          "message": "Đeo chiếc mặt nạ cười.",
+          "messageDesc": "Chọn để hồi SP cho tất cả đồng minh.",
+          "result": [
+            "Bạn đeo lên chiếc mặt nạ cười.\n\nTâm trí bạn đã thông thoáng hơn."
+          ]
+        },
+        {
+          "message": "Đeo chiếc mặt nạ khóc.",
+          "messageDesc": "Chọn để nhận tài nguyên E.G.O.",
+          "result": [
+            "Bạn đeo lên chiếc mặt nạ khóc.\n\nTrái tim của các Tội Nhân trở nên kiên định và tràn trề sức mạnh."
+          ]
+        },
+        {
+          "message": "Đeo chiếc mặt nạ giận dữ.",
+          "messageDesc": "Chọn để nhận Tăng Sát Thương cho Ải này.",
+          "result": [
+            "Bạn đeo lên chiếc mặt nạ phẫn nộ.\n\nNiềm đam mê máu chiến thôi thúc các Tội Nhân phải tung hết khả năng và vượt qua cả giới hạn của bản thân."
+          ]
+        }
+      ]
+    }
+  ]
+}

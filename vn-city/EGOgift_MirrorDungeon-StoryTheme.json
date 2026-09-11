@@ -1,0 +1,286 @@
+{
+  "dataList": [
+    {
+      "id": 9403,
+      "name": "Trâm Cài Gỗ Mun",
+      "desc": "Vào Đầu Ải: Gây 2 Lượng và Tầng [Burst] lên toàn bộ kẻ địch.\n\nGây 2 [Binding] vào lượt kế lên toàn bộ kẻ địch lúc Cuối Lượt trong 3 lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 9403,
+          "simpleDesc": "Gây 2 Lượng [Burst] và +2 Tầng [Burst] on all enemies"
+        },
+        {
+          "abilityID": 94031,
+          "simpleDesc": "Gây 2 [Binding] on all enemies"
+        }
+      ]
+    },
+    {
+      "id": 9404,
+      "name": "Giòi Trong Bình",
+      "desc": "Đánh Trúng bằng Kỹ Năng Dục Vọng hay Phàm Ăn (không tính Kỹ Năng E.G.O) lên một kẻ địch, gây 2 [Muckworm] lên mục tiêu.\n\nNếu Kỹ Năng trên có gây Lượng, Tầng [Laceration], hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng', đổi thành gây 3 [Muckworm].",
+      "simpleDesc": [
+        {
+          "abilityID": 9404,
+          "simpleDesc": "Gây 2 [Muckworm]"
+        },
+        {
+          "abilityID": 94041,
+          "simpleDesc": "Gây 3 [Muckworm]"
+        }
+      ]
+    },
+    {
+      "id": 9407,
+      "name": "Tạo Ra-Để-Phục Vụ",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 3]\n\nĐầu Ải: nhận +3 Tầng [Vibration].\n\nĐầu Lượt: nhận 1 [Protection], 1 [AttackDmgUp], và 1 [ResultEnhancement].",
+      "simpleDesc": [
+        {
+          "abilityID": 9407,
+          "simpleDesc": "Nhận +3 Tầng [Vibration]"
+        },
+        {
+          "abilityID": 94071,
+          "simpleDesc": "Nhận 1 [Protection], 1 [AttackDmgUp], và 1 [ResultEnhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9408,
+      "name": "Giày Cao Gót Bị Ám",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 2]\n\nĐầu Ải: nhận +3 Tầng [Sinking].\n\nĐầu Lượt: nhận 1 [Protection], 1 [AttackDmgUp], và 1 [ResultEnhancement].",
+      "simpleDesc": [
+        {
+          "abilityID": 9408,
+          "simpleDesc": "Nhận +3 Tầng [Sinking]"
+        },
+        {
+          "abilityID": 94081,
+          "simpleDesc": "Nhận 1 [Protection], 1 [AttackDmgUp], và 1 [ResultEnhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9409,
+      "name": "Băng Lệ",
+      "desc": "Chỉ gán cho 1 Danh Tính có Tốc Độ thấp nhất vào Đầu Lượt.\n\nNếu đồng minh trên thắng Giao Tranh hoặc bị một kẻ địch đánh trúng, gây 3 [Sinking] lên kẻ địch đó.",
+      "simpleDesc": [
+        {
+          "abilityID": 9409,
+          "simpleDesc": "Gây 3 [Sinking] against the enemy"
+        }
+      ]
+    },
+    {
+      "id": 9410,
+      "name": "Dấu Chân Sương Giá",
+      "desc": "Vào Đầu đợt mới: toàn bộ đồng minh nhận +3 Tầng [Sinking], và gây lên toàn bộ kẻ địch (hoặc tất cả bộ phận của Dị Thể) 4 Lượng [Sinking] và +8 Tầng [Sinking].\n\nKẻ địch có [Sinking] mất 2 Sức Mạnh Giao Tranh; khi một đồng minh thắng Giao Tranh với kẻ địch bị ảnh hưởng, gây 2 Lượng [Sinking]; khi kẻ địch bị ảnh hưởng đánh trúng Danh Tính đồng minh, gây 3 Lượng [Sinking] lên kẻ địch đó.",
+      "simpleDesc": [
+        {
+          "abilityID": 9410,
+          "simpleDesc": "Gây 4 Lượng [Sinking] và +8 Tầng [Sinking] against all enemies."
+        },
+        {
+          "abilityID": 94101,
+          "simpleDesc": "Enemies with [Sinking] lose 2 Clash Power"
+        }
+      ]
+    },
+    {
+      "id": 9413,
+      "name": "Kinh Văn Nagel und Hammer",
+      "desc": "Khi một đồng minh thắng Giao Tranh bằng Kỹ Năng gây Lượng, Tầng [Laceration], hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng', gây 1~2 [NailPersonality].\n\nNếu đồng minh đó là '<noparse>Cuồng Tín</noparse> Tập Đoàn N', nhận 1 Cuồng Tín vào Đầu Lượt.",
+      "simpleDesc": [
+        {
+          "abilityID": 9413,
+          "simpleDesc": "Gây 1~2 [NailPersonality]"
+        },
+        {
+          "abilityID": 94131,
+          "simpleDesc": "If the unit is an 'N Corp. Fanatic', gain 1 Fanatic at Turn Start."
+        }
+      ]
+    },
+    {
+      "id": 9414,
+      "name": "Bờm Đẫm Máu",
+      "desc": "Hiệu ứng gán cho toàn bộ Danh Tính có Kỹ Năng Phẫn Nộ hoặc Dục Vọng.\n\nCuối Lượt: nếu chủ thể không nhận sát thương từ Kỹ Năng Tấn Công của kẻ địch trong lượt này, nhận 2 [Agility] và 2 [Endurance].\n\nCuối Lượt: nếu chủ thể nhận sát thương từ Kỹ Năng Tấn Công của kẻ địch trong lượt này, nhận 2 [Binding] và Sức Mạnh Giao Tranh +2 vào lượt kế.",
+      "simpleDesc": [
+        {
+          "abilityID": 9414,
+          "simpleDesc": "Nhận 2 [Agility] và 2 [Endurance] vào lượt kế"
+        },
+        {
+          "abilityID": 94141,
+          "simpleDesc": "Nhận 2 [Binding] và Sức Mạnh Giao Tranh +2 vào lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 9415,
+      "name": "Ô Uế",
+      "desc": "Khi một đồng minh tấn công kẻ địch có [Laceration] bằng Kỹ Năng gây Lượng, Tầng [Laceration] hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng', +15% sát thương gây lên mục tiêu đó.\n\nNếu HP của mục tiêu ≤ 33%, đổi thành +25% sát thương gây lên mục tiêu đó.",
+      "simpleDesc": [
+        {
+          "abilityID": 9415,
+          "simpleDesc": "+15% sát thương gây ra"
+        },
+        {
+          "abilityID": 94151,
+          "simpleDesc": "+25% sát thương gây ra"
+        }
+      ]
+    },
+    {
+      "id": 9416,
+      "name": "Toàn Vẹn",
+      "desc": "Nếu một đồng minh thắng Giao Tranh bằng Kỹ Năng gây Lượng, Tầng [Laceration], hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng', gây 2~3 [NailPersonality].\n\nDanh Tính thuộc '<noparse>Cuồng Tín</noparse> Tập Đoàn N' +25% sát thương gây lên kẻ địch và nhận 1 Cuồng Tín vào Đầu Lượt. Nếu đồng minh đó đạt SP tối đa, hoặc nếu có 3+ Dục Vọng Cộng Hưởng được hình thành vào lượt trước, đồng minh nói trên nhận 3 [AttackDmgUp].\n\nDanh Tính '<noparse>Cuồng Tín</noparse> +50% sát thương gây lên kẻ địch là <Dị Hợp Cơ Khí> bằng Kỹ Năng Cơ Bản",
+      "simpleDesc": [
+        {
+          "abilityID": 9416,
+          "simpleDesc": "Clash Win: gây 2~3 [NailPersonality]"
+        },
+        {
+          "abilityID": 94161,
+          "simpleDesc": "+25% sát thương gây ra and gain 1 Fanatic. If conditions are met, nhận 3 [AttackDmgUp]"
+        },
+        {
+          "abilityID": 94162,
+          "simpleDesc": "Sức Mạnh Tổng +2, Sức Mạnh Xu Dương +1, Sức Mạnh Xu Âm -1, Attack Skills gây +1 [NailPersonality]"
+        },
+        {
+          "abilityID": 94163,
+          "simpleDesc": "Base Skills +50% sát thương gây ra"
+        }
+      ]
+    },
+    {
+      "id": 9419,
+      "name": "Cành Sơn Trà",
+      "desc": "Trong Ải này, hiệu ứng sau kích hoạt mỗi khi Kỹ Năng 1, 2, và 3 đều đã được dùng ít nhất 1 lần.\n\nĐầu Lượt: nhận 1 [Agility] và 1 [SkillPowerUp]. (có thể cộng dồn lên tới 3 lần)",
+      "simpleDesc": [
+        {
+          "abilityID": 9419,
+          "simpleDesc": "Đầu Lượt: nhận 1 [Agility] và 1 [SkillPowerUp]."
+        }
+      ]
+    },
+    {
+      "id": 9420,
+      "name": "Kính Vạn Hoa",
+      "desc": "Đầu Lượt: nếu có Danh Tính cùng phe phái với chủ thể, nhận [AttackUp] bằng với số đồng minh chung phe (không tính chủ thể, tối đa 4)\n\nDanh Tinh thuộc Liên Minh Giải Phóng Công Nghệ nhận Sức Mạnh Giao Tranh +1.",
+      "simpleDesc": [
+        {
+          "abilityID": 9420,
+          "simpleDesc": "Nhận [AttackUp]"
+        },
+        {
+          "abilityID": 94201,
+          "simpleDesc": "Sức Mạnh Giao Tranh +1"
+        }
+      ]
+    },
+    {
+      "id": 9423,
+      "name": "Kính Mắt Bị Vỡ",
+      "desc": "Khi một đồng minh Giao Tranh với kẻ địch có Tốc Độ cao hơn, nhận Sức Mạnh Giao Tranh +1.\n\nKhi một đồng minh thắng Giao Tranh với kẻ địch có Tốc Độ cao hơn, nhận 2 [AttackUp] vào lượt kế. (tối đa 4)",
+      "simpleDesc": [
+        {
+          "abilityID": 9423,
+          "simpleDesc": "Sức Mạnh Giao Tranh +1"
+        },
+        {
+          "abilityID": 94231,
+          "simpleDesc": "Nhận 2 [AttackUp] vào lượt kế"
+        }
+      ]
+    },
+    {
+      "id": 9424,
+      "name": "Bức Thư Chưa Gửi",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1, Số 2]\n\nKhi thắng Giao Tranh bằng Kỹ Năng có gây Lượng hoặc Tầng [Burst], gây 5 Lượng [Burst] và +3 Tầng [Burst] lên mục tiêu (một lần mỗi lượt mỗi Danh Tính)\n\nKhi Giao Tranh với kẻ địch có Tốc Độ thấp hơn, nhận Sức Mạnh Tổng +1 và +25% sát thương gây ra.\n\nKhi thắng Giao Tranh với kẻ địch có hiệu ứng [AttackUp], nhận 3 [AttackUp] vào lượt kế, và gây 3 [AttackDown] lên kẻ địch đã thua Giao Tranh (3 lần mỗi lượt mỗi Danh Tính)",
+      "simpleDesc": [
+        {
+          "abilityID": 9424,
+          "simpleDesc": "Giao Tranh Thắng gây 5 [Burst] Power và +3 Tầng [Burst] against the target"
+        },
+        {
+          "abilityID": 94241,
+          "simpleDesc": "Sức Mạnh Tổng +1, +25% sát thương gây ra"
+        },
+        {
+          "abilityID": 94242,
+          "simpleDesc": "Gây 3 [AttackDown] against the enemy that lost the Clash"
+        }
+      ]
+    },
+    {
+      "id": 9429,
+      "name": "Chân Lao Móc Giả",
+      "desc": "Cuối Lượt: gán 2 [Agility], 2 [AttackUp] và 2 [AttackDmgUp] vào lượt kế cho đồng minh có tổng Lượng và Tầng [Breath] cao nhất.\n\nDanh Tính thuộc Đội Tàu Pequod nhận Tốc Độ Tối Đa +1.",
+      "simpleDesc": [
+        {
+          "abilityID": 9429,
+          "simpleDesc": "Gán 2 [Agility], 2 [AttackUp], và 2 [AttackDmgUp] vào lượt kế"
+        },
+        {
+          "abilityID": 94291,
+          "simpleDesc": "The Pequod Identities gain Max Speed +1."
+        }
+      ]
+    },
+    {
+      "id": 9430,
+      "name": "Đèn Khí Đốt Dẫn Lối",
+      "desc": "Vào Đầu đợt mới: toàn bộ đồng minh nhận 5 Lượng [Breath] và +5 Tầng [Breath].\n\nCuối Lượt: 1 đồng minh có tổng Lượng và Tầng [Breath] cao nhất nhận 2 [Agility], 3 [AttackUp], và 3 [AttackDmgUp] vào lượt kế.\n\nDanh Tính thuộc Đội Tàu Pequod nhận Sức Mạnh Kỹ Năng +2 và Tốc Độ Tối Đa +2.",
+      "simpleDesc": [
+        {
+          "abilityID": 9430,
+          "simpleDesc": "All allies nhận 5 [Breath] và +5 Tầng [Breath]."
+        },
+        {
+          "abilityID": 94301,
+          "simpleDesc": "Gán 2 [Agility], 3 [AttackUp], và 3 [AttackDmgUp] vào lượt kế."
+        },
+        {
+          "abilityID": 94302,
+          "simpleDesc": "Skill Power +2, Max Speed +2."
+        }
+      ]
+    },
+    {
+      "id": 9433,
+      "name": "Bí Thuật Của Quản Gia Trưởng",
+      "desc": "Vào Đầu đợt mới: chọn 1 kẻ địch có Tốc Độ thấp nhất (hoặc 1 bộ phận ngẫu nhiên của Dị Thể), và gây 5 [Binding] trong 5 lượt kể từ lượt kế.\n\nThắng Giao Tranh: Nếu Tốc Độ của chủ thể cao hơn mục tiêu, hồi SP bằng với lượng chênh lệch Tốc Độ, và nhận 'Cấp Công Kích' tương đương với 1 nửa lượng chênh lệch Tốc Độ. (chỉ gán cho Kỹ Năng đã được dùng để thắng Giao Tranh. 'Cấp Công Kích' Tối Đa nhận được: 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9433,
+          "simpleDesc": "Gây 5 [Binding] for 5 turns starting next turn"
+        },
+        {
+          "abilityID": 94331,
+          "simpleDesc": "Heal SP, and gain Offense Level equal to the amount of SP healed"
+        }
+      ]
+    },
+    {
+      "id": 9434,
+      "name": "Gương Cầm Tay",
+      "desc": "Vào Đầu đợt mới: chọn 2 kẻ địch có Tốc Độ thấp nhất (hoặc 2 bộ phận ngẫu nhiên của Dị Thể. Hiệu ứng này không cộng dồn nếu chỉ còn 1 kẻ địch) và gây 5 [Binding] kèm 3 [DefenseDown] vào Đầu Lượt kể từ lượt kế.\n\nKhi kẻ địch hồi phục khỏi Choáng, và nếu chúng không còn Ngưỡng Choáng nào, tạo một Ngưỡng Choáng mới ở mức 66% lượng HP hiện tại của mục tiêu (3 lần mỗi Ải). Nếu một đồng minh Làm Choáng kẻ địch bằng Kỹ Năng Tấn Công (không tính Kỹ Năng E.G.O) có gây Lượng [Vibration] hoặc Tầng [Vibration] (tính cả lên chủ thể hoặc đồng minh), gây ngẫu nhiên Lượng [Vibration] bằng với 1 nửa Lượng [Vibration] trên mục tiêu lên những kẻ địch khác (hoặc những bộ phận khác của Dị Thể), và x2 Lượng [Vibration] gây lên mục tiêu Bị Choáng.",
+      "simpleDesc": [
+        {
+          "abilityID": 9433,
+          "simpleDesc": "Đầu Lượt: Gain 5 Bind và 3 Defense Level Down."
+        },
+        {
+          "abilityID": 94331,
+          "simpleDesc": "Create a new Stagger Threshold at 66% mark of the target's current HP"
+        },
+        {
+          "abilityID": 94332,
+          "simpleDesc": "Lượng [Vibration] on the Staggered target increases by x2"
+        }
+      ]
+    }
+  ]
+}

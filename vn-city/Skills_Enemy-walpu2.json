@@ -1,0 +1,440 @@
+{
+    "dataList": [
+        {
+            "id": 814701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đâm",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Laceration]. Nếu mục tiêu có [Laceration], gây +1 Tầng [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ghìm Xuống",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nỗi Đau",
+                    "desc": "Ưu tiên mục tiêu có [Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây thêm sát thương bằng 10% sát thương đã gây ra"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây thêm sát thương bằng 10% sát thương đã gây ra"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây [Laceration] bằng [Laceration] trên mục tiêu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Phòng Thủ",
+                    "desc": "Nếu chủ thể có Khiên HP, gây 2 [Laceration] vào lượt kế Khi Đánh Trúng",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đâm",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 3 [Laceration]. Nếu mục tiêu có [Laceration], gây +2 Tầng [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ghìm Xuống",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nỗi Đau",
+                    "desc": "Ưu tiên mục tiêu có [Laceration]\nKhi chủ thể giết mục tiêu bằng một đòn tấn công, kẻ địch có SP thấp nhất sẽ mất 10 SP.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây thêm sát thương bằng 10% sát thương đã gây ra"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Mục tiêu mất ([Laceration] trên mục tiêu) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây thêm sát thương bằng 10% sát thương đã gây ra"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Mục tiêu mất ([Laceration] trên mục tiêu) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây [Laceration] bằng [Laceration] trên mục tiêu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Né Đòn",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đâm",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 3 [Laceration]. Nếu mục tiêu có [Laceration], gây +2 Tầng [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ghìm Xuống",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nỗi Đau",
+                    "desc": "Ưu tiên mục tiêu có [Laceration]\nKhi chủ thể giết mục tiêu bằng một đòn tấn công, kẻ địch có SP thấp nhất sẽ mất 10 SP.\nKhi chủ thể giết mục tiêu bằng một đòn tấn công, tái sử dụng Kỹ Năng này lên một mục tiêu khác.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây thêm sát thương bằng 20% sát thương đã gây ra"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Mục tiêu mất ([Laceration] trên mục tiêu) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây thêm sát thương bằng 20% sát thương đã gây ra"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Mục tiêu mất ([Laceration] trên mục tiêu) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây [Laceration] bằng [Laceration] trên mục tiêu"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có 10+ [Laceration], Tái sử dụng Xu này một lần"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Phản Đòn",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Đâm",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 4 [Laceration]. Nếu mục tiêu có [Laceration], gây +2 Tầng [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Gây +2 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Gây +2 Tầng [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ghìm Xuống",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nỗi Đau",
+                    "desc": "Ưu tiên mục tiêu có [Laceration]\nKhi chủ thể giết mục tiêu bằng một đòn tấn công, kẻ địch có SP thấp nhất sẽ mất 15 SP.\nKhi chủ thể giết mục tiêu bằng một đòn tấn công, tái sử dụng Kỹ Năng này lên một mục tiêu khác.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây thêm sát thương bằng 20% sát thương đã gây ra"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Mục tiêu mất ([Laceration] trên mục tiêu/2) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây thêm sát thương bằng 20% sát thương đã gây ra"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Mục tiêu mất ([Laceration] trên mục tiêu/2) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có [Laceration], gây thêm sát thương bằng 20% sát thương đã gây ra"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Mục tiêu mất ([Laceration] trên mục tiêu/2) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gây [Laceration] bằng [Laceration] trên mục tiêu"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Nếu mục tiêu có 7+ [Laceration], Tái sử dụng Xu này một lần"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Phản Đòn",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+  "dataList": [
+    {
+      "id": 838101,
+      "name": "Lễ Hội Diệu Kỳ",
+      "desc": "Nhận 1 [FestivalFever] mỗi khi chủ thể gán hiệu ứng có lợi bằng Kỹ Năng lên đồng minh khác (một lần mỗi loại)\n\nĐầu Lượt: nhận [FestivalFever] bằng với số đồng minh trên sân (tối đa 3)\nKết Thúc Lượt: Hồi SP bằng với [FestivalFever] trên chủ thể (không kích hoạt khi SP ở -45)\n\nCuối Lượt: ở mốc 10+ [FestivalFever], dùng một Kỹ Năng mạnh ở lượt kế. (không kích hoạt khi 'Cuộc Diễu Hành Lặp Lại Vĩnh Viễn' được dùng)"
+    },
+    {
+      "id": 838102,
+      "name": "Quý Nương Của Cuộc Diễu Hành",
+      "desc": "Bắt Đầu Lượt: nhận 8 [Protection]\n- Với mỗi đồng minh đã chết, nhận ít đi 1 [Protection] khi Bắt Đầu Lượt\nKết Thúc Lượt: Nếu chủ thể không nhận sát thương ở lượt này, nhận 2 [Agility] vào lượt kế"
+    },
+    {
+      "id": 838103,
+      "name": "Cuộc Diễu Hành Lặp Lại Vĩnh Cửu",
+      "desc": "Cuối lượt: khi có 5+ [IncompleteParade], sử dụng một Kỹ Năng mạnh vào lượt kế"
+    },
+    {
+      "id": 838104,
+      "name": "Cuộc Diễu Hành của Niềm Vui",
+      "desc": "Thay đổi hành vi khi HP của chủ thể rơi xuống dưới 66% lần đầu tiên\n\nNgay khi thay đổi hành vi:\n- Nâng Tốc Độ Tối Đa và Tối Thiểu lên 1\n- Chuyển Hóa [BloomingThorns] trên chủ thể thành [BloomingThorns_2nd]\n- Toàn bộ đồng minh nhận 3 [FestivalFever] và 3 [BloomingThorns] mỗi lượt"
+    },
+    {
+      "id": 838105,
+      "name": "Cuộc Diễu Hành Vĩnh Cửu của Niềm Vui",
+      "desc": "Thay đổi hành vi khi HP của chủ thể rơi xuống dưới 33% lần đầu tiên\n\nNgay khi thay đổi hành vi:\n- Nâng Tốc Độ Tối Đa và Tối Thiểu lên 2\n- Sử dụng một Kỹ Năng mạnh, sau đó giảm khả năng Kháng sát thương Chém, Đâm, Đập của chủ thể (+0.5 vào chỉ số nhận sát thương)\n- Chuyển Hóa [BloomingThorns_2nd] trên chủ thể thành [BloomingThorns_3rd]\n- Toàn bộ đồng minh nhận 5 [FestivalFever] và 5 [BloomingThorns] mỗi lượt"
+    },
+    {
+      "id": 838106,
+      "name": "Đây Không Phải Là Hồi Kết",
+      "desc": "Cuối lượt: Nếu không còn đồng minh nào sống sót, tiêu thụ toàn bộ [FestivalFever] và [IncompleteParade] vào lượt kế và bị Choáng (kích hoạt ngay nếu không còn đồng minh nào sống sót khi Bắt Đầu Lượt)\n\nVào lượt chủ thể bị Choáng, triệu hồi 2 Huyết Quỷ Thân Quyến"
+    },
+    {
+      "id": 838107,
+      "name": "Huyết yến",
+      "desc": "Nếu chủ thể đang tham chiến hoặc có thể tham chiến, tăng [BloodDinner] dựa theo tổng sát thương [Laceration] tất cả đơn vị trong trận đã nhận.\nKhi chủ thể tham chiến, huyết mạch ngủ say sẽ trỗi dậy, đổ đầy huyết sắc trên chiến trường."
+    },
+    {
+      "id": 838108,
+      "name": "Héo Mòn và Kiệt Quệ",
+      "desc": "Nhận [StarvingDolcineaOne] khi bắt đầu Ải này"
+    },
+    {
+      "id": 838901,
+      "name": "Kỵ Sĩ Bạch Nguyệt",
+      "desc": "-20% Sát Thương Phải Nhận\nNhận 3 [Enhancement] sau khi Thua Giao Tranh"
+    },
+    {
+      "id": 838902,
+      "name": "Trận Đấu Suýt Soát",
+      "desc": "Khi đạt 10+ Giao Tranh trở lên với cùng kẻ địch, ngẫu nhiên tăng hoặc giảm Sức Mạnh Giao Tranh bằng (Số Giao Tranh/10). (Làm tròn xuống)"
+    }
+  ]
+}

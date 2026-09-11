@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 40000301,
+      "name": "Nhân danh Tình Yêu và Công Lý~ Ma Pháp Thiếu Nữ đã đến!",
+      "desc": "Khi vào sân, gán 1 [ResultEnhancement] cho toàn bộ Tội Nhân\nKhông thể Bị Choáng"
+    },
+    {
+      "id": 40000302,
+      "name": "Cảm ơn mọi người nhiều nhé!",
+      "desc": "Nếu mục tiêu mà ARCANA[TabExplain] SLAVE đánh trúng có [WornOutKnight], thắng cuộc Trấn Áp vào Cuối Lượt"
+    },
+    {
+      "id": 40000303,
+      "name": "Sau cùng thì,, ta... cũng chỉ như bao người thôi ư?",
+      "desc": "Nếu mục tiêu mà ARCANA[TabExplain] SLAVE đánh trúng không có [WornOutKnight], gán [FailedToAssistQueen] cho toàn bộ đồng minh"
+    },
+    {
+      "id": 40000304,
+      "name": "Sức Mạnh Của Tình Yêu Và Công Lý",
+      "desc": "Ở mốc 10+ Tầng [PowerOfLoveAndJustice]: mất 10 Tầng đó và nhận 1 Lượng [PowerOfLoveAndJustice] vào lượt kế\n\nỞ mốc 3 Lượng [PowerOfLoveAndJustice]: khi gây Lượng [Burst], gây thêm 1 Tầng [Burst] (2 lần mỗi lượt)"
+    },
+    {
+      "id": 40000305,
+      "name": "Sau cùng thì,, ta... cũng chỉ như bao người thôi ư?",
+      "desc": "Nếu mục tiêu mà ARCANA[TabExplain] SLAVE đánh trúng không có [WornOutKnight] và có HP cao hơn 600, gán [FailedToAssistQueen] cho toàn bộ đồng minh"
+    },
+    {
+      "id": 40000306,
+      "name": "Cảm ơn mọi người nhiều nhé!",
+      "desc": "Nếu mục tiêu mà ARCANA[TabExplain] SLAVE đánh trúng có [WornOutKnight] và có HP ≤ 600, thắng cuộc Trấn Áp vào Cuối Lượt"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "dataList": [
+    {
+      "id": 971027,
+      "name": "",
+      "desc": "Một quầy bán vé trong sân ga tàu WARP.\n\nTrước quầy là một hàng dài người đang cố mua vé.\n\nKhi chúng tôi đang xếp hàng mua vé, một vị khách tiến đến. Trông cách ăn mặc thì có vẻ người này là nhân viên của một Cánh...\n\n\"Xin lỗi, cho tui hỏi cái này xíu nghen?\"\n\n\"Rất hân hạnh! Cứ hỏi đi!\"\n\n\"Nếu chuyến đi này tốn có mười giây... thì điều chi đã làm nên sự khác biệt giữa ghế phổ thông và ghế hạng nhất nhỉ?\"\n\n\"Chuyến công tác đợt ni tui kiếm được quá xá tiền lun, nhưng... chi tiền cho ghế hạng nhất thì hơi phí tiền nhỉ?\"\n\nVị hành khách này nhìn chằm chằm về phía chúng tôi, chờ đợi một câu trả lời thỏa đáng. Đám Tội Nhân ngay lập tức nhìn về phía tôi, lảng đi ánh mắt của người đó.",
+      "options": [
+        {
+          "message": "Cậu nên mua một vé hạng nhất.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Không Phân Loại phụ thuộc vào kết quả của lựa chọn kế tiếp.",
+          "result": [
+            "Đằng nào cũng đã nhận lời bắt chuyện rồi... đưa ra một lời khuyên nho nhỏ chắc không có vấn đề gì đâu.\n\nMặc dù chúng tôi không thể giải thích chi tiết, nhưng chúng tôi vẫn khuyên vị hành khách đằng đó nên mua vé hạng nhất nếu có khả năng chi trả.\n\n\"Mèn đét ơi! Một vé hạng nhất?\"\n\nMắt vị hành khách này mở to, ngạc nhiên."
+          ]
+        },
+        {
+          "message": "Ghế phổ thông cũng không tệ đâu.",
+          "messageDesc": "",
+          "result": [
+            "Khứa này là ai thế? Chúng tôi chưa từng quen biết gì nhau, vậy thì việc gì phải đưa ra lời khuyên có liên quan tới vấn đề nhạy cảm như Dị Biến của một Cánh nhỉ?\n\nVới câu chào đầy lịch sự, chúng tôi kết thúc cuộc hội thoại ở đây.\n\nTrên mặt của các Tội Nhân thoáng hiện một khắc đầy áy náy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97102701,
+      "name": "",
+      "desc": "\"Một vé hạng nhất...? Hai tháng lương của tui đó. Đằng đó chắc kèo nó đáng không vậy?\"",
+      "options": [
+        {
+          "message": "MUA đi, đáng đồng tiền bát gạo đấy.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Đố Kỵ & Lười Biếng. Thành công để nhận một Quà Tặng E.G.O Không Phân Loại."
+        },
+        {
+          "message": "Hử, thế thì không đáng lắm.",
+          "messageDesc": "",
+          "result": [
+            "\"Chuẩn rùi, có mười giây thôi mừ. Phí tiền quá.\"\n\nVới câu chào đầy lịch sự, chúng tôi kết thúc cuộc hội thoại ở đây.\n\nTrên mặt của các Tội Nhân thoáng hiện một khắc đầy áy náy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971028,
+      "name": "",
+      "desc": "Khi đang chờ đợi quanh nhà ga, chúng tôi tình cờ gặp một Fixer với nhiều bộ phận nhân tạo gắn trên cơ thể.\n\nTrang phục người này nhìn cực ngầu và có tận bốn cánh tay máy.\n\nChừng đó là đủ thu hút sự chú ý của vài Tội Nhân rồi. Bỏ qua định nghĩa của sự \"vô duyên\", họ khóa ánh nhìn của mình vào người đó.\n\nCó lẽ Fixer này cũng cảm nhận được mấy cái nhìn chằm chằm đang hướng về phía mình.\n\nNgười này quay đầu lại và nhìn về phía chúng tôi.\n\n\"Tôi để ý mấy người từ nãy tới giờ cứ theo dõi tôi. Có vấn đề gì sao?\"",
+      "options": [
+        {
+          "message": "\"Cậu tới từ phía Bắc sao?\"",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Không Phân Loại phụ thuộc vào lựa chọn kế tiếp",
+          "result": [
+            "\"Phải, từ phía Bắc. Nhận ra từ trang phục của tôi đúng không? Trang phục phía Bắc khá là kín đáo vậy nên nó dễ thu hút sự chú ý.\"\n\n\"Chà, tôi thực sự ấn tượng với phong cảnh phía Nam, đặc biệt là cảnh đường chân trời. Ở phía Bắc, mấy tòa nhà cao tầng mọc nhiều tới mức người dân bọn tôi còn chẳng có cơ hội ngắm nhìn đường chân trời tử tế. Ở vùng trung tâm thậm chí còn tệ hơn nữa. Bước chân vào trong đó là tôi cảm thấy mình như đang lạc ở trong khu rừng làm từ nhà cao tầng vậy.\"\n\n\"Hừm, vũ khí của mấy người trông khá là đơn điệu đấy. Sơn thêm tí màu sắc hay gắn cho chúng mấy cái đồ trang trí ngộ ngộ vào, như thế nhìn nó mới chất chơi người dơi được, hiểu chứ? Đừng để người ngoài khinh thường ngay từ cái nhìn đầu tiên, chỉ có mấy món hàng kiểu vậy mới khiến họ ấn tượng được.\"\n\n\"Từ từ, còn nữa này. Để tôi giới thiệu cho mấy người món kem đóng hộp ba màu nổi tiếng ở quê tôi. Món này cứ phải nói là mỹ vị nhân gian luôn. Nếu mấy người đã—\"\n\n\"…….\"\n\nHiểu biết của tôi về mấy câu nói ví von không rộng cho lắm nhưng tôi bắt đầu hiểu định nghĩa của câu \"Nói như máy khâu\" rồi.\n\nChúng tôi đã biết thêm được nhiều điều về vùng phương Bắc.\n\nMà đợi chút, hình như người này vừa diễn thuyết gì đó về mấy mặt hàng đóng hộp của Tập Đoàn P thì phải. Tôi nghĩ đoàn mình vừa mất tập trung nên quên béng cậu ta vừa nói gì rồi."
+          ]
+        },
+        {
+          "message": "\"Bốn cánh tay có lợi ích gì không?\"",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Không Phân Loại phụ thuộc vào lựa chọn kế tiếp",
+          "result": [
+            "\"Đầu tiên, mấy cái tay này rất chắc chắn. Tôi đã đặt làm nó từ một trong những xưởng chế đắt tiền bậc nhất đấy. Nghĩ mà xem, khi thực hiện công việc của Fixer, mấy sự cố khiến cánh tay và bàn tay bị thương chẳng phải là sự kiện thường xuyên diễn ra hay sao?\"\n\n\"Để nói cho mà biết nhé, chi phí bảo trì mấy bộ phận nhân tạo kiểu này rẻ hơn nhiều so với việc hồi phục da thịt.\"\n\n\"Bình tĩnh, để tôi nói tiếp nhé. Khi bận gõ máy tính hay hai tay đang dở việc mà có cuộc gọi đến, với mấy cái tay này giúp, bạn sẽ không cần phải áp điện thoại vào má bằng vai nữa, tiện lợi vô cùng. Cái này mới quan trọng này, bạn có thể mở một hộp kem bằng một tay trong khi tay kia giơ tài liệu lên đọc một cách thoải mái...\"\n\n\"Trời đất, cái hồi tôi còn làm việc ở vùng phía Tây, tôi bị deadline dí nhiều tới mức phải nghĩ tới việc cài thêm nhiều tay giả hơn nữa mà không dừng lại ở con số bốn!\"\n\n\"…….\"\n\nTôi khẳng định mình đã bắt đầu hiểu hơn về định nghĩa của câu \"Nói như máy khâu\" rồi.\n\nChúng tôi đã biết việc có bốn tay sẽ đem lại lợi ích tuyệt vời như thế nào."
+          ]
+        },
+        {
+          "message": "\"Không có gì. Thượng lộ bình an.\"",
+          "messageDesc": "",
+          "result": [
+            "\"Hở? T-Tốt thôi. Thượng lộ bình an.\"\n\nChúng tôi nhanh chóng chào tạm biệt người Fixer này và di chuyển sang hàng chờ khác...."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97102801,
+      "name": "",
+      "desc": "Chúng ta có nên hỏi thêm không?",
+      "options": [
+        {
+          "message": "\"Bốn cánh tay có lợi ích gì không?\"",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "\"Đầu tiên, mấy cái tay này rất chắc chắn. Tôi đã đặt làm nó từ một trong những xưởng chế đắt tiền bậc nhất đấy. Nghĩ mà xem, khi thực hiện công việc của Fixer, mấy sự cố khiến cánh tay và bàn tay bị thương chẳng phải là sự kiện thường xuyên diễn ra hay sao?\"\n\n\"Để nói cho mà biết nhé, chi phí bảo trì mấy bộ phận nhân tạo kiểu này rẻ hơn nhiều so với việc hồi phục da thịt.\"\n\n\"Bình tĩnh, để tôi nói tiếp nhé. Khi bận gõ máy tính hay hai tay đang dở việc mà có cuộc gọi đến, với mấy cái tay này giúp, bạn sẽ không cần phải áp điện thoại vào má bằng vai nữa, tiện lợi vô cùng. Cái này mới quan trọng này, bạn có thể mở một hộp kem bằng một tay trong khi tay kia giơ tài liệu lên đọc một cách thoải mái...\"\n\n\"Trời đất, cái hồi tôi còn làm việc ở vùng phía Tây, tôi bị deadline dí nhiều tới mức phải nghĩ tới việc cài thêm nhiều tay giả hơn nữa mà không dừng lại ở con số bốn!\"\n\n\"…….\"\n\nTôi khẳng định mình đã bắt đầu hiểu hơn về định nghĩa của câu \"Nói như máy khâu\" rồi.\n\nChúng tôi đã biết việc có bốn tay sẽ đem lại lợi ích tuyệt vời như thế nào.\n\n\"Ôi trời, tàu của tôi đến ga rồi. Tôi đi đây.\"\n\n\"Phải rồi, hỡi những người bạn tò mò của tôi, người ta vẫn thường nói, 'mọi cuộc gặp gỡ trên đời này đều là do nhân duyên' mà. Thế thì nhận cái này coi như quà gặp mặt của tôi nhé.\""
+          ]
+        },
+        {
+          "message": "\"Không có gì. Thượng lộ bình an.\"",
+          "messageDesc": "",
+          "result": [
+            "\"Hở? T-Tốt thôi. Thượng lộ bình an.\"\n\nChúng tôi nhanh chóng chào tạm biệt người Fixer này và di chuyển sang hàng chờ khác...."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97102802,
+      "name": "",
+      "desc": "Should we ask some more questions?",
+      "options": [
+        {
+          "message": "\"Cậu tới từ phía Bắc sao?\"",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "\"Phải, từ phía Bắc. Nhận ra từ trang phục của tôi đúng không? Trang phục phía Bắc khá là kín đáo vậy nên nó dễ thu hút sự chú ý.\"\n\n\"Chà, tôi thực sự ấn tượng với phong cảnh phía Nam, đặc biệt là cảnh đường chân trời. Ở phía Bắc, mấy tòa nhà cao tầng mọc nhiều tới mức người dân bọn tôi còn chẳng có cơ hội ngắm nhìn đường chân trời tử tế. Ở vùng trung tâm thậm chí còn tệ hơn nữa. Bước chân vào trong đó là tôi cảm thấy mình như đang lạc ở trong khu rừng làm từ nhà cao tầng vậy.\"\n\n\"Hừm, vũ khí của mấy người trông khá là đơn điệu đấy. Sơn thêm tí màu sắc hay gắn cho chúng mấy cái đồ trang trí ngộ ngộ vào, như thế nhìn nó mới chất chơi người dơi được, hiểu chứ? Đừng để người ngoài khinh thường ngay từ cái nhìn đầu tiên, chỉ có mấy món hàng kiểu vậy mới khiến họ ấn tượng được.\"\n\n\"Từ từ, còn nữa này. Để tôi giới thiệu cho mấy người món kem đóng hộp ba màu nổi tiếng ở quê tôi. Món này cứ phải nói là mỹ vị nhân gian luôn. Nếu mấy người đã—\"\n\n\"…….\"\n\nHiểu biết của tôi về mấy câu nói ví von không rộng cho lắm nhưng tôi bắt đầu hiểu định nghĩa của câu \"Nói như máy khâu\" rồi.\n\nChúng tôi đã biết thêm được nhiều điều về vùng phương Bắc.\n\nMà đợi chút, hình như người này vừa diễn thuyết gì đó về mấy mặt hàng đóng hộp của Tập Đoàn P thì phải. Tôi nghĩ đoàn mình vừa mất tập trung nên quên béng cậu ta vừa nói gì rồi..\n\n\"Ôi trời, tàu của tôi đến ga rồi. Tôi đi đây.\"\n\n\"Phải rồi, hỡi những người bạn tò mò của tôi, người ta vẫn thường nói, 'mọi cuộc gặp gỡ trên đời này đều là do nhân duyên' mà. Thế thì nhận cái này coi như quà gặp mặt của tôi nhé.\""
+          ]
+        },
+        {
+          "message": "\"Không có gì. Thượng lộ bình an.\"",
+          "messageDesc": "",
+          "result": [
+            "\"Hở? T-Tốt thôi. Thượng lộ bình an.\"\n\nChúng tôi nhanh chóng chào tạm biệt người Fixer này và di chuyển sang hàng chờ khác...."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971029,
+      "name": "",
+      "desc": "Qua cánh cửa ngăn cách các toa, tôi thấy vài Đặc Vụ Dọn Dẹp Tập Đoàn W đã biến đổi thành đám Túi Máu.\n\nHọ vật vờ đi lại quanh toa tàu như đang đi tuần tra vậy.\n\nNơi này có dấu hiệu bị tàn phá bởi một trận chiến khốc liệt. Nhiều trang thiết bị của các đặc vụ nằm vương vãi trên sàn, nhuốm tanh màu máu và nội tạng...\n\nHọ vẫn chưa phát hiện ra vị trí của chúng tôi.\n\nCó lẽ chúng tôi có thể lẻn qua họ...\n\n... nhưng biết đâu lại có hàng dùng được trong đám trang bị nằm rải rác trên sàn.",
+      "options": [
+        {
+          "message": "Lẻn qua.",
+          "messageDesc": "",
+          "result": [
+            "Chúng tôi thành công lẻn qua đám Túi Máu.\n\nNhặt được đống trang bị đằng đó thì tốt nhưng cẩn tắc vô áy náy, không nên đánh liều vào lúc này."
+          ]
+        },
+        {
+          "message": "Tìm xem có thứ gì hữu ích trên sàn.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Đố Kỵ & Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Đánh phủ đầu.",
+          "messageDesc": "Vào ải giao chiến. Thắng để nhận hai quà tặng E.G.O Năng Lượng.",
+          "result": [
+            "Dù sao thì lẻn qua đám đặc vụ này không dễ dàng chút nào.\n\nĐám Túi Máu đang cảnh giác, thật khó để dành thời gian tìm kiếm mấy trang bị hữu ích trên sàn.\n\nThôi thì \"tiên hạ thủ vi cường\" có khi lại là một kế sách hay vào lúc này.\n\nChúng tôi quyết địch lẻn ra sau đám Túi Máu, chuẩn bị cho cuộc phục kích bất ngờ."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97102902,
+      "name": "",
+      "desc": "Tội Nhân thực hiện việc lấy trang bị này đảo ánh mắt sang trái, phải và dừng lại về phía tôi.\n\nCác Đặc Vụ Dọn Dẹp đang dẵm lên hai món hàng khác nhau trên sàn.\n\nChỉ cần lấy đi một món thì tất cả đám Túi Máu trong toa này sẽ phát hiện ra chúng tôi ngay lập tức.\n\nThời gian không ủng hộ chúng tôi lấy cả hai món cùng lúc. Không nên tham lam.\n\nHãy chọn ra một món có ích hơn cho chúng ta.",
+      "options": [
+        {
+          "message": "Một vũ khí trông có vẻ mạnh.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "Chúng tôi thó vũ khí trên sàn và sủi sang toa kế."
+          ]
+        },
+        {
+          "message": "Một trang bị có vẻ hữu ích.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "Chúng tôi thó vũ khí trên sàn và sủi sang toa kế"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971030,
+      "name": "",
+      "desc": "Tiếng tim đập. Tiếng cơ bắp biến đổi. Tiếng da thịt cọ xát.\n\nĐó là những âm thanh vang vọng khắp toa tàu khổng lồ mà chúng tôi vừa bước vào.\n\nCỗ máy đồ sộ làm từ thịt và máu đằng đó nổi bật ở giữa toa. Xung quanh nó là khung đèn màu xanh của tàu WARP đang nhấp nháy liên tục.\n\nĐây là một trung tâm dữ liệu, tạo ra với mục đích lưu trữ thông tin gì đó. Tuy nhiên, bộ phận cấu thành lên cỗ máy lại được làm từ các hợp chất hữu cơ của con người.\n\nMột giọng nói thông báo chúng tôi cần phải xác thực sinh trắc học để qua toa tàu tiếp theo.\n\nChúng tôi phải tới trung tâm căn phòng, nơi có khối thịt khổng lồ vặn vẹo đằng kia.",
+      "options": [
+        {
+          "message": "Tiến hành xác thực.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Thờ Ơ & Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Từ chối tiến hành.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Năng Lượng",
+          "result": [
+            "Những sợi cáp sinh học được làm từ cơ thể một hành khách vươn tới các Tội Nhân.\n\nViệc phải chịu đựng mấy thứ đang ngọ nguậy đó là quá sức với các Tội Nhân; Họ ngay lập tức cố gắng cắt bỏ những sợi cáp.\n\nVô số mạch máu, vụn xương và nội tạng vương vãi hỗn loại lên sàn tựa như bọt khí trào lên khi nước sôi.\n\nRồi một sợi cáp dày lao thẳng về phía các Tội Nhân...\n\n... nhưng chúng tôi đã kịp xoay sở để di chuyển sang toa kế tiếp.\n\nCó thứ gì đó được đặt trên tim của một Tội Nhân đã sống sót."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971031,
+      "name": "",
+      "desc": "Một cơ thể nhân tạo chắn giữa đường nối giữa hai toa tàu.\n\nĐể đề phòng đó là một Túi Máu, chúng tôi từ từ tiếp cận nó.\n\n... Quả nhiên là một Túi Máu, nhưng nó đang ở trạng thái ngủ và bất động.\n\nQuan sát kĩ qua những khớp máy, chúng tôi thấy các thớ thịt ở đây đã bị rút cạn máu hoàn toàn tới mức khô héo.\n\nCác tĩnh mạch phồng xuyên qua lớp giáp thép, biến đổi thành các khối tinh thể đỏ mọc khắp cơ thể nhân tạo này.\n\nDù không thể quan sát được biểu cảm của cơ thể, nhưng không khó để nhận ra nỗi đau tột cùng mà người này đã từng trải. Vào thời khắc cuối cùng của người Fixer này, chắc chắn đã xảy ra một thứ gì đó khủng khiếp, khắc sâu sự thống khổ không thể tưởng tượng nổi vào trong cơ thể vặn vẹo kia.",
+      "options": [
+        {
+          "message": "Xem có thể giúp được gì.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Đố Kỵ & Thờ Ơ. Thành công sẽ nhận một Quà Tặng E.G.O Năng Lượng.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Điều tra xem có gì đó liên quan tới Huyết Quỷ không.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Chảy Máu",
+          "result": [
+            "Chắc chắn Fixer này đã bị một Huyết Quỷ tấn công.\n\nPhần nội tạng khô héo lộ ra sau các tính thể máu đông cứng và lớp vỏ giả đã rung lên hồi chuông cảnh giác trong tiềm thức của các Tội Nhân.\n\nSau một cuộc thảo luận ngắn với các Tội Nhân, tôi quyết định lấy một mẫu vật tinh thể máu đông cứng.\n\nCó thể nó sẽ có ích."
+          ]
+        }
+      ]
+    }
+  ]
+}

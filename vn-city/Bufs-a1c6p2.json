@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "Vengeance_LowMorale",
+      "name": "Trả Thù",
+      "desc": "  \n   <sprite name=\"DefenseDown\"><color=#e30000>   </color>   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>",
+      "summary": "Nhận 3 Defense Level Down và 3 <sprite name=\"AttackDmgUp\"><color=#fac400>Tăng Sát Thương</color>",
+      "undefined": "-"
+    },
+    {
+      "id": "Vengeance_Panic",
+      "name": "Trả Thù",
+      "desc": "  \n   <sprite name=\"DefenseDown\"><color=#e30000>   </color>   <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>",
+      "summary": "Nhận 6 Defense Level Down và 5 <sprite name=\"AttackDmgUp\"><color=#fac400>Tăng Sát Thương</color>",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBe",
+      "name": "Đánh Dấu Con Mồi",
+      "desc": "             <sprite name=\"AaCfPbBf\"><color=#e30000>   </color>        \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBf",
+      "name": "Phức Cảm Tự Ti",
+      "desc": "                 {0}  \n     ",
+      "summary": "Take ((20% of HP damage taken) * {0}) damage",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBa",
+      "name": "Bùng Nổ Thờ Ơ",
+      "desc": "      \n     \n                 <sprite name=\"Sinking\"><color=#e30000> <</color>    <sprite name=\"AttackUp\"><color=#fac400>   </color>       ",
+      "summary": "Resistance to Gloom(and only Gloom) becomes Fatal.\nWhen hit: Inflict 3 SP damage on the attacker, gain 1 Tầng <sprite name=\"Sinking\"><color=#e30000>Sa Lầy</color>, and gain 1 <sprite name=\"AttackUp\"><color=#fac400>Tăng Cấp Công Kích</color> next turn.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBb",
+      "name": "Bùng Nổ Đố Kỵ",
+      "desc": "      \n     \n       <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"Laceration\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>        <sprite name=\"DefenseDown\"><color=#e30000>   </color>       ",
+      "summary": "Resistance to Envy(and only Envy) becomes Fatal\nWhen hit: apply 1 <sprite name=\"AttackUp\"><color=#fac400>Tăng Cấp Công Kích</color>, 2 <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color>, và 2 Tầng <sprite name=\"Laceration\"><color=#e30000>Chảy Máu</color> on target, and gain 1 Defense Level Down next turn",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBc",
+      "name": "Bùng Nổ Phẫn Nộ",
+      "desc": "      \n     \n       <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>       ",
+      "summary": "Resistance to Wrath(and only Wrath) becomes Fatal.\nWhen hit, gain 1 <sprite name=\"AttackUp\"><color=#fac400>Tăng Cấp Công Kích</color> và 1 Defense Level Down.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBd",
+      "name": "Đau Thương Tột Cùng",
+      "desc": "         <sprite name=\"DefenseDown\"><color=#e30000>   </color>",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBg",
+      "name": "Bức Họa Méo Mó",
+      "desc": "  \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBh",
+      "name": "Bức Họa Méo Mó",
+      "desc": "  \n   <sprite name=\"PlusCoinValueUp\"><color=#fac400>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBi",
+      "name": "Thù Hận",
+      "desc": "  \n      <sprite name=\"AttackUp\"><color=#fac400>   </color>        \n     <sprite name=\"DefenseUp\"><color=#fac400>   </color>     ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBj",
+      "iconID": "Vengeanse_LowMoral",
+      "name": "Thù Hận",
+      "desc": "  \n      <sprite name=\"AttackUp\"><color=#fac400>   </color>           \n     <sprite name=\"DefenseUp\"><color=#fac400>   </color>     \n    <sprite name=\"Agility\"><color=#fac400> </color>   ",
+      "undefined": "-"
+    }
+  ]
+}

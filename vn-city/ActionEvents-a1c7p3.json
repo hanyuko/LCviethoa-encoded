@@ -1,0 +1,302 @@
+{
+    "dataList": [
+        {
+            "id": 837901,
+            "name": "아파하는 테디 선택지 선택 이벤트",
+            "subDesc": "UNUSED TEXT",
+            "desc": "Một con gấu bông nhìn chúng tôi với vẻ mặt buồn bã. Có rất nhiều đinh nhọn đang đâm xuyên thân thể nó.",
+            "options": [
+                {
+                    "message": "Ôm con gấu bông.",
+                    "messageDesc": "Chọn để giảm Sức Mạnh Giao Tranh của Dị Thể. Thành công kiểm định Dục Vọng, Danh Tính được chọn sẽ mất vài HP nhưng được hồi nhiều SP.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Nhìn đi chỗ khác.",
+                    "messageDesc": "Toàn bộ Danh Tính mất SP.",
+                    "result": [
+                        "Có lẽ mấy cây đinh trông nguy hiểm quá.\n\nNên là không ai muốn lại gần con gấu bông.\n\nNó buông thõng đôi vai, lộ rõ vẻ tổn thương.\n\nRõ ràng là đa số Tội Nhân đều thấy áy náy với quyết định này"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10701,
+            "name": "",
+            "subDesc": "",
+            "desc": "Chúng tôi tiến lại gần tấm biển báo đã phai màu giữa không gian vặn vẹo này.\n\n<i>Chào mừng tới La Manchaland.</i>\n\nBên dưới biểu tượng đó có ghi giá của hai loại vé.\n\nChắc là phải mua vé mới được vào...\n\nNên mua loại nào?",
+            "options": [
+                {
+                    "message": "Mua Vé Ngày.",
+                    "messageDesc": "Tất cả đồng minh mất HP. Nhận một Quà Tặng E.G.O.",
+                    "result": [
+                        "Mỗi Tội Nhân đều tự trả máu để mua Vé Ngày.\n\nMột vài người không mấy vui vẻ về chuyện này, nhưng ai cũng đồng ý mua Vé Ngày cả.\n\nMiễn là có tấm vé này thì chúng ta có thể thăm quan mọi khu vực."
+                    ]
+                },
+                {
+                    "message": "Mua Vé Thường.",
+                    "messageDesc": "Tất cả đồng minh nhận một Quà Tặng E.G.O giúp nhận Chảy Máu.",
+                    "result": [
+                        "Mất quá nhiều máu ở ngay cổng chào không phải một quyết định sáng suốt.\n\nSau khi thảo luận với các Tội Nhân, chúng tôi quyết định mua Vé Thường, vì loại này không yêu cầu thanh toán bằng máu.\n\nCó một dòng lưu ý trên tấm vé: 'quý khách phải thanh toán một lượng máu nhất định để được tham gia trò chơi'.\n\nChắc hẳn chúng tôi có thể tận dụng tối đa giá trị của lượng máu mình bỏ ra, miễn là cẩn thận chọn trò chơi để tham gia."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070101,
+            "name": "",
+            "subDesc": "",
+            "desc": "Chúng tôi bước qua cổng chào, tiến vào La Manchaland.\n\nNên tham quan Khu Vực nào trước để thoát ra khỏi công viên giải trí như mê cung này?",
+            "options": [
+                {
+                    "message": "Chơi một ván Bắn Máu Huyễn Tưởng.",
+                    "messageDesc": "Vào ải chiến đấu. Thắng trận sẽ nhận một Quà Tặng E.G.O.",
+                    "result": [
+                        "Có lẽ nếu chúng ta đánh bại đủ nhiều Huyết Quỷ thì lối đi sẽ mở ra.\n\nVài Tội Nhân đề xuất việc chơi trò Bắn Máu Huyễn Tưởng lần nữa.\n\nCác Nhà Mạo Hiểm đi tới cuối điểm vui chơi sẽ được thưởng một Đồng Xu Chiến Thắng!\n\nLời thoại được ghi âm sẵn của một Huyết Quỷ cổ vũ chúng tôi.\n\nChúng tôi từng chơi trò này rồi, nên tôi tin lần này cũng sẽ thành công."
+                    ]
+                },
+                {
+                    "message": "Đi đến Phòng Xưng Tội.",
+                    "messageDesc": "Tiến hành kiểm định Kiêu Ngạo. Thành công sẽ nhận một Quà Tặng E.G.O.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Xem Diễu Hành",
+                    "messageDesc": "Nhận được Quà Tặng E.G.O",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070103,
+            "name": "",
+            "subDesc": "",
+            "desc": "Chúng tôi không phí thời gian nữa, đến thẳng Khu Vực Diễu Hành.\n\nSau một hồi đi bộ đến phía đầu Đoàn Diễu Hành, một Huyết Quỷ đột nhiên đến chỗ bọn tôi.\n\n\"Quý khách có muốn chụp một tấm hình lưu niệm chung với Đoàn Diễu Hành ở phía sau không?\"\n\"Chỉ cần trả chút máu thôi là quý khách có thể tưởng nhớ khoảnh khắc này mãi mãi về sau luôn!\"\n\nNên làm gì đây?",
+            "options": [
+                {
+                    "message": "Trả máu để chụp hình lưu niệm.",
+                    "messageDesc": "Một vài Tội Nhân mất HP. Nhận một Quà Tặng E.G.O.",
+                    "result": [
+                        "Một số Tội Nhân đồng ý trả máu để chụp vài tấm hình.\n\nGiờ đứng tụ lại với nhau để chụp ảnh nhóm, lòng tôi lại đau nhói vì Don Quixote không còn ở đây.\n\nÁnh đèn flash lóe lên, tấm hình in ra. Ngay khi chúng tôi nhận tấm hình, Đoàn Diễu Hành đã tiến bước thật xa, thật xa khỏi chúng tôi và không gian méo mó trở về bình thường.\n\nTấm hình trên tay tôi đã biến mất, để lại một chiếc mặt nạ của Huyết Quỷ."
+                    ]
+                },
+                {
+                    "message": "Rời khỏi đây.",
+                    "result": [
+                        "Không thể phí thời gian để chụp ảnh được.\n\nChúng tôi quyết định tiếp tục đi qua Đoàn Diễu Hành."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10702,
+            "name": "",
+            "subDesc": "",
+            "desc": "Chúng tôi thấy một cánh cửa dẫn tới một buồng chứa lớn.\n\nPhải vượt qua đó thì mới thoát khỏi cái mê cung này được.\n\nCó một cái máy kỳ lạ trên đường đi đến căn buồng.\n\nChắc chắn là một cái máy quay xổ số cho những lúc có sự kiện ở La Manchaland.\n\n<i>Dùng một ít máu đổi lấy một món hời!</i>\n\nCó một tờ quảng cáo với kỹ thuật in rất công phu.\n\nChắc là ta có thể tìm thấy cái 'món hời' gì đó ở đây chăng?",
+            "options": [
+                {
+                    "message": "Trả Máu để tham gia xổ số.",
+                    "messageDesc": "Một Tội Nhân ngẫu nhiên mất HP. Có tỷ lệ ngẫu nhiên nhận Quà Tặng E.G.O.",
+                    "result": [
+                        "Lúc các Tội Nhân đưa máu, cái máy quay xổ số bắt đầu kêu vo vo inh ỏi.\n\n<i>Bạn... không nhận được gì!</i>\n\nCó một tiếng leng keng buồn bã vang lên, chiếc máy bắt đầu kêu chậm dần lại rồi im lặng.\n\nKhả năng chúng ta nhận được thứ mình muốn hẳn là rất thấp.",
+                        "Lúc các Tội Nhân đưa máu, cái máy quay xổ số bắt đầu kêu vo vo inh ỏi.\n\n<i>THẮNG LỚN! THẮNG LỚN!</i>\n\nCó một tiếng leng keng vui tươi vang lên, rồi một khối pha lê máu hình lập phương lăn ra khỏi chiếc máy.\n\nCó thể sẽ giúp ích cho chúng ta bằng cách nào đấy."
+                    ]
+                },
+                {
+                    "message": "Phá máy quay xổ số.",
+                    "messageDesc": "...",
+                    "result": [
+                        "Cũng đâu có ai cản chúng tôi lại đâu.\n\nSao phải bắt Tội Nhân đưa máu để kích hoạt cái máy quay xổ số này nhỉ?\n\nĐập bể cái máy ra rồi lấy phần thưởng trong đó là được mà?\n\nTôi lệnh cho các Tội Nhân đập bể cái máy, và vài Tội Nhân rất hớn hở làm theo.\n\nCái máy bắt đầu biến dạng thành một hình thù kỳ dị, rồi một con Peccatulum khổng lồ hiện ra trước mắt chúng tôi."
+                    ]
+                },
+                {
+                    "message": "Rời đi.",
+                    "result": [
+                        "Chắc không có gì hữu ích trong đó đâu.\n\nChúng tôi quyết định đi tiếp, mặc kệ cái máy quay xổ số."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070201,
+            "name": "",
+            "subDesc": "",
+            "desc": "Một chút máu chẳng cho ra thứ gì cả.\n\nCó phải cái quảng cáo này đang bịp không?\n\nHay chúng tôi chỉ là không may mắn thôi.\n\nNên làm gì đây?",
+            "options": [
+                {
+                    "message": "Trả Máu để tham gia xổ số.",
+                    "messageDesc": "Một Tội Nhân ngẫu nhiên mất HP. Có tỷ lệ ngẫu nhiên nhận Quà Tặng E.G.O.",
+                    "result": [
+                        "Lúc các Tội Nhân đưa máu, cái máy quay xổ số bắt đầu kêu vo vo inh ỏi.\n\n<i>Bạn... không nhận được gì!</i>\n\nCó một tiếng leng keng buồn bã vang lên, chiếc máy bắt đầu kêu chậm dần lại rồi im lặng.\n\nKhả năng chúng ta nhận được thứ mình muốn hẳn là rất thấp.",
+                        "Lúc các Tội Nhân đưa máu, cái máy quay xổ số bắt đầu kêu vo vo inh ỏi.\n\n<i>THẮNG LỚN! THẮNG LỚN!</i>\n\nCó một tiếng leng keng vui tươi vang lên, rồi một khối pha lê máu hình lập phương lăn ra khỏi chiếc máy.\n\nCó thể sẽ giúp ích cho chúng ta bằng cách nào đấy."
+                    ]
+                },
+                {
+                    "message": "Phá máy quay xổ số.",
+                    "messageDesc": "...",
+                    "result": [
+                        "Cũng đâu có ai cản chúng tôi lại đâu.\n\nSao phải bắt Tội Nhân đưa máu để kích hoạt cái máy quay xổ số này nhỉ?\n\nĐập bể cái máy ra rồi lấy phần thưởng trong đó là được mà?\n\nTôi lệnh cho các Tội Nhân đập bể cái máy, và vài Tội Nhân rất hớn hở làm theo.\n\nCái máy bắt đầu biến dạng thành một hình thù kỳ dị, rồi một con Peccatulum khổng lồ hiện ra trước mắt chúng tôi."
+                    ]
+                },
+                {
+                    "message": "Rời đi.",
+                    "result": [
+                        "Chắc không có gì hữu ích trong đó đâu.\n\nChúng tôi quyết định đi tiếp, mặc kệ cái máy quay xổ số."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10703,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Trong khi vị Hiệp Sĩ cao quý cùng Cận Thần của ngài đang rong ruổi trên chuyến phiêu lưu diệu kỳ...\"\n\n\"Thì cả Gia Đình lại đang chờ đợi mòn mỏi, chỉ còn biết gặm nhấm chút kế sinh nhai mà sống qua ngày.\"\n\n\"Nhưng chẳng ai biết chắc được, cứ chờ đợi mãi như vậy liệu có đáng hay không.\"\n\nChẳng biết từ đâu, có một giọng kể chuyện quái gở, mỉa mai cất lên.\n\n'Kế sinh nhai mà sống qua ngày' Gia Đình gặm nhấm bất chợt xuất hiện trước mắt các Tội Nhân.",
+            "options": [
+                {
+                    "message": "Ăn bánh tiết. (Vô vị.)",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Mặc kệ nó.",
+                    "result": [
+                        "Chúng tôi đợi thêm một lúc nữa, quyết không chịu ăn cái thứ kia. Không gian xung quanh chúng tôi bắt đầu méo mó, xoay vòng, rồi mở ra thành một con đường phía trước.\n\nKhông có thời giờ mà nghỉ ngơi đâu. Phải đi tiếp thôi."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070301,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Chúng ăn ngấu nghiến thứ 'thức ăn' khô khốc, nhạt nhẽo ấy.\"\n\n\"Nhưng cơn đói của chúng đâu thể thoả mãn bằng những món ấy được.\"\n\n\"Không chịu nổi cái cảm giác trống rỗng bên trong, chúng cố ăn thêm cái thứ thức ăn ấy.\"\n\n\"Như thể đang tự dối mình rằng nhồi nhét đống đấy sẽ giải thoát chúng khỏi cơn đói vậy.\"",
+            "options": [
+                {
+                    "message": "Ăn bánh tiết.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Ăn bánh tiết.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Ngừng ăn.",
+                    "result": [
+                        "Chúng tôi đợi thêm một lúc nữa, quyết không chịu ăn cái thứ kia. Không gian xung quanh chúng tôi bắt đầu méo mó, xoay vòng, rồi mở ra thành một con đường phía trước.\n\nKhông có thời giờ mà nghỉ ngơi đâu. Phải đi tiếp thôi."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070302,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Chúng lại ngấu nghiến đống thức ăn đấy lần nữa.\"\n\n\"Ăn, ăn, và ăn, ăn đến mức không thể nào nhét thêm đống đó vào miệng được nữa.\"\n\n\"Nhưng chao ôi, trớ trêu thay... Chúng vẫn còn đói khát.\"\n\n\"Gia Đình lại ngu muội đi bày mâm cỗ vô vị ấy một lần nữa rồi.\"",
+            "options": [
+                {
+                    "message": "Ăn mười cái bánh tiết.",
+                    "messageDesc": "(CẢNH BÁO) Tiếp tục ăn sẽ nhận một Quà Tặng E.G.O kèm hiệu ứng bất lợi.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Ăn mười cái bánh tiết.",
+                    "messageDesc": "(CẢNH BÁO) Tiếp tục ăn sẽ nhận một Quà Tặng E.G.O kèm hiệu ứng bất lợi.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Ăn mười cái bánh tiết.",
+                    "messageDesc": "(CẢNH BÁO) Tiếp tục ăn sẽ nhận một Quà Tặng E.G.O kèm hiệu ứng bất lợi.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Ngừng ăn.",
+                    "result": [
+                        "Chúng tôi đợi thêm một lúc nữa, quyết không chịu ăn cái thứ kia. Không gian xung quanh chúng tôi bắt đầu méo mó, xoay vòng, rồi mở ra thành một con đường phía trước.\n\nKhông có thời giờ mà nghỉ ngơi đâu. Phải đi tiếp thôi."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070303,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Dường như chúng vẫn thật khờ dại, thật ngu muội, vẫn tin rẵng cơn đói ấy vẫn còn chỉ là vì chúng chưa được ăn no.\"\n\n\"Hãy thử chờ xem... bàn tiệc vô nghĩa này sẽ kéo dài đến bao giờ.\"",
+            "options": [
+                {
+                    "message": "Tiếp tục ăn bánh tiết.",
+                    "messageDesc": "Nhận một Quà Tặng E.G.O kèm hiệu ứng bất lợi.",
+                    "result": [
+                        "\"Cả gia đình cứ ăn, ăn nữa, ăn mãi, vừa ăn vừa tuyệt vọng cầu nguyện rằng...\"\n\n\"Cơn đói cồn cào ấy mau chóng đi đi.\"\n\n\"Sau đó, gần như là trông đợi.\"\n\n\"Rằng có lẽ, có lẽ thôi, ngay khi vị Hiệp Sĩ cùng Cận Thần của ngài quay về nơi này, cơn đói ấy sẽ tan biến.\"\n\n\"Nhưng cơn đói vẫn không tan biến.\"\n\n\"Không bao giờ tan biến.\"\n\nNgay khi lời kể chuyện vừa dứt, chúng tôi bất chợt cảm nhận được một cơn cồn cào không có điểm dừng.\n\nCồn cào đến mức đau điếng, làm cho tất cả các Tội Nhân phải loạng choạng.\n\nNhưng chúng tôi còn chưa kịp lấp đầy cái bụng, con đường đã mở ra.\n\nThôi thì còn cách nào khác nữa, chắc là phải đi tiếp thôi."
+                    ]
+                },
+                {
+                    "message": "Tiếp tục ăn bánh tiết.",
+                    "messageDesc": "Nhận một Quà Tặng E.G.O kèm hiệu ứng bất lợi.",
+                    "result": [
+                        "\"Cả gia đình cứ ăn, ăn nữa, ăn mãi, vừa ăn vừa tuyệt vọng cầu nguyện rằng...\"\n\n\"Cơn đói cồn cào ấy mau chóng đi đi.\"\n\n\"Sau đó, gần như là trông đợi.\"\n\n\"Rằng có lẽ, có lẽ thôi, ngay khi vị Hiệp Sĩ cùng Cận Thần của ngài quay về nơi này, cơn đói ấy sẽ tan biến.\"\n\n\"Nhưng cơn đói vẫn không tan biến.\"\n\n\"Không bao giờ tan biến.\"\n\nNgay khi lời kể chuyện vừa dứt, chúng tôi bất chợt cảm nhận được một cơn cồn cào không có điểm dừng.\n\nCồn cào đến mức đau điếng, làm cho tất cả các Tội Nhân phải loạng choạng.\n\nNhưng chúng tôi còn chưa kịp lấp đầy cái bụng, con đường đã mở ra.\n\nThôi thì còn cách nào khác nữa, chắc là phải đi tiếp thôi."
+                    ]
+                },
+                {
+                    "message": "Tiếp tục ăn bánh tiết.",
+                    "messageDesc": "Nhận một Quà Tặng E.G.O kèm hiệu ứng bất lợi.",
+                    "result": [
+                        "\"Cả gia đình cứ ăn, ăn nữa, ăn mãi, vừa ăn vừa tuyệt vọng cầu nguyện rằng...\"\n\n\"Cơn đói cồn cào ấy mau chóng đi đi.\"\n\n\"Sau đó, gần như là trông đợi.\"\n\n\"Rằng có lẽ, có lẽ thôi, ngay khi vị Hiệp Sĩ cùng Cận Thần của ngài quay về nơi này, cơn đói ấy sẽ tan biến.\"\n\n\"Nhưng cơn đói vẫn không tan biến.\"\n\n\"Không bao giờ tan biến.\"\n\nNgay khi lời kể chuyện vừa dứt, chúng tôi bất chợt cảm nhận được một cơn cồn cào không có điểm dừng.\n\nCồn cào đến mức đau điếng, làm cho tất cả các Tội Nhân phải loạng choạng.\n\nNhưng chúng tôi còn chưa kịp lấp đầy cái bụng, con đường đã mở ra.\n\nThôi thì còn cách nào khác nữa, chắc là phải đi tiếp thôi."
+                    ]
+                },
+                {
+                    "message": "Tiếp tục ăn bánh tiết.",
+                    "messageDesc": "Nhận một Quà Tặng E.G.O kèm hiệu ứng bất lợi.",
+                    "result": [
+                        "\"Cả gia đình cứ ăn, ăn nữa, ăn mãi, vừa ăn vừa tuyệt vọng cầu nguyện rằng...\"\n\n\"Cơn đói cồn cào ấy mau chóng đi đi.\"\n\n\"Sau đó, gần như là trông đợi.\"\n\n\"Rằng có lẽ, có lẽ thôi, ngay khi vị Hiệp Sĩ cùng Cận Thần của ngài quay về nơi này, cơn đói ấy sẽ tan biến.\"\n\n\"Nhưng cơn đói vẫn không tan biến.\"\n\n\"Không bao giờ tan biến.\"\n\nNgay khi lời kể chuyện vừa dứt, chúng tôi bất chợt cảm nhận được một cơn cồn cào không có điểm dừng.\n\nCồn cào đến mức đau điếng, làm cho tất cả các Tội Nhân phải loạng choạng.\n\nNhưng chúng tôi còn chưa kịp lấp đầy cái bụng, con đường đã mở ra.\n\nThôi thì còn cách nào khác nữa, chắc là phải đi tiếp thôi."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10704,
+            "name": "",
+            "subDesc": "",
+            "desc": "Chắn đường chúng tôi là một rặng cây bụi gai lớn, từng gai nhọn hoắt.\n\n\"Vị Hiệp Sĩ cùng Cận Thần của ngài đã rong ruổi phiêu lưu rất lâu, rất lâu.\"\n\n\"Cùng tận hưởng vô vàn những hành trình.\"\n\n\"Hành trình nào là thú vị nhất?\"\n\nLời kể chuyện vẫn còn đó.\n\nNên nói thế nào đây?",
+            "options": [
+                {
+                    "message": "Thực vậy, đúng thực là trận chiến với những tên khổng lồ trên núi.",
+                    "messageDesc": "Nhận Tài Nguyên E.G.O Phẫn Nộ và Kiêu Ngạo.",
+                    "result": [
+                        "\"Từ rất lâu, rất lâu về trước, vị Hiệp Sĩ cùng Cận Thần của ngài đã chiến đấu với những gã khổng lồ.\"\n\n\"Nhưng câu chuyện ấy không thú vị lắm, vì lúc nào vị Hiệp Sĩ cũng giành chiến thắng.\"\n\n\"Không biết là sắp tới sẽ còn hành trình nào khác nữa đây?\""
+                    ]
+                },
+                {
+                    "message": "Đó là lúc ta giải cứu dân làng khỏi quỷ dữ, chính vậy.",
+                    "messageDesc": "Nhận Tài Nguyên E.G.O Dục Vọng và Phàm Ăn.",
+                    "result": [
+                        "\"Vị Hiệp Sĩ cùng Cận Thần của ngài đã giải cứu một ngôi làng đang gặp nguy.\"\n\n\"Hành trình ấy quá dễ dàng, vì hai người họ chính là hai tồn tại siêu việt đang che giấu sức mạnh thật sự của mình.\"\n\n\"Không biết là sắp tới sẽ còn hành trình nào khác nữa đây?\""
+                    ]
+                },
+                {
+                    "message": "Đích vậy, chính là cuộc phiêu lưu truy tìm chiếc mũ giáp của Mambrino.",
+                    "messageDesc": "Nhận Tài Nguyên E.G.O Thờ Ơ và Đố Kỵ.",
+                    "result": [
+                        "\"Sau một chuyến hành trình dài đầy hiểm nguy, vị Hiệp Sĩ cùng Cận Thần của ngài đã giành được về tay chiếc mũ giáp vĩ đại của Mambrino.\"\n\n\"Nhưng họ không biết sức mạnh thật sự của chiếc mũ giáp đó là gì.\"\n\n\"Không biết là sắp tới sẽ còn hành trình nào khác nữa đây?\""
+                    ]
+                }
+            ]
+        }
+    ]
+}

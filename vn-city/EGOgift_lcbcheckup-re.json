@@ -1,0 +1,106 @@
+{
+  "dataList": [
+    {
+      "id": 9243,
+      "name": "Trích Xuất Thử Nghiệm : H.D.T",
+      "desc": "+10% sát thương gây ra bằng Kỹ Năng Tấn Công có gây Lượng, Tầng [Combustion], hoặc '<noparse>Thiêu Đốt</noparse> Đặc Trưng'\n- Nếu Kỹ Năng đó gây Tầng [Combustion] lên chủ thể, Sức Mạnh Giao Tranh +1\n- Thêm 1% sát thương gây ra với mỗi 2% HP đã mất (tối đa 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9243,
+          "simpleDesc": "Attack Skills deal more damage, nhận Sức Mạnh Giao Tranh when conditions are met"
+        }
+      ]
+    },
+    {
+      "id": 9244,
+      "name": "Trích Xuất Thử Nghiệm : Huỳnh Đăng",
+      "desc": "+10% sát thương gây ra với Kỹ Năng Tấn Công có gây Lượng, Tầng [Burst]\n- Khi HP đã mất ≥ 20%, Sức Mạnh Giao Tranh +1\n- Thêm 1% sát thương gây ra bằng Kỹ Năng Tấn Công với mỗi 1 (tổng [Aggro] trên toàn bộ Ô Kỹ Năng của chủ thể) (tối đa 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9244,
+          "simpleDesc": "Attack Skills deal more damage, nhận Sức Mạnh Giao Tranh when conditions are met"
+        }
+      ]
+    },
+    {
+      "id": 9245,
+      "name": "Trích Xuất Cải Biến : AEDD",
+      "desc": "Nếu chủ thể nhận Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng' vượt quá giới hạn trong lượt này, nhận 1 [AttackUp] vào lượt kế với mỗi 2 Lớp vượt mức (2 lần mỗi lượt mỗi Danh Tính)\n- Danh Tính có Kỹ Năng Cơ Bản nhận hay tiêu thụ Tầng [Charge] hoặc '<noparse>Năng Lượng</noparse> Đặc Trưng': tăng lên tối đa 6 lần mỗi lượt mỗi Danh Tính\n- Nếu chủ thể có [HighVoltageExoshell], nhận thêm 1 Lượng [Charge] (một lần mỗi Ải)",
+      "simpleDesc": [
+        {
+          "abilityID": 9245,
+          "simpleDesc": "Nhận [AttackUp] based on surplus Tầng [Charge], nhận [Charge] when conditions are met"
+        }
+      ]
+    },
+    {
+      "id": 9246,
+      "name": "Thẻ Nhân Viên Của Ai Đó Làm Rơi",
+      "desc": "Danh Tính thuộc Công Ty Limbus:\n- Đầu Lượt: Nhận (Số Danh Tính thuộc Công Ty Limbus trên sân /  3) [ParryingResultUp] (tối đa 2; làm tròn xuống)\n\nDanh Tính thuộc LCE:\n- Thêm (Số Danh Tính trên sân có mặc Trang Bị E.G.O x 10)% sát thương gây ra (tối đa 30%)\n- Đồng Minh cùng phe phái mà Chết: Mỗi Nguyên Tội nhận 1 tài nguyên E.G.O; nhận 1 [PlusCoinValueUp] và 1 [MinusCoinValueUp] vào Đầu Lượt tới hết Ải (2 lần mỗi Ải mỗi Danh Tính)",
+      "simpleDesc": [
+        {
+          "abilityID": 9246,
+          "simpleDesc": "Nhận [ParryingResultUp] based on the number of Limbus Company Identities participating in battle"
+        },
+        {
+          "abilityID": 92461,
+          "simpleDesc": "Deal more damage based on the number of Identities wearing E.G.O Gears participating in battle"
+        },
+        {
+          "abilityID": 92462,
+          "simpleDesc": "On same-faction Ally Death: Gain E.G.O resources; nhận [PlusCoinValueUp] and [MinusCoinValueUp] at Turn Start for this Encounter, starting from the next turn"
+        }
+      ]
+    },
+    {
+      "id": 9248,
+      "name": "Sơn Trà, Kính Mắt, và Lá Thư Được Gửi Đến",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 1, Số 2, Số 3]\n\nKhi thắng Giao Tranh bằng Kỹ Năng Tấn Công gây Lượng hoặc Tầng [Burst], gây 5 Lượng [Burst] và +3 Tầng [Burst] lên mục tiêu (một lần mỗi lượt mỗi Danh Tính)\n\nKhi Giao Tranh với kẻ địch có Tốc Độ chậm hơn, nhận Sức Mạnh Tổng +1 và +25% sát thương gây ra\n\nKhi thắng Giao Tranh với kẻ địch có hiệu ứng [AttackUp], nhận 3 [AttackUp] vào lượt sau, và gây 3 [AttackDown] lên kẻ địch đã thua Giao Tranh (3 lần mỗi lượt mỗi Danh Tính)\n\nMỗi khi Kỹ Năng 1, 2, hoặc 3 được sử dụng, kích hoạt hiệu ứng sau (một lần mỗi bậc Kỹ Năng):\n- Đơn vị sử dụng Kỹ Năng đó nhận 1 [Agility] và 1 [SkillPowerUp] vào Đầu Lượt tới hết Ải (có thể cộng dồn lên tới 3 lần)",
+      "simpleDesc": [
+        {
+          "abilityID": 9248,
+          "simpleDesc": "On Clash Win: Inflict [Burst] on target"
+        },
+        {
+          "abilityID": 92481,
+          "simpleDesc": "When Clashing against an enemy with a slower Speed, nhận Sức Mạnh Tổng and deal more damage"
+        },
+        {
+          "abilityID": 92482,
+          "simpleDesc": "Nhận [AttackUp] on self and inflict [AttackDown] on the enemy when conditions are met"
+        },
+        {
+          "abilityID": 92483,
+          "simpleDesc": "Nhận [Agility] and [SkillPowerUp] at Turn Start when conditions are met"
+        }
+      ]
+    },
+    {
+      "id": 9249,
+      "name": "Cây Vĩ Cầm Nhỏ Xinh",
+      "desc": "[Chỉ áp dụng lên Danh Tính được Triển Khai ở vị trí Số 5, Số 6]\n\nHồi HP bằng 10% lượng sát thương đã gây ra với một Kỹ Năng (tối đa 20 mỗi Kỹ Năng)\n\nThắng Giao Tranh: Nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] (2 lần mỗi lượt mỗi Danh Tính)\n\nKhi Dùng Kỹ Năng: Nhận 1 [AttackUp] và 1 [TakeHpHealIncrease] (2 lần mỗi lượt mỗi Danh Tính)\n\n+10% sát thương gây ra với Kỹ Năng Đập\n\n+(Số lần Giao Tranh x 6)% sát thương gây ra với Kỹ Năng thắng Giao Tranh (tối đa 30%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9249,
+          "simpleDesc": "Heal HP on self based on damage dealt with a Skill"
+        },
+        {
+          "abilityID": 92491,
+          "simpleDesc": "Nhận [AttackUp] and [TakeHpHealIncrease] on Clash Win"
+        },
+        {
+          "abilityID": 92492,
+          "simpleDesc": "Nhận [AttackUp] and [TakeHpHealIncrease] on Skill Use"
+        },
+        {
+          "abilityID": 92493,
+          "simpleDesc": "Deal more damage with Blunt Skills"
+        },
+        {
+          "abilityID": 92494,
+          "simpleDesc": "Deal more damage with Skills that won the Clash"
+        }
+      ]
+    }
+  ]
+}

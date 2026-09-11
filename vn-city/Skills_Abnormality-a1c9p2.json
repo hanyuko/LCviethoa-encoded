@@ -1,0 +1,1110 @@
+{
+  "dataList": [
+    {
+      "id": 132001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hỏa Kích",
+          "desc": "[WhenUse] Nhận 1 [MRcAiBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Combustion] và +3 Tầng [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Diễm Dực",
+          "desc": "[WhenUse] Nhận 2 [MRcAiBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [CrimsonResistDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tia Lửa",
+          "desc": "[WhenUse] Gây +2 Tầng [Combustion]\n[WinDuel] Gây [Combustion] bằng với [Combustion] trên mục tiêu\n[DefeatDuel] Nhận các hiệu ứng sau:\n- Kỹ Năng này không thể Làm Choáng mục tiêu\n- Nếu Kỹ Năng này là Kỹ Năng Phẫn Nộ, gỡ [Combustion] trên mục tiêu\n- Giảm một nửa [Combustion] và Tầng [Combustion] Kỹ Năng này gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu mục tiêu có 3+ [MRcAiBb]...\n- Gây 10 [Combustion]\n- Gây +2 Tầng [Combustion]\n- Gây 2 [MRcAiBc]\n- [MRcAiBb] hoàn toàn hết hiệu lực"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Combustion] và +4 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [CrimsonResistDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vụ Nổ Hỏa Sa",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Combustion], Kỹ Năng này nhận Sức Mạnh Giao Tranh +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây Tầng [Combustion] bằng với số lượng Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây Tầng [Combustion] bằng với số lượng Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này lên kẻ địch có Tốc Độ thấp nhất"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng với số lượng Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Kẻ địch có Tốc Độ thấp nhất, gây [Combustion] bằng với số lượng Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Diễm Tinh",
+          "desc": "Nhận Sức Mạnh Giao Tranh bằng (số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga dùng trong lượt này x2)\n[WhenUse] Gây (số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga dùng trong lượt này x2) [Combustion] lên tất cả kẻ địch\n[DefeatDuel] Nhận các hiệu ứng sau:\n- Kỹ Năng Tấn công này gây 0 sát thương\n- Gỡ [Combustion] toàn bộ mục tiêu\n- Kỹ Năng này gây ra giảm một nửa [Combustion] và Tầng [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng với số lượng Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây Lượng và Tầng [Combustion] bằng với số lượng Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này lên kẻ địch có Tốc Độ thấp nhất"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng với số lượng Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây Lượng và Tầng [Combustion] bằng với số lượng Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này lên kẻ địch có Tốc Độ thấp nhất"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu bằng 70% sát thương gây ra"
+                },
+                {
+                  "desc": "- Gây 10 [Combustion] lên mục tiêu bị Kỹ Năng này Làm Choáng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 4 [Combustion] trên mục tiêu (tối đa 3)\n[WhenUse] Gây 4 [Combustion]\n[OnSucceedEvade] Nhận 1 [MRcAiBa] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhóm Lửa",
+          "desc": "[CantDuel] [CantChangeTarget]\nKỹ Năng này gây 0 sát thương",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [MRcAiBb] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cắn",
+          "desc": "[StartBattle] Nhận 2 [SelfCharge]\n[WhenUse] Ở mốc 5+ [SelfCharge], Sức Mạnh Gốc +2\n[DefeatDuel] Mất 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đuôi Chọc",
+          "desc": "[StartBattle] Nhận 2 [SelfCharge]\n[WhenUse] Ở mốc 5+ [SelfCharge], Sức Mạnh Xu +1\n[DefeatDuel] Mất 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quấn siết",
+          "desc": "[StartBattle] Nhận 3 [SelfCharge]\n[WhenUse] Ở mốc 5+ [SelfCharge], Sức Mạnh Gốc +2\n[DefeatDuel] Mất 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tụ Điện",
+          "desc": "[StartBattle] Nhận 1 [SelfCharge]\n[WhenUse] Ở mốc 5+ [SelfCharge], Sức Mạnh Xu +1\nNếu mục tiêu có [Paralysis], +30% sát thương gây ra\n[DefeatDuel] Mất 2 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Giải Phóng Năng Lượng",
+          "desc": "[StartBattle] Nhận 1 [SelfCharge]\n[WhenUse] Ở mốc 5+ [SelfCharge], Sức Mạnh Xu +1\nNếu mục tiêu có [Paralysis], +30% sát thương gây ra\n[DefeatDuel] Mất 3 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phóng Thích Điện Áp",
+          "desc": "[StartBattle] Nhận 1 [SelfCharge]\nNếu mục tiêu có [Paralysis], +30% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phóng Thích Điện Cao Áp",
+          "desc": "Khi có hơn 7 [SelfCharge], +10% sát thương gây ra với mỗi [SelfCharge] vượt quá 7 (tối đa 120%)\n[WhenUse] Mất toàn bộ [SelfCharge] trên chủ thể; nếu đơn vị này mất 10+ [SelfCharge], nhận Sức Mạnh Giao Tranh +5\n[DefeatDuel] Kỹ Năng Tấn công này gây 0 sát thương",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Vulnerable] trên mục tiêu chính"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [ElectricStorage]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Paralysis] trên mục tiêu chính"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [ElectricStorage], gây sát thương cố định bằng 40% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuộn Tròn",
+          "desc": "[StartBattle] The Head Part gains Shield by its current HP\n[EndBattle] If the Head Part has Shield, nhận 10 [SelfCharge] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đầu Ngọ Nguậy",
+          "desc": "Ưu tiên mục tiêu có HP thấp nhất\nNếu mục tiêu có [Paralysis], +50% sát thương gây ra\n<color=#ff6000><mark color=#ff000040><b><u>Nếu mục tiêu đang sử dụng Kỹ năng Phòng Thủ, -100% sát thương gây ra</color></mark></b></u>\nSức Mạnh Gốc +1 với mỗi [SelfCharge]\n[WhenUse] Mất 1 [SelfCharge]\n[EndSkill] Nếu là Đòn Một Chiều, mất 1 [SelfCharge]\n- Nếu Kỹ Năng này tấn công mục tiêu đang sử dụng Kỹ Năng Phòng Thủ, mất thêm 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đuôi Ngọ Nguậy",
+          "desc": "Ưu tiên mục tiêu có HP thấp nhất\nNếu mục tiêu có [Paralysis], +50% sát thương gây ra\n<color=#ff6000><mark color=#ff000040><b><u>Nếu mục tiêu đang sử dụng Kỹ năng Phòng Thủ, -100% sát thương gây ra</color></mark></b></u>\nSức Mạnh Gốc +1 với mỗi [SelfCharge]\n[WhenUse] Mất 1 [SelfCharge]\n[EndSkill] Nếu là Đòn Một Chiều, mất 1 [SelfCharge]\n- Nếu Kỹ Năng này tấn công mục tiêu đang sử dụng Kỹ Năng Phòng Thủ, mất thêm 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhị Liên [二連]",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tam Liên [三連]",
+          "desc": "[WhenUse] Nhận +3 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khoái Thiểm [快閃]",
+          "desc": "[OnDirectAttack] Nhận 5 [Breath]\n[DefeatDuel] -2 Phạm Vi Tấn Công",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+30% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [PhantomIncision]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [PhantomIncision]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vô Hình Trảm [無形斬]",
+          "desc": "[WideAreaRampage]\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ; không thể Bị Choáng tới khi Kỹ Năng này kết thúc\n[DefeatDuel] -80% sát thương gây ra và lượng sát thương này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tái Sử Dụng Xu này (tối đa 4 lần)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [PhantomIncision]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [PhantomIncision]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Không Gian Trảm [空間斬]",
+          "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ; không thể Bị Choáng tới khi Kỹ Năng này kết thúc\n[DefeatDuel] -80% sát thương gây ra và lượng sát thương này không thể Choáng mục tiêu\n[EndSkill] Kết Thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+100% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây ([PhantomIncision] đã tiêu thụ)% sát thương HP lên mỗi kẻ địch tương ứng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tàn Tượng Bộ [殘像步]",
+          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Giảm một nửa Lớp [PhantomIncision] trên mục tiêu</u></b></mark></color> (làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vô Thức Lưu Tâm",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Nhận 2 [Reduction]</u></b></mark></color>\n[DefeatDuel] Mục tiêu hồi 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tuyệt Mệnh [絶命]",
+          "desc": "Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu\nƯu tiên mục tiêu có phần trăm HP thấp nhất\n- Ưu tiên mục tiêu không phải là Ryōshū",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [PhantomIncision] với mỗi 1% HP đã mất của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương HP bằng ([PhantomIncision] đã tiêu thụ)%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132209,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Không Gian Trảm - Kết Duyên [空間斬-緣]",
+          "desc": "[WhenUse] Ở mốc 10+ SP, tạo 1 Vọng. Sức Mạnh Tổng +5\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ; không thể Bị Choáng tới khi Kỹ Năng này kết thúc\n[DefeatDuel] -80% sát thương gây ra và lượng sát thương này không thể Choáng mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo 1 Vọng, mất 10 SP\n[EndSkill] Kết Thúc lượt này",
+          "flavor": "                             ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+100% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương HP bằng ([PhantomIncision] đã tiêu thụ)% lên từng mục tiêu"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nghiền Nát Sọ",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Breath] trên chủ thể + [Sinking] trên mục tiêu) (tối đa 2)\n[WhenUse] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "X-Xin Hãy Im Lặng",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Breath] trên chủ thể + [Sinking] trên mục tiêu) (tối đa 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Nếu chủ thể có [PressureOfPrescript], hoặc nếu mục tiêu có [IndexPrescriptTargetToPersonality]</u></b></mark></color>, chuyển Xu cuối thành [SuperCoin]\n[DefeatDuel] -50% sát thương gây ra; Khi Đánh Trúng, không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n[WhenUse] Nhận 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Sinking] và +1 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T-Tôi Sắp Phải Thi Hành Sắc Lệnh Rồi...!",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Ở mốc 2 [PressureOfPrescript], không thể đổi mục tiêu</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>Không kích hoạt Kỹ Năng Phòng Thủ</u></b></mark></color>\nSức Mạnh Tổng +1 với mỗi 6 ([Breath] trên chủ thể + [Sinking] trên mục tiêu) (tối đa 3)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Nếu chủ thể có [PressureOfPrescript], hoặc nếu mục tiêu có [IndexPrescriptTargetToPersonality]</u></b></mark></color>, chuyển toàn bộ Xu thành [SuperCoin]\n[DefeatDuel] -80% sát thương gây ra; Khi Đánh Trúng, không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] +20% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xin Đừng Phản Kháng, Hãy Chấp Nhận Bị Nghiền Nát",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ</u></b></mark></color>\n[DefeatDuel] Nhận 3 [ResultReduction] và 4 [Paralysis]\n[DefeatDuel] -90% sát thương gây ra; Khi Đánh Trúng, không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Tiêu thụ toàn bộ [PressureOfPrescript]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nguyện Đôi Tay Này Trở Thành Công Cụ Thi Hành...",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Breath] trên chủ thể + [Sinking] trên mục tiêu) (tối đa 2)\n[WhenUse] Nhận +2 Tầng [Breath]\n[EndSkill] Mất 3 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mổ Bụng, Xâu Xé...",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 ([Breath] trên chủ thể + [Sinking] trên mục tiêu) (tối đa 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Nếu chủ thể có [PressureOfPrescript], hoặc nếu mục tiêu có [IndexPrescriptTargetToPersonality]</u></b></mark></color>, chuyển Xu cuối thành [SuperCoin]\n[DefeatDuel] -50% sát thương gây ra; Khi Đánh Trúng, không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n[WhenUse] Nhận 2 [Breath]\n[EndSkill] Mất 3 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quyền Hành: Khắc Ấn",
+          "desc": "Sức Mạnh Xu +1 với mỗi 6 ([Breath] trên chủ thể + [Sinking] trên mục tiêu) (tối đa 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Nếu chủ thể có [PressureOfPrescript], hoặc nếu mục tiêu có [IndexPrescriptTargetToPersonality]</u></b></mark></color>, chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]\n[WhenUse]<color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có [IndexPrescriptTargetToPersonality], +50% sát thương gây ra</u></b></mark></color>\n[WhenUse] Nhận 3 [Breath] và +3 Tầng [Breath]\n[DefeatDuel] -80% sát thương gây ra; Khi Đánh Trúng, không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Mất 6 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quyền Hành: Tuyệt Diệt",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có [IndexPrescriptTargetToPersonality], +100% sát thương gây ra</u></b></mark></color>\n[DefeatDuel] Nhận 3 [ResultReduction] và 4 [Paralysis]\n[DefeatDuel] -90% sát thương gây ra; Khi Đánh Trúng, không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Mất 15 SP\n[EndSkill] Tiêu thụ toàn bộ [PressureOfPrescript]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quyền Hành: Tuyệt Diệt - Bổn Vọng [本望]",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Ở mốc 0+ SP, tạo 1 Vọng</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>+20% sát thương gây ra, Sức Mạnh Tổng +2, Sức Mạnh Xu +2</u></b></mark></color>\n[EndSkill] Mất 15 SP\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 20 SP\n[EndSkill] Tiêu thụ toàn bộ [PressureOfPrescript] và kết thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 877311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rễ Cây Đố Kỵ",
+          "desc": "Kỹ Năng này không gây sát thương\n[WhenUse] Tiêu thụ toàn bộ [HowDareYouApple] trên chủ thể và tái sử dụng Xu bằng Lớp [HowDareYouApple] đã tiêu thụ (tối đa 4)\n[DefeatDuel] Kỹ năng này không kích hoạt [Burst] trên mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 877205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Diễm Tinh",
+          "desc": "Nhận Sức Mạnh Giao Tranh bằng (số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga dùng trong lượt này x2)\n[WhenUse] Gây (số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga dùng trong lượt này x2) [Combustion] lên tất cả kẻ địch\n[DefeatDuel] Nhận các hiệu ứng sau:\n- Kỹ Năng Tấn Công này gây 0 sát thương\n- Gỡ [Combustion] trên toàn bộ mục tiêu\n- Kỹ Năng này gây ra giảm một nửa [Combustion] và Tầng [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga dùng trong lượt này"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Khi đánh mục tiêu có Tốc Độ thấp nhất, gây [Combustion] và Tầng [Combustion] bằng với số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ dùng ở lượt này"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [Combustion] bằng số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga dùng trong lượt này"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Khi đánh mục tiêu có Tốc Độ thấp nhất, gây [Combustion] và Tầng [Combustion] bằng với số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ dùng ở lượt này"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu bằng 70% sát thương gây ra"
+                },
+                {
+                  "desc": "- Gây 10 [Combustion] lên mục tiêu bị Choáng từ Kỹ Năng này"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

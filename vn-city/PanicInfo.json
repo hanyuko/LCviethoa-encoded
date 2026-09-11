@@ -1,0 +1,154 @@
+{
+  "dataList": [
+    {
+      "id": 1001,
+      "panicName": "Cưỡng Chế",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 2 [Agility] và 2 [Vulnerable]",
+      "panicDescription": "Đầu Lượt: Mất 10 HP."
+    },
+    {
+      "id": 1002,
+      "panicName": "Phản Ứng Dữ Dội",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 2 [Enhancement] và 2 [Vulnerable]",
+      "panicDescription": "Đầu Lượt: Một đồng minh ngẫu nhiên mất 20 SP."
+    },
+    {
+      "id": 1003,
+      "panicName": "Choáng Ngợp",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 2 [Reduction]",
+      "panicDescription": "Không hành động trong lượt này."
+    },
+    {
+      "id": 1004,
+      "panicName": "Suy Kiệt",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 2 [Reduction]",
+      "panicDescription": "Đầu Lượt: Nhận 4 [Reduction]"
+    },
+    {
+      "id": 1005,
+      "panicName": "Kích Động",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 1 [AttackDmgUp] và 2 [Vulnerable]",
+      "panicDescription": "Đầu Lượt: Nhận 2 [AttackDmgUp] và 5 [Vulnerable]"
+    },
+    {
+      "id": 1006,
+      "panicName": "Trốn Chạy",
+      "lowMoraleDescription": "Không hành động. Khi bị trúng đòn, đơn vị này sẽ bị đánh bại sau khi Kỹ Năng kết thúc.",
+      "panicDescription": ""
+    },
+    {
+      "id": 1007,
+      "panicName": "Sầu Muộn",
+      "lowMoraleDescription": "Mỗi lượt, nhận 2 [AttackDmgDown]",
+      "panicDescription": "Mỗi lượt, nhận 5 [AttackDmgDown] và 2 [Vulnerable]"
+    },
+    {
+      "id": 1008,
+      "panicName": "Điên Loạn",
+      "lowMoraleDescription": "Lần đầu tiên rơi vào trạng thái Nhụt Chí, tấn công đơn vị bất kỳ",
+      "panicDescription": "Tấn công đơn vị bất kỳ; Sức Mạnh Giao Tranh +1, và nhận 2 [AttackDmgUp]"
+    },
+    {
+      "id": 1009,
+      "panicName": "Tự Hủy",
+      "lowMoraleDescription": "Lần đầu tiên rơi vào trạng thái Nhụt Chí, sẽ không thể hành động",
+      "panicDescription": "Không thể hành động trong 3 lượt. Sau 3 lượt, đơn vị này chết vào đầu lượt; tất cả đồng minh mất thêm 10 SP với mỗi điều kiện mất SP."
+    },
+    {
+      "id": 1010,
+      "panicName": "Lạc Lối",
+      "lowMoraleDescription": "Cuối Lượt: Gây 2 sát thương SP lên đồng minh",
+      "panicDescription": "Cuối Lượt: Gây 5 sát thương SP lên đồng minh. Chạy khỏi trận đấu sau khi 3 lượt đã trôi qua"
+    },
+    {
+      "id": 1011,
+      "panicName": "Bất Định",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 2 [Enhancement] và 3 [Binding]",
+      "panicDescription": "Đầu Lượt: Rơi vào trạng thái Choáng"
+    },
+    {
+      "id": 1012,
+      "panicName": "Nản Lòng",
+      "lowMoraleDescription": "Nhận 1 [Vulnerable]; Trong giao tranh, nếu bất kỳ Xu nào ra Xu Úp, Sức Mạnh Giao Tranh -1",
+      "panicDescription": "Nhận 3 [Vulnerable]; Trong giao tranh, nếu bất kỳ Xu nào ra Xu Úp, Sức Mạnh Giao Tranh -3"
+    },
+    {
+      "id": 9999,
+      "panicName": "Hoảng Loạn",
+      "lowMoraleDescription": "",
+      "panicDescription": "Không hành động trong lượt này."
+    },
+    {
+      "id": 1013,
+      "panicName": "Tạp Chất",
+      "lowMoraleDescription": "Nhận 1 [Vulnerable]. Mục tiêu mất 2 SP nếu đơn vị này thua giao tranh",
+      "panicDescription": "Nhận 1 [Vulnerable]. Mục tiêu mất 5 SP nếu đơn vị này thua giao tranh"
+    },
+    {
+      "id": 1014,
+      "panicName": "Báo Thù",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 1 [Enhancement] và 3 [DefenseDown]. Nhận [AttackDmgUp] dựa trên lượng sát thương đã nhận ở lượt trước (Cứ mất 3% Tối Đa thì nhận 1 [AttackDmgUp])",
+      "panicDescription": "Đầu Lượt: Nhận 2 [Enhancement] và 6 [DefenseDown]. Nhận [AttackDmgUp] dựa trên lượng sát thương đã nhận ở lượt trước (Cứ mất 3% Tối Đa thì nhận 1 [AttackDmgUp])"
+    },
+    {
+      "id": 1015,
+      "panicName": "Bạch Loạn",
+      "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] +2",
+      "panicDescription": "Mỗi Cuối Lượt: Nhận 2 [Binding].\nMọi Xu của đơn vị này khi tung đều ra Xu Úp."
+    },
+    {
+      "id": 1016,
+      "panicName": "Oán Hận",
+      "lowMoraleDescription": "Đầu Lượt: Nhận 2 [AttackDmgUp] và 3 [DefenseDown]",
+      "panicDescription": "Đầu Lượt: Nhận 1 [Enhancement] và 5 [DefenseDown]"
+    },
+    {
+      "id": 1026,
+      "panicName": "Diệt Vong",
+      "lowMoraleDescription": "Mỗi Cuối Lượt: Nhận 3 [Sinking]; Sức Mạnh Giao Tranh -1",
+      "panicDescription": "Mỗi Cuối Lượt: Nhận 5 [Sinking] và +3 Tầng [Sinking]; Sức Mạnh Giao Tranh -2"
+    },
+    {
+      "id": 9994,
+      "panicName": "Tình Yêu và Thù Hận",
+      "lowMoraleDescription": "",
+      "panicDescription": "Không hành động trong lượt này."
+    },
+    {
+      "id": 1065,
+      "panicName": "Phá Ấn",
+      "lowMoraleDescription": "Sức Mạnh Giao Tranh -1, Cấp Phòng Thủ -2",
+      "panicDescription": "Sức Mạnh Giao Tranh -2, Cấp Phòng Thủ -3"
+    },
+    {
+      "id": 1085,
+      "panicName": "Bột Lam",
+      "lowMoraleDescription": "Sức Mạnh Giao Tranh -1\nTốc Độ Tối Thiểu & Tối Đa -1",
+      "panicDescription": "Sức Mạnh Giao Tranh -2\nTốc Độ Tối Thiểu & Tối Đa -1"
+    },
+    {
+      "id": 1086,
+      "panicName": "Chói Mắt",
+      "lowMoraleDescription": "Cuối Lượt: Nhận 1 [Binding] và 2 [AttackDown] vào lượt kế",
+      "panicDescription": "Cuối Lượt: Nhận 1 [Binding] và 4 [AttackDown] vào lượt kế"
+    },
+    {
+      "id": 1087,
+      "panicName": "Cô Độc",
+      "lowMoraleDescription": "Cuối Lượt: Nhận +2 Tầng [Sinking]",
+      "panicDescription": "Cuối Lượt: Nhận +3 Tầng [Sinking]"
+    },
+    {
+      "id": 1091,
+      "panicName": "Tình Tương và Oán Hận Khúc Xạ",
+      "lowMoraleDescription": "Gây và nhận thêm 10% sát thương",
+      "panicDescription": "Gây và nhận thêm 20% sát thương"
+    },
+    {
+      "id": 1097,
+      "panicName": "Mô Phỏng Một Người Cha",
+      "lowMoraleDescription": "- Đầu Lượt: Nhận 5 [Combustion] và 5 [Laceration]",
+      "panicDescription": "- Đầu Lượt: Nhận 5 [Combustion], +3 Tầng [Combustion], 5 [Laceration], và +3 Tầng [Laceration]"
+    }
+  ]
+}

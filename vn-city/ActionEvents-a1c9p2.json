@@ -1,0 +1,26 @@
+{
+  "dataList": [
+    {
+      "id": 877401,
+      "name": "아파하는 테디 선택지 선택 이벤트",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "Một con gấu bông nhìn chúng tôi với vẻ mặt buồn bã. Có rất nhiều đinh nhọn đang đâm xuyên thân thể nó.",
+      "options": [
+        {
+          "message": "Ôm con gấu bông.",
+          "messageDesc": "Chọn để giảm Sức Mạnh Giao Tranh của Dị Thể. Thành công kiểm định Dục Vọng, Danh Tính được chọn sẽ mất vài HP nhưng được hồi nhiều SP.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Nhìn đi chỗ khác.",
+          "messageDesc": "Toàn bộ Danh Tính mất SP.",
+          "result": [
+            "Có lẽ mấy cây đinh trông nguy hiểm quá.\n\nNên là không ai muốn lại gần con gấu bông.\n\nNó buông thõng đôi vai, lộ rõ vẻ tổn thương.\n\nRõ ràng là đa số Tội Nhân đều thấy áy náy với quyết định này"
+          ]
+        }
+      ]
+    }
+  ]
+}

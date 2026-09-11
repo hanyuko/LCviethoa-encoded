@@ -1,0 +1,851 @@
+{
+  "dataList": [
+    {
+      "id": 9014001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cút Mẹ Mày Đi",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận Tầng [Vibration] bằng Tầng [Vibration] trên mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hàng Kín Của Tao",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mẹ Kiếp Cái Đồng Hồ Bỏ Túi!",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 5 Tầng [Vibration] trên chủ thể (tối đa 2)\n[WhenUse] Kích hoạt [Switch_Vibration] chuyển [Vibration] trên chủ thể thành [VibrationDistribution]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict Tầng [Vibration] bằng Tầng [Vibration] trên chủ thể"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phòng Thủ",
+          "desc": "[StartBattle] Nhận 2 x (Tầng [Vibration] trên chủ thể) Khiên HP (tối đa 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tránh Ra Coi",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [Vibration] bằng [Vibration] trên mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nhìn Vậy Chứ Tao Hơi Bị Đỉnh À Nha",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cái Đồng Hồ Bỏ Túi Đáng Khinh!",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 5 Tầng [Vibration] trên chủ thể (tối đa 2)\n[WhenUse] Kích hoạt [Switch_Vibration] chuyển [Vibration] trên chủ thể thành [VibrationDistribution]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [Vibration] bằng [Vibration] trên mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phòng Thủ",
+          "desc": "[StartBattle] Nhận 2 x (Tầng [Vibration] trên chủ thể) Khiên HP (tối đa 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bị Rớt Liêm Sỉ À?",
+          "desc": "[WhenUse] Nhận +1 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "À, Mất Luôn Chứ Rớt Gì Nữa",
+          "desc": "[WhenUse] Nhận +1 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bảo Vệ Được Hết Không?",
+          "desc": "[WhenUse] Nhận +1 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở 10+ Tầng [Vibration] trên chủ thể, kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở 15+ Tầng [Vibration] trên chủ thể, kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chưa Dùng Được Vũ Khí Đâu",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationCollapse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuẩn Bị Ăn Đập Chưa?",
+          "desc": "Ưu tiên mục tiêu có [VibrationCollapse]\n[WhenUse] Gán Tầng [Vibration] lên tất cả đồng minh khác bằng Tầng [Vibration] trên chủ thể\n[WhenUse] Kích hoạt [Switch_Vibration] trên tất cả đồng minh(bao gồm cả chủ thể) chuyển [Vibration] thành [VibrationDistribution]",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationEcho]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phòng Thủ",
+          "desc": "[StartBattle] Nhận 3 x (Tầng [Vibration] trên chủ thể) Khiên HP (tối đa 30)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vì Mục Đích Cao Cả",
+          "desc": "[CantDuel]\n[StartBattle] Lấy toàn bộ số Tầng [Vibration] của đồng minh khác về bản thân; [Vibration] trên tất cả đồng minh hết hiệu lực\n[StartBattle] Nhận 1 [AttackUp] với mỗi 3 Tầng [Vibration] trên chủ thể\n[WhenUse] Nhận 9 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 10% sát thương Lười Biếng với mỗi Tầng [Vibration] trên chủ thể"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +4 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 10% sát thương Lười Biếng với mỗi Tầng [Vibration] trên chủ thể"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 3 Tầng [Vibration] trên chủ thể, và kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 3 Tầng [Vibration] trên chủ thể, và kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 3 Tầng [Vibration] trên chủ thể, và kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Truy Thu Tại Chỗ",
+          "desc": "[WhenUse] Nhận +1 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ Tầng [Vibration], gây 1 [InterlockingTime]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ Tầng [Vibration], gây 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vui Lòng Đứng Yên.",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n[WhenUse] Ở 4+ Tầng [Vibration], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở 4+ Tầng [Vibration], gây 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở 4+ Tầng [Vibration], gây 8 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiến Hành Thu Thập.",
+          "desc": "[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 5 Tầng [Vibration] trên chủ thể (tối đa 2)\n[WhenUse] Ở 5+ Tầng [Vibration], +10% sát thương gây ra với mỗi Tầng [Vibration]. (tối đa 100%)\n[EndSkill] Tiêu thụ toàn bộ Tầng [Vibration] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Vibration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 8+ [Vibration], gây 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở 4+ Tầng [Vibration], gây 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Vibration] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ Tầng [Vibration], gây 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở 4+ Tầng [Vibration], gây 5 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở 7+ Tầng [Vibration], gây 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở 4+ Tầng [Vibration], kích hoạt [Switch_Vibration] thành [VibrationChain]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vay Mượn Thời Gian",
+          "desc": "[StartBattle] Tiêu thụ 5 Tầng [Vibration] và nhận +3 Tầng [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuẩn Bị Thu Thập",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở 3+ Tầng [Vibration], gây 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +1 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lưỡi Cưa Gia Tốc Tập Đoàn T",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vui Lòng Xuất Trình Đồng Hồ Cá Nhân.",
+          "desc": "[WhenUse] Ở 5+ Tầng [Vibration], Sức Mạnh Giao Tranh +1\n[WhenUse] Nhận +2 Tầng [Vibration]\n[WinDuel] Tiêu thụ 3 Tầng [Vibration] trên chủ thể và nhận +1 Tầng [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Reduction] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở 5+ Tầng [Vibration], kích hoạt [Switch_Vibration] thành [VibrationChain]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiến Hành Thu Thập.",
+          "desc": "[WhenUse] Nhận +3 Tầng [Vibration]\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 4 Tầng [Vibration] trên chủ thể (tối đa 3)\n[WinDuel] Tiêu thụ 5 Tầng [Vibration] trên chủ thể và nhận +3 Tầng [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể thành gây 1 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể thành gây +3 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể thành gây 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 2 Tầng [Vibration] trên chủ thể để kích hoạt [VibrationExplosion]; sau đó, tái sử dụng Xu này (tối đa 1 lần)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 5 Tầng [Vibration] trên chủ thể thành gây 2 [TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vay Mượn Thời Gian",
+          "desc": "[StartBattle] Tiêu thụ 4 Tầng [Vibration] và nhận +3 Tầng [TimeRentalTwo]\n[StartBattle] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuẩn Bị Thu Thập",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở 3+ Tầng [Vibration], gây 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận +1 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuốc Chim Gian Tập Đoàn T",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể thành gây 2 [Paralysis] vào lượt kế. Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể thành gây 2 [Paralysis] vào lượt kế. Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đứng Yên.",
+          "desc": "[WhenUse] Ở 5+ Tầng [Vibration], Sức Mạnh Giao Tranh +1\n[WhenUse] Nhận +2 Tầng [Vibration]\n[WinDuel] Tiêu thụ 3 Tầng [Vibration] trên chủ thể và nhận +1 Tầng [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 2 Tầng [Vibration] trên chủ thể thành gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 2 Tầng [Vibration] trên chủ thể thành gây 2 [ParryingResultDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiến Hành Thu Thập.",
+          "desc": "[WhenUse] Nhận +3 Tầng [Vibration]\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 4 Tầng [Vibration] trên chủ thể (tối đa 3)\n[WinDuel] Tiêu thụ 5 Tầng [Vibration] trên chủ thể và nhận +3 Tầng [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể thành gây 1 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể thành gây +3 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 1 Tầng [Vibration] trên chủ thể thành gây 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 2 Tầng [Vibration] trên chủ thể để kích hoạt [VibrationExplosion]; sau đó, tái sử dụng Xu này (tối đa 1 lần)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tiêu thụ 5 Tầng [Vibration] trên chủ thể thành gây 2 [TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vay Mượn Thời Gian",
+          "desc": "[StartBattle] Tiêu thụ 4 Tầng [Vibration] và nhận +3 Tầng [TimeRentalTwo]\n[StartBattle] Nhận +2 Tầng [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "dataList": [
+    {
+      "id": 9015206,
+      "name": "Héo Mòn và Kiệt Quệ",
+      "desc": "Nhận [StarvingBarberOne] khi bắt đầu Ải này"
+    },
+    {
+      "id": 9015202,
+      "name": "Héo Mòn",
+      "desc": "Đầu Lượt: nếu không ai có [Laceration], Tốc Độ Tối Thiểu -2 (tính cả địch lẫn ta)"
+    },
+    {
+      "id": 9015203,
+      "name": "Hút Máu",
+      "desc": "Khi Đánh Trúng, nếu mục tiêu có [Laceration], hồi HP bằng với 15% sát thương gây ra"
+    },
+    {
+      "id": 9015204,
+      "name": "Máu Đông",
+      "desc": "Kết Đòn: Nếu mục tiêu có 8+ [Laceration], nhận 1 [HardenedBlood]"
+    },
+    {
+      "id": 9015205,
+      "name": "Kéo Nhuốm Máu",
+      "desc": "Khi có 1+ [BloodScissor], cường hóa lưỡi kéo."
+    },
+    {
+      "id": 9015207,
+      "name": "Túi Máu",
+      "desc": "Khi bị đánh, nhận +1 Tầng [Laceration].\nNhận 1 [HardenedBlood] với mỗi 20% HP mà chủ thể mất.\nKhi có Huyết Quỷ trên sân, bao gồm cả địch lẫn ta, nâng giá trị [BloodDinner] lên 30"
+    },
+    {
+      "id": 9015401,
+      "name": "Hút Máu",
+      "desc": "Khi Đánh Trúng, nếu mục tiêu có [Laceration], hồi HP bằng với 20% sát thương gây ra"
+    },
+    {
+      "id": 9015402,
+      "name": "Máu Đông",
+      "desc": "Kết Đòn: Nếu mục tiêu có 5+ [Laceration], nhận 1 [HardenedBlood]"
+    },
+    {
+      "id": 9015403,
+      "name": "Cơn Khát Máu",
+      "desc": "- Ưu tiên mục tiêu có [Laceration]\nCuối Lượt: nếu nhân vật này không thể gây sát thương trong lượt này, nhận 2 [Vulnerable] và 2 [AttackUp] vào lượt kế\n- Cuối Lượt: nếu chủ thể gây sát thương vào lượt này, hồi 5 SP"
+    },
+    {
+      "id": 9015404,
+      "name": "Huyết Yến",
+      "desc": "Nếu chủ thể đang tham chiến hoặc có thể tham chiến, tăng giá trị [BloodDinner] dựa theo tổng sát thương [Laceration]  tất cả đơn vị trong trận đã nhận.\nKhi chủ thể tham chiến, huyết mạch ngủ say sẽ trỗi dậy, nhuộm đẫm huyết sắc trên chiến trường."
+    },
+    {
+      "id": 9015405,
+      "name": "Lưỡi Kéo Nhuốm Máu",
+      "desc": "Khi có 2+ [BloodScissor], cường hóa lưỡi kéo."
+    },
+    {
+      "id": 9015601,
+      "name": "Thợ Săn Huyết Quỷ",
+      "desc": "Nếu mục tiêu là <Bloodfiend> hoặc <Bloodbag>, +10% sát thương gây ra"
+    },
+    {
+      "id": 9015602,
+      "name": "Chiến Thuật Săn Hung Hãn",
+      "desc": "Khi tấn công mục tiêu bằng Kỹ Năng, có 10% gây 2 Tầng [Burst]"
+    },
+    {
+      "id": 9015603,
+      "name": "Búa Diệt Huyết Quỷ",
+      "desc": "Khi dùng Kỹ Năng, nếu mục tiêu có 10+ [Burst], +30% sát thương gây ra thay vì áp [Burst] với Kỹ Năng của chủ thể"
+    },
+    {
+      "id": 9015604,
+      "name": "Thuốc Cầm Máu",
+      "desc": "Cuối Lượt: nếu chủ thể có [Laceration], mất 1 Tầng [Laceration]"
+    },
+    {
+      "id": 9016001,
+      "name": "Đánh Dấu Kẻ Yếu",
+      "desc": "Thắng Giao Tranh, gây [TrulyWeak]"
+    },
+    {
+      "id": 9016002,
+      "name": "Lũ Hèn Hạ Đáng Khinh",
+      "desc": "Thích hành hạ kẻ yếu"
+    },
+    {
+      "id": 9016003,
+      "name": "Bọn Côn Đồ",
+      "desc": "Sức Mạnh Giao Tranh +1 khi tấn công kẻ địch có [TrulyWeak]"
+    },
+    {
+      "id": 9016101,
+      "name": "Ải Với Độ Khó Vừa Phải",
+      "desc": " +15% sát thương gây ra"
+    },
+    {
+      "id": 9016102,
+      "name": "Gấu Ăn Thịt Người",
+      "desc": "+25% sát thương gây lên mục tiêu dưới 50% HP"
+    },
+    {
+      "id": 9016103,
+      "name": "To Lớn và Đáng Sợ",
+      "desc": "Trong Giao Tranh, chỉ là có thể thôi nha, đối phương có thể giảm 1 SP"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "dataList": [
+    {
+      "id": 40000601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cản Trở",
+          "desc": "+50% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 2 ([Laceration] + [Vibration]) trên mục tiêu (tối đa 5)\n[WhenUse] Nhận +3 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Song Liên Trảm",
+          "desc": "+50% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 2 ([Laceration] + [Vibration]) trên mục tiêu (tối đa 5)\n[WhenUse] Nhận +3 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ném Lao",
+          "desc": "+50% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 200%)\n[WhenUse] Nhận 2 [CriticalDmgUpVespa] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [BeeSting]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng bằng 80% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xuyên Lao - Trúng Đích.",
+          "desc": "[CantChangeTarget]\n+50% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 300%)\n[WhenUse] Nhận 5 [CriticalDmgUpVespa] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [ArtifactBeeSting]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Choáng mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thu Lao",
+          "desc": "[CantDuel]\n+50% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 200%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gỡ Găm Lao trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Công.",
+          "desc": "[DuelCounter]\n+50% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[StartBattle] <color=#ff6000><mark color=#ff000040><b><u>Nhận 1 [SupportProtect]</color></mark></b></u>\n[WhenUse] Nhận 2 [ResultEnhancement] và 2 [AttackDmgUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yểm Trợ Phòng Ngự.",
+          "desc": "[CanDuelGuard]\nKỹ Năng [SupportProtect] đặc trưng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

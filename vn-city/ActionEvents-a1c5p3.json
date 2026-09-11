@@ -1,0 +1,79 @@
+{
+    "dataList": [
+        {
+            "id": 10501,
+            "name": "Checking the Boat",
+            "subDesc": "",
+            "desc": "Sau khi mới khởi trình được một lúc...\n\n\"Uầy!\"\n\n... Chúng tôi nghe thấy thứ gì đó rung chuyển bên dưới con thuyền.\n\n\"Quái gì thế...?\"\n\n\"Quả thế, ắt hẳn có kẻ địch ẩn nấp dưới thuyền chúng ta, cố gắng cấu xé!\"\n\n\"... Đúng vậy, vô cùng mờ ám. Nên kiểm tra xem sao.\"\n\nChúng ta nên làm gì đây?",
+            "options": [
+                {
+                    "message": "Kiểm tra phần dưới con tàu.",
+                    "messageDesc": "Ishmael nhận 10 SP. Chuyển sang lựa chọn tiếp theo.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Ai biết làm thế thì có chuyện gì xảy ra chứ. Cứ ở yên đi.",
+                    "messageDesc": "Ishmael mất 10 SP. 50% tỷ lệ vào Ải Giao Chiến. Chiến thắng sẽ nhận một Quà Tặng E.G.O.",
+                    "result": [
+                        "\"Mấy người tính lờ đi thật hả? Cái quái gì đang...\"\n\nTội Nhân bực bội kia đang định nói gì đó... nhưng rồi lại thôi. Có lẽ cô ấy nghĩ rằng có nói cũng chỉ như nước đổ lá khoai.\n\n\"... Tiếng cào càng ngày càng lớn.\"\n\nThực ra cũng tại cái tàu này đặc biệt... nên chắc thỉnh thoảng có cào cấu kẽo kẹt tí ấy mà.\n\n\"... Ngừng rồi.\"\n\n\"Quả thật, đôi khi không làm gì cũng là một giải pháp.\" \n\nVài phút sau, tiếng cào cấu dừng hẳn.\n\n...Chắc là mấy tiếng ồn đó không phải do con tàu gây ra thật. Chúng tôi gặp may đấy.",
+                        "\"Mấy người tính lờ đi thật hả? Cái quái gì đang...\"\n\nTội Nhân bực bội kia đang định nói gì đó... nhưng rồi lại thôi. Có lẽ cô ấy nghĩ rằng có nói cũng chỉ như nước đổ lá khoai.\n\n\"... Tiếng cào càng ngày càng lớn.\"\n\nThực ra cũng tại cái tàu này đặc biệt... nên chắc thỉnh thoảng có cào cấu kẽo kẹt tí ấy mà.\n\nMà nếu không phải vậy thì...\n\n\"Khoan, tôi nhớ rồi. Mấy con tàu hải tặc...\"\n\n\"Thế nên mới có đống gai kia à.\"\n\nTiếng cào xước ngày một ồn ào, lan sang phía mạn tàu rồi ngừng lại. Ngay sau đó, thủ phạm gây ra tiếng động xuất hiện.\n\n... Lũ Người Cá.\n\n\"Khốn nạn, đáng lẽ ra ta nên đi kiểm tra.\"\n\nTôi không có lời nào để phản bác cả.\n\nChúng ta đành phải chiến đấu thôi."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10504,
+            "name": "The Artery",
+            "subDesc": "",
+            "desc": "Đây hẳn là động mạch mà Ahab nhắc đến. Chỉ cần xẻ thành động mạch... thì chúng ta sẽ có đường thẳng tới tim nó.",
+            "options": [
+                {
+                    "message": "Mổ xẻ động mạch.",
+                    "messageDesc": "Đi tới lựa chọn tiếp theo.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10505,
+            "name": "Supply Crates",
+            "subDesc": "",
+            "desc": "\"Đó có phải... một chiếc rương gỗ?\"\n\nĐám Tội Nhân tìm thấy một đống rương trông rất lộn xộn.\n\n\"Từ vẻ ngoài của chúng thì chúng ta có thể suy đoán chúng được dùng như rương tiếp tế.\"\n\nMột vài trong số đó mang biểu tượng Hải Tặc Twinhook. Một vài thì mang biểu tượng đội Tiền Tuyến.\n\nCon Cá Voi hẳn đã nuốt chửng đống rương này.\n\n\"Mang một ít theo làm nhu yếu phẩm là một lựa chọn khôn ngoan đó!\"\n\nPhải. Chúng ta chẳng biết những hiểm nguy nào đang chờ đợi ở vùng tim.\n\nChúng ta có nên lấy một vài rương để phòng hờ không?",
+            "options": [
+                {
+                    "message": "Lục tìm rương tiếp tế.",
+                    "messageDesc": "Đi tới lựa chọn tiếp theo.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Rời đi.",
+                    "messageDesc": "Không có gì xảy ra.",
+                    "result": [
+                        "Chả được ích lợi gì khi táy máy với những thứ khả nghi như thế này.\n\nĐể y nguyên vậy."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810601,
+            "name": "Ahab",
+            "subDesc": "",
+            "desc": "\"Tôi làm hỏng rồi.\"\n\n\"<...!>\"\n\nLà ảo ảnh hay... cũng chính là Ishmael?\n\nĐằng sau Thuyền Trưởng xuất hiện bóng hình của Ishmael, toàn thân bị một lớp màng trắng đục bọc kín.\n\n\"Tôi chẳng thể giải quyết được cái gì. Đụng đâu hỏng đó.\"\n\n\"Tất cả những gì tôi làm được chỉ là sống sót. Một kẻ khốn khổ thảm hại. Chỉ biết bám víu lấy chiếc quan tài của nguời bạn thân thương nhất.\"\n\nThuyền Trưởng cười rống lên như rồ dại. \"Đúng rồi đấy, Ishmael! Cô chẳng cứu được ai cả! Thủy thủ đoàn của cô! Bạn bè của cô! Mất hết! Không còn một ai!\"\n\n\"Và rồi cô sẽ lại bỏ cuộc thôi. Vì cô nhát cáy! Cô sẽ sợ hãi đến mức từ bỏ ngay từ khi còn chưa bắt đầu!\"\n\nCác Tội Nhân bắt đầu bị kích động.\n\n\"Con mẹ chó chết ấy...\"\n\n\"Ishmael, đừng nghe lời bà ta! B-bà ta còn chẳng biết mình đang nói cái gì nữa là!\"\n\nNgười Quản Lý giữ im lặng một hồi lâu.\n\nRồi cất tiếng.",
+            "options": [
+                {
+                    "message": "Đó không phải là Ishmael.",
+                    "messageDesc": "Đi tới lựa chọn tiếp theo.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+  "dataList": [
+    {
+      "id": 9260,
+      "name": "Tác Phẩm: Nhịp Đập",
+      "desc": "Nếu có đồng minh tiêu thụ 10+ Tầng [Charge] trong một lượt bằng Kỹ Năng Cơ Bản, +20% sát thương gây ra bằng Kỹ Năng Cơ Bản của họ vào lượt kế (không tính <noparse>Năng Lượng</noparse> Đặc Trưng có Lượng cố định).\n\n- Nếu [Charge] được tiêu thụ là <noparse>Năng Lượng</noparse> Đặc Trưng, gây thêm +1 [Laceration] và Tầng [Laceration] vào lượt kế.",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9261,
+      "name": "Tác Phẩm: Dã Sinh",
+      "desc": "+20% sát thương gây ra bằng Kỹ Năng Đập lên kẻ địch có Lượng [Sinking] ≥ 35 hoặc có SP ≤ 15 (Lượng [Sinking] được tính riêng từng Bộ Phận)\n\n- Nếu Kỹ Năng Đập nói trên là Kỹ Năng Thờ Ơ hay Kỹ Năng gây Lượng, Tầng [Laceration], hoặc '<noparse>Chảy Máu</noparse> Đặc Trưng', và đánh trúng kẻ địch, nhận 1 [Enhancement] vào lượt kế (một lần mỗi lượt mỗi Danh Tính).",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9262,
+      "name": "Khung Xương của Vạn Vật",
+      "desc": "Danh Tính thuộc Băng Ngón Nhẫn: Khi Kết Đòn, gây 1 Lớp Giảm Kháng Loại Tấn Công ngẫu nhiên lên mục tiêu (2 lần mỗi lượt).\n\nDanh Tính thuộc Băng Ngón Nhẫn +10% sát thương gây ra.",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9263,
+      "name": "Kiệt Tác: Nhịp Đập Tiến Hóa",
+      "desc": "Đầu Lượt: Kích hoạt khi có Số Danh Tính thuộc Băng Ngón Nhẫn ≥ 2 (chỉ tính đồng minh trên sân).\n\nDanh Tính thuộc Học Viện Trường Phái Thể Xác Băng Ngón Nhẫn gây 1 [SlashResistDown] khi Đánh Trùng bằng Kỹ Năng Cơ Bản (một lần mỗi Kỹ Năng; 2 lần mỗi lượt).\n\nDanh Tính thuộc Băng Ngón Nhẫn +20% sát thương gây ra.\n\nĐầu Lượt: Khi tổng Lượng [Laceration] trên toàn bộ kẻ địch ≥ 99 trên toàn bộ kẻ địch, Danh Tính thuộc Học Viện Trường Phái Thể Xác Băng Ngón Nhẫn nhận 1 [RingFingerPhysical].",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9264,
+      "name": "Kiệt Tác: Bác Chế Dã Sinh",
+      "desc": "Đầu Lượt: Kích hoạt khi có Số Danh Tính thuộc Băng Ngón Nhẫn ≥ 2 (chỉ tính đồng minh trên sân).\n\nDanh Tính thuộc Học Viện Trường Phái Dã Thú Băng Ngón Nhẫn gây 1 [HitResistDown] khi Đánh Trúng bằng Kỹ Năng Cơ Bản (một lần mỗi Kỹ Năng; 2 lần mỗi lượt) \n\nDanh Tính thuộc Băng Ngón Nhẫn +20% sát thương gây ra.\n\nĐầu Lượt: Đầu Lượt: Khi tổng Lượng [Laceration] trên toàn bộ kẻ địch ≥ 99 trên toàn bộ kẻ địch, Danh Tính thuộc Học Viện Trường Phái Dã Thú Băng Ngón nhận 1 [RingFingerFauvism].",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9265,
+      "name": "Tay Gấu Phong Cách Ngón Giữa",
+      "desc": "Nếu mục tiêu có Kháng Đập ≤ 1.5, Kháng Đập +0.3",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9266,
+      "name": "Lồng Chim Trống Không",
+      "desc": "Khi Kỹ Năng có Phạm Vi Tấn Công ≥ 2 Kết Đòn , nhận +(Số lần đánh trúng kẻ địch / 2) tài nguyên E.G.O cho Nguyên Tội của Kỹ Năng đó (làm tròn xuống, tối đa 5 lần mỗi Kỹ Năng).\n\nKhi Kỹ Năng có Phạm Vi Tấn Công ≥ 2 gây Trí Mạng, nhận +(Số Xu gây Trí Mạng) tài nguyên E.G.O cho Nguyên Tội đang có ít nhất khi Kết Thúc Đòn (tối đa 3).",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9267,
+      "name": "Đồng Thau Nóng Đỏ",
+      "desc": "Lượng [Combustion] Tối Đa +11.\n\nGây gấp 3 lần Lượng [Combustion] lần đầu tiên trong Ải (một lần mỗi Ải)\n\nKhi kẻ địch nhận sát thương [Combustion], gây sát thương Phẫn Nộ bằng Lượng [Combustion]\n\nKỹ Năng gây Lượng [Combustion], Tầng [Combustion], hoặc '<noparse>Thiêu Đốt</noparse> Đặc Trưng' +20% sát thương gây ra",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 19267,
+      "name": "Đồng Thau Nóng Đỏ+",
+      "desc": "<style=\"upgradeHighlight\">Lượng [Combustion] Tối Đa +21</style>\n\nGây gấp 3 lần Lượng [Combustion] lần đầu tiên trong Ải (một lần mỗi Ải)\n\nKhi kẻ địch nhận sát thương [Combustion], gây sát thương Phẫn Nộ bằng Lượng [Combustion]\n\nKỹ Năng gây Lượng [Combustion], Tầng [Combustion], hoặc '<noparse>Thiêu Đốt</noparse> Đặc Trưng' <style=\"upgradeHighlight\">+25%</style> sát thương gây ra",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 29267,
+      "name": "Đồng Thau Nóng Đỏ++",
+      "desc": "Lượng [Combustion] Tối Đa +21\n\nGây gấp 3 lần Lượng [Combustion] lần đầu tiên trong Ải (một lần mỗi Ải)\n\nKhi kẻ địch nhận sát thương [Combustion], gây sát thương Phẫn Nộ bằng (Lượng [Combustion] x <style=\"upgradeHighlight\">1.5</style>)\n\nKỹ Năng gây Lượng [Combustion], Tầng [Combustion], hoặc '<noparse>Thiêu Đốt</noparse> Đặc Trưng' <style=\"upgradeHighlight\">+30%</style> sát thương gây ra",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9268,
+      "name": "Bản Năng của Vạn Vật",
+      "desc": "Cuối Lượt: Gán ngẫu nhiên 1 Lớp Tăng Sát Thương Nguyên Tội ngẫu nhiên vào lượt kế lên (Số kẻ địch có Chảy Máu) cho Danh Tính thuộc Băng Ngón Nhẫn (một lần mỗi Danh Tính mỗi lượt; trong Ải Chuyên Sâu, tính Số Bộ Phận).\n\nDanh Tính thuộc Băng Ngón Nhẫn +10% sát thương gây ra.",
+      "simpleDesc": [
+        {}
+      ]
+    }
+  ]
+}

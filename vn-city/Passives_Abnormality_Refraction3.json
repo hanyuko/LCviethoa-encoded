@@ -1,0 +1,119 @@
+{
+  "dataList": [
+    {
+      "id": 858801,
+      "name": "Injected Hatred and Animosity",
+      "desc": "Cuối Lượt: Ở mốc 50%- Core HP, nhận 1 [Enhancement] vào lượt kế. (once per encounter)"
+    },
+    {
+      "id": 857801,
+      "name": "Cành Bông Trắng",
+      "desc": "Cuối Lượt: giải Choáng kẻ địch, và gây (Mức Độ Choáng LV x 8) [Laceration] và 2 [Reduction] lên chúng vào lượt kế."
+    },
+    {
+      "id": 857802,
+      "name": "Rễ Trói Buộc",
+      "desc": "Cuối Lượt: Gán 1 [Binding] lên toàn bộ kẻ địch có [MRcAfBa]"
+    },
+    {
+      "id": 857803,
+      "name": "Cành Bông Nhuốm Máu",
+      "desc": "Nếu HP của Lõi ≤ 20%, tiến vào trạng thái [MRcAfBb] ở Cuối Lượt. Trạng thái [MRcAfBb] này sẽ không hết hiệu lực."
+    },
+    {
+      "id": 857804,
+      "name": "Để Được Nhuộm Trong Sắc Đỏ",
+      "desc": "Khi đánh trúng mục tiêu bằng Kỹ Năng Tấn Công, hồi HP bằng với Lượng [Laceration] trên chúng."
+    },
+    {
+      "id": 857805,
+      "name": "Trồng Bông",
+      "desc": "Nếu chủ thể thua Giao Tranh khi dùng Bông Phân Tán, sử dụng Cành Bông Xâm Lấn vào lượt kế."
+    },
+    {
+      "id": 857806,
+      "name": "Cành Bông Nở Rộ",
+      "desc": "Khi Phần Thân bị phá hủy, giảm một nửa Lớp [MRcAfBa] trên toàn bộ kẻ địch."
+    },
+    {
+      "id": 857701,
+      "name": "Than Hồng Rực Lửa",
+      "desc": "Chuyển (số Lớp [MRcAiBa]) Kỹ Năng không thuộc Nguyên Tội Phẫn Nộ thành Kỹ Năng Nguyên Tội Phẫn Nộ."
+    },
+    {
+      "id": 857702,
+      "name": "Lồng Hồng Diễm",
+      "desc": "Khi Đánh Trúng, gây [Combustion] bằng với (Số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này).\nKhi Đánh Trúng, hồi HP bằng (Số Kỹ Năng Phẫn Nộ mà Hồng Diễm Nga sẽ sử dụng trong lượt này x 2)."
+    },
+    {
+      "id": 857703,
+      "name": "Tàn Lửa Cuối Cùng",
+      "desc": "Nếu HP ≤ 30%, nhận thêm +1 [MRcAiBa]"
+    },
+    {
+      "id": 857704,
+      "name": "Nhóm Lửa",
+      "desc": "Khi dùng Hồng Diễm Tinh, nếu Dị Thể này có 0 [MRcAiBa], sử dụng Kỹ Năng Nhóm Lửa."
+    },
+    {
+      "id": 858501,
+      "name": "Khinh Miệt và Ánh Nhìn",
+      "desc": "Gây 1 [MRcAmBc] lên mục tiêu mỗi khi Phần 'Tay' bị đánh trúng. (3 lần mỗi lượt)\nĐơn vị có [MRcAmBa] không thể nhận nhận [MRcAmBc].\nKhi đơn vị 'Thứ Nắm' có [MRcAmBa] bị phá hủy, tất cả Bộ Phận của Dị Thể nhận 3 [Vulnerable] vào lượt kế."
+    },
+    {
+      "id": 858502,
+      "name": "Ánh Nhìn Bao Trùm Tất Thảy",
+      "desc": "Khi HP của Lõi bị giảm xuống dưới 30% HP Tối Đa, xóa [MRcAmBa] và [MRcAmBc] khỏi toàn bộ Danh Tính; sau đó, gây [MRcAmBd] lên toàn bộ Danh Tính."
+    },
+    {
+      "id": 858503,
+      "name": "Crushing Grasp",
+      "desc": "On certain turns, if none of the enemies have [MRcAmBbDisplay], use Crush."
+    },
+    {
+      "id": 858504,
+      "name": "Khinh Miệt Chồng Chất",
+      "desc": "Cuối Lượt: Với mỗi 10 Lượng [Combustion], [Laceration], [Vibration], [Burst], hoặc [Sinking] trên chủ thể, nhận 1 [CrimsonTakeDamageUp], [ScarletTakeDamageUp], [AmberTakeDamageUp], [ShamrockTakeDamageUp], hoặc [AzureTakeDamageUp] tương ứng (tối đa 3)."
+    },
+    {
+      "id": 858505,
+      "name": "Ánh Nhìn Xuyên Thấu",
+      "desc": "Khi bị Đòn Trí Mạng đánh trúng, nhận 1 [IndigoTakeDamageUp] một lần mỗi Kỹ Năng (tối đa 3)\nKhi bị Kỹ Năng đã tiêu thụ 8+ Tầng [Charge] đánh trúng, nhận 1 [VioletTakeDamageUp] một lần mỗi Kỹ Năng. (tối đa 3)"
+    },
+    {
+      "id": 860401,
+      "name": "Nắm Chặt",
+      "desc": "Cuối Lượt: ở mốc 2 hoặc thấp hơn Lớp [MRcAmBbDisplay], gây sát thương bằng một nửa HP Tối Đa của mục tiêu. Sau đó, tất cả Bộ Phận của Vòng Xoáy <noparse>Khinh Miệt</noparse> hồi HP bằng lượng sát thương mà hiệu ứng này đã gây ra."
+    },
+    {
+      "id": 860402,
+      "name": "Giải Cứu",
+      "desc": "Cuối Lượt: Nếu chủ thể đã có [MRcAmBa] khi bị [MRcAmBb], xóa [MRcAmBa] khỏi toàn bộ Danh Tính khi Thứ Nắm bị một Danh Tính phá hủy."
+    },
+    {
+      "id": 857301,
+      "name": "Ngọc Trai Hở Lộ",
+      "desc": "Đầu Lượt: Bị Choáng nếu có 0 Lớp [AaCePcBh]. Toàn bộ Kháng Thuộc Tính của Ngọc Trai tăng 0.5.\nNhận 10 [AaCePcBh] khi hồi phục khỏi Choáng."
+    },
+    {
+      "id": 857302,
+      "name": "Tích Lũy Chất Nhầy",
+      "desc": "Cố định tốc độ của Bộ Phận này về 1 trong một lượt khi sử dụng Nuốt Chửng Chất Nhầy."
+    },
+    {
+      "id": 857401,
+      "name": "Chất Nhầy Nhiễm Bẩn",
+      "desc": "Cuối Lượt: Gán (4 + số [AaCePcBh] còn sống) [Poison] lên toàn bộ kẻ địch."
+    },
+    {
+      "id": 857501,
+      "name": "Thở Dưới Nước",
+      "desc": "Kể từ lượt 2, nhận 10 [Breath] trong lượt này nếu Phần Huỳnh Quang không bị phá hủy.\nNhận +3 Tầng [Breath]. Kể từ lượt 2, nhận 1 [Paralysis] và 1 [AttackDmgDown] nếu Phần Huỳnh Quang bị phá hủy."
+    },
+    {
+      "id": 858601,
+      "name": "Liên Kết Nỗi Đau",
+      "desc": "Khi chết, gây 10 sát thương lên các Người Cá được liên kết. Sau đó, gán 2 [AttackDmgUp] vào lượt kế."
+    }
+  ]
+}

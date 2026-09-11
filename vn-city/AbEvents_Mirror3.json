@@ -1,0 +1,303 @@
+{
+  "dataList": [
+    {
+      "id": 90105401,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ trả lời câu hỏi?",
+      "successDesc": [
+        "Đây là một con vịt. Rõ ràng đó là cái mỏ ủ rũ, mệt mỏi của nó."
+      ],
+      "failureDesc": [
+        "Câu trả lời vô cùng thiếu tự tin. Con thỏ mà bạn cho là con vịt đã chạy đi mất."
+      ]
+    },
+    {
+      "id": 90105402,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ trả lời câu hỏi?",
+      "successDesc": [
+        "Đây là thỏ. Cái tai dài chính là điểm mấu chốt khẳng định cho câu trả lời này."
+      ],
+      "failureDesc": [
+        "Câu trả lời vô cùng thiếu tự tin. Con vịt mà bạn cho là con thỏ đã bay đi mất."
+      ]
+    },
+    {
+      "id": 90105801,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ trả lời câu hỏi?",
+      "successDesc": [
+        "'Thật sao?'\n\n'Vậy chúng tôi nên làm gì? Vì chúng tôi sẽ mãi xoay chuyển theo cùng một quỹ đạo lặp lại vô tận suốt hàng ngàn năm ánh sáng.'\n\n'Nếu mọi người tiếc thương cho chúng...'\n\n'Và nếu như tôi chỉ xoay chuyển trên quỹ đạo của người khác...'\n\n'Vậy thì tất cả chúng tôi đều thật sự đáng thương.'"
+      ],
+      "failureDesc": [
+        "'Đúng thế.'\n\n'Thật khó khăn làm sao.'\n\nNhững thực thể bị trói buộc phải xoay chuyển theo quỹ đạo ấy bắt đầu lên tiếng đáp lời.\n\n'Câm mồm!'\n\n'Các ngươi mới chính là kẻ tự trói buộc vào ta đây!'\n\n'Không, chính ngươi đã kéo ta vào chỗ này!'\n\nNhững thứ bị trối buộc và thứ đang trói kẻ khác bắt đầu đấu đá nhau.\n\nXem ra chẳng thể hòa giải nữa rồi."
+      ]
+    },
+    {
+      "id": 90105802,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ trả lời câu hỏi?",
+      "successDesc": [
+        "'Đúng vậy. Tôi muốn được nhẹ bẫng đi.'\n\n'Nhưng hãy nhìn xem.'\n\n'Chỉ vì những thứ này đã trói buộc chúng vào tôi nên tôi mới phải tiếp tục giãn nở ra.'\n\n'Vậy nên mọi người có thể nào... san sẻ bớt gánh nặng này không?'"
+      ],
+      "failureDesc": [
+        "'Chờ đã... quá nhiều tạp âm... quá nhiều tiếng nói...'\n\n'Chúng bay câm miệng hết coi và đừng có trói buộc bản thân vào tao nữa!'\n\nNhững vòng xoay xung quanh thực thể hình khối ấy cứ lớn dần lên đến khi không còn nghe được giọng nói ấy nữa."
+      ]
+    },
+    {
+      "id": 90106101,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ bước vào?",
+      "successDesc": [
+        "Bạn tìm thấy một bộ xương giữa đống xương đó. Có lẽ đây là thứ vừa cố gắng gọi bạn. Nhưng mà không có cách nào khẳng định có chính xác là bộ xương này hay không. Có khi bạn nghĩ quá rồi, đây chẳng qua là một đống xương vô tri thôi."
+      ],
+      "failureDesc": [
+        "Bạn cố hết sức để tìm nguồn phát ra âm thanh đó, nhưng vẫn chẳng có kết quả gì. Da và thịt đã bị mài mòn bởi thời gian rồi, chỉ còn lại những bộ xương không phân biệt nổi cái nào với cái nào thôi. Nhưng mà giọng nói vô chủ đó vẫn không ngừng vang vọng."
+      ]
+    },
+    {
+      "id": 90106102,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Kệ giọng nói đó rồi đi tiếp.",
+      "successDesc": [
+        "Chẳng qua là gió thổi qua các lỗ trên xương mới tạo ra tiếng đó thôi.\n\nMột âm thanh trống rỗng. Rồi chính cơn gió đó sẽ len lỏi qua các khe nứt trên xương của chúng ta khi ta bị chôn vùi nơi đây."
+      ],
+      "failureDesc": [
+        "Trong lúc chúng tôi rời đi, {0} để ý có gì đó nằm dưới chân mình.\nKhi nhìn xuống chúng tôi nhận ra rằng mình đang bị bao vây bởi vài đống xương."
+      ]
+    },
+    {
+      "id": 90106103,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ điều tra đống xương kia?",
+      "successDesc": [
+        "{0} tìm được một mảnh xương có vẻ là thứ thì thầm vô tai chúng tôi nãy giờ.\nNhưng ngay sau đó chúng tôi nhận ra rằng tiếng thì thầm đang phát ra từ mọi mảnh xương xung quanh.\nChúng có thật sự đang nói chuyện không hay là do bầu không khí mờ ám nơi đây khiến chúng ta hoang tưởng?\n\nChúng tôi nhặt một cục xương lên, nhưng lúc lôi lên thì nó còn kéo theo cả một dải xương bị quấn vào nhau, chúng đâm xuyên, gãy vỡ và bao bọc lấy nhau.\nChúng bị xoắn chặt vào nhau tới mức không còn cách nào nhận ra hình dáng ban đầu nữa."
+      ],
+      "failureDesc": [
+        "{0} tìm được một mảnh xương có vẻ là thứ thì thầm vô tai chúng tôi nãy giờ.\nNhưng ngay sau đó chúng tôi nhận ra rằng tiếng thì thầm đang phát ra từ mọi mảnh xương xung quanh.\nChúng có thật sự đang nói chuyện không hay là do bầu không khí mờ ám nơi đây khiến chúng ta hoang tưởng?\n\nCảm thấy chuyện này quá kỳ dị, {0} vứt mảnh xương đi và nhanh chóng chạy khỏi đống xương đó."
+      ]
+    },
+    {
+      "id": 90106601,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ bước ra?",
+      "successDesc": [
+        "Một hơi thở là quá đủ rồi.\n\nKể từ khi sinh ra trên đời, lần đầu tiên thứ ấy mới được thở ra, hít vào thật nhiều không khí mà không phải chịu đau đớn.\n\nMỗi giây còn sống là mỗi giây thống khổ. Chẳng ai thấu hiểu được."
+      ],
+      "failureDesc": [
+        "Thổi khí vào miệng nó cũng vô dụng.\n\nKhông lâu sau, có một tiếng ho.\n\nCó lẽ thời khắc tự do vẫn còn xa lắm."
+      ]
+    },
+    {
+      "id": 90106801,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ nhận dạng thứ vải này là gì?",
+      "successDesc": [
+        "Là băng gạc, để chữa lành những vết thương.\n\nNhưng nếu những băng gạc này lỏng ra thì khắp cơ thể ông ta sẽ chảy máu liên tục.\n\nĐể duy trì hình hài như hiện tại ấy... ông ta phải bị trói buộc mãi mãi."
+      ],
+      "failureDesc": [
+        "Những vết thương quấn trong mớ băng gạc ấy đang dần thối rữa đi; chẳng có gì chứng minh rằng chúng được dùng để chữa lành cả.\n\nChúng chỉ có duy nhất một chức năng là ẩn giấu đi chỗ vết thương kinh tởm ấy, chứ chẳng hề chữa lành một cái gì cả."
+      ]
+    },
+    {
+      "id": 90106802,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ tiến lên phía trước?",
+      "successDesc": [
+        "Là xiềng xích, để cầm tù.\n\nÔng ta sẽ mãi mãi vật lộn với thứ xiềng xích ấy để có thể được tự do.\n\nĐể giành lại quyền uy của bản thân. Để cất lên những lời lẽ đã bị những xiềng xích ấy giam hãm."
+      ],
+      "failureDesc": [
+        "Thứ đó giật mạnh một cái, rồi không còn chuyển động nữa.\n\nCó lẽ bởi vì bản thân đã nhận dạng thứ vải ấy là xiềng xích. Hoặc có lẽ ông ta thật sự bị xiềng xích ấy trói buộc mãi mãi. Không một ai có thể biết được câu trả lời chính xác là gì."
+      ]
+    },
+    {
+      "id": 90106901,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "Bắt tay... là cách để san sẻ sự cô độc.\n\nBàn tay không ấm áp cũng chẳng mềm mại, nhưng bạn vẫn nắm chặt và lâu thật lâu.\n\nChỉ hy vọng rằng cử chỉ nhỏ này sẽ phần nào lấp đầy sự cô đơn của những khoảng trống trong lòng bàn tay ấy."
+      ],
+      "failureDesc": [
+        "Bàn tay nó đầy rẫy những bàn tay khác có thể bắt chéo nhau.\n\nCử chỉ bắt duy nhất một bàn tay chẳng đáng màng đến là bao."
+      ]
+    },
+    {
+      "id": 90106902,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "Mục đích thật sự của vô số lần bắt tay thật sự vô nghĩa.\n\nVậy nên bàn tay yêu cầu vô vàn lần bắt tay cũng cần phải học cách phải từ bỏ chúng đi.\n\nVì suy cho cùng, một ngày nào đó, chúng ta sẽ đều trắng tay mà trở về nơi ta thuộc về."
+      ],
+      "failureDesc": [
+        "Thứ gì đó đã để lại những vết cào cấu trên tay bạn.\n\nVết thương do sự cô độc lâu ngày gây ra.\n\nTuy chỉ là hành động bồng bột tức thời, nhưng vết thương sẽ tồn đọng theo thời gian."
+      ]
+    },
+    {
+      "id": 90107301,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người thực hiện nghĩa vụ này?",
+      "successDesc": [
+        "'Vậy thì, xin hãy soi sáng con đường của chúng ta.'\n\n'Khi ánh sáng của ngọn đèn mờ dần, và chỉ còn lại bóng tối bao trùm vạn vật...'\n\n'... chúng ta sẽ biết bản thân đã tìm đến đúng nơi cần phải đến.'\n\n'Có những ánh sáng chỉ có thể thấy khi không còn nguồn sáng nào cả.'\n\n'Tại đó, mọi người sẽ trông thấy sắc màu. Thứ màu sắc của mọi thứ từng bị ruồng bỏ và dung hòa vào nhau.'"
+      ],
+      "failureDesc": [
+        "'Vẫn sợ hãi bóng tối, phải không?'\n\n'Tôi biết mọi người sẽ nhớ thế giới bên kia mặt nước nhường nào, mãi mãi ngoài tầm với khi ngọn đèn huỳnh quang này vụt tắt.'\n\n'Vì thế, xin hãy trở lại khi nào bản thân đã thật sự sẵn sàng.'"
+      ]
+    },
+    {
+      "id": 90107302,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ là người thực hiện nghĩa vụ này?",
+      "successDesc": [
+        "'Tôi vẫn nhớ. Bản thân luôn muốn chạy trên một cánh đồng cỏ và lăn lộn dưới ánh nắng ấm áp.'\n\n'Để bơi qua đại dương bao la mà tôi chỉ từng thấy qua những bức ảnh.'\n\n'Đó là giấc mơ của tôi.'\n\n'Giấc mơ duy nhất của tôi.'\n\n'Bây giờ, nếu mọi người từng nhớ một giấc mơ mà bản thân mong muốn tỏa sáng, ngay cả khi đó chỉ là một tia sáng yếu ớt có thể vụt tắt bất cứ lúc nào...'"
+      ],
+      "failureDesc": [
+        "Ánh đèn huỳnh quang vẫn nhấp nháy yếu ớt.\n\n'Không sao đâu. Nơi chúng tôi đang đi đến...'\n\n'Không hề cần đến ánh sáng.'"
+      ]
+    },
+    {
+      "id": 90107401,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ trả lời?",
+      "successDesc": [
+        "'Ra là vậy sao.'\n\n'Nếu chủ nhân của tôi không còn trong bức tranh nữa, thì những ký ức này… tôi sẽ phải làm gì với chúng đây?'\n\n'Nếu… một ngày nào đó… tôi bắt đầu nghi ngờ rằng bản thân từng có một chủ nhân…'\n\nChỉ còn lại bức tranh vô chủ trong hành lang thôi."
+      ],
+      "failureDesc": [
+        "'Không có chuyện đó.'\n\n'Đừng nhìn vào thời gian đã trôi qua, mà hãy tập trung vào bức tranh.'\n\n'Gương mặt của chủ nhân tôi, người đã phải trải qua biết bao thăng trầm.'\n\nChúng tôi phải ngồi đó và nhìn chằm chằm vào bức tranh trong một lúc lâu"
+      ]
+    },
+    {
+      "id": 90107402,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ trả lời?",
+      "successDesc": [
+        "'Gương mặt của chủ nhân tôi có phải rất duyên dáng không? Đôi mắt, thật bí ẩn. Ánh nhìn, thật cao quý.'\n\n'Cảm ơn mọi người. Tôi bắt đầu nhớ lại. Gương mặt của chủ nhân tôi, phản chiếu trong chính đôi mắt ấy.'"
+      ],
+      "failureDesc": [
+        "'Nếu mọi người thực sự có thể thấy diện mạo của chủ nhân tôi… thì đó không phải là gương mặt mà mọi người nên thể hiện.'\n\n'Và đôi mắt tầm thường, vô hồn đó không phải là vẻ mặt mà người ta sẽ có khi nhìn thấy gương mặt của chủ nhân tôi.'\n\nChúng tôi nhanh chóng bị coi là những kẻ không được chào đón, và bị đuổi ra khỏi dinh thự."
+      ]
+    },
+    {
+      "id": 90107403,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ trả lời?",
+      "successDesc": [
+        "\"Ôi trời...\"\n\n{0} ngỏ ý muốn lau sạch lớp bụi bám trên bức chân dung.\nThực thể có vẻ bối rối, cố lùi lại tránh xa chúng tôi…\n… nhưng Tội Nhân vẫn vươn tay ra, nhẹ nhàng phủi bụi và lau sạch bức tranh cho đến khi bề mặt của nó sáng bóng.\n\n\"Bây giờ bức chân dung đã sạch sẽ, hẳn là bây giờ sẽ có thể nhìn thấy nó rõ ràng rồi.\"\n\"Vô cùng biết ơn. Chủ nhân của tôi… chắc chắn cũng sẽ rất vui.\""
+      ],
+      "failureDesc": [
+        "\"Ôi trời...\"\n\n{0} tiến thẳng về phía thực thể, định phủi bụi trên bức chân dung.\n\n\"TUYỆT ĐỐI không được vô lễ mà tùy tiện chạm tay vào chân dung của chủ nhân tôi!\"\n\nCó lẽ chúng tôi đã quá hấp tấp.\nThực thể gào lên, mắng nhiếc chúng tôi là \"những kẻ thô lỗ, ồn ào\", rồi thẳng tay đuổi cả bọn ra khỏi dinh thự."
+      ]
+    },
+    {
+      "id": 90108401,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "Bạn cúi đầu xuống cầu nguyện. Dù nghe thấy tiếng kèn trumpet, bạn lại không ngước lên nhìn mà chỉ lặng lẽ lắng nghe. Vì như vậy mới là cầu nguyện."
+      ],
+      "failureDesc": [
+        "Chỉ vì bạn cúi đầu và nhắm mắt không có nghĩa là bạn đang cầu nguyện."
+      ]
+    },
+    {
+      "id": 90108402,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "Đôi tay và cái đầu trong mờ của nó biến mất. Máu đỏ thẫm tuôn trào từ khoảng không. Dòng máu chực chờ, nặng nề chảy xuống cứ như dòng nước mắt của một ai đó vậy."
+      ],
+      "failureDesc": [
+        "Một vết nứt lớn xuất hiện trên tượng. Nó bắt đầu rung lắc một cách đáng lo ngại. Chẳng còn lựa chọn nào khác, đành phải chấp nhận chuyện sẽ tới thôi."
+      ]
+    },
+    {
+      "id": 90108501,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ chấp nhận thử thách này?",
+      "successDesc": [
+        "Bạn đáp lại: tài liệu ghi chép rằng bí mật về bệnh nhân trong phòng 409 phải được giữ kín.\n\n'Tao biết ngay mà...!'\n\n'Nhưng bệnh nhân đó... là...'\n\n'AAAAAAAAAAAAAAA!'"
+      ],
+      "failureDesc": [
+        "Bạn cố nói ra sự thật, nhưng bóng người ấy không tin.\n\n'Đừng có lừa tao. Bệnh nhân trong phòng 409 là...!'\n\nBóng người không thể kìm chế cảm xúc; nó bắt đầu tấn công loạn xạ, phá hủy mọi thứ xung quanh."
+      ]
+    },
+    {
+      "id": 90108502,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "'Tao biết ngay mà.'\n\n'Bọn nó lừa tao...'\n\n'Mấy tên chó đẻ đó lừa tao!!!'"
+      ],
+      "failureDesc": [
+        "Bóng người bóp nát tờ giấy rồi giận dữ bỏ đi đâu mất."
+      ]
+    },
+    {
+      "id": 90109101,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "Bạn dùng tay giữ chặt chiếc chuông trước khi nó kịp lắc ra đằng trước.\n\nChiếc chuông khẽ vang lên.\n\nMột âm thanh thật nhạt nhòa và yếu ớt.\n\nDù không còn nảy với cùng một lực như trước nữa, nhưng nó vẫn tiếp tục đung đưa."
+      ],
+      "failureDesc": [
+        "Bạn giữ chặt chiếc chuông. Nhưng có lẽ là quá chặt nên giờ đây nó sẽ không bao giờ mất thăng bằng nữa.\n\nVà có lẽ sẽ không bao giờ đung đưa nữa.\n\nChiếc chuông không còn vang thêm bất kỳ âm thanh nào nữa.\n\nChỉ còn những bánh răng dính vào nhau."
+      ]
+    },
+    {
+      "id": 90109102,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Ai sẽ thực hiện?",
+      "successDesc": [
+        "Bạn đẩy nó xa hơn đến cái mức chiếc chuống gần như chạm xuống mặt đất rồi.\n\nNhưng nó không hề ngã.\n\nMà nó nảy ngược lại về đằng trước còn dữ dội hơn, và tiếng chuông vang lên thật to. To hơn bất kỳ chiếc chuông nào mà bạn đã từng nghe thấy trước đây."
+      ],
+      "failureDesc": [
+        "Bạn đã đẩy chiếc chuông đi quá xa. Nó đổ xuống mặt đất cùng một tiếng rầm.\n\nNó sẽ không còn có thể đứng trở lại nữa.\n\nMục đích vốn có của nó đã không còn có thể khôi phục được nữa khi đã rớt đài."
+      ]
+    }
+  ]
+}

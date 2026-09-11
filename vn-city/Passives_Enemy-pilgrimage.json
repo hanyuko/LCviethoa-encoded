@@ -1,0 +1,82 @@
+{
+  "dataList": [
+    {
+      "id": 128901,
+      "name": "Diversion",
+      "desc": "Cuối Lượt: if this unit did not take damage this turn, nhận 2 [Agility] vào lượt kế\nIf this unit's Speed is faster than the attack target's, +5% sát thương gây ra for every 1 Speed difference (tối đa 50%)"
+    },
+    {
+      "id": 128902,
+      "name": "Dipped Blade",
+      "desc": "Khi Đánh Trúng with an Unopposed Attack, gây 1 [NervousImpairment]"
+    },
+    {
+      "id": 128903,
+      "name": "Abyssal Worship",
+      "desc": "Đầu Lượt: hồi 3 SP for every surviving ally"
+    },
+    {
+      "id": 9102701,
+      "name": "Abyssal Horror",
+      "desc": "Inflict +1 more Lượng [Sinking] Khi Đánh Trúng against targets without [Sinking]"
+    },
+    {
+      "id": 9102801,
+      "name": "Abyssal Horror",
+      "desc": "Inflict +2 more Lượng [Sinking] Khi Đánh Trúng against targets without [Sinking]"
+    },
+    {
+      "id": 9102802,
+      "name": "Nethersea Brand Utopia",
+      "desc": "When on top of [NetherseaBrandUnit]: nhận Sức Mạnh Giao Tranh +2 and double the amount of [NervousImpairment] inflicted Khi Đánh Trúng"
+    },
+    {
+      "id": 9102901,
+      "name": "Standby",
+      "desc": "When in [WaitingforCommandMod], does not use Attack Skills until taking damage.\n\nWhen this unit takes damage while in [WaitingforCommandMod], enter [ParticipationMod] and start using Attack Skills starting vào lượt kế"
+    },
+    {
+      "id": 9102902,
+      "name": "Combat-Ready",
+      "desc": "Turn Start in [ParticipationMod]:\n- Gây 3 [NervousImpairment] to all enemies with less than 15 [NervousImpairment]\n- Min & Max Speed +3\nNhận 1 [AttackUp] for every 10% missing HP (tối đa 8)\n\nTurn End in [ParticipationMod]: take fixed damage equal to 10% HP",
+      "summary": ""
+    },
+    {
+      "id": 9102903,
+      "name": "Survival Reflexes",
+      "desc": "When Clashing with the target, or Khi Đánh Trúng with an Unopposed attack, gây 2 [NervousImpairment]\n- If this unit is on top of [NetherseaBrandUnit], gây 1 [NervousImpairment]"
+    },
+    {
+      "id": 9102904,
+      "name": "Nethersea Brand Utopia",
+      "desc": "When on top of [NetherseaBrandUnit]: nhận Sức Mạnh Tổng +2 and Sức Mạnh Xu +2, and double the amount of [NervousImpairment] inflicted Khi Đánh Trúng"
+    },
+    {
+      "id": 9103001,
+      "name": "In-depth Cognition",
+      "desc": "-0.5 to all Affinity Resistances"
+    },
+    {
+      "id": 9103002,
+      "name": "Propagatory Instinct",
+      "desc": "On death, generate [NetherseaBrandUnit] in the allied units' territory vào lượt kế."
+    },
+    {
+      "id": 9103003,
+      "name": "Nethersea Brand Utopia",
+      "desc": "When on top of [NetherseaBrandUnit]: nhận Sức Mạnh Tổng +1 and Sức Mạnh Xu +1, and double the amount of [NervousImpairment] inflicted Khi Đánh Trúng"
+    },
+    {
+      "id": 9103101,
+      "name": "Nethersea Brand Utopia",
+      "desc": "Attack Skills designate the closest enemy as the main target, and select sub-targets from the front\n\n\nWhen on top of [NetherseaBrandUnit]...\n- Designates the furthest enemy as the target, and converts all coins to [SuperCoin]\n- Nhận Sức Mạnh Tổng +2 and Sức Mạnh Xu +2; double the amount of [NervousImpairment] inflicted Khi Đánh Trúng",
+      "summary": "When on top of [NetherseaBrandUnit], enhance Skills"
+    },
+    {
+      "id": 9103201,
+      "name": "Debris Removal",
+      "desc": "This unit's Speed is fixed to 1. Spawns in an inactive state in battles that [NetherseaBrandUnit] may appear.\n\nWhen [NetherseaBrandUnit] appears on the battlefield, this unit becomes active and damageable.\n- When this unit's HP drops to 1 from damage, trigger Hand of the Saint and remove all [NetherseaBrandUnit] from the battlefield. When this effect triggers, Hand of the Saint becomes inactive for the vào lượt kế.\n- This unit takes damage only from Skills mainly targeting this unit, and it takes no other damage.\n- When it becomes inactive, it removes all effects from self and hồi back to max HP.",
+      "summary": "Remove all [NetherseaBrandUnit] on the battlefield"
+    }
+  ]
+}

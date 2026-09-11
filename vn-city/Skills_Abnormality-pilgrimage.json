@@ -1,0 +1,966 @@
+{
+  "dataList": [
+    {
+      "id": 128801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidepiercer Lance",
+          "desc": "[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 2 kẻ địch có [ColdAirDOQ] (tối đa 2)\n[WhenUse] Sức Mạnh Tổng +1 với mỗi [ColdAirDOQ] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidebreaker Lance",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 2 kẻ địch có [ColdAirDOQ] (tối đa 2)\n[WhenUse] Nếu mục tiêu chính có [ColdAirDOQ], nhận +1 Phạm Vi Tấn Công\n[WhenUse] Sức Mạnh Tổng +1 với mỗi [ColdAirDOQ] trên mục tiêu chính (tối đa 2)\n[DefeatDuel] -50% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]\n- Nếu mục tiêu có [ColdAirDOQ], gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tide-Hunt",
+          "desc": "Ưu tiên mục tiêu có [FreezingDOQ]\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse] When attacking targets with [FreezingDOQ], nhận +2 Phạm Vi Tấn Công\n[WhenUse] Sức Mạnh Xu +1 với mỗi 2 kẻ địch có [ColdAirDOQ] (tối đa 2)\n[DefeatDuel] -50% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 3 [AttackUp] (một lần mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[EnemyKill] Nếu mục tiêu có [FreezingDOQ], hồi 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slay the Ocean, Slay the Ocean!!",
+          "desc": "[CantDuel]\n[WhenUse] +5% sát thương gây ra với mỗi kẻ dịch có [ColdAirDOQ] (tối đa 30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 3 [AttackUp] (một lần mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm sát thương Thờ Ơ bằng 10(1 + [ColdAirDOQ] trên mục tiêu)"
+                },
+                {
+                  "desc": "[EnemyKill] Nếu mục tiêu có [FreezingDOQ], hồi 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slay the Ocean, Slay the Ocean!!",
+          "desc": "Ưu tiên mục tiêu có [FreezingDOQ]\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse] +5% sát thương gây ra với mỗi kẻ dịch có [ColdAirDOQ] (tối đa 30%)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 2 kẻ địch có [ColdAirDOQ] (tối đa 3)\n[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +1 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 3 [AttackUp] (một lần mỗi lượt)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm sát thương Thờ Ơ bằng 10(1 + [ColdAirDOQ] trên mục tiêu)"
+                },
+                {
+                  "desc": "[EnemyKill] Nếu mục tiêu có [FreezingDOQ], hồi 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Indomitable Knight",
+          "desc": "[CanDuelGuard]\n[WhenUse] Nhận 2 [Agility] vào lượt kế (một lần mỗi lượt)\n[WinDuel] Hồi 15 SP\n[DefeatDuel] Mất 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cell Injection",
+          "desc": "[OnDirectAttack] Sức Mạnh Xu +2 cho Kỹ Năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [SeaTerrorCell]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ripping Slice",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swinging Slice",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 1 [Binding] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Multiple Jabs",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Thờ Ơ bằng [NervousImpairment] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "United Will",
+          "desc": "Sức Mạnh Xu +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)\n[StartBattle] Gán 2 [Agility] lên Cultist of the Deep đồng minh có Tốc Độ thấp nhất vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NervousImpairment]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Propagating Bliss",
+          "desc": "Sức Mạnh Xu +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)\n[StartBattle] Gán 2 [Enhancement] lên Cultist of the Deep đồng minh có Tốc Độ thấp nhất vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rite of Liberation",
+          "desc": "Sức Mạnh Xu +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)\n[WhenUse] Nếu mục tiêu có [Binding], Sức Mạnh Tổng +2\n[WinDuel] Gây 6 [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Environmental Adaptation",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)\n[StartBattle] Nhận 50 Khiên\n[EndBattle] Nếu chủ thể còn Khiên, nhận 2 [Enhancement] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "For the Landbound Kins",
+          "desc": "[WhenUse] Nếu [NetherseaBrandUnit] is activated here, Sức Mạnh Tổng +3\n- Nhận thêm 1 Sức Mạnh Tổng với mỗi 1 Stage of [NetherseaBrandUnit]\n\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Sinking] trên mục tiêu chính (tối đa 2)\nKhi có Stage 2 or higher [NetherseaBrandUnit], gây +1 [NervousImpairment] with this Skill",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [SeaTerrorCell]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [SeaTerrorCell]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [SeaTerrorCell]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Impatient Ego's Byway",
+          "desc": "[CantDuel]\nThis Skill does not deal damage against targets\n[EndSkill] Nhận 100 [AbyssalVitality]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoes of Respite",
+          "desc": "[CantIdentify]\nPrioritizes allies; among them, prioritize allies with the least current HP\nWhen targeting allies, gây 0 sát thương\nSức Mạnh Giao Tranh +1 với mỗi 3 [Sinking] trên mục tiêu (tối đa 4)\n[StartBattle] When targeting allies, hồi (20% of target's max HP) HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, gán 1 [DefenseUp] lượt này và lượt kế với mỗi 4 [AbyssalVitality] đã tiêu thụ to summon the target (tối đa 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 3 [Sinking] và 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoes of Ascending",
+          "desc": "[CantIdentify]\nPrioritize allies with the most current HP\nWhen targeting an ally, gây 0 sát thương\nSức Mạnh Giao Tranh +1 với mỗi 3 [Sinking] trên mục tiêu (tối đa 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, gán 1 [AttackUp] lượt này và lượt kế với mỗi 4 [AbyssalVitality] đã tiêu thụ to summon the target (tối đa 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 3 [Sinking] và 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cyclical Ecosystem",
+          "desc": "[CanDuelGuard]\n[EndBattle] Tiêu thụ [AbyssalVitality] với mỗi đồng minh còn sống; however, apply (# of turns target survived) [AttackDmgUp] lên toàn bộ đồng minh vào lượt kế (tối đa 3)\n- [DefeatDuel] Does not apply [AttackDmgUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "With Deep Blue Charity.",
+          "desc": "[CantIdentify]\nSức Mạnh Gốc +1 với mỗi 3 [NervousImpairment] trên mục tiêu chính (tối đa 9)\nWhen targeting allies, gây 0 sát thương\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n\n[DefeatDuel]\n- Nhận 3 [ResultReduction] và 3 [Paralysis]\n- -80% sát thương gây ra, và không thể làm Choáng mục tiêu\n- Halve the amount of [NervousImpairment] từ Kỹ năng này gây ra, and does not inflict [Sinking] or Tầng [Sinking]\n- Halve the amount of [AbyssalVitality] gained from this Skill\n[EndSkill] Nhận 100 [AbyssalVitality]\n[EndBattle] Khi có the start of the next turn, generate [NetherseaBrandUnit] in the ally territory",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, hồi 10% of their max HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, hồi 10% of their max HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, hồi 10% of their max HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 4 [Sinking], +4 Tầng [Sinking], và 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidal Arc",
+          "desc": "[WhenUse] Ở mốc 50+ [AbyssalVitality], consume 5 [AbyssalVitality] to gây +2 [NervousImpairment] with this Skill's effects\n[WhenUse] Cứ mỗi 5 [NervousImpairment] trên mục tiêu, consume 1 [AbyssalVitality] to gain Sức Mạnh Giao Tranh +1 (tối đa 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fierce Currents",
+          "desc": "[WhenUse] Ở mốc 50+ [AbyssalVitality], consume 4 [AbyssalVitality] to gain Sức Mạnh Xu +1\n[WhenUse] Cứ mỗi 10 [NervousImpairment] trên mục tiêu, consume 3 [AbyssalVitality] to gain Sức Mạnh Xu +1 (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Undulating Waves",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 3 [NervousImpairment] trên mục tiêu chính (tối đa 9)\n[EndBattle] Tiêu thụ lên tới 10 [AbyssalVitality] và gain half of đã tiêu thụ Stack as [AttackUp] vào lượt kế (max 5, rounded up)\n- [DefeatDuel] Does not nhận [AttackUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking] và +2 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129709,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Before the compassion they believe in loses its worth.",
+          "desc": "Ưu tiên mục tiêu có the most [NervousImpairment]\nSức Mạnh Gốc +1 với mỗi 3 [NervousImpairment] trên mục tiêu chính (tối đa 9)\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n\n[DefeatDuel]\n- Nhận 3 [ResultReduction] và 3 [Paralysis]\n- -80% sát thương gây ra, và không thể làm Choáng mục tiêu\n- Halve the amount of [NervousImpairment] từ Kỹ năng này gây ra, and does not inflict [Sinking] or Tầng [Sinking]\n- Halve the amount of [AbyssalVitality] và Shield gained from this Skill\n[EndSkill]\n- Nhận 100 [AbyssalVitality]\n- Nhận Khiên bằng 20% of this unit's max HP\n- Kết thúc lượt này\n[EndBattle] Khi có the start of the next turn, generate [NetherseaBrandUnit] in the ally territory",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +4 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 4 [Sinking] và +4 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Impatient Ego's Byway",
+          "desc": "[CantDuel]\nThis Skill does not deal damage against targets\n[EndSkill] Nhận 100 [AbyssalVitality]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoes of Respite",
+          "desc": "[CantIdentify]\nPrioritizes allies; among them, prioritize allies with the least current HP\nWhen targeting allies, gây 0 sát thương\nSức Mạnh Giao Tranh +1 với mỗi 3 [Sinking] trên mục tiêu (tối đa 4)\n[StartBattle] When targeting allies, hồi (20% of target's max HP) HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, gán 1 [DefenseUp] lượt này và lượt kế với mỗi 4 [AbyssalVitality] đã tiêu thụ to summon the target (tối đa 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 3 [Sinking] và 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoes of Ascending",
+          "desc": "[CantIdentify]\nPrioritize allies with the most current HP\nWhen targeting an ally, gây 0 sát thương\nSức Mạnh Giao Tranh +1 với mỗi 3 [Sinking] trên mục tiêu (tối đa 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, gán 1 [AttackUp] lượt này và lượt kế với mỗi 4 [AbyssalVitality] đã tiêu thụ to summon the target (tối đa 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 3 [Sinking] và 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cyclical Ecosystem",
+          "desc": "[CanDuelGuard]\n[EndBattle] Tiêu thụ [AbyssalVitality] với mỗi đồng minh còn sống; however, apply (# of turns target survived) [AttackDmgUp] lên toàn bộ đồng minh vào lượt kế (tối đa 3)\n- [DefeatDuel] Does not apply [AttackDmgUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "With Deep Blue Charity.",
+          "desc": "[CantIdentify]\nSức Mạnh Gốc +1 với mỗi 3 [NervousImpairment] trên mục tiêu chính (tối đa 9)\nWhen targeting allies, gây 0 sát thương\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n\n[DefeatDuel]\n- Nhận 3 [ResultReduction] và 3 [Paralysis]\n- -80% sát thương gây ra, và không thể làm Choáng mục tiêu\n- Halve the amount of [NervousImpairment] từ Kỹ năng này gây ra, and does not inflict [Sinking] or Tầng [Sinking]\n- Halve the amount of [AbyssalVitality] gained from this Skill\n[EndSkill] Nhận 100 [AbyssalVitality]\n[EndBattle] Khi có the start of the next turn, generate [NetherseaBrandUnit] in the ally territory",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, hồi 10% of their max HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, hồi 10% of their max HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an ally, hồi 10% of their max HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] When targeting an enemy, gây 4 [Sinking], +4 Tầng [Sinking], và 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidal Arc",
+          "desc": "[WhenUse] Ở mốc 50+ [AbyssalVitality], consume 5 [AbyssalVitality] to gây +2 [NervousImpairment] with this Skill's effects\n[WhenUse] Cứ mỗi 10 [NervousImpairment] trên mục tiêu, consume 1 [AbyssalVitality] to gain Sức Mạnh Giao Tranh +1 (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fierce Currents",
+          "desc": "[WhenUse] Ở mốc 50+ [AbyssalVitality], consume 4 [AbyssalVitality] to gain Sức Mạnh Xu +1\n[WhenUse] Cứ mỗi 10 [NervousImpairment] trên mục tiêu, consume 3 [AbyssalVitality] to gain Sức Mạnh Xu +1 (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Undulating Waves",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [NervousImpairment] trên mục tiêu chính (tối đa 5)\n[EndBattle] Tiêu thụ lên tới 10 [AbyssalVitality] và gain half of đã tiêu thụ Stack as [AttackUp] vào lượt kế (max 5, rounded up)\n- [DefeatDuel] Does not nhận [AttackUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking] và +2 Tầng [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

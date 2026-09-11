@@ -1,0 +1,407 @@
+{
+  "dataList": [
+    {
+      "id": 837101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lên Nào",
+          "desc": "[WhenUse] Gây [DuelDeclaration_Camille]\n[WhenUse] Nhận 5 [Breath]\n[WinDuel] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đâm Thẳng",
+          "desc": "[WhenUse] Nhận 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đâm Xuyên",
+          "desc": "[WhenUse] Ở mốc 7+ [Breath], Sức Mạnh Xu +2\n[WinDuel] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 Tầng [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] +50% Sát Thương gây ra khi Trí Mạng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vĩnh Biệt",
+          "desc": "[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu, Sức Mạnh Xu +1 (Sức Mạnh Xu +1 với mỗi 2 Tốc Độ chênh lệch; max 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +4 Tầng [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst] và +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst] và +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 7+ Tốc Độ, gây 3 [Burst] và +1 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +100% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] +5% sát thương gây ra với mỗi [Burst] trên mục tiêu (tối đa 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WinDuel] Gây thêm sát thương dựa trên số lần Giao Tranh (+10% sát thương với mỗi lần Giao Tranh, tối đa 50%)\n[WinDuel] Nhận 2 [Agility] vào lượt kế\n[DefeatDuel] Nhận 2 [Binding] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thủ Đòn",
+          "desc": "[OnSucceedEvade] Nhận 1 [Agility] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tỉa Gọn Cho Đẹp Nhé!",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Giao Tranh +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Tái sử dụng Xu (Bậc [BloodScissor] - 1) lần (tối đa 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sắc Bén Hơn Nữa!",
+          "desc": "[WhenUse] Tiêu thụ lên tới 20 [BloodDinner]; nhận 1 [BloodScissor] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n- Nếu Kỹ Năng này của chủ thể tiêu hao [BloodDinner] thất bại, nhận 30 [Laceration]\n[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Giao Tranh +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "CẮT!!",
+          "desc": "[WhenUse] Tiêu thụ lên tới 30 [BloodDinner]; nhận 1 [BloodScissor] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Nếu mục tiêu có [LineCutting], Sức Mạnh Giao Tranh +5\nHồi 5 SP mỗi lần đánh trúng mục tiêu có [LineCutting]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Sẽ Cắt Tỉa Các Ngươi!",
+          "desc": "[BeforeAttack] Phạm Vi Tấn Công +1 với mỗi Bậc [BloodScissor] (tối đa 2)\n[WhenUse] Tiêu thụ lên tới 30 [BloodDinner]; nhận 1 [BloodScissor] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Giao Tranh +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [BloodScissorScars] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 5 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Giờ Tới Lượt Ngươi!",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [BloodScissorScars] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [LineCutting] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Cắt Các Ngươi Hết Một Lượt!",
+          "desc": "[BeforeAttack] Phạm Vi Tấn Công +1 với mỗi Bậc [BloodScissor]\n[WhenUse] Tiêu thụ lên tới 100 [BloodDinner]; nhận 1 [BloodScissor] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Giao Tranh +2\n[EndSkill] Tiêu thụ 10 [BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Kích hoạt [Laceration] của mục tiêu (tối đa 10). Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Kích hoạt [Laceration] của mục tiêu (tối đa 10). Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Kích hoạt [Laceration] của mục tiêu (tối đa 10). Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +40% sát thương gây ra với mỗi Bậc [BloodScissor] (tối đa 120%)"
+                },
+                {
+                  "desc": "[EnemyKill] Nếu hiệu ứng của Xu này giết mục tiêu, hồi HP bằng 50% sát thương đã gây lên mục tiêu bị giết."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hành Xử Thật Vô Lễ!",
+          "desc": "[DuelCounter]\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi Bậc [BloodScissor] (tối đa 3)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration] và +4 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ta Không Cần Những Thứ Xấu Xí!",
+          "desc": "[CantChangeTarget]\nƯu tiên mục tiêu có phần trăm HP thấp nhất",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Khi mục tiêu có dưới 30% HP, giết mục tiêu"
+                },
+                {
+                  "desc": "[EnemyKill] Tăng [BloodDinner] bằng 30% HP tối đa của kẻ địch đã bị giết"
+                },
+                {
+                  "desc": "[EnemyKill] Nhận 4 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "dataList": [
+    {
+      "id": "LegStrengthHorse",
+      "name": "Hành Bộ Giả 【Ngọ】",
+      "desc": "     \n     <sprite name=\"Agility\"><color=#fac400> </color>     <sprite name=\"DefenseUp\"><color=#fac400>   </color>   \n         <sprite name=\"Vibration\"><color=#e30000> </color>        ",
+      "summary": ""
+    },
+    {
+      "id": "ConcussionWei",
+      "name": "Chấn Động Não",
+      "desc": "     \n               \n          <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>     <sprite name=\"Burst\"><color=#e30000> </color>       \n                     ",
+      "summary": ""
+    },
+    {
+      "id": "SweptAwayWei",
+      "name": "Dư Ba",
+      "desc": "     \n         <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>\n      ",
+      "summary": ""
+    },
+    {
+      "id": "ReboundWei",
+      "name": "Phản Lực",
+      "desc": "     ",
+      "summary": "",
+      "flavor": "Kích hoạt <sprite name=\"VibrationExplosion\"><color=#e30000>Bùng Nổ Xung Chấn</color> sai mục tiêu. Dù sao thì, mỗi lực tác động đều có một phản lực cùng độ lớn nhưng ngược chiều."
+    },
+    {
+      "id": "SipOfAlcoholJin",
+      "name": "Hớp Rượu - Chân (眞)",
+      "desc": "     \n        <sprite name=\"Breath\"><color=#fac400> </color>   \n       <sprite name=\"Agility\"><color=#fac400> </color>      \n               ",
+      "summary": ""
+    },
+    {
+      "id": "DrunkBlood",
+      "name": "Huyết Chú (血注)",
+      "desc": "     \n    \n                ",
+      "summary": ""
+    },
+    {
+      "id": "DrunkAwakening",
+      "name": "Thức Tỉnh Tâm Tríg",
+      "desc": "     \n                   \n       <sprite name=\"Laceration\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>        \n     <sprite name=\"Breath\"><color=#fac400> </color>     ",
+      "summary": ""
+    },
+    {
+      "id": "RunawayHorseWei_LowMorale",
+      "name": "Cuồng Mã Mất Cương",
+      "desc": "  \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": ""
+    },
+    {
+      "id": "RunawayHorseWei_Panic",
+      "name": "Cuồng Mã Mất Cương",
+      "desc": "  \n        <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>",
+      "summary": ""
+    },
+    {
+      "id": "DrunkDrifter_LowMorale",
+      "name": "Túy Thủ Dạ Khách",
+      "desc": "  \n                ",
+      "summary": ""
+    },
+    {
+      "id": "DrunkDrifter_Panic",
+      "name": "Túy Thủ Dạ Khách",
+      "desc": "  \n                     ",
+      "summary": ""
+    },
+    {
+      "id": "DarkBeastSnake_LowMorale",
+      "name": "Ám Uyển",
+      "desc": "  \n          ",
+      "summary": ""
+    },
+    {
+      "id": "DarkBeastSnake_Panic",
+      "name": "Ám Uyển",
+      "desc": "  \n          ",
+      "summary": ""
+    },
+    {
+      "id": "NightDrifterGuilty",
+      "name": "Tội Lỗi Phảng Phất",
+      "desc": "    \n    ",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair",
+      "name": "Vùng Vẫy Để Nở",
+      "desc": "                ",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_A",
+      "name": "Vùng Vẫy Để Nở Ⅰ",
+      "desc": "     \n         \n     \n     ",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_B",
+      "name": "Vùng Vẫy Để Nở ⅠⅠ",
+      "desc": "     \n         \n   <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Protection\"><color=#fac400> </color>  \n     \n     ",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_C",
+      "name": "Vùng Vẫy Để Nở ⅠⅠⅠ",
+      "desc": "     \n            <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Protection\"><color=#fac400> </color>  \n          \n     \n     ",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_D",
+      "name": "Vùng Vẫy Để Nở ⅠⅤ",
+      "desc": "     \n            <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Protection\"><color=#fac400> </color>  \n          \n     \n     ",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_E",
+      "name": "Vùng Vẫy Để Nở Ⅴ",
+      "desc": "     \n            <sprite name=\"Enhancement\"><color=#fac400>    </color>   <sprite name=\"Protection\"><color=#fac400> </color>  \n          \n         \n     \n     ",
+      "summary": ""
+    },
+    {
+      "id": "StudySignSinclair",
+      "name": "Dấu Ấn",
+      "desc": "      \n     ",
+      "summary": "",
+      "flavor": "Một người muốn được sinh ra, trước hết phải phá hủy một thế giới."
+    },
+    {
+      "id": "CrazyWei",
+      "name": "Hung Bạo Hóa",
+      "desc": "     \n     \n\n         <sprite name=\"LegStrengthHorse\"><color=#fac400>   【】</color>     <sprite name=\"AttackUp\"><color=#fac400>   </color>    <sprite name=\"LegStrengthHorse\"><color=#fac400>   【】</color>",
+      "summary": "",
+      "flavor": "\"Ta sẽ chà đạp bất kỳ kẻ nào dám làm tổn thương tiểu thư... Ta sẽ chà đạp chúng đến chết... \""
+    },
+    {
+      "id": "SnakePoisonJinWeak",
+      "name": "Tỵ Độc",
+      "desc": "    \n    ",
+      "summary": ""
+    },
+    {
+      "id": "SnakePoisonJin",
+      "name": "Tỵ Độc Lan Rộng",
+      "desc": "    \n    \n         ",
+      "summary": ""
+    }
+  ]
+}

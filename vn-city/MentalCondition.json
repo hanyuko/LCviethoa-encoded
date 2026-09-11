@@ -1,0 +1,129 @@
+{
+  "dataList": [
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Tăng sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng {1}% sau mỗi lần Giao Tranh)</size>",
+      "min": "Giảm sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng {1}% sau mỗi lần Giao Tranh)</size>"
+    },
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithMax",
+      "add": "Tăng sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng {1}% sau mỗi lần Giao Tranh; tối đa {2}%)</size>",
+      "min": "Giảm sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng {1}% sau mỗi lần Giao Tranh; tối đa {2}%)</size>"
+    },
+    {
+      "id": "OnKillEnemyAsLevelRatioMultiply",
+      "add": "Tăng {0} sau khi chủ thể giết mục tiêu có cấp độ cao hơn hoặc bằng với chủ thể",
+      "min": "Giảm {0} sau khi chủ thể giết mục tiêu có cấp độ cao hơn hoặc bằng với chủ thể"
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
+      "add": "Tăng {0} sau khi đồng minh giết mục tiêu có cấp độ cao hơn hoặc bằng với chủ thể",
+      "min": "Giảm {0} sau khi đồng minh giết mục tiêu có cấp độ cao hơn hoặc bằng với chủ thể"
+    },
+    {
+      "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Tăng sau khi Thua Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng {1}% sau mỗi lần Giao Tranh)</size>",
+      "min": "Giảm sau khi Thua Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng {1}% sau mỗi lần Giao Tranh)</size>"
+    },
+    {
+      "id": "OnDieAllyAsLevelRatio",
+      "add": "Nếu cấp độ của đồng minh bị giết cao hơn hoặc bằng với cấp độ của chủ thể,\ntăng Tinh Thần dựa vào mức chênh lệch\n<size=95%>(Giá Trị gốc là {0}, nâng {0} với mỗi cấp độ)</size>",
+      "min": "Nếu cấp độ của đồng minh bị giết cao hơn hoặc bằng với cấp độ của chủ thể,\ngiảm Tinh Thần dựa vào mức chênh lệch\n<size=95%>(Giá Trị gốc là {0}, nâng {0} với mỗi cấp độ)</size>"
+    },
+    {
+      "id": "OnRoundStartAfterEvent",
+      "add": "Tăng {0} vào đầu lượt",
+      "min": "Giảm {0} vào đầu lượt"
+    },
+    {
+      "id": "OnKillEnemyMp",
+      "add": "Tăng {0} sau khi chủ thể giết kẻ địch",
+      "min": "Giảm {0} sau khi chủ thể giết kẻ địch"
+    },
+    {
+      "id": "OnDieAllyMp",
+      "add": "Khi có đồng minh bị giết, tăng {0} Tinh Thần",
+      "min": "Khi có đồng minh bị giết, giảm {0} Tinh Thần"
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyExceptSupportiveAction",
+      "add": "Tăng {0} khi có đồng minh giết kẻ địch có cấp độ cao hơn hoặc bằng với chủ thể",
+      "min": "Giảm {0} khi có đồng minh giết kẻ địch có cấp độ cao hơn hoặc bằng với chủ thể. Không giảm khi kẻ địch bị giết bằng đòn Tấn Công Phụ Trợ."
+    },
+    {
+      "id": "OnDieBladeLineageAlly",
+      "add": "Khi có đồng minh thuộc Gia Tộc Kiếm Sư bị giết, tăng {0} Tinh Thần",
+      "min": "Khi có đồng minh thuộc Gia Tộc Kiếm Sư bị giết, giảm {0} Tinh Thần"
+    },
+    {
+      "id": "OnWinDuelLessMpTarget",
+      "add": "Tăng {0} khi Thắng Giao Tranh với kẻ địch có SP thấp hơn chủ thể",
+      "min": "Giảm {0} khi Thắng Giao Tranh với kẻ địch có SP thấp hơn chủ thể"
+    },
+    {
+      "id": "OnLoseDuelLessMpTarget",
+      "add": "Tăng {0} khi Thua Giao Tranh với kẻ địch có SP thấp hơn chủ thể",
+      "min": "Giảm {0} khi Thua Giao Tranh với kẻ địch có SP thấp hơn chủ thể"
+    },
+    {
+      "id": "OnKillEnemyByOtherAlly",
+      "add": "Tăng {0} khi đồng minh giết kẻ địch",
+      "min": "Giảm {0} khi đồng minh giết kẻ địch"
+    },
+    {
+      "id": "OnWinDuelAnyTarget",
+      "add": "Tăng {0} khi Giao Tranh Thắng",
+      "min": "Giảm {0} khi Giao Tranh Thắng"
+    },
+    {
+      "id": "OnLoseDuelAnyTarget",
+      "add": "Tăng {0} khi Giao Tranh Thua",
+      "min": "Giảm {0} khi Giao Tranh Thua"
+    },
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis",
+      "add": "Tăng sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng <color=red>{1}%</color> sau mỗi lần Giao Tranh)</size>",
+      "min": "Giảm sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng <color=red>{1}%</color> sau mỗi lần Giao Tranh)</size>"
+    },
+    {
+      "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis",
+      "add": "Tăng sau khi Thua Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng <color=red>{1}%</color> sau mỗi lần Giao Tranh)</size>",
+      "min": "Giảm sau khi Thua Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng <color=red>{1}%</color> sau mỗi lần Giao Tranh)</size>"
+    },
+    {
+      "id": "OnTakeAttackDamagePerWithMax",
+      "add": "<color=red>Tăng khi bị kẻ địch đánh trúng\n<size=95%>(Giá Trị gốc là {0}, tối đa nâng lên {1} mỗi Lượt)</size></color>",
+      "min": "<color=red>Giảm khi bị kẻ địch đánh trúng\n<size=95%>(Giá Trị gốc là {0}, tối đa nâng lên {1} mỗi Lượt)</size></color>"
+    },
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThan",
+      "add": "Khi SP trên {2}, tăng SP sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng {1}% sau mỗi lần Giao Tranh)</size>",
+      "min": "Khi SP trên {2}, giảm SP sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng {1}% sau mỗi lần Giao Tranh)</size>"
+    },
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThanWithEmphasis",
+      "add": "<color=red>Khi SP trên {2}, tăng SP sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng <color=red>{1}%</color> sau mỗi lần Giao Tranh)</size></color>",
+      "min": "<color=red>Khi SP trên {2}, giảm SP sau khi Thắng Giao Tranh dựa vào số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, nâng <color=red>{1}%</color> sau mỗi lần Giao Tranh)</size></color>"
+    },
+    {
+      "id": "OnOneSideAttackEnd",
+      "add": "Tăng {0} sau khi Tấn Công Một Chiều",
+      "min": "Giảm {0} sau khi Tấn Công Một Chiều"
+    },
+    {
+      "id": "OnSucceedAttackAsTargetHasIndexPrescriptTargetToPersonality",
+      "add": "Cuối Lượt: Nhận {0} SP nếu Mục Tiêu Của Sắc Lệnh bị đánh trúng",
+      "min": "Cuối Lượt: Mất {0} SP nếu Mục Tiêu Của Sắc Lệnh bị đánh trúng"
+    },
+    {
+      "id": "OnUseSkillMp",
+      "add": "Tăng {0} khi Dùng Kỹ Năng",
+      "min": "Giảm {0} khi Dùng Kỹ Năng"
+    },
+    {
+      "id": "OnEndAttackMp",
+      "add": "Tăng {0} khi Kết Đòn",
+      "min": "Giảm {0} khi Kết Đòn"
+    }
+  ]
+}

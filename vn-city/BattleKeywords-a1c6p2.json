@@ -1,0 +1,42 @@
+{
+  "dataList": [
+    {
+      "id": "AaCfPbBe",
+      "name": "Đánh Dấu Con Mồi",
+      "desc": "             <sprite name=\"AaCfPbBf\"><color=#e30000>   </color>        \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBf",
+      "name": "Phức Cảm Tự Ti",
+      "desc": "                    \n     ",
+      "summary": "Take ((20% of HP damage taken) * Value) damage",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBa",
+      "name": "Bùng Nổ Thờ Ơ",
+      "desc": "      \n     \n                 <sprite name=\"Sinking\"><color=#e30000> <</color>    <sprite name=\"AttackUp\"><color=#fac400>   </color>       ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBb",
+      "name": "Bùng Nổ Đố Kỵ",
+      "desc": "      \n     \n       <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"Laceration\"><color=#e30000> </color>    <sprite name=\"Laceration\"><color=#e30000> </color>        <sprite name=\"DefenseDown\"><color=#e30000>   </color>       ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBc",
+      "name": "Bùng Nổ Phẫn Nộ",
+      "desc": "      \n     \n       <sprite name=\"AttackUp\"><color=#fac400>   </color>   <sprite name=\"DefenseDown\"><color=#e30000>   </color>       ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBd",
+      "name": "Đau Thương Tột Cùng",
+      "desc": "         <sprite name=\"DefenseDown\"><color=#e30000>   </color>",
+      "undefined": "-"
+    }
+  ]
+}

@@ -1,0 +1,1474 @@
+{
+  "dataList": [
+    {
+      "id": 136401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đầu Ngọ Nguậy",
+          "desc": "Ưu tiên mục tiêu có HP thấp nhất\nNếu mục tiêu có [Paralysis], +50% sát thương gây ra\n<color=#ff6000><mark color=#ff000040><b><u>Nếu mục tiêu đang sử dụng Kỹ năng Phòng Thủ, -200% sát thương gây ra</color></mark></b></u>\nSức Mạnh Gốc +1 với mỗi [SelfCharge]\n[WhenUse] Mất 1 [SelfCharge]\n[DefeatDuel] Mất 1 [SelfCharge]\n[EndSkill] Nếu là Đòn Một Chiều, mất 1 [SelfCharge]\n- Nếu Kỹ Năng này tấn công mục tiêu đang sử dụng Kỹ Năng Phòng Thủ, mất thêm 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đuôi Ngọ Nguậy",
+          "desc": "Ưu tiên mục tiêu có HP thấp nhất\nNếu mục tiêu có [Paralysis], +50% sát thương gây ra\n<color=#ff6000><mark color=#ff000040><b><u>Nếu mục tiêu đang sử dụng Kỹ năng Phòng Thủ, -200% sát thương gây ra</color></mark></b></u>\nSức Mạnh Gốc +1 với mỗi [SelfCharge]\n[WhenUse] Mất 1 [SelfCharge]\n[DefeatDuel] Mất 1 [SelfCharge]\n[EndSkill] Nếu là Đòn Một Chiều, mất 1 [SelfCharge]\n- Nếu Kỹ Năng này tấn công mục tiêu đang sử dụng Kỹ Năng Phòng Thủ, mất thêm 1 [SelfCharge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 135509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Procuration: Annihilation - Mang of Immanent Yearning [本望]",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Ở mốc 0+ SP, tạo 1 Vọng</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>+20% sát thương gây ra, Sức Mạnh Tổng +3</u></b></mark></color>\n[EndSkill] Mất 15 SP\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 20 SP\n[EndSkill] Tiêu thụ toàn bộ [PressureOfPrescript] và kết thúc lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stomping",
+          "desc": "Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpider], gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stamp of Vengeance",
+          "desc": "Sức Mạnh Gốc +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 3)\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu\n[EndSkill] Tiêu thụ toàn bộ [ResentmentSpider] trên chủ thể và nhận 1 [DaughterEducationSpider]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpider], gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don't Let Somethin' Like This Break Ya!",
+          "desc": "[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây thêm 5 sát thương Đập khi Đánh Trúng bằng Xu Không Nứt\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gonna Unbox a Layer of Packaging!",
+          "desc": "[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây thêm 10 sát thương Đập Khi Đánh Trúng bằng Xu Không Vỡ\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu\n[EndSkill] [MiddleFatherSwordOne] chuyển thành [MiddleFatherSwordTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Đập"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stomping",
+          "desc": "Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây 1 [Laceration] Khi Xu Đánh Trúng\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu\n[DefeatDuel] Nhận 1 [ParryingResultUp] vào lượt kế (2 lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpider], gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138209,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stamp of Vengeance",
+          "desc": "Sức Mạnh Gốc +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 3)\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây 1 [Laceration] Khi Xu Đánh Trúng\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu\n[EndSkill] Tiêu thụ toàn bộ [ResentmentSpider] trên chủ thể và nhận 1 [DaughterEducationSpider]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpider], gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138210,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Are Ya Feelin' the Heat?!",
+          "desc": "[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây thêm 10 sát thương Đập Khi Đánh Trúng bằng Xu Không Vỡ\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu\n[BeforeAttack] Ở mốc 50%- HP, +40% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 15 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138212,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Looks Like I Gotta Unbox the Second Layer, too.",
+          "desc": "[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây thêm 10 sát thương Đập Khi Đánh Trúng bằng Xu Không Vỡ\n[EndSkill] [MiddleFatherSwordTwo] chuyển thành [MiddleFatherSwordThree]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138213,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stomping!",
+          "desc": "Nếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây 1 [Laceration] Khi Xu Đánh Trúng\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu\n[DefeatDuel] Nhận 1 [SkillPowerUp] vào lượt kế (2 lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpider], gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138215,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stamp of Complete and Total Extermination!",
+          "desc": "Sức Mạnh Gốc +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 3)\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây 1 [Laceration] Khi Xu Đánh Trúng\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu\n[EndSkill] Tiêu thụ toàn bộ [ResentmentSpider] trên chủ thể và nhận 1 [DaughterEducationSpider]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpider], gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138216,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time to Melt Away and Die",
+          "desc": "[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây thêm 10 sát thương Chém Khi Đánh Trúng bằng Xu Không Vỡ\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu\n[BeforeAttack] Ở mốc 50%- HP, +40% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 15 sát thương Chém"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138218,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lævateinn - Been a While Since I Had to Unbox the Whole Thing!",
+          "desc": "[WhenUse] Nếu chủ thể có [ReinforcedTattooSpider], gây thêm 10 sát thương Chém Khi Đánh Trúng bằng Xu Không Vỡ\n[EndSkill] [MiddleFatherSwordThree] chuyển thành [MiddleFatherSwordFour]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Chém"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Chém"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Chém"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 10 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138220,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gut Stab [Lævateinn]",
+          "desc": "[BeforeUse] Mất 10 SP\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu\n[BeforeAttack] Ở mốc 50%- HP, +40% sát thương gây ra\n[BeforeAttack] Nhận (Số Xu trong Kỹ năng này x 2) [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 10 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +4 Tầng [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time for Some Warm-up!",
+          "desc": "Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Gốc +2\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 3 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 3 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 3 sát thương Đập"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpiderDaughter], gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crossing Dervish!",
+          "desc": "Kỹ Năng Thermal Blade. \nKhi ở trạng thái [HeatingWireOnSpider], Kỹ Năng này kích hoạt hiệu ứng Thermal Blade\nNếu mục tiêu có 4+ [Laceration], Sức Mạnh Xu +1\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpiderDaughter], gây +1 Tầng [Laceration] Khi Xu Đánh Trúng\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây thêm 5 sát thương Đập"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpiderDaughter], gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hủy Diệt Thanh Âm, Nghiền Nát Suy Nghĩ",
+          "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\nNếu chủ thể có [BlackNightmare]:\n- Chuyển toàn bộ Xu thành [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Khi giao tranh với một Kỹ Năng không phải loại Đập</u></b></mark></color>, Sức Mạnh Xu +2 và +50% sát thương gây ra\n- Giao Tranh Thua Kỹ Năng dạng Đập:\n  - Sức Mạnh Xu -2 và -50% sát thương gây ra\n  - Kỹ Năng này không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n\nVũ khí loại Đập xuất hiện thường xuyên hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ khí loại Đập xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ khí loại Đập xuất hiện ít hơn nữa\nCác hiệu ứng sau đây kích hoạt dựa trên Loại Tấn Công của vũ khí\n- Vũ khí loại Đập +60% sát thương gây ra\n- Vũ khí không phải loại Đập -30% sát thương gây ra\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Nâng Ngưỡng Choáng của mục tiêu thêm 25\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này không kích hoạt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đâm Tâm Tĩnh Mịch, Xuyên Phần Ký Ức",
+          "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\nNếu chủ thể có [BlackNightmare]:\n- Chuyển toàn bộ Xu thành [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Khi giao tranh với một Kỹ Năng không phải dạng Đâm</u></b></mark></color>, Sức Mạnh Xu +2 và +50% sát thương gây ra\n- Giao Tranh Thua Kỹ Năng dạng Đâm:\n  - Sức Mạnh Xu -2 và -50% sát thương gây ra\n  - Kỹ Năng này không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n\nVũ khí loại Đâm xuất hiện thường xuyên hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ khí loại Đâm xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ khí loại Đâm xuất hiện ít hơn nữa\nCác hiệu ứng sau đây kích hoạt dựa trên Loại Tấn Công của vũ khí\n- Vũ khí loại Đâm +60% sát thương gây ra\n- Vũ khí không phải loại Đâm -30% sát thương gây ra\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Nhận 2 [AttackDmgUp] vào lượt kế\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này không kích hoạt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận +2 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Giữ Kín Tâm Tình, Chém Đứt Nhân Dạng",
+          "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\nNếu chủ thể có [BlackNightmare]:\n- Chuyển toàn bộ Xu thành [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Khi giao tranh với một Kỹ Năng không phải dạng Chém</u></b></mark></color>, Sức Mạnh Xu +2 và +50% sát thương gây ra\n- Giao Tranh Thua Kỹ Năng dạng Chém:\n  - Sức Mạnh Xu -2 và -50% sát thương gây ra\n  - Kỹ Năng này không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n\nVũ khí loại Chém xuất hiện thường xuyên hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ khí loại Chém xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ khí loại Chém xuất hiện ít hơn nữa\nCác hiệu ứng sau đây kích hoạt dựa trên Loại Tấn Công của vũ khí\n- Vũ khí loại Chém +60% sát thương gây ra\n- Vũ khí không phải loại Chém -30% sát thương gây ra\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Sức Mạnh Tổng +3\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này không kích hoạt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận +3 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Furioso-Replica",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse]\n- Nhận 3 [Breath] và +3 Tầng [Breath]\n- Sức Mạnh Giao Tranh +5 (<color=#ff6000><mark=#ff000040><b><u>Sức Mạnh Giao Tranh nhận được giảm 1 với mỗi 5 [KarmaOfIndexRien] trên chủ thể, tối thiểu là 0</u></b></mark></color>)\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng\n- Thêm 20% sát thương gây ra; Sức Mạnh Tổng +3\n\n[WinDuel]\n- Nhận 3 [Breath] và +3 Tầng [Breath]\n- Kết Thúc Đòn: Gây 3 [Laceration], 1 [Binding], và 1 [Vulnerable] lên mọi mục tiêu bị đánh trúng do kỹ năng này vào lượt kế\n[DefeatDuel]\n- Gây -80% tổng sát thương\n- Kỹ Năng này không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 20 SP\n[EndSkill] Cuối Lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tái sử dụng Xu này (tối đa 7 lần)</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Furioso [Crescendo]",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse]\n- Nhận 6 [Breath] và +6 Tầng [Breath]\n- Sức Mạnh Giao Tranh +10 (<color=#ff6000><mark=#ff000040><b><u>Sức Mạnh Giao Tranh nhận được giảm 1 với mỗi 5 [KarmaOfIndexRien_2Phase] trên chủ thể</u></b></mark></color>)\n[WhenUse] Ở mốc 0+ SP, tạo 2 Vọng\n- Thêm 40% sát thương gây ra; Sức Mạnh Tổng +5\n\n[WinDuel]\n- Kết Thúc Đòn: Gây 4 [Laceration], 2 [Binding], và 2 [Vulnerable] lên mọi mục tiêu bị đánh trúng do kỹ năng này vào lượt kế\n[DefeatDuel]\n- Gây -80% tổng sát thương\n- Kỹ Năng này không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 25 SP\n[EndSkill] Cuối Lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tái sử dụng Xu này (tối đa 7 lần)</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Furioso [Lacrimosa-Crescendo]",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[WhenUse]\n- Nhận 9 [Breath] và +9 Tầng [Breath]\n- Sức Mạnh Giao Tranh +15 (Sức Mạnh Giao Tranh nhận được giảm 1 với mỗi 5 [KarmaOfIndexRien_2Phase] trên chủ thể)\n[WhenUse] Ở mốc 0+ SP, tạo 3 Vọng\n- Thêm 60% sát thương gây ra; Sức Mạnh Tổng +8\n\n[WinDuel]\n- Kết Thúc Đòn: Gây 5 [Laceration], 3 [Binding], và 3 [Vulnerable] lên mọi mục tiêu bị đánh trúng do kỹ năng này vào lượt kế\n[DefeatDuel]\n- Gây -80% tổng sát thương\n- Kỹ Năng này không thể Choáng mục tiêu; Khi Đánh Trúng, không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 30 SP\n[EndSkill] Cuối Lượt này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tái sử dụng Xu này (tối đa 7 lần)</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Installation Art no. 3: Improvised Ribcage",
+          "desc": "[CantDuel] [CantChangeTarget]\nƯu tiên kẻ địch có cấp cao nhất\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu\n[WhenUse] Sức Mạnh Xu +1 với mỗi 8 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Xu này không gây sát thương HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi 15 SP cho bản thân"
+                },
+                {
+                  "desc": "[OnSucceedAttack]\n<color=#ff6000><mark=#ff000040><b><u>Choáng mục tiêu và biến mục tiêu thành [LivingSpecimenTheRings] vào lượt kế</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anatomize",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1\n[DefeatDuel] -80% tổng sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Protection] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gather Ingredient - Blood-bathed Objet",
+          "desc": "Ưu Tiên Corpus Theaters\n[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1\n[DefeatDuel] -80% tổng sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +1 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ResultReduction] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [ResultEnhancement] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tibia's Melody - Anatomization of the Unanatomized by the Anatomized",
+          "desc": "Trong lượt mà chủ thể được trang bị Kỹ Năng này, nhận 1 [PlusCoinValueDown] và 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>khi bị Kỹ năng Công Kích đánh trúng</u></b></mark></color> (một lần mỗi Kỹ Năng; tối đa 3 lần mỗi lượt)\n[BeforeUse] Không thể bị Choáng\n[TargetKill] Hồi 15 SP với mỗi mục tiêu\n[StartBattle] Nhận 4 [Protection]\n[WhenUse] +3% sát thương gây ra với mỗi 6 ([Laceration] trên mục tiêu chính + [Laceration] trên mục tiêu phụ) (tối đa 30%)\n[DefeatDuel] -80% tổng sát thương gây ra và không thể làm Choáng mục tiêu\n[EndSkill] [MineTheRings] hết hiệu lực",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi 5 SP (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Protection] vào lượt kế (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [AttackDmgDown] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [AttackDmgUp] vào lượt kế (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oh, How We Love the Flesh and the Blood",
+          "desc": "Ưu Tiên The Ring Apprentice - Albina\n[DefeatDuel] Nhận <color=#ff6000><mark=#ff000040><b><u>8 [AttackDmgDown]</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Xu này không gây sát thương HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "- Nếu mục tiêu là đồng minh, thì gán thay 6 [AttackUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Curating the Exhibition",
+          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Nhận 3 [SupportProtect]</u></b></mark></color>\n[WhenUse] Kẻ tấn công không bị mất Tầng [Laceration] cho đến khi Đòn Đánh Kết Thúc",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Please. Vandalism is Prohibited.",
+          "desc": "[DuelCounter]\nKỹ Năng [SupportProtect] đặc trưng\nKhông thể bị Choáng trước khi sử dụng Kỹ Năng này\n[WhenUse] Nhận 1 [Protection]\n[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Protection] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ResultReduction] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [ResultEnhancement] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 141704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time to Eat, Fascia",
+          "desc": "[DefeatDuel] -80% tổng sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 10 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi 10 SP cho bản thân"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [HumanFleshTheRings]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 141705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Liberation of the Repressed Flesh",
+          "desc": "Trong lượt mà chủ thể được trang bị Kỹ Năng này, nhận 1 [PlusCoinValueDown] và 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>khi bị Kỹ năng Công Kích đánh trúng</u></b></mark></color> (một lần mỗi Kỹ Năng; tối đa 3 lần mỗi lượt)\nKhông thể bị Choáng trước khi sử dụng Kỹ Năng này\n[TargetKill] Hồi 15 SP với mỗi mục tiêu\n[StartBattle] Nhận 4 [Protection]\n[WhenUse] +3% sát thương gây ra với mỗi 6 ([Laceration] trên mục tiêu chính + [Laceration] trên mục tiêu phụ) (tối đa 30%)\n[DefeatDuel] -80% tổng sát thương gây ra và không thể làm Choáng mục tiêu\n[EndSkill] [BoneBladeTheRings] hết hiệu lực",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 sát thương SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hồi 5 SP (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [Protection] vào lượt kế (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 1 [AttackDmgDown] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 1 [AttackDmgUp] vào lượt kế (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 141706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Exhibition Begins",
+          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u> Nhận 2 [SupportProtect]</u></b></mark></color>\n[StartBattle] Nhận 1 [Agility] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 137903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sezionatura di Coniglio",
+          "desc": "Ở mốc 6+ [Breath], Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Combustion] và +3 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 137908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Precognition",
+          "desc": "[OnSucceedEvade] Dùng \"Sezionatura di Coniglio\" dưới dạng Đòn Một Chiều lên kẻ tấn công (chỉ kích hoạt khi né toàn bộ Xu thành công)\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Sức Mạnh Gốc +1 với mỗi 3 Lớp [FutureEyeOn]</u></b></mark></color>\n[WhenUse] [FullReload] (một lần mỗi lượt)\n[OnSucceedEvade] Nhận 3 [Breath] (2 lần mỗi lượt)\n[OnDefeatEvade] Mất 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

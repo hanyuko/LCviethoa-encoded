@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1088,
+      "panicName": "Cảm Hứng Phai Nhạt",
+      "lowMoraleDescription": "- Nếu mục tiêu mà chủ thể tấn công có <sprite name=\"BearClawWound\"><sprite name=\"EagleClawWound\"><color=#e20000>Sắc Thái Man Rợ</color>, +10% sát thương gây ra \n- Nhận 1 [Vulnerable]",
+      "panicDescription": "- Nếu mục tiêu mà chủ thể tấn công có <sprite name=\"BearClawWound\"><sprite name=\"EagleClawWound\"><color=#e20000>Sắc Thái Man Rợ</color>, +20% sát thương gây ra \n- Nhận 2 [Vulnerable]"
+    },
+    {
+      "id": 1090,
+      "panicName": "Coloriage Impulsif",
+      "lowMoraleDescription": "- Gây +2.5% sát thương với mỗi <color=#ff0000>loại hiệu ứng bất lợi</color> trên mục tiêu mà chủ thể tấn công (tối đa 15%)\n- Nhận 1 [Vulnerable]",
+      "panicDescription": "- Gây +5% sát thương với mỗi <color=#ff0000>loại hiệu ứng bất lợi</color> trên mục tiêu mà chủ thể tấn công (tối đa 30%)\n- Nhận 2 [Vulnerable]"
+    }
+  ]
+}

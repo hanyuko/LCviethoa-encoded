@@ -1,0 +1,524 @@
+{
+  "dataList": [
+    {
+      "id": "mirror_dungeon_detect_theme_pack_button",
+      "content": "Tìm Gói"
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_list_popup_title_format",
+      "content": "Tìm Gói Chủ Đề cho Tầng {0}"
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_comfirm_modal_desc_format",
+      "content": "Gói '{0}' sẽ được thay thế thành '{1}'."
+    },
+    {
+      "id": "combineUI_enableStarlight",
+      "content": "Ước Nguyện"
+    },
+    {
+      "id": "combineUI_enableStarlight_confirm_desc",
+      "content": "Tiêu 5 Ánh Sao để tăng xác suất Dung Hợp?"
+    },
+    {
+      "id": "side_title_not_enough_starlight",
+      "content": "Không đủ Ánh Sao."
+    },
+    {
+      "id": "side_title_not_use_starlight",
+      "content": "Không thể tiêu Ánh Sao."
+    },
+    {
+      "id": "side_desc_is_fixed_combine_egogift",
+      "content": "Đây đã là công thức chắc chắn Dung Hợp E.G.O thành công."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_side_popup_already_in_pool",
+      "content": "Gói Chủ Đề này đã có thể chọn."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_1",
+      "content": "Phải mở khóa Gói Chủ Đề này trước."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_2_format",
+      "content": "Sẽ có thể chọn Gói Chủ Đề này khi hoàn thành Điều Kiện Mở Khóa sau: Hoàn Thành Chương {0}."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_side_popup_passed_pack",
+      "content": "Gói Chủ Đề này đã được chọn ở các Tầng trước đó."
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_not_enough_point",
+      "content": "Không đủ Ánh Sao để Tìm Gói Chủ Đề."
+    },
+    {
+      "id": "mirrordungeon_theme_hard_blocked_6",
+      "content": "Hoàn thành Canto 7 to Unlock."
+    },
+    {
+      "id": "mirrordungeon_theme_difficulty_button_no_hard_data",
+      "content": "Chế Độ Khó sẽ cập nhật sau."
+    },
+    {
+      "id": "on_click_mirrordungeon_theme_list_hard_button",
+      "content": "Sẽ cập nhật sau."
+    },
+    {
+      "id": "mirror_start_buff_unavailable_purchase",
+      "content": "Không đủ Ánh Sao."
+    },
+    {
+      "id": "mirror_start_buff_unavailable_purchase_modal_title",
+      "content": "Không Đủ Ánh Sao"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_left_cost",
+      "content": "Số Ánh Sao\nCòn Lại"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_desc_md6_toggle_on",
+      "content": "Chuyển hóa số Ánh Sao còn lại thành Cost\nsau khi mua Đặc Ân.\n\n※ \"Số Ánh Sao Đang Có\" sẽ không bị chuyển thành Cost."
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_desc_md6_toggle_off",
+      "content": "Toàn bộ số Ánh Sao chưa dùng sẽ được thêm vào phần thưởng vượt qua Hầm Ngục."
+    },
+    {
+      "id": "mirror_theme_list_pack_tag_not_selectable",
+      "content": "K.Thể Chọn"
+    },
+    {
+      "id": "mirror_theme_list_pack_tag_required_extra_point",
+      "content": "Phụ Phí"
+    },
+    {
+      "id": "side_desc_is_already_success_percent",
+      "content": "Dự Đoán Dung Hợp không thể vượt quá 100%."
+    },
+    {
+      "id": "side_desc_is_all_collect_egogift",
+      "content": "Tỷ Lệ Từ Khóa Ngẫu Nhiên."
+    },
+    {
+      "id": "mirrordungeon_infinity_open_condition_no_have_infinity_data",
+      "content": "Under Construction"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_6",
+      "content": "Mirror of Immortality - F{0}"
+    },
+    {
+      "id": "mirror_dungeon_available_starlight",
+      "content": "Khả Dụng"
+    },
+    {
+      "id": "mirrordungeon_starlight_personality_button_label",
+      "content": "Đơn Vị Duy Trì Ánh Sao"
+    },
+    {
+      "id": "mirrordungeon_starlight_personality_title",
+      "content": "Đơn Vị Duy Trì Ánh Sao"
+    },
+    {
+      "id": "mirrordungeon_starlight_personality_desc",
+      "content": "Phần Thưởng Ánh Sao của các đơn vị có tên tại đây sẽ không bị tiêu hao khi hoàn thành thám hiểm Hầm Ngục Gương trong một khoảng thời gian nhất định."
+    },
+    {
+      "id": "combine_egogift_not_allow",
+      "content": "K.Thể Chọn"
+    },
+    {
+      "id": "number_of_cleared_hard_floors",
+      "content": "Số Gói Chủ Đề Chế Độ Khó Đã Vượt Qua"
+    },
+    {
+      "id": "mirror_starlight_unlock_condition_lack_of_current_point",
+      "content": "Không Đủ Ánh Sao"
+    },
+    {
+      "id": "mirror_starlight_unlock_condition_needs_held_buff_points",
+      "content": "Khi Trên {0} Ánh Sao"
+    },
+    {
+      "id": "mirror_cleared_floor_count_over_6",
+      "content": "Số Tầng Hoàn Thành Trong Chế Độ Chồng Chập Song Song"
+    },
+    {
+      "id": "mirror_cleared_railway_theme_pack_count",
+      "content": "Số Gói Chủ Đề - Đoàn Tàu Khúc Xạ Đã Vượt Qua"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_title_md6",
+      "content": "Grace of the Immortal Star"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_card_enhancement",
+      "content": "Cường Hóa"
+    },
+    {
+      "id": "mirror_user_starlight_buff",
+      "content": "Đặc Ân Của Các Vì Sao"
+    },
+    {
+      "id": "mirror_unobservable_egogift_reason",
+      "content": "K.Thể Quan Sát"
+    },
+    {
+      "id": "mirror_unobservable_egogift_reason_is_owned",
+      "content": "Đã Sở Hữu"
+    },
+    {
+      "id": "mirror_start_buff_purchase_modal_check_box",
+      "content": "Chuyển hóa Ánh Sao thành Cost"
+    },
+    {
+      "id": "mirrordungeon_additional_reserved_starlight_from_startBuff",
+      "content": "Lượng Ánh Sao chưa dùng đã được thêm vào Phần Thưởng Hoàn Thành."
+    },
+    {
+      "id": "mirror_starlight_result_base_point",
+      "content": "Mặc Định"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus",
+      "content": "Thưởng Đội Hình"
+    },
+    {
+      "id": "mirror_starlight_result_battle_reward_card",
+      "content": "Thẻ Phần Thưởng"
+    },
+    {
+      "id": "mirror_starlight_result_consumed_points_on_start",
+      "content": "Lượng Ánh Sao Đã Dùng"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point",
+      "content": "Điểm Thám Hiểm"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier",
+      "content": "Hệ Số Thưởng Đội Hình"
+    },
+    {
+      "id": "mirror_starlight_result_consumed_during_dungeon_play",
+      "content": "Trong Lúc Thám Hiểm"
+    },
+    {
+      "id": "mirror_starlight_result_owned_before_enter_dungeon",
+      "content": "Quỹ Ánh Sao"
+    },
+    {
+      "id": "mirror_starlight_result_reward_point",
+      "content": "Thưởng"
+    },
+    {
+      "id": "mirror_starlight_result_total_owned_point_after_dungeon_play",
+      "content": "Tổng Ánh Sao"
+    },
+    {
+      "id": "mirror_starlight_result_tooltip_button",
+      "content": "Chi Tiết"
+    },
+    {
+      "id": "mirror_starlight_result_consumed_points_on_start_tooltip_title",
+      "content": "Số Ánh Sao Đã Tiêu Lúc Đầu"
+    },
+    {
+      "id": "mirror_starlight_result_consumed_points_on_start_tooltip_item_purchased",
+      "content": "Đặc Ân Của Các Vì Sao Đã Mua"
+    },
+    {
+      "id": "mirror_starlight_result_consumed_points_on_start_tooltip_item_converted_to_cost",
+      "content": "Chuyển hóa thành Cost"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point_tooltip_title",
+      "content": "Chi Tiết Điểm Thám Hiểm"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point_tooltip_item_cleared_floor",
+      "content": "Số Tầng Đã Hoàn Thành"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point_tooltip_item_hard_difficulty",
+      "content": "Chế Độ Khó"
+    },
+    {
+      "id": "mirror_starlight_result_dungeon_play_point_tooltip_item_railway_theme_pack",
+      "content": "Gói Chủ Đề - Đoàn Tàu Khúc Xạ"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_title",
+      "content": "Hệ Số Thưởng Ánh Sao của Đội Hình"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_desc",
+      "content": "※ Làm tròn xuống."
+    },
+    {
+      "id": "mirror_starlight_result_consumed_during_dungeon_play_tooltip_title",
+      "content": "Đã Tiêu Khi Thám Hiểm"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_detect_theme_pack",
+      "content": "Xem Trước Gói Chủ Đề"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_combine_ego_gift",
+      "content": "Ước Nguyện"
+    },
+    {
+      "id": "mirror_starlight_result_formation_total_consumed_point",
+      "content": "Tổng Chi Phí"
+    },
+    {
+      "id": "mirror_hard_recommended_level_popup_desctiption",
+      "content": "Cấp độ trung bình hiện tại của đội hình đang <color=#990000>thấp hơn</color> so với cấp độ khuyến nghị.\nXác nhận tiến vào?"
+    },
+    {
+      "id": "mirror_hard_recommended_level_popup_detail_desctiption",
+      "content": "Cấp Độ Trung Bình Hiện Tại: {0}\n<color=#f8c200>Cấp Độ Khuyến Nghị: {1}</color>"
+    },
+    {
+      "id": "mirror_observation_ego_gift_select_list",
+      "content": "Quà Tặng E.G.O Đã Chọn"
+    },
+    {
+      "id": "mirror_observation_ego_gift_title",
+      "content": "Tìm Kiếm Quà Tặng E.G.O"
+    },
+    {
+      "id": "mirror_observation_ego_gift_confirm",
+      "content": "Đã Chọn"
+    },
+    {
+      "id": "mirror_observation_have_starlight",
+      "content": "Đã Sở Hữu"
+    },
+    {
+      "id": "mirror_dungeon_ask_give_up_ego_gift_observation",
+      "content": "Bỏ qua Tìm Kiếm Quà Tặng E.G.O?"
+    },
+    {
+      "id": "mirror_dungeon_ask_confirm_ego_gift_observation",
+      "content": "Xác nhận tiêu hao {0} Ánh Sao để nhận Quà Tặng E.G.O?"
+    },
+    {
+      "id": "mirror_dungeon_observation_filter_reset",
+      "content": "Đặt Lại"
+    },
+    {
+      "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_detect_egogift",
+      "content": "Tìm Quà Tặng E.G.O"
+    },
+    {
+      "id": "mirror_observation_ego_gift_title_toggle",
+      "content": "Tìm Quà Tặng E.G.O"
+    },
+    {
+      "id": "mirror_observation_lack_starlight_title",
+      "content": "Không Thể Tìm Quà Tặng E.G.O"
+    },
+    {
+      "id": "mirror_observation_lack_starlight_desc",
+      "content": "Không có đủ Ánh Sao để Tìm Quà Tặng E.G.O."
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_selected_startBuff",
+      "content": "Đặc Ân Của Các Vì Sao Đã Chọn"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_not_selected_startBuff",
+      "content": "Chưa Chọn Đặc Ân Của Các Vì Sao"
+    },
+    {
+      "id": "InfinityFloor_Extreme_CheckEnter_Modal_Title",
+      "content": "Chồng Chập Song Song \n—Cực Hạn—"
+    },
+    {
+      "id": "InfinityFloor_Extreme_CheckEnter_Modal_Desc",
+      "content": "Bạn giờ đã có thể tiến vào Chế Độ Cực Hạn.\n\nKích hoạt Chế Độ Cực Hạn và đi tới tầng tiếp theo?"
+    },
+    {
+      "id": "mirror_constrain_buff",
+      "content": "Nghịch Cảnh"
+    },
+    {
+      "id": "mirror_constraint_button",
+      "content": "Thử Thách"
+    },
+    {
+      "id": "mirror_select_constraint_title",
+      "content": "Nghịch Cảnh"
+    },
+    {
+      "id": "mirror_select_constraint_slot_achievement",
+      "content": "Đã H.Thành"
+    },
+    {
+      "id": "mirror_select_constraint_slot_unachieved",
+      "content": "Chưa H.Thành"
+    },
+    {
+      "id": "mirror_select_constraint_slot_reward_title",
+      "content": "Thưởng Nghịch Cảnh"
+    },
+    {
+      "id": "mirror_hidden_stage_information_quit_button",
+      "content": "Bỏ Qua"
+    },
+    {
+      "id": "mirror_hidden_stage_information_enter_button",
+      "content": "Tiến Vào"
+    },
+    {
+      "id": "mirror_finished_panel_battle_pass_exp_label_name_format",
+      "content": "Vé Thông Hành Mùa {0} "
+    },
+    {
+      "id": "mirror_finished_panel_exp_reward_label",
+      "content": "Phần Thưởng"
+    },
+    {
+      "id": "mirror_finished_panel_mirror_pass_exp_reward_label_name_format",
+      "content": "Mirror of Immortality Projection"
+    },
+    {
+      "id": "mirror_finished_panel_constraint_bonus_starlight",
+      "content": "Thưởng Nghịch Cảnh"
+    },
+    {
+      "id": "mirror_finished_panel_constraint_bonus_starlight_tooltip_title",
+      "content": "Hệ Số Thưởng Nghịch Cảnh"
+    },
+    {
+      "id": "mirror_finished_panel_constraint_bonus_starlight_tooltip_desc",
+      "content": "Điểm Số Nghịch Cảnh"
+    },
+    {
+      "id": "mirror_dungeon_reward_popup_exp_limit",
+      "content": "Hạn Mức Phản Chiếu Hằng Tuần"
+    },
+    {
+      "id": "mirror_dungeon_reward_popup_mirror_pass_exp",
+      "content": "Tỷ Lệ Phản Chiếu"
+    },
+    {
+      "id": "mirror_finished_panel_mirror_pass_detail_default",
+      "content": "Mặc Định"
+    },
+    {
+      "id": "mirror_finished_panel_mirror_pass_detail_infinite",
+      "content": "Chồng Chập Song Song"
+    },
+    {
+      "id": "mirror_finished_panel_mirror_pass_detail_constraint_bonus",
+      "content": "Thưởng Nghịch Cảnh"
+    },
+    {
+      "id": "mirror_finished_panel_mirror_pass_detail_weekly_limit",
+      "content": "Đã Đạt Giới Hạn Hằng Tuần"
+    },
+    {
+      "id": "mirror_finished_panel_mirror_pass_detail_total",
+      "content": "Tổng"
+    },
+    {
+      "id": "mirror_finished_panel_mirror_pass_detail_weekly_limit_tag",
+      "content": "Giới Hạn Hằng Tuần"
+    },
+    {
+      "id": "mirror_finished_panel_constraint_section_title",
+      "content": "Nghịch Cảnh Đã Chọn"
+    },
+    {
+      "id": "mirror_finished_panel_enemy_buff_section_title",
+      "content": "Thử Thách Đã Chọn"
+    },
+    {
+      "id": "mirror_dungeon_select_constraint_accumulated_score",
+      "content": "Tổng Điểm Nghịch Cảnh"
+    },
+    {
+      "id": "mirror_dungeon_progress_popup_reward_preview_button",
+      "content": "Tiến Độ"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_preview_version_confirm_button",
+      "content": "Đóng"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_preview_version_title",
+      "content": "Đang Thám Hiểm"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_preview_version_last_sector_label",
+      "content": "Khu Vực Hiện Tại"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_preview_version_progress_percent_label",
+      "content": "Tiến Trình Hiện Tại"
+    },
+    {
+      "id": "mirror_dungeon_ask_after_defeat_return_title",
+      "content": "Trở Về Chọn Ải"
+    },
+    {
+      "id": "mirror_dungeon_ask_after_defeat_return_desc",
+      "content": "Quay về màn hình chọn Ải.\nCó thể điều chỉnh thứ tự Triển Khai trước khi vào lại Khu Vực này."
+    },
+    {
+      "id": "mirror_dungeon_ask_after_defeat_retry_title",
+      "content": "Thử Lại Ải Đấu"
+    },
+    {
+      "id": "mirror_dungeon_ask_after_defeat_retry_desc",
+      "content": "Thử lại Ải và bắt đầu từ đợt đầu tiên của Ải.\nThứ tự Triển Khai sẽ không bị thay đổi."
+    },
+    {
+      "id": "mirror_dungeon_ask_after_defeat_accept_title",
+      "content": "Chấp Nhận Kết Quả Và Trở Về Màn Hình Chọn Ải"
+    },
+    {
+      "id": "mirror_dungeon_ask_after_defeat_accept_desc",
+      "content": "Chấp nhận kết quả trận chiến hiện tại (kể cả những Tội Nhân đã chết), và trở về màn hình Chọn Ải."
+    },
+    {
+      "id": "mirror_dungeon_ask_after_defeat_current_floor",
+      "content": "Đang Thám Hiểm Tầng"
+    },
+    {
+      "id": "mirror_dungeon_ask_after_defeat_desc",
+      "content": "Tất cả Tội Nhân tham chiến đã chết."
+    },
+    {
+      "id": "mirror_dungeon_ask_after_defeat_remain_unit_desc",
+      "content": "Số Đơn Vị còn lại:"
+    },
+    {
+      "id": "mirror_dungeon_hidden_stage_title",
+      "content": "Vùng Không Gian Nghịch Chuyển - CẢNH BÁO SAI LỆCH NHẬN THỨC"
+    },
+    {
+      "id": "mirror_dungeon_hidden_stage_description",
+      "content": "Khi tiến vào sẽ không thể rời khỏi Màn Chơi cho đến khi vượt Ải Giao Chiến.\n\nVẫn tiếp tục tiến vào?\n※ Vượt qua Ải này sẽ hồi phục tối đa HP của đồng minh và hồi sinh tất cả đồng minh đã bị tiêu diệt."
+    },
+    {
+      "id": "mirror_dungeon_revive_after_hidden_boss_alarm",
+      "content": "Tất cả đồng minh đều đã được hồi phục hoàn toàn, và đồng minh đã bị tiêu diệt đều đã được hồi sinh"
+    },
+    {
+      "id": "mirror_finished_panel_floor_format",
+      "content": "Tầng {0}"
+    },
+    {
+      "id": "mirror_dungeon_auto_participate_order_adjustment_notice",
+      "content": "Thứ Tự Triển Khai đã được khôi phục từ việc hồi sinh đồng minh."
+    },
+    {
+      "id": "mirror_dungeon_option_participation_modification",
+      "content": "<size=85%>Tự Động Khôi Phục Thứ Tự Triển Khai trong H.Ngục Gương</size>"
+    }
+  ]
+}

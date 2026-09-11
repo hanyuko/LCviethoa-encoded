@@ -1,0 +1,650 @@
+{
+  "dataList": [
+    {
+      "id": 40000101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hồng Kích",
+          "desc": "[WhenUse] Sức Mạnh Giao Tranh +1 nếu mục tiêu có 5+ loại hiệu ứng bất lợi\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Hồng Kích Thế Thứ Hai - Phá (破)",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Giao Tranh +1\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hồng Kích Thế Thứ Ba - Cường (强)",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Giao Tranh +2\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hồng Kích Thế Thứ Ba - Thúc (束)",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Giao Tranh +2\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận 3 [Agility] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "CHồng Kích Thế Thứ Nam - Tiến (進)",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Giao Tranh +2\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận 3 [Agility] vào lượt kế (một lần mỗi lượt)\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst] và +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 1 [AttackUp] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Tái sử dụng Xu này (tối đa 2 lần)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chu Tước",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [AttackUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]. Nhận [Breath] bằng [Burst] trên mục tiêu (tối đa 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 3 [Breath] vào lượt kế. Nhận Tầng [Breath] bằng Tầng [Burst] trên mục tiêu vào lượt kế (tối đa 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Nhận 3 [AttackUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Chu Tước Thế Thứ Hai - Phá (破)",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ hiệu ứng bất lợi, Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [AttackUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]. Nhận [Breath] bằng [Burst] trên mục tiêu (tối đa 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nhận 3 [Breath] vào lượt kế. Nhận Tầng [Breath] bằng Tầng [Burst] trên mục tiêu vào lượt kế (tối đa 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Nhận 3 [AttackUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chu Tước Thế Thứ Ba - Viêm (炎)",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ hiệu ứng bất lợi, Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [AttackUp] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [Breath] bằng ([Burst] + [Combustion]) trên mục tiêu (tối đa 10)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận Tầng [Breath] bằng (Tầng [Burst] + Tầng [Combustion]) trên mục tiêu (tối đa 5)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Nhận 3 [AttackUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chu Tước Thế Thứ Tư - Khí (氣)",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ hiệu ứng bất lợi, Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [AttackUp] vào lượt kế"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [Breath] bằng ([Burst] + [Combustion]) trên mục tiêu (tối đa 10)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận Tầng [Breath] bằng (Tầng [Burst] + Tầng [Combustion]) trên mục tiêu (tối đa 5)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Nhận 3 [AttackUp] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Chu Tước Thế Thứ Nam - Dực (翼)",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ hiệu ứng bất lợi, Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 3 [Burst] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [DefenseDown]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [AttackUp] vào lượt kế"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận [Breath] bằng ([Burst] + [Combustion]) trên mục tiêu (tối đa 10)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận Tầng [Breath] bằng (Tầng [Burst] + Tầng [Combustion]) trên mục tiêu (tối đa 5)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Nhận 3 [AttackUp] vào lượt kế"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Sử dụng Crimson Cleave lên mục tiêu"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Sử dụng Crimson Cleave lên kẻ địch ngẫu nhiên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thích Xuân",
+          "desc": "[BeforeAttack] Nhận +1 Phạm Vi Tấn Công với mỗi 4 hiệu ứng bất lợi trên mục tiêu (tối đa 2)\n[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Gốc +5\n[WhenUse] Nếu mục tiêu có 15+ ([Burst] + Tầng [Burst]), Sức Mạnh Xu +5\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 7 [Laceration]"
+                },
+                {
+                  "desc": "+200% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận 2 [Breath] và +1 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Thích Xuân Thế Thứ Hai - Nhiệt (熱)",
+          "desc": "[BeforeAttack] Nhận +1 Phạm Vi Tấn Công với mỗi 3 hiệu ứng bất lợi trên mục tiêu (tối đa 2)\n[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Gốc +5\n[WhenUse] Sức Mạnh Xu +1 với mỗi 3 ([Burst] + Tầng [Burst] trên mục tiêu) (tối đa 5)\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 7 [Laceration]"
+                },
+                {
+                  "desc": "+200% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận 2 [Breath] và +1 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thích Xuân Thế Thứ Ba - Trảm (斬)",
+          "desc": "[BeforeAttack] Nhận +1 Phạm Vi Tấn Công với mỗi 3 hiệu ứng bất lợi trên mục tiêu (tối đa 2)\n[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Gốc +5\n[WhenUse] Sức Mạnh Xu +1 với mỗi 3 ([Burst] + Tầng [Burst] trên mục tiêu) (tối đa 5)\n[WinDuel] Gây +2 Tầng [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận 2 [Breath] và +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 7 [Laceration]"
+                },
+                {
+                  "desc": "+200% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận 2 [Breath] và +1 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thích Xuân Thế Thứ Tư - Duyên (巡)",
+          "desc": "[BeforeAttack] Nhận +1 Phạm Vi Tấn Công với mỗi 3 hiệu ứng bất lợi trên mục tiêu (tối đa 2)\n[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Gốc +5\n[WhenUse] Sức Mạnh Xu +1 với mỗi 3 ([Burst] + Tầng [Burst] trên mục tiêu) (tối đa 5)\n[WinDuel] Gây +2 Tầng [Burst]\n[WhenUse] Nhận 5 [Breath] và +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận 2 [Breath] và +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 7 [Laceration]"
+                },
+                {
+                  "desc": "+200% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận 2 [Breath] và +1 Tầng [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Thích Xuân Thế Thứ Nam - 花 (Hoa)",
+          "desc": "[BeforeAttack] Nhận +1 Phạm Vi Tấn Công với mỗi 3 hiệu ứng bất lợi trên mục tiêu (tối đa 2)\n[WhenUse] Nếu mục tiêu có 5+ hiệu ứng bất lợi, Sức Mạnh Gốc +5\n[WhenUse] Sức Mạnh Xu +1 với mỗi 3 ([Burst] + Tầng [Burst] trên mục tiêu) (tối đa 5)\n[WinDuel] Gây +2 Tầng [Burst]\n[WhenUse] Nhận 5 [Breath] và +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận 2 [Breath] và +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 7 [Laceration]"
+                },
+                {
+                  "desc": "+200% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nhận 2 [Breath] và +1 Tầng [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +10% sát thương gây ra với mỗi hiệu ứng bất lợi trên mục tiêu (tối đa 50%)"
+                },
+                {
+                  "desc": "+50% Sát Thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 3 [Agility] vào lượt kế (một lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tinh Thông Tị Thủ",
+          "desc": "[OnSucceedEvade] Nhận 1 [Breath] vào lượt kế. (3 lần mỗi Kỹ Năng)"
+        },
+        {
+          "level": 2,
+          "name": "Tinh Thông Tị Thủ",
+          "desc": "[OnSucceedEvade] Nhận 3 [Breath] vào lượt kế. (2 lần mỗi Kỹ Năng)"
+        },
+        {
+          "level": 3,
+          "name": "Tinh Thông Tị Thủ",
+          "desc": "[WhenUse] Sức Mạnh Gốc +2 với mỗi 2 hiệu ứng bất lợi trên mục tiêu (tối đa 10)\n[OnSucceedEvade] Nhận 3 [Breath] vào lượt kế. (2 lần mỗi Kỹ Năng)"
+        },
+        {
+          "level": 4,
+          "name": "Tinh Thông Tị Thủ - Phản Đòn Chuyển Hướng",
+          "desc": "[WhenUse] Sức Mạnh Gốc +2 với mỗi 2 hiệu ứng bất lợi trên mục tiêu (tối đa 10)\n[OnSucceedEvade] Nhận 3 [Breath] vào lượt kế. (2 lần mỗi Kỹ Năng)\n[OnSucceedEvade] Dùng Crimson Cleave (một lần mỗi lượt)"
+        }
+      ]
+    }
+  ]
+}

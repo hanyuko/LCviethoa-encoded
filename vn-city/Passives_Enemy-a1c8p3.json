@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": 9021701,
+      "name": "Esecuzione della Regola - Giai Đoạn Chuẩn Bị",
+      "desc": "Nếu chủ thể kích hoạt [VibrationExplosion] vào lượt trước, nhận 1 [Enhancement] và 1 [AttackDmgUp] vào lượt kế"
+    },
+    {
+      "id": 9021702,
+      "name": "Esecuzione della Regola - Dập Nát Hàm Dưới",
+      "desc": "+10% sát thương gây ra lên kẻ địch bị Choáng\nNếu có kẻ địch bị Choáng vào lượt trước: VVào lượt kế, gây 2 [Vibration] khi Đánh Trúng bằng Kỹ Năng sau khi Thắng Giao Tranh (2 lần mỗi lượt)"
+    },
+    {
+      "id": 9021703,
+      "name": "Regola Infranta",
+      "desc": "Nếu có 1+ đồng minh bị tiêu diệt, nhận 1 [ParryingResultUp] bắt đầu vào lượt kế"
+    },
+    {
+      "id": 9021301,
+      "name": "Cỏ Bốn Lá",
+      "desc": "Đầu Lượt: nhận 5 [Breath] và +2 Tầng [Breath]\nKhởi Chiến: Nếu đồng minh có [Breath] Đánh Trí Mạng lên kẻ địch bằng Kỹ Năng, gán 5 Lượng [Breath] và +2 Lượng [Breath] lên một đồng minh ngẫu nhiên vào lượt kế (một lần mỗi lượt)"
+    },
+    {
+      "id": 9021302,
+      "name": "Thịt Ngon",
+      "desc": "Khi có 50%- HP: Khi Đánh Trúng kẻ địch có [Laceration], hồi 1% HP với mỗi [Laceration] đang có trên mục tiêu (tối đa 10%; một lần mỗi Ải)"
+    }
+  ]
+}

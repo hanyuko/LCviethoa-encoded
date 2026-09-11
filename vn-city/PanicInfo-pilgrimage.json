@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1061,
+      "panicName": "Heart of Compassion",
+      "lowMoraleDescription": "- Thêm ([NervousImpairment] trên mục tiêu / 2)% sát thương gây ra (tối đa 15%)\n- Đầu Lượt: nhận 1 [AttackDmgUp] và 2 [Vulnerable]",
+      "panicDescription": "- Thêm ([NervousImpairment] trên mục tiêu)% sát thương gây ra (tối đa 30%)\n- Đầu Lượt: nhận 2 [AttackDmgUp] và 3 [Vulnerable]"
+    },
+    {
+      "id": 1062,
+      "panicName": "Call of the Bloodkin",
+      "lowMoraleDescription": "Cuối Lượt: tiêu thụ 3% HP để gán 1 [Enhancement] và 1 [Vulnerable] lên toàn bộ đồng minh",
+      "panicDescription": "Cuối Lượt: consume 5% HP and nhận 1 [Vulnerable] to gán 1 [Enhancement] và 1 [Vulnerable] lên toàn bộ đồng minh"
+    },
+    {
+      "id": 1064,
+      "panicName": "Hive Mind",
+      "lowMoraleDescription": "All Resistances change to 'Normal'",
+      "panicDescription": "All Resistances change to 'Normal'\nDouble the amount of [Combustion], [Laceration], [Vibration], and Lượng [Burst] gained due to Skill effects"
+    }
+  ]
+}

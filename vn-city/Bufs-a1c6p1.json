@@ -1,0 +1,53 @@
+{
+  "dataList": [
+    {
+      "id": "CleanUp_LowMorale",
+      "name": "Cưỡng Chế Có Kỷ Luật",
+      "desc": "  \n          <sprite name=\"Agility\"><color=#fac400> </color>          ",
+      "summary": "Mất 5 SP khi Thua Giao Tranh. Nhận 1 <sprite name=\"Agility\"><color=#fac400>Tăng Tốc</color> vào lượt kế khi bị đánh trúng",
+      "undefined": "-"
+    },
+    {
+      "id": "CleanUp_Panic",
+      "name": "Cưỡng Chế Có Kỷ Luật",
+      "desc": "  \n   <sprite name=\"Vulnerable\"><color=#e30000> </color>   <sprite name=\"Agility\"><color=#fac400> </color>          ",
+      "summary": "Nhận 3 <sprite name=\"Vulnerable\"><color=#e30000>Suy Yếu</color>. Nhận 1 <sprite name=\"Agility\"><color=#fac400>Tăng Tốc</color> next turn when hit",
+      "undefined": "-"
+    },
+    {
+      "id": "Acclamation_LowMorale",
+      "name": "Tiếng Vọng Của Trang Viên",
+      "desc": "  \n                   ",
+      "summary": "Sức Mạnh Giao Tranh -1. +10% sát thương gây ra khi Đánh Trúng - Xu Ngửa",
+      "undefined": "-"
+    },
+    {
+      "id": "Acclamation_Panic",
+      "name": "Tiếng Vọng Của Trang Viên",
+      "desc": "  \n           <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>",
+      "summary": "Sức Mạnh Giao Tranh -2. Nhận 1 <sprite name=\"AttackDmgUp\"><color=#fac400>Tăng Sát Thương</color>",
+      "undefined": "-"
+    },
+    {
+      "id": "Unstable_LowMorale",
+      "name": "Nhức Óc",
+      "desc": "  \n            <sprite name=\"AttackUp\"><color=#fac400>   </color>   ",
+      "summary": "Mất 2 HP với mỗi Giao Tranh",
+      "undefined": "-"
+    },
+    {
+      "id": "Unstable_Panic",
+      "name": "Nhức Óc",
+      "desc": "  \n            <sprite name=\"AttackUp\"><color=#fac400>   </color>   ",
+      "summary": "Mất 3 HP với mỗi Giao Tranh",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPaBa",
+      "name": "Đau Thương",
+      "desc": "    ≥    \n          <sprite name=\"AttackUp\"><color=#fac400>   </color>       \n        <sprite name=\"Enhancement\"><color=#fac400>    </color>",
+      "summary": "Khi bị đánh trúng, mất SP và nhận 1 <sprite name=\"AttackUp\"><color=#fac400>Tăng Cấp Công Kích</color> vào lượt kế.\nĐầu Lượt: nếu SP dưới 0, nhận 3 <sprite name=\"Enhancement\"><color=#fac400>Tăng Sức Mạnh Tấn Công</color>.",
+      "undefined": "-"
+    }
+  ]
+}

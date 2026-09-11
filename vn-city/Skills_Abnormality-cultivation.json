@@ -1,0 +1,954 @@
+{
+  "dataList": [
+    {
+      "id": 124701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ironsteed Trample",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ ([Burst] + [Vibration]), Sức Mạnh Gốc +3\n[DefeatDuel] Giảm 2 Lượng [Vibration] của mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rupturing Trample",
+          "desc": "[WhenUse] Sức Mạnh Gốc +2 với mỗi 4 ([Burst] + [Vibration]) trên mục tiêu (tối đa 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Line-Crushing Cavalry Charge",
+          "desc": "[WhenUse] Nếu mục tiêu có 6+ ([Burst] + [Vibration]), Sức Mạnh Gốc +2\n[WhenUse] Ở mốc -30 SP hoặc thấp hơn, luôn ra Xu Sấp\n[DefeatDuel] Giảm 2 Lượng [Vibration] của mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 8 [Burst] và +5 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trample and Decapitate",
+          "desc": "[WhenUse] Sức Mạnh Gốc +2 với mỗi 4 ([Burst] + [Vibration]) trên mục tiêu (tối đa 4)\n- Ở mốc 15+ ([Burst] + [Vibration]) trên mục tiêu, Sức Mạnh XU Âm +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Filthy snakes... I'll crush you all...",
+          "desc": "[WhenUse] Sức Mạnh Gốc +2 với mỗi 4 ([Burst] + [Vibration]) trên mục tiêu chính (tối đa 4)\n[DefeatDuel] Sức Mạnh Gốc -8\n[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây [SweptAwayWei] lên mục tiêu phụ vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swiftsteed Linebreaker",
+          "desc": "[WhenUse] Sức Mạnh Gốc +2 với mỗi 4 ([Burst] + [Vibration]) trên mục tiêu chính (tối đa 6)\n[DefeatDuel] Sức Mạnh Gốc -5\n[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu là mục tiêu chính, gây +5 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Vibration] lên 1 mục tiêu phụ"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây [SweptAwayWei] lên mục tiêu phụ vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Shall Not Pass...!",
+          "desc": "Ưu tiên mục tiêu có Lượng [Vibration] thấp nhất\n[WhenUse] Nếu mục tiêu không có [Vibration], Sức Mạnh Gốc -5\n[BeforeAttack] Nếu mục tiêu không có [Vibration], -90% sát thương gây ra\n[DefeatDuel] Sức Mạnh Gốc -4\n[DefeatDuel] Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mad Steed's Voidrender",
+          "desc": "+1% sát thương gây ra với mỗi 1% HP đã mất trên chủ thể (tối đa 80%)\n[BeforeAttack] Ở mốc 50% HP hoặc thấp hơn, nhận +2 more Phạm Vi Tấn Công\n[BeforeAttack] Nếu chủ thế không có [LegStrengthHorse], Kỹ Năng này +120% sát thương gây ra; then, nhận 2 [Vulnerable] vào lượt kế\n[DefeatDuel] Sức Mạnh Gốc -12\n[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 [Burst] và +5 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 5 [Vibration] và +5 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frontal Swirl (前旋斬)",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận 1 [SipOfAlcoholJin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Way of the Open-throat Chugging (咽道酒)",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Nhận 1 [SipOfAlcoholJin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 5+ [Laceration], gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waterfall (落酒)",
+          "desc": "[WhenUse] Nếu mục tiêu có 5+ [Laceration], Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Gốc +1 với mỗi Tầng [DrunkBlood] trên mục tiêu (tối đa 2)\n[WinDuel] Nhận 1 [SipOfAlcoholJin]\n[DefeatDuel] Mất 2 [SipOfAlcoholJin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunklaim (取)",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Sức Mạnh Gốc +1 với mỗi [DrunkBlood] trên mục tiêu (tối đa 2)\n[WhenUse] Ở mốc 3+ [SipOfAlcoholJin], chuyển toàn bộ Xu thành [SuperCoin]\n[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+1% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có 3+ [SipOfAlcoholJin], tái sử dụng Kỹ Năng này một lần (một lần mỗi Kỹ Năng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "True Decapitation Deathblow (眞鎭終斬)",
+          "desc": "[WhenUse] Sức Mạnh Xu +5 với mỗi 6 [Laceration] trên mục tiêu (tối đa 10)\n[WhenUse] Nếu mục tiêu có [DrunkBlood], chuyển toàn bộ Xu thành [SuperCoin]\n[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+1% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 100%)"
+                },
+                {
+                  "desc": "+10% sát thương gây ra với mỗi [DrunkBlood] trên mục tiêu (tối đa 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 2 [SipOfAlcoholJin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây ([DrunkBlood] trên mục tiêu x 5) sát thương Dục Vọng (tối đa 25)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Intoxicated Leaning (醉靠)",
+          "desc": "[WhenUse] Nhận 10 Khiên với mỗi [SipOfAlcoholJin] trên chủ thể (tối đa 50)\n[WhenUse] Nếu mục tiêu có [DrunkBlood], gây 5 [Laceration]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunken Returning Strike (醉回攻)",
+          "desc": "[DuelCounter]\n[WhenUse] +20% sát thương gây ra với mỗi [SipOfAlcoholJin] trên chủ thể (tối đa 100%)\n[WhenUse] Nếu mục tiêu có [DrunkBlood], +50% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [SlashResistDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây ([DrunkBlood] trên mục tiêu x 5) sát thương Dục Vọng (tối đa 25)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ultimate True Decapitation Deathblow (眞-眞鎭終斬)",
+          "desc": "Prioritizes Jia Xichun\n[CantChangeTarget]\n[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu, Sức Mạnh Xu +1\n[WhenUse] Nhận 1 [AttackUp] và 1 [Agility] vào lượt kế với mỗi [SipOfAlcoholJin] trên chủ thể (tối đa 3)\n[WinDuel] Nhận +7 Phạm Vi Tấn Công",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+1% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 100%)"
+                },
+                {
+                  "desc": "+10% sát thương gây ra với mỗi [DrunkBlood] trên mục tiêu (tối đa 50%)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 10 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây ([DrunkBlood] trên mục tiêu x 10) sát thương Dục Vọng (tối đa 50)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127209,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunken Decapitation Bladefall (落醉斬)",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 5 [Breath] trên chủ thể (tối đa 2)\n[WhenUse] Nếu Tốc Độ của chủ thể cao hơn mục tiêu, Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ultimate True Decapitation Deathblow (眞-眞鎭終斬) +20% sát thương gây ra"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Tái sử dụng Xu này (tối đa 5 lần)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127210,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunken Shadowwalking (醉影步)",
+          "desc": "[WhenUse] Sức Mạnh Gốc +6 với mỗi 2 surviving ally (tối đa 12)\n[OnSucceedEvade] Nhận 3 [Breath]\n[EndBattle] Nhận +2 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "True Decapitation Deathblow",
+          "desc": "[StartBattle] HP không thể hạ dưới 1 trước khi Kỹ năng này kết thúc.\n[WhenUse] Nhận 10 [AttackUp]\n[WhenUse] Nhận 5 [Enhancement]\n[WhenUse] Nhận 10 [AttackDmgUp]\n[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+1% sát thương gây ra với mỗi ([Laceration] + Tầng [Laceration]) trên mục tiêu (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận 5 [SipOfAlcohol]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Downward Slam",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stick Combo",
+          "desc": "[WinDuel] +30% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Powerful Swing",
+          "desc": "[WinDuel] Nhận 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Growth",
+          "desc": "[DefeatDuel] -80% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +2 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +3 Tầng [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] +20% sát thương gây ra"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] +50% sát thương gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Vilerage",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Burst] trên mục tiêu (tối đa 4)\n[DefeatDuel] -50% sát thương gây ra và không thể làm Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gỡ toàn bộ [OminousTalisman] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oh, damn...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "What is this foolish pretend-fight?",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ hiệu ứng bất lợi, Sức Mạnh Gốc +1\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Burst] trên mục tiêu (tối đa 2)\n[DefeatDuel] Nhận 1 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Burst]"
+                },
+                {
+                  "desc": "Gây 5 sát thương SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Burst]"
+                },
+                {
+                  "desc": "Gây 5 sát thương SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115709,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "What's this Child's Play?",
+          "desc": "[WhenUse] Hồi 15 SP\n[WhenUse] Nếu mục tiêu có 3+ hiệu ứng bất lợi, Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

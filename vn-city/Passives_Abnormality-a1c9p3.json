@@ -1,0 +1,563 @@
+{
+  "dataList": [
+    {
+      "id": 133303,
+      "name": "Trinh Nữ Sắt - Khử Rung Tim",
+      "desc": "Khi bị Choáng, hồi phục khỏi Choáng và kết thúc lượt này (Một lẫn mỗi Ải)"
+    },
+    {
+      "id": 133101,
+      "name": "Toàn Bộ Thể Xác Của Ta Đều Đã Dâng Hiến Hết Cho Tibia",
+      "desc": "-30% sát thương HP, SP phải nhận từ [Combustion], [Burst], và [Sinking]; -30% hiệu lực nâng Ngưỡng Choáng từ [Vibration]\n-50% sát thương phải nhận từ [Laceration]\n\nĐầu Lượt: Nếu chủ thể bị Choáng, hồi phục khỏi Choáng. Sau đó, nhận 2 [CrimsonTakeDamageUp] và không thể dùng \"Nghệ Thuật Sắp Đặt số 3: Lồng Ngực Chắp Vá\" cho tới lượt kế (một lần mỗi Ải)\n\nCuối Lượt: Nhận 1 [DefenseDown] vào lượt kế với mỗi 4 [Combustion] trên chủ thể (tối đa 15)"
+    },
+    {
+      "id": 133102,
+      "name": "Nghệ Thuật Lấy Thể Xác Làm Trọng Tâm",
+      "desc": "Khi chủ thể bước vào Ải, hồi 30 SP\n\nĐánh Trúng bằng Kỹ Năng Tấn Công: Nếu chủ thể gây hiệu ứng bất lợi và đồng thời nhận hiệu ứng có lợi, hồi 4 SP khi Kết Đòn\n- Nếu chủ thể đạt SP tối đa khi hồi SP bằng hiệu ứng trên, nhận 1 [ResultEnhancement] vào lượt kế (một lần mỗi lượt)",
+      "flavor": "                                                "
+    },
+    {
+      "id": 133103,
+      "name": "Mỹ Học Của Việc Thu Hoạch Và Cắt Tỉa Chất Liệu Tại Chỗ",
+      "desc": "Sau khi sử dụng một Kỹ Năng, nhận 30 [HumanBoneTheRings] và 1 [HumanBloodTheRings] với mỗi mục tiêu bị Kỹ Năng của chủ thể gây sát thương"
+    },
+    {
+      "id": 133104,
+      "name": "Đại Kiệt Tác: Tibia",
+      "desc": "Cuối Lượt: Khi có 206 [HumanBoneTheRings] và 5 [HumanBloodTheRings], giảm Lớp của mỗi hiệu ứng bằng với số lượng đó và nhận 1 [MineTheRings]\n\nĐầu Lượt: Nếu chủ thể có [MineTheRings], sử dụng một đòn đánh mạnh mẽ vào lượt này\n\n<color=#ff6000><mark=#ff000040><b><u>Nếu chủ thể bị đánh bằng một Kỹ Năng Tấn Công trước khi sử dụng đòn đánh mạnh mẽ, nhận 1 [PlusCoinValueDown] và 1 [ResultReduction]</u></b></mark></color> (một lần mỗi Kỹ Năng; tối đa 3 lần mỗi lượt)",
+      "flavor": "                           –   "
+    },
+    {
+      "id": 133105,
+      "name": "Tác Phẩm Thỏa Mãn Mọi Giác Quan",
+      "desc": "Khi [MineTheRings] mất hiệu lực, các đơn vị sau hồi 30 SP, đồng thời nhận 2 [AttackUp] và 2 [DefenseUp] vào lượt kế:\n- Cha Đỡ Đầu Ngón Nhẫn - Callisto\n- Ngón Nhẫn Tập Sự - Albina\n- Thể Xác Quan Diễn[TabExplain]"
+    },
+    {
+      "id": 133106,
+      "name": "Cho Phép Ta Nán Lại Thưởng Thức Buổi Triển Lãm của Học Trò Mình",
+      "desc": "Nếu chủ thể có [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>mất 1 [SupportProtect] khi Bắt Đầu Giao Tranh</u></b></mark></color> (một lần mỗi Kỹ Năng)"
+    },
+    {
+      "id": 133107,
+      "name": "Vượt Qua Thể Xác",
+      "desc": "Khi HP < 50%, hồi phục khỏi Choáng và kết thúc lượt này\n- Sau khi hiệu ứng này được kích hoạt, vào đầu lượt kế, trang bị 'Hạ Màn - Nghệ Thuật Sắp Đặt số 1: Thịt và Xương Của Ngươi Làm Ghế Cho Khán Phòng' lên Ô Kỹ Năng cuối cùng của chủ thể này"
+    },
+    {
+      "id": 133109,
+      "name": "Xin Đừng Làm Nhiễu Loạn và Hãy Yên Vị",
+      "desc": "Cuối Lượt: Gây [RedemptionTheRings] lên Tội Nhân và Đơn Vị Hỗ Trợ có Tốc Độ cao nhất"
+    },
+    {
+      "id": 133201,
+      "name": "Giam Hãm",
+      "desc": "Áp dụng các hiệu ứng sau lên đơn vị bị ghim bởi Sân Khấu Thể Xác:\n- Trở nên 'bất động'\n- Không thể thay đổi hiệu ứng có lợi, HP, và SP của đơn vị này"
+    },
+    {
+      "id": 133202,
+      "name": "Thu Hoạch Chất Liệu",
+      "desc": "Nếu Sân Khấu Thể Xác bị Cha Đỡ Đầu Ngón Nhẫn phá hủy, đơn vị bị ghim sẽ bị vô hiệu hóa tới hết Ải"
+    },
+    {
+      "id": 133203,
+      "name": "Trốn Thoát Khỏi Nghệ Thuật",
+      "desc": "Nếu Sân Khấu Thể Xác bị các đơn vị khác ngoài Cha Đỡ Đầu Ngón Nhẫn phá hủy, kích hoạt các hiệu ứng sau:\n- Đơn vị bị ghim sẽ quay lại trận chiến vào lượt kế; nếu đơn vị có ít hơn 10 SP, hồi SP lên 10.\n- Cha Đỡ Đầu Ngón Nhẫn và Ngón Nhẫn Tập Sự giảm 10 SP\n- Nhận 2 Tài Nguyên E.G.O cho tất cả Nguyên Tội"
+    },
+    {
+      "id": 133204,
+      "name": "Vật Liệu Dễ Cháy",
+      "desc": "Nhận x2 sát thương từ [Combustion]"
+    },
+    {
+      "id": 133601,
+      "name": "Nhịp Đập và Xung Mạch Của Thể Xác Hóa Chất Liệu",
+      "desc": "-30% sát thương HP, SP phải nhận từ [Combustion], [Vibration], [Burst], và [Sinking]; -50% hiệu lực nâng Ngưỡng Choáng từ [Vibration]\n-50% sát thương nhận từ [Laceration]\n\nCuối Lượt: Nhận 1 [DefenseDown] vào lượt kế với mỗi 4 [Combustion] trên chủ thể (tối đa 15)",
+      "flavor": "           \n                \n                 "
+    },
+    {
+      "id": 133602,
+      "name": "Trường Phái Thể Xác",
+      "desc": "Khi Đánh Trúng bằng Kỹ Năng Tấn Công: Nếu chủ thể gây hiệu ứng bất lợi và đồng thời nhận hiệu ứng có lợi, hồi 4 SP\n- Nếu chủ thể đạt SP tối đa khi hồi SP bằng hiệu ứng trên, nhận 1 [Agility] vào lượt kế (2 lần mỗi lượt)"
+    },
+    {
+      "id": 133603,
+      "name": "Fascia, Tác Phẩm Quý Giá Của Tớ",
+      "desc": "Cuối Lượt: Ở mốc 2 [HumanFleshTheRings], xóa [HumanFleshTheRings] và nhận [BoneBladeTheRings] vào lượt kế\n\nĐầu Lượt: Nếu chủ thể có [BoneBladeTheRings], sử dụng một đòn tấn công mạnh mẽ lượt này\n\n<color=#ff6000><mark=#ff000040><b><u>Khi bị một Kỹ Năng Tấn Công đánh trúng trước khi sử dụng đòn tấn công mạnh mẽ, nhận 1 [PlusCoinValueDown] và 1 [ResultReduction]</u></b></mark></color> (một lần mỗi Kỹ Năng; tối đa 3 lần mỗi lượt)"
+    },
+    {
+      "id": 133604,
+      "name": "Khách Tham Quan Vui Lòng Tuân Thủ Quy Định của Phòng Trưng Bày",
+      "desc": "Nếu chủ thể có [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>mất 1 [SupportProtect] khi Bắt Đầu Giao Tranh</u></b></mark></color> (một lần mỗi Kỹ Năng)"
+    },
+    {
+      "id": 133606,
+      "name": "Với Tác Phẩm Này, Mình Sẽ Chứng Minh Bản Thân Với Ngài Maestro",
+      "desc": "Khi Cha Đỡ Đầu Ngón Nhẫn bước vào Ải và chủ thể có ít hơn 20 SP, hồi lên 20 SP"
+    },
+    {
+      "id": 132701,
+      "name": "Vengeance Tattoos [<s>Great Brother</s>]",
+      "desc": "-30% sát thương phải nhận từ [Combustion], [Laceration], [Vibration], và [Burst] (làm tròn xuống)\n-50% hiệu lực nâng Ngưỡng Choáng (làm tròn xuống)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132702,
+      "name": "Quyển Sách Báo Thù",
+      "desc": "Đầu Ải: Gây [VengeanceBookSpider] lên toàn bộ Tội Nhân và đơn vị LCD\n\nNếu chủ thể bị 3+ Kỹ Năng đánh trúng vào lượt này, nhận 1 [ReinforcedTattooSpider] vào lượt kế cho mỗi Kỹ Năng vượt quá số đó",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132703,
+      "name": "Dạy Dỗ Con Gái Ta",
+      "desc": "Khi Thắng Giao Tranh, nhận 1 [DaughterEducationSpider]\n\nKhi Đánh Trúng bằng một Kỹ Năng, nhận 1 [DaughterEducationSpider] (một lần mỗi Kỹ Năng; hiệu ứng này không kích hoạt cho Xu Đã Vỡ)\n\nKhi Thắng Giao Tranh bằng Kỹ Năng được dùng đầu tiên trong lượt, nhận thêm 1 [DaughterEducationSpider] và Kỹ Năng đó nhận Sức Mạnh Xu +1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132704,
+      "name": "Oán Hận",
+      "desc": "Khi bị 2 Kỹ Năng đánh trúng, nhận 1 [ResentmentSpider] và mất 1 [DaughterEducationSpider] (số lần nhận đòn sẽ được theo dõi)\n\nKhi có tối đa Lớp [ResentmentSpider], dùng một đòn đánh mạnh mẽ\n\nCuối Lượt: Khi HP < 80% / 60% / 40% HP, chủ thể nhận tối đa Lớp [ResentmentSpider]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132706,
+      "name": "???",
+      "desc": "???",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 134101,
+      "name": "Hình Xăm Phục Hận Uy Lực Tối Đa... Gỡ Phong Ấn Lævateinn!",
+      "desc": "Khi [MiddleFatherSwordFour] được gỡ toàn bộ phong ấn, chủ thể nhận [MiddleFatherGuts]\n\nNhắm vào đơn vị có [MosesRedBreathCharge]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132801,
+      "name": "Con làm chuẩn không, Papa?!",
+      "desc": "Bắt đầu Ải với [HeatingWireOffSpider]\n\nĐầu Lượt: Khi có 3+ [GotACompliment], nhận [HeatingWireOnSpider] trong lượt đó và đồng thời gây thêm [Combustion] bằng Kỹ Năng gây [Laceration]\n\nCuối Lượt: Khi có ít hơn 3 [GotACompliment], chuyển [HeatingWireOnSpider] của chủ thể thành [HeatingWireOffSpider]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "             "
+    },
+    {
+      "id": 132802,
+      "name": "Hình Xăm Kiểu Băng Ngón Giữa",
+      "desc": "Nếu chủ thể bị 2+ Kỹ Năng đánh trúng, nhận 1 [ReinforcedTattooSpiderDaughter] vào lượt kế cho mỗi Kỹ Năng vượt quá số đó",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "                       "
+    },
+    {
+      "id": 132803,
+      "name": "Hưng Phấn như Diều Gặp Gió, cảm ơn lời khen của Papa!",
+      "desc": "Khi Thắng Giao Tranh, nhận 1 [GotACompliment]\n\nKhi Đánh Trúng bằng một Kỹ Năng, nhận 1 [GotACompliment] (một lần mỗi Kỹ Năng; hiệu ứng này không kích hoạt cho Xu Đã Vỡ)\n\nKhi Thắng Giao Tranh bằng Kỹ Năng được dùng đầu tiên trong lượt, nhận thêm 1 [GotACompliment] và Kỹ Năng đó nhận Sức Mạnh Xu +1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132804,
+      "name": "Đây khá chắc Băng Ngón Giữa không bao giờ quên",
+      "desc": "Khi bị 2 Kỹ Năng đánh trúng, nhận 1 [ResentmentSpiderDaughter] và mất 1 [GotACompliment] (số lần nhận đòn sẽ được theo dõi)\n\nKhi có tối đa Lớp [ResentmentSpiderDaughter], dùng một đòn đánh mạnh mẽ\n\nCuối Lượt: Khi HP < 80%/60%/40% HP, chủ thể nhận tối đa Lớp [ResentmentSpiderDaughter]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 134201,
+      "name": "Con làm chuẩn không, Papa?!",
+      "desc": "Bắt đầu Ải với [HeatingWireOffSpider]\n\nĐầu Lượt: Khi có 3+ [GotACompliment], nhận [HeatingWireOnSpider] trong lượt đó và đồng thời gây thêm [Combustion] bằng Kỹ Năng gây [Laceration]\n\nCuối Lượt: Khi có ít hơn 3 [GotACompliment], chuyển [HeatingWireOnSpider] của chủ thể thành [HeatingWireOffSpider]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 134202,
+      "name": "Oa, đòn đó nhìn nguy hiểm vãi chấy!",
+      "desc": "Nếu Cha Đỡ Đầu Ngón Giữa có [MiddleFatherSwordFour], không chuyển về [HeatingWireOffSpider] \n\n Nhắm vào đơn vị có [MosesRedBreathCharge]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "              \n               <b></b> "
+    },
+    {
+      "id": 132601,
+      "name": "Trận Chiến Ác Liệt",
+      "desc": "Bắt đầu trận chiến với 80% HP\nVào 3 lượt Đầu Ải, nhận 2 [ResultReduction]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "                  \n      "
+    },
+    {
+      "id": 132602,
+      "name": "Thế Vỡ Vụn",
+      "desc": "Nhận các hiệu ứng sau dựa vào số Lớp [DuelEdge] trên mục tiêu\n- Với mỗi Lớp, +10% sát thương gây ra và -10% sát thương phải nhận với mục tiêu có [DuelEdge]\n- Khi có +3 Lớp, trong một Giao Tranh với mục tiêu có [DuelEdge], nhận Sức Mạnh Giao Tranh +1\n- Khi có 5+ Lớp, trong một Giao Tranh với mục tiêu có [DuelEdge], nhận Sức Mạnh Gốc +1\n- Khi có 7+ Lớp, trong một Giao Tranh với mục tiêu có [DuelEdge], nhận Sức Mạnh Xu +1\n- Khi Có 10+ Lớp, trong một Giao Tranh với mục tiêu có [DuelEdge], nhận Sức Mạnh Tổng +1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132603,
+      "name": "Vùng Vẫy Tuyệt Vọng",
+      "desc": "Sau khi Cha Đỡ Đầu Ngón Cái lên sân, vô hiệu hóa Nội Tại \"Dấu Ấn Của Thợ Săn\", thay vào đó nhận các hiệu ứng sau:\n- Khi SP < 30, hồi lên 30 SP\n- Đầu Lượt: Nhận 3 [SupportProtect]\n<color=#ff6000><mark=#ff000040><b><u>- Có thể Giao Tranh bất kể Tốc Độ\n- Ưu tiên Giao Tranh với Vergilius</u></b></mark></color>\n- Khi Cha Đỡ Đầu Ngón Cái thắng một Giao Tranh, và dùng một Đòn Đánh lên mục tiêu, theo sau bằng \"Colpi Sottani\" như Đòn Một Chiều",
+      "summary": "",
+      "undefined": "",
+      "flavor": "          \n\n                  \n                      \n                      \n                              \n                 "
+    },
+    {
+      "id": 132604,
+      "name": "Dấu Ấn Của Thợ Săn",
+      "desc": "Chọn ngẫu nhiên một kẻ địch, giảm Tốc Độ của mục tiêu xuống 1, và toàn bộ Kỹ Năng của chủ thể này nhắm vào mục tiêu đó\nKích hoạt mỗi 4 lượt sau lần kích hoạt đầu tiên",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132606,
+      "name": "Duello Disperato",
+      "desc": "Sau khi Giao Tranh, Gây 1 [DuelEdge] lên mục tiêu đã Giao Tranh với chủ thể này\nTrong một Giao Tranh với mục tiêu có [DuelEdge], hồi 2 SP với mỗi Lớp [DuelEdge] trên mục tiêu (tối đa 10)"
+    },
+    {
+      "id": 131401,
+      "name": "Gia Tốc Tăng Tiến Tương Lai",
+      "desc": "Khi chủ thể vào Ài, nhận 30 [FutureEyeOn]\nKhi [FutureEyeOn] về 0, chuyển [FutureEyeOn] thành [FutureEyeOff]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "                            "
+    },
+    {
+      "id": 131402,
+      "name": "Gia Tốc Tăng Tiến Tương Lai",
+      "desc": "Trong Giao Tranh, <color=#ff6000><mark=#ff000040><b><u>nhận 1 [LookingFuture] với mỗi Giao Tranh</u></b></mark></color>\nCó thể nhận tối đa (Lớp [FutureEyeOn] vào Đầu Lượt / 3) mỗi lượt\nKhi chủ thể có [FutureEyeOn], <color=#ff6000><mark=#ff000040><b><u>kích hoạt Kỹ Năng \"Thấu Thị\" khi sắp sửa nhận đòn từ Đòn Một Chiều hoặc thua một Giao Tranh</u></b></mark></color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "                            "
+    },
+    {
+      "id": 131408,
+      "name": "Quá Tải",
+      "desc": "Mất Lớp [FutureEyeOn] khi một trong các điều kiện dưới đây được đáp ứng:\n- Nếu chủ thể không thể nhận [LookingFuture], mất 1 Lớp [FutureEyeOn] với mỗi Giao Tranh\n- Nếu chủ thể bị đánh bằng một Đòn Một Chiều, mất 1 [FutureEyeOn]\n- Khi Thua Giao Tranh, mất 3 [FutureEyeOn]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "               "
+    },
+    {
+      "id": 131405,
+      "name": "La Spada di Palermo",
+      "desc": " +15% sát thương gây lên Khiên với mỗi [Combustion] trên mục tiêu chính (tối đa 300%)\nKhi Dùng Kỹ Năng, nếu Kỹ Năng Tấn Công của mục tiêu là Kỹ Năng Chém hoặc Đâm, Sức Mạnh Giao Tranh +1\nNếu hiệu ứng Kỹ Năng của thể kích hoạt [VibrationExplosion], nhận 2 [AttackDmgUp] vào lượt kế (3 lần mỗi lượt)\nNếu chủ thể đánh Trí Mạnh bằng hiệu ứng Kỹ Năng, hồi 5 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 131404,
+      "name": "Nỗi Ô Nhục Của Famiglia Bognatelli",
+      "desc": "-30% sát thương HP, SP phải nhận từ [Combustion], [Laceration], [Burst], và [Sinking]; -30% hiệu lực nâng Ngưỡng Choáng từ [Vibration]\nKhi có 1+ [AccelBullet], +30% sát thương gây ra và +150% sát thương gây lên Khiên cho những Kỹ Năng tiêu hao [AccelBullet]\nNhận 4 [Breath] với mỗi [AccelBullet] đã tiêu hao\nKhi tung Xu có tiêu [AccelBullet], không hủy đòn đánh kể cả khi chủ thể hết [AccelBullet]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "                             \n                 \n                               \n              "
+    },
+    {
+      "id": 131409,
+      "name": "Tâm (心) - Valencina",
+      "desc": "Khi bị đánh trúng, hoặc khi \"Ngón Cái Tập Sự - Lucio\" bị đánh bại, nhận [ObsessionAndGreed] vào lượt kế",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "                               "
+    },
+    {
+      "id": 131406,
+      "name": "Lucio, thằng đầu cặc ăn hại vô dụng!",
+      "desc": "Khi \"Ngón Cái Tập Sự - Lucio\" bị đánh bại, kích hoạt Nội Tại \"Giờ Đi Săn\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 131410,
+      "name": "Giờ Đi Săn",
+      "desc": "Đầu Lượt: Nếu chủ thể bị Choáng, hồi phục khỏi Choáng\n\nChọn một Tội Nhân ngẫu nhiên và gây [TeachersPrey]\n- Kích hoạt mỗi 4 lượt sau lần kích hoạt đầu tiên\n- Nếu chủ thể giết mục tiêu bằng Kỹ Năng \"Loại Bỏ\", kích hoạt nó một lần nữa vào lượt kế",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "               \n                                                     \n                         \n                           \n                "
+    },
+    {
+      "id": 134501,
+      "name": "Toàn Bộ Thể Xác Của Ta Đều Đã Dâng Hiến Hết Cho Tibia",
+      "desc": "-30% sát thương HP, SP phải nhận từ [Combustion], [Burst], và [Sinking]; -30% hiệu lực nâng Ngưỡng Choáng từ [Vibration]\n-50% sát thương phải nhận từ [Laceration]\n\nĐầu Lượt: Nếu chủ thể bị Choáng, hồi phục khỏi Choáng. Sau đó, nhận 2 [CrimsonTakeDamageUp] (một lần mỗi Ải)\n\nCuối Lượt: Nhận 1 [DefenseDown] vào lượt kế với mỗi 4 [Combustion] trên chủ thể (tối đa 15)",
+      "flavor": "            \n                       \n                                      \n                          \n               <i></i>         "
+    },
+    {
+      "id": 134502,
+      "name": "Trường Phái Thể Xác",
+      "desc": "Đánh Trúng bằng Kỹ Năng Tấn Công: Nếu chủ thể gây hiệu ứng bất lợi và đồng thời nhận hiệu ứng có lợi, hồi 4 SP khi Kết Đòn\n- Nếu chủ thể đạt SP tối đa khi hồi SP bằng hiệu ứng trên, nhận 1 [ResultEnhancement] vào lượt kế (2 lần mỗi lượt)"
+    },
+    {
+      "id": 134506,
+      "name": "Cho Phép Ta Nán Lại Thưởng Thức Buổi Triển Lãm của Học Trò Mình",
+      "desc": "Nếu chủ thể có [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>mất 1 [SupportProtect] khi Bắt Đầu Giao Tranh</u></b></mark></color> (một lần mỗi Kỹ Năng)"
+    },
+    {
+      "id": 134509,
+      "name": "Thể Xác Khỏe Mạnh Tạo Nên Chất Liệu Hoàn Hảo",
+      "desc": " +150% sát thương lên Tội Nhân và Đơn Vị Hỗ Trợ có cấp độ cao nhất và ưu tiên tấn công họ",
+      "flavor": "                      \n                     \n     "
+    },
+    {
+      "id": 134510,
+      "name": "Đại Kiệt Tác: Tibia",
+      "desc": "Cuối Lượt: Ở mốc 206 [HumanBoneTheRings] và 5 [HumanBloodTheRings], giảm Lớp của mỗi hiệu ứng bằng với số lượng đang có tương ứng và nhận 1 [MineTheRings]\n\nĐầu Lượt: Nếu chủ thể có [MineTheRings], sử dụng một đòn tấn công mạnh mẽ lượt này\n\n<color=#ff6000><mark=#ff000040><b><u>Khi bị một Kỹ Năng Tấn Công đánh trúng trước khi sử dụng đòn tấn công mạnh mẽ, nhận 1 [PlusCoinValueDown] và 1 [ResultReduction]</u></b></mark></color> (1 lần mỗi Kỹ Năng; tối đa 3 lần mỗi lượt)",
+      "flavor": "                           –   "
+    },
+    {
+      "id": 134604,
+      "name": "Khách Tham Quan Vui Lòng Tuân Thủ Quy Định của Phòng Trưng Bày",
+      "desc": "Nếu chủ thể có [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>mất 1 [SupportProtect] khi Bắt Đầu Giao Tranh</u></b></mark></color> (một lần mỗi Kỹ Năng)"
+    },
+    {
+      "id": 134605,
+      "name": "Lựa Chọn Chất Liệu",
+      "desc": "Ưu tiên Tấn Công Tội Nhân và Đơn Vị Hỗ Trợ có cấp độ thấp nhất",
+      "flavor": "          \n                    \n      "
+    },
+    {
+      "id": 132218,
+      "name": "132218",
+      "desc": "(미사용 패시브)",
+      "flavor": ""
+    },
+    {
+      "id": 132214,
+      "name": "Dư Ảnh Của Tương Lai",
+      "desc": "Cứ mỗi vài lượt, sử dụng Kỹ Năng \"Chỉ Định Đối Thủ\"\n<color=#ff6000><mark=#ff000040><b><u>Chỉ mục tiêu bị đòn tấn công của chủ thể nhắm tới mới có thể Giao Tranh với Ô Kỹ Năng đó</u></b></mark></color>\n\nNếu Kỹ Năng \"Chỉ Định Đối Thủ\" thua Giao Tranh, nhận 36 ~ 60 sát thương cố định\n\nKết Chiến: <color=#ff6000><mark=#ff000040><b><u>Nếu tất cả các Kỹ Năng  \"Chỉ Định Đối Thủ\" mà chủ thể sử dụng trong lượt này đều thua Giao Tranh</u></b></mark></color>, nhận 1 [Vulnerable] vào lượt kế"
+    },
+    {
+      "id": 132217,
+      "name": "132217",
+      "desc": "(미사용 패시브)"
+    },
+    {
+      "id": 132219,
+      "name": "Thiên Sát Tinh Thương [天殺星傷]",
+      "desc": "Bắt Đầu Ải: Nhận [LvDownLittleFingerBossTwo] và 4 [TimeEntangleUnstable]"
+    },
+    {
+      "id": 132222,
+      "name": "Từ Bình Minh Đến Hoàng Hôn",
+      "desc": "Đầu Lượt: Khi SP > 0, nhận 1 [SojiAbiAgeFuture]\nNhận 1 [SojiAbiAgeFuture] với mỗi 2 SP trên 0\n\nĐầu Lượt: Khi SP < 0, nhận 1 [SojiAbiAgePast]\nNhận 1 [SojiAbiAgePast] với mỗi 2 SP dưới 0",
+      "flavor": "                                   "
+    },
+    {
+      "id": 132223,
+      "name": "Dư Ảnh Không-Thời Gian Sụp Đổ",
+      "desc": "Cuối Lượt: Nhận 1 [TimeEntangleUnstable] với 5 SP chênh lệch giữa SP hiện tại với SP lúc Đầu Lượt (tối đa 5 mỗi lượt)\n\nCứ mỗi 100 sát thương nhận vào, mất 1 [TimeEntangleUnstable] (tính cả sát thương lên Khiên).",
+      "flavor": "                         "
+    },
+    {
+      "id": 133701,
+      "name": "Ý Chí của Sắc Lệnh",
+      "desc": "Đầu Ải: Nhận Khiên bằng với 20% HP tối đa (tồn tại xuyên suốt Ải này)\n\nĐầu Lượt:\n- Nhận [IndexPrescript_Base_2nd] dựa vào bậc [UnlockBuff_Base] trên chủ thể\n- Gây [IndexPrescriptTargetToPersonality] lên một kẻ địch ngẫu nhiên và ưu tiên tấn công kẻ địch đó (ngoại trừ hành vi chiến đấu nhất định) \n\n+2.5% sát thương gây ra lên [IndexPrescriptTargetToPersonality] với mỗi [BlessingOfIndexPrescriptEnemy] (tối đa 20%)\n- Khi có 9 [BlessingOfIndexPrescriptEnemy], thay vào đó +30% sát thương gây ra lên toàn bộ mục tiêu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 133702,
+      "name": "Lãnh Nhận Sắc Lệnh",
+      "desc": "Cuối Lượt: Nếu [IndexPrescript_Base_2nd] đã được thực thi vào lượt này, hồi 15 SP và nhận [BlessingOfIndexPrescriptEnemy] bằng (bậc [UnlockBuff_Base] + 1) (một lần mỗi lượt)\n\nCuối Lượt: Nếu [IndexPrescript_Base_2nd] không được thực thi vào lượt này, nhận 1 [PressureOfPrescript] và 10 [KarmaOfIndexStudent]\n- Nếu bậc [UnlockBuff_Base] của chủ thể dưới 2, nhận 1 [BlessingOfIndexPrescriptEnemy]\n- Nếu chủ thể có 9 [BlessingOfIndexPrescriptEnemy], không nhận [KarmaOfIndexStudent]\n\n- Nhận [EsteemNeeds] bằng với [PressureOfPrescript] mỗi lần chủ thể nhận [PressureOfPrescript]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 133703,
+      "name": "Khai Mở",
+      "desc": "Cuối Lượt: Khi có 6/9 [BlessingOfIndexPrescriptEnemy] hoặc khi HP ≤ 80%/60%,\n- Nhận [UnlockBuff_2]/[UnlockBuff_3]\n- Hồi lên 45 SP\n- Tiêu thụ toàn bộ [PressureOfPrescript] và hồi phục khỏi Choáng\n\nNếu [UnlockBuff_Base] được nhận thông qua hiệu ứng HP trên,\n- Nhận [KarmaOfIndexStudent] bằng ( tổng SP đã hồi / 15)\n- Tăng [BlessingOfIndexPrescriptEnemy] lên 6/9 nếu chủ thể có ít hơn 6/9 [BlessingOfIndexPrescriptEnemy]; nhận 1 [DefenseDown] và 2 [KarmaOfIndexStudent] với mỗi [BlessingOfIndexPrescriptEnemy] đã nhận\n\nTốc Độ Tối Thiếu & Tối Đa +10 vào lượt mà chủ thể dùng đòn đánh mạnh mẽ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 133704,
+      "name": "E.G.O Nở Rộ::Quyền Hành",
+      "desc": "Trong Ải này, duy trì E.G.O Nở Rộ::Quyền Hành[TabExplain]\nĐầu Ải: Nhận [UnlockBuff_1] và 3 [BlessingOfIndexPrescriptEnemy]\n- Nhận [Blandishment_Enemy] và một hệ số Kháng khác trong trạng thái này\n- SP không thể giảm xuống 0",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 133705,
+      "name": "Tập Trung",
+      "desc": "Khi có [UnlockBuff_3], nhận các hiệu ứng sau:\n- [Blandishment_Shin_Enemy] và nhận Khiên bằng với 50% HP tối đa (tồn tại đến khi hết Ải này)\n- Biến [PressureOfPrescript] thành [PressureOfPrescript_2nd] và nhận tối đa Lớp của hiệu ứng\n- Đầu Lượt: Nhận 1 [PressureOfPrescript_2nd]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 133801,
+      "name": "Bản Vọng [整劍]",
+      "desc": "Bắt Đầu Ải: nhận 50 [DicipleLittleFinger]"
+    },
+    {
+      "id": 133802,
+      "name": "Rèn Luyện để Kế Thừa Danh Xưng một Vì Sao",
+      "desc": "Kỹ Năng Tấn Công Kết Đòn: Gây (Số Xu Chém đã Trí Mạng x 10) sát thương Chém lên từng mục tiêu (sát thương này không thể làm Choáng mục tiêu)"
+    },
+    {
+      "id": 133803,
+      "name": "Tinh Thần Nhất Đáo",
+      "desc": "[Breath] của chủ thể bị giới hạn ở 25\nBất kỳ Lượng [Breath] nào vượt quá 25 sẽ bị chuyển thành [DicipleLittleFinger]\n\nNhận [Fugacious] bằng với lượng [DicipleLittleFinger] mất mỗi lần chủ thể mất Lớp [DicipleLittleFinger]"
+    },
+    {
+      "id": 133804,
+      "name": "Tĩnh Niệm [靜念]",
+      "desc": "Nếu chủ thể có [DicipleLittleFinger], nhận các hiệu ứng sau:\n- SP không thể giảm xuống 0; Nếu SP giảm xuống 0, hồi lại về 0\n- Chuyển sát thương SP nhận được thành sát thương Thờ Ơ (ngoại trừ thay đổi SP do \"Tác nhân làm tăng/giảm Tinh Thần\")"
+    },
+    {
+      "id": 133805,
+      "name": "Ân Sủng",
+      "desc": "Khi Giao Tranh với mục tiêu không phải Ryōshū, Sức Mạnh Giao Tranh -2\n-20% sát thương phải nhận từ các mục tiêu không phải Ryōshū"
+    },
+    {
+      "id": 133901,
+      "name": "Thần Dân Của Hoàng Đế",
+      "desc": "Đầu Lượt: Nhận 50 [DefenseBug] (Nhận ít hơn 3 [DefenseBug] vào mỗi lượt sau; giảm tối đa 20)\n- Nếu chủ thể có [Combustion], [Laceration], [Vibration], [Burst], hoặc [Sinking], <color=#ff6000><mark=#ff000040><b><u>giảm Lượng của chúng theo một giá trị ngẫu nhiên; rồi, mất số Lớp [DefenseBug] tương ứng</u></b></mark></color>\n- Nếu những hiệu ứng trên đang có 1 Lượng, nhưng 2+ Tầng, thay vào đó sẽ giảm Tầng đi\n\n<color=#ff6000><mark=#ff000040><b><u>Nếu toàn [DefenseBug] biến mất</u></b></mark></color> trong giai đoạn chiến đấu, nhận các hiệu ứng sau vào lượt kế:\n- Nhận [DefenseDown] thay vi nhận [DefenseBug]\n- Tạo 2 tài nguyên E.G.O cho 3 Nguyên Tội sỡ hữu ít nhất\n- Cuối Lượt: xóa toàn bộ hiệu ứng bất lợi trên chủ thể và bắt đầu nhận [DefenseBug] lại",
+      "flavor": "             "
+    },
+    {
+      "id": 133902,
+      "name": "Áo Choàng Của Hoàng Đế",
+      "desc": "Đầu Lượt: Nhận ( [DefenseBug] x 40) Khiên",
+      "flavor": "          "
+    },
+    {
+      "id": 133903,
+      "name": "Đoàn Quân Của Hoàng Đế",
+      "desc": "- Khi Thắng Giao Tranh, gây 3 [OffenseBug] lên mục tiêu\n- Khi Đánh Trúng bằng Kỹ năng, gây 1 [OffenseBug] lên mục tiêu",
+      "flavor": "     "
+    },
+    {
+      "id": 133904,
+      "name": "Máu Của Hoàng Đế",
+      "desc": "-50% sát thương phải nhận từ [Combustion], [Laceration], [Burst] và [Sinking] ; -50% hiệu lực nâng Ngưỡng Choáng từ [Vibration]\nSát thương trên không thể làm Choáng chủ thể\nĐầu Lượt: Nhận 2 [ResultReduction] với mỗi 25% HP phần Lõi thiếu hụt",
+      "flavor": "      "
+    },
+    {
+      "id": 133905,
+      "name": "Món Quà Chưa Mở",
+      "desc": "Giá trị SP của chủ thể không ảnh hưởng đến kết quả tung Xu, tỷ lệ được cố định ở mức 50-500\n\n<color=#ff6000><mark=#ff000040><b><u>Khi Thắng Giao Tranh với Tội Nhân,</u></b></mark></color> mất 5 SP và -40% sát thương gây ra\n\n<color=#ff6000><mark=#ff000040><b><u>Khi Nhụt Chí hoặc Hoảng Loạn</u></b></mark></color>, nhận [ParryingResultDown] và [ResultReduction]\nKhi hồi phục khỏi Hoảng Loạn, nhận 2 [ResultReduction]",
+      "flavor": "      "
+    },
+    {
+      "id": 133906,
+      "name": "Cơn Phẫn Nộ Của Hoàng Đế",
+      "desc": "Khi HP còn 50%, hoặc khi bị Choáng, hồi phục khỏi Choáng và xóa toàn bộ hiệu ứng bất lợi trên chủ thể, đồng thời hình thành hành vi chiến đấu mới:\nRồi, nhận các hiệu ứng sau:\n- Đặt lại SP về 0\n- Nhận 50 [DefenseBug]\n- Gây gấp đôi lượng [OffenseBug] từ Nội Tại \"Đoàn Quân Của Hoàng Đế\""
+    },
+    {
+      "id": 134701,
+      "name": "Rien, Cha Đỡ Đầu Ngón Trỏ",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>-50% sát thương nhận từ các Đòn Một Chiều</u></b></mark></color>\n-50% sát thương nhận từ [Vibration], [Burst], và [Sinking]\nKhi hồi SP bằng [UnlockBuff_Base], nếu SP của chủ thể dưới 0, hồi lên 0 SP\n\nBắt Đầu Ải: Nhận [BurningWoundRien_Mask]\n\nỞ mốc 55% HP, nhận hành vi mới\n- Xóa toàn bộ hiệu ứng ngoại trừ những hiệu ứng độc quyền của chủ thể\n- Đặt lại số Lớp [StackRienSpecialSkill] về 0",
+      "flavor": "           \n              \n\n                 \n                      "
+    },
+    {
+      "id": 134702,
+      "name": "Thiết Bị Thần Thác [Caduceus]",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Một vũ khí ngẫu nhiên được gán với mỗi Xu. Mỗi vũ khí có một hiệu ứng riêng.</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\nKhi dùng một Kỹ Năng Tấn Công, nhận 1 [StackRienSpecialSkill] (tối đa 9)\n- Chỉ nhận được một lần mỗi Kỹ Năng; không thể nhận hai Lớp từ cùng một Kỹ Năng\n\n<color=#ff6000><mark=#ff000040><b><u>Đầu Lượt: Ở mốc 9 Lớp [StackRienSpecialSkill], dùng một Kỹ Năng mạnh mẽ</u></b></mark></color>\n- Kết Đòn: Sau khi dùng Kỹ Năng mạnh mẽ lần đầu tiên, nhận [Shin_Rien]\n- Đặt lại giới hạn của [StackRienSpecialSkill] trên mỗi Kỹ Năng\n- Tốc Độ Tối Thiểu và Tối Đa +25\n- Cuối Lượt: Nhận 1 [Vulnerable] và 2 [ResultReduction] lượt kế\n\nĐầu Lượt 5: Nếu có ít hơn 9 [StackRienSpecialSkill], đưa số Lớp lên 9; sau đó, nhận (số Lớp đã nhận x 5) [KarmaOfIndexRien]\n- Rồi kích hoạt hiệu ứng trên mỗi 4 lượt",
+      "flavor": "                                      \n                                            \n                                                                       "
+    },
+    {
+      "id": 134703,
+      "name": "Ý Chí Của Sắc Lệnh",
+      "desc": "Đầu Lượt:\n- Nhận [IndexPrescript_Base_2nd] dựa trên bậc [UnlockBuff_Base] trên chủ thể\n- Gán [IndexPrescriptTargetToPersonality] lên một Tội Nhân ngẫu nhiên không phải là Ryōshū, và ưu tiên tấn công mục tiêu đó\n<color=#ff6000><mark=#ff000040><b><u>- Khi sử dụng Kỹ Năng lên [IndexPrescriptTargetToPersonality], chuyển toàn bộ Xu thành [SuperCoin]</u></b></mark></color>\n· Nếu [IndexPrescriptTargetToPersonality] bị giết, hoặc nếu chủ thể không thể tấn công mục tiêu đó, <color=#ff6000><mark=#ff000040><b><u>sử dụng những Kỹ Năng còn lại lên một Tội Nhân ngẫu nhiên không phải là Ryōshū (Ưu tiên mục tiêu có HP hiện tại thấp nhất)</u></b></mark></color>\n· Khi tất cả Tội nhân khác đều tử trận, áp dụng hiệu ứng lên Ryōshū\n\n +2.5% sát thương gây lên [IndexPrescriptTargetToPersonality] với mỗi [BlessingOfIndexPrescriptEnemy] (tối đa 20%)\n- Ở mốc 9 [BlessingOfIndexPrescriptEnemy], +30% sát thương gây lên mọi mục tiêu",
+      "flavor": "        \n\n                      "
+    },
+    {
+      "id": 134704,
+      "name": "Lãnh Nhận Sắc Lệnh",
+      "desc": "Cuối Lượt: Nếu [IndexPrescript_Base_2nd] được thực thi lượt này, hồi 10 SP và nhận 3 [BlessingOfIndexPrescriptEnemy] (một lần mỗi lượt)\n\n<color=#ff6000><mark=#ff000040><b><u>Cuối Lượt: Nếu [IndexPrescript_Base_2nd] không được thực thi lượt này, nhận 8 [KarmaOfIndexRien], và Tội Nhân có [IndexPrescriptTargetToPersonality] nhận 1 [ParryingResultUp] lượt kế</u></b></mark></color>\n- Nếu chủ thể không có [UnlockBuff_Base], nhận 1 [BlessingOfIndexPrescriptEnemy] vào Cuối Lượt\n- Ở mốc 9 [BlessingOfIndexPrescriptEnemy], không nhận [KarmaOfIndexRien]",
+      "flavor": "        \n\n            \n                      "
+    },
+    {
+      "id": 134705,
+      "name": "Khai Mở",
+      "desc": "Cuối Lượt: Ở mốc 3/6/9 [BlessingOfIndexPrescriptEnemy] hoặc 95%-/85%-/75%- HP,- Nhận [UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]\n\nCuối Lượt 1: Nếu chưa đạt tầng 1 của [UnlockBuff_Base], nhận [UnlockBuff_Rien1]\nCuối Lượt 4: Nếu chưa đạt tầng 2 của [UnlockBuff_Base], nhận [UnlockBuff_Rien2]\n\nKhi [UnlockBuff_Base] được kích hoạt do điều kiện HP hoặc số Lượt:\n- Nếu ít hơn 3/6/9 Lớp [BlessingOfIndexPrescriptEnemy], nâng lên 3/6/9\nNhận 10 [KarmaOfIndexRien] khi Đầu Lượt sau với mỗi Lớp đã nhận",
+      "flavor": "              "
+    },
+    {
+      "id": 134801,
+      "name": "Rien, Người Cha [Mô Phỏng]",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>-75% sát thương phải nhận từ các đòn Tấn Công Một Chiều</u></b></mark></color>\n-75% sát thương phải nhận từ [Combustion], [Laceration], [Vibration], [Burst], và [Sinking]\nKhi hồi SP bằng [UnlockBuff_Base], nếu SP của chủ thể dưới 15, hồi lên 15\n\nKhi chủ thể vào tiến giai đoạn mới ở mốc 55% HP, nhận các hiệu ứng sau:\n- Xóa toàn bộ hiệu ứng ngoại trừ những hiệu ứng độc quyền của chủ thể\n- Đặt số Lớp [StackRienSpecialSkill] về 0\n- Nhận [IndexPrescript_RienSecondPhase]\n- Chuyển [BurningWoundRien_Mask] thành [BurningWoundRien]\n- Chuyển [KarmaOfIndexRien] thành [KarmaOfIndexRien_2Phase]; sau đó nhận 10 Lớp của hiệu ứng đó\n- Nếu chủ thể không có [Shin_Rien], lập tức nhận hiệu ứng đó\n\nỞ mốc 25% HP hoặc thấp hơn, nhận một hành vi chiến đấu mới và cường hóa đáng kể một vài Kỹ Năng",
+      "flavor": "                                                  \n      "
+    },
+    {
+      "id": 134802,
+      "name": "Thiết Bị Thần Thác [Caduceus] - Khai Mở Hoàn Toàn",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Một vũ khí ngẫu nhiên được gán cho mỗi Xu. Mỗi vũ khí có một hiệu ứng riêng.</u></b></mark></color>\n- [RienWeapon01Hatchet2phase]\n- [RienWeapon02Stiletto2phase]\n- [RienWeapon03Greatsword2phase]\n- [RienWeapon04Rapier2phase]\n- [RienWeapon05Sledgehammer2phase]\n- [RienWeapon06Ultragreatsword2phase]\n- [RienWeapon07Lance2phase]\n- [RienWeapon08Chain2phase]\n- [RienWeapon09Scythe2phase]\n\nKhi dùng một Kỹ Năng Tấn Công, nhận 1 [StackRienSpecialSkill] (tối đa 9)\n- Chỉ nhận một lần mỗi Kỹ Năng; không thể nhận hai Lớp từ cùng một Kỹ Năng\n- Không nhận Lớp từ Kỹ Năng dùng trong hành vi đặc biệt\n\nBắt Đầu Lượt: Ở mốc 9 Lớp [StackRienSpecialSkill], dùng một Kỹ Năng mạnh mẽ\n-  Đặt lại giới hạn của [StackRienSpecialSkill] trên mỗi Kỹ Năng\n- Tốc Độ Tối Thiểu và Tối Đa +15\n- Kết Thúc Lượt: Nhận 2 [Vulnerable] và 3 [ResultReduction] vào lượt kế\n\nKích hoạt hiệu ứng sau, bắt đầu từ lượt đổi giai đoạn\n- Mỗi 4 lượt, nếu có ít hơn 9 [StackRienSpecialSkill], đưa số Lớp lên 9; nhận (số Lớp đã nhận x 5) [KarmaOfIndexRien_2Phase]",
+      "flavor": "                    "
+    },
+    {
+      "id": 134803,
+      "name": "Ý Chí Của Sắc Lệnh",
+      "desc": "Bắt Đầu Lượt:\n- Gán [IndexPrescriptTargetToPersonality] lên một Tội Nhân ngẫu nhiên, và ưu tiên tấn công họ\n<color=#ff6000><mark=#ff000040><b><u>- Khi sử dụng Kỹ Năng lên [IndexPrescriptTargetToPersonality], chuyển toàn bộ Xu thành [SuperCoin]</u></b></mark></color>\n· Khi tấn công, nếu [IndexPrescriptTargetToPersonality] bị giết, hoặc nếu chủ thể không thể tấn công mục tiêu đó, <color=#ff6000><mark=#ff000040><b><u>sử dụng những Kỹ Năng còn lại lên một Tội Nhân ngẫu nhiên ngoài Ryõshũ (Ưu tiên những mục tiêu với HP thấp nhất, trừ khi chúng còn 1 HP)</u></b></mark></color>\n· Khi tất cả các Tội Nhân khác bị giết, áp hiệu ứng này lên Ryõshũ\n- Nhận [Protection] bằng với [BlessingOfIndexPrescriptEnemy] (tối đa 9)\n<color=#ff6000><mark=#ff000040><b><u>· Mất 1 Lớp với mỗi 20 [KarmaOfIndexRien_2Phase]</u></b></mark></color>\n\n+5% sát thương gây lên [IndexPrescriptTargetToPersonality] với mỗi [BlessingOfIndexPrescriptEnemy] (tối đa 40%)\n- Ở mốc 9 [BlessingOfIndexPrescriptEnemy], +50% sát thương lên mọi mục tiêu\n\nBắt đầu từ lượt đầu tiên sau khi đổi giai đoạn, kích hoạt các hiệu ứng sau:\n- Nhận 1 [BlackNightmare] mỗi 2 lượt.\n- Khi nhận [BlackNightmare], nếu chủ thể có ít hơn 9 Lớp [StackRienSpecialSkill], hình thành hành vi chiến đấu mới",
+      "flavor": "   \n\n       \n                         \n          "
+    },
+    {
+      "id": 134804,
+      "name": "Lãnh Nhận Sắc Lệnh",
+      "desc": "Kết Thúc Lượt: Nếu [IndexPrescript_Base_2nd] được thực thi lượt này, hồi 15 SP và nhận 1 [BlessingOfIndexPrescriptEnemy] (một lần mỗi lượt)\n\n<color=#ff6000><mark=#ff000040><b><u>Kết Thúc Lượt: Nếu [IndexPrescript_Base_2nd] không được thực hiện trong lượt này, nhận 10 [KarmaOfIndexRien_2Phase], mất 1 [BlessingOfIndexPrescriptEnemy], Và Tội Nhân có [IndexPrescriptTargetToPersonality] nhận 2 [ParryingResultUp] vào lượt kế</u></b></mark></color>\n- Nếu chủ thể đã sử dụng một đòn tấn công mạnh mẽ lượt này, nhận 15 [KarmaOfIndexRien_2Phase] và giảm 3 [BlessingOfIndexPrescriptEnemy] thay hiệu ứng trên",
+      "flavor": "   \n\n \n        "
+    },
+    {
+      "id": 132224,
+      "name": "Trận Chiến Cuối Cùng",
+      "desc": "Trong Ải này, khi chủ thể nhận sát thương làm giảm HP của mình xuống 0, vô hiệu hóa sát thương đó và hận các hiệu ứng sau (một lẫn mỗi Ải):\n- Hồi HP tối đa và loại bỏ mọi hiệu ứng bất lợi có thể xóa được khỏi chủ thể\n- Trong Ải này, nhận 1 [Vulnerable] và đặt [TimeEntangleUnstable] về 1. Nhận (sô lượt hiện tại x 10) sát thương cố định vào cuối mỗi lượt\n- Sau đó, kết thúc lượt và hành vi chiến đấu được cường hóa",
+      "flavor": "           "
+    },
+    {
+      "id": 137801,
+      "name": "Quan Sát",
+      "desc": "Bắt Đầu Ải: Gán 1 [ObservedPerson] lên mọi kẻ địch; sau đó, nhận Lượng và Tầng [Breath] bằng số đơn vị có [ObservedPerson]\n\nBắt Đầu Lượt: Gán 1 [ObservedPerson] lên mục tiêu không có [ObservedPerson]\n\nVới mỗi 10 [ObservedPerson] trên mục tiêu, gây thêm +1 Lượng và Tầng [Vibration] bằng các Kỹ Năng của chủ thể (tối đa 3)"
+    },
+    {
+      "id": 137802,
+      "name": "Thích Nghi",
+      "desc": "Nhận 1 Lượng [Breath] mỗi khi chủ thể gây sát thương thông qua hiệu ứng của Kỹ Năng Tấn Công (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] mỗi khi đánh trúng\n\nNhận +1 Tầng [Breath] mỗi khi chủ thể nhận sát thương thông qua hiệu ứng từ Kỹ Năng Tấn Công của Tội Nhân (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm +1 Tầng [Breath] mỗi khi bị đánh trúng\n\n<color=#ff6000><mark=#ff000040><b><u>Bắt Đầu Lượt: Gây 3 [ResultReduction] và 5 [ObservedPerson] cho Tội Nhân gây nhiều sát thương nhất lên chủ thể trong lượt trước\n- Nếu mục tiêu có 30 [ObservedPerson] thì gây 5 [ResultReduction]</u></b></mark></color>"
+    },
+    {
+      "id": 137803,
+      "name": "Cơ Chế Phòng Vệ",
+      "desc": "Bắt Đầu Lượt: <color=#ff6000><mark=#ff000040><b><u>Nhận Khiên bằng 30% HP đã mất (HP Khiên không thể vượt quá 25% HP tối đa)</u></b></mark></color>\n- Nếu chủ thể có [Combustion], giảm (Tầng [Combustion] x 1.5)% Khiên HP\n- Khiên nhận +100% sát thương từ hiệu ứng [Burst]\n\nKết Thúc Lượt: Nếu Khiên nhận được từ hiệu ứng này bị phá hủy, trong phần còn lại của Ải, nhận 1 [DefenseDown] khi Bắt Đầu Lượt với mỗi lần Khiên bị phá hủy (tối đa 5)"
+    },
+    {
+      "id": 137804,
+      "name": "Thiên Kiến Xác Nhận",
+      "desc": "Kết Thúc Lượt: <color=#ff6000><mark=#ff000040><b><u>Hút 10 SP từ các Tội Nhân (tối đa 3 Tội Nhân theo thứ tự SP giảm dần; không cộng dồn trên cùng một mục tiêu)\n(Không kích hoạt nếu Hohenheim Bị Hoảng Loạn)\n\n<color=#ff6000><mark=#ff000040><b><u>SP của chủ thể không giảm xuống dưới 15</u></b></mark></color>"
+    },
+    {
+      "id": 137805,
+      "name": "Đặt Giả Thuyết",
+      "desc": "Ở Lượt 3: Nhận hành vi chiến đấu mới và chuẩn bị sử dụng một Kỹ Năng mạnh mẽ.\nSau khi Lượt 3 kết thúc: Hiệu ứng trên sẽ kích hoạt nếu chủ thể có 30+ Tầng [Breath] Count khi Kết Thúc Lượt\n\nNếu chủ thể không nhận bất kỳ sát thương HP nào trong giai đoạn chuẩn bị trước khi dùng Kỹ Năng mạnh mẽ, cường hóa đáng kể Kỹ Năng đó (không tính sát thương mà HP Khiên đã hấp thụ)"
+    },
+    {
+      "id": 137806,
+      "name": "Thích Nghi Kém",
+      "desc": "Khi bị một Sự Kiện Lựa Chọn làm Vulnerable, Nội Tại này thay thế「Thích Nghi」\n\nNhận 1 Lượng [Breath] mỗi khi chủ thể gây sát thương thông qua hiệu ứng của Kỹ Năng Tấn Công (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] mỗi khi đánh trúng; đồng thời giảm 3 [ObservedPerson] trên mục tiêu\n\nNhận +1 Tầng [Breath] mỗi khi chủ thể nhận sát thương thông qua hiệu ứng từ Kỹ Năng Tấn Công của Tội Nhân (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm +1 Tầng [Breath] mỗi khi bị đánh trúng; đồng thời giảm 3 [ObservedPerson] trên mục tiêu\n\nSát thương Trí Mạng không tăng thêm hay giảm đi"
+    },
+    {
+      "id": 137807,
+      "name": "Cơ Chế Phòng Vệ Không Thỏa Đáng",
+      "desc": "Khi bị một Sự Kiện Lựa Chọn làm Vulnerable, Nội Tại này thay thế 「Cơ Chế Phòng Vệ」\n\nBắt Đầu Lượt: Nhận Khiên bằng 15% HP đã mất (HP Khiên không thể vượt quá 5% HP tối đa)\n- Nếu chủ thể có [Combustion], giảm (Tầng [Combustion] x 2)% Khiên HP\n- Khiên nhận +150% sát thương từ hiệu ứng [Burst]\n\nKết Thúc Lượt: Nếu Khiên nhận được từ hiệu ứng này bị phá hủy, trong phần còn lại của Ải, nhận 2 [DefenseDown] khi Bắt Đầu Lượt với mỗi lần Khiên bị phá hủy (tối đa 10)"
+    },
+    {
+      "id": 137808,
+      "name": "Tự Ngờ Vực",
+      "desc": "Khi bị một Sự Kiện Lựa Chọn làm Vulnerable, Nội Tại này thay thế 「Thiên Kiến Xác Nhận」\n\nBắt đầu Lượt: <color=#ff6000><mark=#ff000040><b><u>Nhận 3 [Vulnerable]</u></b></mark></color> và mất 15 SP\nKết Thúc Lượt: Hút 5 SP từ những mục tiêu có SP cao hơn chủ thể (tối đa 3 mục tiêu; theo thứ tự SP giảm dần; không cộng dồn trên cùng một mục tiêu)\n(Không kích hoạt nếu Hohenheim Bị Hoảng Loạn)"
+    },
+    {
+      "id": 137809,
+      "name": "Thích Nghi",
+      "desc": "Nhận 1 Lượng [Breath] mỗi khi chủ thể gây sát thương thông qua hiệu ứng của Kỹ Năng Tấn Công (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] mỗi khi đánh trúng\n\nNhận +1 Tầng [Breath] mỗi khi chủ thể nhận sát thương thông qua hiệu ứng từ Kỹ Năng Tấn Công của Tội Nhân (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm +1 Tầng [Breath] mỗi khi bị đánh trúng\n\n<color=#ff6000><mark=#ff000040><b><u>Bắt Đầu Lượt: Gây 3 [ResultReduction] và 5 [ObservedPerson] cho Tội Nhân gây nhiều sát thương nhất lên chủ thể trong lượt trước\n- Nếu mục tiêu có 30 [ObservedPerson] thì gây 5 [ResultReduction]</u></b></mark></color>"
+    },
+    {
+      "id": 137810,
+      "name": "Cơ Chế Phòng Vệ",
+      "desc": "Bắt Đầu Lượt: <color=#ff6000><mark=#ff000040><b><u>Nhận Khiên bằng 30% HP đã mất (HP Khiên không thể vượt quá 25% HP tối đa)</u></b></mark></color>\n- Nếu chủ thể có [Combustion], giảm (Tầng [Combustion] x 1.5)% Khiên HP\n- Khiên nhận +100% sát thương từ hiệu ứng [Burst]\n\nKết Thúc Lượt: Nếu Khiên nhận được từ hiệu ứng này bị phá hủy, trong phần còn lại của Ải, nhận 1 [DefenseDown] khi Bắt Đầu Lượt với mỗi lần Khiên bị phá hủy (tối đa 5)"
+    },
+    {
+      "id": 137811,
+      "name": "Thích Nghi Kém",
+      "desc": "Khi bị một Sự Kiện Lựa Chọn làm Vulnerable, Nội Tại này thay thế「Thích Nghi」\n\nNhận 1 Lượng [Breath] mỗi khi chủ thể gây sát thương thông qua hiệu ứng của Kỹ Năng Tấn Công (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] mỗi khi đánh trúng; đồng thời giảm 3 [ObservedPerson] trên mục tiêu\n\nNhận +1 Tầng [Breath] mỗi khi chủ thể nhận sát thương thông qua hiệu ứng từ Kỹ Năng Tấn Công của Tội Nhân (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm +1 Tầng [Breath] mỗi khi bị đánh trúng; đồng thời giảm 3 [ObservedPerson] trên mục tiêu\n\nSát thương Trí Mạng không tăng thêm hay giảm đi"
+    }
+  ]
+}

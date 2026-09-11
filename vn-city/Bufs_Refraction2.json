@@ -1,0 +1,117 @@
+{
+  "dataList": [
+    {
+      "id": "TipsinessRail",
+      "name": "Loạng Choạng",
+      "desc": "    {0}   ",
+      "summary": "Mất Sức Mạnh Giao Tranh bằng với số Tầng của hiệu ứng"
+    },
+    {
+      "id": "PassedPortal_Red",
+      "name": "Không Gian Xuất Huyết",
+      "desc": "{0}           "
+    },
+    {
+      "id": "PassedPortal_Green",
+      "name": "Không Gian Độc Hại",
+      "desc": "           "
+    },
+    {
+      "id": "PassedPortal_Yellow",
+      "name": "Không Gian Chấn Động",
+      "desc": " {0}         "
+    },
+    {
+      "id": "PassedPortal_Blue",
+      "name": "Không Gian Điện Khí Hóa",
+      "desc": "   {0}        "
+    },
+    {
+      "id": "FairyCharm",
+      "name": "Mê Hoặc",
+      "desc": "          \n      ",
+      "summary": "Cố định sát thương về 0"
+    },
+    {
+      "id": "DecoyRegenerated",
+      "name": "Hồi Phục",
+      "desc": "              ",
+      "summary": ""
+    },
+    {
+      "id": "WaveFoxUmbrella",
+      "name": "Ô Bảo Hộ",
+      "desc": "     {0} <sprite name=\"Protection\"><color=#fac400> </color>\n        {0}  \n          "
+    },
+    {
+      "id": "InterlockingTime_Re",
+      "name": "Khóa Liên Động Thời Gian",
+      "desc": "                                 <sprite name=\"Binding\"><color=#e30000> </color>   ",
+      "summary": "Giảm 30% tổng sát thương nhận và và tích trữ lượng đó. Ở mốc 3 Tầng, nhận sát thương cố định bằng 2 lần tổng sát thương đã tích trữ, và nhận 3 <sprite name=\"Binding\"><color=#e30000>Trói Buộc</color> vào lượt kế."
+    },
+    {
+      "id": "TimeRental_Re",
+      "name": "Thời Gian Vay Mượn",
+      "desc": " \n   <sprite name=\"Agility\"><color=#fac400> </color>  <sprite name=\"AttackDmgUp\"><color=#fac400>  </color>   <sprite name=\"AttackUp\"><color=#fac400>   </color>         <sprite name=\"Binding\"><color=#e30000> </color>  <sprite name=\"Reduction\"><color=#e20000>    </color>   <sprite name=\"Vulnerable\"><color=#e30000> </color>   \n    ",
+      "summary": "Cuối Lượt:\n Nhận 3 <sprite name=\"Agility\"><color=#fac400>Tăng Tốc</color>, 2 <sprite name=\"AttackDmgUp\"><color=#fac400>Tăng Sát Thương</color>, và 2 <sprite name=\"AttackUp\"><color=#fac400>Tăng Cấp Công Kích</color>; Nếu chỉ còn lại 1 Lớp, nhận 3 <sprite name=\"Binding\"><color=#e30000>Trói Buộc</color>, 1 <sprite name=\"Reduction\"><color=#e20000>Giảm Sức Mạnh Tấn Công</color>, và 2 <sprite name=\"Vulnerable\"><color=#e30000>Suy Yếu</color> vào lượt kế"
+    },
+    {
+      "id": "ReattachedCurseTag_Re",
+      "name": "Bùa Chú Phản Đòn",
+      "desc": "     \n    ≤      \n       <sprite name=\"Binding\"><color=#e20000> </color>   \n       <sprite name=\"Reduction\"><color=#e20000>    </color>   ",
+      "summary": "Ở mốc 9+, nhận 5 <sprite name=\"Binding\"><color=#e20000>Trói Buộc</color> vào Đầu Lượt.\nAt 12+, nhận 5 <sprite name=\"Reduction\"><color=#e20000>Giảm Sức Mạnh Tấn Công</color> vào Đầu Lượt."
+    },
+    {
+      "id": "WrappedCurseTagRe",
+      "name": "Bùa Chú Trói Buộc",
+      "desc": "     \n       \n       <sprite name=\"Reduction\"><color=#e20000>    </color>    \n       ",
+      "summary": " "
+    },
+    {
+      "id": "AccumulatedPast",
+      "name": "Quá Khứ Tích Lũy",
+      "desc": "            \n     \n         ",
+      "summary": ""
+    },
+    {
+      "id": "PrepareSinRose",
+      "name": "Vương Miện Bụi Gai",
+      "desc": "                         \n                                ",
+      "summary": ""
+    },
+    {
+      "id": "BloomingRose",
+      "name": "Tội Lỗi Nở Rộ",
+      "desc": " \n   \n {2}       \n      {1}   \n                \n\n   \n {2} \n       {1}",
+      "summary": ""
+    },
+    {
+      "id": "EatingSin",
+      "name": "Nhuốm Màu Tội Lỗi",
+      "desc": " {0}        \n\n \n   {0}    {1}\n {2}                 ",
+      "summary": ""
+    },
+    {
+      "id": "EnhanceRose",
+      "name": "Trạng Thái Cường Hóa",
+      "desc": "      ",
+      "summary": ""
+    },
+    {
+      "id": "RailLine2Buff",
+      "name": "Khúc Xạ Gương",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose",
+      "name": "Hoa Hồng Nở Rộ",
+      "summary": ""
+    },
+    {
+      "id": "KalpaVine",
+      "name": "Bụi Gai Vĩnh Cửu",
+      "desc": "    {0}    \n    {0}    ",
+      "summary": ""
+    }
+  ]
+}

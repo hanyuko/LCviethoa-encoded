@@ -1,0 +1,311 @@
+{
+  "dataList": [
+    {
+      "id": 9017801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bánh Răng Dẫn Lối",
+          "desc": "[WhenUse] Nhận 2 [Smoke]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Smoke]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bánh Răng Thịt: Dừng",
+          "desc": "[WhenUse] Nhận 4 [Smoke] và +2 Tầng [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rít Khói",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 3 [Smoke] trên mục tiêu (tối đa 2)\n+10% sát thương gây ra với mỗi 3 [Smoke] trên chủ thể (tối đa 20%)\n[WhenUse] Ở mốc 10 [Smoke], Sức Mạnh Xu +2\n[EndSkill] Tiêu thụ toàn bộ [Smoke] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tái Sử Dụng Xu với mỗi 3 [Smoke] trên mục tiêu (tối đa 3 lần)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lệnh Né Tránh",
+          "desc": "[OnSucceedEvade] Nhận 3 [Smoke] và +1 Tầng [Smoke]\n[OnSucceedEvade] Ở mốc 10 [Smoke], nhận 1 [ParryingResultUp] và 3 [Protection] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Được Bánh Răng Chỉ Lối",
+          "desc": "[WhenUse] Nhận 2 [Smoke]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Smoke]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bánh Răng Thịt: Móc Kéo",
+          "desc": "[WhenUse] Nhận 4 [Smoke] và +2 Tầng [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lệnh Tấn Công",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 3 [Smoke] trên mục tiêu (tối đa 2)\n+10% sát thương gây ra với mỗi 3 [Smoke] trên chủ thể (tối đa 20%)\n[WhenUse] Ở mốc 10 [Smoke], Sức Mạnh Xu +2\n[EndSkill] Tiêu thụ toàn bộ [Smoke] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tái Sử Dụng Xu với mỗi 3 [Smoke] trên mục tiêu (tối đa 3 lần)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lệnh Né Tránh",
+          "desc": "[OnSucceedEvade] Nhận 3 [Smoke] và +1 Tầng [Smoke]\n[OnSucceedEvade] Ở mốc 10 [Smoke], nhận 1 [ParryingResultUp] và 3 [Protection] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bánh Răng Thịt: Chỉ Lệnh",
+          "desc": "[WhenUse] Nhận 3 [Smoke] và +2 Tầng [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Smoke] và +2 Tầng [Smoke]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bánh Răng Tư Duy: Thu Thập",
+          "desc": "[WhenUse] Nhận 4 [Smoke] và +2 Tầng [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Smoke] và +2 Tầng [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bánh Răng Thịt: Hạn Chế",
+          "desc": "Sức Mạnh Xu +1 với mỗi 3 [Smoke] trên mục tiêu\n+10% sát thương gây ra với mỗi 3 [Smoke] trên chủ thể\nMỗi lần Kỹ Năng này Tái Sử Dụng Xu tiêu thụ 3 [Smoke] trên chủ thể\n[WhenUse] Ở mốc 10 [Smoke], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tái Sử Dụng Xu với mỗi 5 [Smoke] trên mục tiêu (tối đa 2 lần)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bánh Răng Tư Duy: Xóa Bỏ",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 3 [Smoke] trên mục tiêu\n+20% sát thương gây ra với mỗi 3 [Smoke] trên chủ thể\n[WhenUse] Ở mốc 10 [Smoke], Sức Mạnh Xu +2\n[EndSkill] Tiêu thụ toàn bộ [Smoke] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Tái Sử Dụng Xu với mỗi 3 [Smoke] trên mục tiêu (tối đa 3 lần)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bánh Răng Tư Duy: Rít Khói",
+          "desc": "[WhenUse] Nhận 5 [Smoke] và +2 Tầng [Smoke]\n[WhenUse] Ở mốc 10 [Smoke], nhận 2 [PlusCoinValueUp] và 3 [Protection] vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

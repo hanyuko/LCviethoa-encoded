@@ -1,0 +1,604 @@
+{
+  "dataList": [
+    {
+      "id": 860501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rời Khỏi Nơi Này Đi",
+          "desc": "[WhenUse] Nếu mục tiêu có 4+ [Sinking], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đừng Làm Vẻ Mặt Đó",
+          "desc": "[WhenUse] Nếu mục tiêu có 3+ Tầng [Sinking], Sức Mạnh Giao Tranh +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Các Người Là Ai Vậy?",
+          "desc": "Ưu tiên nhắm đến [UninvitedGuest]\nNếu mục tiêu có [UninvitedGuest], gây +1 Lượng và Tầng [Sinking] bằng Kỹ Năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [UninvitedGuest], Gây 2 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Là Kẻ Xâm Nhập Phải Không?",
+          "desc": "Ưu tiên nhắm đến [UninvitedGuest]\nNếu mục tiêu có [UninvitedGuest], gây +1 Lượng và Tầng [Sinking] bằng Kỹ Năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có [UninvitedGuest], gây 2 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rời Ngay Đi, Kẻ Xâm Nhập",
+          "desc": "Ưu tiên nhắm đến [UninvitedGuest]\nNhận Phạm Vi Tấn Công bằng số kẻ địch có [UninvitedGuest]\n[WhenUse] Nhận Sức Mạnh Giao Tranh bằng số kẻ địch có [UninvitedGuest]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [SinkingSurge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chủ Nhân Của Tôi",
+          "desc": "[DefeatDuel] Tiết lộ bức Chân Dung gắn với Ô Kỹ Năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chủ Nhân Bi Thảm Của Tôi",
+          "desc": "[DefeatDuel] Tiết lộ bức Chân Dung gắn với Ô Kỹ Năng này",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chủ Nhân Ơi...?",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né Đòn",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Húc Sừng",
+          "desc": "[WhenUse] Nhận +1 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cừu Đột Phá",
+          "desc": "[WhenUse] Nhận +1 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AttackDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cừu Than Khóc",
+          "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Điều Khiển Sấm Sét",
+          "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sấm Sét Oán Than",
+          "desc": "[WhenUse] Phạm Vi Tấn Công +1 với mỗi 4 Tầng [Charge] trên chủ thể (tối đa 5)\n[WhenUse] Sức Mạnh Giao Tranh +3 với mỗi 5 Tầng [Charge] trên chủ thể (tối đa 4)\n[WhenUse] Nhận 1 [VioletDamageUp] với mỗi 6 Tầng [Charge] trên chủ thể (tối đa 3)\n[EndBattle] Toàn bộ Tầng [Charge] trên chủ thể hết hiệu lực. Mất [ConnectedPlug]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [DefenseDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [AttackDown] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sấm Sét Oán Than",
+          "desc": "[CantDuel]\n[WhenUse] Nhận 10 [Protection]\n[WhenUse] Phạm Vi Tấn Công +1 với mỗi 4 Tầng [Charge] trên chủ thể (tối đa 5)\n[WhenUse] Sức Mạnh Giao Tranh +3 với mỗi 5 Tầng [Charge] trên chủ thể (tối đa 4)\n[WhenUse] Nhận 1 [VioletDamageUp] với mỗi 6 Tầng [Charge] trên chủ thể (tối đa 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Từ Chối Tiếp Địa",
+          "desc": "Ưu tiên mục tiêu có [AntiSheepGround]\nSức Mạnh Giao Tranh +1 với mỗi [ConnectedPlug]\n[StartBattle] Nhận 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] Nhận +1 Tầng [Charge]\n[DefeatDuel] Nếu mục tiêu có [AntiSheepGround], nhận 1 [ConnectedPlug]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Paralysis] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [DefenseDown] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phóng Thích Điện Quá Tải",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quân Vương Thoái Vị",
+          "desc": "Nếu mục tiêu có 6+ [Sinking], Sức Mạnh Xu +1\n[WinDuel] Gây +3 Tầng [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tuyệt Vọng Nghẹt Thở",
+          "desc": "Sức Mạnh Xu +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)\n[WinDuel] Gây +3 Tầng [Sinking]\n[DefeatDuel] Giảm 1 Tầng [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phá Vỡ Xiềng Xích",
+          "desc": "Nếu mục tiêu có [Binding], Sức Mạnh Giao Tranh +1\n[WinDuel] Gây +4 Tầng [Sinking]\n[DefeatDuel] Giảm 2 Lượng [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xiềng Xích Trói Buộc",
+          "desc": "Sức Mạnh Xu +1 với mỗi 6 [Sinking] trên mục tiêu (tối đa 2)\n[DefeatDuel] Giảm 2 Tầng [Sinking]\n[DefeatDuel] Gây [BandageOfTheBoundKing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Binding] vào lượt kế\n[OnSucceedAttack] Gây [Vibration] bằng [Sinking] trên mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Các Khanh Ắt Sa Lầy",
+          "desc": "Nếu mục tiêu có [Binding], Sức Mạnh Giao Tranh +1\n[WinDuel] Gây +2 Tầng [Sinking]\n[DefeatDuel] Giảm 4 Lượng [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây [SinkingSurge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vi Thần Khấu Kiến Bệ Hạ",
+          "desc": "[CantDuel]\n[StartBattle] Nhận 5 [Binding], 1 [ComeForwardToTheKing], và 2 [Enhancement] vào lượt kế.\n[WhenUse] Gán 300 Khiên cho mục tiêu có [BandageOfTheBoundKing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể gây sát thương lên mục tiêu, gây [Vibration] bằng với [Sinking] trên mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chân Dung của Chủ Nhân",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

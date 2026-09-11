@@ -1,0 +1,253 @@
+{
+  "dataList": [
+    {
+      "id": 40003701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time for Some Warm-up!",
+          "desc": "Nếu mục tiêu có 3+ ([Combustion] + [Laceration]), Sức Mạnh Tổng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 3 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 3 sát thương Đập"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 3 sát thương Đập"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpiderDaughterTwo], gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Totally Badass Ass-kicking",
+          "desc": "Nếu mục tiêu có 3+ ([Combustion] + [Laceration]), Sức Mạnh Tổng +2\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpiderDaughterTwo], gây 2 [Laceration] Khi Xu Đánh Trúng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 5 sát thương Đập"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 5 sát thương Đập"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 5"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 3+ [ResentmentSpiderDaughterTwo], Tái sử dụng Xu này 3 lần"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Disemboweling!",
+          "desc": "Kỹ Năng Thermal Blade. \nKhi ở trạng thái [HeatingWireOnSpiderTwo], Kỹ Năng này kích hoạt hiệu ứng Thermal Blade\nNếu mục tiêu có 3+ ([Combustion] + [Laceration]), Sức Mạnh Xu +1\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpiderDaughterTwo], gây +1 Tầng [Laceration] Khi Xu Đánh Trúng\n[EndSkill] Ở mốc 3+ [ResentmentSpiderDaughterTwo], nhận 1 [VioletDamageUp] vào lượt kế",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crossing Dervish!",
+          "desc": "Kỹ Năng Thermal Blade. \nKhi ở trạng thái [HeatingWireOnSpiderTwo], Kỹ Năng này kích hoạt hiệu ứng Thermal Blade\nNếu mục tiêu có 3+ ([Combustion] + [Laceration]), Sức Mạnh Xu +1\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpiderDaughterTwo], gây +1 Tầng [Laceration] Khi Xu Đánh Trúng",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 5 sát thương Đập"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu chủ thể có [ReinforcedTattooSpiderDaughterTwo], gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Violet~ Breaking Slam!",
+          "desc": "Kỹ Năng Thermal Blade. \nKhi ở trạng thái [HeatingWireOnSpiderTwo], Kỹ Năng này kích hoạt hiệu ứng Thermal Blade\nNếu mục tiêu có 3+ ([Combustion] + [Laceration]), Sức Mạnh Xu +1\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpiderDaughterTwo], gây +1 Tầng [Laceration] Khi Xu Đánh Trúng\n[WhenUse] Ở mốc 40%- HP or 2+ [ReinforcedTattooSpiderDaughterTwo], +60% sát thương gây ra\n[WhenUse] Ở mốc 2+ [ResentmentSpiderDaughterTwo], có tỷ lệ 50% gây 1 [Paralysis] Khi Xu Đánh Trúng\n[EndSkill] Tiêu thụ toàn bộ [ResentmentSpiderDaughterTwo] trên chủ thể",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây thêm 5 sát thương Đập"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Get You Back for This...!",
+          "desc": "Kỹ Năng Thermal Blade. \nKhi ở trạng thái [HeatingWireOnSpiderTwo], Kỹ Năng này kích hoạt hiệu ứng Thermal Blade\nKhi bị đánh trúng, Tái sử dụng Kỹ Năng này một lần với mỗi [ReinforcedTattooSpiderDaughterTwo] trên chủ thể (tối đa 2 lần)\n[WhenUse] Nếu chủ thể có [ReinforcedTattooSpiderDaughterTwo], gây 1 [Laceration] Khi Xu Đánh Trúng\n[WhenUse] Ở mốc 40%- HP or 2+ [ReinforcedTattooSpiderDaughterTwo], +40% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Giảm 10 Ngưỡng Choáng của bản thân"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

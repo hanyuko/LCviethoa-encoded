@@ -1,0 +1,219 @@
+{
+  "dataList": [
+    {
+      "id": 114501,
+      "name": "Đội Trưởng Của Băng Ngón Cái, Capo IIII",
+      "desc": "-30% sát thương phải nhận từ [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n\nKhi tung Xu tiêu hao [BulletPropellant]: Không hủy đòn đánh nếu chủ thể không có [BulletPropellant], hiệu ứng Xu \"gây [Combustion]\" và \"gây Tầng [Combustion]\" không hoạt động\n\nKhi Giao Tranh, gây +(1 + (số Giao Tranh / 3)) Tầng [Vibration]\n(tối đa 3; 3 lần mỗi lượt trên cùng một mục tiêu)"
+    },
+    {
+      "id": 114502,
+      "name": "Đông Phương Thập Kiếm",
+      "desc": "Vào Đầu Ải, và vào Đầu Lượt hình thành vi chiến đấu mới:\n- Nhận 1 [Bothersome]\n- Hồi 5 SP với mỗi 10% HP thiếu hụt (tối đa 40)"
+    },
+    {
+      "id": 114503,
+      "name": "Con Mồi Được Chọn",
+      "desc": "Đầu Lượt: Gây 1 [Prey] lên mục tiêu gây sát thương lớn nhất lên chủ thể vào lượt trước\n\nSau khi Lôi Hoành tấn công [Prey], nếu mục tiêu:\n- Staggered, Bị Choáng, tất cả kẻ địch mất 10 SP và nhận 1 [ParryingResultDown] trong lượt này và vào lượt kế (một lần mỗi lượt)\n- Bị đánh bại, kích hoạt hiệu ứng trên thêm một lần"
+    },
+    {
+      "id": 114504,
+      "name": "Thiên Thoái Tinh Đao [天退星刀]",
+      "desc": "+30% sát thương gây ra khi Đòn Một Chiều Đánh Trúng và gây 1 [Vulnerable] vào lượt kế\n\n+20% sát thương gây ra cho Xu tiêu hao [BulletPropellant] và gây 2 [DefenseDown] vào lượt kế\n\nHiệu ứng trên không kích hoạt nếu mục tiêu trang bị Kỹ Năng Phòng Thủ"
+    },
+    {
+      "id": 114505,
+      "name": "Nạp Đạn Hổ Ấn",
+      "desc": "Cuối Lượt: Khi HP ≤ 90%, hoặc vào cuối lượt 2, nạp [BulletPropellant] và hình thành hành vi chiến đấu mới vào lượt kế\n- Nếu chủ thể Bị Choáng, hồi phục khỏi Choáng"
+    },
+    {
+      "id": 114506,
+      "name": "Lôi Hoành [雷橫]",
+      "desc": "Cuối Lượt: Khi HP ≤ 80%, hoặc vào cuối lượt 4, hình thành hành vi chiến đấu mới vào lượt kế\n- Dùng một đòn đánh mạnh mẽ ('Khoái Đao Loạn Ma'), lặp lại mỗi 3 lượt. Tốc Độ Tối Thiểu & Tối Đa +10 vào lượt chủ thể dùng Kỹ Năng này\n- Vào đầu lượt đó, nhận 25 [BattleSense]\n- Nếu chủ thể Bị Choáng, hồi phục khỏi Choáng"
+    },
+    {
+      "id": 114507,
+      "name": "Thiên Thoái Tinh [天退星]",
+      "desc": "Nếu HP của chủ thể ≤ 60% vào Cuối Lượt, hoặc nếu vào lượt kế, chủ thể chuẩn bị dùng một đòn đánh mạnh mẽ ('Khoái Đao Loạn Ma') lần thứ hai trong Ải này, hình thành hành vi chiến đấu mới.\n- Vào đầu lượt đó, nhận 1 [Irritation]\n- Vào đầu lượt đó, nhận 18 [BulletPropellantSpecial] và nạp đạn ngay lập tức\n· Nếu chủ thể tiêu toàn bộ [BulletPropellantSpecial], chuyển thành [BulletPropellant] và triệu hồi 2 \"Soldato Nghiêm Khắc của Băng Ngón Cái\" vào lượt kế. Đơn vị đó sẽ cấp [BulletPropellantSpecial]\n- Khi Bị Choáng, hồi phục khỏi Choáng"
+    },
+    {
+      "id": 114508,
+      "name": "Lôi Hoành, Thiên Thoái Tinh Của Băng Ngón Út",
+      "desc": "Cuối Lượt: Khi HP ≤ 40%, hoặc nếu vào lượt kế, chủ thể chuẩn bị dùng một đòn đánh mạnh mẽ ('Khoái Đao Loạn Ma') lần thứ ba trong Ải này, hình thành hành vi chiến đấu mới.\n- Thay 'Khoái Đao Loạn Ma' thành 'Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm'. Tốc Độ Tối Thiểu & Tối Đa +15 vào lượt chủ thể dùng Kỹ Năng này.\n- Chuyển [BattleSense] thành [RestoredBattleSense]\n- Chuyển [Irritation] thành [HugeIrritation]\n- Nếu chủ thể Bị Choáng, hồi phục khỏi Choáng."
+    },
+    {
+      "id": 114510,
+      "name": "Sáp Sí Hổ [揷翅虎]",
+      "desc": "Khởi Chiến: dựa vào Tốc Độ của chủ thể,\n- Hồi SP bằng với Tốc Độ. Khi SP < 0, hồi gấp đôi SP\n- Nhận (Giá Trị Tốc Độ / 3) [SlashDamageUp] (tối đa 5)\n\nKhởi Chiến: nếu chủ thể có 3+ [Binding], hiệu ứng trên không kích hoạt; nhận [DefenseDown] bằng với [Binding] trên chủ thể (tối đa 9)"
+    },
+    {
+      "id": 114512,
+      "name": "Thiên Thoái Tinh Đao - Quá Nhiệt",
+      "desc": "Nếu chủ thể đã dùng một đòn đánh mạnh mẽ ('Khoái Đao Loạn Ma' hoặc 'Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm'), nhận [Complacency] vào lượt kế bằng với số lần những kỹ năng này đã được dùng (tối đa 5)"
+    },
+    {
+      "id": 117101,
+      "name": "Hỗ Trợ Cung Cấp Đạn Mãnh Hổ ấn",
+      "desc": "Đầu Lượt: Nhận 5 [Vulnerable]\nCuối Lượt: Cung cấp [BulletPropellantSpecial] cho Lôi Hoành\n\nNếu chủ thể bị giết, không thể cung cấp [BulletPropellantSpecial] cho Lôi Hoành; Lôi Hoành nhận 1 [Vulnerable] và 1 [ParryingResultDown] vào lượt kế"
+    },
+    {
+      "id": 113501,
+      "name": "My Little Brother's Hand I Let Slip",
+      "desc": "Khi Đánh Trúng against an enemy, gây 1 [GazeReplica] (once per Identity per turn)\nWhen attacked by an enemy, gây 1 [GazeReplica] lên kẻ tấn công (once per Identity per turn)\nĐầu Lượt: if Hồng Lộ is on the field, gây 1 [GazeReplica] against Hồng Lộ"
+    },
+    {
+      "id": 113502,
+      "name": "Grasp",
+      "desc": "Prioritizes targets with [GraspReplica]\nGains a new pattern when there are targets with [GraspReplica]; +0.1 to all Resistances"
+    },
+    {
+      "id": 113503,
+      "name": "E.G.O Corrosion - N Corp.",
+      "desc": "After entering this Encounter, nhận 1 [EgoErodeReplica] at every passing Turn End\n- Cuối Lượt: khi dưới 50% HP, or at -20 SP or less, nhận thêm 1 [EgoErodeReplica]"
+    },
+    {
+      "id": 113504,
+      "name": "E.G.O Temporary Max Attunement",
+      "desc": "If there are 4+ Sinners with 4+ [GazeReplica] Stacks, use the Skill 'Awe[TabExplain], Contempt[TabExplain] 【Unleashed】' Skill"
+    },
+    {
+      "id": 113505,
+      "name": "Better avert your gazes",
+      "desc": "Where there are other surviving allies, if this unit becomes the main target from 5+ enemies, those enemies lose 10 HP and SP"
+    },
+    {
+      "id": 113601,
+      "name": "The Cost of Fell Bullets",
+      "desc": "Khi Đánh Trúng, hồi 5 SP; on Clash Lose, mất 5 SP"
+    },
+    {
+      "id": 113602,
+      "name": "Charge Forth",
+      "desc": "On enemy Kill, nhận +3 Tầng [Breath]"
+    },
+    {
+      "id": 113603,
+      "name": "A new era is upon us, my dear fellow.",
+      "desc": "Khi còn dưới -20 SP, use a special pattern"
+    },
+    {
+      "id": 113604,
+      "name": "Please, dedicate yourself for the new ideal.",
+      "desc": "If an N Corp. Employee(except Jia Huan)'s HP is less than 50%, use a special pattern"
+    },
+    {
+      "id": 114601,
+      "name": "-",
+      "desc": "HP does not drop below 50%"
+    },
+    {
+      "id": 114602,
+      "name": "Little Baoyu, the lineage of Family Hierarchs cannot end here...",
+      "desc": "Lose Encounter when Hồng Lộ dies. All Skills prioritize Hồng Lộ"
+    },
+    {
+      "id": 114603,
+      "name": "Who shall serve the elders, who shall convey the revered Xianhuang Worm's will to Hongyuan then?!!!",
+      "desc": "Khi Đánh Trúng after Clash Win against Hồng LộGây 1 [PileObedient] (một lần mỗi Kỹ Năng)"
+    },
+    {
+      "id": 114604,
+      "name": "Golden Bough Assimilation - Malattunement",
+      "desc": "Bắt Đầu Ải: nhận [GoldenBoughSync]"
+    },
+    {
+      "id": 114605,
+      "name": "Forbidden Pill of Hongyuan - Completed Heixian Bolus [全黑仙丸]",
+      "desc": "Nhận 1 [AttackUp] và 1 [DefenseDown] every time this unit uses a different type of Skill (3 lần mỗi lượt)"
+    },
+    {
+      "id": 114606,
+      "name": "Hongyuan has always been a putty in the hands of the revered Xianren",
+      "desc": "Cuối Lượt: if Panicked, recover from Panic at the next Turn Start and reset SP to 0\n\nWhen recovering from Panic, nhận 2 [Enhancement] và 2 [Endurance] vào lượt kế; if Hồng Lộ has [Obedient], hồi 15 SP"
+    },
+    {
+      "id": 115201,
+      "name": "Watch this little girl...!",
+      "desc": "Lose Encounter when Hồng Lộ dies. If there are this unit's summoned units at Turn Start, hồi 10 SP"
+    },
+    {
+      "id": 115202,
+      "name": "Golden Bough Assimilation - Distortion",
+      "desc": "Start of the 2nd Phase: nhận [GoldenBoughSyncDistorted]"
+    },
+    {
+      "id": 115203,
+      "name": "Every Family Hierarch has the duty to surrender their bodies to the Xianhuang Worm and his honored will",
+      "desc": "Cuối Lượt: if Panicked, recover from Panic at the next Turn Start and reset SP to 0\n\nWhen recovering from Panic,\n- nhận 2 [Enhancement], 2 [Endurance], và 1 [Agility] vào lượt kế\n- If there are units summoned by this unit, hồi 15 SP\n- If Hồng Lộ has [Obedient], hồi 15 SP"
+    },
+    {
+      "id": 115204,
+      "name": "-",
+      "desc": "HP does not drop below 85%"
+    },
+    {
+      "id": 115205,
+      "name": "-",
+      "desc": "HP does not drop below 65%"
+    },
+    {
+      "id": 115206,
+      "name": "-",
+      "desc": "HP does not drop below 50%"
+    },
+    {
+      "id": 115207,
+      "name": "Rot and Decay in the Husk of Gold and Jade [金玉其外 敗絮其中]",
+      "desc": "If this unit has 10+ [Burst], take +10% damage\nIf this unit has 5+ types of negative effects, take +10% damage"
+    },
+    {
+      "id": 115208,
+      "name": "A Family Hierarch without the revered Xianhuang Worm will never serve Hongyuan",
+      "desc": "Ở mốc 0 HP, the Body Part becomes Staggered vào lượt kế\nThen, this Part becomes Severed, and the Body Part nhận 2 [Vulnerable]"
+    },
+    {
+      "id": 115209,
+      "name": "-",
+      "desc": "HP does not drop below 20%"
+    },
+    {
+      "id": 115301,
+      "name": "Witness Me, O Revered Xianren!",
+      "desc": "When this unit is present, Jia Mu gains 200 Shield for her Core and every Part"
+    },
+    {
+      "id": 115302,
+      "name": "Duties of the Precious Jade",
+      "desc": "As long as this unit is present, apply the following effects to the caged unit:\n- Become 'immobilized'\n- This unit's buffs, HP, and SP cannot be changed"
+    },
+    {
+      "id": 115303,
+      "name": "Departure",
+      "desc": "When this unit is defeated, return the caged character to the battle vào lượt kế"
+    },
+    {
+      "id": 115304,
+      "name": "Refute the Evil; Restore Justice [破邪顯正]",
+      "desc": "If this unit is defeated by the Sinners, activate the following effects:\n- All allies hồi 10 SP; all allies nhận 2 [AttackDmgUp] vào lượt kế\n- Gây 5 [Binding], 3 [AttackDown], và 5 [Vulnerable] against Jia Mu for the next 2 turns\n- The unit that was caged in this unit hồi up to 45 SP. Nhận 2 [Enhancement] upon its return\n- Nhận 3 E.G.O Resources to all Affinities"
+    },
+    {
+      "id": 115401,
+      "name": "O The Supreme Xianren of Immortality",
+      "desc": "Has the [SupremeEternalLife] effect"
+    },
+    {
+      "id": 115402,
+      "name": "Let us be eternally free from aging and death",
+      "desc": "HP does not drop below 1\n\nAt 1 HP, replace [SupremeEternalLife] with [ImperfectEternalLife]"
+    },
+    {
+      "id": 115403,
+      "name": "Knowledge of Immortality",
+      "desc": "If this unit's HP drops to 1 upon getting hit, hồi 10 SP to the Sinner who attacked this unit; then, nhận 3 random E.G.O Resources for the least-owned Sin Affinities (activates once for this unit)"
+    },
+    {
+      "id": 114513,
+      "name": "Hồi Phục Tâm Lý",
+      "desc": "Cuối Lượt: nếu chủ thể rơi vào Hoảng Loạn, chuyển SP về 0\n\nKhi hồi phục khỏi Hoảng Loạn: vào Đầu Lượt kế, hồi SP bằng với HP chủ thể thiếu hụt (tối đa 30)"
+    }
+  ]
+}

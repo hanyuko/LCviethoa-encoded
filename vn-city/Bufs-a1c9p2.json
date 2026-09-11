@@ -1,0 +1,375 @@
+{
+  "dataList": [
+    {
+      "id": "IndexPrescriptTargetToPersonality",
+      "name": "Mục Tiêu của Sắc Lệnh - Băng Ngón Trỏ",
+      "desc": "                    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlessingOfIndexPrescriptEnemy",
+      "name": "Ân Huệ Của Sắc Lệnh",
+      "desc": "        \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescript_Base_2nd",
+      "name": "Sắc Lệnh",
+      "desc": " <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a>  [Máy Nhắn]</color>     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptStudent_0",
+      "name": "Sắc Lệnh: [Máy Nhắn] I",
+      "desc": "     <sprite name=\"IndexPrescriptTargetToPersonality\"><color=#9f6a3a>        </color>\n\n            <sprite name=\"UnlockBuff_Base\"><color=#fac400> </color>\n  <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>       <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptStudent_1",
+      "name": "Sắc Lệnh: [Máy Nhắn] II",
+      "desc": "  <sprite name=\"IndexPrescriptTargetToPersonality\"><color=#9f6a3a>        </color>                  \n\n           <sprite name=\"UnlockBuff_1\"><color=#fac400>   </color>\n  <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>       <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptStudent_2",
+      "name": "Sắc Lệnh: [Máy Nhắn] III",
+      "desc": "         \n\n           <sprite name=\"UnlockBuff_2\"><color=#fac400>   </color>\n  <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>       <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptStudent_3",
+      "name": "Sắc Lệnh: [Máy Nhắn] IV",
+      "desc": "               \n\n           <sprite name=\"UnlockBuff_3\"><color=#fac400>   </color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "UnlockBuff_1",
+      "name": "Khai Mở - I",
+      "desc": "    \n    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_2",
+      "name": "Khai Mở - II",
+      "desc": "    \n    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_3",
+      "name": "Khai Mở - III",
+      "desc": "    \n    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "KarmaOfIndexStudent",
+      "name": "Nghiệp Báo",
+      "desc": "  \n·   <sprite name=\"DefenseDown\"><color=#e20000>   </color>    \n·   <sprite name=\"Vulnerable\"><color=#e30000> </color>    \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Lãnh nhận và thực thi Sắc Lệnh. Việc chấp nhận chỉ thị này khắc sâu Nghiệp Chướng, thứ sẽ tích lũy qua năm tháng rồi theo quy luật nhân quả mà ứng nghiệm như đã định."
+    },
+    {
+      "id": "Blandishment_Enemy",
+      "name": "Đức Tin Vô Độ",
+      "desc": "        \n        \n     <sprite name=\"Breath\"><color=#fac400> </color>   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Chẳng... chẳng phải quá rõ ràng sao? Từng câu chữ mà chiếc máy nhắn này hiện ra là tuyệt đối... kh-không thể chối cãi.\""
+    },
+    {
+      "id": "Blandishment_Shin_Enemy",
+      "name": "Tâm (心) - Sora",
+      "desc": "        \n        \n       <sprite name=\"Breath\"><color=#fac400> </color>   \n             ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PressureOfPrescript",
+      "name": "Nghĩa Vụ",
+      "desc": "          \n         \n·        \n·          \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'M-mình nên làm gì đây? Phải mau chóng thực thi mệnh lệnh được giao phó...'"
+    },
+    {
+      "id": "PressureOfPrescript_2nd",
+      "name": "Gánh Nặng",
+      "desc": "          \n         \n·        \n·                \n     \n              <sprite name=\"PressureOfPrescript\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlindFaith_LowMorale",
+      "name": "Rủi Ro Từ Việc Kháng Sắc Lệnh",
+      "desc": "  \n         <sprite name=\"IndexPrescriptTargetToPersonality\"><color=#9f6a3a>        </color>\n          <sprite name=\"IndexPrescriptTargetToPersonality\"><color=#9f6a3a>        </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlindFaith_Panic",
+      "name": "Rủi Ro Từ Việc Kháng Sắc Lệnh",
+      "desc": "  \n         <sprite name=\"IndexPrescriptTargetToPersonality\"><color=#9f6a3a>        </color>\n          <sprite name=\"IndexPrescriptTargetToPersonality\"><color=#9f6a3a>        </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YellowHarpoon",
+      "name": "Lao Móc Vàng",
+      "desc": "     <sprite name=\"Agility\"><color=#fac400> </color>   <sprite name=\"Breath\"><color=#fac400> </color>\n      <sprite name=\"Agility\"><color=#fac400> </color>      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YellowHarpoonSin",
+      "name": "Tâm (心) - Lao Móc Vàng",
+      "desc": "          \n                \n               ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BeeSting",
+      "name": "Găm Lao [Ong Chích]",
+      "desc": "       \n     <sprite name=\"Binding\"><color=#e30000> </color>   \n      <sprite name=\"Laceration\"><color=#e30000> </color>\n        <sprite name=\"HornetPoison\"><color=#e30000>  </color>\n   <sprite name=\"Laceration\"><color=#e30000> </color>          ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ArtifactBeeSting",
+      "name": "Găm Lao [Bắp Cày Chích]",
+      "desc": "       \n     <sprite name=\"Binding\"><color=#e30000> </color>   \n      <sprite name=\"Laceration\"><color=#e30000> </color>\n        <sprite name=\"HornetPoison\"><color=#e30000>  </color>\n   <sprite name=\"Laceration\"><color=#e30000> </color>            ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HornetPoison",
+      "name": "Rung Chấn Gungnir",
+      "desc": "                \n               <sprite name=\"Vibration\"><color=#e30000> </color>  <sprite name=\"Vibration\"><color=#e30000> </color>  ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "<color=#fde55d>Kẻ bị cây lao móc này đâm xuyên mỗi khi trúng đòn sẽ gục ngã trước chấn động dồn dập liên tục khuếch đại.</color>"
+    },
+    {
+      "id": "CriticalDmgUpVespa",
+      "name": "Thiểm Phong Quang Kiếm - Hoàn Đao",
+      "desc": "             ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "<color=#fde55d>A swordfighting style originating from the East, suited to those who employ instantaneous bursts of leaping movement that verge on teleportation.\n\nThe boy braved the life-threatening augmentation with a desperate resolve, and his survival proved his worth.</color>"
+    },
+    {
+      "id": "Vespa_LowMorale",
+      "name": "Bực Tức",
+      "desc": "  \n   <sprite name=\"PenetrateResultUp\"><color=#fac400>   </color>   <sprite name=\"MentalIncreaseDown\"><color=#e30000>    </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Vespa_Panic",
+      "name": "Bực Tức",
+      "desc": "  \n   <sprite name=\"PenetrateResultUp\"><color=#fac400>   </color>  <sprite name=\"PenetrateDamageUp\"><color=#fac400>   </color>   <sprite name=\"MentalIncreaseDown\"><color=#e30000>    </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDays_LowMorale",
+      "name": "Tình Thương Và Oán Hận",
+      "desc": "     ōū        ōū",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDays_Panic",
+      "name": "Tình Thương Và Oán Hận",
+      "desc": "     ōū        ōū",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhantomIncision",
+      "name": "Kiếm Ngân [Dư Ảnh]",
+      "desc": "     \n     <sprite name=\"Vulnerable\"><color=#e30000> </color>       ",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "PhantomIncisionTotal",
+      "name": "Địa Tuệ Tinh Đao",
+      "desc": "    [Dư Ảnh]    ",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "LvDownLittleFingerBoss",
+      "name": "Silent Regard",
+      "desc": " ",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeGapAb",
+      "name": "Phân Ly",
+      "desc": "         \n        ",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleFour",
+      "name": "Tứ Trùng Chồng Chập Dư Ảnh",
+      "desc": "     \n           \n         \n  ·   <sprite name=\"Poison\"><color=#e30000> </color>\n  ·   <sprite name=\"Laceration\"><color=#e30000> </color>\n  ·   <sprite name=\"Binding\"><color=#e30000> </color>   \n  ·   <sprite name=\"Combustion\"><color=#e30000> </color>",
+      "summary": "Stage 4 Afterimage Entanglement",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleThree",
+      "name": "Tam Trùng Chồng Chập Dư Ảnh",
+      "desc": "     \n         \n  ·   <sprite name=\"Laceration\"><color=#e30000> </color>\n  ·   <sprite name=\"Binding\"><color=#e30000> </color>   \n  ·   <sprite name=\"Combustion\"><color=#e30000> </color>",
+      "summary": "Stage 3 Afterimage Entanglement",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleTwo",
+      "name": "Nhị Trùng Chồng Chập Dư Ảnh",
+      "desc": "     \n         \n  ·   <sprite name=\"Binding\"><color=#e30000> </color>   \n  ·   <sprite name=\"Combustion\"><color=#e30000> </color>",
+      "summary": "Stage 2 Afterimage Entanglement",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleOne",
+      "name": "Nhất Trùng Chồng Chập Dư Ảnh",
+      "desc": "     \n         \n  ·   <sprite name=\"Combustion\"><color=#e30000> </color>",
+      "summary": "Stage 1 Afterimage Entanglement",
+      "undefined": "-"
+    },
+    {
+      "id": "LittleFingerBoss_Shin",
+      "name": "Tâm (心) - Địa Tuệ Tinh",
+      "desc": "     \n        \n·    <sprite name=\"Breath\"><color=#fac400> </color>    <sprite name=\"Breath\"><color=#fac400> </color>   \n·   <sprite name=\"SlashDamageUp\"><color=#fac400>   </color>            ",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuParrySoji",
+      "name": "Ký Ức Vặn Vẹo, Rời Rạc Đan Xen Hồi Ức",
+      "desc": "    \n                                   \n                      <sprite name=\"Enhancement\"><color=#fac400>    </color>       \n                                        \n    ",
+      "summary": "If there is a surviving ally, HP does not drop below 1",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuStartA1C9P2",
+      "name": "Ký Ức Bị Trảm Đoạn",
+      "desc": "    \n          \n                 <sprite name=\"Enhancement\"><color=#fac400>    </color>    \n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Ryoshu_IndexFightBuff",
+      "name": "Ký Ức Bị Trảm Đoạn Đan Xen Hồi Ức",
+      "desc": "    \n          \n                      <sprite name=\"Enhancement\"><color=#fac400>    </color>       \n                                        \n    ",
+      "summary": "Ryōshū Exclusive Effect",
+      "undefined": "-"
+    },
+    {
+      "id": "Malkuth_Imperfect",
+      "name": "Vương Triều Của Malkuth - Triệu Hoán Chưa Hoàn Chỉnh",
+      "desc": "<i><color=#d3a562>               </color></i>",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleDesc",
+      "name": "Chồng Chập Dư Ảnh",
+      "desc": "         \n         ",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptDon_0",
+      "name": "Sắc Lệnh: [Máy Nhắn] I",
+      "desc": "     <sprite name=\"IndexPrescriptTargetMarkToEnemy\"><color=#9f6a3a>   </color>           \n\n            <sprite name=\"UnlockBuff_Base\"><color=#fac400> </color>\n  <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>       <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptDon_1",
+      "name": "Sắc Lệnh: [Máy Nhắn] II",
+      "desc": "        <sprite name=\"IndexPrescriptTargetMarkToEnemy\"><color=#9f6a3a>   </color>\n\n           <sprite name=\"UnlockBuffAlly_1\"><color=#fac400>   </color>\n  <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>       <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptDon_2",
+      "name": "Sắc Lệnh: [Máy Nhắn] III",
+      "desc": "                       <sprite name=\"IndexPrescriptTargetMarkToEnemy\"><color=#9f6a3a>   </color>\n\n           <sprite name=\"UnlockBuffAlly_2\"><color=#fac400>   </color>\n  <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>       <sprite name=\"IndexPrescript_Base_2nd\"><color=#9f6a3a> </color>    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "IndexPrescriptDon_3",
+      "name": "Sắc Lệnh: [Máy Nhắn] IV",
+      "desc": "              \n\n           <sprite name=\"UnlockBuffAlly_3\"><color=#fac400>   </color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sắc Lệnh đến bằng nhiều con đường khác nhau; mọi con đường đều đã được định đoạt sẵn, dứt khoát tựa như lời tiên tri thiêng liêng. Người tiếp nhận không có quyền lựa chọn Sắc Lệnh sẽ đến theo cách nào."
+    },
+    {
+      "id": "UnlockBuff_Base",
+      "name": "Khai Mở",
+      "desc": "         <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>  \n           <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#fac400>    </color>\n    ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuffAlly_1",
+      "name": "Khai Mở - I",
+      "desc": "    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuffAlly_2",
+      "name": "Khai Mở - II",
+      "desc": "    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuffAlly_3",
+      "name": "Khai Mở - III",
+      "desc": "    \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Blandishment",
+      "name": "Đức Tin Vô Độ",
+      "desc": "        \n    \n    \n     <sprite name=\"Breath\"><color=#fac400> </color>     \n                       \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Blandishment_Shin",
+      "name": "Tâm (心) - Quyền Hành",
+      "desc": "        \n    \n    \n       <sprite name=\"Breath\"><color=#fac400> </color>     \n                  \n     ",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

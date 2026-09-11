@@ -1,0 +1,1224 @@
+{
+  "dataList": [
+    {
+      "id": 144801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Constricting Ohra Bonds",
+          "desc": "[WhenUse] Khi có 6+ ([Breath] trên chủ thể + [Laceration] trên mục tiêu), Sức Mạnh Gốc +1\n[WhenUse] Nhận +3 Tầng [Breath]\n- Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, nhận +1 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [ScratchesHurt] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hamstringing",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 6 ([Breath] trên chủ thể + [Laceration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, chuyển Xu cuối thành [SuperCoin]\n[WhenUse] Nhận 2 [Breath] và +3 Tầng [Breath]\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, nhận 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [ScratchesHurt] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Avulsion Slash",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Breath] trên chủ thể + [Laceration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, chuyển toàn bộ Xu thành [SuperCoin]\n[WhenUse] Nhận 3 [Breath]\n[WinDuel] Nhận 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [ScratchesHurt] vào lượt kế"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 1 [ScratchesHurt] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Branding",
+          "desc": "Prioritizes target that has [TiedRope]\nNếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, +25% sát thương gây ra với mỗi Tốc Độ chênh lệch (tối đa 100%)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Breath] trên chủ thể + [Laceration] trên mục tiêu) (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Escape Cutoff",
+          "desc": "[DuelCounter]\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 6 ([Breath] trên chủ thể + [Laceration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nhận 3 [Breath]\n[WinDuel] Nhận +3 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [ScratchesHurt] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trammel",
+          "desc": "[WhenUse] Khi có 6+ ([Breath] trên chủ thể + [Laceration] trên mục tiêu), Sức Mạnh Gốc +1\n[WhenUse] Nhận +3 Tầng [Breath]\n- Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, nhận +1 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Choke Hold",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 6 ([Breath] trên chủ thể + [Laceration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, chuyển Xu cuối thành [SuperCoin]\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, nhận 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hunter's Scouring",
+          "desc": "[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Breath] trên chủ thể + [Laceration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, chuyển toàn bộ Xu thành [SuperCoin]\n[WhenUse] Nhận 3 [Breath]\n[WinDuel] Nhận 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Binding] lượt này và lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ([Binding] x 20)% chance to inflict [TiedRope]\n- Nếu mục tiêu đang bị Choáng, this effect is inflicted without fail"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Branding",
+          "desc": "Prioritizes target that has [TiedRope]\nNếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, +25% sát thương gây ra với mỗi Tốc Độ chênh lệch (tối đa 100%)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 ([Breath] trên chủ thể + [Laceration] trên mục tiêu) (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Route Cutoff",
+          "desc": "[DuelCounter]\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 6 ([Breath] trên chủ thể + [Laceration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nhận 3 [Breath]\n[WinDuel] Nhận +3 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Briefcase Corner Point",
+          "desc": "[WhenUse] Nhận 1 [Agility] next turn (một lần mỗi lượt)\nNếu mục tiêu có 6+ ([Laceration] + [Vibration]), Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Weighted Bash",
+          "desc": "[WhenUse] Nhận 2 [Agility] next turn (một lần mỗi lượt)\nSức Mạnh Xu +1 với mỗi 6 ([Laceration] trên mục tiêu + [Vibration] trên mục tiêu) (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enframe Subject",
+          "desc": "Sức Mạnh Xu +1 với mỗi 6 ([Laceration] trên mục tiêu + [Vibration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, chuyển toàn bộ Xu thành [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[EndCoin] Gây 1 [TakePicture] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Snapshot",
+          "desc": "[DuelCounter]\nSức Mạnh Gốc +1 với mỗi 4 ([Laceration] trên mục tiêu + [Vibration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, chuyển toàn bộ Xu thành [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [AttackDown] vào lượt kế"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[EndCoin] Gây 1 [TakePicture] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Steel Plate Slam",
+          "desc": "[WhenUse] Nhận 1 [Agility] next turn (một lần mỗi lượt)\nNếu mục tiêu có 6+ ([Laceration] + [Vibration]), Sức Mạnh Gốc +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nailhead Strike",
+          "desc": "[WhenUse] Nhận 2 [Agility] next turn (một lần mỗi lượt)\nSức Mạnh Xu +1 với mỗi 6 ([Laceration] trên mục tiêu + [Vibration] trên mục tiêu) (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Focus Recompose",
+          "desc": "Sức Mạnh Xu +1 với mỗi 6 ([Laceration] trên mục tiêu + [Vibration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, chuyển toàn bộ Xu thành [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[EndCoin] Inflict [TakePicture] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Snapshot",
+          "desc": "[DuelCounter]\nSức Mạnh Gốc +1 với mỗi 4 ([Laceration] trên mục tiêu + [Vibration] trên mục tiêu) (tối đa 2)\n[WhenUse] Nếu Tốc Độ của đơn vị này nhanh hơn mục tiêu, chuyển toàn bộ Xu thành [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [AttackDown] vào lượt kế"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Paralysis] vào lượt kế"
+                },
+                {
+                  "desc": "[EndCoin] Inflict [TakePicture] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oxsplitter",
+          "desc": "[WhenUse] Nhận 3 [Breath]\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bearsplitter",
+          "desc": "[WhenUse] Nhận +3 Tầng [Breath]\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Khi có 6+ [Breath], chuyển toàn bộ Xu thành [SuperCoin]\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bearspine Breaker",
+          "desc": "[WhenUse] Khi có 8+ [Breath], +40% sát thương gây ra khi Trí Mạng\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Khi có 7+ [ChoiSwordsmanship], chuyển toàn bộ Xu thành [SuperCoin] và +20% sát thương gây ra khi Trí Mạng</color></mark></b></u>\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashResistDown] lượt này và lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swordform of the Homeland - Sal's Sundering",
+          "desc": "[WhenUse] Nhận 3 [Breath]\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiger Hunt",
+          "desc": "[WhenUse] Nhận +3 Tầng [Breath]\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Khi có 6+ [Breath], chuyển toàn bộ Xu thành [SuperCoin]\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tigersplitter",
+          "desc": "[WhenUse] Khi có 8+ [Breath], +40% sát thương gây ra khi Trí Mạng\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Khi có 3 [ChoiSwordsmanship] hoặc ít hơn, chuyển toàn bộ Xu thành [SuperCoin] và +20% sát thương gây ra khi Trí Mạng</color></mark></b></u>\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashResistDown] lượt này và lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sword of the Homeland [Sal] - Reassume Stance",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\n[CantDuel] với các Đơn Vị Hỗ Trợ\nPrioritizes Sinners\nNếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, chuyển thành [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Mất 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Nếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, hiệu ứng này không kích hoạt\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Khi Trúng Đòn dưới dạng Đòn Một Chiều, hoặc Khi Trúng Đòn mục tiêu đã dùng [SupportProtect], nhận 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sword of the Homeland [Sal] - Swordhoning",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\n[CantDuel] với các Đơn Vị Hỗ Trợ\nPrioritizes Sinners\nNếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, chuyển thành [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Nhận 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Nếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, hiệu ứng này không kích hoạt\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Khi Trúng Đòn dưới dạng Đòn Một Chiều, hoặc Khi Trúng Đòn mục tiêu đã dùng [SupportProtect], mất 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bow of the Homeland [Sal] - Arrowloose",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>Nhắm vào kẻ địch có nhiều [Laceration] nhất</color></mark></b></u>\nKhông bị ảnh hưởng từ [ChoiSwordsmanship]\n[WhenUse] Tiêu thụ 3 Lượng [Breath] trên chủ thể để nhận Sức Mạnh Tổng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +4 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 10"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145012,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardform",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\n[StartBattle] Nhận 5 [Breath] và +5 Tầng [Breath]\n[WhenUse] Nhận 2 [CriticalDamageUp] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145013,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counterform",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\n[StartBattle] Nhận 5 [Breath] và +5 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oxsplitter",
+          "desc": "[WhenUse] Nhận 3 [Breath]\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bearsplitter",
+          "desc": "[WhenUse] Nhận +3 Tầng [Breath]\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Khi có 6+ [Breath], chuyển toàn bộ Xu thành [SuperCoin]\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bearspine Breaker",
+          "desc": "[WhenUse] Khi có 8+ [Breath], +40% sát thương gây ra khi Trí Mạng\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Khi có hơn 6 [ChoiSwordsmanship], nhận Sức Mạnh Tổng với mỗi Lớp [ChoiSwordsmanship] (tối đa 3)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Khi có 7+ [ChoiSwordsmanship], chuyển toàn bộ Xu thành [SuperCoin] và +20% sát thương gây ra khi Trí Mạng</color></mark></b></u>\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashResistDown] lượt này và lượt kế"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +3 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Even Sanguns Shall Be Cleft Under This Sword",
+          "desc": "Nhắm vào kẻ địch có nhiều [Laceration] nhất\n[WhenUse] Không thể bị Choáng do nhận sát thương cho đến khi Kỹ Năng này kết thúc\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 3)\n[WhenUse] Khi có hơn 6 [ChoiSwordsmanship], nhận Sức Mạnh Tổng +2 với mỗi Lớp [ChoiSwordsmanship] (tối đa 6)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Kỹ năng này luôn ra Xu Ngửa, gây Trí Mạng, và không giảm Tầng [Breath]</color></mark></b></u>\n[BeforeAttack] +20% sát thương gây ra khi Trí Mạng với mỗi 2 [ChoiSwordsmanship] trên chủ thể (tối đa 80%)\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây (([Breath] trên chủ thể x 10)% tổng sát thương của Xu này) sát thương Chém (tối đa 100%)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây (([Laceration] trên mục tiêu x 10)% tổng sát thương của Xu này) sát thương Dục Vọng (tối đa 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu một lần. Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swordform of the Homeland - Sal's Sundering",
+          "desc": "[WhenUse] Nhận 3 [Breath]\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiger Hunt",
+          "desc": "[WhenUse] Nhận +3 Tầng [Breath]\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] Khi có 6+ [Breath], chuyển toàn bộ Xu thành [SuperCoin]\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tigersplitter",
+          "desc": "[WhenUse] Khi có 8+ [Breath], +40% sát thương gây ra khi Trí Mạng\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Khi có 3 [ChoiSwordsmanship] hoặc ít hơn, chuyển toàn bộ Xu thành [SuperCoin] và +20% sát thương gây ra khi Trí Mạng</color></mark></b></u>\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration] và +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [SlashResistDown] lượt này và lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No Tiger's Flesh Shall Be Left Uncloven",
+          "desc": "Nhắm vào kẻ địch có nhiều [Laceration] nhất\n<color=#ff6000><mark color=#ff000040><b><u>Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ</color></mark></b></u>\n[WhenUse] Không thể bị Choáng do nhận sát thương cho đến khi Kỹ Năng này kết thúc\n[WhenUse] nhận Sức Mạnh Tổng +1 với mỗi 4 [Laceration] trên mục tiêu (tối đa 3)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Kỹ năng này luôn ra Xu Ngửa, gây Trí Mạng, và không giảm Tầng [Breath]</color></mark></b></u>\n[BeforeAttack] +20% sát thương gây ra khi Trí Mạng với mỗi 2 [Breath] trên chủ thể (tối đa 80%)\n[DefeatDuel]\n- -80% sát thương gây ra\n- Không ra đòn Trí Mạng\n- Kỹ Năng này không thể Choáng mục tiêu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu một lần. Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu một lần. Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu một lần. Mục tiêu mất 1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu chính có 10+ [Laceration], gây +8 Tầng [Laceration] lên mục tiêu"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây +8 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sword of the Homeland [Sal] - Reassume Stance",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\n[CantDuel] với các Đơn Vị Hỗ Trợ\nPrioritizes Sinners\nNếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, chuyển thành [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Mất 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Nếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, hiệu ứng này không kích hoạt\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Khi Trúng Đòn dưới dạng Đòn Một Chiều, hoặc Khi Trúng Đòn mục tiêu đã dùng [SupportProtect], nhận 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sword of the Homeland [Sal] - Swordhoning",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\n[CantDuel] với các Đơn Vị Hỗ Trợ\nPrioritizes Sinners\nNếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, chuyển thành [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Nhận 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Nếu Kỹ năng của mục tiêu là Kỹ Năng [SupportProtect] Đặc Biệt, hiệu ứng này không kích hoạt\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Khi Trúng Đòn dưới dạng Đòn Một Chiều, hoặc Khi Trúng Đòn mục tiêu đã dùng [SupportProtect], mất 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bow of the Homeland [Sal] - Arrowloose",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>Nhắm vào kẻ địch có nhiều [Laceration] nhất</color></mark></b></u>\nKhông bị ảnh hưởng từ [ChoiSwordsmanship]\n[WhenUse] Tiêu thụ 3 Lượng [Breath] trên chủ thể để nhận Sức Mạnh Tổng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Laceration] và +4 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nâng Ngưỡng Choáng của mục tiêu lên thêm 10"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gây 3 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardform",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\n[StartBattle] Nhận 5 [Breath] và +5 Tầng [Breath]\n[WhenUse] Nhận 2 [CriticalDamageUp] vào lượt kế",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145113,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counterform",
+          "desc": "Không bị ảnh hưởng từ [ChoiSwordsmanship]\n[StartBattle] Nhận 5 [Breath] và +5 Tầng [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

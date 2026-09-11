@@ -1,0 +1,149 @@
+{
+  "dataList": [
+    {
+      "id": 108001,
+      "name": "Đề Kháng Tội Lỗi",
+      "desc": "Trừ khi chủ thể Bị Choáng hoặc Bộ Phận Bị Phá Hủy, -50% sát thương phải nhận"
+    },
+    {
+      "id": 108002,
+      "name": "Cộng Hưởng Chấn Động",
+      "desc": "Khi bị đánh, gây +2 [Vibration] lên Kẻ Tấn Công\nNếu mục tiêu có [Vibration], gây 2 [Vibration] lên tất cả kẻ địch khi Đánh Trúng.\nKết Đòn: Nếu mục tiêu bị hạ gục, gây +4 [Vibration] lên tất cả kẻ địch"
+    },
+    {
+      "id": 108101,
+      "name": "Đề Kháng Tội Lỗi",
+      "desc": "Trừ khi chủ thể Bị Choáng hoặc Bộ Phận Bị Phá Hủy, -80% sát thương phải nhận từ [Sinking]"
+    },
+    {
+      "id": 108102,
+      "name": "Lây Nhiễm U Sầu",
+      "desc": "Đầu Lượt: Gây 5 [Sinking] lên tất cả kẻ địch, trừ kẻ dịch có nhiều SP nhất\nKết Đòn: Nếu mục tiêu bị hạ gục, giảm 10 SP của tất cả kẻ địch; sau đó, gây 3 [Sinking] và +2 Tầng [Sinking] lên tất cả kẻ địch"
+    },
+    {
+      "id": 9018101,
+      "name": "Răng",
+      "desc": "Khi Đánh Trúng, hồi 5 HP. Có 50% tỷ lệ gây 1 [Laceration]"
+    },
+    {
+      "id": 9018102,
+      "name": "Huỳnh Đăng",
+      "desc": "Khởi Chiến: nếu chủ thể bị 2+ đơn vị chọn làm mục tiêu, nhận 1 [Protection], 1 [ParryingResultUp], và 1 [PlusCoinValueUp]"
+    },
+    {
+      "id": 9018103,
+      "name": "Can Đảm Ẩn Danh",
+      "desc": "Kết Đòn: Nếu mục tiêu bị Choáng hoặc bị hạ gục, nâng 20% HP tối đa của chủ thể bằng với HP tối đa khi Đầu Ải (tối đa +100%)"
+    },
+    {
+      "id": 9018104,
+      "name": "Công Bằng Ẩn Danh",
+      "desc": "Cuối Lượt: Nếu mục tiêu bị Choáng hoặc bị hạ gục, Tốc Độ Tối Thiểu & Tốc Độ Tối Đa +1 và nhận 3 [AttackDmgUp] vào lượt kế"
+    },
+    {
+      "id": 9018105,
+      "name": "Đèn Lồng Kỳ Dị",
+      "desc": "Khởi Chiến: Nhận 1 [Vulnerable] với mỗi Danh Tính nhắm vào chủ thể (tối đa 5)\nKhởi Chiến: Nếu tất cả kẻ địch tấn công chủ thể, Phạm Vi Tấn Công +1\n- Nhận Cấp Công Kích bằng với số kẻ địch; khi chủ thể hồi máu, hồi thêm 5 HP"
+    },
+    {
+      "id": 9018106,
+      "name": "Vũ Khí Loại ĐEN",
+      "desc": "Khi Đánh Trúng, gây hai loại sát thương HP và SP"
+    },
+    {
+      "id": 9018201,
+      "name": "Tri Thức Ẩn Danh",
+      "desc": "Đầu Lượt: Khi SP > 0, hồi 5~20 SP"
+    },
+    {
+      "id": 9018202,
+      "name": "Tiết Độ Ẩn Danh",
+      "desc": "Khi bị đánh, nhận 1 [ParryingResultUp] và 1 [Agility] vào lượt kế (tối đa 2)"
+    },
+    {
+      "id": 107901,
+      "name": "Gia Đình Kêu Gọi Ta",
+      "desc": "Cuối Lượt: Với mỗi 3% HP thiếu hụt, nhận 1 [AttackUp]. (tối đa 5)\nCuối Lượt: Tốc Độ Tối Thiểu & Tốc Độ Tối Đa +1 vào lượt kế với mỗi 300 [BloodDinner]\nThis unit's HP cannot be reduced below 60%."
+    },
+    {
+      "id": 107902,
+      "name": "Huyết Giáp",
+      "desc": "Khởi Chiến: Nhận 1 [BloodArmor]\n- [BloodArmor] không thể giảm xuống dưới 1\n- Khi có 10+ [BloodArmor], chuyển hết thành [BloodArmor_2nd].\n- Khi có 20+ [BloodArmor_2nd], chuyển hết thành [BloodArmor_3rd].\nNhận Tốc Độ Tối Thiểu & Tối Đa dựa trên số Tầng của hiệu ứng này (tối đa 2)\nNếu chủ thể tiêu thụ [BloodArmor] và giảm xuống dưới các ngưỡng trên, quay về Tầng trước đó tương ứng"
+    },
+    {
+      "id": 107903,
+      "name": "Họ Thèm Khát Máu",
+      "desc": "Cuối Lượt: Nếu Hoảng Loạn, hồi phục khỏi Hoảng Loạn, và tiêu thụ 50 [BloodDinner] để nhận 3 [Enhancement]\n- Nếu chủ thể không thể tiêu thụ [BloodDinner], nhận 30 [Laceration], 3 [Enhancement], và 2 [AttackDmgUp]"
+    },
+    {
+      "id": 107904,
+      "name": "Thèm Khát Máu Tươi",
+      "desc": "Đầu Ải: nhận [Bloodthirst]"
+    },
+    {
+      "id": 107905,
+      "name": "Thêm Thật Nhiều Huyết Yến",
+      "desc": "Nếu mục tiêu bị Kỹ Năng Tấn Công của chủ thể tiêu diệt, tăng [BloodDinner] bằng với HP tối đa của chủ thể"
+    },
+    {
+      "id": 108201,
+      "name": "Quan Sát",
+      "desc": "Đầu Ải: Gán 1 [ObservedPerson] lên tất cả kẻ địch; sau đó, nhận Lượng và Tầng [Breath] bằng với số kẻ địch đang có [ObservedPerson]\n\nĐầu Lượt: Gán 1 [ObservedPerson] lên mục tiêu không có [ObservedPerson]\n\nVới mỗi 10 [ObservedPerson] đang có trên mục tiêu, chủ thể gây thêm +1 Lượng và Tầng [Vibration] (tối đa 3)"
+    },
+    {
+      "id": 108202,
+      "name": "Thích Nghi",
+      "desc": "Nhận 1 Lượng [Breath] mỗi khi hiệu ứng Kỹ Năng của chủ thể gây sát thương (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] mỗi khi đánh trúng\n\nNhận +1 Tầng [Breath] mỗi khi chủ thể nhận sát thương từ hiệu ứng Kỹ Năng của kẻ địch (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Tầng [Breath] mỗi khi bị đánh trúng"
+    },
+    {
+      "id": 108203,
+      "name": "Cơ Chế Phòng Vệ",
+      "desc": "Đầu Lượt: Nhận Khiên bằng 30% HP thiếu hụt (HP Khiên không thể vượt quá 15% HP tối đa)\n- Nếu chủ thể có [Combustion], giảm (Tầng [Combustion] x 1.5)% HP Khiên\n- Khiên nhận thêm 100% sát thương từ hiệu ứng [Burst]\n\nCuối Lượt: Nếu Khiên nhận được từ hiệu ứng này bị phá hủy, trong phần còn lại của Ải, nhận 1 [DefenseDown] mỗi khi Khiên bị phá hủy (tối đa 5)"
+    },
+    {
+      "id": 108204,
+      "name": "Thiên Kiến Xác Nhận",
+      "desc": "Cuối Lượt: Hút 10 SP từ mục tiêu có SP cao hơn chủ thể (tối đa 3 mục tiêu theo thứ tự SP giảm dần; không cộng dồn trên cùng mục tiêu)\n(Không kích hoạt nếu Hohenheim Bị Hoảng Loạn)"
+    },
+    {
+      "id": 108205,
+      "name": "Đặt Giả Thuyết",
+      "desc": "Ở Lượt 3: Hình thành hành vi chiến đấu mới và chuẩn bị sử dụng một Kỹ Năng mạnh mẽ.\nSau khi Lượt 3 kết thúc: Hiệu ứng trên sẽ kích hoạt nếu chủ thể có 30+ Tầng [Breath] vào Cuối Lượt\n\nNếu chủ thể không nhận sát thương HP nào trong giai đoạn chuẩn bị trước khi dùng Kỹ Năng mạnh mẽ, cường hóa Kỹ Năng (không tính sát thương mà HP Khiên hấp thụ)"
+    },
+    {
+      "id": 108206,
+      "name": "Thích Nghi Kém",
+      "desc": "Khi bị Sự Kiện Lựa Chọn làm suy yếu, Nội Tại này thay thế 「Thích Nghi」\n\nNhận 1 Lượng [Breath] mỗi khi chủ thể gây sát thương bằng hiệu ứng Kỹ Năng (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] với mỗi đòn đánh trúng; tuy nhiên, giảm 3 [ObservedPerson] của mục tiêu\n\nNhận +1 Tầng [Breath] mỗi khi chủ thể nhận sát thương từ hiệu ứng Kỹ Năng của kẻ địch (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Tầng [Breath] mỗi khi bị đánh trúng; tuy nhiên, giảm 3 [ObservedPerson] của mục tiêu\n\nSát thương Đòn Trí Mạng không thể tăng thêm hoặc giảm xuống"
+    },
+    {
+      "id": 108207,
+      "name": "Cơ Chế Phòng Vệ Không Thỏa Đáng",
+      "desc": "Khi bị Sự Kiện Lựa Chọn làm suy yếu, Nội Tại này thay thế 「Cơ Chế Phòng Vệ」\n\nĐầu Lượt: Nhận Khiên bằng 15% HP thiếu hụt (HP Khiên không thể vượt quá 15% HP tối đa)\n- Nếu mục tiêu có [Combustion], mất (Tầng [Combustion] x 2)% HP Khiên\n- Khiên nhận thêm 150% sát thương từ hiệu ứng [Burst]\n\nCuối Lượt: Nếu Khiên nhận được từ hiệu ứng này bị phá hủy, trong phần còn lại của Ải, nhận 2 [DefenseDown] vào Đầu Lượt mỗi khi Khiên bị phá hủy (tối đa 10)"
+    },
+    {
+      "id": 108208,
+      "name": "Tự Ngờ Vực",
+      "desc": "Khi bị Sự Kiện Lựa Chọn làm suy yếu, Nội Tại này thay thế 「Thiên Kiến Xác Nhận」\n\nĐầu Lượt: Mất 15 SP\nCuối Lượt: Hút 5 SP từ mục tiêu có SP cao hơn chủ thể (tối đa 3 mục tiêu; theo thứ tự SP giảm dần; không thể cộng dồn trên cùng mục tiêu)\n(Không kích hoạt nếu Hohenheim Bị Hoảng Loạn)"
+    },
+    {
+      "id": 108209,
+      "name": "Thích Nghi",
+      "desc": "Nhận 1 Lượng [Breath] mỗi khi hiệu ứng Kỹ Năng của chủ thể gây sát thương (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] mỗi khi đánh trúng\n\nNhận +1 Tầng [Breath] mỗi khi chủ thể nhận sát thương từ hiệu ứng Kỹ Năng của kẻ địch (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Tầng [Breath] mỗi khi bị đánh trúng"
+    },
+    {
+      "id": 108210,
+      "name": "Cơ Chế Phòng Vệ",
+      "desc": "Đầu Lượt: Nhận Khiên bằng 30% HP thiếu hụt (HP Khiên không thể vượt quá 15% HP tối đa)\n- Nếu chủ thể có [Combustion], giảm (Tầng [Combustion] x 1.5)% HP Khiên\n- Khiên nhận thêm 100% sát thương từ hiệu ứng [Burst]\n\nCuối Lượt: Nếu Khiên nhận được từ hiệu ứng này bị phá hủy, trong phần còn lại của Ải, nhận 1 [DefenseDown] mỗi khi Khiên bị phá hủy (tối đa 5)"
+    },
+    {
+      "id": 108211,
+      "name": "Thích Nghi Kém",
+      "desc": "Khi bị Sự Kiện Lựa Chọn làm suy yếu, Nội Tại này thay thế 「Thích Nghi」\n\nNhận 1 Lượng [Breath] mỗi khi chủ thể gây sát thương bằng hiệu ứng Kỹ Năng (15 mỗi lượt)\n- Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Lượng [Breath] với mỗi đòn đánh trúng; tuy nhiên, giảm 3 [ObservedPerson] của mục tiêu\n\nNhận +1 Tầng [Breath] mỗi khi chủ thể nhận sát thương từ hiệu ứng Kỹ Năng của kẻ địch (15 mỗi lượt)\n- If the target has 15+ [ObservedPerson], Nếu mục tiêu có 15+ [ObservedPerson], nhận thêm 1 Tầng [Breath] mỗi khi bị đánh trúng; tuy nhiên, giảm 3 [ObservedPerson] của mục tiêu\n\nSát thương Đòn Trí Mạng không thể tăng thêm hoặc giảm xuống"
+    },
+    {
+      "id": 138904,
+      "name": "Thèm Khát Máu Tươi",
+      "desc": "Đầu Ải: Nhận [BloodthirstHard]\n\n<color=#ff6000><mark=#ff000040><b><u>Đầu Ải: Gây 3 [Laceration] và +3 Tầng [Laceration] lên tất cả Tội Nhân\n- Đối với Tội Nhân được Thay Vào, hiệu ứng này kích hoạt vào lượt Tội Nhân ra sân\nĐầu Lượt: Gây +3 Tầng [Laceration] lên tất cả Tội Nhân không có [Laceration]</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>Khởi Chiến:\n- Khi SP > 0, chủ thể gây thêm 2 Lượng và Tầng [Laceration]\n- Khi SP < 0, chuyển Xu của tất cả Kỹ Năng thành [SuperCoin] và +50% sát thương gây ra</u></b></mark></color>"
+    }
+  ]
+}

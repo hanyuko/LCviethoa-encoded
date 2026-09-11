@@ -1,0 +1,1173 @@
+{
+  "dataList": [
+    {
+      "id": 101001,
+      "name": "Human Offering",
+      "subDesc": "You see clay dolls in the distance.",
+      "desc": "Bọn họ mò mẫm những cái xác như thể đang tìm kiếm gì đó.\nCâu nói yêu cầu một vật tế lễ cứ vang vảng bên tai không ngừng nghỉ.\nChúng trông như sẽ nhảy bổ vào chúng tôi bất cứ lúc nào vậy.\n\nTôi nhìn thấy một người đang hấp hối gần đó, hơi thở vô cùng yếu ớt.\nCó nên hiến tế người này không?\nHay là…",
+      "options": [
+        {
+          "message": "Hiến tế người này.",
+          "messageDesc": "Toàn bộ đồng minh mất SP. Nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Cảm thấy hài lòng, hình nhân đất sét mang kẻ sắp chết ấy đi thật xa."
+          ]
+        },
+        {
+          "message": "Không hiến tế người này.",
+          "messageDesc": "Vào ải giao chiến. Thắng trận sẽ nhận một Quà Tặng E.G.O mạnh hơn.",
+          "result": [
+            "Tôi đứng yên và không làm gì cả. Đám hình nhân đất sét nổi giận và tấn công cả đoàn."
+          ]
+        },
+        {
+          "message": "Hiến tế một Tội Nhân.",
+          "messageDesc": "……",
+          "result": [
+            "“Ngài bị điên rồi à, Quản Lý?”\n\nCác Tội Nhân đều bực tức trước quyết định này."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10100101,
+      "name": "Human Offering",
+      "subDesc": "You see clay dolls in the distance.",
+      "desc": "Có vẻ không thể hiến tế các Tội Nhân rồi.\n\nBạn có nên hiến tế người đang hấp hối này không?\nHay là…",
+      "options": [
+        {
+          "message": "Hiến tế người này.",
+          "messageDesc": "Tất cả đồng minh mất SP. Nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Cảm thấy hài lòng, búp bê đất sét mang kẻ sắp chết ấy đi thật xa."
+          ]
+        },
+        {
+          "message": "Không hiến tế người này.",
+          "messageDesc": "Vào ải giao chiến. Thắng trận để nhận một Quà Tặng E.G.O mạnh hơn.",
+          "result": [
+            "Tôi đứng yên và không làm gì cả. Đám hình nhân đất sét nổi giận và tấn công cả đoàn."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 101002,
+      "name": "Eternal Rest",
+      "desc": "Bạn nghe thấy một giọng nói thều thào.\n\n“Xin giúp tôi với…”\n\nBạn có đi theo hướng phát ra âm thanh? Hay…",
+      "options": [
+        {
+          "message": "Kiểm tra nguồn cơn của giọng nói.",
+          "messageDesc": "Tiến hành kiểm định Kiêu Ngạo. Nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Một người lính bị đống đổ nát đè bẹp và đang quằn quại trong đau đớn.\n\n“ Xin các vị hãy giết tôi đi… đau quá.”\n\nKhông thể ngó lơ được.\nAi sẽ là người tiễn người lính này ra đi thanh thản?"
+          ]
+        },
+        {
+          "message": "Phớt lờ giọng nói.",
+          "messageDesc": "",
+          "result": [
+            "Khéo có khi hoảng loạn quá nên ảo giác đấy thôi.\nVì nhầm lẫn tiếng gió thành tiếng người nói cũng chẳng phải chuyện gì kỳ lạ.\n\nCả đoàn nhanh chóng rời đi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 101003,
+      "name": "An Encounter with the Unbearable",
+      "subDesc": "Crunching sounds jar on your nerves.",
+      "desc": "Khi đang băng qua một lối đi chật hẹp, một đàn gián bỗng bò đến.\nCảnh tượng ấy vô cùng khó chịu.\n\nLiệu bạn có bước qua xác chúng? Hay…",
+      "options": [
+        {
+          "message": "Cẩn thận bước qua bầy gián gớm ghiếc.",
+          "messageDesc": "Toàn bộ đồng minh mất SP.",
+          "result": [
+            "“Eo ôi... Một con bò lên chân tôi rồi!”\n\nTất cả mọi người đều cố băng qua hành lang ấy, nhưng trong lòng cảm thấy vô cùng ghê tởm.\nTrải nghiệm vừa rồi khiến tinh thần họ suy giảm."
+          ]
+        },
+        {
+          "message": "Quá đủ rồi. Cùng các Tội Nhân đạp chết lũ gián.",
+          "messageDesc": "Gregor mất rất nhiều SP. Vào ải giao chiến. Thắng trận sẽ nhận một Quà Tặng E.G.O.",
+          "result": [
+            "“Chậc…”\n\nGregor bất mãn xoay mặt đi trước cảnh thảm sát ấy.\nVà rồi một đám lính bọ phẫn nộ xông thẳng đến chỗ chúng tôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102001,
+      "name": "Suspiciously Sparkly Vending Machine",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Giữa trung tâm nhà máy, bạn tìm thấy một chiếc máy bán hàng tự động với những nút bấm cỡ lớn.\n\nChúng sặc sỡ và bắt mắt…\nCó thứ gì đó mãnh liệt thôi thúc bạn nhấn vào chúng.\n\nBạn sẽ nhấn nút nào?",
+      "options": [
+        {
+          "message": "Nhấn nút đỏ có biểu tượng nắm đấm.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O",
+          "result": [
+            "“Chúc mừng! Chúc mừng!”\n\nMột vật gì đó lăn xuống khe trượt.\n\nCó vẻ đó là một món đồ chơi hình nắm đấm."
+          ]
+        },
+        {
+          "message": "Nhấn nút vàng có biểu tượng bàn chân.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O",
+          "result": [
+            "“Chúc mừng! Chúc mừng!”\n\nMột vật gì đó lăn xuống khe trượt.\n\nCó vẻ đó là một món đồ chơi hình bàn chân."
+          ]
+        },
+        {
+          "message": "Nhấn nút xanh lá cây có biểu tượng trái tim.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O",
+          "result": [
+            "“Chúc mừng! Chúc mừng!”\n\nMột vật gì đó lăn xuống khe trượt.\n\nCó vẻ đó là một món đồ chơi hình ốc vít."
+          ]
+        },
+        {
+          "message": "Nhấn đồng loạt tất cả các nút.",
+          "messageDesc": "Nhận 3 Quà Tặng E.G.O. Nhưng mà…",
+          "result": [
+            "“Lỗi! Lỗi!”\n\nChiếc máy bán hàng tự động đột nhiên rung lắc dữ dội.\n\n“H-hả? Cái quái gì đang xảy ra với cái máy này vậy?”\n\n“Hầyyy… lẽ ra ngài phải biết đừng có tham—”\n\nTrước khi Tội Nhân kịp nói hết câu, chiếc máy phát nổ, bắn vô số mảnh đồ chơi lên không trung."
+          ]
+        },
+        {
+          "message": "Không nhấn gì cả.",
+          "result": [
+            "Bạn nên kháng cự những thôi thúc kỳ lạ như thế này.\nTiếp xúc vào thứ không rõ nguồn gốc chắc chắn là một ý tưởng tồi.\n\nBạn rời khỏi chiếc máy bán hàng tự động mà không chạm vào bất cứ thứ gì."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102002,
+      "name": "Exhilarating Edutainment Featuring Excess Violence!",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Bước ra khỏi lối đi, bạn nhìn thấy một nhóm cyborg đang tụ tập quanh một bàn cò quay khổng lồ.\n\n“Ồ. Thật sự. Hào hứng. Cực kỳ. Vui nhộn.”\n“Da GAME of DE—ATH!”\n\nChúng tiến lại gần bạn, vừa đi vừa lặp lại những lời kỳ lạ.\nCó vẻ như chúng muốn bạn tham gia một ván cò quay. Bạn sẽ làm gì?",
+      "options": [
+        {
+          "message": "Đương đầu với thử thách.",
+          "messageDesc": "Rodion nhận SP. Tiến hành kiểm định Phẫn Nộ, Lười Biếng, và Thờ Ơ. Thành công sẽ hồi SP cho tất cả đồng minh và nhận một Quà Tặng E.G.O.",
+          "result": [
+            "“Mấy người biết đấy, đây đích thị là sân khấu của chị rồi!”\n\nRodya tự hào tuyên bố rồi bước lên phía trước.\nBạn có thể thấy rõ trên gương mặt cô ấy là sự pha trộn giữa mong chờ và phấn khích."
+          ]
+        },
+        {
+          "message": "Vứt hết mấy cái trò này đi! Mau đập nát chúng thôi.",
+          "messageDesc": "Rodion mất SP. Vào ải giao chiến. Thắng trận sẽ nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Giờ không phải lúc để chơi bời.\nXử lý đám cyborg phát điên đó rồi tiếp tục lên đường thôi.\n\n“…Xì.”\n\nRodya tặc lưỡi đầy vẻ không hài lòng, nhưng bạn biết rằng không phải lúc nào cũng có thể chiều theo ý mọi Tội Nhân."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102003,
+      "name": "Are You Happy?",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "A thick glass door stood strongly in the pink frame.\nThe electronic display above suddenly flashed to life, offering a question.\n\n“Are you happy?”\n\nWhat will be your answer?",
+      "options": [
+        {
+          "message": "I sure am.",
+          "result": [
+            "“How wonderful!”\n\nThe display emitted a green flash, and the door opened for us.\nLooks like we can proceed."
+          ]
+        },
+        {
+          "message": "I’m not.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10200301,
+      "name": "Are You Happy? 2",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "“There’s a pair of pink shoes that can bring you to happiness.”\n\nThe display glowed red.\n\n“Would you like to try them on?”",
+      "options": [
+        {
+          "message": "Try the shoes on.",
+          "messageDesc": "Gain an E.G.O Gift",
+          "result": [
+            "The glass door opened, revealing said pair of pink shoes.\n\nWhen you put them on, you could feel strands of ribbons wrap around your legs.\nThey’re tightening around your body, but it’s not an unpleasant feeling.\n\nYou feel as though you can now go… anywhere."
+          ]
+        },
+        {
+          "message": "Don’t wear the shoes.",
+          "messageDesc": "Begin a combat encounter.",
+          "result": [
+            "“Don’t shy away from the majesty of the pink shoes!”\n\nThe light over the shoes shut off as you backed away.\n\n“They will take you wherever you want to go!”\n\nThe display began to flicker frantically,\nand a group of people wrapped in pink ribbons shambled through the door."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10301,
+      "name": "An Old Room with a Clockwork Mechanism",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Trong căn phòng tồi tàn này hiện hữu một cỗ máy.\nMột cái cần gạt dài và cầu kỳ dựng ngay chính giữa cùng bánh răng trang hoàng xung quanh.\n\nCảm giác… thôi thúc… muốn gạt nó xuống…  ngày càng… mãnh… liệt hơn.\n\nPhải làm gì đây?",
+      "options": [
+        {
+          "message": "Sử dụng cỗ máy.",
+          "messageDesc": "50% tỷ lệ trúng hiệu ứng có lợi; 50% tỷ lệ trúng hiệu ứng bất lợi"
+        },
+        {
+          "message": "Rời khỏi căn phòng.",
+          "result": [
+            "Chúng tôi có còn là trẻ con nữa đâu. Những ý nghĩ bốc đồng thế này, bản thân có thể cưỡng lại được.\nSa vào cám dỗ mà không màng đến hậu quả chưa bao giờ là một quyết định sáng suốt.\n\n“Thông minh đấy”\n\nChúng tôi rời khỏi căn phòng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030101,
+      "name": "An Old Room with a Clockwork Mechanism",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Cứ suy nghĩ và hành động nhất thời thế này, trông hệt như một đứa trẻ vô tư lự với tay lấy mất mớ kẹo dẻo mà cha mẹ dặn là không được phép chạm vào vậy.\n\nKhi kéo cần gạt xuống, một tiếng cách vang lên.\nNhững bánh răng bắt đầu chuyển động không đều nhau.\nCó cái chậm, cái nhanh, cái thuận chiều và ngược chiều.\n\nCỗ máy này càng ngày càng ồn hơn, làm tôi có chút lo lắng.",
+      "options": [
+        {
+          "message": "Kéo cần gạt.",
+          "messageDesc": "50% tỷ lệ nhận một Quà Tặng E.G.O. Nếu thất bại sẽ mất HP và SP.",
+          "result": [
+            "Cỗ máy đã ngừng lại.\n\n“Ồ… Xem kìa!”\n\nA small wooden chest rose from the floor.\nMột chiếc rương gỗ nhỏ nhắn trồi lên từ dưới sàn nhà.\nTôi cẩn thận mở nó ra và tìm thấy một bó đuốc.\n\nTuy không nhiều, nhưng đủ để tạm thời soi sáng đường đi sắp tới.\nChúng tôi cầm lấy chỗ đuốc ấy và rời khỏi phòng.",
+            "Cỗ máy đã ngừng lại.\n\n“C-cái gì đấy?!”\n\nCả căn phòng bắt đầu rung lắc dữ dội thay cho cỗ máy.\nNhững vết nứt xuất hiện, mở đường cho hàng ngàn cây đinh được bố trí sẵn trên trần nhà lao nhanh xuống.\n\n“Tất cả ra ngoài ngay!”\n\n“Cái địt mẹ, tao đã bảo đừng có ngu mà nghịch cái quỷ đấy rồi mà!”\n\nTôi và các Tội Nhân nhanh chóng chạy ra khỏi căn phòng, nhưng vẫn phải chịu ít nhiều thương tích."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10302,
+      "name": "Before a Sealed Door",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Một cánh cửa sắt yên vị tại một bên căn phòng.\nTrông khá dày nên có vẻ không thể xuyên thủng hay dùng vũ lực để qua phía bên kia được.\n\n“Cửa nào có canh gác nghiêm ngặt thế này, thì chắc chắn sẽ giấu vật có giá trị đấy~!!”\n\nCó thể Tội Nhân đó nói đúng, biết đâu sau cánh cửa này có báu vật gì thì sao.\nNên làm gì đây?",
+      "options": [
+        {
+          "message": "Dùng vũ lực mở cửa.",
+          "messageDesc": "Tiến hành kiểm định Phẫn Nộ. Thành công sẽ mở ra một lối đi mới trên bản đồ."
+        },
+        {
+          "message": "Nhìn ngó xung quanh tìm giải pháp.",
+          "messageDesc": "Tiến hành kiểm định Lười Biếng. Thành công sẽ mở ra một lối đi mới trên bản đồ."
+        },
+        {
+          "message": "Leave the room.",
+          "result": [
+            "Đi trên con đường mình biết vẫn an toàn hơn là chấp nhận chịu những rủi ro không đáng có.\n\n“Ỏ~ Chắc chắn là phải có cái gì đấy ở trong mà!”\n\nCó một vài Tội Nhân than phiền, nhưng tôi vẫn thuyết phục họ rời đi được."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10303,
+      "name": "The First Gate",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Chúng tôi trông thấy một chiếc cổng lớn từ đằng xa.\nNhác trông hàng rào nhọn hoắt và tường bao đá tảng cứ có cảm giác rờn rợn thế nào.\n\nXem ra đây là lối duy nhất qua được khu này rồi, nhưng Quan Thẩm Giáo đứng canh ở đây đông quá.\nCó cách nào giải quyết chúng được không?",
+      "options": [
+        {
+          "message": "Phục kích từ đằng sau.",
+          "messageDesc": "Tiến hành kiểm định Kiêu Ngạo, rồi bắt đầu ải chiến đấu. Thành công sẽ giúp đồng minh sẽ nhận hiệu ứng có lợi và giảm đi 1 đợt quái."
+        },
+        {
+          "message": "Đánh lạc hướng chúng.",
+          "messageDesc": "Tiến hành kiểm định Dục Vọng, rồi bắt đầu ải chiến đấu. Thành công sẽ giảm đi 2 đợt quái."
+        },
+        {
+          "message": "Trực tiếp đối đầu kẻ thù.",
+          "messageDesc": "Bắt đầu ải chiến đấu với cả 3 đợt quái.",
+          "result": [
+            "Đôi khi giải pháp đơn giản nhất chính là lựa chọn tốt nhất.\nĐể một Tội Nhân tách nhóm chỉ để làm mấy trò lừa ngớ ngẩn sẽ chỉ khiến chúng tôi vào thế bất lợi hơn thôi.\n\nĐối đầu trực diện luôn đi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10304,
+      "name": "A Room Full of Crates",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Hàng chục những chiếc thùng gỗ cũ kỹ, vỡ nát nằm ngổn ngang trên sàn.\n\n“Eo ôi, toàn là mạng nhện…”\n\nDọn xong đống đổ nát sang một bên, chúng tôi tìm thấy ba thùng gỗ khá lớn bị chôn vùi bên dưới.\n\n“Bị khóa hết rồi.”\n\n“Hình như mấy ổ khóa đều có chung một kiểu dáng này!”\n\n“…Đáng tiếc thay, chiếc chìa khóa này lại vô cùng yếu ớt. Một khi đã cắm nó vào một ổ thì không thể dùng lại được nữa đâu.”\n\nHình như chỉ có một cơ hội để thử thôi.\nNên mở cái nào đây?",
+      "options": [
+        {
+          "message": "Mở cái thùng đầu tiên.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O tăng sức phòng thủ.",
+          "result": [
+            "“Đây là…”\n\nTrong thùng có một cái mũ sắt cũ.\n\n“Ôi kìa?! Chẳng lẽ nào đây chính là trang bị của trang hiệp sĩ?!”\n\nMột Tội Nhân hớn hở lau sạch cái mũ.\nSuy cho cùng thì chiến lợi phẩm thế này cũng không tệ lắm.\nChúng tôi mang cái mũ (và cả Tội Nhân đang mê mẩn ngắm nó) rồi rời khỏi căn phòng."
+          ]
+        },
+        {
+          "message": "Mở cái thùng thứ hai.",
+          "messageDesc": "50% tỷ lệ nhận một Quà Tặng E.G.O tăng sức mạnh đòn tấn công gây Chấn Động.",
+          "result": [
+            "“Đây là…”\n\nTrong thùng có một cái búa cũ.\nNhìn vết nứt trên tay cầm, chẳng biết cái búa này còn dùng được không đây.\n\n“Liếc cái là biết chả dùng được rồi!”\n\nCác Tội Nhân tỏ ra thất vọng vì lựa chọn có vẻ vô ích này.\nNhưng tôi có cảm giác chiếc búa này đang nói chuyện với tôi,\nép buộc tôi mang nó theo.\n\n“Gì, vẫn muốn cầm đi à?”\n\nMặc kệ các Tội Nhân coi nó là đồ vứt đi,\ntôi vẫn thấy cái búa này là vật đáng mang theo.",
+            "“…Rỗng à”\n\nTrong thùng chẳng có gì cả.\nChúng tôi chỉ thấy mấy hạt bụi phả vào mặt, và đất cát gặp không khí bên ngoài nên bị cuốn mù lên.\n\n“Đã bảo ban nãy chọn cái kia đi rồi~”\n\n“Thôi, thể nào chẳng trống không chứ.”\n\nTôi cố làm ngơ mấy lời than vãn của vài Tội Nhân kia, rồi cả đoàn rời khỏi căn phòng."
+          ]
+        },
+        {
+          "message": "Mở cái thùng thứ ba.",
+          "messageDesc": "50% tỷ lệ nhận một Quà Tặng E.G.O tăng sức mạnh đòn tấn công gây Chảy Máu.",
+          "result": [
+            "“Đây là…”\n\nTrong thùng có một cây đinh nâu xỉn.\nKhông phải một đống đinh, mà chỉ là một cây đinh cỡ khá lớn, rỉ sét và bám đầy bụi.\n\n“Gì vậy trời…”\n\nCác Tội Nhân tỏ ra thất vọng vì đã lãng phí chìa khóa chỉ để nhận lại được thứ này.\n\n“Hàng chùa thì ngu gì không lấy. Mày không dùng thì đưa đây.”\n\nMột Tội Nhân có vẻ thích món đồ này, nên tôi đưa nó cho người đấy rồi đi tiếp.",
+            "“…Rỗng à”\n\nTrong thùng chẳng có gì cả.\nChúng tôi chỉ thấy mấy hạt bụi phả vào mặt, và đất cát gặp không khí bên ngoài nên bị cuốn mù lên.\n\n“Đã bảo ban nãy chọn cái kia đi rồi~”\n\n“Thôi, thể nào chẳng trống không chứ.”\n\nTôi cố làm ngơ mấy lời than vãn của vài Tội Nhân kia, rồi cả đoàn rời khỏi căn phòng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10305,
+      "name": "Who Judges the Judge",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Các Quan Thẩm Giáo Tập Đoàn N đang bận tra tấn người nào đó.\n\n“GƯAAAAAAAAA!”\n\nCả căn phòng chật chội ngập đầy một tiếng thét bưng bít.\nNạn nhân chính là những người có bộ phận cơ thể giả.\n\n“……”\n\nSinclair không nói gì cả, nhưng đôi mắt cậu ấy ghim chặt vào những Quan Thẩm Giáo kia, ánh nhìn nhuốm đầy phẫn hận và hãi hùng.\nHơi thở của cậu ấy nặng nề, gấp gáp, cả thân mình đang lẩy bẩy run lên. Trông như cậu ấy sắp sửa lao ra tới nơi rồi.\n\nCó ngăn cậu ấy lại không?\nHay là…",
+      "options": [
+        {
+          "message": "Ngồi đợi màn tra tấn chấm dứt.",
+          "messageDesc": "Các Danh Tính nhất định sẽ bị trừ SP",
+          "result": [
+            "Đúng là cảnh tượng trước mắt ấy thật sự rất khủng khiếp, nhưng chúng ta cũng đâu phải những hiệp sĩ can trường?\nMột quản lý thông thái sẽ không vì một phút bốc đồng trẻ con mà mạo hiểm đánh mất tất cả các Tội Nhân đâu.\nNên là…\n\n“…Tôi hiểu rồi.”\n\nNgay khi tôi đặt tay lên vai Sinclair, cậu ấy đánh sang tôi một cái lườm cáu bẳn. Nhưng rồi cậu ấy vẫn cúi đầu xuống, bằng lòng nghe theo.\n\n…Mong rằng đây là lựa chọn đúng đắn.\nCả đoàn quyết định ngồi quan sát và chờ đợi màn tra tấn đó chấm dứt."
+          ]
+        },
+        {
+          "message": "Chấm dứt màn tra tấn này.",
+          "messageDesc": "Tiến hành kiểm định Phẫn Nộ, rồi vào ải giao chiến. Nếu để Sinclair tiến hành kiểm định, nhận ‘Dấu Ấn’. Thành công sẽ gây suy yếu toàn bộ kẻ địch.",
+          "result": [
+            "Có thể chúng ta không phải là những hiệp sĩ can trường.\nTuy vậy, dù không xét tới mặt đạo đức, chúng ta vẫn phải đối đầu với bọn chúng thì mới đi tiếp được.\n\n“…Ngài nghiêm túc thật sao?”\n\nKhi tôi giải thích kế hoạch cho Sinclair, cậu ấy nhìn sang với vẻ mặt ngạc nhiên.\n\n“Tôi tưởng ngài sẽ cản tôi chứ…”\n\nTuy lời nói của Sinclair còn vương chút lo lắng, nhưng dẫu sao thì, quyết định này hình như đã làm cậu ấy hài lòng hơn.\n\n“Được rồi. Tôi sẽ làm.”\n\nSinclair cùng với những Tội Nhân khác lao về phía đám Quan Thẩm Giáo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10306,
+      "name": "A Rotting Corpse’s Memento",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "“Khục, mùi gì mà gớm thế…”\n\nThứ mùi quá kinh khủng, một Tội Nhân phải nhíu mày.\nNương theo ánh mắt người đó, tôi trông thấy một Quan Thẩm Giáo ngã gục trên nền đất.\n\n“Chết ngắc rồi…”\n\nMùi này chắc đang tỏa ra từ cái xác đang thối rữa.\nMọi người ngần ngừ không dám lại gần, nhưng tôi đã trông thấy có thứ gì phát sáng ở đó.\n\nTrong đống bầy nhầy ngọ nguậy đấy hình như có cái gì…\nNên làm gì đây?",
+      "options": [
+        {
+          "message": "Kiểm tra xác của Quan Thẩm Giáo kia.",
+          "messageDesc": "Tiến hành kiểm định Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O. Thất bại sẽ mất HP và bị trừ SP."
+        },
+        {
+          "message": "Không đụng vào, rời đi.",
+          "result": [
+            "Thôi, chắc là không có gì đâu.\nNếu cần thì quay lại mò mẫm sau.\n\nTôi quyết định không vì những món đồ chưa biết rõ mà hao tổn sức khỏe tinh thần của các Tội Nhân."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10307,
+      "name": "[Hel. P. Me. He. Lp.]",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Có vài âm thanh máy móc phát ra từ cái cửa đóng chặt.\n\n“Nghe như tiếng kêu cứu ấy…”\n\nNgay khi tập trung nghe ngóng, chúng tôi phát hiện ra có tiếng bước chân.\n\n“Kim loại… Là tiếng kim loại va chạm…”\n\nSinclair sững lại tại chỗ.\nHình như có Quan Thẩm Giáo đang tới đây bắt những người đó.\nLàm gì bây giờ?",
+      "options": [
+        {
+          "message": "Giải cứu những người lắp bộ phận giả kia.",
+          "messageDesc": "Sinclair hồi SP. Vào ải giao chiến. Thắng trận sẽ nhận một Quà Tặng E.G.O.",
+          "result": [
+            "“…Biết ngay là ngài đáng tin tưởng mà.”\n\nNgay khi tôi vừa dặn Sinclair phải làm gì, cậu ấy đã lập tức lao vào.\nĐúng như dự đoán, có mấy người lắp bộ phận giả đang bị trói lại.\n\n“Chạy đi, nhanh lên!”\n\nNgay khi cậu ấy vừa cởi trói cho họ xong, thì những người đó cũng nhanh chân bỏ chạy khỏi căn phòng.\n\n“Chậc… Là lũ dị giáo!”\n\nNhưng chúng tôi lại không kịp rời đi; Đám Quan Thẩm Giáo vừa đặt chân vào phòng đã lập tức hét lên.\nXem ra không thể tránh khỏi xung đột rồi.",
+            "“…Biết ngay là ngài đáng tin tưởng mà.”\n\nNgay khi tôi vừa dặn Sinclair phải làm gì, cậu ấy đã lập tức lao vào.\nĐúng như dự đoán, có mấy người lắp bộ phận giả đang bị trói lại.\n\n“Chạy đi, nhanh lên!”\n\nNgay khi cậu ấy vừa cởi trói cho họ xong, thì những người đó cũng nhanh chân bỏ chạy khỏi căn phòng.\n\n“Lũ khốn nạn này, một tiếng cảm ơn thì chết à?”\n\nCó đôi ba Tội Nhân cằn nhằn,\nnhưng Sinclair có vẻ mãn nguyện vì làm việc tốt.\n\nSau khi trấn an họ, chúng tôi rời khỏi căn phòng."
+          ]
+        },
+        {
+          "message": "Mặc kệ những người lắp bộ phận giả kia.",
+          "messageDesc": "Sinclair mất SP.",
+          "result": [
+            "“Kh, không… Sao lại…”\n\nSinclair dường như bị sốc trước câu trả lời của tôi.\nĐáng tiếc thật đấy, nhưng chỉ vì cố cứu mấy người này mà đánh mất nhân lực thì sẽ gây ra một tổn thất chí mạng cho phe ta trong những cuộc chiến sắp tới.\n\n[C. Cứ. Cứu. C. Cứu…]\n\nCả đoàn vội rời đi, bỏ lại đằng sau tiếng khóc than ai oán của họ."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10308,
+      "name": "Rite of Suppuration",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Con đường này bỏng cháy một sắc đỏ.\n\n“Èo, nóng chảy cả giày mất thôi.”\n\nCác Tội Nhân cẩn thận tiếp cận con đường, nhưng nhiệt độ cao đến mức không tưởng nên họ đành phải rụt về.\nNgay phía trước con đường, có một tấm biển báo ghi chú mấy câu:\n\nHãy chứng minh tính người của các ngươi\nThiêu đốt nên con đường chiêu mộ\nVượt qua yếu nhược và những vết thương mưng mủ\nĐọc chút đã hiểu được ghi chú này ám chỉ gì.\n…Nên làm gì đây?",
+      "options": [
+        {
+          "message": "Đưa Con Dấu Tập Đoàn N ra.",
+          "messageDesc": "Chỉ chọn được khi sở hữu Quà Tặng E.G.O [Con Dấu Tập Đoàn N].",
+          "result": [
+            "“Chẳng phải chúng ta đã chứng minh bản thân nhiều rồi sao?”\n\nMột Tội Nhân gợi ý.\nCũng nhắc nhở rằng chúng tôi đã có bằng chứng.\n\n“Đúng rồi… Con dấu!”\n\nẤn con dấu vào tấm biển báo khiến con đường nguội đi ngay lập tức.\nCó thể dễ dàng băng qua."
+          ]
+        },
+        {
+          "message": "Băng qua con đường bỏng rẫy.",
+          "messageDesc": "Tiến hành kiểm định Phẫn Nộ. Thành công sẽ nhận một Quà Tặng E.G.O. Thất bại sẽ bắt đầu ải chiến đấu 3 đợt."
+        },
+        {
+          "message": "Đi đường khác.",
+          "messageDesc": "50% tỷ lệ vào ải giao chiến 3 đợt.",
+          "result": [
+            "Nguy hiểm lắm, đừng để Tội Nhân nào mạo hiểm con đường bỏng cháy này.\n\nMà kể cả có một người chịu được đi nữa, cũng không biết làm sao để những người còn lại dễ dàng đi qua.\nThôi, miễn là không bị phát hiện, đi vòng đường khác chắc cũng vẫn được.\n\nNhưng thật không may, một nhóm Quan Thẩm Giáo đi tuần tra đã phát giác chúng tôi.",
+            "Nguy hiểm lắm, đừng để Tội Nhân nào mạo hiểm con đường bỏng cháy này.\n\nMà kể cả có một người chịu được đi nữa, cũng không biết làm sao để những người còn lại dễ dàng đi qua.\nThôi, miễn là không bị phát hiện, đi vòng đường khác chắc cũng vẫn được.\n\nCũng may, tất cả đã qua ải này mà không bị phát giác."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10309,
+      "name": "A Vessel of Zeal",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Có một cái bệ, bên trên điêu khắc hình đinh và búa.\n\n“Chắc liên quan gì đấy đến Tập Đoàn N.”\n\nMột Tội Nhân lẩm bẩm. Tôi cũng tán thành.\nCó nên tìm thêm thông tin về Tập Đoàn N không? Hay là…",
+      "options": [
+        {
+          "message": "Kiểm tra quyển sách trên bệ.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O",
+          "result": [
+            "Trên cái bệ có một quyển kinh mà đám Quan Thẩm Giáo Tập Đoàn N thường mang theo.\nChúng tôi nhân cơ hội này nghía thử vài trang…\n\n“Hựa…”\n\nNội dung trong quyển kinh quá khó hiểu, càng đọc càng đau đầu.\nThôi, quyết định cầm nó theo, sau này hẵng đọc vậy."
+          ]
+        },
+        {
+          "message": "Tránh xa tiếng ồn đó ra và rời đi.",
+          "result": [
+            "Biết đủ nhiều rồi.\nMấy chỗ khả nghi như thế này, có lần mò vào xem cũng chẳng được gì đâu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10310,
+      "name": "Rite of Confrontation",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Trước cổng lớn khép chặt có một dòng nhắn nhủ:\n\nLấp đầy cốc thánh bằng dòng lệ chát\nChứng minh nỗi sợ cơn lo ngập tràn\n\nChúng tôi ngó quanh, trông thấy một chiếc bát đựng đang đặt cạnh một cái ghế trông hơi ớn mắt.\nLàm gì bây giờ?",
+      "options": [
+        {
+          "message": "Cử hành nghi lễ.",
+          "messageDesc": "Tiến hành kiểm định Thờ Ơ. Danh Tính được chọn sẽ mất SP. Thành công sẽ nhận một Quà Tặng E.G.O."
+        },
+        {
+          "message": "Rời khỏi căn phòng.",
+          "result": [
+            "Nghi lễ này làm như nào còn chẳng biết nữa mà, cố thi hành chỉ tổ rước thêm hiểm nguy thôi.\nTất cả chúng tôi rời khỏi căn phòng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10311,
+      "name": "Exhibit of Human Parts",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Ở một góc trong khu vực chính, chúng tôi tìm thấy một dãy những lọ thủy tinh.\nBên trong là các phần nội tạng được phơi khô, và các mô cựa quậy như đang sống.\n\n“Phô bày cái này trông thảm hết sức…”\n\nMấy cái lọ này trông khá dễ mở. Nếu muốn thì có thể lấy đi một phần.\nLàm gì bây giờ?",
+      "options": [
+        {
+          "message": "Lấy cái đầu lâu phát sáng.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O giúp hồi phục khi thấp máu.",
+          "result": [
+            "Tôi lấy cái đầu lâu phát sáng.\nNó tỏa ra một luồng sáng dịu dàng, ấm áp một cách kì lạ.\n\nNhững chiếc lọ khác không mở được nữa. Chắc chỉ lấy được một thứ thôi.\nChúng tôi cầm lấy món đồ này rồi rời đi."
+          ]
+        },
+        {
+          "message": "Lấy bàn tay rỉ máu.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O giúp tăng sức chiến đấu khi thấp máu.",
+          "result": [
+            "Những ngón tay máu me kia thu hút tôi.\nLúc tôi mở lọ để lấy cái tay, máu vẫn còn đang chảy ra ở phần bị cắt đứt.\nTôi cầm lấy một ngón tay cứ co giật mãi không ngừng, rồi lấy bàn tay ra.\n\nNhững chiếc lọ khác không mở được nữa. Chắc chỉ được lấy một thứ thôi.\nChúng tôi cầm lấy món đồ này và rời đi."
+          ]
+        },
+        {
+          "message": "Lấy cái lưỡi ngoe nguẩy.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O mang lại lợi ích mỗi khi thắng Giao Tranh.",
+          "result": [
+            "Tôi để mắt tới cái lưỡi bò trườn kia.\nKhi tôi mở lọ ra rồi cầm lấy cái lưỡi, nó liếm lên lòng bàn tay tôi.\n\nHình cái lưỡi này đang cố tình trêu ngươi tôi. Tôi bèn thử mở một lọ khác nhưng...\n\nNhững chiếc lọ khác không mở được nữa. Chắc chỉ được lấy một thứ thôi.\nChúng tôi cầm lấy món đồ này và rời đi."
+          ]
+        },
+        {
+          "message": "Không lấy gì.",
+          "result": [
+            "Tôi quyết định không lấy gì cả.\n\nThà đừng có động vào mấy thứ nội tạng thấy gớm như thế.\nSau đó chúng tôi rời đi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10312,
+      "name": "Rite of Penance",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Trước cổng lớn có một dòng nhắn nhủ:\n\nMuốn tìm đường thật, phải bền gan sám hối\nNằm gai nếm mật, dám lấy thân chuộc tội\n\nHình như nghi lễ này muốn người ta phải giẫm lên gai nhọn.\nLàm gì bây giờ?",
+      "options": [
+        {
+          "message": "Cử hành nghi lễ.",
+          "messageDesc": "Tiến hành kiểm định Phẫn Nộ. Danh Tính được chọn sẽ mất HP. Thành công sẽ nhận một Quà Tặng E.G.O."
+        },
+        {
+          "message": "Rời khỏi căn phòng.",
+          "result": [
+            "Quá mạo hiểm.\nMắc gì phải chỉ lệnh người ta quăng nhau lên để bị gai xiên vào người cơ chứ.\n\nChúng tôi rời khỏi căn phòng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10314,
+      "name": "Rite of Conclusion",
+      "subDesc": "subDesc가 뭘까?",
+      "desc": "Đang đứng canh ở cổng là mấy Quan Thẩm Giáo Tập Đoàn N đã biến dạng thành những hình thù gớm ghiếc.\nChúng tôi định tiến đến tấn công, nhưng trông chúng không có vẻ thù địch gì cả.\n\n“Chỉ. Những kẻ… xuất chúng. Mới được phép. Tiến vào, nơi này.”\n\n“Muốn… vượt qua. Các ngươi… phải. Chứng minh bản thân. Xứng đáng.”\n\n“Chứng minh bản thân” là ý gì nhỉ, không hiểu lắm.\nNên làm gì đây?",
+      "options": [
+        {
+          "message": "Đưa ra bằng chứng đã vượt qua các nghi lễ.",
+          "messageDesc": "Chỉ chọn được khi sở hữu Quà Tặng E.G.O [Con Dấu Tập Đoàn N] hoặc cả ba Minh Chứng Vô Tội, Đẫm Lệ, và Chuộc Tội.",
+          "result": [
+            "Tôi nhớ ra những món đồ đã thu thập được.\nNếu những sự kiện ban nãy mà chúng tôi đã vượt qua được chính là thử thách, vậy thì những thứ nhận về được sẽ là minh chứng rằng chúng tôi “xứng đáng”.\n\n“…Các ngươi, qua.”\n\nCác Quan Thẩm Giáo vừa mở cổng ra, vừa hú lên từng tràng giọng nói quái đản.\n\n“Cầm, lấy. Mang… theo.”\n\nCả đoàn nhận lấy món đồ rồi bước qua cánh cổng."
+          ]
+        },
+        {
+          "message": "Dùng ngôn từs.",
+          "messageDesc": "Tiến hành kiểm định Dục Vọng. Thất bại sẽ bắt đầu một ải giao chiến khó khăn."
+        },
+        {
+          "message": "Dùng vũ lực.",
+          "messageDesc": "Nhận ‘Dấu Ấn’. Bắt đầu một ải giao chiến khó khăn.",
+          "result": [
+            "Xem ra vũ lực là cách giải quyết trực tiếp nhất rồi đây.\n\n“…Dị, giáo.”\n\nTừng lời len lỏi qua những kẽ răng run rẩy kia đang nhuốm đầy vẻ thù hằn.\n\n“Hãy để tôi giúp ngài… thưa ngài Quản Lý.”\n\nSinclair siết chặt vũ khí trong tay, đôi mắt cậu ấy lặng lẽ cháy rực một ngọn lửa quyết tâm."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103001,
+      "name": "Inquisition",
+      "subDesc": "사용 안하는 선택지",
+      "desc": "You met an N Corp. Inquisitor.\n\nInstead of attacking, they ask us if we loathe prosthetics.\nWhat should you say?",
+      "options": [
+        {
+          "message": "Agree with the Inquisitor.",
+          "result": [
+            "You agreed with the Inquisitor.\nThey laughed and walked away."
+          ]
+        },
+        {
+          "message": "Refuse the Inquisitor’s claim.",
+          "result": [
+            "You disagreed with the Inquisitor.\nSinclair quietly nodded to you.\nThe angered Inquisitor called their subordinates."
+          ]
+        },
+        {
+          "message": "Keep quiet.",
+          "result": [
+            "You gave the Inquisitor a silent glare.\nThey lost interest in you and walked away."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103002,
+      "name": "Fanaticism",
+      "subDesc": "사용 안하는 선택지",
+      "desc": "N Corp. Inquisitors are torturing prosthetic people.\nYou see Sinclair tremble with fear and anger.\nWhat will you do?",
+      "options": [
+        {
+          "message": "Wait for the torture to end.",
+          "result": [
+            "As painful as it is to watch, it might cause unnecessary conflict.\nWe should wait for them to finish."
+          ]
+        },
+        {
+          "message": "Stop the torture.",
+          "result": [
+            "We can’t just sit back and watch, even if it means getting into a fight we could avoid.\nDetermined, Sinclair gripped his weapon."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103006,
+      "name": "Test of Worthiness",
+      "subDesc": "사용 안하는 선택지",
+      "desc": "Strangely shaped N Corp. Inquisitors guard the gate.\n\n“Only… those with worth… may enter.”\n\n“To pass… you will show… your worth.”\n\nWhat will you do?",
+      "options": [
+        {
+          "message": "Present proof of passing the rites.",
+          "result": [
+            "You showed the Inquisitors the tokens you got from those rituals.\n\nThey silently opened the door.\nAs you passed through, they gave you something."
+          ]
+        },
+        {
+          "message": "Use words."
+        },
+        {
+          "message": "Use violence.",
+          "result": [
+            "All we can do is fight.\nLet’s handle this with violence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800201,
+      "name": "아즈텍원판 선택지1",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "Có vô vàn cách để trấn tĩnh một thực thể,\nnhưng Dị Thể này có vẻ thích quà nhất.\nMột mẻ máu tươi có lẽ sẽ làm hài lòng nó.",
+      "options": [
+        {
+          "message": "Hiến tế hình nhân đất sét.",
+          "result": [
+            "Dâng một hình nhân đất sét sống làm lễ vật.\nDị Thể thỏa mãn, đã trấn tĩnh lại giây lát."
+          ]
+        },
+        {
+          "message": "Hiến tế một Tội Nhân.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800203,
+      "name": "아즈텍원판 선택지3",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "Để làm suy yếu ngọn lửa phải cần đến nước lạnh.\nNhưng vì chẳng ai mang theo nước cả, nên cần phải hiến tế ai đó có cái đầu hoặc thân nhiệt thật mát lạnh.",
+      "options": [
+        {
+          "message": "Hiến tế hình nhân đất sét.",
+          "result": [
+            "Dâng một hình nhân đất sét sống làm lễ vật.\nNgọn lửa đã bé lại."
+          ]
+        },
+        {
+          "message": "Hiến tế một Tội Nhân.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 800205,
+      "name": "아즈텍원판 선택지5",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "Những vì sao chiếu sáng lấp lánh.\nKhi chúng tỏa sáng, chúng sẽ cướp mất thị giác của tất cả chúng ta.\nNhững vì sao sẽ yêu thích món quà nào?",
+      "options": [
+        {
+          "message": "Hiến tế một Tội Nhân.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801201,
+      "name": "강화인간 선택지1",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "Sao đám cyborg cứ sống lại mãi vậy?\nNhững Tội Nhân bắt đầu bàn luận.\n\n“Có lẽ những thực thể ấy không hề sống.\nTheo lẽ đó, chúng sẽ không thể nào chết được.”\n\n“Ngưng, chúng ta sẽ không nói đến triết lý triết học gì cả.”\n\n“Hưm~ Tôi thấy cứ như đang chơi xếp hình vậy, dựng tường rồi lại phá, cứ lặp lại mãi.”\n\n“…Hình như tôi nghe thấy cái nhà máy ở đằng kia phát ra tiếng gì đó.”\n\nCả nhóm bắt đầu hướng mắt về khu nhà máy đằng sau bọn chúng.\nBan nãy có tiếng va đập của kim loại vang lên từ nơi vốn yên tĩnh đấy. \n\nCó lẽ bạn nên thử kiểm tra cái cơ sở mờ ám đó xem sao?",
+      "options": [
+        {
+          "message": "Đi điều tra nhà máy.",
+          "result": [
+            "Bạn quyết định đi kiểm tra khu nhà máy.\nNhưng, trước mắt bạn nên làm gì với bọn cyborg cho an toàn đã.\n\nNếu vô hiệu hóa con lớn nhất thì sẽ câu kéo được một chút thời gian chăng?"
+          ]
+        },
+        {
+          "message": "Chúng ta không thể cứ thế bước vào hiểm nguy được. Tiếp tục chiến đấu đi.",
+          "result": [
+            "“Chúng ta phải chui vào nơi đó thật à?”\n\nMột Tội Nhân hỏi thẳng thừng.\nHọ nói đúng. Không cần phải mạo hiểm làm gì.\n\nNếu bọn chúng cứ tiếp tục quay lại, thì cứ việc đập chúng tới khi nào hết quay lại nữa thì thôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801202,
+      "name": "강화인간 선택지2",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "Bạn tới được nhà máy kịp lúc nhờ việc thành công khống chế con cyborg to nhất đúng như dự định.\n\n“Hờ, thứ này…”\n\n“Có vẻ là cái một dạng nhà máy sản xuất đồ chơi.”\n\nNhững Tội Nhân bình luận về dây chuyền sản xuất kia.\n\n“Á! Hãy lại đây để chiêm ngưỡng thứ kỳ lạ này!”\n\nMột Tội Nhân chỉ vào một bảng điều khiển có vài nút ấn được gắn trên đó.\n\n<BẠN CÓ YÊU THÀNH PHỐ MÀ BẠN ĐANG Ở?>\n\nBạn nên bấm gì?",
+      "options": [
+        {
+          "message": "Có.",
+          "messageDesc": "Nhấn nút để tiếp tục.",
+          "result": [
+            "",
+            "Lỗi nhập dữ liệu bất thường.\n\n“Ơ? Giờ tôi lại không thể nhấn bất kỳ nút nào trong số này nữa…”\n\nBắt đầu chôn vùi khu vực trong 3, 2…\n\n“Ra khỏi đây mau!!”\n\nSau một hồi im lặng, nhà máy phát nổ với một tiếng nổ kinh hoàng.\nBạn đã kịp thời ngăn chặn nó hoạt động, nhưng những Tội Nhân cũng bị dính trong vụ nổ.\n\nCó vẻ như bạn nên rời khỏi đây trước, phải không?"
+          ]
+        },
+        {
+          "message": "Không.",
+          "messageDesc": "Nhấn nút để dừng.",
+          "result": [
+            "",
+            "Lỗi nhập dữ liệu bất thường.\n\n“Ơ? Giờ tôi lại không thể nhấn bất kỳ nút nào trong số này nữa…”\n\nBắt đầu chôn vùi khu vực trong 3, 2…\n\n“Ra khỏi đây mau!!”\n\nSau một hồi im lặng, nhà máy phát nổ với một tiếng nổ kinh hoàng.\nBạn đã kịp thời ngăn chặn nó hoạt động, nhưng những Tội Nhân cũng bị dính trong vụ nổ.\n\nCó vẻ như bạn nên rời khỏi đây trước, phải không?",
+            "Phát hiện ba tín hiệu đầu vào.\nTiến hành thực hiện Quy trình Khẩn cấp Số 3: Ngừng hoạt động Nhà Máy.\n\n“Hình như nó ngừng rồi đấy.”\n\nCác máy móc chạy thêm một lúc ngắn trước khi dừng hẳn.\nNhư vậy, các Người Máy Sinh Học sẽ không thể hồi sinh nữa.\n\nVậy giờ ra khỏi cái nhà máy thôi?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801203,
+      "name": "강화인간 선택지2-그렇다",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "Tiếp tục tăng cường.\n\nBạn\nphải\ntrở nên\nmạnh mẽ.\n\nVui lòng tiếp tục nhập dữ liệu.\n\n<BẠN CÓ YÊU THÀNH PHỐ MÀ BẠN ĐANG Ở?>\n\nBạn nên bấm gì?",
+      "options": [
+        {
+          "message": "Có.",
+          "messageDesc": "Nhấn nút để tiếp tục.",
+          "result": [
+            "",
+            "Lỗi nhập dữ liệu bất thường.\n\n“Ơ? Giờ tôi lại không thể nhấn bất kỳ nút nào trong số này nữa…”\n\nBắt đầu chôn vùi khu vực trong 3, 2…\n\n“Ra khỏi đây mau!!”\n\nSau một hồi im lặng, nhà máy phát nổ với một tiếng nổ kinh hoàng.\nBạn đã kịp thời ngăn chặn nó hoạt động, nhưng những Tội Nhân cũng bị dính trong vụ nổ.\n\nCó vẻ như bạn nên rời khỏi đây trước, phải không?"
+          ]
+        },
+        {
+          "message": "Không.",
+          "messageDesc": "Nhấn nút để dừng.",
+          "result": [
+            "",
+            "Lỗi nhập dữ liệu bất thường.\n\n“Ơ? Giờ tôi lại không thể nhấn bất kỳ nút nào trong số này nữa…”\n\nBắt đầu chôn vùi khu vực trong 3, 2…\n\n“Ra khỏi đây mau!!”\n\nSau một hồi im lặng, nhà máy phát nổ với một tiếng nổ kinh hoàng.\nBạn đã kịp thời ngăn chặn nó hoạt động, nhưng những Tội Nhân cũng bị dính trong vụ nổ.\n\nCó vẻ như bạn nên rời khỏi đây trước, phải không?",
+            "Phát hiện ba tín hiệu đầu vào.\nTiến hành thực hiện Quy trình Khẩn cấp Số 3: Ngừng hoạt động Nhà Máy.\n\n“Hình như nó ngừng rồi đấy.”\n\nCác máy móc chạy thêm một lúc ngắn trước khi dừng hẳn.\nNhư vậy, các Người Máy Sinh Học sẽ không thể hồi sinh nữa.\n\nVậy giờ ra khỏi cái nhà máy thôi?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801204,
+      "name": "강화인간 선택지2-아니다",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "Nhập sai.\n\nBạn\nphải\ntrở nên\nmạnh mẽ.\n\nVui lòng nhập lại câu trả lời.\n\nCẢNH BÁO: Nhấn nút ba lần sẽ khiến cơ sở ngừng hoạt động.\n\n<BẠN CÓ YÊU THÀNH PHỐ MÀ BẠN ĐANG Ở?>\n\nBạn nên bấm gì?",
+      "options": [
+        {
+          "message": "Có.",
+          "messageDesc": "Nhấn nút để tiếp tục.",
+          "result": [
+            "",
+            "Lỗi nhập dữ liệu bất thường.\n\n“Ơ? Giờ tôi lại không thể nhấn bất kỳ nút nào trong số này nữa…”\n\nBắt đầu chôn vùi khu vực trong 3, 2…\n\n“Ra khỏi đây mau!!”\n\nSau một hồi im lặng, nhà máy phát nổ với một tiếng nổ kinh hoàng.\nBạn đã kịp thời ngăn chặn nó hoạt động, nhưng những Tội Nhân cũng bị dính trong vụ nổ.\n\nCó vẻ như bạn nên rời khỏi đây trước, phải không?"
+          ]
+        },
+        {
+          "message": "Không.",
+          "messageDesc": "Nhấn nút để dừng.",
+          "result": [
+            "",
+            "Lỗi nhập dữ liệu bất thường.\n\n“Ơ? Giờ tôi lại không thể nhấn bất kỳ nút nào trong số này nữa…”\n\nBắt đầu chôn vùi khu vực trong 3, 2…\n\n“Ra khỏi đây mau!!”\n\nSau một hồi im lặng, nhà máy phát nổ với một tiếng nổ kinh hoàng.\nBạn đã kịp thời ngăn chặn nó hoạt động, nhưng những Tội Nhân cũng bị dính trong vụ nổ.\n\nCó vẻ như bạn nên rời khỏi đây trước, phải không?",
+            "Phát hiện ba tín hiệu đầu vào.\nTiến hành thực hiện Quy trình Khẩn cấp Số 3: Ngừng hoạt động Nhà Máy.\n\n“Hình như nó ngừng rồi đấy.”\n\nCác máy móc chạy thêm một lúc ngắn trước khi dừng hẳn.\nNhư vậy, các Người Máy Sinh Học sẽ không thể hồi sinh nữa.\n\nVậy giờ ra khỏi cái nhà máy thôi?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 801501,
+      "name": "분홍신 선택지1",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "Một giọng nói cất lên giữa chùm ruy băng bay phấp phới.\n\n“Ngươi thèm muốn điều gì?”\n\n“Hãy đeo ta vào chân ngươi.”\n\n“Ta sẽ đưa ngươi đi bất cứ đâu ngươi hằng ao ước.”\n\nĐề nghị ấy rõ đáng ngờ nhưng chẳng hiểu sao các Tội Nhân lại phân vân chẳng biết nên làm gì.\n\nBạn sẽ nói gì?",
+      "options": [
+        {
+          "message": "Đeo giày vào.",
+          "result": [
+            "“Ừm… Thứ này vừa khít.”\n\n“Trơn tru láng mịn nữa.”\n\nCác Tội Nhân đều cảm thấy ấn tượng.\nNhững dải ruy băng đã hóa thành một đôi giày hồng lấp lánh.\n\nGiờ tất cả sẽ có thể đến bất kỳ đâu bản thân mong muốn.\n\nCó lẽ vậy."
+          ]
+        },
+        {
+          "message": "Từ chối.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 201001,
+      "name": "Vending Machine and Oceanic Waves",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "You see an empty lot ahead where the Sinners can take a rest.\n\nThere, you find a vending machine with a number of buttons on it.\nYou see drinks as well, but you can’t recognize what they’re supposed to depict.\nWhat will you do?",
+      "options": [
+        {
+          "message": "No need to take risks. Just rest here with the Sinners.",
+          "result": [
+            "Some time passed.\n\nThanks to the respite, the group seems to have some energy back."
+          ]
+        },
+        {
+          "message": "Get some drinks they might like, as a treat.",
+          "result": [
+            "With just a single press,\nthe machine ejected one can after another.\n\nAll the cans are purple.\n\nYou can’t fathom the meaning of the ships and grapes doodled on them,\nbut they somehow feel familiar, and well… cheery.\n\nThey should be okay to drink.\n\nYou passed the cans out to the Sinners."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 201002,
+      "name": "Mirror Room",
+      "subDesc": "사용 안하는 텍스트"
+    },
+    {
+      "id": 201003,
+      "name": "강화앰플교환삽입소",
+      "subDesc": "사용 안하는 텍스트"
+    },
+    {
+      "id": 910301,
+      "name": "The Chicken Strife",
+      "desc": "Có vài người ngáng đường đi tiếp.\nHọ đang ngồi quanh một cái bàn mà hét vào mặt nhau.\n“Nhìn miếng thịt mọng nước này xem! Nước thịt đậm đà nó chảy ròng ròng xuống từng thớ thịt thơm ngon… Thế này mới là thịt gà chứ!”\n“Mày sai rồi. Miếng thịt này vị nó thanh đạm biết bao nhiêu, ăn mà không sợ bị dầu mỡ ngấm vô lưỡi gây ngấy. Đây mới là hàng ngon này.”\nCả hai người đó quay sang đối mặt chúng tôi cùng lúc.\n“Mấy cô cậu kia! Nói nghe xem miếng nào ngon hơn!”",
+      "options": [
+        {
+          "message": "Gà nào chả là gà.",
+          "messageDesc": "Nhận hai Quà Tặng E.G.O.",
+          "result": [
+            "“Ừ… ha.”\n“Luận điểm chuẩn khỏi bàn cãi luôn.”\nHai người họ hạ tay rồi ngồi xuống.\n“Chuyện cỏn con vậy mà ta cũng phải cãi nhau.”\n“Người ta nói đúng… Gà mới là chân ái.”\nSau một cú bắt tay nồng nhiệt, cả hai người đưa xô thịt gà của họ cho chúng tôi.\n“Một người sành ăn thông thái như ngài xứng đáng có được cả hai miếng. Xin hãy nhận lấy chúng.”"
+          ]
+        },
+        {
+          "message": "Tất nhiên là đùi gà rồi, vừa đậm đà lại mọng nước.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O.",
+          "result": [
+            "“Đó! Đùi gà ngon hơn là rõ mà!”\n“Do khẩu vị mày dở tệ thôi.”\nCái người đang cầm miếng ức gà buông một tiếng thở dài bực bội.\n“Ây! Tặng cho bạn này. Bạn xứng đáng có một miếng đùi gà của riêng mình.”\nThấy đã vừa ý, người cầm chiếc đùi gà đưa cho bạn thêm chiếc nữa từ trong xô.\n“Giao cho bạn cả đấy, đừng làm mất cái đùi nhé!”\nChúng tôi cầm theo chiếc đùi gà mà rời khỏi bàn, trong khi vẫn chưa hiểu mình vừa được giao trọng trách gì."
+          ]
+        },
+        {
+          "message": "Ức gà là rõ, vừa tinh khiết vừa sạch sẽ.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O.",
+          "result": [
+            "“Không thể nào! Bạn nỡ từ bỏ đại tiệc mọng nước này sao...?”\n“Ngoài nước thịt ra thì đùi gà còn chứa đầy mỡ nữa đấy. Trong khi phần ức vừa bổ dưỡng, vừa thanh vị, có khẩu phần lớn mà lại dễ ăn—thế nên nó mới là lựa chọn hợp lý.”\nCái người cầm miếng ức gà nhận xét với tông giọng vui vẻ.\n“Đây, thưởng cho bạn này. Cầm lấy miếng ức này đi.”\nNgười đó bốc một miếng gà lớn ra khỏi xô.\n“Chúc bạn luôn mạnh khỏe và tăng trưởng thuận lợi nhé.”\nChúng tôi cầm theo chiếc ức gà mà rời khỏi bàn, trong khi vẫn chưa hiểu mình phải tăng cái gì."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 910302,
+      "name": "Tango of Poultry Passion",
+      "desc": "Ánh đèn sân khấu chiếu sáng một phần của khu vực ồn ào.\nCó vẻ như đám gà đang tham dự một buổi… dạ hội.\n“Đó là điệu tango.”\nTrong khi quan sát những cử động nhìn chả rõ là đang nhảy hay đang vật lộn, tôi để ý có một con đang bị rò rỉ nước xốt.\nCó vẻ nó không nhận ra chuyện này.",
+      "options": [
+        {
+          "message": "Thành thật cảnh báo nó.",
+          "messageDesc": "Tiến hành kiểm định Dục Vọng. Thành công sẽ nhận một Quà Tặng E.G.O.",
+          "result": [
+            "“Nghe đây!!!! Nước sốt đang rỉ ra khỏi thân mình ngươi kìa!!!!”\n“Hâm à, đừng có mà hét to thế…”\nKhi nhận ra mình đang bị rò rỉ, con gà nhanh chóng dùng cánh vuốt qua phần lưng của mình… hoặc nói đúng hơn là cái phần nhìn như lưng của nó.\nTiếc thay, phần chỉ khâu ở đó đã bị lỏng ra.\n“Kéeeee, Kiếccccc…”\nVậy nghĩa là nó không tự làm được hay sao?\nThứ đó cầm trên tay, à nhầm, trên cánh chút chỉ khâu và một cây kim rồi tiến tới, trong khi sốt vẫn đang chảy thành một đường phía sau nó.\nNó muốn tôi khâu lưng nó lại sao?"
+          ]
+        },
+        {
+          "message": "Không thấy gì hết.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O.",
+          "result": [
+            "“Chẳng phải ta nên báo cho chúng sao?”\n“Phải, nhưng mà~ Chẳng phải giờ trông chúng rất hạnh phúc sao? Ngồi xem thêm chút nữa có chết ai đâu mà.”\n“Lỡ nó bị rò hết nước xốt thì sao?”\n“Cùng lắm là vị nó sẽ hơi nhạt thôi.”\nMột lúc sau thì nó cũng hết rò rỉ.\n“Kéccc!”\nChắc do nhận ra người mình nhẹ đi nên nó tự dưng thực hiện một động tác vô cùng phức tạp.\n“Ghê vậy sao?”\nNhững con gà xung quanh bị mê hoặc đến mức dừng việc nhảy múa lại chỉ để xem nó biểu diễn. Chẳng mấy chốc, chúng tiếp cận con gà đó và rít lên những âm thanh nghe như tiếng hò reo.\nChúng tung con gà đặc biệt đó lên không liên tục để ăn mừng trong lúc bước vô chỗ khuất sáng.\nChỉ còn sót lại… chỗ nước xốt bị đổ ra."
+          ]
+        },
+        {
+          "message": "Đưa ra một vài lời gợi ý.",
+          "messageDesc": "50% tỷ lệ nhận một Quà Tặng E.G.O.",
+          "result": [
+            "“Mừm-hứm~ Ôi chao, mùi gì mà thơm ngon quá đi! Không biết mùi này phát ra từ đâu vậy taaaaaa~?!”\n“…Lẽ ra tôi không nên kỳ vọng rằng diễn xuất của cô sẽ trông thuyết phục hơn.”\nGiọng của Tội Nhân khiến cho đám gà lập tức dừng việc nhảy múa hăng say lại.\nSau khi kiểm tra lưng lẫn nhau, chúng mau chóng tìm đươc nguồn rò rỉ.\n“Kéc, Kéc.”\n“Géc.”\nChúng bình tĩnh mang tới chút chỉ khâu và một cây kim để khâu lại lưng… hoặc cái chỗ nhìn như phần lưng của con gà kia.\nTác phong của chúng cực kỳ chuyên nghiệp.\nKhi đã khâu xong, chúng lập tức lủi vào trong bóng đêm.\nChỉ còn sót lại chỗ chỉ khâu và kim mà chúng vừa dùng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10401,
+      "name": "Looking for a Drone",
+      "desc": "Một robot bay Tập Đoàn K bị hỏng đang nằm trên mặt sàn. Phải thấy được sao trời thì tôi mới có thể hồi sinh các Tội Nhân, thế nên...\nNếu thử tìm xung quanh chắc sẽ có thể tìm thấy huyết thanh đấy.",
+      "options": [
+        {
+          "message": "Lục tìm đống đổ nát.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Rời đi.",
+          "messageDesc": "Không có gì xảy ra.",
+          "result": [
+            "\"Nhìn gì nữa thế? Còn cái gì nhặt nhạnh được nữa đâu.\"\n...Nếu quan sát kỹ hơn thì chắc tôi sẽ tìm được món gì hữu ích, nhưng mấy mảnh kim loại sắc nhọn kia sẽ lại gây thêm thương tích mất, cứ né ra thì hơn.\nTất cả im lặng rời khỏi căn phòng.  "
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040102,
+      "name": "Looking for a Drone",
+      "desc": "Thử tìm kiếm con drone lần nữa không?",
+      "options": [
+        {
+          "message": "Lục tìm đống đổ nát.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Rời đi lần nữa.",
+          "messageDesc": "Không có gì xảy ra.",
+          "result": [
+            "Không việc gì phải mạo hiểm chịu thương tích thêm lần nữa cả.\nTất cả rời đi, làu bàu vì chuyện không may vừa rồi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10402,
+      "name": "An Ampule to Use",
+      "desc": "Toàn là ống tiêm huyết thanh Tập Đoàn K.\n\"Ồ~ Trúng mánh rồi nè! Dante à, hay là mình tiện tay chộp bừa một ống đi?\"\n\"Không được. Máy tiêm huyết thanh chỉ có ở căn phòng này, do đó việc mang nó đi dùng ở nơi khác là bất khả thi.\"\n... Làm gì bây giờ?",
+      "options": [
+        {
+          "message": "Dùng huyết thanh.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Không dùng huyết thanh.",
+          "messageDesc": "Không có gì xảy ra.",
+          "result": [
+            "Mấy thứ đồ mình chưa biết thì chắc không nên lấy các Tội Nhân ra thử làm gì.\nTất cả quyết định rời khỏi căn phòng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040201,
+      "name": "An Ampule to Use",
+      "desc": "\"Nom kìa, trên huyết thanh có gắn cảnh báo!\"\nTôi lướt mắt qua mấy chai lọ thủy tinh, liền trông thấy mấy nhãn thông báo nhỏ dán trên đó.\nNhưng chữ viết quá sít nhau, đọc không ra được.\n\"Các phần bị thiếu... không đủ... dừng? Chả hiểu nổi viết cái gì đây nữa.\"\n\"Quản Lý Thân Sĩ! Có vẻ như thiết bị này có hai chế độ: đơn và đa mục tiêu đó!\"\nNhìn thế này thì thể nào quyền chọn lựa cũng nằm trong tay tôi rồi.\nLàm gì bây giờ?",
+      "options": [
+        {
+          "message": "Dùng ống tiêm lên tất cả mọi người.",
+          "messageDesc": "Đồng minh thiếu HP hồi phục hoàn toàn.\nĐồng minh đầy HP mất HP và SP.",
+          "result": [
+            "Cho tất cả các Tội Nhân cùng hưởng lợi đi, đâu chết gì ai.\nBấm vào nút 'nhóm'.\n\"Hự!\"\n\"Gì kỳ vậy... Tự dưng nôn nao khó chịu quá đi.\"\nMột vài Tội Nhân rên rỉ vì đau đớn.\nTôi bèn ngẫm xem những Tội Nhân đó giống nhau ở điểm nào... Hóa ra họ là những người vốn không bị thương.\n\"Đây không phải thứ nên được cung cấp cho những cá nhân khỏe mạnh đâu.\"\n...Lần sau cẩn thận thì hơn."
+          ]
+        },
+        {
+          "message": "Dùng ống tiêm lên Tội Nhân thương tích nặng nhất.",
+          "messageDesc": "Đồng minh có HP thấp nhất hồi phục hoàn toàn.",
+          "result": [
+            "{affectedTarget} có vẻ là Tội Nhân bị thương nặng nhất, nên cả đoàn để người đó đứng gần máy tiêm, rồi ấn nút 'đơn'.\n...Tội Nhân đó trông khá hơn nhiều rồi!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10403,
+      "name": "Poking at the Egg",
+      "desc": "\"Này là... trứng à?\"\n\"Xin hãy cẩn thận. Có thể đây là Dị Thể đấy.\"\nNói mới nhớ, người ta có bảo tôi rằng phòng thí nghiệm dưới lòng đất của Tập Đoàn K cũng quản lý cả trứng lấy về từ nhánh của Tập Đoàn L nữa.\n\"Uây... Nó ngọ nguậy đấy à?\"\nNgay lúc các Tội Nhân đang quan sát mấy quả trứng, có một quả bỗng nhiên động đậy.\nLàm gì bây giờ?",
+      "options": [
+        {
+          "message": "Chạm vào mấy quả trứng.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Không chạm vào mấy quả trứng.",
+          "messageDesc": "Không có gì xảy ra.",
+          "result": [
+            "\"Còn làm cái gì nữa hả? Chạy đi!\"\nĐúng là chỉ còn cách đó thôi. Cả đoàn nhanh chóng rời khỏi căn phòng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10404,
+      "name": "PickingRowAndColumn",
+      "desc": "Khu vực này biến dạng, rồi có một cái tủ xuất hiện.\nThấy vài món đồ trong mấy ngăn tủ.",
+      "options": [
+        {
+          "message": "Nhìn kỹ hơn chút."
+        }
+      ]
+    },
+    {
+      "id": 10405,
+      "name": "Make a Wish",
+      "desc": "\"Trên kia là... sao trời hả?\"\nTất cả mọi người nhìn lên, trông thấy giữa vết nứt là một khung cảnh tựa như bầu trời đêm khuya.\n\"Nom kìa, một vì sao băng!!\"\nNghe nói nếu ước một điều với sao băng thì điều ước sẽ trở thành hiện thực đấy.\nHay là thử xem?",
+      "options": [
+        {
+          "message": "Ước một điều.",
+          "messageDesc": "50% tỷ lệ nhận được Quà Tặng E.G.O.",
+          "result": [
+            "\"Sến thế.\"\nMọi người nhắm mắt lại, lặng lẽ ước một điều.\nLẽ nào hành động ấy đã được đền đáp?\nKhi chúng tôi mở mắt ra, trên mặt đất bỗng xuất hiện một mảnh vỡ lấp lánh.\n\"Hừm, ai ước cái này đấy?\"\nCác Tội Nhân nói vậy thôi, chứ thứ này chắc cũng không liên quan đến điều ước của ai hết đâu.\nChúng tôi cầm lấy mảnh vỡ đó và rời đi",
+            "\"Sến thế.\"\nMọi người nhắm mắt lại, lặng lẽ ước một điều.\n...Nhưng không có gì xảy ra cả.\n\"Đứa nào đấy? Cả đám mình chắc chắn có người mở mắt giữa chừng chứ gì?\"\nChúng tôi an ủi Tội Nhân vừa nổi đóa, rồi rời khỏi căn phòng."
+          ]
+        },
+        {
+          "message": "Rời đi.",
+          "messageDesc": "Không có gì xảy ra.",
+          "result": [
+            "Nếu ước mà thành thật dễ thế thì tôi đã có lại đầu mình từ lâu rồi.\nChúng tôi rời khỏi căn phòng, nghĩ rằng thà thế còn hơn là tốn thêm thời gian ở đây."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10406,
+      "name": "ApproachingTheFlower",
+      "desc": "<i>MộtCâyHoađứnggiữaSân.\nChẳngCâyHoakháclalânởgần(近處).\nCâyHoaấyđứnglặngtrơtrơ\nTừngĐóaHoaThànhTâm(熱心)rộnở\nNhưcáchnóThànhTâmtưởngraCâyHoatrongTâmTrínó.</i>\n\nLàm gì bây giờ?",
+      "options": [
+        {
+          "message": "Tiến về phía hoa.",
+          "result": [
+            "<i>CâyHoakhôngthểchạmtớiCâyHoatrongTâmTrínó.</i>\n\nMột luồng sóng xung kích đẩy lui tất cả mọi người, không cho phép ai tới gần."
+          ]
+        },
+        {
+          "message": "Rời đi.",
+          "result": [
+            "<i>CâyHoakhôngthểchạmtớiCâyHoatrongTâmTrínó.\nTôimảimiếtchạy.\nNhưthểtôichạyvì(爲)mộtCâyHoaduynhất, TôiBắtChướcnótrôngthậtLạLùnglàmsao.</i>\n\nNgay khi chúng tôi chuẩn bị rời đi, cái cây cũng chợt tan biến.\nTôi nhặt được một cành hoa ở nơi nó từng đứng."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10407,
+      "name": "Run",
+      "desc": "Không gian chợt méo mó.\nNgay lúc ấy, sau lưng chúng tôi vọng tới một tiếng thét thật quen tai.\nNghe khá giống tiếng thét của con Dị Thể lúc trước từng bị chúng tôi đánh cho thành quả trứng.\n\"Chạy đi!!\"\nMười ba Tội Nhân cuống quýt lao đi.\n\"Vào kia!\"\n\"Đ-đấy là ngõ cụt hay sao ấy...\"\nCác Tội Nhân có vẻ hoảng sợ... Vẫn đi vào đó chứ?",
+      "options": [
+        {
+          "message": "Chạy đi.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Không chạy.",
+          "messageDesc": "Vào ải giao chiến. Thắng trận sẽ nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Rõ ràng chạy vào ngõ cụt thì chỉ có một kết cục mà thôi...\n\"Hự!\"\nCon Dị Thể đâm sầm vào các Tội Nhân.\n\"Con óc bò này...\"\nHết cách rồi. Phải áp chế nó lần nữa thôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040701,
+      "name": "Run.",
+      "desc": "Tiếp tục chạy vào con đường cụt.\n\"Cứ-cứ thế này thì con kia húc thẳng vào chúng ta mất thôi!\"\n\"Càng chạy là con bò đấy càng nhanh hơn đấy...\"\nMọi người bất an ra mặt.\nNên làm gì đây?",
+      "options": [
+        {
+          "message": "Chạy đi.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Không chạy.",
+          "messageDesc": "Vào ải giao chiến. Thắng trận sẽ nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Hết đường rồi.\nThà đừng chạy nữa, tiết kiệm sức để đấu một trận không tránh khỏi còn hơn...\n\"Hự!\"\nCon Dị Thể đâm sầm vào các Tội Nhân.\n\"Con óc bò này...\"\nHết cách rồi. Phải áp chế nó lần nữa thôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040702,
+      "name": "Run.",
+      "desc": "Vẫn cứ thế chạy đi.\n\"Nếu không còn tình huống nào đáng lo ngại thì sẽ tốt hơn.\"\nMột Tội Nhân lẩm bẩm lời bình luận kỳ lạ.\n\"Há?!\"\nNgay lúc ấy, bức tường trước mặt chúng tôi biến dạng thành một khu vực rộng rãi.\nLàm gì bây giờ?",
+      "options": [
+        {
+          "message": "Chạy đi.",
+          "messageDesc": "Vào ải giao chiến. Thắng trận sẽ nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Tiếp tục chạy trên con đường đó.\nNhưng lại không biết con đường này sẽ dẫn đến đâu cả...\n\"Gì đây?\"\nChúng tôi chạy bao lâu rồi?\nCuối cùng cả đoàn đã chạy đến một đấu trường, rất thích hợp để chiến đấu với con Dị Thể kia.\n\"Con óc bò này...\"\nHết cách rồi. Phải áp chế nó lần nữa thôi."
+          ]
+        },
+        {
+          "message": "Không chạy.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Đường chạy bị cụt lại ở đây.\nCái thứ chết khiếp kia sẽ lao tới chỗ chúng tôi sớm thôi. Nghĩ tới thôi là đã thấy sợ gấp đôi rồi.\nNhưng không hiểu sao, tôi vẫn có cảm giác rằng tất cả sẽ không sao cả.\n\"Á...\"\nCon Dị Thể lao xuyên qua chúng tôi, rồi tan biến vào cõi hư vô.\nChúng tôi tìm được một chất lỏng màu xanh lam rơi trên đường chạy của nó."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10408,
+      "name": "Try Talking",
+      "desc": "Một vài hình người kì dị lờ mờ xuất hiện trong khung cửa sổ.\nNên làm gì đây?",
+      "options": [
+        {
+          "message": "Thử bắt chuyện.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Giữ im lặng.",
+          "result": [
+            "Lặng thinh nhường ấy, chẳng thà mắng chửi.\nXénátxácthịtthầnlinhítnhấtcòncóthanhâmvanglên.\nĐột nhiên khung cửa sổ choang một tiếng vỡ tan, mảnh kính vỡ văng lên các Tội Nhân.\nTất cả các Tội Nhân đều chịu thương tổn.\n\"...Là cơn đau thể xác à.\"\nChúng tôi rời khỏi căn phòng, trên người vẫn còn găm mảnh gương vỡ."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805001,
+      "name": "Stand in his way.",
+      "desc": "Dongrang không còn động lòng thương xót những đối tượng thí nghiệm nữa rồi.\n\nKể cả khi công nghệ của anh ta không được công nhận...\nKể cả khi anh ta nhớ về con bê vàng ở quê nhà năm nào...\nAnh ta cũng không đau buồn nữa.\n\n\"Quá khứ đều là thứ vô nghĩa. Ta sẽ thiêu rụi tất cả.\"\n\n\"Cả Yi Sang nữa, tôi muốn cậu cũng phải chết đi.\"\n\nDongrang bắt đầu lao về phía Yi Sang.",
+      "options": [
+        {
+          "message": "Chắn đường anh ta.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805003,
+      "name": "Stand in his way.",
+      "desc": "\"Ta đã... quyết xóa bỏ tất thảy quá khứ.\"\n\n\"Nói cách khác đi. Một khi Yi Sang đã chết rồi thì ta cũng chẳng vướng bận gì với các người nữa.\"\n\nDongrang nhíu mày, vẻ bất mãn khá rõ ràng.\n\n\"Vậy mà... sao các người cứ cố chen vào làm cái gì?\"\n\nHình như Dongrang sắp tung ra một đòn tấn công mạnh mẽ đấy. Có lẽ chúng ta nên tận dụng khoảng cách này.",
+      "options": [
+        {
+          "message": "Chắn đường anh ta.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805005,
+      "name": "Stand in his way.",
+      "desc": "\"Ta thực sự không nên tốn thì giờ như thế này làm gì.\"\n\nNhư thế bất chợt nhận ra điều gì, Dongrang sững lại tại chỗ.\nRồi anh ta nhìn lên trần nhà, như thể muốn trông tới những vì sao trên bầu trời.\n\n\"Ngay lúc này đây... cứ mỗi một giây nó không rơi lệ là ta lại càng thua thiệt nhiều hơn.\"\n\n\"Thì giờ và cơ may để thay đổi thế gian này... đang dần tan biến.\"\n\nLập tức, Dongrang trừng đôi mắt hằn tơ máu.\n\n\"Yi Sang... Là mày, chính mày mới là kẻ phải chết đi, thế thì tao mới có thể chấm dứt tất cả!\"",
+      "options": [
+        {
+          "message": "Chắn đường anh ta.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040402,
+      "name": "Picking a Row and Column",
+      "desc": "Trong ngăn ẩn này có nhiều vật phẩm.\nCó lẽ sẽ có tác dụng cho những ải về sau.\nNên lấy gì đây?",
+      "options": [
+        {
+          "message": "Chọn ngăn tủ ở hàng hai, cột năm.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Lấy một món đồ từ ngăn tủ ở hàng hai, cột năm.\nLà một khối màu xanh lục kì lạ.\nTrông hao hao giống một cái mặt nạ.\nKhông lâu sau, khu vực này bắt đầu nhòe đi, cái tủ cũng biến mất theo."
+          ]
+        },
+        {
+          "message": "Chọn ngăn tủ ở hàng năm, cột tám.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Lấy một món đồ từ ngăn tủ ở hàng năm, cột tám.\nLà một khối màu xanh lam kì lạ.\nTrông hao hao giống một con dao.\nKhông lâu sau, khu vực này bắt đầu nhòe đi, cái tủ cũng biến mất theo."
+          ]
+        },
+        {
+          "message": "Chọn ngăn tủ ở hàng sáu, cột đầu tiên.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O.",
+          "result": [
+            "Lấy một món đồ từ ngăn tủ ở hàng sáu, cột đầu tiên.\nLà một khối màu vàng kỳ lạ.\nTrông hao hao giống một đóa hoa.\nKhông lâu sau, khu vực này bắt đầu nhòe đi, cái tủ cũng biến mất theo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 910303,
+      "name": "Hell's Chicken Dungeon Renewal - Starting Point Choice",
+      "desc": "Chúng tôi đứng ở lối vào Hầm Ngục của Góc Khuất Bản Ngã.\n\nỞ góc trống nọ, chúng tôi tìm thấy một chiếc máy bán hàng tự động.\n\nNó lấy đâu ra nguồn điện vậy...?\n\nChưa kể cảm giác bất an này là sao nữa...?\n\nĐứng trước chiếc máy bán hàng tự động, chúng tôi thấy từng hàng nút bấm.",
+      "options": [
+        {
+          "message": "Bấm một trong các nút ở hàng đầu.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Thiêu Đốt",
+          "result": [
+            "Một Quà Tặng E.G.O từ trong cỗ máy rớt ra kêu tiếng bộp.\n\nĐể đề phòng thì chúng tôi có bấm cả những nút khác nữa, nhưng cỗ máy không có phản hồi gì.\n\nCả đoàn quyết định đi tiếp, trong khi vẫn cảm thấy sự việc vừa rồi có gì đó quen quen."
+          ]
+        },
+        {
+          "message": "Bấm một trong các nút ở hàng giữa.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Vỡ Vụn",
+          "result": [
+            "Một Quà Tặng E.G.O từ trong cỗ máy rớt ra kêu tiếng bộp.\n\nĐể đề phòng thì chúng tôi có bấm cả những nút khác nữa, nhưng cỗ máy không có phản hồi gì.\n\nCả đoàn quyết định đi tiếp, trong khi vẫn cảm thấy sự việc vừa rồi có gì đó quen quen."
+          ]
+        },
+        {
+          "message": "Bấm một trong các nút ở hàng cuối.",
+          "messageDesc": "Nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Một Quà Tặng E.G.O từ trong cỗ máy rớt ra kêu tiếng bộp.\n\nĐể đề phòng thì chúng tôi có bấm cả những nút khác nữa, nhưng cỗ máy không có phản hồi gì.\n\nCả đoàn quyết định đi tiếp, trong khi vẫn cảm thấy sự việc vừa rồi có gì đó quen quen."
+          ]
+        }
+      ]
+    }
+  ]
+}

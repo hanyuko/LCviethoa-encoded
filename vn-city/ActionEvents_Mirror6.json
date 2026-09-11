@@ -1,0 +1,195 @@
+{
+  "dataList": [
+    {
+      "id": 971055,
+      "name": "Bizarre Machine",
+      "desc": "Một cỗ máy kỳ lạ hiện ra. Trên mặt bàn là một đồng xu.\n\nTrên cỗ máy lại xuất hiện một khe nhét xu sáng lấp lánh, cứ như thể nó đang thôi thúc và mời gọi chúng tôi nhát đồng xu trên bàn vào trong nó.\n\nKhi tiến gần đến cỗ máy thì âm thanh điện tử thiếu cảm xúc vang lên.\n\n\"Thử vận may đi nào!\"\n\nCái âm thanh đấy phát ra từ chỗ nào thế? Bên trong cỗ máy này à, hay là cả cái không gian nơi đây đang thủ thỉ bên tai tôi?\n\nTrong vô thức, tôi đã tiến lại sát bên cạnh bàn và nhặt đồng xu lên. Giờ đây tôi phải suy nghĩ cho thật kỹ.",
+      "options": [
+        {
+          "message": "Thó luôn đồng xu..",
+          "messageDesc": "",
+          "result": [
+            "Nhìn kỹ lại thì đồng xu này sẽ hữu dụng trong hầm ngục đấy.\n\n... Dù phần thưởng có nhỏ đến cỡ nào nhưng còn bờ để quay đầu về thì tốt nhất là nên từ bỏ thôi. Vẫn tốt hơn là đánh cược đồng xu này vào cái máy đáng ngờ đó chỉ để nhận đươc cái gì đấy không rõ nguồn gốc mà đến bản thân còn chẳng biết cách nào mà lường trước đươc.\n\nChúng tôi nhét đồng xu vào túi và ngó lơ cỗ máy."
+          ]
+        },
+        {
+          "message": "Nhét đồng xu vào máy.",
+          "messageDesc": "???",
+          "result": [
+            "Sau khi nhét xu vào, bên trong phát ra tiếng cạch.\n\n\"#%^*@%@!!#@$%\"\n\nCỗ máy phát ra thứ âm thanh kỳ dị và chẳng thể nào diễn tả thành lời đươc. Rồi một lúc sau, nó nhả thứ gì đó ra từ... cái lỗ nhận hàng.\n\nXong nó vọt đi mất tiêu trước khi chúng tôi kịp hiểu chuyện gì vừa mới diễn ra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971056,
+      "name": "Carnival of La Manchaland",
+      "desc": "\"Ở nơi lễ hội dài đằng đẵng... vô tận... tuyệt vời này...\"\n\nCuộc diễu hành đem những lời cảm thán vui vẻ và nụ cười đến với khán giả. Nhìn chỗ nào cũng thấy nó quá đỗi loè loẹt và hoa mỹ.\n\nGiống hệt lời bài hát... như thể cuộc diễu hành sẽ tiếp diễn bất tận vậy.\n\n\"Ô.\"\n\nCó tiếng ai đó rên lên đau đớn, rồi có một chiếc kim tiêm rỉ sét rơi leng keng xuống sàn.\n\n\"M-máu! Máu kìa!\"\n\"Một giọt thôi mà, xin người...!\"\n\nCuộc diễu hành ngay lập tức tan tác, ai nấy cũng đều điên loạn lao tới chỗ cái kim tiêm.\nCứ như thể chúng mất hết nhận thức về người và không gian xung quanh mình; chúng trông sẵn sàng xé xác bất cứ thứ gì ngáng đường vậy.\n\nCó nên ngăn chúng lại không?",
+      "options": [
+        {
+          "message": "Cố ngăn chúng lại.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Khát Vọng & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Chảy Máu."
+        },
+        {
+          "message": "Mặc kệ chúng.",
+          "messageDesc": "",
+          "result": [
+            "Không có gì xảy ra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971057,
+      "name": "The Carousel",
+      "subDesc": "",
+      "desc": "Đó là... vòng quay ngựa gỗ sao?\n\nTrong không gian tối tăm này hiện hữu một cấu trúc tỏa ra thứ ánh sáng vô cùng chói lóa.\n\n\".….\"\n\"Chao ôi, có chuyện gì sao?\"\n\n\"Hở? Kh-Không, chẳng có gì phải lo hết.\"\n\nVòng quay ngựa gỗ thu hút trí tò mò của một số Tội Nhân.\n\nChúng ta có nên xem thử không?",
+      "options": [
+        {
+          "message": "Dừng lại xem vòng quay ngựa gỗ.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại."
+        },
+        {
+          "message": "Trông nguy hiểm quá. Mau đi lẹ thôi.",
+          "result": [
+            "Không có gì xảy ra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971058,
+      "name": "Refracted Sleeping Bag of a Bygone Day",
+      "subDesc": "",
+      "desc": "Có cái gì đó thở rất nặng nề. Nguồn âm thanh đang nằm ở phía kia, hình dạng của nó thật kỳ quái.\n\nTrông như là Dị Thể. Thứ đó ngay cả thở cũng thật vất vả, từng hơi thở mệt nhọc không đều.\n\nNó đang... khóc ư?",
+      "options": [
+        {
+          "message": "Nghe tiếng thở.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Kiêu Ngạo & Đố Kỵ. Thành công sẽ nhận một Quà Tặng E.G.O Sắc Bén."
+        },
+        {
+          "message": "Bịt tai lại.",
+          "result": [
+            "Lắng nghe hơi thở đớn đau của nó thật não nề.\n\nChỉ riêng cảm giác ấy thôi cũng đủ khiến tôi muốn buồn nôn rồi. Các Tội Nhân cũng chẳng khác là bao, bọn họ không ôm đầu thì toàn thân cũng bắt đầu thấm đãm mồ hôi.\n\n\"B-bịt tai lại mau. Tôi nghĩ... âm thanh đang khiến tôi phát điên lên.\"\n\nTôi ra lệnh các Tội Nhân nhanh chóng làm theo, rồi cảm thấy cơ thể dần khỏe trở lại.\n\n... Dị Thể tiếp tục phát ra âm thanh ấy thêm một lúc nữa rồi hoàn toàn lặng thinh."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971059,
+      "name": "Refracted Four-hundred Roses",
+      "subDesc": "",
+      "desc": "Những cánh hoa đẫm máu rộ lên sắc màu đỏ thẫm đến mức ai nhìn vào cũng sẽ lầm tưởng rằng chúng đang chảy máu.\n\nPhần thân của nó đang rút cạn dòng máu từ nơi nào đó để nuôi dưỡng những cánh hoa, cũng cái phần thân ấy trông thật xoắn tít, xen lẫn sắc màu của đỏ và đen trông rất ma mị.\n\nNhững cái gai nhọn hiểm ác mọc um tùm trên thân nó.\n\nDẫu nhưng một câu hỏi lại hiện ra trong tâm trí—liệu bẻ gãy một cái gai nhọn có khiến nó chảy máu không?",
+      "options": [
+        {
+          "message": "Bẻ một cái gai.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Đố Kỵ. Thành công sẽ nhận một Quà Tặng E.G.O Chảy Máu."
+        },
+        {
+          "message": "Không làm gì cả.",
+          "result": [
+            "Ai cũng biết càng tò mò chỉ càng rước họa vào thân.\n\nNên lần này sẽ không khiêu khích nó hay gì hết."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971064,
+      "name": "Daily Life",
+      "desc": "\"A, đằng kia kìa...!\"\n\nTôi quay đầu lại và nhìn thấy một người đang chới với ở chỗ tay vịn... rồi ngã nhào.\n\nTựa như... một chiếc lông vũ đang rơi xuống từ một nơi không quá cao hay quá thấp, tựa như một người đang chìm dần xuống nước vậy.\n\n\"CẨN THẬN!!!\"\n\nMột Tội Nhân hét lên cực kỳ to để báo hiệu cho chúng tôi.\n\nCả đoàn phi thẳng đến chỗ người ngã, nhưng đến nơi rồi người đó vẫn đang rơi xuống, chúng tôi còn có thời gian nghỉ lấy hơi nữa.\n\nCú rơi chậm chạp của người này khiến tôi tự hỏi liệu cảm giác cứu được họ có giống như lúc bắt lấy một mảnh giấy đang khẽ đung đưa hay không, và rằng nó có thật sự dễ dàng lẫn nhẹ nhàng luôn không.\n\n\"Trong trường hợp này có thể bỏ qua yếu tố của trọng lượng. Dù tốc độ rơi rất chậm nhưng nếu như bất chợt cản lại...\"\n\n\"Chúng ta sẽ chứng kiến tường tận từng mi-li-giây của chiếc xương sống dần rạn nứt ra, rồi tiếp diễn đến cảnh đau đớn quằn quại kéo dài liên tục nhiều phút liền.\"\n\n\"Eo ôi...\"\nVẫn còn thời gian trước khi người đó ngã xuống đất. Phải mau chóng kiếm thứ gì đó ngăn cú ngã lại...",
+      "options": [
+        {
+          "message": "Kiếm thứ gì đó ngăn cú ngã lại.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Chấn Động.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Với tay ra đỡ lấy người dân thường ấy.",
+          "messageDesc": "",
+          "result": [
+            "\"Không cần đi xa đến thế. Để chỉ cách cho nè.\"\n\nCác Tội Nhân lập thành vòng tròn nâng đỡ và cứu được người đang rơi xuống.\n\n\"C-cảm ơn mọi người nhiều...\"\n\nNgười dân thường vô cùng cảm kích, rồi giao cho chúng tôi một lượng nhỏ trên người.\n\n... Tuy rất chậm rãi. Nhưng gần như tất cả đã đều quá quen cảnh này rồi, nên chúng tôi nhẫn nại chờ đợi đến khi nhìn thấy bóng hình người ấy khuất đi rồi mới tiếp tục lên đường."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971065,
+      "name": "",
+      "desc": "\"Đứng lại! Khu vực này hạn chế người ngoài!\"\n\nMột người đàn ông đội mũ chóp cao cản chúng tôi lại, có vẻ như cậu ta là nhân viên Tập Đoàn T.\n\n\"Chỉ có những cá nhân làm theo hợp đồng của Tập Đoàn T, hoặc người có thẩm quyền mới được phép vào đây,\"\n\nKhi thấy chúng tôi trông đần người ra không biết làm gì, cậu ta chỉ tay sang một phía và tiếp tục nói.\n\n\"Hừm, xem ra anh chị được phép đi qua khu vực này. Chắc do lấy nhầm giấy phép.\"\n\n\"Nếu cần thì anh chị có thể thử qua phía bên kia để xin cấp phép lại.\"",
+      "options": [
+        {
+          "message": "Lấy giấy thông hành.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Lười Biếng. Thành công sẽ nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Nhận làm hợp đồng.",
+          "messageDesc": "Vào ải giao chiến. Thắng trận để nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            "\"Chuyện là, quanh khu vực này của Tập Đoàn T có vài vấn đề nhức nhối. Chúng tôi sẵn sàng chấp nhận người ngoài giúp đỡ miễn là có thể giải quyết được rắc rối.\"\n\n\"Một trong số đó là đám Yurodiviye. Bọn chúng ra rả về lý tưởng hay cái gì đó tương tự thế, và chúng đang có ý định gây rối quanh khu này. Xử lý chúng, rồi chúng tôi sẽ trao cho anh chị cái huy hiệu mà không cần phải thực hiện quá trình cấp giấy thông hành làm gì nữa.\"\n\nĐúng ngay lúc lời vừa dứt, một toán kẻ với khăn choàng nổi bao vây quanh chúng tôi."
+          ]
+        },
+        {
+          "message": "Trình [Thông Báo Cảnh Báo] ra.",
+          "messageDesc": "Vào ải giao chiến. Thắng trận để nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            "\"... Ờm, được thôi? Nhưng mà... tại sao?\"\n\n\"Anh chị có lợi lộc gì khi trình bày cái giấy phạt ấy ra cho tôi xem chứ?\"\n\n\"Đằng nào tôi cũng phải tra cứu thông tin họ tên của anh chị trong hệ thống thôi, thì dữ liệu cũng sẽ hiển thị rằng tất cả anh chị đều đã dính cảnh cáo rồi. Đồng nghĩa mọi thứ chỉ còn là vấn đề thời gian trước khi tôi—khoan đã, anh chị muốn tiết kiệm thời gian quý báu của tôi chăng?\"\n\n\"Ôi, tôi rất cảm kích tấm lòng này. Vậy thì không phí thời gian nữa mà bắt tay vào việc luôn nào.\"\n\nLời vừa dứt, một tiếng động vang lên trước chỗ quầy tiếp tân cùng với tiếng cói báo hú vang trời.\n\nSau đó các nhân viên Tập Đoàn T bao vậy chúng tôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971066,
+      "name": "",
+      "desc": "Chúng tôi gặp phải một cái áp phích vẽ khá ẩu.\n\nTrên tấm áp phích có phần giới thiệu và cạnh đó là ghi chú chỉ đường nho nhỏ.\n\n'Thì giờ thì ít mà phiền muộn thì nhiều? Vậy hãy gia nhập Yurodiviye ngay và luôn!\n\nBạn cảm thấy cuộc sống mình ổn định sự bất công đang chà đạp lên bạn?\n\nHay bạn muốn sống để chứng kiến ngày tàn của nó?\n\nAo ước đi! Khao khát đi!\n\nHãy cầm lấy tờ áp phích này và để nó dẫn bạn tới bến bờ hạnh phúc.\n\nTại hẻm ■■■, trước đầu đường ■■ và hãy đi bộ với tốc độ 120km mỗi ngày. Một mình.'",
+      "options": [
+        {
+          "message": "Lấy tấm áp phích và đi theo chỉ dẫn viết trên ghi chú.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng, Lười Biếng và Phàm Ăn. Thành công sẽ nhận một Quà Tặng E.G.O Chấn Động.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Bỏ qua tấm ám phích.",
+          "messageDesc": "",
+          "result": [
+            "Cũng khá thắc mắc là đám Yurodiviye tuyển mộ làm gì thế nhỉ? Nhưng lần theo đầu mối này cũng chỉ tổ phí thời gian thôi.\n\nTôi quay người khỏi tấm áp phích và nhanh chóng bước theo các Tội Nhân."
+          ]
+        },
+        {
+          "message": "Trưng bày [Tháp Rượu Tràn Ly].",
+          "messageDesc": "Chọn để nhận Quà Tặng E.G.O Chấn Động.",
+          "result": [
+            "Từ xa xuất hiện bóng người.\n\n\"Đợi đã... cái tháp ly đó...\"\n\n\"À, tôi có nghe giai thoại rồi. Ai đó đang rất nỗ lực để phân bổ lại giàu nghèo dù không cùng chung chiến tuyến lẫn quan điểm...\"\n\n\"Cứ tiếp tục phát huy nhé chiến hữu... hãy mang theo thứ này, nó sẽ giúp ích rất nhiều đấy.\"\n\nRõ ràng là anh ta nhầm chúng tôi với ai đó rồi. Sau đó lại vỗ vai tôi rồi trao tận tay thiết bị rồi mới rời đi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971067,
+      "name": "",
+      "desc": "Một giọng nói tuyệt vọng vang lên từ phía xa.\n\n\"Hãy gia nhập cùng chúng tôi. Hãy cùng nhau đập tan sự bất công chết dẫm đó.\"\n\nMột giọng nói khác cất lên.\n\n\"Chúng ta đang cứu vãn thời gian từ cái chết thảm hại của chúng. Đây là sự trừng phạt của thần linh.\"\n\nMột giọng nói khác nhảy vào, nghe đầy háo hức.\n\n\"Vào hội chúng tui đi mà. Trở thành một tên đạo chích. Cậu cũng biết cái kiểu đấy đúng chứ? Kiểu quý ông đạo chích, trộm cướp vì chính nghĩa... Ờm, hay tụi mình giống phường trộm cướp vì chính nghĩa hơn ta?\"\n\n... Có khi ta nên tận dụng cơ hội này để lừa chúng.",
+      "options": [
+        {
+          "message": "Giả vờ gia nhập.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Dục Vọng & Lười Biếng. Thành công sẽ nhận Cost.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Từ chối.",
+          "messageDesc": "",
+          "result": [
+            "\"Từ chối ư...? Từ chối chúng ta sao...?\"\n\n\"Không, thế này cũng tốt. Vẫn chưa đến thời điểm vén màn bí mật về sự tồn tại của chúng ta.\"\n\n\"Từ đầu tao đã không tin chúng nó rồi!\"\n\n\"Các ngươi không thể hành động cẩn thận hơn được à? Bọn chúng nghe hết mọi thứ về mục đích của chúng ta rồi!\"\n\nNhững giọng nói liên tục phản bác và quát tháo nhau trước khi bóng người ấy tiếp cận.\n\n\"Hãy quên tất cả mọi thứ vừa xảy ra kể cả cuộc đối thoại. Có lẽ đã hơi hấp tấp khi đưa ra đề nghị này mà không hề thảo luận đàng hoàng với tập thể.\""
+          ]
+        }
+      ]
+    }
+  ]
+}

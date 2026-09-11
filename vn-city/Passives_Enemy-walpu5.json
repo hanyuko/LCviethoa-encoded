@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 9017801,
+      "name": "Khói Mù Cuồn Cuộn",
+      "desc": "Gây thêm sát thương thay vì nhận thêm sát thương do [Smoke] trên chủ thể."
+    },
+    {
+      "id": 9017802,
+      "name": "Động Cơ Đốt Trong",
+      "desc": "Khi nhận [Smoke], nhận thêm 1 [Smoke]"
+    },
+    {
+      "id": 9017803,
+      "name": "Bánh Răng Thịt",
+      "desc": "Xu đầu tiên đánh trúng trong Ải +10% sát thương gây ra"
+    },
+    {
+      "id": 9017804,
+      "name": "Bánh Răng Tư Duy",
+      "desc": "Khi Dùng Kỹ Năng Né: Sức Mạnh Gốc +1"
+    },
+    {
+      "id": 9017805,
+      "name": "Động Cơ Đốt Trong Bị Hỏng",
+      "desc": "Khi Bị Choáng, mất toàn bộ [Smoke] trên chủ thể"
+    },
+    {
+      "id": 9018001,
+      "name": "Bánh Răng Thịt: Tăng Cường",
+      "desc": "Nếu có đồng minh còn sống, gán 1 [ParryingResultUp] và 2 [AttackDmgUp] lên toàn bộ đồng minh (2 lần mỗi đồng minh)\nNếu không có đồng minh nào còn sống, nhận 8 [Smoke] vào Đầu Lượt"
+    },
+    {
+      "id": 9018002,
+      "name": "Bánh Răng Tư Duy: Trì Hoãn",
+      "desc": "Nếu chủ thể còn sống, không có kẻ địch nào được tạo ra vào Cuối Lượt."
+    },
+    {
+      "id": 9018003,
+      "name": "Bánh Răng Tư Duy: Rủi Ro",
+      "desc": "Khi Dùng Kỹ Năng Phòng Thủ: Sức Mạnh Gốc +1"
+    }
+  ]
+}

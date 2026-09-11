@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1019,
+      "panicName": "Bức Họa Méo Mó",
+      "lowMoraleDescription": "Nhận 1 [Enhancement] và 1 [Vulnerable]",
+      "panicDescription": "Nhận 1 [PlusCoinValueUp] và 3 [Vulnerable]."
+    },
+    {
+      "id": 1021,
+      "panicName": "Trả Thù",
+      "lowMoraleDescription": "Nhận 3 [DefenseDown] và 3 [AttackDmgUp]",
+      "panicDescription": "Nhận 6 [DefenseDown] và 5 [AttackDmgUp]"
+    },
+    {
+      "id": 1022,
+      "panicName": "Thù Hận",
+      "lowMoraleDescription": "Thắng Giao Tranh: Nhận 1 [AttackUp] vào lượt kế. (3 lần mỗi lượt)\nThua Giao Tranh: Nhận 1 [DefenseUp]. (3 lần mỗi lượt)",
+      "panicDescription": "Thắng Giao Tranh: Nhận 1 [AttackUp] lượt này và lượt kế (3 lần mỗi lượt)\nThua Giao Tranh: Nhận 1 [DefenseUp] (3 lần mỗi lượt)\nCuối Lượt: Nhận 2 [Agility] vào lượt kế"
+    }
+  ]
+}

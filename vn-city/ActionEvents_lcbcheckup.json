@@ -1,0 +1,158 @@
+{
+  "dataList": [
+    {
+      "id": 971042,
+      "name": "",
+      "desc": "Chúng tôi đang ở điểm bắt đầu của Hầm Ngục của Góc Khuất Bản Ngã.\n\nChúng tôi tìm thấy một xưởng chế trang bị E.G.O.\n\n'Nếu bạn đạt được dưới 100% [độ đồng hoá] trong bài kiểm tra mức độ tương thích, lấy duy nhất một E.G.O ở đây.'\n\nPhía trước chúng tôi là một biển cảnh báo đáng sợ, những chiếc loa phát thanh cũng lặp lại những cảnh báo ấy vô tận.\n\nTất cả các Tội Nhân đều đến đó xem, bị cám dỗ bởi các trang bị E.G.O ở đây mà cái biển đó nhắc đến... nhưng chúng tôi chỉ tìm thấy Quà Tặng E.G.O mà thôi.\n\n\"Wha? These ain't E.G.O gears. These are... them gifts or something, right?\"\n\n\"It appears that E.G.O are manifest here in the shape of E.G.O Gifts.\"\n\n\"Hm. Can't we just take them all?\"\n\n\"This is a Dungeon of the Fathoms. As it differs from the usual Mirror Dungeons, it is highly advisable that its rules are followed.\n\nWhat should we do?",
+      "options": [
+        {
+          "message": "Lấy đôi găng rực lửa.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Thiêu Đốt",
+          "result": [
+            "Cái này phù hợp nhất cho tình cảnh hiện tại.\n\nChúng tôi lấy Quà Tặng E.G.O 'Găng Tay Gây Cháy'."
+          ]
+        },
+        {
+          "message": "Lấy đôi bốt có mảnh gai.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Vỡ Vụn",
+          "result": [
+            "Cái này phù hợp nhất cho tình cảnh hiện tại.\n\nChúng tôi lấy Quà Tặng E.G.O 'Ủng Quân Dụng Quấn Gai'."
+          ]
+        },
+        {
+          "message": "Lấy bình xịt dung dịch tẩy rửa.",
+          "messageDesc": "Chọn để nhận một Quà Tặng E.G.O Không Phân Loại",
+          "result": [
+            "Cái này phù hợp nhất cho tình cảnh hiện tại.\n\nChúng tôi lấy Quà Tặng E.G.O 'Cuộc Săn Huyễn Tưởng'."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971043,
+      "name": "",
+      "desc": "Chúng tôi bắt gặp mấy nghiên cứu viên đang hăng say kiểm tra một số tài liệu.\n\nHọ đang tranh luận về hai chủ đề: cảm xúc và ngọn lửa.\n\n\"Chỉ là lửa bình thường thì không khiến lũ Dị Thể tổn hại mấy. Thế sao cái này lại hiệu nghiệm ta...?\"\n\n\"Chắc cảm xúc thịnh nộ mãnh liệt hơn mới khiến ngọn lửa thiêu đốt đám Dị Thể và Biến Dị được. Tuy vẫn còn là ẩn số chưa thể giải đáp.\"\n\nHọ hẳn đã nhận ra chúng tôi đang chăm chú nghe cuộc trò chuyện này—một người bỗng sáng mắt lên rồi tiếp cận chúng tôi.\n\n\"Mấy người là 'chuột bạch' đúng không?\"\n\n\"Nếu chuẩn rồi thì đeo cái này vào đi.\"\n\nTrong tay của nghiên cứu viên này là một cái bugi... hoặc là một cái máy thử nghiệm nào đó.",
+      "options": [
+        {
+          "message": "Nhận nhầm người rồi.",
+          "messageDesc": "",
+          "result": [
+            "\"Hở? Mấy người không phải chuột bạch à?\"\n\n\"Thế thì ở đây làm quái gì? Biến mau!\"\n\nBọn tôi bị đá ra ngoài."
+          ]
+        },
+        {
+          "message": "Nhận đúng 'chuột bạch' rồi đấy.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Dục Vọng để nhận một Quà Tặng E.G.O Thiêu Đốt.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971044,
+      "name": "",
+      "desc": "Vô số nghiên cứu viên chạy đôn chạy đáo khắp phòng thí nghiệm.\n\nCó cái gì vừa xổng chuồng đấy à?\n\nChúng tôi đờ người trước cảnh tượng hỗn loạn thì bỗng có người tiến tới chỗ các Tội Nhân.\n\n\"Tránh đường!\"\n\n\"Ủa mà thật ra canh giờ chuẩn đấy chứ.\"\n\n\"Ăn cái này đi. Xin đấy, không chúng tôi trễ hạn nộp báo cáo thử nghiệm lâm sàng mất!\"",
+      "options": [
+        {
+          "message": "Ăn thử.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phàm Ăn & Thờ Ơ để nhận một Quà Tặng E.G.O Vỡ Vụn.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Không biết nó là gì thì không thử đâu.",
+          "messageDesc": "",
+          "result": [
+            "\"Thế thì tránh đường coi!\"\n\nNghiên cứu viên đó đẩy tất cả chúng tôi ra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971045,
+      "name": "",
+      "desc": "Chúng tôi thấy Hồng Diễm Nga trong buồng quản thúc.\n\nNhững đám lửa đỏ mập mờ bao quanh lấy nó như một vầng hào quang.\n\nĐôi cánh rực lửa bỗng tắt đi, và rồi bùng lên dữ dội ngay sau đó.\n\nMột nỗ lực để không ngừng nghỉ đốt cháy mọi thứ xung quanh nó.\n\n\"Hồng Diễm Nga quả thực là một mẫu vật đẹp mắt. Mọi người đã quan sát xong hết chưa?\"\n\n\"Dạo gần đây chúng tôi đã nghiên cứu kha khá về Dị Thể này.\"\n\n\"Vẫn còn rất nhiều điều chưa được khai phá, nhưng không vấn đề gì.\"\n\n\"Sẵn tiện thì câu hỏi đố vui đây. Có thể nhận được Quà Tặng E.G.O gì từ Hồng Diễm Nga?\"",
+      "options": [
+        {
+          "message": "Hoa Thủy Sinh",
+          "messageDesc": "Trả lời đúng sẽ nhận một Quà Tặng E.G.O Thiêu Đốt.",
+          "result": [
+            "\"…….\"\n\n\"Lần sau nhớ chú ý kỹ vào.\"\n\nNgười nghiên cứu viên bước ngang qua chúng tôi."
+          ]
+        },
+        {
+          "message": "Mộng Hỏa Điệp",
+          "messageDesc": "Trả lời đúng sẽ nhận một Quà Tặng E.G.O Thiêu Đốt.",
+          "result": [
+            "\"Chuẩn không cần chỉnh. Biết rõ chi tiết nhỉ.\"\n\n\"Nhưng không chỉ có thế thôi đâu. Gần đây thì nó cũng cho ra mấy thứ này nữa.\"\n\n\"Mang cái này theo đi. Gặp được người chung niềm đam mê cũng vui đấy.\"\n\nChúng tôi nhận được một đám lửa cháy mập mờ. Trông như được trích xuất thẳng từ chính Hồng Diễm Nga vậy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971046,
+      "name": "",
+      "desc": "Chúng tôi trông thấy Lồng Đèn Gốc Tiên bên trong buồng quản thúc.\n\nNàng tiên màu xanh lam nhạt bay lượn quanh những nhánh cây già cũ quắn quéo và từ tốn yên vị trên một nhánh cây.\n\nNhánh cây ấy khẽ đung đưa, như thể ra hiệu cho chúng tôi tiến lại gần...\n\nVô số con mắt màu vàng sáng ngời hiện ra từ bên dưới hốc rễ.\n\n\"Con Lồng Đèn Gốc Tiên này quả là một mẫu vật tuyệt đẹp biết bao. Mọi người đã quan sát xong hết chưa?\"\n\n\"Dạo gần đây chúng tôi đã nghiên cứu kha khá về Dị Thể này.\"\n\n\"Vẫn còn rất nhiều điều chưa được khai phá, nhưng không vấn đề gì.\"\n\n\"Sẵn tiện thì câu hỏi đố vui đây. Có thể nhận được Quà Tặng E.G.O gì từ Lồng Đèn Gốc Tiên?\"",
+      "options": [
+        {
+          "message": "Ác Mộng Đêm Đông",
+          "messageDesc": "Trả lời đúng sẽ nhận một Quà Tặng E.G.O Vỡ Vụn.",
+          "result": [
+            "\"Chuẩn không cần chỉnh. Biết rõ chi tiết nhỉ.\"\n\n\"Nhưng không chỉ có thế thôi đâu. Gần đây thì nó cũng cho ra mấy thứ này nữa.\"\n\n\"Mang cái này theo đi. Gặp được người chung niềm đam mê cũng vui đấy.\"\n\nChúng tôi nhận được một cành cây đơn sơ. Trông như được trích xuất thẳng từ chính Lồng Đèn Gốc Tiên vậy."
+          ]
+        },
+        {
+          "message": "Concavity",
+          "messageDesc": "Trả lời đúng sẽ nhận một Quà Tặng E.G.O Vỡ Vụn.",
+          "result": [
+            "\"…….\"\n\n\"Lần sau nhớ chú ý kỹ vào.\"\n\nNgười nghiên cứu viên bước ngang qua chúng tôi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971047,
+      "name": "",
+      "desc": "Có một nhóm nghiên cứu viên đang bàn luận trước một chỗ tối đen đến lạ kỳ ở phía cuối hành lang.\n\nNhận thấy chúng tôi, biểu cảm của họ sáng hẳn lên rồi tiếp lại gần. \n\n\"Có thể thăm dò chỗ này giúp chúng tôi được không?\"\n\n\"Nếu mọi người đồng ý, chúng tôi sẽ hỗ trợ hết sức mình.\"",
+      "options": [
+        {
+          "message": "Chấp nhận đi thăm dò.",
+          "messageDesc": "Hồi máu cho toàn đội\nTiến hành kiểm định Lợi Thế Kiêu Ngạo & Đố Kỵ để nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Từ chối.",
+          "messageDesc": "",
+          "result": [
+            "\"Vậy thì biến đi.\"\n\n\"Chúng tôi cũng chả phải người mất mát gì cả.\"\n\nCác nghiên cứu viên lập tức rời đi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971048,
+      "name": "",
+      "desc": "Những ký tự nguệch ngoạc được khắc vội bằng dao trên bức tường.\n\nTôi có thể cảm nhận được nỗi kinh hoàng tột độ lẫn sự tuyệt vọng tận cùng của người khắc nên những chữ này.\n\nKhi xem xét kỹ càng hơn, chúng kể lại câu chuyện đầy khủng khiếp.\n\n'Chúng bao vây chúng tôi lũ quái vật tôi nghe thấy tiếng chúng thở chúng sẽ giết tất cả chúng tôi mất'\n\n'Cứu tôi với ai đó làm ơn cứu tôi với tôi không muốn chết đâu'\n\n'Nỗi sợ là thứ khiến con người trở nên điên loạn. Lũ quái vật đang cận kề vì tôi có thể cảm nhận được rung động do chân chúng phát ra. Chúng đang tới…'\n\nNhững câu từ chưa hoàn thiện...\n\nVì cái chết đã khắc án tử lên kẻ viết chúng.",
+      "options": [
+        {
+          "message": "Mặc kệ rồi tiếp tục lên đường.",
+          "messageDesc": "",
+          "result": [
+            "Chẳng có gì tốt lành nếu chỏ mũi vào cả. Cũng không có lợi gì cho các Tội Nhân.\n\nChúng tôi nhanh chóng rời khỏi chỗ đó."
+          ]
+        },
+        {
+          "message": "Tìm kiếm xung quanh.",
+          "messageDesc": "Tiến hành kiểm định Lợi Thế Phẫn Nộ & Thờ Ơ để nhận một Quà Tặng E.G.O Không Phân Loại.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

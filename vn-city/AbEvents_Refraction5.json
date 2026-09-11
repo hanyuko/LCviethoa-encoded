@@ -1,0 +1,25 @@
+{
+  "dataList": [
+    {
+      "id": 863001,
+      "title": "Fell Bullet",
+      "eventDesc": "'Đứng yên đấy.' \n\n'Ta không nhớ nổi nữa. Giờ ta còn không biết liệu từ đầu họ có thật hay không.'\n\n'Nhưng ngươi... ngươi vẫn còn nhớ những người mà ngươi yêu thương.'\n\n'Thế thì ta sẽ bắn nát sọ từng kẻ một.'\n\nTrên cổ tên thiện xạ có treo một mặt dây chuyền.\n\nCó lẽ nó là mấu chốt để giải quyết trận chiến này.",
+      "behaveDesc": "Ai sẽ nhắc tới mặt dây chuyền?",
+      "successDesc": [
+        "{0} bảo tên thiện xạ mở mặt dây chuyền trên cổ hắn ra.\n\nNhư thể bị thế lực vô hình nào đó thôi thúc, tên thiện xạ nắm lấy mặt dây chuyền để chuẩn bị mở nó... rồi lại nắm chặt khẩu súng và la hét.\n\n'Không! Ta không muốn nhớ tới họ! Ta không... ta không muốn phải nhớ những người mà ta yêu thương!'\n\n'Ôi... xin ngươi... đừng mỉm cười nữa. Ta bảo ngươi đừng có cười nữa!'\n\n'Tránh xa ta ra! Câm mồm!'\n\nTên thiện xạ bóp cò, giọng điệu hắn đầy vẻ đau khổ...\n\nNhưng lực đẩy của từng viên đạn đã yếu hơn nhiều."
+      ],
+      "failureDesc": [
+        "{0} bảo tên thiện xạ mở mặt dây chuyền trên cổ hắn ra. \n\nTuy nhiên, thay vì nghe lời thì tên thiện xạ lại nắm chặt lấy mặt dây chuyền hòng dấu nó trong lòng bàn tay. Hắn ta chĩa nòng súng về phía chúng tôi rồi cười khẩy.\n\n'…….'\n\nLực giật từ súng khiến mặt dây chuyền rung lắc.\n\nNhưng tên thiện xạ vẫn tiếp tục bóp cò. Không có gì thay đổi cả."
+      ]
+    },
+    {
+      "id": 863301,
+      "title": "Four-hundred Roses",
+      "prevDesc": "        ",
+      "eventDesc": "",
+      "behaveDesc": "",
+      "successDesc": [],
+      "failureDesc": []
+    }
+  ]
+}

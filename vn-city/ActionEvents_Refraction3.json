@@ -1,0 +1,89 @@
+{
+  "dataList": [
+    {
+      "id": 858501,
+      "name": "",
+      "subDesc": "",
+      "desc": "Bạn cảm nhận được ánh nhìn soi xét nặng nề của nó.",
+      "options": [
+        {
+          "message": "Ánh nhìn săm soi chia cắt tất cả.",
+          "messageDesc": "",
+          "result": [
+            "Ánh nhìn săm soi ấy cũng chia cắt chính nó."
+          ]
+        },
+        {
+          "message": "Ánh nhìn săm soi xuyên thấu tất cả.",
+          "messageDesc": "",
+          "result": [
+            "Ánh nhìn săm soi ấy cũng xuyên thấu chính nó."
+          ]
+        },
+        {
+          "message": "Ánh nhìn săm soi nghiền nát tất cả.",
+          "messageDesc": "",
+          "result": [
+            "Ánh nhìn săm soi ấy cũng nghiền nát chính nó."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858502,
+      "name": "",
+      "desc": "Ánh nhìn soi xét ấy đã chuyển hóa thành ánh nhìn mang vô vàn cảm giác lạ lẫm.",
+      "options": [
+        {
+          "message": "Ánh nhìn như muốn thiêu rụi vạn vật.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ánh nhìn như muốn tổn hại vạn vật.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ánh nhìn như đang ôm trọn vạn vật.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ánh nhìn như muốn nuốt chửng vạn vật.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ánh nhìn như đang ơ hờ vạn vật.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ánh nhìn mang đầy sự khinh thường vạn vật.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ánh nhìn mang đầy sự đố kỵ vạn vật.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

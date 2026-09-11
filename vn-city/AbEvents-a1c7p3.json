@@ -1,0 +1,57 @@
+{
+    "dataList": [
+        {
+            "id": 837901,
+            "prevDesc": "                      "
+        },
+        {
+            "id": 837902,
+            "title": "",
+            "eventDesc": "",
+            "behaveDesc": "Làm gì đây?",
+            "successDesc": [
+                "{0} ôm con gấu bông vào lòng.\n\nDù da thịt của {0} bị đinh nhọn đâm vào...\n\n... nhưng hình như con gấu bông vui sướng nhảy nhót đã xoa dịu cảm xúc của Tội Nhân ấy."
+            ],
+            "failureDesc": [
+                "{0} ôm con gấu bông vào lòng.\n\nMột cây đinh cùn đâm sâu vào da thịt của {0}...\n\n... nhưng hình như con gấu bông vui sướng nhảy nhót đã xoa dịu cảm xúc của Tội Nhân ấy."
+            ]
+        },
+        {
+            "id": 837601,
+            "title": "Rose Hunter",
+            "prevDesc": "            ",
+            "eventDesc": "Sợi dây thòng lọng ấy nhắm tới chúng tôi...\n\nNhờ vào chuyển động của thợ săn, vòng thòng lọng vung thẳng về hướng chúng tôi.",
+            "behaveDesc": "Ai sẽ bước ra?",
+            "successDesc": [
+                "{0} phản ứng nhanh như chớp nhoáng, đánh bật sợi thòng lọng gai sang bên.\n\nSợi dây thòng lọng gai văng qua hướng khác.\n\nThợ Săn Hoa Hồng bị chuyển biến bất ngờ ấy làm cho sững sờ."
+            ],
+            "failureDesc": [
+                "Sợi thòng lọng gai quật thật mạnh lên người {0}.\n\nTrông thấy một Tội Nhân quằn quại vì đau đớn, Thợ Săn Hoa Hồng hình như đã sung sức hơn."
+            ]
+        },
+        {
+            "id": 1070102,
+            "title": "",
+            "eventDesc": "Chắc chúng ta nên ghé thăm Phòng Xưng Tội, lần trước tới đó chúng ta không làm được gì nhiều.\n\nThuận theo ý vài Tội Nhân, chúng tôi quyết định qua chỗ Phòng Xưng Tội.\n\n<i>Nếu con muốn thú tội hay cần được tư vấn, thì hãy ghé thăm nơi này.</i>\n\nMột giọng nói phát ra từ trong phòng thú tội.\n\nCó lẽ nếu như chúng ta thú tội thì lối đi sẽ mở ra.\n\nTội Nhân nào sẽ là người nói thật lòng?",
+            "behaveDesc": "",
+            "successDesc": [
+                "Thực thể đằng sau vách ngăn của Phòng Xưng Tội bày tỏ sự đau xót trước lời thú tội của {0}.\n\n<i>Tội của con đòi hỏi con phải tự soi xét nội tâm sâu sắc.</i>\n\n<i>Hãy tự trừng phạt bản thân bằng cây roi này, nó sẽ giúp được cho con.</i>\n\nMột cây roi gai trượt qua dưới vách ngăn của Phòng Xưng Tội.\n\nNgay khi chúng tôi nhặt cây roi lên, không gian xung quanh bỗng trở nên méo mó, và một con đường mới mở ra."
+            ],
+            "failureDesc": [
+                "{0} bước lên thú tội, nhưng vẻ mặt thì lại càng ngày càng nhăn nhó hơn.\n\nPhải thành thật kể chuyện cuộc đời mình cho người lạ nghe, hẳn phải khó chịu lắm.\n\nKhi câu chuyện của Tội Nhân kết thúc, thực thể ở phía bên kia vách ngăn buông lời an ủi và khuyên răn.\n\n<i>Hãy tự trừng phạt bản thân với cây roi này, lẽ sẽ giúp được cho con.</i>\n\nMột cây roi gai nhẹ nhàng trượt qua dưới vách ngăn của Phòng Xưng Tội.\n\nChắc việc thú tội chính là mấu chốt thoát ra. Không gian xung quanh bỗng trở nên méo mó, và một con đường mới mở ra trước mắt chúng tôi."
+            ]
+        },
+        {
+            "id": 1070401,
+            "title": "",
+            "eventDesc": "\"Đáng tiếc thay, chẳng còn cuộc phiêu lưu nào chờ đón họ nữa cả.\"\n\n\"Đã đến lúc vị Hiệp Sĩ cùng Cận Thần của ngài quay trở về nhà rồi.\"\n\n\"Về ngôi nhà có Gia Đình nhẫn nại từng ngày, chờ đợi từng ngày mong họ trở về.\"\n\n\"Nếu các vị muốn biết chuyện gì xảy ra sau đó, xin hãy tiến bước vượt qua bụi gai.\"",
+            "behaveDesc": "Ai sẽ là người băng qua bụi cây gai?",
+            "successDesc": [
+                "{0} tiến bước vào bụi cây gai, mở đường cho chúng tôi vượt qua.\n\nNhờ có {0}, những Tội Nhân khác đã băng qua được bụi cây tua tủa chông gai mà không bị xây xát quá nhiều."
+            ],
+            "failureDesc": [
+                "{0} tiến bước vào bụi cây gai, mở đường cho chúng tôi vượt qua.\n\nTuy đã rất cẩn thận, nhưng bụi gai quá dày, khó mà không bị xước xát chảy máu.\n\nĐến khi chúng tôi băng qua được bụi cây gai, tất cả các Tội Nhân đều bị gai nhọn đâm khắp người."
+            ]
+        }
+    ]
+}

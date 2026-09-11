@@ -1,0 +1,909 @@
+{
+  "dataList": [
+    {
+      "id": 9014501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cánh Tay Đông Cứng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Đâm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lấy Máu",
+          "desc": "Nếu mục tiêu có 10+ [Laceration], +20% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hấp thụ lên tới 10 Lượng [Laceration] từ mục tiêu và hồi (Lượng [Laceration] đã hấp thụ x 2)% HP (hiệu ứng này không giảm Lượng [Laceration] dưới 1)",
+                  "summary": "[OnSucceedAttack] Hấp thụ [Laceration] trên mục tiêu để hồi HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 Tầng [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cánh Tay Đông Cứng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Vụt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lấy Máu",
+          "desc": "Nếu mục tiêu có 10+ [Laceration], +20% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hấp thụ lên tới 10 Lượng [Laceration] từ mục tiêu và hồi (Lượng [Laceration] đã hấp thụ x 2)% HP (hiệu ứng này không giảm Lượng [Laceration] dưới 1)",
+                  "summary": "[OnSucceedAttack] Hấp thụ [Laceration] trên mục tiêu để hồi HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 Tầng [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cánh Tay Đông Cứng",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Dập",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lấy Máu",
+          "desc": "Nếu mục tiêu có 10+ [Laceration], +20% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hấp thụ lên tới 10 Lượng [Laceration] từ mục tiêu và hồi (Lượng [Laceration] đã hấp thụ x 2)% HP (hiệu ứng này không giảm Lượng [Laceration] dưới 1)",
+                  "summary": "[OnSucceedAttack] Hấp thụ [Laceration] trên mục tiêu để hồi HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 Tầng [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé",
+          "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đâm Xuống",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vũ Khí Huyết Giáp",
+          "desc": "[WhenUse] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể và tiêu thụ 2(15 - Tầng [Charge] đã tiêu thụ)% HP để nhận Sức Mạnh Xu +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hấp thụ lên tới 10 Lượng [Laceration] từ mục tiêu và hồi (Lượng [Laceration] đã hấp thụ x 2)% HP (hiệu ứng này không giảm Lượng [Laceration] dưới 1)",
+                  "summary": "[OnSucceedAttack] Hấp thụ [Laceration] trên mục tiêu để hồi HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 Tầng [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đâm",
+          "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chẻ",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vũ Khí Huyết Giáp",
+          "desc": "[WhenUse] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể và tiêu thụ 2(15 - Tầng [Charge] đã tiêu thụ)% HP để nhận Sức Mạnh Xu +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hấp thụ lên tới 10 Lượng [Laceration] từ mục tiêu và hồi (Lượng [Laceration] đã hấp thụ x 2)% HP (hiệu ứng này không giảm Lượng [Laceration] dưới 1)",
+                  "summary": "[OnSucceedAttack] Hấp thụ [Laceration] trên mục tiêu để hồi HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Né Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 Tầng [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vung Thương",
+          "desc": "[WhenUse] Nhận +2 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xé Toạc Vết Thương",
+          "desc": "[WhenUse] Nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vũ Khí Huyết Giáp",
+          "desc": "[WhenUse] Tiêu thụ toàn bộ Tầng [Charge] trên chủ thể và tiêu thụ 2(15 - Tầng [Charge] đã tiêu thụ)% HP để nhận Sức Mạnh Xu +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hấp thụ lên tới 10 Lượng [Laceration] từ mục tiêu và hồi (Lượng [Laceration] đã hấp thụ x 2)% HP (hiệu ứng này không giảm Lượng [Laceration] dưới 1)",
+                  "summary": "[OnSucceedAttack] Hấp thụ [Laceration] trên mục tiêu để hồi HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 Tầng [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kích Hoạt Bộ Phận Cơ Học",
+          "desc": "[WhenUse] Ở 10+ Tầng [Charge], tiêu thụ 5 Tầng [Charge] để nhận 3 [AttackUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lao Móc Dấu",
+          "desc": "[StartBattle] Ở mốc 5- Tầng [Charge], nhận 5 Tầng [Charge], 3 Tầng [Laceration], và 1 [Vulnerable]\n[WhenUse] Ở 10+ Tầng [Charge], tiêu thụ 5 Tầng [Charge] để nhận 3 [AttackUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Lao",
+          "desc": "[WhenUse] Tiêu thụ 10% HP trên chủ thể để nhận +10 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phản Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 Tầng [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kích Hoạt Bộ Phận Cơ Học",
+          "desc": "[WhenUse] Ở 10+ Tầng [Charge], tiêu thụ 3 Tầng [Charge] để nhận Sức Mạnh Xu +1\n[WhenUse] Ở 15+ Tầng [Charge], tiêu thụ thêm 3 Tầng [Charge] để +20% sát thương gây ra\n[WhenUse] Ở mốc 5- Tầng [Charge], mất 10% HP và nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Binding] vào lượt kế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Hồi Lưu",
+          "desc": "[WhenUse] Ở 10+ Tầng [Charge], tiêu thụ 3 Tầng [Charge] để nhận Sức Mạnh Xu +1\n[WhenUse] Ở 15+ Tầng [Charge], tiêu thụ thêm 3 Tầng [Charge] để +20% sát thương gây ra\n[WhenUse] Ở mốc 5- Tầng [Charge], mất 10% HP và nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Paralysis]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nạp Chuyển Hoá Năng Lực Sinh Học",
+          "desc": "[WhenUse] Tiêu thụ 10% HP trên chủ thể để nhận +15 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đỡ Đòn",
+          "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 Tầng [Laceration] trên chủ thể (tối đa 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Huyết Giáp - Cấp Máu",
+          "desc": "[WhenUse] Ở 10+ Tầng [Charge], tiêu thụ 3 Tầng [Charge] để nhận Sức Mạnh Xu +1\n[WhenUse] Ở 15+ Tầng [Charge], tiêu thụ thêm 3 Tầng [Charge] để +20% sát thương gây ra\n[WhenUse] Ở mốc 5- Tầng [Charge], mất 10% HP và nhận +5 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tái Nạp Chuyển Hoá Năng Lượng Sinh Học",
+          "desc": "[WhenUse] Tiêu thụ 10% HP trên chủ thể để nhận +15 Tầng [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

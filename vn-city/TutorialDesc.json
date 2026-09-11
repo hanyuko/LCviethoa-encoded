@@ -1,0 +1,316 @@
+{
+    "dataList": [
+        {
+            "id": "tutorial_101_01",
+            "content": "Tôi xin phép hướng dẫn ngài sơ qua về cách quản lý và ra lệnh cơ bản."
+        },
+        {
+            "id": "tutorial_101_02",
+            "content": "Để ra lệnh cho các Tội Nhân, ngài có thể nối (xích) các kỹ năng lại trên Bảng Điều Khiển ở phía dưới màn hình."
+        },
+        {
+            "id": "tutorial_101_03",
+            "content": "Nhấn và giữ bánh răng ở bên trái."
+        },
+        {
+            "id": "tutorial_101_04",
+            "content": "Từ đây, kéo bánh răng sang bên phải để tạo thành một chuỗi kỹ năng."
+        },
+        {
+            "id": "tutorial_101_05",
+            "content": "Sau khi ngài đã tạo xong chuỗi kỹ năng, nhấn bánh răng bên phải để bắt đầu giao chiến."
+        },
+        {
+            "id": "tutorial_102_01",
+            "content": "Xem ra ta cần một đòn tấn công mạnh.\nGiờ hãy tạo ra một chuỗi thích hợp hơn."
+        },
+        {
+            "id": "tutorial_102_02",
+            "content": "Khi ngài kéo 2 hoặc nhiều kỹ năng cùng Thuộc Tính trong lượt, ngài sẽ tạo ra <Cộng Hưởng>."
+        },
+        {
+            "id": "tutorial_102_03_popup_title",
+            "content": "Tạo ra Cộng Hưởng"
+        },
+        {
+            "id": "tutorial_102_03",
+            "content": "Cộng hưởng sẽ tăng sát thương của các kỹ năng có cùng Thuộc Tính Nguyên Tội. (Nói cách khác là cùng màu.)\nSát thương của từng kỹ năng sẽ tăng tùy vào số lượng kỹ năng đã sử dụng trước nó."
+        },
+        {
+            "id": "tutorial_103_01",
+            "content": "Vậy là chưa đủ lực rồi. Ta phải ra đòn mạnh hơn.\nNgài hãy kéo kỹ năng lại lần nữa."
+        },
+        {
+            "id": "tutorial_103_02",
+            "content": "Khi ngài kéo 3 hoặc nhiều kỹ năng có cùng Thuộc Tính liên tiếp, ngài sẽ tạo ra <Cộng Hưởng Tuyệt Đối>."
+        },
+        {
+            "id": "tutorial_103_03_popup_title",
+            "content": "Cộng Hưởng Tuyệt Đối là gì?"
+        },
+        {
+            "id": "tutorial_103_03",
+            "content": "Như chúng ta đã thấy, kéo từ 3 đến nhiều kỹ năng có cùng Thuộc Tính liên tiếp sẽ tạo ra <Cộng Hưởng Tuyệt Đối>.\nNhững kỹ năng hưởng <Cộng Hưởng Tuyệt Đối> sẽ nhận tăng Sức Mạnh tùy vào số lượng kỹ năng đã chọn.\nTất nhiên, càng nhiều kỹ năng cộng hưởng sẽ càng tăng hiệu quả của hiệu ứng này hơn."
+        },
+        {
+            "id": "tutorial_104_01",
+            "content": "Ngài có thể thấy Ngưỡng Choáng màu vàng trên thanh máu của cả Tội Nhân lẫn kẻ địch."
+        },
+        {
+            "id": "tutorial_104_02_popup_title",
+            "content": "Choáng là gì?"
+        },
+        {
+            "id": "tutorial_104_02",
+            "content": "Khi một đòn tấn công đẩy HP của một mục tiêu xuống dưới ngưỡng được chỉ định bằng đường kẻ màu vàng, mục tiêu sẽ bị <Choáng>.\nTrong trạng thái <Choáng>, mọi đề kháng vật lý sẽ trở thành Trí Tử.\nNếu HP của một mục tiêu bị đẩy qua nhiều Ngưỡng Choáng trong một lượt, <Mức Độ Choáng> của mục tiêu sẽ tăng.\n<Mức Độ Choáng> này có thể lên tới mức 3 và khi nó càng tăng, sát thương mục tiêu nhận vào sẽ càng lớn."
+        },
+        {
+            "id": "tutorial_104_03",
+            "content": "Ngài làm tốt lắm. Ta đã làm <Choáng> một kẻ địch. Giờ vui lòng ngài hãy chiến đấu với những gì tôi đã chỉ dẫn."
+        },
+        {
+            "id": "tutorial_201_01",
+            "content": "Mọi hành động đều phụ thuộc vào chỉ số <Tốc Độ>."
+        },
+        {
+            "id": "tutorial_201_02_popup_title",
+            "content": "Tốc Độ là gì?"
+        },
+        {
+            "id": "tutorial_201_02",
+            "content": "Tốc Độ là một con số ngẫu nhiên được chọn trong một khoảng nhất định mỗi lượt.\nVị trí của từng đối tượng được sắp xếp lại mỗi lượt tùy vào Tốc Độ của đối tượng.\nĐối tượng có Tốc Độ thấp sẽ được xếp ở đầu, khiến chúng dễ dàng trở thành mục tiêu hơn."
+        },
+        {
+            "id": "tutorial_201_05",
+            "content": "Trước khi sử dụng một kỹ năng, nhân vật sẽ tung Xu để quyết định chỉ số Sức Mạnh Tổng cùng.\nSức Mạnh Lớn Hơn dẫn tới sát thương lớn hơn."
+        },
+        {
+            "id": "tutorial_201_06",
+            "content": "Số lượng Xu sẽ cho ta thấy tổng số đòn tấn công sẽ tung ra. Hai Xu nghĩa là hai đòn."
+        },
+        {
+            "id": "tutorial_201_07",
+            "content": "Trước khi sử dụng một kỹ năng, nhân vật sẽ tung Xu để quyết định chỉ số Sức Mạnh Tổng cùng.\nSức Mạnh Lớn Hơn dẫn tới sát thương lớn hơn."
+        },
+        {
+            "id": "tutorial_201_08",
+            "content": "Thường thì nếu một Xu ra mặt ngửa, Sức Mạnh của nó sẽ thêm vào Sức Mạnh của kỹ năng đó.\nCó thể thấy lần này kỹ năng sẽ được cường hóa."
+        },
+        {
+            "id": "tutorial_201_09",
+            "content": "Sức Mạnh được thêm vào sẽ tồn tại tới lần tung xu tiếp theo."
+        },
+        {
+            "id": "tutorial_202_01",
+            "content": "Khi bắt đầu từng lượt, mỗi Tội Nhân sẽ được nhận một ô kỹ năng theo thứ tự họ xuất trận trong lúc sắp xếp đội hình, dù Tội Nhân đó đang <Choáng>, <Hoảng loạn>, hoặc <E.G.O Ăn Mòn>."
+        },
+        {
+            "id": "tutorial_202_02",
+            "content": "Khi một Tội Nhân và mục tiêu của họ đều đang dùng kỹ năng gây sát thương, <Giao Tranh> sẽ diễn ra."
+        },
+        {
+            "id": "tutorial_202_03_popup_title",
+            "content": "Giao Tranh là gì?"
+        },
+        {
+            "id": "tutorial_202_03",
+            "content": "Một cuộc <Giao Tranh> xảy ra khi hai nhân vật đang tấn công nhau.\nBên có Sức Mạnh lớn hơn sẽ thắng, loại bỏ 1 Xu từ bên thua cuộc.\nNếu hai bên vẫn còn Xu của mình, nhiều cuộc Giao Tranh sẽ tiếp tục diễn ra cho đến khi một bên không còn Xu.\nBên mất hết Xu sẽ bị hủy tất cả đòn tấn công của mình.\nBên thắng giao tranh sẽ tấn công với Số Xu còn lại của mình, được nhận thêm sát thương vào đòn tấn công dựa trên số Giao Tranh đã xảy ra."
+        },
+        {
+            "id": "tutorial_202_04",
+            "content": "Trong một cuộc <Giao Tranh>, Sức Mạnh Giao Tranh của kỹ năng hai bên sẽ được so sánh, và bên có Sức Mạnh lớn hơn sẽ thắng.\nThanh đo và dòng chữ ở phía trên màn hình sẽ dự đoán tỷ lệ thắng giao tranh của ngài."
+        },
+        {
+            "id": "tutorial_202_05",
+            "content": "Khi một cuộc Giao Tranh bắt đầu, hai nhân vật sẽ tung Xu để quyết định sức mạnh kỹ năng trong cuộc Giao Tranh.\nSau đó, bên có Sức Mạnh lớn hơn sẽ thắng giao tranh và phá hủy Xu của đối thủ."
+        },
+        {
+            "id": "tutorial_202_06",
+            "content": "Giao Tranh sẽ tiếp tục diễn ra cho đến khi một bên bị phá hết Xu.\nKhi Xu cuối cùng của một nhân vật bị phá hủy, kỹ năng của nhân vật sẽ bị vô hiệu hóa, nhận bàn thua và kết thúc cuộc Giao Tranh."
+        },
+        {
+            "id": "tutorial_203_01",
+            "content": "Quả cầu màu xanh lam bên cạnh thanh máu của một nhân vật biểu thị cho <Tinh Thần> của nhân vật đó, nói cách khác là SP."
+        },
+        {
+            "id": "tutorial_203_02_popup_title",
+            "content": "Tinh Thần là gì?"
+        },
+        {
+            "id": "tutorial_203_02",
+            "content": "Quả cầu nằm bên phải một đối tượng biểu thị cho <Nhân Vật> của nhân vật, hay gọi là SP. SP có thể thay đổi trong khoảng -45 tới +45.\nĐối tượng có Tinh Thần cao có tỷ lệ tung Xu ra mặt ngửa cao hơn.\nĐánh bại kẻ thù sẽ tăng Tinh Thần, cũng như cái chết của đồng minh sẽ khiến giảm Tinh Thần.\nNhững kẻ thù có Tinh Thần thấp sẽ rơi vào tình trạng \"Chiến Ý Thấp\" hoặc \"Hoảng Loạn\"."
+        },
+        {
+            "id": "tutorial_203_06",
+            "content": "Ngài có thể kiểm tra hiệu ứng và triệu chứng của đối tượng trong mục được chỉ định."
+        },
+        {
+            "id": "tutorial_203_07",
+            "content": "Nhấn hoặc di chuột lên biểu tượng của hiệu ứng để biết thêm chi tiết."
+        },
+        {
+            "id": "tutorial_203_08",
+            "content": "Tất cả kẻ dịch đã rơi vào trạng thái hoảng loạn. Giờ ta đã có cơ hội đánh trả. Xin ngài hãy ra lệnh."
+        },
+        {
+            "id": "tutorial_301_01",
+            "content": "Ngài hãy tạo một chuỗi kỹ năng. Còn nhiều thứ tôi cần phải chỉ cho ngài."
+        },
+        {
+            "id": "tutorial_301_02_popup_tItle",
+            "content": "Các Loại Tấn Công và Nguyên Tội."
+        },
+        {
+            "id": "tutorial_301_02",
+            "content": "Kỹ năng có hai thuộc tính quan trọng:\n<Loại Tấn Công> và <Nguyên Tội>.\nLoại Tấn Công bao gồm Chém, Đâm và Đập.\nCác Nguyên Tội bao gồm Phẫn Nộ, Dục Vọng, Lười Biếng, Phàm Ăn, Thờ Ơ, Kiêu Ngạo và Đố Kỵ.\nCùng với Kháng, Loại Tấn Công và Nguyên Tội sẽ quyết định sát thương của các kỹ năng."
+        },
+        {
+            "id": "tutorial_301_03",
+            "content": "Ngài có thể kiểm tra Loại Tấn Công và Nguyên Tội của các Kỹ Năng của Tội Nhân tại đây."
+        },
+        {
+            "id": "tutorial_301_04",
+            "content": "Ngài có thể kiểm tra độ kháng và điểm yếu của từng đối tượng ở đây. Như tên côn đồ này yếu với Loại Tấn Công Chém."
+        },
+        {
+            "id": "tutorial_302_01",
+            "content": "Ngài còn có thể sử dụng các kỹ năng phòng thủ để giải quyết đòn công kích của kẻ thù.\nKỹ năng phòng thủ sẽ có tác dụng với đòn tấn công của kẻ địch được nối với nó.\nNếu kỹ năng phòng thủ đang không được nối với kỹ năng , nó sẽ kích hoạt khi đối tượng đang chịu đòn đánh một chiều."
+        },
+        {
+            "id": "tutorial_302_02",
+            "content": "Không như kỹ năng gây sát thương, kỹ năng phòng thủ phải tự động kích hoạt."
+        },
+        {
+            "id": "tutorial_302_03",
+            "content": "Bây giờ ngài hãy kích hoạt một kỹ năng Đỡ."
+        },
+        {
+            "id": "tutorial_302_04",
+            "content": "Vui lòng hãy nhấn vào hình của Gregor."
+        },
+        {
+            "id": "tutorial_302_05_popup_title",
+            "content": "Kỹ Năng Phòng Thủ: Đỡ"
+        },
+        {
+            "id": "tutorial_302_05",
+            "content": "Kỹ năng Đỡ sẽ tạo ra một chiếc khiên dày bằng chỉ số Sức Mạnh của kỹ năng đó.\nChiếc khiên này sẽ hấp thụ sát thương nhận vào.\nKhi sử dụng Đỡ nhiều lần trong một lượt, số lần nó kích hoạt sẽ bằng số lần sử dụng."
+        },
+        {
+            "id": "tutorial_302_06",
+            "content": "Ngài làm tốt lắm. Kỹ năng Đỡ đã được kích hoạt.\nTương tự như vậy, ngày hãy sử dụng một kỹ năng Phản đòn."
+        },
+        {
+            "id": "tutorial_302_07",
+            "content": "Vui lòng hãy nhấn vào hình của Rodya."
+        },
+        {
+            "id": "tutorial_302_08_popup_title",
+            "content": "Kỹ Năng Phòng Thủ: Phản Đòn"
+        },
+        {
+            "id": "tutorial_302_08",
+            "content": "Không như những kỹ năng phòng thủ khác, kỹ năng Phản Đòn có thuộc tính Nguyên Tội và sẽ sinh ra tài nguyên E.G.O tương ứng.\nKhi sử dụng Phản Đòn, đối tượng sẽ tung ra một đòn một chiều sau khi bị tấn công.\nTuy nhiên, đối tượng sẽ không thể Phản Đòn trong trạng thái Choáng."
+        },
+        {
+            "id": "tutorial_302_09",
+            "content": "Tốt lắm.\nCuối cùng, chúng ta sẽ sử dụng kỹ năng Né."
+        },
+        {
+            "id": "tutorial_302_10",
+            "content": "Vui lòng hãy nhấn vào hình của Faust."
+        },
+        {
+            "id": "tutorial_302_11_popup_title",
+            "content": "Kỹ Năng Phòng Thủ: Né"
+        },
+        {
+            "id": "tutorial_302_11",
+            "content": "Khi sử dụng kỹ năng Né, nhân vật sẽ né được nếu chỉ số Sức Mạnh Tổng cùng của Né lớn hơn hoặc bằng đòn tấn công của địch.\nĐối tượng sẽ nhận toàn bộ sát thương nếu Sức Mạnh kỹ năng Né thấp hơn đòn tấn công, nên ngài hãy cẩn thận."
+        },
+        {
+            "id": "tutorial_302_12",
+            "content": "Những kỹ năng đã được kích hoạt mà không có vấn đề gì.\nGiờ ngài hãy tận dụng những kiến thức này và tiếp tục chiến đấu.\nMục tiêu của ngài là tiêu diệt tất cả kẻ địch."
+        },
+        {
+            "id": "tutorial_1001_01",
+            "content": "Trong hầm ngục tồn tại những sinh vật gọi là <Dị Thể>.\nGiao chiến với chúng là không thể tránh khỏi."
+        },
+        {
+            "id": "tutorial_1001_02_popup_title",
+            "content": "Dị Thể và các Bộ Phận của chúng"
+        },
+        {
+            "id": "tutorial_1001_02",
+            "content": "Dị Thể luôn có ít nhất một Bộ Phận.\nMỗi bộ phận có ô của nó, cũng như kỹ năng của chúng."
+        },
+        {
+            "id": "tutorial_1001_03",
+            "content": "Ngài hãy chọn kỹ năng của Tội Nhân và kéo chúng vào ô kỹ năng của Dị Thể."
+        },
+        {
+            "id": "tutorial_1001_04",
+            "content": "Kỹ năng của Dị Thể cũng có chỉ số <Tốc Độ>.\nBên cạnh việc lựa chọn thứ tự hành động, ta nên chú ý Tốc Độ của Dị Thể để chuyển hướng các đòn tấn công của nó."
+        },
+        {
+            "id": "tutorial_1001_05",
+            "content": "Khi ngài ra lệnh cho một Tội Nhân có Tốc Độ *nhanh* hơn nhắm vào một ô kỹ năng của Dị Thể, nó sẽ buộc phải <Giao Tranh> với mục tiêu mới của nó."
+        },
+        {
+            "id": "tutorial_1001_06",
+            "content": "Hãy kéo một kỹ năng của một nhân vật có có chỉ số Tốc Độ cao hơn nó để thay đối mục tiêu của Dị Thể."
+        },
+        {
+            "id": "tutorial_1001_07",
+            "content": "Ngài đã chuyển hướng tấn công của một Dị Thể. Hai đối tượng này sẽ Giao Tranh trong lượt này."
+        },
+        {
+            "id": "tutorial_1001_08",
+            "content": "Với cách sử dụng Tốc Độ này, ngài có thể tùy ý điểu chỉnh hướng tấn công của Dị Thể.\nTrong các Ải Chuyên Sâu, *đổi mục tiêu* là điều thiết yếu để chúng buộc phải Giao Tranh để mang lại lợi thế cho ngài."
+        },
+        {
+            "id": "tutorial_1001_09",
+            "content": "Giờ xin ngài ra lệnh cho các Tội Nhân."
+        },
+        {
+            "id": "tutorial_1001_10",
+            "content": "Sau khi ngài đã ra lệnh xong cho các Tội Nhân, hãy nhấn vào đây để bắt đầu giao chiến."
+        },
+        {
+            "id": "tutorial_1001_99_popup_title",
+            "content": "Phá Hủy Bộ Phận"
+        },
+        {
+            "id": "tutorial_1001_99",
+            "content": "Khi HP của một bộ phận cơ thể xuống 0, nó sẽ bị <Vụn Vỡ>.\nMột bộ phận bị vỡ sẽ yếu với mọi đòn tấn công vật lý.\nVài bộ phận có thể mất một số kỹ năng hoặc nội tại nhất định sau khi bị phá hủy.\nHãy chú ý rằng vài Dị Thể có thể tái tạo lại bộ phận, cũng như phá hủy vài bộ phận có thể khiến Dị Thể hung hăng hơn."
+        },
+        {
+            "id": "tutorial_1101_01",
+            "content": "Ngài có thể gặp các Dị Thể có nhiều bộ phận trong các hầm ngục.\nVới những trường hợp này, mỗi bộ phận sẽ Kháng và có Nội Tại khác nhau và dùng các kỹ năng khác nhau."
+        },
+        {
+            "id": "tutorial_1101_02",
+            "content": "Chúng ta đã chuẩn bị <Bách Khoa Toàn Thư về Dị Thể> để đối phó với những trường hợp như thế này.\nTrong đây có liệt kê Kháng, Kỹ Năng và Nội Tại của từng bộ phận.\nHãy chọn một Dị Thể để đọc mục của nó."
+        },
+        {
+            "id": "tutorial_1101_03_popup_title",
+            "content": "Tuy vậy, hiện tại bách khoa toàn thư vẫn còn chưa đầy đủ.\nPhân tích bề nổi cũng chỉ thu thập được ít thông tin.\nNhững ghi chép của chúng tôi sẽ được bổ sung thêm với mỗi lần ta giao chiến với những Dị Thể ấy."
+        },
+        {
+            "id": "tutorial_1101_03",
+            "content": "Bách Khoa Toàn Thư về Dị Thể có chứa thông tin về các Dị Thể cùng những bộ phẩn của chúng.\nTất nhiên, ban đầu Bách Khoa Toàn Thư bị thiếu thông tin.\nNgài càng giao chiến nhiều với một Dị Thể, thông tin về nó sẽ càng được bổ sung đầy đủ hơn trong Bách Khoa Toàn Thư.\nSau khi giao chiến đủ nhiều, Mức Độ Quan Sát của Dị Thể sẽ tăng lên.\nMức Độ Quan Sát càng cao thì sát thương mình gây lên Dị Thể càng lớn."
+        },
+        {
+            "id": "tutorial_1201_01",
+            "content": "Trong các Ải Chuyên Sâu, ngài nhiều lúc phải đưa ra những <Lựa Chọn> quan trọng.\nNhững sự kiện này sẽ yêu cầu ngài chọn một Tội Nhân hoặc một hành động dựa trên tình huống hiện tại.\nPhản ứng của một Dị Thể sẽ tùy vào lựa chọn mình đưa ra, nên hãy cố đưa ra lựa chọn khôn ngoan."
+        },
+        {
+            "id": "tutorial_1301_01_popup_title",
+            "content": "Kỹ Năng Diện Rộng"
+        },
+        {
+            "id": "tutorial_1301_01",
+            "content": "Kỹ Năng Diện Rộng, hay gọi tắt là đòn AoE, có phạm vi tấn công riêng (Pvi Tấn Công).\nMục tiêu của đòn AoE sẽ tùy vào phạm vi tấn công của nó. (Hàng đầu, Hàng Giữa, Hàng Cuối, Đặc Biệt, v.v)\nĐối với đòn AoE, chỉ có thể Giao Tranh với đối tượng bị nhắm tới.\nNếu một đòn AoE thua giao tranh, đòn tấn công sẽ bị vô hiệu hóa với tất cả mục tiêu.\nCác kỹ năng Phòng Thủ vẫn sẽ được kích hoạt với đòn AoE."
+        }
+    ]
+}

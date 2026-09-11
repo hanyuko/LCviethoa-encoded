@@ -1,0 +1,181 @@
+{
+  "dataList": [
+    {
+      "id": 500101,
+      "name": "Enough Games",
+      "desc": "Đầu Lượt: Nhận [AttackUp] equal to current turn count"
+    },
+    {
+      "id": 500102,
+      "name": "That's Goin' in the Book",
+      "desc": "Đầu Lượt: Gây 1 [RicardoBookRaid] on all enemies\n\nWhen hit, gây 2 [RicardoBookRaid] on the attacker\nKhi Đánh Trúng, reduce [RicardoBookRaid] on target by 1\n\nNhận [RicardoTattooRaid] equal to the cumulative Stack of [RicardoBookRaid] reduced by this unit in this Encounter"
+    },
+    {
+      "id": 500103,
+      "name": "Too Grave a Sin",
+      "desc": "On Use of a Skill, if target has <color=#ff6000><mark=#ff000040><b><u>20+ [RicardoBookRaid]</u></b></mark></color>, convert all Coins on that Skill to [SuperCoin]\n\n<color=#ff6000><mark=#ff000040><b><u>If Ricardo's Skill targets a unit that has max [RicardoBookRaid] Stack, the said Skill gains the 'Cannot change target' attribute</u></b></mark></color>"
+    },
+    {
+      "id": 500104,
+      "name": "Don't Resist and Accept Your Punishments",
+      "desc": "Combat Start: <color=#ff6000><mark=#ff000040><b><u>Nếu mục tiêu có equipped Defense Skills</u></b></mark></color>, -30% sát thương gây ra against those targets"
+    },
+    {
+      "id": 500105,
+      "name": "Familial Love",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Ở mốc 60%- HP, enter a new phase</u></b></mark></color>\n- Remove all effects other than those exclusive to this unit"
+    },
+    {
+      "id": 500106,
+      "name": "That Heishou's Left Me a Smarting Ache",
+      "desc": "Phase 2 exclusive Passive\nAt the start of Phase 2, inflict [BurstAgility] and [BurstZilu] on Ricardo\nRicardo takes +50% Gluttony damage"
+    },
+    {
+      "id": 500107,
+      "name": "You're The Middle's Priority Revenge Target",
+      "desc": "Đầu Lượt: <color=#ff6000><mark=#ff000040><b><u>If there is a unit that has 30 [RicardoBookRaid]</u></b></mark></color>, nhận an additional Skill Slot and use \"IMMEDIATE, COMPLETE, AND TOTAL EXTERMINATION!\" Skill with it"
+    },
+    {
+      "id": 500108,
+      "name": "The Big Brother",
+      "desc": "Starting from turn 2, <color=#ff6000><mark=#ff000040><b><u>all allies, bao gồm cả chủ thể, hồi 10 SP at Turn Start</u></b></mark></color>\nTake -20% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]"
+    },
+    {
+      "id": 500109,
+      "name": "Brush it Off",
+      "desc": "Nhận the Fixed Panic attribute\nCuối Lượt: If this unit is in Panic, reset SP to 0\n\n<color=#ff6000><mark=#ff000040><b><u>Ở mốc 50%- HP, enter a new phase</u></b></mark></color>\n- Remove all effects other than those exclusive to this unit"
+    },
+    {
+      "id": 500110,
+      "name": "Brush it Off",
+      "desc": "Nhận the Fixed Panic attribute\nCuối Lượt: If this unit is in Panic, reset SP to 0"
+    },
+    {
+      "id": 501401,
+      "name": "Location-type Distortion: Photo Lab",
+      "desc": "This unit cannot be killed, and does not take any damage from sources other than Skill damage from Skills attacking this unit as the main target\n\nThis unit's Speed is fixed to 1\n\nĐầu Lượt after entering the Encounter: Nhận 3 [PhotoTransitionChoiCamera]\n\n<color=#ff6000><mark color=#ff000040><b><u>If this unit's HP reaches 1, or if [PhotoTransitionChoiCamera] reaches 0 Stack at Turn Start</color></mark></b></u>, activate the following:\n- Remove self and N Corp. Class 2 Staff from the Encounter\n- Return Im Gyeong-eop to the Encounter\n- Move the battle to a different location"
+    },
+    {
+      "id": 501201,
+      "name": "Swordplay of the Homeland [Sal] - Great Hwando",
+      "desc": "Bắt Đầu Ải: Nhận 5 [ChoiSwordsmanship]\n\n<color=#ff6000><mark color=#ff000040><b><u>Assume a different Battleform of the Homeland every 3 turns</color></mark></b></u>\n\nCuối Lượt: If this unit has Shield, nhận 5 [Breath] and +2 Tầng [Breath] vào lượt kế\n\nWhen Im Gyeong-eop meets the following conditions, she uses a pattern that includes the \"Bow of the Homeland - Arrowloose\" Skill\n- When this unit lost all Clashes for 2 turns in a row (does not check for Unopposed Attacks)\n- In the turn after the turn in which this unit spent in Stagger\n- When in Low Morale or Panic",
+      "flavor": "                    \n                \n                   "
+    },
+    {
+      "id": 501202,
+      "name": "Dujeong Brigandine [Sal] - Iron Bulwark",
+      "desc": "Take -30% damage from [Laceration], [Burst], and [Sinking] (rounded down)\n\nNhận the effects of [PanicChangeLock]; If this unit is Panicked at Turn End, reset SP to 45\n\nUpon entering the Encounter for the first time, nhận 5 [ChoiSwordsmanshipShield]\n\n<color=#ff6000><mark color=#ff000040><b><u>When [ChoiSwordsmanshipShield] expires, become Staggered vào lượt kế\nAt the end of the turn this unit was Staggered, enter a new phase</color></mark></b></u>\n- Phase 1: This unit's HP cannot drop <color=#ff6000><mark color=#ff000040><b><u>below 70%</color></mark></b></u>\n- Khi HP dưới 70%, end the turn <color=#ff6000><mark color=#ff000040><b><u>immediately</color></mark></b></u> and enter a new phase\n- Vào đầu lượt the phase changed, hồi up to 45 SP\n",
+      "flavor": "                      \n                              \n                                \n                                          "
+    },
+    {
+      "id": 501203,
+      "name": "Martial Arts of Perseverance",
+      "desc": "On Clash Win, nhận +2 Tầng [Breath] (2 lần mỗi lượt)\n\nIf the target this unit's Skill hit has less than 5 Lượng [Laceration], inflict 1 [Laceration] and +2 Tầng [Laceration] at Attack End (once per Skill, 2 lần mỗi lượt, prioritize the main target)",
+      "flavor": "                      \n               \n                          "
+    },
+    {
+      "id": 501204,
+      "name": "Headsplitting Memory",
+      "desc": "On Clash Lose, nhận 1 [RegretSCorp] (mỗi lượt một lần)"
+    },
+    {
+      "id": 501205,
+      "name": "Developed Memories",
+      "desc": "Upon entering the Encounter, nhận 3 [PhotoTransitionChoi]\n\n<color=#ff6000><mark color=#ff000040><b><u>Đầu Lượt: At 0 [PhotoTransitionChoi] Stack, Retreat and transition into a different location</color></mark></b></u>\n\nWhen Returning to the field, based on current Battleform of the Homeland, nhận or lose [ChoiSwordsmanship]\n- When in [ChoiSwordsmanshipOne]: Nhận Stack\n- When in [ChoiSwordsmanshipMany]: Lose Stack\n\nIf [ChoiSwordsmanshipShield] expires, [PhotoTransitionChoi] expires"
+    },
+    {
+      "id": 501206,
+      "name": "Reflectrial",
+      "desc": "At 10+ Clashes against the same enemy, randomly nhận or lose Clash Power by (Clash Count/10) in a Clash (rounded down)\n\nMax Potency cap for [Laceration], [Burst], and [Sinking]: 30\nMax Count cap for [Laceration], [Burst], and [Sinking]: 10\n\n<color=#ff6000><mark color=#ff000040><b><u>Max Potency cap for [Combustion] and [Vibration]: 50\nMax Count cap for [Combustion] and [Vibration]: 30</color></mark></b></u>",
+      "flavor": ""
+    },
+    {
+      "id": 501207,
+      "name": "Mismatched Memories",
+      "desc": "Đầu Lượt: Nhận the following effects:\n- When in [ChoiSwordsmanshipOne]: Khi còn dưới 5 [ChoiSwordsmanship] Stack, nhận (5 - [ChoiSwordsmanship] Stack) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n- When in [ChoiSwordsmanshipMany]: At more than 5 [ChoiSwordsmanship] Stack, nhận <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u> equal to surplus [ChoiSwordsmanship] Stack past 5 "
+    },
+    {
+      "id": 501301,
+      "name": "Swordplay of the Homeland [Sal] - Rend Flesh from Flesh",
+      "desc": "Bắt Đầu Ải: Nhận 5 [ChoiSwordsmanship]\n\nAssume a different Battleform of the Homeland every 3 turns\n\nOn Hit using a Slash Skill, nhận 1 Lượng [Breath] (một lần mỗi Kỹ Năng)\n\nWhen the following conditions are met, use a pattern that includes the \"Bow of the Homeland - Arrowloose\" Skill\n- When this unit lost all Clashes for 2 turns in a row (does not check for Unopposed Attacks)\n- Turn after Stagger\n- When in Low Morale or Panic\n\nĐầu Lượt: At Min or Max [ChoiSwordsmanship] Stacks, use a powerful Skill\nIf this unit used the \"Bow of the Homeland - Arrowloose\" Skill in the last turn, use a powerful Skill regardless of [ChoiSwordsmanship] Stack on self\nAt 60% or lower HP, use a powerful Skill regardless of [ChoiSwordsmanship] Stack on self",
+      "flavor": "                    \n                           \n         "
+    },
+    {
+      "id": 501304,
+      "name": "Swordplay of the Homeland [Sal] - Shift Battleform",
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>Đầu Lượt: Nhận or lose 2 [ChoiSwordsmanship] Stack based on Battleform of the Homeland on self (does not activate in the first turn of the Encounter)</color></mark></b></u>\n- [ChoiSwordsmanshipOne]: Nhận Stack\n- [ChoiSwordsmanshipMany]: Lose Stack\n\nIn the turn where this unit equipped Envy Skills, this unit will not be affected by [ChoiSwordsmanship] Stack adjustment effects, and will <color=#ff6000><mark color=#ff000040><b><u>reset [ChoiSwordsmanship] Stack to 5 vào lượt kế</color></mark></b></u>"
+    },
+    {
+      "id": 501305,
+      "name": "Dujeong Brigandine [Sal] - Great Mountain",
+      "desc": "Take -30% damage from [Combustion], [Laceration], [Vibration], [Burst], [Sinking] (rounded down, excluding Stagger Threshold raised by [VibrationExplosion])\n\nNhận the effects of [PanicChangeLock]; If this unit is Panicked at Turn End, reset SP to 45\n\nĐầu Lượt: Nhận the following effects:\n- When in [ChoiSwordsmanshipOne]: Khi còn dưới 5 [ChoiSwordsmanship] Stack, nhận (5 - [ChoiSwordsmanship] Stack) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n- When in [ChoiSwordsmanshipMany]: At more than 5 [ChoiSwordsmanship] Stack, nhận <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u> equal to surplus [ChoiSwordsmanship] Stack past 5",
+      "flavor": "                        \n                        \n                    \n                                "
+    },
+    {
+      "id": 501501,
+      "name": "Scattering Memories",
+      "desc": "On death, give +1 E.G.O resource of the least-owned Affinity",
+      "summary": "Give E.G.O resource on death"
+    },
+    {
+      "id": 501911,
+      "name": "Thử Thách Phản Chiếu",
+      "desc": "Khi đạt 10+ Giao Tranh với một kẻ địch, ngẫu nhiên tăng hoặc giảm (Số lần Giao Tranh/10) Sức Mạnh Giao Tranh (tối đa 10)\n\nSố Lượng tối đa của [Combustion], [Laceration], [Vibration], [Burst], và [Sinking]: 30\nSố Tầng tối đa của các hiệu ứng trên: 10\n\nĐầu Ải Đội 1:\n- Nếu chủ thể và toàn bộ Tội Nhân xuất trận: Chuyển SP về 30 (các Danh Tính dùng Xu Âm sẽ chuyển SP về -30)\n- Nhận 3 Tài Nguyên E.G.O của tất cả Nguyên Tội\n\nKhi chủ thể kích hoạt hiệu ứng Nội Tại \"Thiên Thoái Tinh\",\nKết Thúc Lượt và bắt đầu Giai Đoạn 2 vào lượt kế\n- Bắt đầu giai đoạn mới sẽ không xoá bỏ các hiệu ứng trên chủ thể\n\nĐầu Ải Đội 2 & Đội 3:\nCác hiệu ứng Nội Tại sau đây kích hoạt lần lượt dựa theo phần trăm HP hiện tại của chủ thể\n- Trên 85% HP: Nạp[TabExplain] Đạn Hổ Ấn[TabExplain]\n- 85% HP trở xuống: Nạp[TabExplain] Đạn Hổ Ấn[TabExplain]; Lôi Hoành\n- 66% HP trở xuống: Nạp[TabExplain] Đạn Hổ Ấn[TabExplain]; Lôi Hoành; Thiên Thoái Tinh\n- 50% HP trở xuống: Nạp[TabExplain] Đạn Hổ Ấn[TabExplain]; Lôi Hoành; Thiên Thoái Tinh; Lôi Hoành, Thiên Thoái Tinh Của Băng Ngón Út"
+    },
+    {
+      "id": 501901,
+      "name": "Đội Trưởng Của Băng Ngón Cái, Capo IIII",
+      "desc": "-30% sát thương phải nhận từ [Combustion], [Laceration], [Vibration], [Burst], và [Sinking]\n\nKhi tung Xu có tiêu hao [BulletPropellant]: sẽ không hủy đòn đánh nếu chủ thể không có [BulletPropellant], hiệu ứng Xu \"gây [Combustion]\" và \"gây Tầng [Combustion] Count\" không hoạt động\n\nKhi Giao Tranh, gây +(1 + (Số lần Giao Tranh / 3)) Tầng [Vibration]\n(tối đa 3; 3 lần mỗi lượt trên cùng một mục tiêu)"
+    },
+    {
+      "id": 501902,
+      "name": "Đông Phương Thập Kiếm",
+      "desc": "Vào Đầu Ải, và vào Đầu Lượt hình thành vi chiến đấu mới:\n- Nhận 1 [Bothersome]\n- Hồi 5 SP với mỗi 10% HP thiếu hụt (tối đa 40)\n\nNhận hiệu ứng [PanicChangeLock]\nKết Lượt: Nếu chủ thể rơi vào Hoảng Loạn, chuyển SP về 45"
+    },
+    {
+      "id": 501903,
+      "name": "Con Mồi Được Chọn",
+      "desc": "Đầu Lượt: <color=#ff6000><mark=#ff000040><b><u>Gây 1 [Prey_leiheng] lên mục tiêu gây sát thương lớn nhất lên chủ thể</u></b></mark></color> vào lượt trước\n\nSau khi Lôi Hoành tấn công [Prey_leiheng]:\n- Nếu mục tiêu bị Choáng, tất cả Tội Nhân mất 10 SP và nhận 1 [ParryingResultDown] vào lượt này và lượt kế (một lần mỗi lượt)\n- Nếu mục tiêu bị hạ gục, kích hoạt hiệu ứng trên thêm một lần"
+    },
+    {
+      "id": 501904,
+      "name": "Thiên Thoái Tinh Đao [天退星刀]",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Khi Đánh Trúng, Đòn Một Chiều</u></b></mark></color> +30% sát thương gây ra và gây 1 [Vulnerable] vào lượt kế\n\n+20% sát thương gây ra cho Xu tiêu hao [BulletPropellant] và gây 2 [DefenseDown] vào lượt kế\n\n<color=#ff6000><mark=#ff000040><b><u>Hiệu ứng trên không kích hoạt nếu mục tiêu trang bị Kỹ Năng Phòng Thủ</u></b></mark></color>"
+    },
+    {
+      "id": 501912,
+      "name": "Thiên Thoái Tinh Đao - Quá Nhiệt",
+      "desc": "Nếu chủ thể đã dùng một đòn đánh mạnh mẽ (\"Khoái Đao Loạn Ma\" hoặc \"Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm\"), nhận [Complacency] vào lượt kế bằng với số lần những kỹ năng này đã được dùng (tối đa 5)"
+    },
+    {
+      "id": 501910,
+      "name": "Sáp Sí Hổ [揷翅虎]",
+      "desc": "Khởi Chiến: <color=#ff6000><mark=#ff000040><b><u>Dựa vào Tốc Độ của chủ thể</u></b></mark></color>,\n- Hồi SP bằng với Tốc Độ. Khi SP < 0, hồi gấp đôi SP\n- Nhận (Giá Trị Tốc Độ / 3) [SlashDamageUp] (tối đa 5)\n\nKhởi Chiến: <color=#ff6000><mark=#ff000040><b><u>Nếu chủ thể có 3+ [Binding], hiệu ứng trên không kích hoạt</u></b></mark></color>; nhận [DefenseDown] bằng với [Binding] trên chủ thể (tối đa 9)"
+    },
+    {
+      "id": 501905,
+      "name": "Nạp Đạn Hổ Ấn",
+      "desc": "Vào cuối Lượt 1, nạp [BulletPropellant] và hình thành hành vi chiến đấu mới vào lượt kế\n- Nếu chủ thể Bị Choáng, hồi phục khỏi Choáng"
+    },
+    {
+      "id": 501906,
+      "name": "Lôi Hoành [雷橫]",
+      "desc": "Cuối Lượt: Khi HP ≤ 85%, hoặc vào cuối Lượt 2, hình thành hành vi chiến đấu mới vào lượt kế\n- Dùng một đòn đánh mạnh mẽ (\"Khoái Đao Loạn Ma\"), lặp lại mỗi 3 lượt. Tốc Độ Tối Thiểu & Tối Đa +10 vào lượt chủ thể dùng Kỹ Năng này\n- Vào đầu lượt đó, nhận 25 [BattleSense]\n- Nếu chủ thể Bị Choáng, hồi phục khỏi Choáng"
+    },
+    {
+      "id": 501907,
+      "name": "Thiên Thoái Tinh [天退星]",
+      "desc": "Nếu HP của chủ thể ≤ 66% trong trận, tiến vào giai đoạn mới và hình thành hành vi chiến đấu mới vào lượt kế\n- Vào đầu lượt đó, nhận 1 [Irritation]\n- Vào đầu lượt đó, nhận 18 [BulletPropellantSpecial] và nạp đạn ngay lập tức\n· Nếu chủ thể tiêu toàn bộ [BulletPropellantSpecial], chuyển thành [BulletPropellant], đồng thời triệu hồi 2 \"Soldato Nghiêm Khắc của Băng Ngón Cái\" vào lượt kế và cấp [BulletPropellantSpecial] cho chủ thể\n- Khi Bị Choáng, hồi phục khỏi Choáng"
+    },
+    {
+      "id": 501908,
+      "name": "Lôi Hoành, Thiên Thoái Tinh Của Băng Ngón Út",
+      "desc": "Cuối Lượt: Khi HP ≤ 50%, hình thành hành vi chiến đấu mới vào lượt kế\n- Thay đòn tấn công mạnh mẽ \"Khoái Đao Loạn Ma\" thành \"Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm\"; Tốc Độ Tối Thiểu & Tối Đa +15 vào lượt chủ thể dùng Kỹ Năng này.\n- Chuyển [BattleSense] thành [RestoredBattleSense]\n- Chuyển [Irritation] thành [HugeIrritation]\n- Nếu chủ thể Bị Choáng, hồi phục khỏi Choáng"
+    },
+    {
+      "id": 502001,
+      "name": "Cung Cấp Đạn Mãnh Hổ Ấn",
+      "desc": "Bắt Đầu Lượt: Nhận 3 [Vulnerable]\nKết Lượt: Cung Cấp [BulletPropellantSpecial] cho Lôi Hoành\n\nNếu chủ thể bị giết, Lôi Hoành nhận 1 [Vulnerable] vào lượt kế"
+    }
+  ]
+}
