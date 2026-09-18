@@ -3422,6 +3422,379 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1041601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ngươi. Thứ Gớm Ghiếc.",
+          "desc": "[StartBattle] Ở mốc 3+ Lượng [ChargeNoirAlly] và 12+ Tầng [ChargeNoirAlly], tiêu thụ 6 Tầng [ChargeNoirAlly] để nhận Khiên bằng 5% HP tối đa của chủ thể (2 lần mỗi lượt)\n[WhenUse] Nếu có ít hơn 10 Tầng [ChargeNoirAlly], nhận +1 Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 15 [RealisationAlly] để nhận các hiệu ứng sau:\n- Sức Mạnh Giao Tranh +1\n- Gây +([RealisationAlly] đã tiêu thụ x 3)% sát thương (tối đa 45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +3 Tầng [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ngươi. Thứ Gớm Ghiếc.",
+          "desc": "[StartBattle] Ở mốc 3+ Lượng [ChargeNoirAlly] và 12+ Tầng [ChargeNoirAlly], tiêu thụ 6 Tầng [ChargeNoirAlly] để nhận Khiên bằng 5% HP tối đa của chủ thể (2 lần mỗi lượt)\n[WhenUse] Nếu có ít hơn 10 Tầng [ChargeNoirAlly], nhận +<style=\"highlight\">2</style> Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 15 [RealisationAlly] để nhận các hiệu ứng sau:\n- Sức Mạnh Giao Tranh +1\n- Gây +([RealisationAlly] đã tiêu thụ x 3)% sát thương (tối đa 45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">4</style> Tầng [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ngươi. Thứ Gớm Ghiếc.",
+          "desc": "[StartBattle] Ở mốc 3+ Lượng [ChargeNoirAlly] và 12+ Tầng [ChargeNoirAlly], tiêu thụ 6 Tầng [ChargeNoirAlly] để nhận Khiên bằng 5% HP tối đa của chủ thể (2 lần mỗi lượt)\n[WhenUse] Nếu có ít hơn <style=\"highlight\">12</style> Tầng [ChargeNoirAlly], nhận +2 Tầng [ChargeNoirAlly]\n<style=\"highlight\">[WhenUse] Ở mốc 50+ [NoirSuitAlly], Sức Mạnh Giao Tranh +1 +30% sát thương gây ra</style>\n[WhenUse] Tiêu thụ tối đa 15 [RealisationAlly] để nhận các hiệu ứng sau:\n<style=\"highlight\">- Sức Mạnh Tổng +1</style>\n- Gây +([RealisationAlly] đã tiêu thụ x 3)% sát thương (tối đa 45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">5</style> Tầng [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đến Và Đeo Thử Đôi Này Đi",
+          "desc": "[WhenUse]\n- Ở mốc 12+ Tầng [ChargeNoirAlly], tiêu thụ 6 Tầng [ChargeNoirAlly] để nhận Sức Mạnh Giao Tranh +1 và +10% sát thương gây ra\n- Nhận +2 Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 20 [RealisationAlly] để nhận các hiệu ứng sau:\n- Sức Mạnh Giao Tranh +1\n- Gây +([RealisationAlly] đã tiêu thụ)% sát thương (tối đa 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +(Lượng [ChargeNoirAlly] + 1) Tầng [ChargeNoirAlly] (tối đa 4)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration] và +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Đến Và Đeo Thử Đôi Này Đi",
+          "desc": "[WhenUse]\n- Ở mốc 12+ Tầng [ChargeNoirAlly], tiêu thụ 6 Tầng [ChargeNoirAlly] để nhận Sức Mạnh Giao Tranh +1 và +10% sát thương gây ra\n- Nhận +2 Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 20 [RealisationAlly] để nhận các hiệu ứng sau:\n- Sức Mạnh Giao Tranh +1\n- Gây +([RealisationAlly] đã tiêu thụ)% sát thương (tối đa 20%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +(Lượng [ChargeNoirAlly] + 1) Tầng [ChargeNoirAlly] (tối đa <style=\"highlight\">6</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration] và +1 Tầng [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ở mốc 3+ Lượng [ChargeNoirAlly], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đến Và Đeo Thử Đôi Này Đi",
+          "desc": "[WhenUse]\n- Ở mốc 12+ Tầng [ChargeNoirAlly], tiêu thụ 6 Tầng [ChargeNoirAlly] để nhận <style=\"highlight\">Sức Mạnh Tổng +1</style> và <style=\"highlight\">+20%</style> sát thương gây ra\n- Nhận +<style=\"highlight\">4</style> Tầng [ChargeNoirAlly]\n<style=\"highlight\">[WhenUse] Ở mốc 50+ [NoirSuitAlly], +15% sát thương gây ra</style>\n[WhenUse] Tiêu thụ tối đa 20 [RealisationAlly] để nhận các hiệu ứng sau:\n- <style=\"highlight\">Sức Mạnh Tổng +1</style>\n- Gây +([RealisationAlly] đã tiêu thụ)% sát thương (tối đa 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +(Lượng [ChargeNoirAlly] + <style=\"highlight\">3</style>) Tầng [ChargeNoirAlly] (tối đa 6)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration] và +<style=\"highlight\">2</style> Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 3+ Lượng [ChargeNoirAlly], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Triple Stamped Stitching",
+          "desc": "[WhenUse]\n- Ở mốc 10+ Tầng [ChargeNoirAlly], tiêu thụ tối đa 20 Tầng [ChargeNoirAlly] để +(Tầng [ChargeNoirAlly] đã tiêu thụ)% sát thương gây ra (tối đa 20%)\n- Nhận +3 Tầng [ChargeNoirAlly]\n[WhenUse] Với mỗi 40 [NoirSuitAlly], Sức Mạnh Giao Tranh +1 và +10% sát thương gây ra (tối đa lần lượt là 2 và 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +3 Tầng [ChargeNoirAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration] và +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+(Lớp [NoirSuitAlly] / 2)% sát thương gây ra (tối đa 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 3+ Lượng [ChargeNoirAlly], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Triple Stamped Stitching",
+          "desc": "<style=\"highlight\">[StartBattle] Nhận 20 [NoirSuitAlly] (một lần mỗi lượt)</style>\n[WhenUse]\n- Ở mốc 10+ Tầng [ChargeNoirAlly], tiêu thụ tối đa 20 Tầng [ChargeNoirAlly] để +(Tầng [ChargeNoirAlly] đã tiêu thụ)% sát thương (tối đa 20%)\n- Nhận +<style=\"highlight\">5</style> Tầng [ChargeNoirAlly]\n[WhenUse] Với mỗi <style=\"highlight\">30</style> [NoirSuitAlly], Sức Mạnh Giao Tranh +1 và +<style=\"highlight\">20%</style> sát thương gây ra <style=\"highlight\">(tối đa lần lượt là 3 và 60%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">5</style> Tầng [ChargeNoirAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Vibration] và <style=\"highlight\">+3</style> Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+(<style=\"highlight\">Lớp [NoirSuitAlly]</style>)% sát thương gây ra (tối đa <style=\"highlight\">100%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 3+ Lượng [ChargeNoirAlly], kích hoạt [VibrationExplosion] <style=\"highlight\">2 lần</style>; sau đó, giảm <style=\"highlight\">2</style> Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chậc. Lũ Khách Đần. Chúng Bây Làm Nhăn Mặt Hàng Cả Rồi!",
+          "desc": "[DuelCounter]\n[StartBattle]\n- Ở mốc 60+ [NoirSuitAlly], chuyển hiệu ứng đó thành [RealisationAlly] vào lượt kế\n- Nếu có ít hơn 60 [RealisationAlly], chuyển hiệu ứng đó thành [NoirSuitAlly] vào lượt kế\n[WhenUse] Nhận +2 Tầng [ChargeNoirAlly] (2 lần mỗi lượt)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration] (2 lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chậc. Lũ Khách Đần. Chúng Bây Làm Nhăn Mặt Hàng Cả Rồi!",
+          "desc": "[DuelCounter]\n[StartBattle]\n- Ở mốc 60+ [NoirSuitAlly], chuyển hiệu ứng đó thành [RealisationAlly] vào lượt kế\n- Nếu có ít hơn 60 [RealisationAlly], chuyển hiệu ứng đó thành [NoirSuitAlly] vào lượt kế\n<style=\"highlight\">[BeforeUse] Ở mốc 60+ [RealisationAlly], kích hoạt dưới dạng \"Nhất Cước - Couture Multiple\" (một lần mỗi lượt)\n- Nếu hiệu ứng trên đã được kích hoạt, tiêu thụ toàn bộ [RealisationAlly] khi Kết Đòn</style>\n[WhenUse] Nhận +2 Tầng [ChargeNoirAlly] (2 lần mỗi lượt)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration] (2 lần mỗi lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chậc. Lũ Khách Đần. Chúng Bây Làm Nhăn Mặt Hàng Cả Rồi!",
+          "desc": "[DuelCounter]\n[StartBattle]\n- Ở mốc 60+ [NoirSuitAlly], chuyển hiệu ứng đó thành [RealisationAlly] vào lượt kế\n- Nếu có ít hơn 60 [RealisationAlly], chuyển hiệu ứng đó thành [NoirSuitAlly] vào lượt kế\n[BeforeUse] Ở mốc 60+ [RealisationAlly], kích hoạt dưới dạng \"Nhất Cước - Couture Multiple\" (một lần mỗi lượt)\n- Nếu hiệu ứng trên đã được kích hoạt, tiêu thụ toàn bộ [RealisationAlly] khi Kết Đòn\n<style=\"highlight\">[WhenUse] Ở mốc 3+/5+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1/+2</style> \n[WhenUse] Nhận +2 Tầng [ChargeNoirAlly] (2 lần mỗi lượt)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Vibration] (2 lần mỗi lượt)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Nhất Cước - Couture Multiple",
+          "desc": "[WhenUse]\n- Tiêu thụ tối đa 20 Tầng [ChargeNoirAlly] để +(Tầng [ChargeNoirAlly] đã tiêu thụ)% sát thương (tối đa 20%)\n- Nhận +3 Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 60 [RealisationAlly] để nhận các hiệu ứng sau:\n- Nếu đã tiêu thụ 60+ [RealisationAlly], Sức Mạnh Tổng +1\n- Gây +([RealisationAlly] đã tiêu thụ / 3)% sát thương (tối đa 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +3 Tầng [ChargeNoirAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 3+ Lượng [ChargeNoirAlly], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 2+ Lượng [ChargeNoirAlly], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Đâm bằng 10% tổng sát thương của Xu này"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nhất Cước - Couture Multiple",
+          "desc": "[WhenUse]\n- Tiêu thụ tối đa 20 Tầng [ChargeNoirAlly] để +(Tầng [ChargeNoirAlly] đã tiêu thụ)% sát thương (tối đa 20%)\n- Nhận +<style=\"highlight\">5</style> Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 60 [RealisationAlly] để nhận các hiệu ứng sau:\n- Sức Mạnh Tổng +1 <style=\"highlight\">với mỗi 30</style> [RealisationAlly] đã tiêu thụ <style=\"highlight\">(tối đa 2)</style>\n- Gây +([RealisationAlly] đã tiêu thụ / 3)% sát thương (tối đa 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">5</style> Tầng [ChargeNoirAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration] và +3 Tầng [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 3+ Lượng [ChargeNoirAlly], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 2+ Lượng [ChargeNoirAlly], kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây sát thương Đâm bằng 10% tổng sát thương của Xu này</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Đâm bằng <style=\"highlight\">15</style>% tổng sát thương của Xu này"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

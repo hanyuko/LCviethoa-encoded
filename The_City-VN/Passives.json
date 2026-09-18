@@ -3254,6 +3254,55 @@
       "id": 1061621,
       "name": "Cứ Để Ta Thiêu Mở Lối Thoát",
       "desc": "1 đồng minh có Tốc Độ cao nhất: Khi Thắng Giao Tranh với kẻ địch có [Combustion] hoặc \"Thiêu Đốt[TabExplain] Đặc Trưng\", gây 1 [Binding] vào lượt kế (một lần mỗi lượt)\n- Nếu mục tiêu có từ 4 Tầng [Combustion] trở xuống, gây thêm +1 Tầng [Combustion] lên chúng trong lượt này\n- Nếu mục tiêu có 5+ Tầng [Combustion], gây thêm 3 [Combustion] lên chúng trong lượt này"
+    },
+    {
+      "id": 1041601,
+      "name": "Phản Hồi",
+      "desc": "Tăng +15% lượng nâng Ngưỡng Choáng khi kích hoạt [VibrationExplosion] lên kẻ địch\n- Ở mốc 12+ Tầng [ChargeNoirAlly], tiêu thụ 1 Tầng [ChargeNoirAlly] khi kích hoạt [VibrationExplosion] để tăng lượng nâng Ngưỡng Choáng lên thành +30% (hiệu ứng áp dụng cho mỗi mục tiêu)\n\nKhi bị đánh trúng, nếu chủ thể có Khiên, gây 2 Lượng [Vibration] lên kẻ tấn công (2 lần mỗi lượt mỗi kẻ địch)",
+      "summary": "Tăng lượng nâng Ngưỡng Choáng",
+      "flavor": "                                        \n\n                               "
+    },
+    {
+      "id": 1041602,
+      "name": "Le Noir: Vải Gabardine",
+      "desc": "Khi bước vào chiến trường, nhận 25 [NoirSuitAlly]\n\nĐầu Lượt: Nhận Khiên bằng (([NoirSuitAlly] + [RealisationAlly]) / 5)% HP tối đa của chủ thể",
+      "summary": "Nhận Khiên"
+    },
+    {
+      "id": 1041603,
+      "name": "Le Noir: Vải Gabardine",
+      "desc": "Khi bước vào chiến trường, nhận 25 [NoirSuitAlly]\n\nĐầu Lượt:\n- Nhận Khiên bằng (([NoirSuitAlly] + [RealisationAlly]) / 5)% HP tối đa của chủ thể\n- Nếu chủ thể có [RealisationAlly], chuyển \"Triple Stamped Stitching\" thành \"Nhất Cước - Couture Multiple\"",
+      "summary": "Nhận Khiên"
+    },
+    {
+      "id": 1041604,
+      "name": "Bảo Tồn",
+      "desc": "Nhận 1 Lượng [ChargeNoirAlly] mỗi khi chủ thể tiêu thụ tổng cộng 10 Tầng [ChargeNoirAlly] trong Ải này\n\nCuối Lượt: Khi có ít hơn 3 Lượng [ChargeNoirAlly], tiêu thụ toàn bộ Tầng [ChargeNoirAlly] để nhận (Tầng [ChargeNoirAlly] đã tiêu thụ x 5) Khiên vào lượt kế\n\nỞ mốc 3+ Lượng [ChargeNoirAlly], Kỹ Năng Cơ Bản của chủ thể nhận thêm +1 Tầng [ChargeNoirAlly] khi đang có ít hơn 12 Tầng [ChargeNoirAlly]\n\nKhi Dùng Kỹ Năng Tấn Công Cơ Bản,\n- Nếu mục tiêu có 6+ Lượng [Vibration], Sức Mạnh Xu +1\n- Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1\n- Gây +(Lượng [ChargeNoirAlly] x 2)% sát thương (tối đa 10%)\n· Nếu Kỹ Năng được dùng là \"Triple Stamped Stitching\" hoặc \"Nhất Cước - Couture Multiple\", đổi thành +(Lượng [ChargeNoirAlly] x 4)% sát thương gây ra (tối đa 20%)",
+      "summary": "Khi có ít hơn số Tầng [ChargeNoirAlly] nhất định, nhận thêm Tầng [ChargeNoirAlly]\nKhi Dùng Kỹ Năng Tấn Công Cơ Bản, nhận Sức Mạnh Xu và gây thêm sát thương"
+    },
+    {
+      "id": 1041621,
+      "name": "Phẩm Giá và Tinh Hoa Phái Le Noir",
+      "desc": "Trong số đồng minh có [Charge] hoặc [Charge] Đặc Trưng, khi 1 đồng minh có Thứ Tự Triển Khai sớm nhất kích hoạt [VibrationExplosion] bằng Kỹ Năng Cơ Bản, tăng lượng nâng Ngưỡng Choáng lên thêm +12.5%",
+      "summary": "Tăng lượng nâng Ngưỡng Choáng do [VibrationExplosion]"
+    },
+    {
+      "id": 1081601,
+      "name": "Khởi Nguồn Của Sự Lột Xác",
+      "desc": "Khi Dùng Kỹ Năng Cơ Bản, nếu có ít hơn 10 Tầng [ChargeRougeAlly], Sức Mạnh Giao Tranh +2\n\nNếu chủ thể đang trong trạng thái [RougeIshmaelEclose], hồi 8% HP Khi Đánh Trúng bằng Kỹ Năng Cơ Bản (5 lần mỗi lượt)",
+      "flavor": "                          \n                       \n                    \n             "
+    },
+    {
+      "id": 1081602,
+      "name": "Bước Vào Phòng Thử Đồ...",
+      "desc": "Nhận 1 [ChargeRougeAlly] mỗi khi chủ thể tiêu thụ tổng cộng 10 Tầng [ChargeRougeAlly] trong Ải này\n\nHiệu ứng tiêu thụ HP từ Kỹ Năng Cơ Bản của chủ thể không thể Làm Choáng hoặc giảm HP của chủ thể xuống dưới 1\n(Ở mốc 1 HP, Kỹ Năng Cơ Bản không tiêu thụ HP nữa)\n\nTrong Ải này, khi chủ thể nhận sát thương khiến HP về 0, vô hiệu hóa lượng sát thương đó; rồi lập tức nhận 2 [RougeIshmaelCocoon] và tiến vào [RougeIshmaelCocoon] (một lần mỗi Ải)\n- Nếu chủ thể đã bước vào [RougeIshmaelCocoon] thông qua hiệu ứng của Kỹ Năng Phòng Thủ, hiệu ứng trên sẽ không kích hoạt cho tới hết Ải\n\nKhi tiến vào [RougeIshmaelCocoon], nhận Khiên bằng HP tối đa của chủ thể\n- Khiên nhận được từ hiệu ứng này không biến mất vào Cuối Lượt\n- Khi trạng thái [RougeIshmaelCocoon] hết hiệu lực, Khiên nhận được từ hiệu ứng trên cũng biến mất\n\n- Khi đang ở trong [RougeIshmaelCocoon], không thể trang bị Kỹ Năng Phòng Thủ hay E.G.O ngoại trừ Kỹ Năng độc quyền \"Tựa Lời Từ Giọng Nói Ấy, Ta Sẵn Lòng Tự Thu Mình Lại\"\n\nCuối Lượt: Ở mốc 0 Lớp [RougeIshmaelCocoon], ra khỏi [RougeIshmaelCocoon] và tiến vào trạng thái [RougeIshmaelEclose]; sau đó, nhận +5 Tầng [ChargeRougeAlly]",
+      "flavor": "               "
+    },
+    {
+      "id": 1081621,
+      "name": "[Actrice Haute Couture du Rouge] - Y Phục",
+      "desc": "Đồng minh được Triển Khai ở vị trí Số 1 và 2 hồi thêm +20% HP từ Nội Tại, Kỹ Năng, và hiệu ứng Xu\n\nKhi kích hoạt Dục Vọng Cộng Hưởng Tuyệt Đối, 2 đồng minh trên -10% sát thương phải nhận từ Kỹ Năng trong lượt đó",
+      "flavor": "                         \n\n                             \n\n                              "
     }
   ]
 }

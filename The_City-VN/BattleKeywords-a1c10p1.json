@@ -1,0 +1,413 @@
+{
+  "dataList": [
+    {
+      "id": "NoirNoComply",
+      "name": "Instruction Incompliance",
+      "desc": "   \n      ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Failure to comply with the brand's doctrine instructions may result in corrective measures to preserve the brand's directional integrity."
+    },
+    {
+      "id": "NoirBindArmor",
+      "name": "Le Noir: Worsted",
+      "desc": "   \n             \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Le Noir's Worsted holds the body like armor, accentuating it beneath a firm, fixed silhouette."
+    },
+    {
+      "id": "ChargeNoir",
+      "name": "Bảo Tồn",
+      "desc": "    \n     \n             <sprite name=\"Charge\"><color=#fac400> </color>  <sprite name=\"Charge\"><color=#fac400> </color>  \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": "ChargeRouge",
+      "name": "Nhịp Đập",
+      "desc": "    \n     \n             <sprite name=\"Charge\"><color=#fac400> </color>  <sprite name=\"Charge\"><color=#fac400> </color>  \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Contraction and relaxation of flesh. The flow of blood. The explosive strength driven by them all."
+    },
+    {
+      "id": "RisingMadnessRouge",
+      "name": "Sunshine",
+      "desc": "   \n     \n         \n·       \n·                           \n·          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "You can be..."
+    },
+    {
+      "id": "RisingMadnessRouge2nd",
+      "name": "Stinging Sunshine",
+      "desc": "   \n     \n         \n·          \n·                           \n·          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Sunlight whispers into all that it touches, beating down all the same even as its heat grows from a prickle on the skin to unbearable, burning pain and the subject is cooked alive."
+    },
+    {
+      "id": "RisingMadnessNoir",
+      "name": "Sunshine",
+      "desc": "   \n     \n         \n·       \n·                           \n·          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "You can be..."
+    },
+    {
+      "id": "RisingMadnessNoir2nd",
+      "name": "Stinging Sunshine",
+      "desc": "   \n     \n         \n·          \n·                           \n·          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Sunlight whispers into all that it touches, beating down all the same even as its heat grows from a prickle on the skin to unbearable, burning pain and the subject is cooked alive."
+    },
+    {
+      "id": "RougeThreeNormal",
+      "name": "Boutique: New Releases",
+      "desc": "   \n\n               ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Follow the warm voice... into a new season...!"
+    },
+    {
+      "id": "RougeThreeCocoon",
+      "name": "Changing Room",
+      "desc": "   \n     \n          \n·    \n·    \n·       ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Warning: Fixing a misshapen dress. We all know the changing room manners, don't we?"
+    },
+    {
+      "id": "RougeThreeCocoonHit",
+      "name": "Persecution",
+      "desc": "   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Disturbing someone while they're in a changing room...? This is persecution, persecution against my faith...!"
+    },
+    {
+      "id": "SapsareeShield",
+      "name": "Please, eat me...",
+      "desc": "                            \n                      \n              \n    ",
+      "summary": ""
+    },
+    {
+      "id": "SapsareeYammi",
+      "name": "Eat yummies and perk up, you hear?",
+      "desc": "   \n      \n              ",
+      "summary": "",
+      "flavor": "Not satiation from flavor, but from unrefined fullness."
+    },
+    {
+      "id": "SapsareeCooking",
+      "name": "Chopped Ingredients",
+      "desc": "   \n    ",
+      "summary": "",
+      "flavor": "Hacked up haphazardly with no other purpose than to fit it down the gullet. Not even an ounce of culinary philosophy or care went into each chop."
+    },
+    {
+      "id": "SapsareeHungry",
+      "name": "Got an appetite, you hear?",
+      "desc": "   \n      \n      \n              ",
+      "summary": "",
+      "flavor": "A hunger content with anything shoved into the gut. Such is the nature of those who subsist here."
+    },
+    {
+      "id": "SapsareeSpices",
+      "name": "Fiery, Tongue-scorching Sauce",
+      "desc": "   \n      ",
+      "summary": "",
+      "flavor": "A lazy cook's solution for disguising substandard ingredient quality."
+    },
+    {
+      "id": "Sapsaree_LowMorale",
+      "name": "Culinary Yearning",
+      "desc": "  \n                 ",
+      "summary": "",
+      "flavor": "Don't delude yourself; you're not yearning for \"culinary arts.\" You just want to feel like you're cooking and pretend to dine."
+    },
+    {
+      "id": "Sapsaree_Panic",
+      "name": "Culinary Yearning",
+      "desc": " \n                 ",
+      "summary": "",
+      "flavor": "Don't delude yourself; you're not yearning for \"culinary arts.\" You just want to feel like you're cooking and pretend to dine."
+    },
+    {
+      "id": "HungryPeople_LowMorale",
+      "name": "FOMO",
+      "desc": "  \n            \n   ",
+      "summary": "",
+      "flavor": "Not again—I'm not gonna miss out on this season's trend!"
+    },
+    {
+      "id": "HungryPeople_Panic",
+      "name": "FOMO",
+      "desc": " \n            \n   ",
+      "summary": "",
+      "flavor": "Not again—I'm not gonna miss out on this season's trend!"
+    },
+    {
+      "id": "UnresolvedFeelings",
+      "name": "Layered Patchwork",
+      "desc": "   \n      \n                      \n             ",
+      "summary": "",
+      "flavor": "Ironically, it has deafened itself to any voice by hiding under wraps upon wraps of thick blankets."
+    },
+    {
+      "id": "Wariness",
+      "name": "Guarded Caution",
+      "desc": "   \n         \n         ",
+      "summary": "",
+      "flavor": "The unfamiliarity of the Voice is not what makes one wary; it is the Voice knocking on the heart that does so."
+    },
+    {
+      "id": "ReliefSense",
+      "name": "Gratitude for Listening",
+      "desc": "   \n         \n                     \n              ",
+      "summary": "",
+      "flavor": "Thank you... for listening..."
+    },
+    {
+      "id": "HorribleTerror",
+      "name": "Horribly Infinite Replay",
+      "desc": "   \n                  \n                    ",
+      "summary": "",
+      "flavor": "Until you listen... until you truly hear the Grand Magasin's announcement... again... and again... listen..."
+    },
+    {
+      "id": "HorribleEat",
+      "name": "Repeat on Repeat",
+      "desc": "   \n      ",
+      "summary": "",
+      "flavor": "The broadcast is repeated until everyone hears it. It becomes an echo, and the echo repeats in turn until it resonates."
+    },
+    {
+      "id": "NoirSuit",
+      "name": "Le Noir: Gabardine Overcoat",
+      "desc": "   \n             \n                                \n             \n          \n           ",
+      "flavor": "An overcoat made from twill fabric, a type of weave made by threading several weft threads over fewer warp threads.\nIts characteristic high-density weave protects its wearer from external trauma.",
+      "summary": ""
+    },
+    {
+      "id": "Realisation",
+      "name": "Armure Éveillée",
+      "desc": "   \n         \n                   \n         \n                \n           ",
+      "flavor": "Le Noir's fabric weave prevents external force from reaching its wearer. The purpose for which it awakens is to eliminate change imposed from the outside.\nThe fabric stores energy from attacks it absorbs, then expels all that force in a single burst to remove the external source of change.",
+      "summary": ""
+    },
+    {
+      "id": "LaRouge_LowMorale",
+      "name": "Leave the Leather Behind!",
+      "desc": "  \n   \n   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Organs that ought to stay inside are wriggling in impatient excitement, trying to break through the skin to the other side."
+    },
+    {
+      "id": "LaRouge_Panic",
+      "name": "Leave the Leather Behind!",
+      "desc": " \n   \n   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Organs that ought to stay inside are wriggling in impatient excitement, trying to break through the skin to the other side."
+    },
+    {
+      "id": "LaNoir_LowMorale",
+      "name": "Back into My Shell...",
+      "desc": "  \n   \n   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Curl inward. Deeper. Tighter. Let the shell harden around what remains."
+    },
+    {
+      "id": "LaNoir_Panic",
+      "name": "Back into My Shell...",
+      "desc": " \n   \n   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Curl inward. Deeper. Tighter. Let the shell harden around what remains."
+    },
+    {
+      "id": "NiddlePinned",
+      "name": "Taxidermized",
+      "desc": "   \n\n          \n        \n\n          \n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "As you wish... Hand-made! Bespoke! Hand-sown!"
+    },
+    {
+      "id": "NiddleExpected",
+      "name": "Tongue-pinning Needle",
+      "desc": "      \n·     \n·   \n\n         ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "To remove a fixed nail, one must first come to a brief halt."
+    },
+    {
+      "id": "HowlingCocoon",
+      "name": "Cry of the Cocoon - Frail",
+      "desc": "     \n    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Those who speak in half-truths and misinformation source their confidence from ignorance, which is what makes them so convincing."
+    },
+    {
+      "id": "HowlingCocoonTwo",
+      "name": "Cry of the Cocoon - Vicious",
+      "desc": "       \n    ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Rigid denim... and selvage... have jack to do with each other... Gnnnngh... You know this! You're just tryin' to piss me off, aren't you?! I knew it!!!"
+    },
+    {
+      "id": "MeursaultBuffet",
+      "name": "He Who Nails",
+      "desc": "                     \n                     \n  ",
+      "summary": "",
+      "flavor": "Gripping the Golden Nail, he has rent the Cradle open and now nails a god upon a point."
+    },
+    {
+      "id": "Nutrition",
+      "name": "A Seized Something.",
+      "desc": "   \n              \n                                  ",
+      "summary": "",
+      "flavor": "Everything desirable in another's possession should have belonged to me from the start. This is not theft, then, but rightful repossession."
+    },
+    {
+      "id": "Gourmandise",
+      "name": "Uncontrollable Rampage",
+      "desc": "   \n           \n          \n     \n        ",
+      "summary": "",
+      "flavor": "Every disparate fragment of its anatomy jerks and convulses, trying to rip itself away. Such uncontrollable rampage brings the body together, ironically."
+    },
+    {
+      "id": "BuffetSick",
+      "name": "Sac of Suffering",
+      "desc": "   \n                      ",
+      "summary": "",
+      "flavor": "This organ is the terminus of all painful sensory inputs.\nWhen it bursts, it will drown out all reason and reveal pain in its most unalloyed form."
+    },
+    {
+      "id": "SavePlacenta",
+      "name": "Self-preservation",
+      "desc": "                            \n     ",
+      "summary": ""
+    },
+    {
+      "id": "BloodyMucus",
+      "name": "Baptism [Crimson]",
+      "desc": "   \n            \n                    \n           \n          ",
+      "summary": "",
+      "flavor": "\"Let blood baptize the flesh\""
+    },
+    {
+      "id": "DeterioratingBody",
+      "name": "Instinctive Cling to Life",
+      "desc": "   \n      \n         \n             ",
+      "summary": "",
+      "flavor": "Its instinct to cling to life is tenacious indeed, but in the end, the time comes when one must let go."
+    },
+    {
+      "id": "BuffetFailed",
+      "name": "Exhausted",
+      "desc": "   \n        \n     \n     \n   ",
+      "summary": "",
+      "flavor": "Every outburst is followed by limitation. The world levies payment in forms proportionate to force and velocity of the outburst."
+    },
+    {
+      "id": "EarlyBuffet_LowMorale",
+      "name": "Inner Schism",
+      "desc": "  \n   \n   \n          [Crimson]   ",
+      "summary": "",
+      "flavor": "Why... ? How did I... come to exist? What... am I?"
+    },
+    {
+      "id": "EarlyBuffet_Panic",
+      "name": "Inner Schism",
+      "desc": " \n   \n   \n   \n          [Crimson]   ",
+      "summary": "",
+      "flavor": "Why... ? How did I... come to exist? What... am I?"
+    },
+    {
+      "id": "SisyphusTopaz",
+      "name": "Topaz",
+      "desc": "  ",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusAmethyst",
+      "name": "Amethyst",
+      "desc": "             ",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusAmber",
+      "name": "Amber",
+      "desc": "             \n           ",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusEmerald",
+      "name": "Emerald",
+      "desc": "             \n           \n           ",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusGold",
+      "name": "Gold",
+      "desc": "             \n           \n           \n   ",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusRuby",
+      "name": "Ruby",
+      "desc": "             \n           \n           \n   \n   ",
+      "summary": ""
+    },
+    {
+      "id": "RougeThreeCocoonShield",
+      "name": "Devotion",
+      "desc": "       \n     ",
+      "summary": "",
+      "flavor": "\"Now faith is the substance of things hoped for, the          of things not seen.\""
+    },
+    {
+      "id": "RisingMadnessSisyphe",
+      "name": "Sunshine",
+      "desc": "   \n     \n         \n·       \n·        \n·          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "You can be..."
+    },
+    {
+      "id": "RisingMadnessSisyphe2nd",
+      "name": "Stinging Sunshine",
+      "desc": "   \n     \n         \n·          \n·        \n·          ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Sunlight whispers into all that it touches, beating down all the same even as its heat grows from a prickle on the skin to unbearable, burning pain and the subject is cooked alive."
+    },
+    {
+      "id": "WeakWithering_LowMorale",
+      "name": "Messy Sewing",
+      "desc": "  \n       ",
+      "summary": ""
+    },
+    {
+      "id": "WeakWithering_Panic",
+      "name": "Messy Sewing",
+      "desc": "  \n           ",
+      "summary": ""
+    },
+    {
+      "id": "NiddlePin",
+      "name": "Naildle",
+      "desc": "  \n               \n            ",
+      "summary": ""
+    }
+  ]
+}

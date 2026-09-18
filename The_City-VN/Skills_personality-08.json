@@ -2774,6 +2774,331 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1081601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "À... Các Người Không Nghe Thấy Đâu, Đúng Không?",
+          "desc": "[WhenUse] Ở mốc 80%+ HP, nhận +3 Tầng [ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [ChargeRougeAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "À... Các Người Không Nghe Thấy Đâu, Đúng Không?",
+          "desc": "<style=\"highlight\">Ở mốc 2+ [ChargeRougeAlly], Sức Mạnh Xu +1</style>\n[WhenUse] Ở mốc 80%+ HP, nhận +3 Tầng [ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">3</style> Tầng [ChargeRougeAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "À... Các Người Không Nghe Thấy Đâu, Đúng Không?",
+          "desc": "Ở mốc 2+ [ChargeRougeAlly], Sức Mạnh Xu +1\n[WhenUse] Ở mốc 80%+ HP, nhận +<style=\"highlight\">5</style> Tầng [ChargeRougeAlly]\n<style=\"highlight\">[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +3 Tầng [ChargeRougeAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Giọng Nói Không Cất Lên Đâu Có Nghĩa Là Giọng Nói Không Dõi Theo!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [ChargeRougeAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu chủ thể có [RougeIshmaelEclose], Tái Sử Dụng Xu này một lần (một lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Hồi (Lượng [ChargeRougeAlly] x 2)% HP (tối đa 10%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Giọng Nói Không Cất Lên Đâu Có Nghĩa Là Giọng Nói Không Dõi Theo!",
+          "desc": "<style=\"highlight\">Sức Mạnh Tổng +1 với mỗi 2 [ChargeRougeAlly] (tối đa 2)\n[WhenUse] Nếu có ít hơn 10 Tầng [ChargeRougeAlly], tiêu thụ 3(10 - Tầng [ChargeRougeAlly] hiện tại)% HP để nâng Tầng [ChargeRougeAlly] lên 10\n[WhenUse] Tiêu thụ 10 Tầng [ChargeRougeAlly] để nhận Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1\n[BeforeAttack] Nếu chủ thể có [RougeIshmaelEclose], +20% sát thương gây ra\n- Nếu chủ thể không có [RougeIshmaelEclose], tiêu thụ 20% HP của bản thân để kích hoạt hiệu ứng trên</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">4</style> Tầng [ChargeRougeAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu chủ thể có [RougeIshmaelEclose], Tái Sử Dụng Xu này một lần (một lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ở mốc 3+ [ChargeRougeAlly], gây 1 [ScarletTakeDamageUp] vào lượt kế (một lần mỗi lượt)</style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Hồi (Lượng [ChargeRougeAlly] x <style=\"highlight\">3</style>)% HP (tối đa <style=\"highlight\">15</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Giọng Nói Không Cất Lên Đâu Có Nghĩa Là Giọng Nói Không Dõi Theo!",
+          "desc": "Sức Mạnh Tổng +1 với mỗi 2 [ChargeRougeAlly] (tối đa 2)\n[WhenUse] Nếu có ít hơn 10 Tầng [ChargeRougeAlly], tiêu thụ 3(10 - Tầng [ChargeRougeAlly] hiện tại)% HP để nâng Tầng [ChargeRougeAlly] lên 10\n[WhenUse] Tiêu thụ 10 Tầng [ChargeRougeAlly] để nhận Sức Mạnh Xu +1\n[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1\n[BeforeAttack] Nếu chủ thể có [RougeIshmaelEclose], +<style=\"highlight\">40</style>% sát thương gây ra\n- Nếu chủ thể không có [RougeIshmaelEclose], tiêu thụ 20% HP của bản thân để kích hoạt hiệu ứng trên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +4 Tầng [ChargeRougeAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu chủ thể có [RougeIshmaelEclose], Tái Sử Dụng Xu này một lần (một lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc <style=\"highlight\">2</style>+ [ChargeRougeAlly], gây 1 [ScarletTakeDamageUp] vào lượt kế (một lần mỗi lượt)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Hồi (Lượng [ChargeRougeAlly] x 3)% HP (tối đa 15%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Cạo Sạch, Xé Toạc và Ghim Chặt Chúng!",
+          "desc": "+5% sát thương gây ra với mỗi [ChargeRougeAlly] (tối đa 25%)\n[StartBattle] Nếu HP dưới 50%, hoặc nếu chủ thể có [RougeIshmaelEclose], chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]\n[WhenUse] Nếu có ít hơn 15 Tầng [ChargeRougeAlly], tiêu thụ 3(15 - Tầng [ChargeRougeAlly] hiện tại)% HP để nâng Tầng [ChargeRougeAlly] lên 15\n[WhenUse] Tiêu thụ 15 [ChargeRougeAlly] để nhận Sức Mạnh Xu +3\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Laceration] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nếu chủ thể có [RougeIshmaelEclose], +40% damage\n- Nếu chủ thể không có [RougeIshmaelEclose], tiêu thụ 20% HP của bản thân để kích hoạt hiệu ứng trên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu chủ thể có [RougeIshmaelEclose], Tái Sử Dụng Xu này một lần (một lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Dục Vọng bằng (Lượng [ChargeRougeAlly] trên chủ thể x 10)% tổng sát thương của Xu này (tối đa 30%)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Hồi (Lượng [ChargeRougeAlly] x 4)% HP (tối đa 20%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cạo Sạch, Xé Toạc và Ghim Chặt Chúng!",
+          "desc": "+<style=\"highlight\">10</style>% sát thương gây ra với mỗi [ChargeRougeAlly] trên chủ thể (tối đa <style=\"highlight\">50</style>%)\n[StartBattle] Nếu HP dưới 50%, hoặc nếu chủ thể có [RougeIshmaelEclose], chuyển toàn bộ Xu của Kỹ Năng này thành [SuperCoin]\n[WhenUse] Nếu có ít hơn 15 Tầng [ChargeRougeAlly], tiêu thụ 3(15 - Tầng [ChargeRougeAlly] hiện tại)% HP để nâng Tầng [ChargeRougeAlly] lên 15\n[WhenUse] Tiêu thụ 15 [ChargeRougeAlly] để nhận Sức Mạnh Xu +3\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 [Laceration] trên mục tiêu (tối đa 2)\n[BeforeAttack] Nếu chủ thể có [RougeIshmaelEclose], +40% sát thương gây ra\n- Nếu chủ thể không có [RougeIshmaelEclose], tiêu thụ 20% HP của bản thân để kích hoạt hiệu ứng trên",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Nếu chủ thể có [RougeIshmaelEclose], Tái Sử Dụng Xu này một lần (một lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây sát thương Dục Vọng bằng (Lượng [ChargeRougeAlly] trên chủ thể x 10)% tổng sát thương của Xu này (tối đa 30%)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Hồi (Lượng [ChargeRougeAlly] x 4)% HP (tối đa 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sau Cùng.... Thế Giới Này Vẫn Còn Ý Nghĩa Của Nó",
+          "desc": "[DuelCounter]\n[StartBattle] Nếu HP ≤ 10%, nhận 2 [RougeIshmaelCocoon] và tiến vào [RougeIshmaelCocoon] (một lần mỗi Ải)\n[StartBattle] Nếu chủ thể không có [RougeIshmaelEclose], tiêu thụ 20% HP trên chủ thể và nhận +10 [Aggro] cho Ô Kỹ Năng này vào lượt kế (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +4 Tầng [ChargeRougeAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sau Cùng.... Thế Giới Này Vẫn Còn Ý Nghĩa Của Nó",
+          "desc": "[DuelCounter]\n[StartBattle] Nếu HP ≤ 10%, nhận 2 [RougeIshmaelCocoon] và tiến vào [RougeIshmaelCocoon] (một lần mỗi Ải)\n[StartBattle] Nếu chủ thể không có [RougeIshmaelEclose], tiêu thụ 20% HP trên chủ thể và nhận +10 [Aggro] cho Ô Kỹ Năng này vào lượt kế (một lần mỗi lượt)\n<style=\"highlight\">[WhenUse] Sức Mạnh Tổng +1 với mỗi 2 Lượng [ChargeRougeAlly] (tối đa 2)\n[WhenUse] +10% sát thương gây ra với mỗi 4 [Laceration] trên mục tiêu (tối đa 40%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +4 Tầng [ChargeRougeAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nếu chủ thể có [RougeIshmaelEclose], hồi 10% HP (một lần mỗi lượt)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tựa Lời Từ Giọng Nói Ấy, Ta Sẵn Lòng Tự Thu Mình Lại",
+          "desc": "Kỹ Năng độc quyền của [RougeIshmaelCocoon]\n[CanDuelGuard]\n[StartBattle] Ở mốc 10+ Tầng [ChargeRougeAlly], tiêu thụ 10 Tầng [ChargeRougeAlly] để gán 1 [ResultEnhancement] vào lượt kế cho 2 đồng minh có Thứ Tự Triển Khai sớm nhất (một lần mỗi lượt)\n[StartBattle] Hồi 50% HP (một lần mỗi lượt)\n[WinDuel] Nhận +5 Tầng [ChargeRougeAlly] (4 lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tựa Lời Từ Giọng Nói Ấy, Ta Sẵn Lòng Tự Thu Mình Lại",
+          "desc": "Kỹ Năng độc quyền của [RougeIshmaelCocoon]\n[CanDuelGuard]\n[StartBattle] Ở mốc 10+ Tầng [ChargeRougeAlly], tiêu thụ 10 Tầng [ChargeRougeAlly] để gán 1 [ResultEnhancement] vào lượt kế cho 2 đồng minh có Thứ Tự Triển Khai sớm nhất (một lần mỗi lượt)\n<style=\"highlight\">- Nếu đồng minh hưởng hiệu ứng là một Danh Tính thuộc Rouge, nhận +5 Tầng [ChargeRougeAlly] vào lượt kế và gán thêm 1 [AttackDmgUp] cho đồng minh đó</style>\n[StartBattle] Hồi <style=\"highlight\">100</style>% HP (một lần mỗi lượt)\n<style=\"highlight\">[WinDuel] Xóa 1 hiệu ứng bất lợi có thể xóa được trên chủ thể (một lần mỗi lượt)</style>\n[WinDuel] Nhận +5 Tầng [ChargeRougeAlly] (4 lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

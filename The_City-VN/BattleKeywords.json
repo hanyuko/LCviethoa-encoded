@@ -3485,6 +3485,50 @@
       "desc": "     \n     \n             <sprite name=\"Breath\"><color=#fac400> </color>\n             <sprite name=\"Breath\"><color=#fac400> </color>",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "NoirSuitAlly",
+      "name": "Le Noir: Áo Bành Tô Gabardine",
+      "desc": "     \n        \n   <sprite name=\"Aggro\"><color=#9f6a3a> </color>       \n                 \n           \n               <sprite name=\"ChargeNoir\"><color=#fac400> </color>        \n ·      <sprite name=\"ChargeNoir\"><color=#fac400> </color>                <sprite name=\"ChargeNoir\"><color=#fac400> </color>    \n ·     <sprite name=\"ChargeNoir\"><color=#fac400> </color>     \n ·             \n          <sprite name=\"Realisation\"><color=#fac400> </color>   ",
+      "summary": "Nhận Cấp Phòng Thủ và <sprite name=\"Aggro\"><color=#9f6a3a>Khiêu Khích</color>",
+      "flavor": "An overcoat made from twill fabric, a type of weave made by threading several weft threads over fewer warp threads.\nIts characteristic high-density weave protects its wearer from external trauma."
+    },
+    {
+      "id": "ChargeNoirAlly",
+      "name": "Bảo Tồn",
+      "desc": "    \n     \n             <sprite name=\"Charge\"><color=#fac400> </color>  <sprite name=\"Charge\"><color=#fac400> </color>  \n     ",
+      "summary": "Năng Lượng Đặc Trưng",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": "RealisationAlly",
+      "name": "Armure Éveillée",
+      "desc": "     \n        \n             \n             <sprite name=\"SuperCoin\"><color=#9f6a3a>  </color>\n     \n          <sprite name=\"NoirSuit\"><color=#fac400>     </color>",
+      "summary": "Nhận Cấp Công Kích, Cấp Phòng Thủ, và Tốc Độ\nChuyển Xu của Kỹ Năng Tấn Công Cơ Bản thành <sprite name=\"SuperCoin\"><color=#9f6a3a>Xu Bất Hoại</color>",
+      "flavor": "Le Noir's fabric weave prevents external force from reaching its wearer. The purpose for which it awakens is to eliminate change imposed from the outside.\nThe fabric stores energy from attacks it absorbs, then expels all that force in a single burst to remove the external source of change."
+    },
+    {
+      "id": "ChargeRougeAlly",
+      "name": "Nhịp Đập",
+      "desc": "    \n     \n             <sprite name=\"Charge\"><color=#fac400> </color>  <sprite name=\"Charge\"><color=#fac400> </color>  \n     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RougeIshmaelCocoon",
+      "name": "Phòng Thử Đồ",
+      "desc": "     \n         \n       \n                  \n     <sprite name=\"Aggro\"><color=#9f6a3a> </color>\n        <sprite name=\"ChargeRougeAlly\"><color=#fac400> </color>    \n     \n    \n                               \n                                   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Though it has become hardier, it has now become passive. When viewed through the lens of Le Rouge, however durable something might have become, what is passive is always fragile.\n\nBut one must first come to a halt in order to usher in change. And that is what makes this process painful."
+    },
+    {
+      "id": "RougeIshmaelEclose",
+      "name": "Lột Xác Toàn Diện",
+      "desc": "        \n      \n       \n         <sprite name=\"Laceration\"><color=#e20000> </color>   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Though she has emerged from the cocoon, she has failed to truly metamorphose—as that process involves the disintegration of the self. Still, the process has managed to boost her physical abilities."
     }
   ]
 }

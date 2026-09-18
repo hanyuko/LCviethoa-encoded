@@ -124,6 +124,16 @@
       "id": "OnEndAttackMp",
       "add": "Tăng {0} khi Kết Đòn",
       "min": "Giảm {0} khi Kết Đòn"
+    },
+    {
+      "id": "OnGiveNegativeBuffStackToEnemy",
+      "add": "Tăng {1} sau khi chủ thể gây {0} Lượng hiệu ứng bất lợi lên một kẻ địch",
+      "min": "Giảm {1} sau khi chủ thể gây {0} Lượng hiệu ứng bất lợi lên một kẻ địch"
+    },
+    {
+      "id": "OnLoseDuelToSlowerEnemyAsParryingCountMultiplyAndPlusPercent",
+      "add": "Tăng sau khi thua Giao Tranh với kẻ địch chậm hơn, dựa trên số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, tăng thêm {1}% sau mỗi lần Giao Tranh)</size>",
+      "min": "Giảm sau khi thua Giao Tranh với kẻ địch chậm hơn, dựa trên số lần Giao Tranh\n<size=95%>(Giá Trị gốc là {0}, tăng thêm {1}% sau mỗi lần Giao Tranh)</size>"
     }
   ]
 }

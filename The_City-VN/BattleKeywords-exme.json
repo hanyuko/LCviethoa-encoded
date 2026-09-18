@@ -125,14 +125,14 @@
     {
       "id": "RestingKimSatgat_LowMorale",
       "name": "Hối Hận Thâm Căn",
-      "desc": "  \n     <sprite name=\"AttackDmgDown\"><color=#e30000>  </color></sprite>    ",
+      "desc": "  \n     <sprite name=\"AttackDmgDown\"><color=#e30000>  </color>    ",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RestingKimSatgat_Panic",
       "name": "Hối Hận Thâm Căn",
-      "desc": "  \n     <sprite name=\"AttackDmgDown\"><color=#e30000>  </color></sprite>    ",
+      "desc": "  \n     <sprite name=\"AttackDmgDown\"><color=#e30000>  </color>    ",
       "summary": "",
       "undefined": "-"
     },
@@ -146,15 +146,15 @@
     {
       "id": "ChoiSwordsmanshipOne",
       "name": "Bản Quốc Thái Thế - Săn Gấu",
-      "desc": "         <color=#ff6000><mark color=#ff000040><b> </color></mark></b>\n\n         <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color></sprite> <color=#ff6000><mark color=#ff000040><b> </color></mark></b>",
+      "desc": "         <color=#ff6000><mark color=#ff000040><b> </color></mark></b>\n\n         <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color> <color=#ff6000><mark color=#ff000040><b> </color></mark></b>",
       "summary": "",
       "undefined": "-",
-      "flavor": "Những ngọn núi của Quận 19 - Tập Đoàn S là quê nhà của đủ loại thú dữ.\nTrong số chúng, loài gấu đặc biệt sở hữu sức mạnh và uy lực mạnh mẽ tựa như đá tảng rơi từ các vách cao trong những vụ lở đất. Không nên nhượng bộ, để loài này có không gian để tấn công—vậy nên người ta thường nhắm tới việc hạ gục nó trong nhát chém đầu tiên."
+      "flavor": "Những ngọn núi của Quận 19 - Tập Đoàn S là quê nhà của đủ loại thú dữ.\nTrong số chúng, loài gấu đặc biệt sở hữu sức mạnh và uy lực mạnh mẽ tựa như đá tảng rơi từ các vách cao trong những vụ lở đất. Với loài này, người ta thường nhắm tới việc hạ gục nó trong một nhát chém duy nhất, không khoan nhượng."
     },
     {
       "id": "ChoiSwordsmanshipMany",
       "name": "Bản Quốc Thái Thế - Săn Hổ",
-      "desc": "         <color=#ff6000><mark color=#ff000040><b>  </color></mark></b>\n\n         <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color></sprite> <color=#ff6000><mark color=#ff000040><b> </color></mark></b>",
+      "desc": "         <color=#ff6000><mark color=#ff000040><b>  </color></mark></b>\n\n         <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color> <color=#ff6000><mark color=#ff000040><b> </color></mark></b>",
       "summary": "",
       "undefined": "-",
       "flavor": "Khác với gấu, hổ là sinh vật rất xảo quyệt và hung dữ.\nKhông ai mong chờ vào việc hạ gục nó chỉ với một nhát chém.\nĐể hạ nó, chỉ có những nhát chém liên tiếp không ngơi nghỉ mới có thể áp đảo được sinh vật này cho tới khi nó gục ngã.\nNếu không làm được, hổ sẽ thoát chết—hoặc giết hại đối thủ để rồi một ngày nào đó trưởng thành thứ sinh vật gọi là Sangun, Chúa Tể của Núi.\nKhông ai biết trước sinh vật này sẽ đem lại phước lành hay tai họa."
@@ -169,14 +169,14 @@
     {
       "id": "PhotoTransitionChoi",
       "name": "Luân Chuyển Ký Ức",
-      "desc": "    \n     \n <color=#ff6000><mark color=#ff000040><b>              </color></mark></b>\n                         <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color></sprite>\n·   <sprite name=\"ChoiSwordsmanshipOne\"><color=#9f6a3a>      </color>  \n·   <sprite name=\"ChoiSwordsmanshipMany\"><color=#9f6a3a>      </color>  ",
+      "desc": "    \n     \n <color=#ff6000><mark color=#ff000040><b>              </color></mark></b>\n                         <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color>\n·   <sprite name=\"ChoiSwordsmanshipOne\"><color=#9f6a3a>      </color>  \n·   <sprite name=\"ChoiSwordsmanshipMany\"><color=#9f6a3a>      </color>  ",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PhotoTransitionChoiCamera",
       "name": "Luân Chuyển Ký Ức",
-      "desc": "    \n     \n <color=#ff6000><mark color=#ff000040><b>                </color></mark></b>\n                                <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color></sprite>\n·   <sprite name=\"ChoiSwordsmanshipOne\"><color=#9f6a3a>      </color>  \n·   <sprite name=\"ChoiSwordsmanshipMany\"><color=#9f6a3a>      </color>  ",
+      "desc": "    \n     \n <color=#ff6000><mark color=#ff000040><b>                </color></mark></b>\n                                <sprite name=\"ChoiSwordsmanship\"><color=#9f6a3a>    [Nhục]</color>\n·   <sprite name=\"ChoiSwordsmanshipOne\"><color=#9f6a3a>      </color>  \n·   <sprite name=\"ChoiSwordsmanshipMany\"><color=#9f6a3a>      </color>  ",
       "summary": "",
       "undefined": "-"
     },

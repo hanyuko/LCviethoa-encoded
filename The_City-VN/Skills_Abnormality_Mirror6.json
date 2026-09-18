@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Infinite Parade",
+          "name": "Diễu Hành Vô Định",
           "desc": "[CantDuel]\nNếu mục tiêu sử dụng Kỹ Năng Phòng Thủ, mục tiêu không nhận sát thương\n[WhenUse] Tạo 1 Buồng Đu Quay vào lượt kế",
           "coinlist": [
             {
@@ -22,7 +22,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Eternal Festival",
+          "name": "Lễ Hội Vô Tận",
           "desc": "[CantDuel]\nNếu mục tiêu sử dụng Kỹ Năng Phòng Thủ, mục tiêu không nhận sát thương\n[WhenUse] Tạo 4 Buồng Đu Quay vào lượt kế",
           "coinlist": [
             {
@@ -54,7 +54,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Burning Thirst",
+          "name": "Cơn Khát Cháy Bỏng",
           "desc": "Sức Mạnh Tổng +1 với mỗi 100 [BloodDinner] chủ thể này đã tiêu thụ (tối đa 5)\n[WhenUse] Sức Mạnh Gốc +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 3)\n[WhenUse] Tiêu thụ lên tới 30 [BloodDinner]: Nhận 1 [RegainedStrength] với mỗi 10 [BloodDinner] đã tiêu thụ\n[DefeatDuel] Mất 3 SP",
           "coinlist": [
             {
@@ -80,7 +80,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Impaled",
+          "name": "Bị Đâm Xuyên",
           "desc": "[WhenUse] Tiêu thụ lên tới 40 [BloodDinner]: Nhận 1 [RegainedStrength] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n\n[DefeatDuel] Mất 3 SP",
           "coinlist": [
             {
@@ -106,7 +106,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 2 - Stake",
+          "name": "Don Quixote Huyết Giáp Thuật Thức 2 - Đóng Cọc",
           "desc": "Tấn công mục tiêu có nhiều [Laceration] nhất\nSức Mạnh Tổng +1 với mỗi 100 [BloodDinner] chủ thể này đã tiêu thụ (tối đa 5)\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
@@ -193,7 +193,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Desire for Blood",
+          "name": "Cơn Khát Máu",
           "desc": "[WhenUse] Tiêu thụ lên tới 40 [BloodDinner]: Nhận 1 [RegainedStrength] và hồi 5 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Gây +1 Tầng [Laceration] với mỗi 5 [RegainedStrength] (tối đa 2)\n[DefeatDuel] -80% tổng sát thương gây ra",
           "coinlist": [
             {
@@ -245,7 +245,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Moment of Bloodfeast",
+          "name": "Khoảng Khắc Huyết Yến",
           "desc": "[CantIdentify]\n[WhenUse] Tiêu thụ lên tới 300 [BloodDinner]: Nhận 1 [RegainedStrength] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Nếu chủ thể này đã tiêu thụ [BloodDinner], hồi 30 SP\n[DefeatDuel] -80% tổng sát thương gây ra",
           "coinlist": [
             {
@@ -264,7 +264,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 4 - Sundering",
+          "name": "Don Quixote Huyết Giáp Thuật Thức 4 - Phá Vỡ",
           "desc": "Không thể bị Choáng cho đến khi chủ thể sử dụng Kỹ Năng này.\n[WhenUse] Tiêu thụ lên tới 100 [BloodDinner]: Nhận 1 [RegainedStrength] và hồi 15 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 30 [BloodDinner_Accumulation] do chủ thể (tối đa 15)\n[DefeatDuel] -50% sát thương gây ra, và Kỹ Năng này không thể làm Choáng mục tiêu.\n[EndSkill] Trong lượt này và lượt kế, nhận [AttackDown] và [DefenseDown] bằng với Sức Mạnh Giao Tranh đã nhận được từ Kỹ Năng này. (tối đa 15)\n[DefeatDuel] -80% tổng sát thương gây ra",
           "coinlist": [
             {
@@ -289,7 +289,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 14: Mantle",
+          "name": "Don Quixote Huyết Giáp Thuật Thức 14: Huyết Bào",
           "desc": "Sức Mạnh Gốc +1 với mỗi 100 [BloodDinner] chủ thể này đã tiêu thụ (tối đa 10)\n[DuelGuard]\n[WinDuel] Gây 4 [Laceration] và [Burst]\n[DefeatDuel] Tiêu thụ 2 [RegainedStrength]",
           "coinlist": [
             {
@@ -308,7 +308,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Frail, So Frail",
+          "name": "Thật Yếu Ớt Làm Sao",
           "desc": "[DuelCounter]\nSức Mạnh Gốc +1 với mỗi 5 [RegainedStrength]\nSức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)\n[DefeatDuel] Mất 3 SP",
           "coinlist": [
             {
@@ -334,7 +334,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bloody-Merry-Go-Round",
+          "name": "Vòng Quay Đẫm Máu",
           "desc": "[CantDuel]\n[WhenUse] Không gây sát thương lên kẻ địch; Tạo Giấc Mơ Đông Đặc vào lượt kế\n[WhenUse] Với mỗi 5 [RegainedStrength], gây +1 Tầng [Laceration] (tối đa 2)",
           "coinlist": [
             {
@@ -374,7 +374,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Impaled",
+          "name": "Bị Đâm Xuyên",
           "desc": "[DefeatDuel] Mất 3 SP\n[DefeatDuel] -50% tổng sát thương gây ra",
           "coinlist": [
             {
@@ -404,7 +404,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ascendant Don Quixote Hardblood Arts - The Sphere",
+          "name": "Don Quioxte Huyết Giáp Thuật Tuyệt Kỹ – Huyết Cầu",
           "desc": "Không thể bị Choáng cho đến khi chủ thể sử dụng Kỹ Năng này.\nGây thêm sát thương bằng [BloodDinner_Common_Accumulation]. (tối đa 300%)\n[WhenUse] Hồi 30 SP\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 10 [RegainedStrength]\n[EndSkill] Tiêu thụ toàn bộ [RegainedStrength]. Nhận 5 [Vulnerable] lượt này và lượt kế. Nhận 2 [Binding] vào lượt kế.\n[DefeatDuel] -80% tổng sát thương gây ra",
           "coinlist": [
             {
@@ -430,8 +430,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tenacious Wound",
-          "desc": "Nếu mục tiêu có 6+ Lượng [Laceration], nhận Sức Mạnh Xu +1 và nhận +1 Lượng và Tầng [Laceration] từ Kỹ năng này gây ra",
+          "name": "Vết Thương Khó Lành",
+          "desc": "Nếu mục tiêu có 6+ Lượng [Laceration], nhận Sức Mạnh Xu +1 và Kỹ năng này gây thêm +1 Lượng và Tầng [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -462,7 +462,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wound",
+          "name": "Vết Thương",
           "desc": "Nếu mục tiêu có 6+ Lượng [Laceration], nhận Sức Mạnh Xu +1 và nhận +1 Lượng và Tầng [Laceration] từ Kỹ năng này gây ra",
           "coinlist": [
             {
@@ -488,7 +488,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Brambles that Constrict",
+          "name": "Bụi Gai Siết Chặt",
           "desc": "Nếu mục tiêu có 6+ Lượng [Laceration], Kỹ Năng này gây +1 Lượng [Laceration]\nNếu mục tiêu có 15+ ([Laceration] + Tầng [Laceration]), nhận +2 Phạm Vi Tấn Công",
           "coinlist": [
             {
@@ -513,8 +513,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Polydipsic Petals",
-          "desc": "Tấn công mục tiêu có tổng số [Laceration] (Lượng + Tầng) lớn nhất\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 Lượng [Laceration] trên mục tiêu (tối đa 2)",
+          "name": "Cánh Hoa Khát Máu",
+          "desc": "Tấn công mục tiêu có tổng số (Lượng + Tầng) [Laceration] lớn nhất\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 Lượng [Laceration] trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -539,8 +539,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bursting Petals",
-          "desc": "Tấn công mục tiêu có tổng số [Laceration] (Lượng + Tầng) lớn nhất\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 Lượng [Laceration] trên mục tiêu (tối đa 2)",
+          "name": "Cánh Hoa Bạo Phát",
+          "desc": "Tấn công mục tiêu có tổng số (Lượng + Tầng) [Laceration] lớn nhất\n[WhenUse] Sức Mạnh Xu +1 với mỗi 6 Lượng [Laceration] trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -565,7 +565,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Storm of Spikes",
+          "name": "Bão Gai",
           "desc": "[WhenUse] Nếu mục tiêu có 6+ Lượng [Laceration], Sức Mạnh Tổng +2",
           "coinlist": [
             {
@@ -584,7 +584,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Polydipsic Thorn",
+          "name": "Cành Gai Khát Máu",
           "desc": "[StartBattle] Nhận 3 [AttackDmgUp] và 2 [Vulnerable]",
           "coinlist": [
             {
@@ -635,7 +635,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Endless Spring of Blood",
+          "name": "Suối Máu Bất Tận",
           "desc": "[DuelCounter]\n[WhenUse] Khi mục tiêu giao tranh với Kỹ Năng này sẽ không bị mất Tầng [Laceration]",
           "coinlist": [
             {
@@ -677,7 +677,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nutrient Craving",
+          "name": "Thèm Khát Dưỡng Chất",
           "desc": "Kích hoạt khi có 100+ [BloodDinner]\n[EndBattle] Tiêu thụ lên tới 100 [BloodDinner] để kích hoạt các hiệu ứng sau:\n- Hồi HP cho Lõi và Bộ Phận Thân bằng số [BloodDinner] đã tiêu thụ\n- Nhận 1 [AttackUp] vào lượt kế với mỗi 20 [BloodDinner] đã tiêu thụ",
           "coinlist": [
             {
@@ -696,7 +696,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Brambles that Yearn",
+          "name": "Bụi Gai Khao Khát",
           "desc": "[WhenUse] Tiêu thụ lên tới 100 [BloodDinner] để kích hoạt các hiệu ứng sau:\n- Hồi HP cho Lõi và Bộ Phận Thân bằng số [BloodDinner] đã tiêu thụ\n- Kỹ Năng này nhận Sức Mạnh Tổng +1 với mỗi 20 [BloodDinner] đã tiêu thụ\n[EndSkill] Nếu Kỹ Năng này tiêu thụ dưới 30 [BloodDinner], nhận 2 [Vulnerable] vào lượt kế",
           "coinlist": [
             {
@@ -943,7 +943,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blasting Shatterslash [爆碎斬]",
+          "name": "Bạo Toái Trảm [爆碎斬]",
           "desc": "Ưu tiên mục tiêu có [Prey]\nCó thể giao tranh bằng Kỹ Năng này bất kể Tốc độ\nSức Mạnh Xu +1 với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 3)\n[DefeatDuel] -50% tổng sát thương gây ra",
           "coinlist": [
             {
@@ -1012,7 +1012,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tanglecleaver [快刀亂麻]",
+          "name": "Khoái Đao Loạn Ma [快刀亂麻]",
           "desc": "Ưu tiên mục tiêu có [Prey]\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ; Chủ thể không thể bị Choáng trước khi sử dụng Kỹ Năng này\n[WhenUse] Tiêu thụ toàn bộ Lớp [BattleSense] trên chủ thể. Nếu chủ thể này đã tiêu thụ...\n- ... 10+ Lớp , nhận Phạm Vi Tấn Công +1 với mỗi 10 Lớp đã tiêu thụ (tối đa 2)\n- ... 25 Lớp, Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration] trên mục tiêu chính) (tối đa 5)\n[DefeatDuel] -80% sát thương gây ra; Kỹ Năng này không thể làm Choáng mục tiêu; chỉ gây một nửa Lượng và Tầng cho cả 2 [Combustion] và [Vibration] từ Kỹ năng này gây ra (ngoại trừ được tăng lên từ các hiệu ứng khác)\n[EndSkill] [FullReload] (một lần mỗi lượt)\n- Nếu chủ thể có [BulletPropellantSpecial], thì [ReloadKeepAmmo] (một lần mỗi lượt)\n[DefeatDuel] -50% tổng sát thương gây ra\n[EndSkill] Kết thúc lượt này",
           "coinlist": [
             {
@@ -1043,7 +1043,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
+          "name": "Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm [超絕猛虎殺擊亂斬]",
           "desc": "Ưu tiên mục tiêu có [Prey]\nCó thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ; Chủ thể không thể bị Choáng trước khi sử dụng Kỹ Năng này\n[WhenUse] Tiêu thụ toàn bộ Lớp [BattleSense] trên chủ thể. Nếu chủ thể này đã tiêu thụ...\n- ... 10+ Lớp , nhận Phạm Vi Tấn Công +1 với mỗi 10 Lớp đã tiêu thụ (tối đa 4)\n- ... 25 Lớp, Sức Mạnh Tổng +1 với mỗi 4 ([Combustion] + [Vibration] trên mục tiêu chính) (tối đa 6)\n- ... 50 Lớp, Sức Mạnh Xu +1 và +50% sát thương gây ra\n[DefeatDuel] -80% sát thương gây ra; Kỹ Năng này không thể làm Choáng mục tiêu; chỉ gây một nửa Lượng và Tầng cho cả 2 [Combustion] và [Vibration] từ Kỹ năng này gây ra (ngoại trừ được tăng lên từ các hiệu ứng khác)\n[EndSkill] [FullReload] (một lần mỗi lượt)\n- Nếu chủ thể có [BulletPropellantSpecial], thì [ReloadKeepAmmo] (một lần mỗi lượt)\n[DefeatDuel] -50% tổng sát thương gây ra\n[EndSkill] Kết thúc lượt này",
           "coinlist": [
             {
@@ -1133,7 +1133,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Reloading Tiantui Star's Blade",
+          "name": "Nạp Đạn Thiên Thoái Tinh Đao",
           "desc": "[WhenUse] Hồi 10 SP\n- Khi SP dưới 0, hồi thêm 5 SP\n[DuelCounter]\n[DefeatDuel] Mất 1 [BulletPropellant]\n[EndSkill] [FullReload] (một lần mỗi lượt)\n- Nếu chủ thể có [BulletPropellantSpecial], thì [ReloadKeepAmmo] (một lần mỗi lượt)",
           "coinlist": [
             {
@@ -1311,7 +1311,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Punching",
+          "name": "Đấm Này",
           "desc": "",
           "coinlist": [
             {
@@ -1344,7 +1344,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kicking",
+          "name": "Đá Này",
           "desc": "",
           "coinlist": [
             {
@@ -1377,7 +1377,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Payback",
+          "name": "Trả Giá",
           "desc": "",
           "coinlist": [
             {},
@@ -1397,7 +1397,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Watch Your Back!",
+          "name": "Cẩn Thận Sau Lưng Mày!",
           "desc": "Nếu SP của mục tiêu nhỏ hơn 0, Sức Mạnh Xu +3",
           "coinlist": [
             {
@@ -1426,7 +1426,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Assemble",
+          "name": "Anh Em, Tập Hợp",
           "desc": "[StartBattle] Triệu hồi 2 đồng minh vào lượt kế",
           "coinlist": [
             {

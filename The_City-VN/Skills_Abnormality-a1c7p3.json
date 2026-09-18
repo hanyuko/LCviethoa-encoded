@@ -704,7 +704,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Huyết Giáp Thuật Don Quixote Thức 4 - Phá Vỡ",
+          "name": "Don Quixote Huyết Giáp Thuật Thức 4 - Phá Vỡ",
           "desc": "[WhenUse] Nếu mục tiêu có 6+ [Laceration], Sức Mạnh Xu +1\n[WinDuel] Với Kỹ Năng này, +20% sát thương gây ra với mỗi Bậc [BloodArmor] (tối đa 60%)\n[DefeatDuel] Tiêu thụ 4 [BloodArmor] để nhận 20 Khiên",
           "coinlist": [
             {
@@ -730,7 +730,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Huyết Giáp Thuật Don Quixote Thức 11 - Đâm Xuyên",
+          "name": "Don Quixote Huyết Giáp Thuật Thức 11 - Đâm Xuyên",
           "desc": "[WhenUse] Sức Mạnh Gốc +1 với mỗi 3 [Laceration] trên mục tiêu (tối đa 3)\n[WinDuel] Với Kỹ Năng này, +20% sát thương gây ra với mỗi Bậc [BloodArmor] (tối đa 60%)\n[DefeatDuel] Tiêu thụ 4 [BloodArmor] để nhận 20 Khiên",
           "coinlist": [
             {
@@ -763,7 +763,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Huyết Giáp Thuật Don Quixote Thức 2 - Huyết Giáp",
+          "name": "Don Quixote Huyết Giáp Thuật Thức 2 - Huyết Giáp",
           "desc": "Có thể Giao Tranh với Kỹ Năng này bất kể Tốc Độ\n[StartBattle] Tiêu thụ 200 [BloodDinner], nhận 500 Khiên, 5 [BloodArmor], và 1 [SwirlingBlood]\n- Nếu chủ thể không đủ [BloodDinner], nhận 50 [Laceration], và kích hoạt [Laceration] ngay lập tức. Mất 2 Tầng [Laceration]. Nhận 500 Khiên và 1 [SwirlingBlood] (sát thương này không thể giảm HP của đơn vị này xuống 1)\n[WinDuel] Nhận 200 Khiên\n[DefeatDuel] Nhận 3 [Vulnerable] Miễn là Khiên nhận được từ Kỹ Năng này vẫn còn hiệu lực\n[DefeatDuel] -50% sát thương gây ra, và Kỹ Năng này không thể làm Choáng mục tiêu\n[EndSkill] Kết thúc lượt này",
           "coinlist": [
             {
@@ -1397,7 +1397,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Huyết Giáp Thuật Don Quixote Thức 2 - Đóng Cọc",
+          "name": "Don Quixote Huyết Giáp Thuật Thức 2 - Đóng Cọc",
           "desc": "Tấn công mục tiêu có nhiều [Laceration] nhất\n[WhenUse] Sức Mạnh Xu +1 với mỗi 5 [Laceration] trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
@@ -1436,7 +1436,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Huyết Giáp - Tiềm",
+          "name": "Huyết Giáp - Chêm",
           "desc": "[StartBattle] Nhận Phạm Vi Tấn Công +1 với mỗi 3 [RegainedStrength] trên chủ thể (tối đa 2)\n[EndSkill] Tiêu thụ 3 [RegainedStrength]",
           "coinlist": [
             {
@@ -1539,7 +1539,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khoảng Khắc Yến Tiệc",
+          "name": "Khoảng Khắc Huyết Yến",
           "desc": "[CantIdentify]\n[WhenUse] Tiêu thụ lên tới 300 [BloodDinner]: Nhận 1 [RegainedStrength] và hồi 3 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Nếu chủ thể này đã tiêu thụ [BloodDinner], hồi 30 SP",
           "coinlist": [
             {
@@ -1558,7 +1558,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Huyết Giáp Thuật Don Quixote Thức 4 - Phá Vỡ",
+          "name": "Don Quixote Huyết Giáp Thuật Thức 4 - Phá Vỡ",
           "desc": "Không thể bị Choáng cho đến khi chủ thể sử dụng Kỹ Năng này.\n[WhenUse] Tiêu thụ lên tới 100 [BloodDinner]: Nhận 1 [RegainedStrength] và hồi 15 SP với mỗi 10 [BloodDinner] đã tiêu thụ\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi [BloodDinner_Accumulation] do chủ thể (tối đa 15)\n[DefeatDuel] -50% sát thương gây ra, và Kỹ Năng này không thể làm Choáng mục tiêu.\n[EndSkill] Trong lượt này và lượt kế, nhận [AttackDown] và [DefenseDown] bằng với Sức Mạnh Giao Tranh đã nhận được từ Kỹ Năng này. (tối đa 15)",
           "coinlist": [
             {
@@ -1583,7 +1583,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Huyết Giáp Thuật Don Quixote Thức 14: Huyết Bào",
+          "name": "Don Quixote Huyết Giáp Thuật Thức 14: Huyết Bào",
           "desc": "[DuelGuard]\n[WinDuel] Gây 4 [Laceration] và [Burst]\n[DefeatDuel] Tiêu thụ 2 [RegainedStrength]",
           "coinlist": [
             {
@@ -1698,7 +1698,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tuyệt Kỹ Don Quioxte Huyết Giáp Thuật - Huyết Cầu",
+          "name": "Don Quioxte Huyết Giáp Thuật Tuyệt Kỹ – Huyết Cầu",
           "desc": "Không thể bị Choáng cho đến khi chủ thể sử dụng Kỹ Năng này.\nGây thêm sát thương bằng [BloodDinner_Common_Accumulation]. (tối đa 300%)\n[WhenUse] Hồi 30 SP\n[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 10 [RegainedStrength]\n[EndSkill] Tiêu thụ toàn bộ [RegainedStrength]. Nhận 5 [Vulnerable] lượt này và lượt kế. Nhận 2 [Binding] vào lượt kế.",
           "coinlist": [
             {

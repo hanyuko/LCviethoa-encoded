@@ -129,6 +129,10 @@
       "content": "Bỏ qua cốt truyện?"
     },
     {
+      "id": "mainui_story_continue_next_desc",
+      "content": "Đi tiếp đến tập tiếp theo?\n(Sẽ tiếp tục sau khi nhận phần thưởng xem lần đầu)"
+    },
+    {
       "id": "mainui_battleresult_reward",
       "content": "Thưởng"
     },
@@ -1366,15 +1370,15 @@
     },
     {
       "id": "open_date_description_month_day_time_zone",
-      "content": "Mở khóa sau bản cập nhật ngày {0} tháng {1} (lúc {2}) "
+      "content": "Mở khóa sau bản cập nhật ngày {1} tháng {0} ({2}) "
     },
     {
       "id": "open_date_description_month_day_time_zone_date",
-      "content": "Ngày {0} Tháng {1} (lúc {2})"
+      "content": "Ngày {1} Tháng {0} ({2})"
     },
     {
       "id": "open_date_description_month_day_time_zone_desc",
-      "content": "Mở khóa sau khi Cập Nhật"
+      "content": "Mở khóa sau khi cập nhật"
     },
     {
       "id": "enkephalin_desc",
@@ -2055,6 +2059,30 @@
     {
       "id": "formation_announcer_reset_desc",
       "content": "Xác nhận đặt lại {0} về mặc định?"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_title",
+      "content": "Tiếng Vọng - Vé HL Số 10 (Chém)"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_open_day",
+      "content": "Tiếng Vọng - Vé HL Số 10 (Chém) mở vào Thứ Hai, Thứ Ba, và Chủ Nhật."
+    },
+    {
+      "id": "mainui_exp_dungeon_17_title",
+      "content": "Tiếng Vọng - Vé HL Số 10 (Đâm)"
+    },
+    {
+      "id": "mainui_exp_dungeon_17_open_day",
+      "content": "Tiếng Vọng - Vé HL Số 10 (Đâm) mở vào Thứ Tư, Thứ Năm, và Chủ Nhật."
+    },
+    {
+      "id": "mainui_exp_dungeon_18_title",
+      "content": "Tiếng Vọng - Vé HL Số 10 (Đập)"
+    },
+    {
+      "id": "mainui_exp_dungeon_18_open_day",
+      "content": "Tiếng Vọng - Vé HL Số 10 (Đập) mở vào Thứ Sáu, Thứ Bảy và Chủ Nhật."
     }
   ]
 }
