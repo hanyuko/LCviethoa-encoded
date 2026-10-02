@@ -915,7 +915,7 @@
     {
       "id": 1050721,
       "name": "Anh Em Một Nhà",
-      "desc": "The 1 đồng minh có SP thấp nhất hồi 10 SP vào Cuối Lượt nếu có một đồng minh khác cùng Phe Phái"
+      "desc": "1 đồng minh có SP thấp nhất hồi 10 SP vào Cuối Lượt nếu có một đồng minh khác cùng Phe Phái"
     },
     {
       "id": 1070701,
@@ -3271,13 +3271,13 @@
     {
       "id": 1041603,
       "name": "Le Noir: Vải Gabardine",
-      "desc": "Khi bước vào chiến trường, nhận 25 [NoirSuitAlly]\n\nĐầu Lượt:\n- Nhận Khiên bằng (([NoirSuitAlly] + [RealisationAlly]) / 5)% HP tối đa của chủ thể\n- Nếu chủ thể có [RealisationAlly], chuyển \"Triple Stamped Stitching\" thành \"Nhất Cước - Couture Multiple\"",
+      "desc": "Khi bước vào chiến trường, nhận 25 [NoirSuitAlly]\n\nĐầu Lượt:\n- Nhận Khiên bằng (([NoirSuitAlly] + [RealisationAlly]) / 5)% HP tối đa của chủ thể\n- Nếu chủ thể có [RealisationAlly], chuyển \"Triple Stamped Stitching\" thành \"Đơn Cước - Couture Multiple\"",
       "summary": "Nhận Khiên"
     },
     {
       "id": 1041604,
       "name": "Bảo Tồn",
-      "desc": "Nhận 1 Lượng [ChargeNoirAlly] mỗi khi chủ thể tiêu thụ tổng cộng 10 Tầng [ChargeNoirAlly] trong Ải này\n\nCuối Lượt: Khi có ít hơn 3 Lượng [ChargeNoirAlly], tiêu thụ toàn bộ Tầng [ChargeNoirAlly] để nhận (Tầng [ChargeNoirAlly] đã tiêu thụ x 5) Khiên vào lượt kế\n\nỞ mốc 3+ Lượng [ChargeNoirAlly], Kỹ Năng Cơ Bản của chủ thể nhận thêm +1 Tầng [ChargeNoirAlly] khi đang có ít hơn 12 Tầng [ChargeNoirAlly]\n\nKhi Dùng Kỹ Năng Tấn Công Cơ Bản,\n- Nếu mục tiêu có 6+ Lượng [Vibration], Sức Mạnh Xu +1\n- Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1\n- Gây +(Lượng [ChargeNoirAlly] x 2)% sát thương (tối đa 10%)\n· Nếu Kỹ Năng được dùng là \"Triple Stamped Stitching\" hoặc \"Nhất Cước - Couture Multiple\", đổi thành +(Lượng [ChargeNoirAlly] x 4)% sát thương gây ra (tối đa 20%)",
+      "desc": "Nhận 1 Lượng [ChargeNoirAlly] mỗi khi chủ thể tiêu thụ tổng cộng 10 Tầng [ChargeNoirAlly] trong Ải này\n\nCuối Lượt: Khi có ít hơn 3 Lượng [ChargeNoirAlly], tiêu thụ toàn bộ Tầng [ChargeNoirAlly] để nhận (Tầng [ChargeNoirAlly] đã tiêu thụ x 5) Khiên vào lượt kế\n\nỞ mốc 3+ Lượng [ChargeNoirAlly], Kỹ Năng Cơ Bản của chủ thể nhận thêm +1 Tầng [ChargeNoirAlly] khi đang có ít hơn 12 Tầng [ChargeNoirAlly]\n\nKhi Dùng Kỹ Năng Tấn Công Cơ Bản,\n- Nếu mục tiêu có 6+ Lượng [Vibration], Sức Mạnh Xu +1\n- Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1\n- Gây +(Lượng [ChargeNoirAlly] x 2)% sát thương (tối đa 10%)\n· Nếu Kỹ Năng được dùng là \"Triple Stamped Stitching\" hoặc \"Đơn Cước - Couture Multiple\", đổi thành +(Lượng [ChargeNoirAlly] x 4)% sát thương gây ra (tối đa 20%)",
       "summary": "Khi có ít hơn số Tầng [ChargeNoirAlly] nhất định, nhận thêm Tầng [ChargeNoirAlly]\nKhi Dùng Kỹ Năng Tấn Công Cơ Bản, nhận Sức Mạnh Xu và gây thêm sát thương"
     },
     {
@@ -3303,6 +3303,65 @@
       "name": "[Actrice Haute Couture du Rouge] - Y Phục",
       "desc": "Đồng minh được Triển Khai ở vị trí Số 1 và 2 hồi thêm +20% HP từ Nội Tại, Kỹ Năng, và hiệu ứng Xu\n\nKhi kích hoạt Dục Vọng Cộng Hưởng Tuyệt Đối, 2 đồng minh trên -10% sát thương phải nhận từ Kỹ Năng trong lượt đó",
       "flavor": "                         \n\n                             \n\n                              "
+    },
+    {
+      "id": 1091701,
+      "name": "Tiếng Kéo Đơm Hoa Vang Vọng trong Tiệm Sửa Đồ",
+      "desc": "Cuối Lượt: Nhận Khiên bằng số Tầng [ChargeKhaki] vào lượt kế\nỞ mốc 2+/3+/5+ Lượng [ChargeKhaki], Sức Mạnh Tổng của Kỹ Năng Cơ Bản +1/+2/+3",
+      "summary": "Nhận Sức Mạnh Tổng của Kỹ Năng Cơ Bản"
+    },
+    {
+      "id": 1091702,
+      "name": "Quán Tính Phiêu Dạt",
+      "desc": "Nhận 1 Lượng [ChargeKhaki] với mỗi tổng 10 Tầng [ChargeKhaki] chủ thể đã tiêu thụ trong Ải này\n\nKhi đồng minh khác có [NoirScissorShield] Kết Đòn, kích hoạt \"May Theo Mẫu\" lên mục tiêu của đồng minh đó (một lần mỗi lượt)\n- [BeforeUse] Nếu mục tiêu có 2+ [NoirScissorAlly], đổi thành kích hoạt \"Cắt Vải\" (một lần mỗi lượt)",
+      "summary": "Kích hoạt đòn tấn công thêm"
+    },
+    {
+      "id": 1091721,
+      "name": "Tiếng Kéo Đầu Tiên là Lời Cảm Tạ",
+      "desc": "1 đồng minh có Tốc Độ cao nhất +10% sát thương gây ra khi dùng Kỹ Năng Cơ Bản loại Chém",
+      "summary": "Gây thêm sát thương Chém",
+      "flavor": "              "
+    },
+    {
+      "id": 1031501,
+      "name": "Giao Ước Hắc Diệu",
+      "desc": "Kết Chiến: Nếu chủ thể có [OathFieldDonQuixote], nhận 1 [Agility] vào lượt kế\n\nKỹ Năng Tấn Công Cơ Bản của chủ thể +(Lượng [ChargeNoirAlly] đang sở hữu x 3)% sát thương gây ra lên mục tiêu chính (tối đa 15%)",
+      "summary": "Nếu [OathFieldDonQuixote] đang hoạt động, nhận [Agility] vào lượt kế\nKỹ Năng Tấn Công Cơ Bản gây thêm sát thương lên mục tiêu chính",
+      "flavor": "          "
+    },
+    {
+      "id": 1031502,
+      "name": "Búa Thánh Thệ Ước",
+      "desc": "Khi bước vào Ải lần đầu tiên, nhận +10 Tầng [ChargeNoirAlly] và gán +2 Tầng [Charge] cho Danh Tính đồng minh khác thuộc \"Le Noir\" \n\nKhi gây [NoirNailDonQuixote] bằng hiệu ứng Kỹ Năng:\n- Ở mốc 12+ Tầng [ChargeNoirAlly], gây thêm +1 [NoirNailDonQuixote] và tiêu thụ 4 Tầng [ChargeNoirAlly]\n- Khi có ít hơn 12 Tầng [ChargeNoirAlly], tiêu thụ 2 Tầng [ChargeNoirAlly]\n- Nếu không có đủ Tầng [ChargeNoirAlly], không gây [NoirNailDonQuixote]\n- Các Kỹ Năng gây [NoirNailDonQuixote] nhờ hiệu ứng này được tính là Kỹ Năng tiêu thụ Tầng [Charge]\n\nNhận 1 Lượng [ChargeNoirAlly] mỗi khi chủ thể tiêu thụ tổng cộng 10 Tầng [ChargeNoirAlly] trong Ải này",
+      "summary": "Nhận Tầng [ChargeNoirAlly]; đồng minh thuộc \"Le Noir\" nhận Tầng [Charge]\nTiêu thụ Tầng [ChargeNoirAlly] khi gây [NoirNailDonQuixote]; gây thêm [NoirNailDonQuixote] khi có đủ Tầng [ChargeNoirAlly]\nNhận Lượng [ChargeNoirAlly] bằng việc tiêu thụ Tầng [ChargeNoirAlly]",
+      "flavor": "                     "
+    },
+    {
+      "id": 1031503,
+      "name": "Nhiệm Vụ Trường Tồn",
+      "desc": "Khi bước vào Ải lần đầu tiên, nhận 25 [NoirShieldUpDonQuixote]\n\nKhi tiêu thụ Tầng [ChargeNoirAlly], hoặc khi nhận Tầng [ChargeNoirAlly] vượt quá giới hạn tối đa, nhận (Tầng [ChargeNoirAlly] đã tiêu thụ hoặc Tầng [ChargeNoirAlly] thừa x 5) [NoirShieldUpDonQuixote] (tối đa 30 mỗi lượt)\n\nKhi một Danh Tính đồng minh có Khiên bị đánh trúng, chủ thể nhận 2 [NoirShieldUpDonQuixote] (tối đa 10 mỗi lượt)\n- Nếu Danh Tính đó là một [PersonalityCharge], đổi thành nhận 5 [NoirShieldUpDonQuixote]",
+      "summary": "Nhận [NoirShieldUpDonQuixote]"
+    },
+    {
+      "id": 1031504,
+      "name": " Ý Nguyện và Chân Lý của Ngài Nằm Trong Tim Ta...",
+      "desc": "Trước khi Danh Tính đồng minh khác thuộc \"Le Noir\" Tấn Công một kẻ địch, chủ thể dùng Kỹ Năng \"Phán Quyết!\" dưới dạng Đòn Một Chiều lên mục tiêu đó (một lần mỗi lượt)\n\nKhi Bắt Đầu Xu cuối của một Kỹ Năng Cơ Bản, Xu đó nhận Sức Mạnh Tổng +(Lượng [ChargeNoirAlly] trên chủ thể + ([NoirNailDonQuixote] trên mục tiêu / 2)) (tối đa 5)\n\nNếu chủ thể có [OathFieldDonQuixote], Kỹ Năng Cơ Bản 1/2/3 nhận Sức Mạnh Giao Tranh +1/+2/+3\n\nKhi [VibrationExplosion] được kích hoạt lên mục tiêu có [NoirNailDonQuixote], chủ thể và 1 [PersonalityCharge] đồng minh khác có Tầng [Charge] thấp nhất nhận +2 Tầng [Charge] (2 lần mỗi lượt)",
+      "summary": "Dùng Kỹ Năng \"Phán Quyết!\" trước khi đồng minh thuộc \"Le Noir\" tấn công\nXu cuối của Kỹ Năng Cơ Bản nhận Sức Mạnh Tổng\nNếu [OathFieldDonQuixote] đang hoạt động, Kỹ Năng Cơ Bản nhận Sức Mạnh Giao Tranh\nNhận Tầng [Charge] khi kích hoạt [VibrationExplosion] lên mục tiêu có [NoirNailDonQuixote]",
+      "flavor": "                                  "
+    },
+    {
+      "id": 1031511,
+      "name": "Giao Ước Hắc Diệu",
+      "desc": "Kết Chiến: Nếu chủ thể có [OathFieldDonQuixote], nhận 2 [Agility] vào lượt kế\n\nKỹ Năng Tấn Công Cơ Bản của chủ thể +(Lượng [ChargeNoirAlly] đang sở hữu x 6)% sát thương gây ra lên mục tiêu chính (tối đa 30%)",
+      "summary": "Nếu [OathFieldDonQuixote] đang hoạt động, nhận [Agility] vào lượt kế\nKỹ Năng Tấn Công Cơ Bản gây thêm sát thương lên mục tiêu chính",
+      "flavor": "          "
+    },
+    {
+      "id": 1031521,
+      "name": "Đội Hình Trường Tồn",
+      "desc": "Toàn bộ [PersonalityCharge] đồng minh -2% sát thương phải nhận trong lượt này với mỗi [PersonalityCharge] trên sân lúc Khởi Chiến (tối đa -10%)",
+      "summary": "[PersonalityCharge] đồng minh nhận ít sát thương hơn"
     }
   ]
 }

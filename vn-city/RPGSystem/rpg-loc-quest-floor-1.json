@@ -1,210 +1,289 @@
 {
-  "dataList": [
-    {
-      "key": "Q1000",
-      "title": "오프닝",
-      "description": "로딩 직후 오프닝 연출(S1001B) 재생 처리용 숨겨진 퀘스트",
-      "steps": [
+    "dataList": [
         {
-          "index": 0
-        }
-      ]
-    },
-    {
-      "key": "Q1011",
-      "title": "Explore the Surroundings",
-      "description": "We've arrived at a place called Grand Magasin Sisyphe. Where could Meursault be...? Let's first look around and get our bearings.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Explore the Surroundings"
-        }
-      ]
-    },
-    {
-      "key": "Q1012",
-      "title": "Return to the Restroom",
-      "description": "We ran into Kromer's older sister at Grand Magasin Sisyphe. We should return to the restroom and regroup first.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Return to the Restroom"
-        }
-      ]
-    },
-    {
-      "key": "Q1013",
-      "title": "In Search of Meursault",
-      "description": "Meursault seems to be somewhere in the department store. We saw carpeting on the floor, with clothes displayed in the front. We should explore the department store and find the place where clothes are on display.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Explore the Department Store"
-        }
-      ]
-    },
-    {
-      "key": "Q1014",
-      "title": "???",
-      "description": "It seems something is hidden here.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "???"
-        }
-      ]
-    },
-    {
-      "key": "Q1021",
-      "title": "In Search of Meursault (2)",
-      "description": "Meursault seems to be somewhere nearby. We should look for him.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Locate Meursault"
-        }
-      ]
-    },
-    {
-      "key": "Q1022",
-      "title": "Meursault's Suggestion",
-      "description": "Decide whether to accept Meursault's suggestion.\n→ Accepting begins the hunting quest; if deferred, this quest can be received again from the Casualwear Hall employee.",
-      "steps": [
-        {
-          "index": 0
+            "key": "Q1000",
+            "title": "오프닝",
+            "description": "로딩 직후 오프닝 연출(S1001B) 재생 처리용 숨겨진 퀘스트",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
         },
         {
-          "index": 1
-        }
-      ]
-    },
-    {
-      "key": "Q1023",
-      "title": "Show the Mannequins to the Exit",
-      "description": "To get Meursault back, we need to \"help the Mannequins to the exit\"—three of them, in total. Kill them and report back to Mimosa, who seems to be the proprietor of the store.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Help the Mannequins \"to the Exit\""
+            "key": "Q1011",
+            "title": "Khám Phá Xung Quanh",
+            "description": "Chúng tôi đã đặt chân vào một nơi mang tên Bách Hóa Tổng Hợp Sisyphus. Meursault có thể ở đâu...? Nhìn xung quanh xem có manh mối nào không.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Khám Phá Xung Quanh"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
         },
         {
-          "index": 1,
-          "goalDescription1": "Return to Mimosa"
-        }
-      ]
-    },
-    {
-      "key": "Q1031",
-      "title": "Explore Grand Magasin Sisyphe",
-      "description": "Meursault explained what he knows about Grand Magasin Sisyphe. I didn't follow all of it, but one thing is clear: there doesn't seem to be a normal way out. Let's keep exploring.",
-      "steps": [
+            "key": "Q1012",
+            "title": "Về Nhà Vệ Sinh",
+            "description": "Chúng tôi vừa chạm mặt chị gái của Kromer tại Bách Hóa Tổng Hợp Sisyphus. Cần tập hợp tại nhà vệ sinh và làm nguội vài cái đầu đã.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Về Nhà Vệ Sinh"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Explore the Department Store"
-        }
-      ]
-    },
-    {
-      "key": "Q1032",
-      "title": "Explore Grand Magasin Sisyphe (2)",
-      "description": "We met a guy named Dubois. Like us, he doesn't seem to have been here long. Let's keep searching the department store for a way upstairs.",
-      "steps": [
+            "key": "Q1013",
+            "title": "Tìm Kiếm Meursault",
+            "description": "Có vẻ Meursault đang ở đâu đó quanh cửa hàng bách hóa. Chúng tôi thấy sàn nhà được trải thảm, quần áo được trưng bày phía trước. Chúng tôi nên khám phá cửa hàng bách hóa và tìm kiếm phía quần áo trưng bày trước mặt.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Khám phá Cửa Hàng Bách Hóa"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Explore the Department Store"
-        }
-      ]
-    },
-    {
-      "key": "Q1041",
-      "title": "Browse the Clothing Display",
-      "description": "We've reached a Contemporary Hall. The employee doesn't seem interested in talking. We may as well look through the clothes on display.",
-      "steps": [
+            "key": "Q1014",
+            "title": "???",
+            "description": "Có gì đó đang được ẩn giấu tại đây.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "???"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Browse the Clothes"
-        }
-      ]
-    },
-    {
-      "key": "Q1042",
-      "title": "Fend off the Hostile Noir Employee",
-      "description": "",
-      "steps": [
+            "key": "Q1021",
+            "title": "Tìm Kiếm Meursault (2)",
+            "description": "Meursault đang ở gần đây thôi. Chúng ta nên tìm kiếm anh ta.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Tìm Meursault"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0
-        }
-      ]
-    },
-    {
-      "key": "Q1051",
-      "title": "Head to the Rouges' Store",
-      "description": "A Noir employee told us about Golden Resin. Next, let's check Le Rouge's Contemporary store on the upper side.",
-      "steps": [
+            "key": "Q1022",
+            "title": "Thỉnh Cầu của Meursault",
+            "description": "Quyết định có nên nghe theo lời Meursault hay không.\n→ Chấp nhận nhiệm vụ săn lùng. Có thể nói chuyện với nhân viên Sảnh Thường Phục để nhận nhiệm vụ lần nữa.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": ""
+                },
+                {
+                    "index": 1.0,
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Go to Le Rouge's Contemporary Store"
-        }
-      ]
-    },
-    {
-      "key": "Q1052",
-      "title": "Find a Huge Needle",
-      "description": "Quillian at Le Rouge's Contemporary Store asked us to bring back a huge needle. Find the Mannequin carrying it, take the needle, and return to Quillian.",
-      "steps": [
+            "key": "Q1023",
+            "title": "Giải thoát đám Ma-nơ-canh ",
+            "description": "Để lấy lại Meursault, chúng tôi cần \"giải thoát đám Ma-nơ-canh\"—bọn chúng gồm ba tên tất cả. Giết hết bọn nó rồi báo lại cho Mimisa, có vẻ như là quản lý cửa hàng.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "\"Giải thoát\" đám Ma-nơ-canh"
+                },
+                {
+                    "index": 1.0,
+                    "goalDescription1": "Quay về chỗ Mimosa"
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Retrieve the Huge Needle and Return to Quillian"
-        }
-      ]
-    },
-    {
-      "key": "Q1061",
-      "title": "Go Shopping for Clothes",
-      "description": "We need to build up a purchase record before we can access the upper floor. Buy some clothes from Quillian, then keep looking for a way upstairs.",
-      "steps": [
+            "key": "Q1031",
+            "title": "Khám Phá Grand Magasin Sisyphe",
+            "description": "Meursault giải thích những gì anh ta biết về Grand Magasin Sisyphe. Tôi không hiểu hết những gì anh ta nói, nhưng rõ ràng là không thể rời khỏi đây một cách bình thường được. Tiếp tục điều tra nơi này vậy.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Khám Phá Cửa Hàng Bách Hóa"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Buy Clothes from Quillian"
-        }
-      ]
-    },
-    {
-      "key": "Q1062",
-      "title": "To the Escalator",
-      "description": "We've found an escalator leading to the next floor. Dubois is here too. Let's talk to him before heading up.",
-      "steps": [
+            "key": "Q1032",
+            "title": "Khám Phá Grand Magasin Sisyphe (2)",
+            "description": "Chúng tôi chạm mặt anh bạn tên Dubois. Cũng như bọn tôi, anh ta có vẻ lạ lẫm với nơi này. Hãy tiếp tục tìm kiếm quanh cửa hàng bách hóa để tìm đường đi lên.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Khám Phá Cửa Hàng Bách Hóa"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Talk to Dubois"
-        }
-      ]
-    },
-    {
-      "key": "Q1064",
-      "title": "Take the Escalator",
-      "description": "The escalator is working. We should finally be able to reach 2F.",
-      "steps": [
+            "key": "Q1041",
+            "title": "Xem Mẫu Trang Phục Trưng Bày",
+            "description": "Chúng tôi đã tới Sảnh Đương Đại. Nhân viên tại đây không có hứng chuyện trò cho lắm. Có lẽ nên thong thả xem qua vài mẫu quần áo được trưng bày.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Xem Mẫu Trang Phục Trưng Bày"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Take the Escalator to 2F"
-        }
-      ]
-    },
-    {
-      "key": "Q1018",
-      "title": "???",
-      "description": "(히든) 못 획득 시 대화",
-      "steps": [
+            "key": "Q1042",
+            "title": "Đá đít đám Nhân Viên Noir Thù Địch",
+            "description": "",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0
+            "key": "Q1051",
+            "title": "Thẳng tiến tới Cửa Hàng Rouges",
+            "description": "Một nhân viên Noir đã tiết lộ thông tin về Nhựa Vàng. Bước kế, đi kiểm tra cửa hàng thời trang Đương Đại Le Rouges ở phía trên.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Tới Cửa Hàng T.Trang Đương Đại Le Rouges"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q1052",
+            "title": "Tìm một cây Kim Khổng Lồ",
+            "description": "Quillian tại Cửa Hàng T.Trang Đương Đại nhờ chúng tôi mang về một cây kim khổng lồ. Tìm Ma-nơ-canh đang nắm giữ nó, xin đểu cây kim và trả nhiệm vụ cho Quillian.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Lấy cây Kim Khổng Lồ và Trả nhiệm vụ cho Quillian"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q1061",
+            "title": "Mua Trang Phục",
+            "description": "Chúng ta cần tích lũy điểm lịch sử mua hàng trước khi có quyền đặt chân lên tầng trên. Mua ít trang phục từ Quillian rồi tiếp tục tìm cách lên tầng.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Mua Trang Phục từ Quillian"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q1062",
+            "title": "Tới Thang Cuốn",
+            "description": "Chúng tôi tìm thấy một thang cuốn dẫn tới tầng kế. Dubois cũng ở đây. Hãy nói chuyện với anh ta trước khi bước lên thang.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Nói với Dubois"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q1064",
+            "title": "Đi Thang Cuốn",
+            "description": "Thang cuốn đang hoạt động. Chúng ta cuối cùng cũng có thể đến tầng 2.",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": "Đi Thang Cuốn đến T2"
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q1018",
+            "title": "???",
+            "description": "(히든) 못 획득 시 대화",
+            "steps": [
+                {
+                    "index": 0.0,
+                    "goalDescription1": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q1001",
+            "title": "퀘스트1 - 시작",
+            "description": "미사용",
+            "steps": [
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
         }
-      ]
-    },
-    {
-      "key": "Q1001",
-      "title": "퀘스트1 - 시작",
-      "description": "미사용"
-    }
-  ]
+    ]
 }

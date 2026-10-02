@@ -1082,6 +1082,216 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2021111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le Trou",
+          "abName": "Huyệt Nhân",
+          "desc": "[CantDuel]\nKhi dùng lần đầu trong Ải, -5 SP phải tiêu hao, -2 Tài Nguyên E.G.O Thờ Ơ, Kiêu Ngạo, Đố Kỵ phải tiêu hao\nỞ mốc 1+ [BulletHole], kích hoạt dưới dạng \"Boucher un trou\"\nKỹ năng này không tấn công kẻ địch, không kích hoạt Kỹ Năng Phòng Thủ của chúng và không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n[EndSkill] Nhận 5 [BulletHole]\n[EndSkill] Nhận 5 Lượng [Breath]\n[EndSkill] Nhận +3 Tầng [Breath]\n[EndSkill] Nhận +5 Tầng [Charge]\n[EndSkill] Nhận 4 [BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Le Trou",
+          "abName": "Huyệt Nhân",
+          "desc": "[CantDuel]\nKhi dùng lần đầu trong Ải, -5 SP phải tiêu hao, -2 Tài Nguyên E.G.O Thờ Ơ, Kiêu Ngạo, Đố Kỵ phải tiêu hao\nở mốc 1+ [BulletHole], kích hoạt dưới dạng \"Boucher un trou\"\nKỹ năng này không tấn công kẻ địch, không kích hoạt Kỹ Năng Phòng Thủ của chúng và không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n[EndSkill] Nhận 5 [BulletHole]\n[EndSkill] Nhận 5 Lượng [Breath]\n[EndSkill] Nhận +3 Tầng [Breath]\n[EndSkill] Nhận +5 Tầng [Charge]\n[EndSkill] Nhận 4 [BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Trou",
+          "abName": "Huyệt Nhân",
+          "desc": "[CantDuel]\nKhi dùng lần đầu trong Ải, -5 SP phải tiêu hao, -2 Tài Nguyên E.G.O Thờ Ơ, Kiêu Ngạo, Đố Kỵ phải tiêu hao\nỞ mốc 1+ [BulletHole], kích hoạt dưới dạng \"Boucher un trou\"\nKỹ năng này không tấn công kẻ địch, không kích hoạt Kỹ Năng Phòng Thủ của chúng và không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n[EndSkill] Nhận 5 [BulletHole]\n[EndSkill] Nhận 5 Lượng [Breath]\n[EndSkill] Nhận +3 Tầng Tầng [Breath]\n[EndSkill] Nhận +5 Tầng [Charge]\n[EndSkill] Nhận 4 [BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Boucher un trou",
+          "abName": "Huyệt Nhân",
+          "desc": "Kỹ năng này không thể tái sử dụng dưới bất kỳ hình thức nào\nSức Mạnh Giao Tranh +1 với mỗi 4 (Lượng [Breath] + Tầng [Charge]) trên chủ thể (tối đa 5)\nSức Mạnh Giao Tranh +2 với mỗi [BulletHole]\n[BeforeAttack] Tiêu toàn bộ [BulletHole] và apply the following effects:\n- Nhận 2 Lượng [Breath], +1 Tầng [Breath], và +2 Tầng [Charge] với mỗi [BulletHole] đã tiêu\n- Gây +8% sát thương với mỗi [BulletHole] đã tiêu\nNếu Kỹ Năng này đã tiêu 5 [BulletHole], hồi 5 SP\n[EndSkill] Nhận 1 [BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Tái Sử Dụng Xu này ([BulletHole] đã tiêu - 1) lần (tối đa 4 lần)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Boucher un trou",
+          "abName": "Huyệt Nhân",
+          "desc": "Kỹ năng này không thể tái sử dụng dưới bất kỳ hình thức nào\n<style=\"highlight\">+5% sát thương gây ra với mỗi Phạm Vi Tấn Công vượt quá Số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Số Bộ Phận)</style>\nSức Mạnh Giao Tranh +1 với mỗi 4 (Lượng [Breath] + Tầng [Charge]) trên chủ thể (tối đa <style=\"highlight\">7</style>)\nSức Mạnh Giao Tranh +2 với mỗi [BulletHole]\n<style=\"highlight\">[BeforeAttack] Khi chỉ tấn công 1 mục tiêu, +50% sát thương gây ra (trong Ải Chuyên Sâu, Lõi và Bộ Phận liên kết được tính là mục tiêu đơn lẻ)</style>\n[BeforeAttack] Tiêu toàn bộ [BulletHole] và gán những hiệu ứng sau:\n- Nhận 2 Lượng [Breath], +1 Tầng [Breath], và +2 Tầng [Charge] với mỗi [BulletHole] đã tiêu\n- Gây +8% sát thương với mỗi [BulletHole] spent\nNếu Kỹ Năng này đã tiêu 5 [BulletHole], hồi 5 SP\n[EndSkill] Nhận 1 [BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Tái Sử Dụng Xu này ([BulletHole] đã tiêu - 1) lần (tối đa 4 lần)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Boucher un trou",
+          "abName": "Huyệt Nhân",
+          "desc": "Kỹ năng này không thể tái sử dụng dưới bất kỳ hình thức nào\n<style=\"highlight\">+10%</style> sát thương gây ra với mỗi Phạm Vi Tấn Công vượt qua Số mục tiêu thực tế (trong Ải Chuyên Sâu, tính theo Số Bộ Phận)\nSức Mạnh Giao Tranh +1 với mỗi 4 (Lượng [Breath] + Tầng [Charge]) trên chủ thể). (Tối đa <style=\"highlight\">10</style>)\nSức Mạnh Giao Tranh +2 với mỗi [BulletHole]\n[BeforeAttack] <style=\"highlight\">+100%</style> sát thương gây ra khi đánh đơn mục tiêu (trong Ải Chuyên Sâu, Lõi và Bộ Phận liên kết được tính là mục tiêu đơn lẻ)</style>\n[BeforeAttack] Tiêu toàn bộ [BulletHole] và gán những hiệu ứng sau:\n- Nhận 2 Lượng [Breath], +1 Tầng [Breath], và +2 Tầng [Charge] với mỗi [BulletHole] đã tiêu\n- Gây +8% sát thương với mỗi [BulletHole] đã tiêu\n<style=\"highlight\">[EndSkill] Gán 5 Lượng [Breath] và +2 Tầng [Breath] cho (2 + Cộng Hưởng Cao Nhất) đồng minh bất kỳ (tối đa 7)</style>\nNếu Kỹ Năng này đã tiêu 5 [BulletHole], hồi 5 SP\n[EndSkill] Nhận 1 [BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "(Tái Sử Dụng Xu này ([BulletHole] đã tiêu - 1) lần (tối đa 4 lần)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021121,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vết Đạn Vô Tình",
+          "abName": "Huyệt Nhân",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nSức Mạnh Giao Tranh +1 với mỗi 4 (Lượng [Breath] + Tầng [Charge]) trên chủ thể (tối đa 5)\n\n[BeforeAttack] Nhận +3 Tầng [Breath] và +5 Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa 15 excess Tầng [Charge] beyond 10 on self to deal +(Tầng [Charge] consumed x 2)% damage\n[BeforeAttack] At tối đa [BulletHole], spend all [BulletHole] để gán các hiệu ứng dưới đây lên đồng minh vào lượt kế:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (một lần mỗi lượt)\n- 1 [CriticalDamageUp] (một lần mỗi lượt)\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n[EndSkill] Nhận 1 [BulletHole] và 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vết Đạn Vô Tình",
+          "abName": "Huyệt Nhân",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nSức Mạnh Giao Tranh +1 với mỗi 4 (Lượng [Breath] + Tầng [Charge]) trên chủ thể (tối đa <style=\"highlight\">7</style>)\n\n[BeforeAttack] Nhận +3 Tầng [Breath] và +5 Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa 15 Tầng [Charge] vượt quá 10 trên chủ thể để +(Tầng [Charge] đã tiêu thụ x <style=\"highlight\">3</style>)% sát thương gây ra\n[BeforeAttack] Ở mốc tối đa [BulletHole], tiêu toàn bộ [BulletHole] để gán các hiệu ứng dưới đây lên đồng minh vào lượt kế:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (một lần mỗi lượt)\n- 1 [CriticalDamageUp] (một lần mỗi lượt)\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n[EndSkill] Nhận 1 [BulletHole] và 2 [BlackWingHole]\n<style=\"highlight\">[EndSkill] Gán 5 Lượng [Breath] và +2 Tầng [Breath] cho (2 + số Cộng Hưởng cao nhất) đồng minh ngẫu nhiên (tối đa 7 đơn vị)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vết Đạn Vô Tình",
+          "abName": "Huyệt Nhân",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nSức Mạnh Giao Tranh +1 với mỗi 4 (Lượng [Breath] + Tầng [Charge]) trên chủ thể (tối đa <style=\"highlight\">10</style>))\n\n[BeforeAttack] Nhận +3 Tầng [Breath] và +5 Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa 15 Tầng [Charge] vượt ngưỡng 10 Tầng mà chủ thể có để +(Tầng [Charge] đã tiêu thụ x <style=\"highlight\">5</style>)% sát thương gây ra\n[BeforeAttack] Khi có số [BulletHole] tối đa, sử dụng toàn bộ [BulletHole] và gán những hiệu ứng sau:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (một lần mỗi lượt)\n- 1 [CriticalDamageUp] (một lần mỗi lượt)\n[BeforeAttack] Sức Mạnh Gốc -3 với mỗi Xu Nứt (tối đa -9)\n[EndSkill] Nhận 1 [BulletHole] và 2 [BlackWingHole]\n[EndSkill] Gán 5 Lượng [Breath], +2 Tầng [Breath], <style=\"highlight\">và 2 [BlackWingHole]</style> cho (2 + Cộng Hưởng Cao Nhất) đồng minh bất kỳ (tối đa 7)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

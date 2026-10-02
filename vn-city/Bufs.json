@@ -4111,7 +4111,7 @@
     {
       "id": "ChargeRougeAlly",
       "name": "Nhịp Đập",
-      "desc": "    \n     \n             <sprite name=\"Charge\"><color=#fac400> </color>  <sprite name=\"Charge\"><color=#fac400> </color>  \n     ",
+      "desc": "    \n     \n             <sprite name=\"Charge\"><color=#fac400> </color>  <sprite name=\"Charge\"><color=#fac400> </color>  \n     \n\n<color=#1aece7>      {2}</color>",
       "summary": "",
       "undefined": "-"
     },
@@ -4130,6 +4130,171 @@
       "summary": "",
       "undefined": "-",
       "flavor": "Though she has emerged from the cocoon, she has failed to truly metamorphose—as that process involves the disintegration of the self. Still, the process has managed to boost her physical abilities."
+    },
+    {
+      "id": "EmpathicDistressAlly",
+      "name": "Cảm Quan Đứt Đoạn",
+      "desc": "     \n            <sprite name=\"Vibration\"><color=#ff0000> </color>         \n            <sprite name=\"Vibration\"><color=#ff0000>              \n           <sprite name=\"Vibration\"><color=#ff0000>           ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The fracturing occurs when one first recognizes the incongruity between the forms of the body and the heart."
+    },
+    {
+      "id": "PersonalityVibration",
+      "name": "Danh Tính Chấn Động",
+      "desc": "             <sprite name=\"Vibration\"><color=#ff0000> </color>     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityBreath",
+      "name": "Danh Tính Sắc Bén",
+      "desc": "               <sprite name=\"Breath\"><color=#fac400> </color>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityCharge",
+      "name": "Danh Tính Năng Lượng",
+      "desc": "               <sprite name=\"Charge\"><color=#fac400> </color>     ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChargeKhakiAlly",
+      "name": "Quán Tính Trôi Dạt",
+      "desc": "    \n    \n             <sprite name=\"Charge\"><color=#fac400> </color>  <sprite name=\"Charge\"><color=#fac400> </color>  \n     \n\n<color=#1aece7>      {2}</color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Those who are carried by the tide like buoys may not be able to change the flow of things, but they can still bolster the tide and commit to their acts within."
+    },
+    {
+      "id": "NoirScissorAlly",
+      "name": "Nét Cắt",
+      "desc": "     \n                       <sprite name=\"AttackUp\"><color=#fac400>   </color>       ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A cutting mark used to trim fabric and other materials to the required measurements."
+    },
+    {
+      "id": "NoirScissorCut",
+      "name": "Lưỡi Kéo Đơm Hoa",
+      "desc": "     \n       ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The scissors used to sever the primordial materials produced underground are larger and more extraordinary still. These scissors have cut and recut the very first cloth ever woven. That flowers should bloom from them is only natural, for they have always cut things at their very roots."
+    },
+    {
+      "id": "SupportAlly",
+      "name": "Lưỡng Cực",
+      "desc": "         \n                      \n                          \n             ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportEnemy",
+      "name": "Lưỡng Cực",
+      "desc": "       \n                 \n                          \n             ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoirScissorShield",
+      "name": "Tiếng Kéo Thứ Hai là Sự Hoan Nghên",
+      "desc": "     \n        \n                    \n                   \n      ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A pair of scissors becomes one through two, and makes two of what was one."
+    },
+    {
+      "id": "BlackWingHoleFaust",
+      "name": "Hắc Dù",
+      "desc": "     ",
+      "summary": ""
+    },
+    {
+      "id": "BulletWoundHole",
+      "name": "Vết Thương Do Đạn",
+      "desc": "",
+      "summary": ""
+    },
+    {
+      "id": "BulletHole",
+      "name": "Đạn Tro Tàn",
+      "desc": "   \n     \n                      ",
+      "summary": ""
+    },
+    {
+      "id": "BlackWingHole",
+      "name": "Hắc Dực",
+      "desc": "     \n        <sprite name=\"Charge\"><color=#fac400> </color>   \n     <sprite name=\"AttackUp\"><color=#fac400>   </color>    \n           <sprite name=\"Charge\"><color=#fac400> </color>  <sprite name=\"Breath\"><color=#fac400> </color>     ",
+      "summary": ""
+    },
+    {
+      "id": "OathFieldDonQuixote",
+      "name": "Thánh Địa Trường Tồn",
+      "desc": "     \n            \n  ·            <sprite name=\"ChargeNoir\"><color=#fac400> </color>                  \n\n                \n  ·     <sprite name=\"ChargeNoir\"><color=#fac400> </color>           \n  ·     <sprite name=\"ChargeNoir\"><color=#fac400> </color>           \n\n           \n  ·                        \n  ·       <sprite name=\"VibrationExplosion\"><color=#e20000>   </color> \n  ·           <sprite name=\"Charge\"><color=#fac400> </color>                      \n\n     ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A sanctuary in which the value of conservation pursued by Le Noir is preserved. Within it, the Noirs' preservative actions are retained to their benefit. It is a realm of eternal conservation—a place that stirs the drive to infinitely approach death."
+    },
+    {
+      "id": "NoirShieldUpDonQuixote",
+      "name": "Phước Lành của Hắc Diệu Thần",
+      "desc": "     \n                 \n                  <sprite name=\"SuperCoin\"><color=#9f6a3a>  </color>\n                ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Obsidian God. The Obsidian Giant. The Chaplain of the Hammer. The Obsidian God of the Grand Magasin, whose domain is the power of preservation, grants his blessing through direct contact. The hammer is hard, and its black hue absorbs all things and brings them to a halt... much like death itself."
+    },
+    {
+      "id": "NoirNailDonQuixote",
+      "name": "Đinh Thánh Thệ Ước",
+      "desc": "     \n     <sprite name=\"VibrationExplosion\"><color=#e30000>   </color>                      \n         <sprite name=\"Binding\"><color=#e30000> </color>   \n                   ",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The promised hammer is bound by promise to drive in a nail. Therefore, whenever the hammer falls, a nail must exist there... even if there is none."
+    },
+    {
+      "id": "PersonalityCombustion",
+      "name": "Danh Tính Thiêu Đốt",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityLaceration",
+      "name": "Danh Tính Chảy Máu",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityBurst",
+      "name": "Danh Tính Vỡ Vụn",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalitySinking",
+      "name": "Danh Tính Sa Lầy",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Tiphereth_Heads",
+      "name": "Kỳ Vọng Của Tiphereth",
+      "desc": "                                  \n      ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Tiphereth_Tails",
+      "name": "Kỳ Vọng Của Tiphereth [Phản Chiếu]",
+      "desc": "                                  \n      ",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }

@@ -911,6 +911,268 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2091011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xúc Giác Phản Chiếu",
+          "abName": "Tâm Trí Phiêu Bạt",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 6 (Lượng [Breath] trên chủ thể + Lượng [Vibration] trên mục tiêu chính) (tối đa 2)\n[BeforeAttack] Nhận (2 + số Cộng Hưởng cao nhất) [Breath] (tối đa 8)\n[BeforeAttack] Nhận +2 Tầng [Breath]\n[EndSkill] Gây ngẫu nhiên (1 + số Cộng Hưởng cao nhất) [EmpathicDistressAlly] lên các mục tiêu, 1 Lớp mỗi lần (tối đa 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xúc Giác Phản Chiếu",
+          "abName": "Tâm Trí Phiêu Bạt",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 6 (Lượng [Breath] trên chủ thể + Lượng [Vibration] trên mục tiêu chính) (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] Nhận (<style=\"highlight\">3</style> + số Cộng Hưởng cao nhất) [Breath] (tối đa 8)\n[BeforeAttack] Nhận +<style=\"highlight\">3</style> Tầng [Breath]\n[EndSkill] Gây ngẫu nhiên (1 + số Cộng Hưởng cao nhất) [EmpathicDistressAlly] lên các mục tiêu, 1 Lớp mỗi lần (tối đa 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xúc Giác Phản Chiếu",
+          "abName": "Tâm Trí Phiêu Bạt",
+          "desc": "Sức Mạnh Giao Tranh +1 với mỗi 6 (Lượng [Breath] trên chủ thể + Lượng [Vibration] trên mục tiêu chính) (tối đa <style=\"highlight\">4</style>)\n[BeforeAttack] Nhận (<style=\"highlight\">4</style> + số Cộng Hưởng cao nhất) [Breath] (tối đa 8)\n[BeforeAttack] Nhận +<style=\"highlight\">4</style> Tầng [Breath]\n[EndSkill] Gây ngẫu nhiên (1 + số Cộng Hưởng cao nhất) [EmpathicDistressAlly] lên các mục tiêu, 1 Lớp mỗi lần (tối đa 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">+3</style> Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Xúc Giác Phản Chiếu",
+          "abName": "Tâm Trí Phiêu Bạt",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nSức Mạnh Giao Tranh +1 với mỗi 6 (Lượng [Breath] trên chủ thể + Lượng [Vibration] trên mục tiêu chính) (tối đa 2)\n[BeforeAttack] Nhận (2 + số Cộng Hưởng cao nhất) [Breath] (tối đa 10)\n[BeforeAttack] Nhận +2 Tầng [Breath]\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -12)\n[BeforeAttack] Ở mốc 10+ Tầng [Breath], tiêu thụ 4 Tầng [Breath] trên chủ thể và +20% sát thương gây ra khi Trí Mạng lên mục tiêu chính\n[EndSkill] Gây ngẫu nhiên (1 + số Cộng Hưởng cao nhất) [EmpathicDistressAlly] lên các mục tiêu, 1 Lớp mỗi lần (tối đa 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ Tầng [Vibration], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ Tầng [Vibration], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Xúc Giác Phản Chiếu",
+          "abName": "Tâm Trí Phiêu Bạt",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nSức Mạnh Giao Tranh +1 với mỗi 6 (Lượng [Breath] trên chủ thể + Lượng [Vibration] trên mục tiêu chính) (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] Nhận (<style=\"highlight\">3</style> + số Cộng Hưởng cao nhất) [Breath] (tối đa 10)\n[BeforeAttack] Nhận +<style=\"highlight\">3</style> Tầng [Breath]\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -12)\n[BeforeAttack] Ở mốc 10+ Tầng [Breath], tiêu thụ 4 Tầng [Breath] trên chủ thể và +<style=\"highlight\">30</style>% sát thương gây ra khi Trí Mạng lên mục tiêu chính\n[EndSkill] Gây ngẫu nhiên (1 + số Cộng Hưởng cao nhất) [EmpathicDistressAlly] lên các mục tiêu, 1 Lớp mỗi lần (tối đa 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ Tầng [Vibration], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ Tầng [Vibration], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây +1 Tầng [Vibration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Xúc Giác Phản Chiếu",
+          "abName": "Tâm Trí Phiêu Bạt",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nSức Mạnh Giao Tranh +1 với mỗi 6 (Lượng [Breath] trên chủ thể + Lượng [Vibration] trên mục tiêu chính) (tối đa <style=\"highlight\">4</style>)\n[BeforeAttack] Nhận (<style=\"highlight\">4</style> + số Cộng Hưởng cao nhất) [Breath] (tối đa 10)\n[BeforeAttack] Nhận +<style=\"highlight\">4</style> Tầng [Breath]\n[BeforeAttack] Sức Mạnh Gốc -4 với mỗi Xu Nứt (tối đa -12)\n[BeforeAttack] Ở mốc 10+ Tầng [Breath], tiêu thụ 4 Tầng [Breath] trên chủ thể và +<style=\"highlight\">40</style>% sát thương gây ra khi Trí Mạng lên mục tiêu chính\n[EndSkill] Gây ngẫu nhiên (1 + số Cộng Hưởng cao nhất) [EmpathicDistressAlly] lên các mục tiêu, 1 Lớp mỗi lần (tối đa 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">5</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ Tầng [Vibration], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 4+ Tầng [Vibration], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +<style=\"highlight\">2</style> Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

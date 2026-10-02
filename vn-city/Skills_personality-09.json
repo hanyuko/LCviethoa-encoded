@@ -3596,6 +3596,296 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1091701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Retouche",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] Nếu mục tiêu là đồng minh, gán +3 Tầng [Charge] và 1 [AttackUp]\n[EndSkill] Nếu mục tiêu là đồng minh, kích hoạt các hiệu ứng dưới đây (một lần mỗi lượt):\n- Gán Khiên bằng 5% HP tối đa của chủ thể (tối thiểu 1)\n- Gán 1 [NoirScissorShield]\n- Nếu mục tiêu là [PersonalityCharge], gán 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Retouche",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] Nếu mục tiêu là đồng minh, gán +<style=\"highlight\">4</style> Tầng [Charge] và 1 [AttackUp]\n[EndSkill] Nếu mục tiêu là đồng minh, kích hoạt các hiệu ứng dưới đây (một lần mỗi lượt):\n- Gán Khiên bằng 5% HP tối đa của chủ thể (tối thiểu 1)\n- Gán 1 [NoirScissorShield]\n- Nếu mục tiêu là [PersonalityCharge], gán 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Retouche",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] Nếu mục tiêu là đồng minh, gán +4 Tầng [Charge] và 1 [AttackUp]\n[EndSkill] Nếu mục tiêu là đồng minh, kích hoạt các hiệu ứng dưới đây <style=\"highlight\">(2 lần mỗi lượt)</style>:\n- Gán Khiên bằng <style=\"highlight\">10%</style> HP tối đa của chủ thể (tối thiểu 1)\n- Gán 1 [NoirScissorShield]\n- Nếu mục tiêu là [PersonalityCharge], gán <style=\"highlight\">2</style> [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cố Định rồi Cắt theo Đường May",
+          "desc": "[StartBattle] Gán các hiệu ứng dưới đây cho 1 đồng minh khác có Thứ Tự Triển Khai sớm nhất (ưu tiên [PersonalityCharge]; một lần mỗi lượt):\n- Gán 2 [AttackUp]\n- Gán Khiên bằng 5% HP tối đa của chủ thể (tối thiểu 1)\n- Nếu Danh Tính đó là [PersonalityCharge], gán thêm 1 [AttackUp] và Khiên bằng 5% HP tối đa của chủ thể\n\n[WhenUse] Nếu mục tiêu có 6+ Lượng [Vibration], Sức Mạnh Xu +1\n[WhenUse] Tiêu thụ 5 Tầng [ChargeKhakiAlly] để nhận Sức Mạnh Tổng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +6 Tầng [ChargeKhakiAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Cố Định rồi Cắt theo Đường May",
+          "desc": "[StartBattle] Gán các hiệu ứng dưới đây cho <style=\"highlight\">chủ thể và</style> 1 đồng minh khác có Thứ Tự Triển Khai sớm nhất (ưu tiên [PersonalityCharge]; một lần mỗi lượt):\n- Gán 2 [AttackUp]\n- Gán Khiên bằng 5% HP tối đa của chủ thể (tối thiểu 1)\n- Nếu Danh Tính đó là [PersonalityCharge], gán thêm 1 [AttackUp] và Khiên bằng 5% HP tối đa của chủ thể\n\n[WhenUse] Nếu mục tiêu có 6+ Lượng [Vibration], Sức Mạnh Xu +1\n[WhenUse] Tiêu thụ 5 Tầng [ChargeKhakiAlly] để nhận Sức Mạnh Tổng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +6 Tầng [ChargeKhakiAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cố Định rồi Cắt theo Đường May",
+          "desc": "[StartBattle] Gán các hiệu ứng dưới đây cho chủ thể, 1 đồng minh khác có Thứ Tự Triển Khai sớm nhất (ưu tiên [PersonalityCharge]), <style=\"highlight\">và 1 đồng minh có phần trăm HP hiện tại thấp nhất</style> (một lần mỗi lượt):\n- Gán 2 [AttackUp]\n- Gán Khiên bằng 5% HP tối đa của chủ thể (tối thiểu 1)\n- If the said ally is [PersonalityCharge], gán thêm 1 [AttackUp] và Khiên bằng 5% HP tối đa của chủ thể\n\n<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 6 Lượng [Vibration] trên mục tiêu (tối đa 2)</style>\n[WhenUse] Tiêu thụ 5 Tầng [ChargeKhakiAlly] để nhận Sức Mạnh Tổng +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +6 Tầng [ChargeKhakiAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [AmberResistDown] (một lần mỗi lượt)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Coupez dans le Biais",
+          "desc": "+15% sát thương gây ra với mỗi [NoirScissorCut] trên chủ thể (tối đa 30%)\n\n[StartBattle] Gán các hiệu ứng dưới đây cho 1 đồng minh khác có Thứ Tự Triển Khai sớm nhất (ưu tiên [PersonalityCharge]) và 1 đồng minh có phần trăm HP hiện tại thấp nhất (một lần mỗi lượt):\n- Gán 1 [NoirScissorShield]\n- Gán Khiên bằng 5% HP tối đa của chủ thể (tối thiểu 1)\n\n[WhenUse] Nếu mục tiêu có 6+ Lượng [Vibration], Sức Mạnh Xu +1\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 3 Lượng [ChargeKhakiAlly] (tối đa 2)\n[WhenUse] Tiêu thụ 5 Tầng [ChargeKhakiAlly] để nhận Sức Mạnh Tổng +2\n\n[EndSkill] Nhận +5 Tầng [ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirScissorAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirScissorAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 5+ Tầng [ChargeKhakiAlly], tiêu thụ 5 Tầng [ChargeKhakiAlly] để kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Coupez dans le Biais",
+          "desc": "<style=\"highlight\">+30%</style> sát thương gây ra với mỗi [NoirScissorCut] trên chủ thể <style=\"highlight\">(tối đa 60%)</style>\n\n[StartBattle] Gán các hiệu ứng dưới đây cho chủ thể, 1 đồng minh khác có Thứ Tự Triển Khai sớm nhất (ưu tiên [PersonalityCharge]), và 1 đồng minh có phần trăm HP hiện tại thấp nhất (một lần mỗi lượt):\n- Gán 1 [NoirScissorShield]\n- Gán Khiên bằng <style=\"highlight\">10%</style> HP tối đa của chủ thể (tối thiểu 1)\n\n<style=\"highlight\">[WhenUse] Sức Mạnh Xu +1 với mỗi 6 Lượng [Vibration] trên mục tiêu (tối đa 2)</style>\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 3 Lượng [ChargeKhakiAlly] (tối đa 2)\n[WhenUse] Tiêu thụ 5 Tầng [ChargeKhakiAlly] để nhận Sức Mạnh Tổng +2\n\n[EndSkill] Nhận +5 Tầng [ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirScissorAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirScissorAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 5+ Tầng [ChargeKhakiAlly], tiêu thụ 5 Tầng [ChargeKhakiAlly] để kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tỉa Vải",
+          "desc": "[DuelCounter]\n[StartBattle] Nhận +5 Tầng [ChargeKhakiAlly] (2 lần mỗi lượt)\n[StartBattle] Gán Khiên bằng 5% HP tối đa của chủ thể cho chủ thể và 2 đồng minh khác có phần trăm HP hiện tại thấp nhất (tối thiểu 1, một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tỉa Vải",
+          "desc": "[DuelCounter]\n[StartBattle] Nhận +5 Tầng [ChargeKhakiAlly] (2 lần mỗi lượt)\n[StartBattle] Gán Khiên bằng <style=\"highlight\">10%</style> HP tối đa của chủ thể cho chủ thể và 2 đồng minh khác có phần trăm HP hiện tại thấp nhất (tối thiểu 1, một lần mỗi lượt)\n\n<style=\"highlight\">[WhenUse] Sức Mạnh Giao Tranh +1 với mỗi 5 Tầng [ChargeKhakiAlly] (tối đa 4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "May Theo Mẫu",
+          "desc": "[CantDuel]\n[WhenUse] Nhận +3 Tầng [ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ở mốc 3+ Lượng [ChargeKhakiAlly], Tái Sử Dụng Xu này (một lần mỗi Kỹ Năng)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +1 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirScissorAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cắt Vải",
+          "desc": "[CantDuel]\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 3 Lượng [ChargeKhakiAlly] (tối đa 2)\n[WhenUse] Nhận +5 Tầng [ChargeKhakiAlly]\n\n[EndSkill] Tiêu thụ 2 [NoirScissorAlly] trên mục tiêu\n[EndSkill] Nhận 1 [NoirScissorCut]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -615,6 +615,28 @@
       "id": 2121011,
       "name": "Quy Trình Chuyển Đổi Nhập Cảnh",
       "desc": "Ở mốc 3+ Cộng Hưởng cao nhất: Khi Đánh Trúng bằng Kỹ Năng, gây 1 [Binding] lên mục tiêu chính vào lượt kế (1 lần mỗi lượt)\n\nỞ mốc 3+ Lượng [Charge], các Kỹ Năng Cơ Bản dưới đây +10% sát thương gây ra:\n- Kỹ Năng Cơ Bản có tiêu hoặc nhận Tầng [Charge]\n- Kỹ Năng Cơ Bản gây Lượng hoặc Tầng [Combustion] lên kẻ địch"
+    },
+    {
+      "id": 2061011,
+      "name": "The City Where No One Can Hurt Another",
+      "desc": "Max [Charge] Count +5\n\nSkill 3 (except E.G.O Skills) that consume [Charge] Count or Unique [Charge] deals +10% damage\n\nTurn End: If this unit was not hit this turn, heal 4 SP\n- If this unit has 2+ Minus Coin Base Attack Skills, lose 4 SP instead (this effect cannot reduce this unit's SP below -40)"
+    },
+    {
+      "id": 2091011,
+      "name": "Schismatic Stereognosis",
+      "desc": "When this unit gains [Breath] Potency or Count, gain +1 [Breath] Count (2 times per turn)\n\nIf this unit is a [PersonalityBreath] or a [PersonalityVibration], Base Skills that have 1 base Atk Weight or are [WideAreaRampage] deal +10% damage\n\nAt Attack End, if target is Staggered or defeated, randomly inflict 1/3 of [Vibration] Potency on target between other random enemies next turn (rounded up; for Focused Encounters, Parts)\n- This effect does not stack with the effects of the E.G.O Gift \"Mirror Tactile Synaesthesia\""
+    },
+    {
+      "id": 2021111,
+      "name": "Le Trou de Vidange",
+      "desc": "Nếu chủ thể có 5 [BulletHole], không tiêu hao Tài Nguyên E.G.O khi sử dụng \"Vết Đạn Vô Tình\" (bất kể Thức Tỉnh hay Ăn Mòn)\n\nĐầu Lượt: Nhận 1 [BulletHole] và 1 [BlackWingHole]\n\nKhi đồng minh hạ gục kẻ thù, đồng minh đó hồi 5 SP và nhận 1 [Enhancement] vào lượt kế. (1 lần mỗi lượt)\n\n+5 Tầng [Charge] tối đa\n\nKhi chủ thể nhận Tầng [Charge] vượt ngưỡng tối đa, nhận ngẫu nhiên [Charge], nhận ngẫu nhiên Lượng hoặc Tầng [Breath] bằng với Tầng [Charge] dư ra đã nhận. (Chuyển hóa tối đa 6 tầng [Charge] mỗi lượt)",
+      "flavor": "Chỉ có tự thân sự trống rỗng, mà không phải bất kỳ sự xuyên thấu nào, mới có thể tạo nên vực sâu.\nMọi thứ từ vực sâu tuôn trào ra khắp nơi, thay vì khát vọng nguyên thủy được lấp đầy của nó."
+    },
+    {
+      "id": 2051011,
+      "name": "L'Hémorragie interne",
+      "desc": "[AlwaysUseEGOPassive]\nNếu chủ thể có 5 [BulletHole], không tiêu hao Tài Nguyên E.G.O khi sử dụng \"Hố Đen Vô Vọng\". (bất kể Thức Tỉnh hay Ăn Mòn)\n\nĐầu Lượt: Nhận 1 [BulletHole]\n\n[WhenUseEGOPassive]\nĐầu Lượt: Nhận 1 [BlackWingHole]\n\nMỗi khi chủ thể tiêu thụ hoặc mất 3 [Bullet], hồi 5 SP và nhận 1 [ResultEnhancement] vào lượt kế (bao gồm [Bullet] Đặc Trưng; tối đa 9 [Bullet] mỗi lượt)",
+      "flavor": "Ánh mắt của kẻ khác găm chặt vào tôi, khoét rỗng một khoảng sâu khiến vạn thứ bên trong tuôn trào tựa thác đổ.\nDòng thác trào dâng ấy đúc kết thành viên đạn, xuyên thủng ngươi, tạo ra một lỗ huyệt sâu thẳm."
     }
   ]
 }

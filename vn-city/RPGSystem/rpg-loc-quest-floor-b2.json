@@ -1,212 +1,310 @@
 {
-  "dataList": [
-    {
-      "key": "Q-2000",
-      "title": "Explore B2F",
-      "description": "We've reached B2F. Let's keep moving.",
-      "steps": [
+    "dataList": [
         {
-          "index": 0,
-          "goalDescription1": "Explore B2F"
-        }
-      ]
-    },
-    {
-      "key": "Q-2001",
-      "title": "Head to the Skein Nest",
-      "description": "We've made it down to B2F. Kromer's older sister mentioned a place called the Skein Nest. Let's head to the left.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Head to the Skein Nest to the Left"
-        }
-      ]
-    },
-    {
-      "key": "Q-2002",
-      "title": "Leave the Restroom",
-      "description": "We tried to reach the Skein Nest, but a massive monster chased us down and killed us. It seemed to be after the Golden Cocoon we're carrying. For now, let's leave the Restroom and figure out another way through.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Leave the Restroom"
-        }
-      ]
-    },
-    {
-      "key": "Q-2003",
-      "title": "Head to the Skein Nest (2)",
-      "description": "Looks like the monster has stepped away for the moment. Let's use this chance to make another run for the Skein Nest.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Head Back to the Skein Nest"
-        }
-      ]
-    },
-    {
-      "key": "Q-2004",
-      "title": "Talk to B2F's Floor Manager",
-      "description": "We made it safely to the Skein Nest. B2F's Floor Manager is here. Let's ask whether the Golden Cocoon can be spun into Golden Thread.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Talk to the B2F's Floor Manager"
-        }
-      ]
-    },
-    {
-      "key": "Q-2005",
-      "title": "Head to the Dyehouse",
-      "description": "The Floor Manager says Golden Dye is needed to make Golden Thread. Someone named Palette in the Dyehouse should be able to help. We should leave through the corridor, then head upward to find the Dyehouse.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Head to the Dyehouse"
-        }
-      ]
-    },
-    {
-      "key": "Q-2006",
-      "title": "소문 수집/미사용",
-      "description": "Let's eavesdrop on the customers at work and gather information.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Ask a Working Customer"
+            "key": "Q-2000",
+            "title": "Khám Phá TB2",
+            "description": "Chúng tôi đã xuống TB2. Tiếp tục di chuyển thôi.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Khám Phá TB2",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
         },
         {
-          "index": 1,
-          "goalDescription1": "Ask a Working Customer"
-        }
-      ]
-    },
-    {
-      "key": "Q-2007",
-      "title": "Find Naked and Negotiate",
-      "description": "The wait for Golden Dye is absurdly long. Apparently, a Noir named Naked has the earliest place in line. Let's find Naked and see if we can negotiate for his place in the queue.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Find Naked and Negotiate"
-        }
-      ]
-    },
-    {
-      "key": "Q-2008",
-      "title": "깊은 바다 염료 소문 수집/미사용",
-      "description": "",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Ask the Queued Noir"
-        }
-      ]
-    },
-    {
-      "key": "Q-2009",
-      "title": "Ask Palette for L'Incolore Dye",
-      "description": "Naked has no intention of giving up the Golden Dye for free. He'll trade it for a dye called L'Incolore instead. Let's return to Palette and ask if she can make some.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Ask Palette for L'Incolore Dye"
-        }
-      ]
-    },
-    {
-      "key": "Q-2010",
-      "title": "Burst the Tears at the Dye Storage",
-      "description": "Luckily, Palette says she can make L'Incolore right away. In exchange, she wants us to burst Tears of different colors. They can apparently be found in the Dye Storage to the right. Collect 2 Yellow, 2 Red, and 2 Blue Dye, then bring them back to Palette.",
-      "steps": [
-        {
-          "index": 0,
-          "goalDescription1": "Collect the Yellow Dye",
-          "goalDescription2": "Collect the Red Dye",
-          "goalDescription3": "Collect the Blue Dye"
+            "key": "Q-2001",
+            "title": "Tới Tổ Dệt Chỉ",
+            "description": "Chúng tôi đã xuống TB2. Chị gái của Kromer có đề cập tới một nơi gọi là Tổ Dệt Chỉ. Thử qua bên trái xem thử.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Tới Tổ Dệt Chỉ ở bên Trái",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
         },
         {
-          "index": 1,
-          "goalDescription1": "Bring the Dyes to Palette"
-        }
-      ]
-    },
-    {
-      "key": "Q-2011",
-      "title": "Trade with Naked for Golden Dye",
-      "description": "Palette gave us the L'Incolore. I can't see any color in it at all, but... let's bring it to Naked and see if he'll trade us the Golden Dye.",
-      "steps": [
+            "key": "Q-2002",
+            "title": "Rời Nhà Vệ Sinh",
+            "description": "Trên đường tới Tổ Dệt Chỉ, một con quái vật khổng lồ đã truy đuổi và giết chúng tôi. Có lẽ nó nhắm tới cái Kén Vàng mà chúng tôi đang mang theo. Hiện tại cứ rời khỏi Nhà Vệ Sinh và nghĩ cách khác xem sao.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Rời Nhà Vệ Sinh",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Trade L'Incolore for Golden Dye with Naked"
-        }
-      ]
-    },
-    {
-      "key": "Q-2012",
-      "title": "황금염료/미사용",
-      "description": "We should collect the Golden Dye from Palette.",
-      "steps": [
+            "key": "Q-2003",
+            "title": "Tới Tổ Dệt Chỉ (2)",
+            "description": "Có vẻ con quái vật đã tạm rời đi rồi. Hãy tận dụng cơ hội này để chạy thẳng qua Tổ Dệt Chỉ nào.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Quay lại Tổ Dệt Chỉ",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Collect the Golden Dye from Palette"
-        }
-      ]
-    },
-    {
-      "key": "Q-2013",
-      "title": "Return to the B2F Floor Manager",
-      "description": "Thanks to Outis's eloquent requisition effort, Naked finally agreed to hand over the Golden Dye. Let's take it to the B2F Floor Manager.",
-      "steps": [
+            "key": "Q-2004",
+            "title": "Nói chuyện với Quản Lý Tầng B2",
+            "description": "Chúng tôi đã tới Tổ Dệt Chỉ an toàn. Quản Lý Tầng B2 ở đây. Thử hỏi xem có cách nào để kéo Kén Vàng thành Sợi Chỉ Vàng không.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Nói với Quản Lý Tầng B2",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Return to the B2F Floor Manager"
-        }
-      ]
-    },
-    {
-      "key": "Q-2014",
-      "title": "Hold off the Intruders",
-      "description": "While we were waiting for the Golden Cocoon to be spun into thread, we heard the sound of someone approaching from the corridor. They are probably after the Golden Skein. Hold the corridor entrance until the spinning is complete.",
-      "steps": [
+            "key": "Q-2005",
+            "title": "Tới Xưởng Nhuộm",
+            "description": "Để tạo ra Sợi Chỉ Vàng, Quản Lý Tầng nói chúng tôi cần Màu Nhuộm Vàng. Người tên Palette ở Xưởng Nhuộm có thể giúp việc này. Chúng tôi nên rời khỏi đây và đi về phía Xưởng Nhuộm bên trên.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Thẳng tiến tới Xưởng Nhuộm",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Hold off the Intruders"
-        }
-      ]
-    },
-    {
-      "key": "Q-2015",
-      "title": "Collect the Completed Golden Skein",
-      "description": "The unknown creature is down. Let's return to the B2F Floor Manager and collect the finished Golden Skein.",
-      "steps": [
+            "key": "Q-2006",
+            "title": "소문 수집/미사용",
+            "description": "Nghe lén khách hàng và thu thập thêm thông tin.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Hỏi một Khách Hàng Đang Làm Việc",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": 1.0,
+                    "goalDescription1": "Hỏi một Khách Hàng Đang Làm Việc"
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Collect the Finished Golden Skein from the B2F Floor Manager"
-        }
-      ]
-    },
-    {
-      "key": "Q-2016A",
-      "title": "Leave B2F",
-      "description": "We have the finished Golden Skein. Looks like we're done here. Time to leave B2F.",
-      "steps": [
+            "key": "Q-2007",
+            "title": "Tìm Noir họ Trần và Đàm Phán",
+            "description": "Hàng đợi Màu Nhuộm Vàng dài tới mức lố bịch. Nghe nói có một Noir họ Trần đang ở đầu hàng. Tìm anh này và thử đàm phán xem có cách nào đổi lấy chỗ của anh ta trong hàng không.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Tìm Noir họ Trần và Đàm Phán",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Leave B2F"
-        }
-      ]
-    },
-    {
-      "key": "Q-2017",
-      "title": "Head to 3F",
-      "description": "Time to head up to 3F and see if the Golden Skein can be woven into Golden Fabric.",
-      "steps": [
+            "key": "Q-2008",
+            "title": "깊은 바다 염료 소문 수집/미사용",
+            "description": "",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Hỏi Noir Đang Xếp Hàng",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
         {
-          "index": 0,
-          "goalDescription1": "Take the Escalator to 3F"
+            "key": "Q-2009",
+            "title": "Hỏi Palette về Màu Nhuộm L'Incolore",
+            "description": "Trần Như Nhộng không dễ dàng từ bỏ Màu Nhuộm Vàng. Anh ta muốn đổi nó với một màu nhuộm tên L'Incolore. Hãy quay lại chỗ Palette và hỏi xem cô ấy có thể làm chút màu nhuộm đó không.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Hỏi Palette về Màu Nhuộm L'Incolore",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q-2010",
+            "title": "Phá Lệ tại Kho Màu Nhuộm",
+            "description": "May mắn thay, Palette nói cô ấy có thể làm màu nhuộm L'Incolore ngay lập tức. Để trao đổi lấy nó, chúng tôi cần phá nhiều màu Lệ khác nhau. Lệ có thể tìm thấy ở trong Kho Màu Nhuộm bên phải. Thu thập 2 Vàng, 2 Đỏ, 2 Xanh và mang đống màu nhuộm đó cho Palette.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Thu thập Màu Nhuộm Vàng",
+                    "goalDescription2": "Thu thập Màu Nhuộm Đỏ",
+                    "goalDescription3": "Thu thập Màu Nhuộm Xanh"
+                },
+                {
+                    "index": 1.0,
+                    "goalDescription1": "Mang Màu Nhuộm tới cho Palette"
+                }
+            ]
+        },
+        {
+            "key": "Q-2011",
+            "title": "Trao đổi Màu Nhuộm Vàng với Nhộng",
+            "description": "Palette đưa chúng tôi L'Incolore. Dù tôi chẳng thấy tí màu nào cả nhưng... cứ mang nó cho Trần Như Nhộng và xem thử anh ta có muốn trao đổi nó với Màu Nhuộm Vàng hay không.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Trao đổi Màu Nhuộm Vàng của Nhộng với L'Incolore.",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q-2012",
+            "title": "황금염료/미사용",
+            "description": "Chúng ta nên nhận Màu Nhuộm Vàng từ Palette.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Thu Thập Màu Nhuộm Vàng từ Palette",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q-2013",
+            "title": "Trở về báo cáo với Quản Lý Tầng B2",
+            "description": "Nhờ tài thuyết phục khéo léo của Outis, Trần Như Nhộng đã đồng ý với thỏa thuận và đưa chúng tôi Màu Nhuộm Vàng. Giờ hãy mang nó cho Quản Lý Tầng B2 nào.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Trở về chỗ Quản Lý Tầng B2",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q-2014",
+            "title": "Đá đít Đám Xâm Nhập",
+            "description": "Khi chúng tôi đợi Kén Vàng được kéo thành sợi, chúng tôi nghe thấy tiếng kẻ nào đó đang lao tới từ phía hành lang. Có lẽ tên này nhắm tới Cuộn Chỉ Vàng đây. Hãy chặn đứng kẻ này ở lối vào hành lang cho tới khi quá trình kéo sợi hoàn tất.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Đá đít Đám Xâm Nhập",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q-2015",
+            "title": "Nhận Cuộn Chỉ Vàng Hoàn Thiện",
+            "description": "Đã hạ gục thực thể bí ẩn. Hãy trở về chỗ Quản Lý Tầng B2 và nhận Cuộn Chỉ Vàng vừa được kéo sợi.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Nhận Sợi Chỉ Vàng Hoàn Thiện từ Quản Lý Tầng B2",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q-2016A",
+            "title": "Rời TB2",
+            "description": "Chúng ta đã có Cuộn Chỉ Vàng hoàn thiện. Mọi sự đã thành. Giờ là lúc rời khỏi đây.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Rời TB2",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
+        },
+        {
+            "key": "Q-2017",
+            "title": "Lên Tầng 3",
+            "description": "Giờ hãy lên lại T3 và xem Cuộn Chỉ Vàng có thể được dệt thành Vải Vàng hay không.",
+            "steps": [
+                {
+                    "index": 0,
+                    "goalDescription1": "Đi Thang Cuốn Lên Tầng 3",
+                    "goalDescription2": "",
+                    "goalDescription3": ""
+                },
+                {
+                    "index": "",
+                    "goalDescription1": ""
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

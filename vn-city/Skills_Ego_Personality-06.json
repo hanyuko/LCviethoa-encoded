@@ -1150,6 +1150,166 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2061011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lời Cự Tuyệt",
+          "abName": "Cư Dân của Metropolaris",
+          "desc": "[BeforeAttack] Nhận +1 Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa 6 Tầng [Charge] trên chủ thể; rồi gán 5 [ChargeForceField] cho chủ thể và cho (1 + (Tầng [Charge] đã tiêu thụ / 2)) đồng minh ngẫu nhiên khác (tối đa 5 đơn vị; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lời Cự Tuyệt",
+          "abName": "Cư Dân của Metropolaris",
+          "desc": "<style=\"highlight\">[WhenUse] Nhận Sức Mạnh Giao Tranh bằng Lượng [Charge] trên chủ thể (tối đa 2)</style>\n[BeforeAttack] Nhận +<style=\"highlight\">3</style> Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa <style=\"highlight\">8</style> Tầng [Charge] trên chủ thể; rồi gán 5 [ChargeForceField] cho chủ thể và cho (1 + (Tầng [Charge] đã tiêu thụ / 2)) đồng minh ngẫu nhiên khác (tối đa <style=\"highlight\">6</style> đơn vị; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [PhotoElectricity]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lời Cự Tuyệt",
+          "abName": "Cư Dân của Metropolaris",
+          "desc": "[WhenUse] Nhận Sức Mạnh Giao Tranh bằng Lượng [Charge] trên chủ thể (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] Nhận +<style=\"highlight\">5</style> Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa <style=\"highlight\">10</style> Tầng [Charge] trên chủ thể; rồi gán 5 [ChargeForceField] cho chủ thể và cho (1 + (Tầng [Charge] đã tiêu thụ / 2)) đồng minh ngẫu nhiên khác (tối đa <style=\"highlight\">7</style> đơn vị; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2061021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lời Cự Tuyệt",
+          "abName": "Cư Dân của Metropolaris",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n+15% sát thương gây lên mục tiêu có Khiên\n[BeforeAttack] Sức Mạnh Gốc -6 với mỗi Xu Nứt (tối đa -12)\n[BeforeAttack] Nhận +3 Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa 6 Tầng [Charge]; rồi gán 7 [ChargeForceField] cho chủ thể và cho (1 + (Tầng [Charge] đã tiêu thụ / 2)) đồng minh ngẫu nhiên khác (tối đa 5 đơn vị; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ tối đa 10 Tầng [Charge]; rồi Xu này nhận Sức Mạnh Tổng bằng số Tầng đã tiêu thụ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lời Cự Tuyệt",
+          "abName": "Cư Dân của Metropolaris",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n+<style=\"highlight\">20</style>% sát thương gây lên mục tiêu có Khiên\n[BeforeAttack] Sức Mạnh Gốc -6 với mỗi Xu Nứt (tối đa -12)\n<style=\"highlight\">[BeforeAttack] Nhận Sức Mạnh Tổng bằng Lượng [Charge] trên chủ thể (tối đa 2)</style>\n[BeforeAttack] Nhận +<style=\"highlight\">4</style> Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa <style=\"highlight\">8</style> Tầng [Charge] trên chủ thể; rồi gán 7 [ChargeForceField] cho chủ thể và cho (1 + (Tầng [Charge] đã tiêu thụ / 2)) đồng minh ngẫu nhiên khác (tối đa <style=\"highlight\">6</style> đơn vị; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ tối đa 10 Tầng [Charge]; rồi Xu này nhận Sức Mạnh Tổng bằng số Tầng đã tiêu thụ"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [PhotoElectricity]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lời Cự Tuyệt",
+          "abName": "Cư Dân của Metropolaris",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\n+<style=\"highlight\">25</style>% sát thương gây lên mục tiêu có Khiên\n[BeforeAttack] Sức Mạnh Gốc -6 với mỗi Xu Nứt (tối đa -12)\n[BeforeAttack] Nhận Sức Mạnh Tổng bằng Lượng [Charge] trên chủ thể (tối đa <style=\"highlight\">3</style>)\n[BeforeAttack] Nhận +<style=\"highlight\">5</style> Tầng [Charge]\n[BeforeAttack] Tiêu thụ tối đa <style=\"highlight\">10</style> Tầng [Charge] trên chủ thể; rồi gán 7 [ChargeForceField] cho chủ thể và cho (1 + (Tầng [Charge] đã tiêu thụ / 2)) đồng minh ngẫu nhiên khác (tối đa <style=\"highlight\">7</style> đơn vị; làm tròn xuống)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Tiêu thụ tối đa 10 Tầng [Charge]; rồi Xu này nhận Sức Mạnh Tổng bằng số Tầng đã tiêu thụ"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

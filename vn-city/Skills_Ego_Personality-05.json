@@ -1033,6 +1033,382 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2051011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hố Đen Vô Vọng",
+          "abName": "Huyệt Nhân",
+          "desc": "Ưu tiên nhắm vào đối tượng có lượng HP thấp nhất khi mục tiêu ban đầu bị hạ gục trước khi Kỹ Năng kết thúc. (Áp dụng cho Bộ Phận khi ở Ải Chuyên Sâu)\n\nSức Mạnh Giao Tranh +1 với mỗi 4 (Lượng [Breath] + Tầng [Charge]) trên chủ thể (tối đa 5)\nSức Mạnh Giao Tranh +2 với mỗi [BulletHole] trên chủ thể\n\n[BeforeAttack] Nhận +3 Tầng [Breath] +5 Tầng [Charge]\n[BeforeAttack] Tiêu thụ 3(5 - [BulletHole] trên chủ thể) SP để nhận lên tới tối đa lượng [BulletHole]\n\n[EndSkill] Nhận 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Xu này chỉ đánh trúng mục tiêu chính"
+                },
+                {
+                  "desc": "Tiêu thụ 1 [BulletHole]"
+                },
+                {
+                  "desc": "+10% sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "Nếu đây là Xu đầu:\n- Gây +(Tầng [Charge] x 5)% sát thương (tối đa 100%)\n- Gây +(Lượng x Tầng [Breath])% sát thương khi Trí Mạng (tối đa 100%)\n- Chỉ áp dụng cho Xu này: đổi Kháng Đâm của mục tiêu thành Chí Tử"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]"
+                },
+                {
+                  "desc": "[EndCoin] Khi có 1+ [BulletHole], Tái Sử Dụng Xu (4 lần mỗi Kỹ Năng)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "+30% sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hố Đen Vô Vọng",
+          "abName": "Huyệt Nhân",
+          "desc": "Ưu tiên nhắm vào đối tượng có lượng HP thấp nhất khi mục tiêu ban đầu bị hạ gục trước khi Kỹ Năng kết thúc. (Áp dụng cho Bộ Phận khi ở Ải Chuyên Sâu)\n\nSức Mạnh Giao Tranh +1 với mỗi 4 (Tầng [Breath] + Tầng [Charge]) trên chủ thể (tối đa <style=\"highlight\">7</style>)\nSức Mạnh Giao Tranh +2 với mỗi [BulletHole] trên chủ thể\n\n[BeforeAttack] Nhận +3 Tầng [Breath] và +5 Tầng [Charge]\n[BeforeAttack] Tiêu thụ 3(5 - [BulletHole] trên chủ thể) SP để nhận lên tới tối đa lượng [BulletHole]\n\n[EndSkill] Nhận 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Xu này chỉ đánh trúng mục tiêu chính<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Tiêu 1 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+15%</style> sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "Nếu đây là Xu đầu:\n- Gây +(Tầng [Charge] x 5)% sát thương (tối đa 100%)\n- Gây +(Lượng x Tầng [Breath])% sát thương khi Trí Mạng (tối đa 100%)\n- Chỉ áp dụng cho Xu này: đổi Kháng Đâm của mục tiêu thành Chí Tử<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Sức Mạnh Xu Tổng +1</style>"
+                },
+                {
+                  "desc": "[EndCoin] Ở mốc 1+ [BulletHole], Tái Sử Dụng Xu này (4 lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+50%</style> sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Khi chỉ tấn công 1 mục tiêu, +50% sát thương gây ra (trong Ải Chuyên Sâu, một Bộ Phận)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hố Đen Vô Vọng",
+          "abName": "Huyệt Nhân",
+          "desc": "Ưu tiên nhắm vào đối tượng có lượng HP thấp nhất khi mục tiêu ban đầu bị hạ gục trước khi Kỹ Năng kết thúc. (Áp dụng cho Bộ Phận khi ở Ải Chuyên Sâu)\n\nSức Mạnh Giao Tranh +1 với mỗi 4 (Lượng [Breath] + Tầng [Charge]) trên chủ thể (tối đa <style=\"highlight\">10</style>)\nSức Mạnh Giao Tranh +2 với mỗi [BulletHole] trên chủ thể\n\n[BeforeAttack] Nhận +3 Tầng [Breath] và +5 Tầng [Charge]\n[BeforeAttack] Tiêu thụ 3(5 - [BulletHole] trên chủ thể) SP để nhận lên tới tối đa lượng [BulletHole]\n\n[EndSkill] Nhận 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Xu này chỉ đánh trúng mục tiêu chính<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Tiêu thụ 1 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+20%</style> sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "Nếu đây là Xu đầu:\n- +(Tầng [Charge] x 5)% sát thương gây ra (tối đa 100%)\n- +(Lượng [Breath] x Tầng)% sát thương khi Trí Mạng (tối đa 100%)\n- Chỉ áp dụng cho Xu này: đổi Kháng Đâm của mục tiêu thành Chí Tử<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [PenetrateTakeDamageUp] (một lần mỗi Kỹ Năng)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Tổng Sức Mạnh Xu +1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndCoin] Khi có 1+ [BulletHole], Tái Sử Dụng Xu (4 lần mỗi Kỹ Năng)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+50% sát thương gây ra khi Trí Mạng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] +<style=\"highlight\">100</style>% sát thương gây ra khi đánh đơn mục tiêu (Áp dụng với Lõi nếu trong Ải Chuyên Sâu)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Sức Mạnh Xu +1 với mỗi 4 Tầng [Charge] (tối đa 5)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2051021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hố Đen Vô Vọng",
+          "abName": "Huyệt Nhân",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nKỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ (kể cả Kỹ Năng Đỡ Đòn Giao Tranh)\nSức Mạnh Giao Tranh +1 với mỗi 4 (Tầng [Breath] + Tầng [Charge]) trên chủ thể (tối đa 5)\n[BeforeAttack] Nếu chủ thể không có [BulletHole], nhận 1 [BulletHole]\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Nhận 5 [BlackWingHole]"
+                },
+                {
+                  "desc": "[OnStartCoin] Nhận +5 Tầng [Charge]"
+                },
+                {
+                  "desc": "[OnStartCoin] Nhận 5 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Xu này có ([BulletHole] trên chủ thể x 20)% tỷ lệ lật Úp bất kể SP của chủ thể"
+                },
+                {
+                  "desc": "[CoinHead]\n- Xu này không đánh trúng"
+                },
+                {
+                  "desc": "- [EndCoin] Nhận 5 [Breath]"
+                },
+                {
+                  "desc": "- [EndCoin] Nhận +3 Tầng [Breath]"
+                },
+                {
+                  "desc": "- [EndCoin] Nhận 2 [BulletHole]"
+                },
+                {
+                  "desc": "- [EndCoin] Hoàn trả một nửa lượng tài nguyên E.G.O Kỹ Năng này đã tiêu thụ (làm tròn xuống)"
+                },
+                {
+                  "desc": "[CoinTail]\n- Gây +(Tầng [Charge] x 3)% sát thương (tối đa 60%)"
+                },
+                {
+                  "desc": "- Gây +70% sát thương khi Trí Mạng"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Gây sát thương Đâm bằng 10% of tổng sát thương của Xu này"
+                },
+                {
+                  "desc": "- [EndCoin] Tiêu thụ toàn bộ [BulletHole] trên chủ thể"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hố Đen Vô Vọng",
+          "abName": "Huyệt Nhân",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nKỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ (kể cả Kỹ Năng Đỡ Đòn Giao Tranh)\nSức Mạnh Giao Tranh +1 với mỗi 4 (Tầng [Breath] + Tầng [Charge]) trên chủ thể (tối đa <style=\"highlight\">7</style>)\n\n<style=\"highlight\">[BeforeAttack] When attacking just 1 target, deal +100% sát thương (in Focused Encounters, a Core)</style>\n[BeforeAttack] Nếu chủ thể không có [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Nhận 5 [BlackWingHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Nhận +5 Tầng [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Nhận 5 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Xu này có ([BulletHole] trên chủ thể x 20)% tỷ lệ lật Úp bất kể SP của chủ thể<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- Xu này không đánh trúng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Nhận 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Nhận +3 Tầng [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Nhận 2 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Hoàn trả một nửa lượng tài nguyên E.G.O Kỹ Năng này đã tiêu thụ (làm tròn xuống)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- Gây +(Tầng [Charge] x <style=\"highlight\">4)% sát thương (tối đa 80%)</style>"
+                },
+                {
+                  "desc": "- Deal <style=\"highlight\">+100%</style> sát thương khi Trí Mạng"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Gây sát thương Đâm bằng <style=\"highlight\">15</style>% of tổng sát thương của Xu này"
+                },
+                {
+                  "desc": "- [EndCoin] Tiêu thụ toàn bộ [BulletHole] trên chủ thể<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hố Đen Vô Vọng",
+          "abName": "Huyệt Nhân",
+          "desc": "[CantIdentify]\nTấn Công Ngẫu Nhiên\nKỹ năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu (kể cả Kỹ Năng Đỡ Đòn Giao Tranh)\nSức Mạnh Giao Tranh +1 với mỗi 4 (Lượng [Breath] + Tầng [Charge]) trên chủ thể (tối đa <style=\"highlight\">10</style>)\n\n[BeforeAttack] +<style=\"highlight\">200</style>% sát thương gây ra khi đánh đơn mục tiêu (Áp dụng với Lõi nếu trong Ải Chuyên Sâu)\n<style=\"highlight\">[BeforeAttack] Nhận Sức Mạnh Tổng +([BulletHole] của chủ thể)</style>\n[BeforeAttack] Nếu chủ thể không có [BulletHole], nhận 1 [BulletHole]\n[BeforeAttack] Sức Mạnh Gốc -2 với mỗi Xu Nứt (tối đa -4)\n<style=\"highlight\">[EnemyKill] Hồi 5 SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Nhận 5 [BlackWingHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Nhận +5 Tầng [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Nhận 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gây 1 [Binding] vào lượt kế</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Xu này có (Số [BulletHole] của chủ thể x 20)%  tỷ lệ lật Úp bất kể SP của chủ thể<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- Xu này không đánh trúng<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Nhận 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Nhận +3 Tầng [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EndCoin] Loại bỏ 1 hiệu ứng bất lợi ngẫu nhiên có thể loại bỏ trên chủ thể</style>"
+                },
+                {
+                  "desc": "- [EndCoin] Nhận 2 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Hoàn lại một nửa tài nguyên E.G.O để dùng cho Kỹ Năng này (làm tròn xuống)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- +(Tầng [Charge] x <style=\"highlight\">5)% % sát thương gây ra (tối đa 100%)</style>"
+                },
+                {
+                  "desc": "- +<style=\"highlight\">130</style>% sát thương gây ra khi Trí Mạng"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Gây sát thương Đâm bằng với <style=\"highlight\">20</style>% tổng sát thương của Xu này"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EnemyKill] Hồi 5% HP</style>"
+                },
+                {
+                  "desc": "- [EndCoin] Tiêu thụ toàn bộ [BulletHole] của chủ thể<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

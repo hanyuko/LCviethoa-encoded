@@ -3496,7 +3496,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Đến Và Đeo Thử Đôi Này Đi",
+          "name": "Lại Đây Và Thử Giày Đi",
           "desc": "[WhenUse]\n- Ở mốc 12+ Tầng [ChargeNoirAlly], tiêu thụ 6 Tầng [ChargeNoirAlly] để nhận Sức Mạnh Giao Tranh +1 và +10% sát thương gây ra\n- Nhận +2 Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 20 [RealisationAlly] để nhận các hiệu ứng sau:\n- Sức Mạnh Giao Tranh +1\n- Gây +([RealisationAlly] đã tiêu thụ)% sát thương (tối đa 20%)",
           "coinlist": [
             {
@@ -3518,7 +3518,7 @@
         },
         {
           "level": 2,
-          "name": "Đến Và Đeo Thử Đôi Này Đi",
+          "name": "Lại Đây Và Thử Giày Đi",
           "desc": "[WhenUse]\n- Ở mốc 12+ Tầng [ChargeNoirAlly], tiêu thụ 6 Tầng [ChargeNoirAlly] để nhận Sức Mạnh Giao Tranh +1 và +10% sát thương gây ra\n- Nhận +2 Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 20 [RealisationAlly] để nhận các hiệu ứng sau:\n- Sức Mạnh Giao Tranh +1\n- Gây +([RealisationAlly] đã tiêu thụ)% sát thương (tối đa 20%)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -3546,7 +3546,7 @@
         },
         {
           "level": 4,
-          "name": "Đến Và Đeo Thử Đôi Này Đi",
+          "name": "Lại Đây Và Thử Giày Đi",
           "desc": "[WhenUse]\n- Ở mốc 12+ Tầng [ChargeNoirAlly], tiêu thụ 6 Tầng [ChargeNoirAlly] để nhận <style=\"highlight\">Sức Mạnh Tổng +1</style> và <style=\"highlight\">+20%</style> sát thương gây ra\n- Nhận +<style=\"highlight\">4</style> Tầng [ChargeNoirAlly]\n<style=\"highlight\">[WhenUse] Ở mốc 50+ [NoirSuitAlly], +15% sát thương gây ra</style>\n[WhenUse] Tiêu thụ tối đa 20 [RealisationAlly] để nhận các hiệu ứng sau:\n- <style=\"highlight\">Sức Mạnh Tổng +1</style>\n- Gây +([RealisationAlly] đã tiêu thụ)% sát thương (tối đa 20%)",
           "coinlist": [
             {
@@ -3671,7 +3671,7 @@
         {
           "level": 3,
           "name": "Chậc. Lũ Khách Đần. Chúng Bây Làm Nhăn Mặt Hàng Cả Rồi!",
-          "desc": "[DuelCounter]\n[StartBattle]\n- Ở mốc 60+ [NoirSuitAlly], chuyển hiệu ứng đó thành [RealisationAlly] vào lượt kế\n- Nếu có ít hơn 60 [RealisationAlly], chuyển hiệu ứng đó thành [NoirSuitAlly] vào lượt kế\n<style=\"highlight\">[BeforeUse] Ở mốc 60+ [RealisationAlly], kích hoạt dưới dạng \"Nhất Cước - Couture Multiple\" (một lần mỗi lượt)\n- Nếu hiệu ứng trên đã được kích hoạt, tiêu thụ toàn bộ [RealisationAlly] khi Kết Đòn</style>\n[WhenUse] Nhận +2 Tầng [ChargeNoirAlly] (2 lần mỗi lượt)",
+          "desc": "[DuelCounter]\n[StartBattle]\n- Ở mốc 60+ [NoirSuitAlly], chuyển hiệu ứng đó thành [RealisationAlly] vào lượt kế\n- Nếu có ít hơn 60 [RealisationAlly], chuyển hiệu ứng đó thành [NoirSuitAlly] vào lượt kế\n<style=\"highlight\">[BeforeUse] Ở mốc 60+ [RealisationAlly], kích hoạt dưới dạng \"Đơn Cước - Couture Multiple\" (một lần mỗi lượt)\n- Nếu hiệu ứng trên đã được kích hoạt, tiêu thụ toàn bộ [RealisationAlly] khi Kết Đòn</style>\n[WhenUse] Nhận +2 Tầng [ChargeNoirAlly] (2 lần mỗi lượt)",
           "coinlist": [
             {},
             {
@@ -3689,7 +3689,7 @@
         {
           "level": 4,
           "name": "Chậc. Lũ Khách Đần. Chúng Bây Làm Nhăn Mặt Hàng Cả Rồi!",
-          "desc": "[DuelCounter]\n[StartBattle]\n- Ở mốc 60+ [NoirSuitAlly], chuyển hiệu ứng đó thành [RealisationAlly] vào lượt kế\n- Nếu có ít hơn 60 [RealisationAlly], chuyển hiệu ứng đó thành [NoirSuitAlly] vào lượt kế\n[BeforeUse] Ở mốc 60+ [RealisationAlly], kích hoạt dưới dạng \"Nhất Cước - Couture Multiple\" (một lần mỗi lượt)\n- Nếu hiệu ứng trên đã được kích hoạt, tiêu thụ toàn bộ [RealisationAlly] khi Kết Đòn\n<style=\"highlight\">[WhenUse] Ở mốc 3+/5+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1/+2</style> \n[WhenUse] Nhận +2 Tầng [ChargeNoirAlly] (2 lần mỗi lượt)",
+          "desc": "[DuelCounter]\n[StartBattle]\n- Ở mốc 60+ [NoirSuitAlly], chuyển hiệu ứng đó thành [RealisationAlly] vào lượt kế\n- Nếu có ít hơn 60 [RealisationAlly], chuyển hiệu ứng đó thành [NoirSuitAlly] vào lượt kế\n[BeforeUse] Ở mốc 60+ [RealisationAlly], kích hoạt dưới dạng \"Đơn Cước - Couture Multiple\" (một lần mỗi lượt)\n- Nếu hiệu ứng trên đã được kích hoạt, tiêu thụ toàn bộ [RealisationAlly] khi Kết Đòn\n<style=\"highlight\">[WhenUse] Ở mốc 3+/5+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1/+2</style> \n[WhenUse] Nhận +2 Tầng [ChargeNoirAlly] (2 lần mỗi lượt)",
           "coinlist": [
             {},
             {
@@ -3711,7 +3711,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Nhất Cước - Couture Multiple",
+          "name": "Đơn Cước - Couture Multiple",
           "desc": "[WhenUse]\n- Tiêu thụ tối đa 20 Tầng [ChargeNoirAlly] để +(Tầng [ChargeNoirAlly] đã tiêu thụ)% sát thương (tối đa 20%)\n- Nhận +3 Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 60 [RealisationAlly] để nhận các hiệu ứng sau:\n- Nếu đã tiêu thụ 60+ [RealisationAlly], Sức Mạnh Tổng +1\n- Gây +([RealisationAlly] đã tiêu thụ / 3)% sát thương (tối đa 20%)",
           "coinlist": [
             {
@@ -3752,7 +3752,7 @@
         },
         {
           "level": 4,
-          "name": "Nhất Cước - Couture Multiple",
+          "name": "Đơn Cước - Couture Multiple",
           "desc": "[WhenUse]\n- Tiêu thụ tối đa 20 Tầng [ChargeNoirAlly] để +(Tầng [ChargeNoirAlly] đã tiêu thụ)% sát thương (tối đa 20%)\n- Nhận +<style=\"highlight\">5</style> Tầng [ChargeNoirAlly]\n[WhenUse] Tiêu thụ tối đa 60 [RealisationAlly] để nhận các hiệu ứng sau:\n- Sức Mạnh Tổng +1 <style=\"highlight\">với mỗi 30</style> [RealisationAlly] đã tiêu thụ <style=\"highlight\">(tối đa 2)</style>\n- Gây +([RealisationAlly] đã tiêu thụ / 3)% sát thương (tối đa 20%)",
           "coinlist": [
             {

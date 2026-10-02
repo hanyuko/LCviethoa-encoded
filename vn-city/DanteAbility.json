@@ -12,8 +12,13 @@
     },
     {
       "id": 70101,
-      "desc": "- Trong 3 lượt, gộp Cấp Công Kích và Cấp Phòng Thủ của toàn bộ đơn vị trên sân và chia thành giá trị trung bình.",
-      "rawDesc": "Gộp Cấp Công Kích và Cấp Phòng Thủ của toàn bộ đơn vị trên sân và chia thành giá trị trung bình."
+      "desc": "- Trong 3 lượt, đặt Cấp Công Kích và Cấp Phòng Thủ của toàn bộ đơn vị thành giá trị trung bình của từng chỉ số tương ứng.",
+      "rawDesc": "Đặt Cấp Công Kích và Cấp Phòng Thủ của toàn bộ đơn vị thành giá trị trung bình của từng chỉ số tương ứng."
+    },
+    {
+      "id": 50101,
+      "desc": "- Gán Hiệu Ứng:\n • Trong lượt này, toàn bộ Xu Kỹ Năng có 100% tỷ lệ lật Ngửa hoặc Úp tùy theo bên được chọn\n • Ưu tiên hiệu ứng này so với các Kỹ Năng, Nội Tại và hiệu ứng khác trên chủ thể\n- Hoàn tác việc nhắm mục tiêu.\n- Không thể chọn đơn vị đã bị giết, không thể kiểm soát, hoặc bất động.",
+      "rawDesc": "Chọn 1 mặt Xu để nhận 100% tỷ lệ lật Ngửa hoặc Úp cho toàn bộ Xu Kỹ Năng"
     }
   ]
 }

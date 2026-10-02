@@ -859,7 +859,7 @@
         {
           "level": 4,
           "name": "Chuẩn Bị Thu Thuế",
-          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n<style=\"highlight\">[WhenUse] Gain Sức Mạnh Giao Tranh +1 với mỗi 6 [Vibration] trên mục tiêu (tối đa 2)</style>\n[WhenUse] Nhận +3 [Aggro] cho Ô Kỹ Năng này vào lượt kế",
+          "desc": "[WhenUse] Nhận +2 Tầng [Vibration]\n<style=\"highlight\">[WhenUse] Nhận Sức Mạnh Giao Tranh +1 với mỗi 6 [Vibration] trên mục tiêu (tối đa 2)</style>\n[WhenUse] Nhận +3 [Aggro] cho Ô Kỹ Năng này vào lượt kế",
           "coinlist": [
             {
               "coindescs": [
@@ -1551,7 +1551,7 @@
         {
           "level": 1,
           "name": "Sancho Huyết Giáp Thuật Biến Thể Thứ 15 - Chuẩn Bị Cho Hồi kết",
-          "desc": "[DuelCounter]\n[StartBattle] Với (3 + (Cộng Hưởng cao nhất / 2)) đồng minh có HP thấp nhất: gán (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] với mỗi 40 [BloodDinner_Common_Accumulation], sau đó tiêu thụ một nửa [BloodArmorPersonalityFirst] trên chủ thể. (một lần mỗi đồng minh; làm tròn xuống)",
+          "desc": "[DuelCounter]\n[StartBattle] Với (3 + (số lượng Cộng Hưởng cao nhất / 2)) đồng minh có HP thấp nhất: gán (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] với mỗi 40 [BloodDinner_Common_Accumulation], sau đó tiêu thụ một nửa [BloodArmorPersonalityFirst] trên chủ thể. (một lần mỗi đồng minh; làm tròn xuống)",
           "coinlist": [
             {},
             {
@@ -1569,7 +1569,7 @@
         {
           "level": 4,
           "name": "Sancho Huyết Giáp Thuật Biến Thể Thứ 15 - Chuẩn Bị Cho Hồi kết",
-          "desc": "[DuelCounter]\n[StartBattle] Với (3 + (Cộng Hưởng cao nhất / 2)) đồng minh có HP thấp nhất: gán (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] với mỗi 40 [BloodDinner_Common_Accumulation], sau đó tiêu thụ một nửa [BloodArmorPersonalityFirst] trên chủ thể. (một lần mỗi đồng minh; làm tròn xuống)",
+          "desc": "[DuelCounter]\n[StartBattle] Với (3 + (số lượng Cộng Hưởng cao nhất / 2)) đồng minh có HP thấp nhất: gán (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] với mỗi 40 [BloodDinner_Common_Accumulation], sau đó tiêu thụ một nửa [BloodArmorPersonalityFirst] trên chủ thể. (một lần mỗi đồng minh; làm tròn xuống)",
           "coinlist": [
             {},
             {
@@ -3240,6 +3240,467 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Gây 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Thánh Giáng Trần",
+          "desc": "[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1\n[WhenUse] Gán +2 Tầng [Charge] cho chủ thể và 1 Danh Tính đồng minh khác thuộc \"Le Noir\" có Tầng [Charge] thấp nhất (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +4 Tầng [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Đinh Thánh Giáng Trần",
+          "desc": "<style=\"highlight\">[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 (Lượng [Vibration] + [NoirNailDonQuixote]) trên mục tiêu (tối đa 2)</style>\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 <style=\"highlight\">và +20% sát thương gây ra</style>\n[WhenUse] Gán +<style=\"highlight\">3</style> Tầng [Charge] cho chủ thể và 1 Danh Tính đồng minh khác thuộc \"Le Noir\" có Tầng [Charge] thấp nhất (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">5</style> Tầng [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đinh Thánh Giáng Trần",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 (Lượng [Vibration] + [NoirNailDonQuixote]) trên mục tiêu (tối đa <style=\"highlight\">3</style>)\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 và +<style=\"highlight\">40</style>% sát thương gây ra\n[WhenUse] Gán +<style=\"highlight\">4</style> Tầng [Charge] cho chủ thể và 1 Danh Tính đồng minh khác thuộc \"Le Noir\" có Tầng [Charge] thấp nhất (một lần mỗi lượt)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">6</style> Tầng [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Đinh Thánh Triệu Hoán",
+          "desc": "[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +6 Tầng [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Đinh Thánh Triệu Hoán",
+          "desc": "<style=\"highlight\">[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 (Lượng [Vibration] + [NoirNailDonQuixote]) trên mục tiêu (tối đa 2)</style>\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 <style=\"highlight\">và +20% sát thương gây ra</style>\n<style=\"highlight\">[BeforeAttack] Xu cuối nhận Sức Mạnh Tổng +1 với mỗi số lượng Cộng Hưởng cao nhất (tối đa 4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">7</style> Tầng [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Đinh Thánh Triệu Hoán",
+          "desc": "[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 (Lượng [Vibration] + [NoirNailDonQuixote]) trên mục tiêu (tối đa <style=\"highlight\">3</style>)\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 và +<style=\"highlight\">30</style>% sát thương gây ra\n[BeforeAttack] Xu cuối nhận Sức Mạnh Tổng +1 với mỗi số lượng Cộng Hưởng cao nhất (tối đa 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">8</style> Tầng [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ta Thanh Tẩy Ô Uế Hạ Phàm!",
+          "desc": "[StartBattle] Nhận 3 [OathFieldDonQuixote] (một lần mỗi lượt)\n[StartBattle] Gán 2 [AttackUp] và 2 [DefenseUp] cho chủ thể và 1 Danh Tính đồng minh khác thuộc \"Le Noir\" có Tốc Độ cao nhất (một lần mỗi lượt)\n[WhenUse] Nếu mục tiêu có 6+ (Lượng [Vibration] + [NoirNailDonQuixote]), Sức Mạnh Xu +1\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 và +20% sát thương gây ra\n[BeforeAttack] Xu cuối nhận Sức Mạnh Tổng +1 với mỗi số lượng Cộng Hưởng cao nhất (tối đa 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +3 Tầng [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [NoirNailDonQuixote], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ta Thanh Tẩy Ô Uế Hạ Phàm!",
+          "desc": "[StartBattle] Nhận 3 [OathFieldDonQuixote] (một lần mỗi lượt)\n[StartBattle] Gán 2 [AttackUp] và 2 [DefenseUp] cho chủ thể và 1 Danh Tính đồng minh khác thuộc \"Le Noir\" có Tốc Độ cao nhất (một lần mỗi lượt)\n[WhenUse] <style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 (Lượng [Vibration] + [NoirNailDonQuixote]) trên mục tiêu (tối đa 2)</style>\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 và +<style=\"highlight\">40</style>% sát thương gây ra\n[BeforeAttack] Xu cuối nhận Sức Mạnh Tổng +1 với mỗi số lượng Cộng Hưởng cao nhất (tối đa 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">4</style> Tầng [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có 3+ [NoirNailDonQuixote], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Một Khắc Chiêm Ngẫm",
+          "desc": "[StartBattle] Nhận 3 [OathFieldDonQuixote] (một lần mỗi lượt)\n[StartBattle] Hồi 4 SP cho chủ thể và 1 Danh Tính đồng minh khác thuộc \"Le Noir\" có SP thấp nhất (một lần mỗi lượt)\n[StartBattle] Nhận +2 Tầng [ChargeNoirAlly] (một lần mỗi lượt)\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +2 Tầng [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Một Khắc Chiêm Ngẫm",
+          "desc": "[StartBattle] Nhận 3 [OathFieldDonQuixote] (một lần mỗi lượt)\n[StartBattle] Hồi <style=\"highlight\">5</style> SP cho chủ thể và 1 Danh Tính đồng minh khác thuộc \"Le Noir\" có SP thấp nhất (một lần mỗi lượt)\n<style=\"highlight\">[StartBattle] Gán các hiệu ứng sau dựa trên [NoirShieldUpDonQuixote] chủ thể đang có:\n- Ở mốc 100 [NoirShieldUpDonQuixote], đổi thành kích hoạt \"Búa Thánh Ngân Vang, Ta Thanh Tẩy[TabExplain] Ô Uế Hạ Phàm!\" (một lần mỗi lượt; có thể kích hoạt như Đòn Một Chiều)\n- Khi có ít hơn 100 [NoirShieldUpDonQuixote], nhận Khiên bằng ([NoirShieldUpDonQuixote] / 10)% HP tối đa của chủ thể (một lần mỗi lượt)</style>\n[StartBattle] Nhận +<style=\"highlight\">3</style> Tầng [ChargeNoirAlly] (một lần mỗi lượt)\n<style=\"highlight\">[WhenUse] Nếu mục tiêu có 6+ (Lượng [Vibration] + [NoirNailDonQuixote]), Sức Mạnh Xu +1</style>\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 <style=\"highlight\">và +10% sát thương gây ra</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">3</style> Tầng [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Một Khắc Chiêm Ngẫm",
+          "desc": "[StartBattle] Nhận 3 [OathFieldDonQuixote] (một lần mỗi lượt)\n[StartBattle] Hồi <style=\"highlight\">6</style> SP cho chủ thể và 1 Danh Tính đồng minh khác thuộc \"Le Noir\" có SP thấp nhất (một lần mỗi lượt)\n[StartBattle] Gán các hiệu ứng sau dựa trên [NoirShieldUpDonQuixote] chủ thể đang có:\n- Ở mốc 100 [NoirShieldUpDonQuixote], đổi thành kích hoạt \"Búa Thánh Ngân Vang, Ta Thanh Tẩy[TabExplain] Ô Uế Hạ Phàm!\" (một lần mỗi lượt; có thể kích hoạt như Đòn Một Chiều)\n- Khi có ít hơn 100 [NoirShieldUpDonQuixote], nhận Khiên bằng ([NoirShieldUpDonQuixote] / 10)% HP tối đa của chủ thể (một lần mỗi lượt)\n[StartBattle] Nhận +<style=\"highlight\">4</style> Tầng [ChargeNoirAlly] (một lần mỗi lượt)\n[WhenUse] <style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 (Lượng [Vibration] + [NoirNailDonQuixote]) trên mục tiêu (tối đa 2)</style>\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 và +<style=\"highlight\">20</style>% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây +2 Tầng [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">4</style> Tầng [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Phán Quyết!",
+          "desc": "[CantDuel]\nKỹ Năng này có những đặc tính sau::\n- Không kích hoạt Kỹ Năng Phòng Thủ\n- Không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n- HP của mục tiêu không thể giảm xuống dưới 1 cho đến khi Kỹ Năng này kết thúc\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 (Lượng [Vibration] + [NoirNailDonQuixote]) trên mục tiêu (tối đa 2)\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 và +20% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Phán Quyết!",
+          "desc": "[CantDuel]\nKỹ Năng này có những đặc tính sau::\n- Không kích hoạt Kỹ Năng Phòng Thủ\n- Không thể Tái Sử Dụng dưới bất kỳ hình thức nào\n- HP của mục tiêu không thể giảm xuống dưới 1 cho đến khi Kỹ Năng này kết thúc\n[WhenUse] Sức Mạnh Tổng +1 với mỗi 4 (Lượng [Vibration] + [NoirNailDonQuixote]) trên mục tiêu (tối đa <style=\"highlight\">3</style>)\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1 và +<style=\"highlight\">40</style>% sát thương gây ra",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Búa Thánh Ngân Vang, Ta Thanh Tẩy Ô Uế Hạ Phàm!",
+          "desc": "Ngay cả khi kích hoạt thông qua Kỹ Năng Phòng Thủ, Kỹ Năng này vẫn được coi là một Kỹ Năng Tấn Công; Kỹ Năng này không chịu ảnh hưởng từ các hiệu ứng thay đổi Sức Mạnh Phòng Thủ, đổi lại sẽ bị các hiệu ứng thay đổi Sức Mạnh Tấn Công tác động\n[StartBattle] Gán 2 [AttackUp] và 2 [DefenseUp] cho toàn bộ Danh Tính đồng minh thuộc \"Le Noir\" (một lần mỗi lượt)\n[WhenUse] Ở mốc 6+ tổng (Lượng [Vibration] + [NoirNailDonQuixote]) trên toàn bộ mục tiêu, Sức Mạnh Xu +1\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1\n[WhenUse] +30% sát thương gây ra với mỗi Phạm Vi Tấn Công vượt quá Số mục tiêu thực tế (trong Ải Chuyên Sâu, số Bộ Phận)\n[BeforeAttack] Xu cuối nhận Sức Mạnh Tổng +2 với mỗi số lượng Cộng Hưởng cao nhất (tối đa 8)\n[EndSkill] Tiêu thụ toàn bộ [NoirShieldUpDonQuixote]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +3 Tầng [ChargeNoirAlly] (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Áp dụng các hiệu ứng sau dựa trên Lớp [NoirNailDonQuixote]\n- Nếu mục tiêu có 3+ [NoirNailDonQuixote], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu\n- Gây sát thương Lười Biếng bằng ([NoirNailDonQuixote] trên mục tiêu x 1.5)% tổng sát thương của Xu này (tối đa 45%)\n- Tiêu thụ toàn bộ [NoirNailDonQuixote] trên mục tiêu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Búa Thánh Ngân Vang, Ta Thanh Tẩy Ô Uế Hạ Phàm!",
+          "desc": "Ngay cả khi kích hoạt qua Kỹ Năng Phòng Thủ, Kỹ Năng này vẫn được coi là một Kỹ Năng Tấn Công; Kỹ Năng này không chịu ảnh hưởng từ các hiệu ứng thay đổi Sức Mạnh Phòng Thủ, đổi lại sẽ bị các hiệu ứng thay đổi Sức Mạnh Tấn Công tác động\n[StartBattle] Gán 2 [AttackUp] và 2 [DefenseUp] cho toàn bộ Danh Tính đồng minh thuộc \"Le Noir\" (một lần mỗi lượt)\n[WhenUse] <style=\"highlight\">Sức Mạnh Xu +1 với mỗi 6 tổng (Lượng [Vibration] + [NoirNailDonQuixote]) trên toàn bộ mục tiêu (tối đa 2)</style>\n[WhenUse] Ở mốc 3+ Lượng [ChargeNoirAlly], Sức Mạnh Xu +1\n[WhenUse] +<style=\"highlight\">50</style>% sát thương gây ra với mỗi Phạm Vi Tấn Công vượt quá Số mục tiêu thực tế (trong Ải Chuyên Sâu, số Bộ Phận)\n[BeforeAttack] Xu cuối nhận Sức Mạnh Tổng +2 với mỗi số lượng Cộng Hưởng cao nhất (tối đa 8)\n[EndSkill] Tiêu thụ toàn bộ [NoirShieldUpDonQuixote]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gây <style=\"highlight\">2</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gây +3 Tầng [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">4</style> Tầng [ChargeNoirAlly] (một lần mỗi Xu)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Áp dụng các hiệu ứng sau dựa trên Lớp [NoirNailDonQuixote]\n- Nếu mục tiêu có 3+ [NoirNailDonQuixote], kích hoạt [VibrationExplosion]; rồi giảm 1 Tầng [Vibration] của mục tiêu\n- Gây sát thương Lười Biếng bằng ([NoirNailDonQuixote] trên mục tiêu x <style=\"highlight\">3</style>)% tổng sát thương của Xu này (tối đa <style=\"highlight\">90</style>%)\n- Tiêu thụ toàn bộ [NoirNailDonQuixote] trên mục tiêu"
                 }
               ]
             }
